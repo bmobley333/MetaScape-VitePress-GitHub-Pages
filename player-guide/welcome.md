@@ -2,7 +2,7 @@
 
 Welcome, adventurer! This portal is your gateway to the core rules, mechanics, and gear specifications of the **MetaScape** engine.
 
-MetaScape supports two distinct play experiences. Choose your system below to enter the rulebooks and companion guides.
+MetaScape supports two distinct play experiences. Choose your system below to enter the player guides and rulebooks.
 
 ---
 
@@ -13,8 +13,8 @@ MetaScape supports two distinct play experiences. Choose your system below to en
       <h2 style="margin-top: 0; color: var(--vp-c-brand);">⚡ Flex Engine</h2>
       <p>A narrative-driven, highly flexible TTRPG engine designed for quick setup and fluid action. Perfect for cinematic, rules-light storytelling.</p>
       <ul style="padding-left: 20px;">
-        <li><strong>Attributes</strong>: Might, Motion, Mind, Magic</li>
-        <li><strong>Focus</strong>: Narrative freedom & rapid checks</li>
+        <li><strong>Attributes</strong>: Might💪, Motion🏃, Mind👁️, Magic✨, Moxie🫀</li>
+        <li><strong>Focus</strong>: Narrative freedom & rapid attribute-die checks</li>
         <li><strong>Dice</strong>: Dynamic d20 + Attribute checks</li>
       </ul>
       <span style="display: inline-block; margin-top: 10px; font-weight: bold; color: var(--vp-c-brand);">Read Flex Guide &rarr;</span>
@@ -26,7 +26,7 @@ MetaScape supports two distinct play experiences. Choose your system below to en
       <h2 style="margin-top: 0; color: var(--vp-c-brand-next, #70a1ff);">🚀 Turbo Engine</h2>
       <p>A high-performance, automated rule engine built for tactical combat, deep character progression, and precise state management.</p>
       <ul style="padding-left: 20px;">
-        <li><strong>Attributes</strong>: Might, Motion, Mind, Magic, Moxie</li>
+        <li><strong>Attributes</strong>: Might💪, Motion🏃, Mind👁️, Magic✨, Moxie🫀</li>
         <li><strong>Focus</strong>: Tactical combat & weapon styles</li>
         <li><strong>Dice</strong>: Advanced Multi-Turbo curves</li>
       </ul>

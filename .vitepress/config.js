@@ -13,6 +13,7 @@ export default {
       '/docs/': [
         {
           text: 'Technical Architecture',
+          collapsed: false,
           items: [
             { text: 'System Manifesto', link: '/docs/getting-started' },
             { text: 'Variable Contracts', link: '/docs/architecture/contracts' }
@@ -21,6 +22,13 @@ export default {
       ],
       // THE PLAYER ZONE SIDEBAR (Swaps completely to user-friendly layouts)
       '/player-guide/': [
+        {
+          text: '👋 Overview',
+          collapsed: false,
+          items: [
+            { text: 'Welcome Portal', link: '/player-guide/welcome' }
+          ]
+        },
         {
           text: '⚡ Flex Engine Guide',
           collapsed: false,
