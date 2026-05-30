@@ -7,7 +7,7 @@ export default {
     nav: [
       { text: 'Player Portal', link: '/player-guide/welcome' },
       { text: 'Developer System', link: '/docs/getting-started' },
-      { text: 'Legacy MS3 (Old Flex)', link: 'https://sites.google.com/view/metascape/home' }
+      { text: 'Legacy MS3 (Old Flex)', link: '/player-guide/ms3/rules' }
     ],
     sidebar: {
       // THE DEVELOPER ZONE SIDEBAR (Keeps the technical reference intact)
@@ -46,6 +46,15 @@ export default {
             { text: 'Core Mechanics (Turbo)', link: '/player-guide/turbo/how-to-play' },
             { text: 'Powers & Class Manual', link: '/player-guide/turbo/powers' },
             { text: 'Using the Turbo Web App', link: '/player-guide/turbo/web-app-guide' }
+          ]
+        },
+        {
+          text: '📜 Legacy MS3 Engine',
+          collapsed: false,
+          items: [
+            { text: 'Rules Manual', link: '/player-guide/ms3/rules' },
+            { text: 'Character Sheets', link: '/player-guide/ms3/character-sheets' },
+            { text: 'Designer Portal', link: '/player-guide/ms3/designer' }
           ]
         }
       ]

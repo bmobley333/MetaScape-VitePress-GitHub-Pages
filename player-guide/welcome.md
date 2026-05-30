@@ -8,7 +8,7 @@ MetaScape supports two distinct play experiences. Choose your system below to en
 
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(220px, 1fr)); gap: 20px; margin-top: 24px;">
   
-  <a href="https://sites.google.com/view/metascape/home" target="_blank" rel="noopener noreferrer" style="text-decoration: none; color: inherit; display: block;">
+  <a href="./ms3/rules" style="text-decoration: none; color: inherit; display: block;">
     <div style="border: 1px solid #e2e8f0; border-radius: 12px; padding: 20px; background: rgba(226, 232, 240, 0.05); transition: transform 0.2s, border-color 0.2s; height: 100%;" class="portal-card">
       <h2 style="margin-top: 0; color: #a0aec0;">📜 Legacy Engine <span style="font-size: 0.6em; opacity: 0.8; vertical-align: middle;">(MS3)</span></h2>
       <p>The classic, retro system rules and historical campaign guides. Best for archiving old campaigns and referencing legacy mechanics.</p>
@@ -17,7 +17,7 @@ MetaScape supports two distinct play experiences. Choose your system below to en
         <li><strong>Focus</strong>: Retro rules-light campaign play</li>
         <li><strong>Dice</strong>: Classic roll checks & modifiers</li>
       </ul>
-      <span style="display: inline-block; margin-top: 10px; font-weight: bold; color: #a0aec0;">Visit Legacy Site &rarr;</span>
+      <span style="display: inline-block; margin-top: 10px; font-weight: bold; color: #a0aec0;">Read Legacy Guide &rarr;</span>
     </div>
   </a>
 
