@@ -6,7 +6,8 @@ export default {
   themeConfig: {
     nav: [
       { text: 'Player Portal', link: '/player-guide/welcome' },
-      { text: 'Developer System', link: '/docs/getting-started' }
+      { text: 'Developer System', link: '/docs/getting-started' },
+      { text: 'Legacy MS3 (Old Flex)', link: 'https://sites.google.com/view/metascape/home' }
     ],
     sidebar: {
       // THE DEVELOPER ZONE SIDEBAR (Keeps the technical reference intact)

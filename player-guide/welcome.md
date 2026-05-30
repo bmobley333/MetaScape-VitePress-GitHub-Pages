@@ -47,3 +47,9 @@ MetaScape supports two distinct play experiences. Choose your system below to en
 
 ## 📱 Companion Apps
 Both engines are designed to integrate with companion web apps to keep tracking simple and fast. Visit the **Using the Web App** guides in the sidebar to learn how to connect your character sheets!
+
+---
+
+## 📜 Legacy Reference
+Looking for the old rulebooks and campaigns? You can access resources for the previous system at the [Legacy MS3 (Old Flex) Portal](https://sites.google.com/view/metascape/home).
+
