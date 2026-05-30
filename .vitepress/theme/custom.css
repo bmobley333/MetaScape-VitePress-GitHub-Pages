@@ -1,4 +1,246 @@
 /* MetaScape Custom Theme Styles */
 :root {
-  /* Customize brand color or custom CSS variables here if needed */
+  --ms3-color: #d97706;
+  --ms3-rgb: 217, 119, 6;
+  --ms4-color: #0891b2;
+  --ms4-rgb: 8, 145, 178;
+  --ms5-color: #7c3aed;
+  --ms5-rgb: 124, 58, 237;
+  
+  --card-bg: rgba(0, 0, 0, 0.02);
+  --card-border: rgba(0, 0, 0, 0.08);
+  --card-shadow: 0 8px 30px rgba(0, 0, 0, 0.05);
+  --card-hover-bg: rgba(0, 0, 0, 0.03);
 }
+
+.dark {
+  --ms3-color: #fbbf24;
+  --ms3-rgb: 251, 191, 36;
+  --ms4-color: #22d3ee;
+  --ms4-rgb: 34, 211, 238;
+  --ms5-color: #a78bfa;
+  --ms5-rgb: 167, 139, 250;
+  
+  --card-bg: rgba(255, 255, 255, 0.02);
+  --card-border: rgba(255, 255, 255, 0.08);
+  --card-shadow: 0 8px 32px rgba(0, 0, 0, 0.25);
+  --card-hover-bg: rgba(255, 255, 255, 0.04);
+}
+
+/* Animations */
+@keyframes fadeInUp {
+  from {
+    opacity: 0;
+    transform: translateY(24px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+/* Portal Grid Layout */
+.portal-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+  gap: 24px;
+  margin: 40px 0;
+  width: 100%;
+}
+
+/* Custom Engine Card Base */
+.engine-card {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  border: 1px solid var(--card-border);
+  border-radius: 16px;
+  padding: 28px;
+  background: var(--card-bg);
+  backdrop-filter: blur(12px);
+  -webkit-backdrop-filter: blur(12px);
+  box-shadow: var(--card-shadow);
+  transition: transform 0.4s cubic-bezier(0.16, 1, 0.3, 1), 
+              border-color 0.4s, 
+              box-shadow 0.4s, 
+              background 0.4s;
+  height: 100%;
+  text-decoration: none !important;
+  color: inherit !important;
+  opacity: 0; /* Animated in via fadeInUp */
+}
+
+/* Staggered Animations */
+.engine-card.ms3-card {
+  --theme-color: var(--ms3-color);
+  --theme-rgb: var(--ms3-rgb);
+  animation: fadeInUp 0.6s cubic-bezier(0.16, 1, 0.3, 1) 0.1s forwards;
+}
+
+.engine-card.ms4-card {
+  --theme-color: var(--ms4-color);
+  --theme-rgb: var(--ms4-rgb);
+  animation: fadeInUp 0.6s cubic-bezier(0.16, 1, 0.3, 1) 0.2s forwards;
+}
+
+.engine-card.ms5-card {
+  --theme-color: var(--ms5-color);
+  --theme-rgb: var(--ms5-rgb);
+  animation: fadeInUp 0.6s cubic-bezier(0.16, 1, 0.3, 1) 0.3s forwards;
+}
+
+/* Card Hover States */
+.engine-card:hover {
+  transform: translateY(-8px) scale(1.015);
+  background: var(--card-hover-bg);
+  border-color: var(--theme-color);
+  box-shadow: 0 16px 40px -10px rgba(var(--theme-rgb), 0.25), 
+              0 0 0 1px rgba(var(--theme-rgb), 0.1) inset;
+}
+
+/* Card Badge Pill */
+.card-badge {
+  align-self: flex-start;
+  font-size: 0.75rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  padding: 4px 10px;
+  border-radius: 9999px;
+  background: rgba(var(--theme-rgb), 0.1);
+  color: var(--theme-color);
+  margin-bottom: 16px;
+  border: 1px solid rgba(var(--theme-rgb), 0.15);
+}
+
+/* Card Content Styling */
+.card-header h2 {
+  font-size: 1.5rem;
+  font-weight: 700;
+  margin-top: 0;
+  margin-bottom: 12px;
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  letter-spacing: -0.01em;
+}
+
+.card-desc {
+  font-size: 0.95rem;
+  color: var(--vp-c-text-2);
+  line-height: 1.5;
+  margin-bottom: 20px;
+}
+
+.card-features {
+  list-style: none !important;
+  padding: 0 !important;
+  margin: 0 0 24px 0 !important;
+  border-top: 1px dashed var(--vp-c-divider);
+  padding-top: 16px !important;
+}
+
+.card-features li {
+  font-size: 0.9rem;
+  margin-bottom: 8px;
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  color: var(--vp-c-text-1);
+}
+
+.card-features li strong {
+  color: var(--theme-color);
+}
+
+/* Custom bullet icon colored with theme */
+.card-features li::before {
+  content: "✦";
+  color: var(--theme-color);
+  font-weight: bold;
+  font-size: 0.85rem;
+}
+
+/* Custom CTA Button inside Card */
+.card-cta {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 6px;
+  width: 100%;
+  padding: 10px 16px;
+  border-radius: 10px;
+  background: linear-gradient(135deg, rgba(var(--theme-rgb), 0.08), rgba(var(--theme-rgb), 0.03));
+  border: 1px solid rgba(var(--theme-rgb), 0.2);
+  font-weight: 600;
+  font-size: 0.925rem;
+  color: var(--theme-color) !important;
+  transition: all 0.3s ease;
+  margin-top: auto;
+}
+
+.engine-card:hover .card-cta {
+  background: var(--theme-color);
+  color: #ffffff !important;
+  border-color: var(--theme-color);
+  box-shadow: 0 4px 12px rgba(var(--theme-rgb), 0.3);
+}
+
+.engine-card:hover .card-cta svg {
+  transform: translateX(4px);
+  stroke: #ffffff;
+}
+
+.card-cta svg {
+  transition: transform 0.3s ease;
+  stroke: var(--theme-color);
+}
+
+/* Secondary developer section styling */
+.dev-banner {
+  margin-top: 60px;
+  padding: 24px;
+  border-radius: 16px;
+  border: 1px solid var(--vp-c-divider);
+  background: var(--vp-c-bg-soft);
+  text-align: center;
+  animation: fadeInUp 0.8s cubic-bezier(0.16, 1, 0.3, 1) 0.4s forwards;
+  opacity: 0;
+}
+
+.dev-banner h3 {
+  margin-top: 0;
+  margin-bottom: 8px;
+  font-weight: 600;
+  font-size: 1.2rem;
+}
+
+.dev-banner p {
+  color: var(--vp-c-text-2);
+  margin-bottom: 16px;
+  font-size: 0.95rem;
+}
+
+.dev-banner-btn {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  font-weight: 600;
+  color: var(--vp-c-brand-1) !important;
+  transition: color 0.2s;
+  font-size: 0.95rem;
+}
+
+.dev-banner-btn:hover {
+  color: var(--vp-c-brand-2) !important;
+}
+
+.dev-banner-btn:hover svg {
+  transform: translateX(2px);
+}
+
+.dev-banner-btn svg {
+  transition: transform 0.2s;
+}
+
