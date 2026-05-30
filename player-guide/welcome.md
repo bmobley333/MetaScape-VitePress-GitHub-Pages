@@ -21,7 +21,7 @@ MetaScape supports two distinct play experiences. Choose your system below to en
     </div>
   </a>
 
-  <a href="/player-guide/flex/how-to-play" style="text-decoration: none; color: inherit; display: block;">
+  <a href="./flex/how-to-play" style="text-decoration: none; color: inherit; display: block;">
     <div style="border: 1px solid var(--vp-c-brand); border-radius: 12px; padding: 20px; background: rgba(var(--vp-c-brand-rgb), 0.05); transition: transform 0.2s, border-color 0.2s; height: 100%;" class="portal-card">
       <h2 style="margin-top: 0; color: var(--vp-c-brand);">⚡ Flex Engine <span style="font-size: 0.6em; opacity: 0.8; vertical-align: middle;">(MS4)</span></h2>
       <p>A narrative-driven, highly flexible TTRPG engine designed for quick setup and fluid action. Perfect for cinematic, rules-light storytelling.</p>
@@ -34,7 +34,7 @@ MetaScape supports two distinct play experiences. Choose your system below to en
     </div>
   </a>
 
-  <a href="/player-guide/turbo/how-to-play" style="text-decoration: none; color: inherit; display: block;">
+  <a href="./turbo/how-to-play" style="text-decoration: none; color: inherit; display: block;">
     <div style="border: 1px solid var(--vp-c-brand-next, #70a1ff); border-radius: 12px; padding: 20px; background: rgba(112, 161, 255, 0.05); transition: transform 0.2s, border-color 0.2s; height: 100%;" class="portal-card">
       <h2 style="margin-top: 0; color: var(--vp-c-brand-next, #70a1ff);">🚀 Turbo Engine <span style="font-size: 0.6em; opacity: 0.8; vertical-align: middle;">(MS5)</span></h2>
       <p>A high-performance, automated rule engine built for tactical combat, deep character progression, and precise state management.</p>
