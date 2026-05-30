@@ -1,16 +1,21 @@
 ---
 layout: home
 hero:
-  name: "MetaScape"
-  text: "System Guidelines & Documentation Hub"
-  tagline: "Automated, lightweight, and modern markdown engine"
+  name: "MetaScape Hub"
+  text: "Core Rules & Reference Engine"
+  tagline: "Unifying narrative-driven play with high-performance tactical engines."
   actions:
     - theme: brand
-      text: Enter System
+      text: 🎮 Player Portal
+      link: /player-guide/welcome
+    - theme: alt
+      text: 🛠️ Developer System
       link: /docs/getting-started
 features:
-  - title: Ultra-Fast Core
-    details: Static HTML compilation ensures instant loads and 100% lighthouse scores.
-  - title: Agent Optimized
-    details: Managed entirely via clean repository text files and Git operations.
+  - title: ⚡ Flex Engine
+    details: Cinematic, rules-light system focused on narrative freedom and quick, unified checks.
+  - title: 🚀 Turbo Engine
+    details: High-octane tactical combat rules with automated roll curves and dual roll logic.
+  - title: ⚙️ Tech Core
+    details: Designed for AI integration, automated git workflows, and lightweight static page building.
 ---
