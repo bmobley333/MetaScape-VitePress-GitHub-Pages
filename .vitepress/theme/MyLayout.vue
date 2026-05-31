@@ -34,7 +34,8 @@ onMounted(() => {
 
 <template>
   <Layout>
-    <template #sidebar-nav-before>
+    <!-- Slot to inject in the top navbar before navigation menu items -->
+    <template #nav-bar-content-before>
       <div v-if="activeEngine" class="engine-indicator-badge" :class="`badge-${activeEngine}`">
         <span class="badge-dot"></span>
         <span class="badge-text">
@@ -47,38 +48,40 @@ onMounted(() => {
 
 <style scoped>
 .engine-indicator-badge {
-  display: flex;
+  display: inline-flex;
   align-items: center;
   gap: 8px;
-  margin: 16px 12px;
-  padding: 10px 14px;
-  border-radius: 8px;
-  font-size: 0.85rem;
+  padding: 6px 14px;
+  border-radius: 9999px; /* Pill shape */
+  font-size: 0.8rem;
   font-weight: 700;
   letter-spacing: 0.03em;
   text-transform: uppercase;
   border: 1px solid var(--badge-border);
   background: var(--badge-bg);
-  box-shadow: 0 4px 12px var(--badge-shadow);
+  box-shadow: 0 2px 8px var(--badge-shadow);
+  align-self: center;
+  margin: 0 12px;
+  height: fit-content;
   transition: all 0.3s ease;
 }
 
 .badge-ms3 {
   --badge-border: rgba(217, 119, 6, 0.2);
   --badge-bg: rgba(217, 119, 6, 0.05);
-  --badge-shadow: rgba(217, 119, 6, 0.05);
+  --badge-shadow: rgba(217, 119, 6, 0.03);
   --badge-color: var(--ms3-color);
 }
 .badge-flex {
   --badge-border: rgba(8, 145, 178, 0.2);
   --badge-bg: rgba(8, 145, 178, 0.05);
-  --badge-shadow: rgba(8, 145, 178, 0.05);
+  --badge-shadow: rgba(8, 145, 178, 0.03);
   --badge-color: var(--ms4-color);
 }
 .badge-turbo {
   --badge-border: rgba(124, 58, 237, 0.2);
   --badge-bg: rgba(124, 58, 237, 0.05);
-  --badge-shadow: rgba(124, 58, 237, 0.05);
+  --badge-shadow: rgba(124, 58, 237, 0.03);
   --badge-color: var(--ms5-color);
 }
 
