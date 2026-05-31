@@ -5,19 +5,13 @@ export default {
   ignoreDeadLinks: true,
   themeConfig: {
     nav: [
-      { text: 'Player Portal', link: '/player-guide/welcome' },
-      { text: 'Legacy MS3 (Old Flex)', link: '/player-guide/ms3/rules' }
+      { text: 'Legacy MS3', link: '/player-guide/ms3/rules' },
+      { text: 'Flex Engine (MS4)', link: '/player-guide/flex/how-to-play' },
+      { text: 'Turbo Engine (MS5)', link: '/player-guide/turbo/how-to-play' }
     ],
     sidebar: {
       // THE PLAYER ZONE SIDEBAR (Swaps completely to user-friendly layouts)
       '/player-guide/': [
-        {
-          text: '👋 Overview',
-          collapsed: false,
-          items: [
-            { text: 'Welcome Portal', link: '/player-guide/welcome' }
-          ]
-        },
         {
           text: '⚡ Flex Engine Guide',
           collapsed: false,

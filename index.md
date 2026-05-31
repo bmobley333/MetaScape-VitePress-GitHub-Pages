@@ -4,10 +4,6 @@ hero:
   name: "MetaScape Portal"
   text: "Choose Your Engine & Play"
   tagline: "Your ultimate gateway to campaigns, rulesets, and interactive mechanics."
-  actions:
-    - theme: brand
-      text: 🎮 Enter Player Portal
-      link: /player-guide/welcome
 ---
 
 <h2 style="text-align: center; margin-top: 60px; margin-bottom: 8px; font-weight: 700; font-size: 2.2rem; letter-spacing: -0.02em;">Select Your Gaming System</h2>
