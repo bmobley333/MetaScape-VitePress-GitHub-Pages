@@ -244,3 +244,40 @@
   transition: transform 0.2s;
 }
 
+/* Dynamic Version Branding Theme overrides */
+html.route-ms3 {
+  --vp-c-brand-1: var(--ms3-color) !important;
+  --vp-c-brand-2: #b45309 !important;
+  --vp-c-brand-3: #78350f !important;
+  --vp-c-brand-soft: rgba(var(--ms3-rgb), 0.08) !important;
+}
+
+html.route-flex {
+  --vp-c-brand-1: var(--ms4-color) !important;
+  --vp-c-brand-2: #0e7490 !important;
+  --vp-c-brand-3: #155e75 !important;
+  --vp-c-brand-soft: rgba(var(--ms4-rgb), 0.08) !important;
+}
+
+html.route-turbo {
+  --vp-c-brand-1: var(--ms5-color) !important;
+  --vp-c-brand-2: #6d28d9 !important;
+  --vp-c-brand-3: #5b21b6 !important;
+  --vp-c-brand-soft: rgba(var(--ms5-rgb), 0.08) !important;
+}
+
+/* Navbar visual top border accent */
+.VPNavBar {
+  border-top: 4px solid transparent;
+  transition: border-color 0.3s ease;
+}
+html.route-ms3 .VPNavBar {
+  border-top-color: var(--ms3-color);
+}
+html.route-flex .VPNavBar {
+  border-top-color: var(--ms4-color);
+}
+html.route-turbo .VPNavBar {
+  border-top-color: var(--ms5-color);
+}
+
