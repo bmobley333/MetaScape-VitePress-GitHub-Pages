@@ -5,7 +5,7 @@ export default {
   ignoreDeadLinks: true,
   themeConfig: {
     nav: [
-      { text: 'Legacy MS3', link: '/player-guide/ms3/rules' },
+      { text: 'Flex Legacy (MS3)', link: '/player-guide/ms3/rules' },
       { text: 'Flex Engine (MS4)', link: '/player-guide/flex/how-to-play' },
       { text: 'Turbo Engine (MS5)', link: '/player-guide/turbo/how-to-play' }
     ],
@@ -13,30 +13,30 @@ export default {
       // THE PLAYER ZONE SIDEBAR (Swaps completely to user-friendly layouts)
       '/player-guide/': [
         {
-          text: '⚡ Flex Engine Guide',
+          text: '📜 Flex Legacy (MS3)',
           collapsed: false,
           items: [
-            { text: 'How to Play (Flex)', link: '/player-guide/flex/how-to-play' },
-            { text: 'Weapons & Gear', link: '/player-guide/flex/equipment' },
-            { text: 'Using the Flex Web App', link: '/player-guide/flex/web-app-guide' }
+            { text: 'Core Rules Manual', link: '/player-guide/ms3/rules' },
+            { text: 'Character Sheet Options', link: '/player-guide/ms3/character-sheets' },
+            { text: 'Designer Portal Workbench', link: '/player-guide/ms3/designer' }
           ]
         },
         {
-          text: '🚀 Turbo Engine Guide',
+          text: '⚡ Flex Engine (MS4)',
           collapsed: false,
           items: [
-            { text: 'Core Mechanics (Turbo)', link: '/player-guide/turbo/how-to-play' },
-            { text: 'Powers & Class Manual', link: '/player-guide/turbo/powers' },
-            { text: 'Using the Turbo Web App', link: '/player-guide/turbo/web-app-guide' }
+            { text: 'Core Rules Manual', link: '/player-guide/flex/how-to-play' },
+            { text: 'Weapons & Gear Specs', link: '/player-guide/flex/equipment' },
+            { text: 'Companion Web App Guide', link: '/player-guide/flex/web-app-guide' }
           ]
         },
         {
-          text: '📜 Legacy MS3 Engine',
+          text: '🚀 Turbo Engine (MS5)',
           collapsed: false,
           items: [
-            { text: 'Rules Manual', link: '/player-guide/ms3/rules' },
-            { text: 'Character Sheets', link: '/player-guide/ms3/character-sheets' },
-            { text: 'Designer Portal', link: '/player-guide/ms3/designer' }
+            { text: 'Core Rules Manual', link: '/player-guide/turbo/how-to-play' },
+            { text: 'Powers & Class Specs', link: '/player-guide/turbo/powers' },
+            { text: 'Companion Web App Guide', link: '/player-guide/turbo/web-app-guide' }
           ]
         }
       ]

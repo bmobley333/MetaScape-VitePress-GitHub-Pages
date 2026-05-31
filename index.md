@@ -16,7 +16,7 @@ hero:
     <div>
       <div class="card-badge">Legacy Retro</div>
       <div class="card-header">
-        <h2>📜 Legacy Engine <span style="font-size: 0.75em; opacity: 0.7; font-weight: 500;">(MS3)</span></h2>
+        <h2>📜 Flex Legacy <span style="font-size: 0.75em; opacity: 0.7; font-weight: 500;">(MS3)</span></h2>
       </div>
       <p class="card-desc">Classic rules-light campaign play. Optimized for historical campaign archiving and retro-style mechanics reference.</p>
       <ul class="card-features">
