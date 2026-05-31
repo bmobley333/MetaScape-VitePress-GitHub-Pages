@@ -6,22 +6,9 @@ export default {
   themeConfig: {
     nav: [
       { text: 'Player Portal', link: '/player-guide/welcome' },
-      { text: 'Developer System', link: '/docs/getting-started' },
       { text: 'Legacy MS3 (Old Flex)', link: '/player-guide/ms3/rules' }
     ],
     sidebar: {
-      // THE DEVELOPER ZONE SIDEBAR (Keeps the technical reference intact)
-      '/docs/': [
-        {
-          text: 'Technical Architecture',
-          collapsed: false,
-          items: [
-            { text: 'System Manifesto', link: '/docs/getting-started' },
-            { text: 'Variable Contracts', link: '/docs/architecture/contracts' },
-            { text: 'System Versions (SoT)', link: '/docs/sot/Core/MetaScape_Versions_SoT' }
-          ]
-        }
-      ],
       // THE PLAYER ZONE SIDEBAR (Swaps completely to user-friendly layouts)
       '/player-guide/': [
         {

@@ -8,9 +8,6 @@ hero:
     - theme: brand
       text: 🎮 Enter Player Portal
       link: /player-guide/welcome
-    - theme: alt
-      text: 🛠️ Developer System
-      link: /docs/getting-started
 ---
 
 <h2 style="text-align: center; margin-top: 60px; margin-bottom: 8px; font-weight: 700; font-size: 2.2rem; letter-spacing: -0.02em;">Select Your Gaming System</h2>
@@ -80,12 +77,3 @@ hero:
 
 </div>
 
-<!-- Secondary focus: Developer System -->
-<div class="dev-banner">
-  <h3>🛠️ Developer System</h3>
-  <p>Looking to configure variables, customize the engine, or run automated CI/CD deployments for your gaming suite?</p>
-  <a href="./docs/getting-started" class="dev-banner-btn">
-    <span>Open Developer System Docs</span>
-    <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><line x1="5" y1="12" x2="19" y2="12"></line><polyline points="12 5 19 12 12 19"></polyline></svg>
-  </a>
-</div>
