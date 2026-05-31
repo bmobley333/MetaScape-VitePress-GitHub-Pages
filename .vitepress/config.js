@@ -17,7 +17,8 @@ export default {
           collapsed: false,
           items: [
             { text: 'System Manifesto', link: '/docs/getting-started' },
-            { text: 'Variable Contracts', link: '/docs/architecture/contracts' }
+            { text: 'Variable Contracts', link: '/docs/architecture/contracts' },
+            { text: 'System Versions (SoT)', link: '/docs/sot/Core/MetaScape_Versions_SoT' }
           ]
         }
       ],

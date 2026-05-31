@@ -42,6 +42,7 @@ If a current SoT statement contradicts working code, update the SoT to match the
 Use these when implementing or reviewing current behavior:
 
 - `Prompts/SoT/Core/Manifest.md`: shared discovery registry for SoT documents
+- `Prompts/SoT/Core/MetaScape_Versions_SoT.md`: overarching root architecture baseline defining MS3, MS4, and MS5 versions
 - `turbo/Prompts/SoT/Core/ActionEconomy.md` & `CombatAndMonsters.md`: consolidated core mechanics, session/presence architecture, and monster engineering
 - `flex/Prompts/SoT/Core/*.md`: current Flex runtime and auth contracts
 - `turbo/Prompts/SoT/UI/UiLayoutsSpec.md` & `UiInteractionsSpec.md`: consolidated front-end layouts and behaviors
@@ -125,6 +126,7 @@ Read:
 
 - Start here: `Prompts/SoT/README.md`
 - Discover active docs: `Prompts/SoT/Core/Manifest.md`
+- Understand version architecture: `Prompts/SoT/Core/MetaScape_Versions_SoT.md`
 - Understand code layout: `Prompts/SoT/Appendices/CodebaseMap.md`
 - Understand superseded ideas: `Prompts/SoT/Appendices/LegacyRulesRationale.md`
 - Understand why authority changed: `Prompts/SoT/Decisions/DecisionLog.md`

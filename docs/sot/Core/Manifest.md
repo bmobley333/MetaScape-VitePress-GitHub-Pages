@@ -56,6 +56,7 @@ Read these for current mechanics, socket behavior, and architecture.
 
 Shared root technical reference:
 
+- `Prompts/SoT/Core/MetaScape_Versions_SoT.md`: overarching root architecture baseline defining MS3, MS4, and MS5 versions
 - `Prompts/SoT/Core/EmojiConventions.md`: shared monorepo emoji meanings and reserved icon semantics
 - `Prompts/SoT/Core/TechStack.md`: stack, build, and tooling reference
 
