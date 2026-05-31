@@ -4,6 +4,9 @@ export default {
   base: '/MetaScape-VitePress-GitHub-Pages/',
   ignoreDeadLinks: true,
   themeConfig: {
+    search: {
+      provider: 'local'
+    },
     nav: [
       { text: 'Flex Legacy (MS3)', link: '/player-guide/ms3/rules' },
       { text: 'Flex Engine (MS4)', link: '/player-guide/flex/how-to-play' },
@@ -17,8 +20,7 @@ export default {
           collapsed: false,
           items: [
             { text: 'Core Rules Manual', link: '/player-guide/ms3/rules' },
-            { text: 'Character Sheet Options', link: '/player-guide/ms3/character-sheets' },
-            { text: 'Designer Portal Workbench', link: '/player-guide/ms3/designer' }
+            { text: 'Character Sheet Options', link: '/player-guide/ms3/character-sheets' }
           ]
         },
         {
