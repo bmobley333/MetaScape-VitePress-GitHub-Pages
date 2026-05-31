@@ -5,7 +5,21 @@ export default {
   ignoreDeadLinks: true,
   themeConfig: {
     search: {
-      provider: 'local'
+      provider: 'local',
+      options: {
+        miniSearch: {
+          searchOptions: {
+            filter: (result) => {
+              if (typeof window === 'undefined') return true;
+              const path = window.location.pathname;
+              if (path.includes('/ms3/')) return result.id.includes('ms3/');
+              if (path.includes('/flex/')) return result.id.includes('flex/');
+              if (path.includes('/turbo/')) return result.id.includes('turbo/');
+              return true;
+            }
+          }
+        }
+      }
     },
     nav: [
       { text: 'Flex Legacy (MS3)', link: '/player-guide/ms3/rules' },
