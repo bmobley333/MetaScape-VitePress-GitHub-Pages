@@ -1,6 +1,6 @@
-# 📋 MS3 Character Sheets
+# 📋 MS3 Character Sheets & Codex
 
-To play **MetaScape MS3 (Legacy)**, you can use these official Google Sheets character templates. Open the links below to view the sheets or make your own copy.
+To play **MetaScape MS3 (Legacy)**, you can use these official Google Sheets templates. Open the links below to view the sheets or make your own copy.
 
 ---
 
@@ -8,20 +8,23 @@ To play **MetaScape MS3 (Legacy)**, you can use these official Google Sheets cha
 
 This is the standard character sheet template for tracking your attributes, vitality, skills, gear, and powers.
 
-- **[View / Copy Character Sheet Template](https://docs.google.com/spreadsheets/d/17pOzn4mitaouIUsQfDYQR2a7KQXtKbR_rLqwrsQnxkg/edit?usp=drive_open)**
+- **[View Character Sheet Template](https://docs.google.com/spreadsheets/d/1A6U4K0VFd0NoSn-RYjvvI27siSA_KLVdn2J0eFloJJg/edit?gid=2020049119#gid=2020049119)**
   *Contains slots for Might, Motion, Mind, and Magic, as well as gear blocks and tracking indicators.*
 
-- **[Alternative Direct Copy Link](https://docs.google.com/spreadsheets/d/1S9Z4nvP-oVue1URPHSrN3FEOzDYb5Yuf9YUn2JmqHiI/copy)**
+- **[Direct Copy Link](https://docs.google.com/spreadsheets/d/1A6U4K0VFd0NoSn-RYjvvI27siSA_KLVdn2J0eFloJJg/copy)**
   *Use this link to create a fresh copy of the character sheet directly in your Google Drive.*
 
 ---
 
-### 🛠️ Designer Character Sheet Tracker
+### 📚 Player Codex
 
-This template is geared towards design tracking and rules mapping for campaigns.
+This is the core Player's Codex database file containing version settings, data references, and character sheet mapping.
+
+- **[View Codex Template](https://docs.google.com/spreadsheets/d/1H3c9TsddO5wELWsTiyZRd7-y8vksU0QtHvk5ClIFHgY/edit?gid=0#gid=0)**
+  *Used for tracking and checking character sheet IDs and version compatibility.*
 
 - **[Direct Copy Link](https://docs.google.com/spreadsheets/d/1H3c9TsddO5wELWsTiyZRd7-y8vksU0QtHvk5ClIFHgY/copy)**
-  *Used for tracking and checking character sheet IDs and version compatibility.*
+  *Use this link to create a fresh copy of the Codex directly in your Google Drive.*
 
 ---
 

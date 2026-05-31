@@ -8,11 +8,11 @@
 
 * 🎬 **Cinematic** – Big swing dice (d20 \+ Atr Die) create dramatic highs and lows that feel like movie moments. Every roll should carry weight, producing stories worth retelling.  
 * ⚡ **Fast** – Rules are built for speed: creation, advancement, and play should never bog down. When in doubt, simplify to keep the momentum alive.  
-* 🎭 **Open** – Any concept works with GM approval; avoid rigid class/level tracks. MS3 thrives on unusual ideas, and the rules bend to fit imagination, not restrict it.  
+* 🎭 **Open** – Any concept works with GM approval; avoid rigid class/level tracks. MetaScape thrives on unusual ideas, and the rules bend to fit imagination, not restrict it.  
 * 🧩 **Inclusive** – Anyone can attempt weapons, armor, or skills. Unskilled \= 1d20, Skilled \= 2H20; but Powers⚡ (Powers⚡) must be learned. This ensures new players can always contribute and veterans can experiment.  
 * 🎲 **Tactical** – Defense split (Block, Dodge, Resist) forces meaningful, moment-to-moment choices. Every defense is a gamble that shapes combat’s flow.  
-* 🧑‍🤝‍🧑 **GM-Light** – GM sets difficulties and advantage/disadvantage; no dice rolling other than the GM Intensity die. This frees the GM to run story and spotlight creativity instead of crunching math.  
-* 📏 **Unified** – Atr govern skills, damage, and armor; one backbone supports all mechanics. Everything connects cleanly, making the system easy to teach and expand.  
+* 🧑‍🤝‍🧑 **GM-Light** – GM sets difficulties and advantage/disadvantage; no dice rolling other than the GM Intensity die. This frees the GM to run the story and spotlight creativity instead of crunching math.  
+* 📏 **Unified** – Attributes govern skills, damage, and armor; one backbone supports all mechanics. Everything connects cleanly, making the system easy to teach and expand.  
 * 🧹 **Clean** – Clear action types (A, M, P, F) and Atr tags keep the table legible. Players should always know what they can do at a glance.  
 * 📉 **Minimal Tracking** – Players should track only Vit and Luck chits whenever possible. Low overhead means more energy spent on roleplay, tactics, and fun.
 
@@ -20,16 +20,13 @@
 
 # **🙂Emojis**
 
-Emojis🙂 are used in MS3 for rapid identification of key stats and words. They are used in several ways and formats:
+Emojis🙂 are used in MetaScape for rapid identification of key stats and words. They are used in several ways and formats:
 
 1. Emojis🙂 come BEFORE their key word(s) in titles and headings  
 2. Emojis🙂 are to follow their key word(s) in nearly every case (other than headings)  
 3. The four Attribute✅ (Atr) emojis🙂 can be used both following their key words as in: Might💪, Motion🏃, Mind👁️, and Magic✨, but also following any ability as an indicator as to which of the four attributes to roll for that ability. (e.g., “Stealth🏃” is the shorthand version of, and means the same thing as “Stealth roll using Motion🏃” or “Motion🏃 Stealth” and this shorthand is the preferred method.  
-4. Monster stats place the emojis before key numbers or number sets as in:
-
-4 Orc Guards (Heavy Leather, Scimitars, Bucklers) 🚩14, 👣10, ⚔️18/12(2), 🛡️16/2, ❤️12 – \[💪18/🏃12/👁️10/✨10\] (Poisoned blades Magic✨ or Weakened).
-
-The list of official emojis are:
+4. Monster stats place the emojis before key numbers or number sets as in:  
+   1. 4 Orc Guards (Heavy Leather, Scimitars, Bucklers) 🚩14, 👣10, ⚔️18/12(2), 🧥16/2, ❤️12 – \[💪18/🏃12/👁️10/✨10\] (Poisoned blades Magic✨ or Weakened).
 
 | Sorted by Term📖 |  |  | Sorted by Emoji🙂 |  |
 | ----- | :---: | :---- | :---: | ----- |
@@ -109,7 +106,7 @@ The list of official emojis are:
 | Atrributes \[💪\#/🏃\#/👁️\#/✨\#\] |  |
 
 Example Monster Stats:  
-4 Orc Guards (Heavy Leather, Scimitars, Bucklers) 🚩14 👣10 ⚔️18/12(2) 🧥16/2 ❤️12 – \[💪18/🏃12/👁️10/✨10\] (Poisoned blades Magic✨ or Weakened).
+4 Orc Guards (Heavy Leather, Scimitars, Bucklers) 🚩14, 👣10, ⚔️18/12(2), 🧥16/2, ❤️12 – \[💪18/🏃12/👁️10/✨10\] (Poisoned blades Magic✨ or Weakened).
 
 ---
 
@@ -119,10 +116,10 @@ This section serves as both the **abbreviation reference** and the **full word d
 
 * **Ability** – All attributes✅, skills🎓, and powers⚡ are abilities.  
 * **Ability Roll** – Roll \#d20 \+ d(Atr) \+ Bonus versus a difficulty to determine success or failure. The number of d20 is specified by skilled/unskilled, advantage/disadvantage.  
-* **Action🔄 (A, M, P, F)** – MS3 uses the AMP (Attack, Move, Partial) action system that also includes Free actions.  
+* **Action🔄 (A, M, P, F)** – MetaScape uses the AMP (Attack, Move, Partial) action system that also includes Free actions.  
 * **Adv (Advantage)** – Gain an extra d20 during an ability roll.  
 * **AP🧩 (Adventure Point)** – Earned resource spent to advance, learn new powers⚡, or improve stats.  
-* **AR🛡️ (Armor Rating)** – Represents how much damage armor can absorb. Armor also provides a Def (Defense) value.  
+* **AR🧥 (Armor Rating)** – Represents how much damage armor can absorb. Armor also provides a Def (Defense) value.  
 * **Atk (Attack)** – Any offensive roll or strike made with a weapon, power⚡, or ability.  
 * **Atr✅ (Attribute)** – The four core attributes: Might💪, Motion🏃, Mind👁️, and Magic✨.  
 * **Critical💀** – A natural 1 on any d20 in an ability roll.  
@@ -135,7 +132,7 @@ This section serves as both the **abbreviation reference** and the **full word d
 * **Enc (Encounter)** – The series of rounds that make up a combat event.  
 * **Equipment** – Another word for Gear🧰 (non-magical).  
 * **Ext Rng (Extended/Long Range)** – A greater range (at disadvantage) that a weapon, ability, or item can reach.  
-* **Fatigue** – A Minimal amount of Wnds🩸 a PC suffers IF HIT by a monster regardless of PC’s AR🛡️ roll.  
+* **Fatigue** – A Minimal amount of Wnds🩸 a PC suffers IF HIT by a monster regardless of PC’s AR🧥 roll.  
 * **g / gp (Gold Piece)** – A gold coin; 100 silver (s) \= 1 gold (g).  
 * **Gear🧰** – Non-magical equipment.  
 * **GM (Game Master)** – The person running the game and story.  
@@ -163,14 +160,13 @@ This section serves as both the **abbreviation reference** and the **full word d
 * **Session** – A day in the player’s life, referring to one game session.  
 * **S, Sh (Shot)** – Ranged weapons that are not thrown (bows, crossbows, blowguns, etc.).  
 * **s / sp (Silver Piece)** – A silver coin; 100s \= 1g.  
-* **Simple Act \-** An act like opening a door or drawing a weapon that is quick, simple and does not involve magic, math, dice, or any ability.  
 * **Skill🎓** – An ability roll using \#d20 \+ d(Atr) \+ Bonus, usually vs. a GM-set difficulty. Not supernatural; does not alter the world’s rules.  
 * **Skill Set🎓** – A logical collection of related skills (e.g., Thievery includes climb, pick locks, stealth).  
 * **Stats** – All recorded values: Atr, Vit, MR, Def, Atk, Max Block, Actions, Usage, etc.  
 * **Tremendous🌟** – A natural 20 on any d20 in an ability roll.  
 * **Usage⏱️** – The frequency an ability can be used (e.g., 1-Enc \= once per encounter).  
 * **Vit❤️ (Vitality)** – The amount of wounds a character or monster can sustain before death (monsters) or death checks (characters).  
-* **Wnd🩸 (Wounds)** – Damage sustained after AR🛡️ or other reduction is applied.  
+* **Wnd🩸 (Wounds)** – Damage sustained after AR🧥 or other reduction is applied.  
 * **Wpn⚔️ (Weapon)** – A held weapon such as a sword
 
 ---
@@ -181,8 +177,8 @@ This section serves as both the **abbreviation reference** and the **full word d
 
 Dice notation follows standard TTRPG shorthand. For example, **2d8+12** means roll two eight-sided dice, add the results together, then add \+12.
 
-* MS3 uses the classic RPG dice: d4, d6, d8, d10, d12, and d20 (three d20 are useful for Skilled rolls with Adv).  
-* MS3 also uses the d100, rolled with two d10 (one for tens, one for ones).  
+* MetaScape uses the classic RPG dice: d4, d6, d8, d10, d12, and d20 (three d20 are useful for Skilled rolls with Adv).  
+* MetaScape also uses the d100, rolled with two d10 (one for tens, one for ones).  
   * Example: a roll of 8 and 2 \= 82; a roll of 0 and 8 \= 8; a roll of 0 and 0 \= 100\.  
   * Some d10 use 0–9, others 1–10. In either case, treat 10 as 0\.  
 * **3H20** → Roll three d20, keep the highest.  
@@ -203,8 +199,9 @@ An **Ability Roll** (also called Ability Check) is:
  **\#d20 \+ d(Atr) \+ Bonus vs. Dif**
 
 * **\#d20:** 2H20 if Skilled, 1d20 if Unskilled. Other options exist for Adv/Dis (see below).  
-* **d(Atr):** Roll the die of the relevant Attribute — Might💪, Motion🏃, Mind👁️, or Magic✨ (d4, d6, d8, d10, or d12).  
-* **Bonus:** From gear🧰, traits🎭, Powers⚡, or situational modifiers. Max \+5.
+* **d(Atr) or d💪, d🏃, d👁️ or d✨:** Roll the base Atr die of the relevant Attribute — (e.g. a simple d4, d6, d8, d10, or d12).  
+* **Bonus:** From gear🧰, traits🎭, Powers⚡, or situational modifiers. Bonuses may be combined to a Max \+5. However, a single bonus can be any number, even beyond \+5, such as \+8 but such bonuses may not be combined with any other.    
+* **Penalty**:A negative such as \-2. There is no max penalty and they ALWAYS combine. However, a penalty to an Atr die or to an ability check may not reduce the roll below 0\. So a d✨-2, where the Magic Atr die 4 will result in a roll between 0 and 2 (e.g. d4 rolls a 4 minus 2 is 2, d4 rolls a 1 minus 2 is 0).
 
 **Example:** A Skilled dagger Atk⚔️ with Might💪 d8 and \+1 bonus:  
  2H20 (rolled 3, 17\) → keep 17; d8 (rolled 5); \+1 Bonus.  
@@ -225,18 +222,18 @@ An **Ability Roll** (also called Ability Check) is:
 
 ### **Skilled, Unskilled, Advantage, Disadvantage**
 
-Examples use: Sword Atk⚔️, Might💪 d8, \+1 bonus.
+Examples use for all of below: Sword Atk⚔️, Might💪 d8, \+1 bonus.
 
 * **Unskilled** → 1d20 \+ d8 \+ 1\.  
 * **Skilled** → 2H20 \+ d8 \+ 1\.  
-* **Adv** → Add one extra d20, keep highest.  
+* **Advantage** → Add one extra d20, keep highest.  
   * If Unskilled → 2H20 \+ d8 \+ 1\.  
   * If Skilled → 3H20 \+ d8 \+ 1\.  
-* **Dis** → Roll one fewer d20. If Unskilled, roll 2L20.  
+* **Disadvantage** → Roll one fewer d20.  
   * If Unskilled → 2L20 \+ d8 \+ 1\.  
   * If Skilled → 1d20 \+ d8 \+ 1\.
 
-Note: There is no such thing as double to triple advantage or disadvantage. Once you have advantage additional indications of advantage do not stack \- they simply confirm the ONE advantage. Same for disadvantage. If a character has both then they cancel in equal numbers. So in a super rare 2 advantages and one disadvantage there would be ONE advantage. 
+Note: There is no such thing as double or triple advantage or disadvantage. Once you have advantage additional indications of advantage do not stack \- they simply confirm the ONE advantage. Same for disadvantage. If a character has both then they cancel in equal numbers. So in a super rare 2 advantages and one disadvantage there would be ONE advantage. 
 
 ---
 
@@ -255,8 +252,8 @@ This table shows all possible combinations of Ability Rolls (\#d20).
 
 All Ability Roll results stand as success or failure regardless of Tremendous or Critical effects. A Tremendous or Critical does **not** override the numbers — a natural 20 does not guarantee success, and a natural 1 does not guarantee failure. The roll result still determines success or failure. However, Tremendous rolls trigger **beneficial narrative effects**, and Critical rolls trigger **detrimental narrative effects**, as determined by the GM🔎.
 
-* **Tremendous🌟** → Natural 20 on any d20 kept during an Ability Roll.  
-* **Critical💀** → Natural 1 on any d20 kept during an Ability Roll.
+* **Tremendous🌟** → Natural 20 on any d20 during an Ability Roll.  
+* **Critical💀** → Natural 1 on any d20 during an Ability Roll.
 
 ### **Double / Triple Results:**
 
@@ -298,7 +295,7 @@ All Ability Roll results stand as success or failure regardless of Tremendous or
 
 * **Double Critical Attack⚔️** – Your bowstring snaps and the recoil slices your hand; you take 1 Wnd🩸 and cannot use Rng attacks for the remainder of the Enc.  
 * **Double Critical Defense🛡️** – Your shield arm gives way under the impact; your shield is shattered, and you suffer the attack’s full Dmg💥 ×2.  
-* **Double Critical Skill Check🎓** – Attempting to disarm a trap, you trigger it catastrophically — not only does it explode for full effect, but it also sets off a chain reaction that brings half the ceiling down (everyone Dodge🏃 vs Dif 15 or suffer 12 Dmg💥 vs AR🛡️).
+* **Double Critical Skill Check🎓** – Attempting to disarm a trap, you trigger it catastrophically — not only does it explode for full effect, but it also sets off a chain reaction that brings half the ceiling down (everyone Dodge🏃 vs Dif 15 or suffer 12 Dmg💥 vs AR🧥).
 
   #### 🌟🌟🌟 Triple Tremendous (Three Natural 20s — rare\!)
 
@@ -316,16 +313,16 @@ All Ability Roll results stand as success or failure regardless of Tremendous or
 
 The GM🔎 should keep a single d20 for **quick, one-off results**. This die never uses bonuses, multiple dice, or add-ons. It provides a snap judgment when randomness or intensity is needed.
 
-* **High rolls (toward 20):** Mean greater intensity — more impactful results (good for PCs in Tremendous cases, bad in Criticals).  
-* **Low rolls (toward 1):** Mean minimal intensity, possibly even canceling the effect.
-
 **Uses:**
 
+* Critical and Tremendous Intensity:  
+  * High rolls (toward 20): Means greater intensity — more impactful results (good for PCs in Tremendous cases, bad in Criticals).  
+  * Low rolls (toward 1): Means minimal intensity, possibly even canceling the effect.  
 * Answering quick questions:  
   * *Do I see any throwable rocks nearby?*  
   * *Does the pickpocketed target have coins?*  
   * *Does my rope hold 500 lbs?*  
-* Resolving NPC vs NPC actions without full rolls:  
+* Examples resolving NPC vs NPC actions without full rolls:  
   * *Atk Intensity (18)* → hits.  
   * *Dmg Intensity (10)* → causes 3 Wnd🩸s❤️.  
   * *Def Intensity (8)* → hit; *AR Intensity (19)* → blocks all Dmg.  
@@ -365,79 +362,80 @@ Each character begins with four core Attributes (Atr✅). Each Attribute is expr
 **Concept First: Any idea works — punk knight, techno-bard, gargoyle hero, soda rogue, etc.**  
  **Concept**
 
-* **Concept first: any character idea works.**
+* Concept first: any character idea works.
 
 **🎭 Starting Traits**
 
-* **Player Name: Your real name.**  
-* **Character Name: The name of your character.**  
-* **Race / Class: The species and archetype you are playing.**  
-* **Hgt/Wgt/Age: Your height, weight, and age.**  
-* **Appearance: Height, weight, age, hair, skin, notable features.**  
-* **Positive Trait: A strength, virtue, or defining talent.**  
-* **Negative Trait: A flaw, weakness, or vice.**  
-* **Flair: A unique aspect that makes your appearance or personality really stand out.**  
-* **Adventuring Goal / Quest: Your character’s driving motivation.**
+* Player Name: Your real name.  
+* Character Name: The name of your character.  
+* Race / Class: The species and archetype you are playing.  
+* Hgt/Wgt/Age: Your height, weight, and age.  
+* Appearance: Height, weight, age, hair, skin, notable features.  
+* Positive Trait: A strength, virtue, or defining talent.  
+* Negative Trait: A flaw, weakness, or vice.  
+* Flair: A unique aspect that makes your appearance or personality really stand out.  
+* Adventuring Goal / Quest: Your character’s driving motivation.
 
-**✅ Starting Atr**  
- **Assign d4, d4, d6, d8 across Might💪, Motion🏃, Mind👁️, Magic✨.**
+**✅ Starting Atr**
+
+*  Assign d4, d4, d6, d8 across Might💪, Motion🏃, Mind👁️, Magic✨.
 
 **❤️ Starting Vit**
 
-* **Vit❤️: 10 \+ 1d(Might💪) (e.g., Might d8 \= 5+1d8 \= 6 to 13).**  
-* **Only during creation, a 1d(Might💪) roll of 1 may be re-rolled one time, in hopes of a better result.**
+* Vit❤️: 10 \+ 1d(Might💪) (e.g., Might d8 \= 5+1d8 \= 6 to 13).  
+* Only during creation, a 1d(Might💪) roll of 1 may be re-rolled one time, in hopes of a better result.
 
 **🎓 1 Starting Skill Set**
 
-* **Skilled in 1 Skill Set🎓 from the Skill Set Table.**
+* Skilled in 1 Skill Set🎓 from the Skill Set Table.
 
 **⚔️ Starting Weapon**
 
-* **Skilled in 1 specific Wpn⚔️.**  
-* **Melee Atk/Dmg💥 uses Might💪.**  
-* **Hurled Atk/Dmg💥 uses Motion🏃.**  
-* **Shot Atk/Dmg💥 uses Mind👁️.**
+* Skilled in 1 specific Wpn⚔️.  
+* Melee Atk/Dmg💥 uses Might💪.  
+* Hurled Atk/Dmg💥 uses Motion🏃.  
+* Shot Atk/Dmg💥 uses Mind👁️.
 
 **🛡️ Starting Armor**
 
-* **Skilled in 1 specific armor.**  
-* **Block (Def)🛡️ is Might💪.**  
-* **Dodge🏃 (Def) is Motion🏃.**  
-* **Record the armor’s MR👣.**
+* Skilled in 1 specific armor.  
+* Block (Def)🛡️ is Might💪.  
+* Dodge🏃 (Def) is Motion🏃.  
+* Record the armor’s MR👣.
 
 **⚡ 3 Powers**
 
-* **A good approach is taking one each of these:**  
-  * **1 A-action Power⚡ usable at least 1-Enc for encounter impact.**  
-  * **1 P-action Power⚡ that you can turn on 1-Rnd so it can be on anytime you are not otherwise using a P action.**  
-  * **1 1-Day Power⚡ for that big WOW factor.**
+* A good approach is taking one each of these:  
+  * 1 A-action Power⚡ usable at least 1-Enc for encounter impact.  
+  * 1 P-action Power⚡ that you can turn on 1-Rnd so it can be on anytime you are not otherwise using a P action.  
+  * 1 1-Day Power⚡ for that big WOW factor.
 
 **⭐ 1st Level**
 
-* **Your character is 1st Level⭐ (record 1 for Level⭐) and thus has 1 AP🧩.**  
-* **A good place to spend 1 AP🧩 is one of:**  
-  * **Nish🚩 Skill (Motion🏃)**  
-  * **Death Check Skill (Magic✨)**  
-  * **A 2nd Weapon⚔️**  
-  * **A Shield🛡️ (record the shield’s MR👣)**
+* Your character is 1st Level⭐ (record 1 for Level⭐) and thus has 1 AP🧩.  
+* A good place to spend 1 AP🧩 is one of:  
+  * Nish🚩 Skill (Motion🏃)  
+  * Death Check Skill (Magic✨)  
+  * A 2nd Weapon⚔️  
+  * A Shield🛡️ (record the shield’s MR👣)
 
 **💰 Starting Money**
 
-* **Start with 1 Gold (1g) \+ 1d100 Silver (s).**
+* Start with 1 Gold (1g) \+ 1d100 Silver (s).
 
 **🎒 Starting Gear**
 
-* **You already have basic items (food, water, light sources, containers, needed tools).**  
-* **Choose one personal item of significance (e.g., crown, holy symbol, named sword).**  
-* **Starting gear is free; GM🔎 may also grant quirky items.**
+* You already have basic items (food, water, light sources, containers, needed tools).  
+* Choose one personal item of significance (e.g., crown, holy symbol, named sword).  
+* Starting gear is free; GM🔎 may also grant quirky items.
 
 **🍺 Starting Minor Magic Item**
 
-* **Begin with one randomly rolled Minor🍺 Magic Item✨ from the general or personal table.**
+* Begin with one randomly rolled Minor🍺 Magic Item✨ from the general or personal table.
 
 **🍀 Starting Luck**
 
-* **Luck🍀: Begin each Session with 3 Luck chits (max 5).**
+* Luck🍀: Begin each Session with 3 Luck chits (max 5).
 
 ---
 
@@ -479,7 +477,7 @@ All of step 2 below is AP🧩 free and costs no AP🧩.
 
 ### **✅Atr Die**
 
-On the indicated Levels⭐ your Atr✅ die will change as per the “✅Atr Die” column above. You can assign these new numbers in any order to your attributes✅. All character sheet stats and abilities will immediately use these new attributes✅, so make all changes needed (e.g., Weapons⚔️ Atk/Dmg, Armor🛡️ Def, Next Vit❤️ Max Roll, all skills🎓, powers⚡, and magic items✨ that reference Attributes✅.)
+On the indicated Levels⭐ your Atr✅ die will change as per the “✅Atr Die” column above. You can assign these new numbers in any order to your attributes✅. All character sheet stats and abilities will immediately use these new attributes✅, so make all changes needed (e.g., Weapons⚔️ Atk/Dmg, Armor🧥 Def, Next Vit❤️ Max Roll, all skills🎓, powers⚡, and magic items✨ that reference Attributes✅.)
 
 ## **💲 Step 3 — Spend AP🧩**
 
@@ -501,11 +499,11 @@ All choices require GM approval. The GM may veto or suggest alternatives if a ch
 
 ## **🎓 Skills**
 
-* Abilities (weapons⚔️, armor🛡️, skills🎓, Atr✅ rolls) are all **unskilled** unless explicitly learned with AP🧩 (thus becoming skilled).  
-* This includes Nish🚩, Saves✨, Resistances✨, all weapons⚔️, all armor🛡️, all skills🎓, and all uses of Might💪, Motion🏃, Mind👁️, and Magic✨.  
-* Anything learned via AP🧩 is skilled — including a weapon⚔️, armor🛡️, Power⚡, skill🎓, or Skill Set🎓.
+* Abilities (weapons⚔️, Armor🧥, skills🎓, Atr✅ rolls) are all **unskilled** unless explicitly learned with AP🧩 (thus becoming skilled).  
+* This includes Nish🚩, Saves✨, Resistances✨, all weapons⚔️, all Armor🧥, all skills🎓, and all uses of Might💪, Motion🏃, Mind👁️, and Magic✨.  
+* Anything learned via AP🧩 is skilled — including a weapon⚔️, Armor🧥, Power⚡, skill🎓, or Skill Set🎓.
 
-**Exception:** Magic Items✨ are always skilled. This prevents messy tracking and fits the theme. A magical Dagger of Dancing does **not** grant dagger skill — its Dancing Power⚡ is skilled, but normal Atk⚔️ with the dagger is still unskilled unless Daggers are learned with AP🧩. The same applies to armor🛡️ and shields🛡️.
+**Exception:** Magic Items✨ are always skilled. This prevents messy tracking and fits the theme. A magical Dagger of Dancing does **not** grant dagger skill — its Dancing Power⚡ is skilled, but normal Atk⚔️ with the dagger is still unskilled unless Daggers are learned with AP🧩. The same applies to Armor🧥 and shields🛡️.
 
 When a skill🎓 is rolled, its Atr✅ is used (e.g., Acrobatics🏃 \= Motion🏃 check). All skills🎓 may be attempted unskilled. This includes Stealth🏃, climbing, identifying a Magic Item✨, etc.
 
@@ -565,7 +563,7 @@ When one PC helps another, the **narrative of how** is key. The GM may:
 
 ## **Uplifting Damage**
 
-* Weapon Atk \= Might💪 (melee),  Motion💪 (hurled)  or Mind👁️ (shot).  
+* Weapon Atk \= Might💪 (melee),  Motion🏃 (hurled)  or Mind👁️ (shot).  
   * If a weapon that has two Types (Me/Hu for Melee and Hurled), the weapon need only be learned once, but each type (Melee and Hurled) are separately recorded (use two lines on the character sheet’s weapon’s table.  
 * All weapon Dmg💥, except multi-attacks, may be uplifted. This applies ONLY to Dmg💥, not Block🛡️.  
 * Uplifting raises a weapon’s Dmg💥 die up to the wielder’s relevant Atr✅.  
@@ -600,7 +598,7 @@ When one PC helps another, the **narrative of how** is key. The GM may:
 
 # **⚔️ Combat Styles Rules**
 
-There are four primary combat styles in MS3. By default, the core rules treat them similarly; distinctions and advantages mainly come from Powers⚡.
+There are four primary combat styles in MetaScape. By default, the core rules treat them similarly; distinctions and advantages mainly come from Powers⚡.
 
 ### **Requirements**
 
@@ -646,7 +644,6 @@ Natural weapons🥊 (Brawl and Throw Object) cannot Block🛡️ and have no coi
 ### **Off-Hand Use**
 
 * A free off-hand (when using a one-handed weapon⚔️) allows carrying utility items such as a torch, lantern, Magic Item✨, or flask.  
-* An empty off-hand also allows retrieving/using items (like drinking a potion) without spending a Partial (P) action.  
 * With two-handed weapons⚔️, this still applies: you may temporarily shift the weapon⚔️ into one hand to free the other for item use.  
 * **Note:** This advantage does not exist when dual wielding or using Weapon & Shield🛡️.
 
@@ -660,7 +657,7 @@ Natural weapons🥊 (Brawl and Throw Object) cannot Block🛡️ and have no coi
 * Shields🛡️ provide a Max Block🛡️ rating, which functions the same as weapon⚔️ Max Block (it applies if the shield’s Max Block🛡️ is ≥ the monster’s Dmg💥).  
 * The key advantage of shields🛡️ is that their Block🛡️ is rolled at \+1 die step above the Might💪 requirement. The tradeoff is reduced MR👣 and tying up your off-hand.  
 * MR👣 impact applies only when the shield🛡️ is wielded (drawn and readied).  
-* Small shields🛡️ (bucklers, bracers, vambraces) offer mobility and count as part of regular armor🛡️; they are not large enough to be considered true shields🛡️ in MS3.  
+* Small shields🛡️ (bucklers, bracers, vambraces) offer mobility and count as part of regular Armor🧥; they are not large enough to be considered true shields🛡️ in MetaScape.  
 * Large shields🛡️ provide greater Max Block🛡️ protection but impose greater limits on mobility.
 
 ---
@@ -674,7 +671,7 @@ Natural weapons🥊 (Brawl and Throw Object) cannot Block🛡️ and have no coi
    * Atr✅ Die \= the weapon’s governing Atr✅ (Might💪 for melee, Motion🏃 for hurled, Mind👁️ for shot, Magic✨ for spell attacks).  
    * Tremendous🌟 (20 on d20). Critical💀 (1 on d20).  
 3. On Success → Roll Dmg💥: 1 die (d4–d12) plus any bonus.  
-4. Monster Armor🛡️: Subtract monster Armor🛡️ (0 to 3, rare 4).  
+4. Monster Armor🧥: Subtract monster Armor🧥 (0 to 3, rare 4).  
 5. Apply Wnd🩸: Add the wounding damage to any existing and record it next to the monster. Once ≥ the monster’s Vit❤️, the monster dies.
 
 **Special Rule — Opportunity Attacks**
@@ -697,9 +694,9 @@ Natural weapons🥊 (Brawl and Throw Object) cannot Block🛡️ and have no coi
    * Motion🏃 (Dodge): nearly always valid.  
    * Magic✨ (Resist): for undodgeable/mystical effects (fire, acid, explosion, poison, etc.).  
 3. Beat Monster Atk⚔️ (10–24) → Avoid Dmg💥.  
-4. If Defense Fails → Player Armor AR🛡️: Roll armor die (d4–d12) and subtract result from Monster Dmg💥. The remainder \= Wnd🩸.  
-   * Note the Block🛡️die is never rolled in lieu of armor as the Block defense MISSED. Thus the blow has hit the character’s AR🛡️.  
-   * Monsters also list a Fatigue Wnds🩸. If your AR🛡️ results in less Wnds🩸 than the Fatigue Wnds🩸, the character suffers the indicated Fatigue Wnds🩸instead. Fatigue Wnds🩸do NOT trigger Afflictions if the AR🛡️roll would have stopped ALL of the Dmg💥.  
+4. If Defense Fails → Player Armor AR🧥: Roll armor die (d4–d12) and subtract result from Monster Dmg💥. The remainder \= Wnd🩸.  
+   * Note the Block🛡️die is never rolled in lieu of armor as the Block defense MISSED. Thus the blow has hit the character’s AR🧥.  
+   * Monsters also list a Fatigue Wnds🩸. If your AR🧥 results in less Wnds🩸 than the Fatigue Wnds🩸, the character suffers the indicated Fatigue Wnds🩸instead. Fatigue Wnds🩸do NOT trigger Afflictions if the AR🧥roll would have stopped ALL of the Dmg💥.  
 5. Apply Wnd🩸: Add to your total Wnd🩸.  
    * If Wnd🩸 ≥ Vit❤️ → you are unconscious.  
    * If Wnd🩸 \> Vit❤️ → you must also make a Death Check each rnd.
@@ -737,14 +734,14 @@ The game’s Days📅 are broken into Encs.
 * **Enc 2 (Combat):** A fight breaks out and the game switches into Rnd mode.  
 * **Enc 3 (Roleplaying):** After the fight, the party searches opponents, rests, visits an inn, and sleeps.
 
-Each of these is classified as an “Enc” in MS3. This approach means an Enc can either be a combat Enc⚡ or a roleplaying Enc.
+Each of these is classified as an “Enc” in MetaScape. This approach means an Enc can either be a combat Enc⚡ or a roleplaying Enc.
 
 This classification defines \#-Enc ability use.
 
 * Example: A healer who can heal 2-Enc may heal 2 times **per Enc** (2 in each combat encounter AND 2 in each roleplaying encounter).  
 * In the sequence above, they could heal 6 times in total (2 each in 3 Encounters).
 
-## **⚡ Combat Encounter – Initiative & Rounds**
+## **⚔️ Combat Encounter – Initiative & Rounds**
 
 **Nish🚩:** Common abbreviation for Initiative. Used interchangeably in rules and table talk.
 
@@ -806,10 +803,10 @@ How often an ability (Power⚡ or Magic Item✨) can be used:
 
 What an ability costs on your turn:
 
-* **A (Attack⚔️):** Any weapon Atk⚔️ or ability using an A action, , or one simple act.  
-* **M (Move🏃):** Any movement ≥1sq, ability using an M action, or one simple act.  
-* **P (Partial):** Minor tasks (see list below), abilities using P, or one simple act.  
-* **AM:** Both Attack⚔️ \+ Move🏃; you may still use your one P.  
+* **A (Attack⚔️):** Any weapon Atk⚔️ or ability using an A actiont.  
+* **M (Move👣):** Any movement ≥1sq, ability using an M action.  
+* **P (Partial):** Minor tasks (see list below), abilities using a P action.  
+* **AM:** Both Attack⚔️ \+ Move👣; you may still use your one P.  
 * **F (Free):** No cost; anytime. Limit: GM discretion.
 
 **Action Rules:**
@@ -820,13 +817,10 @@ What an ability costs on your turn:
 * Actions are never interchangeable (cannot trade A or M for P, etc.).  
 * Never exceed 1 A, 1 M, and 1 P per rnd.  
 * Movement rule: If you move ≥1sq, it always consumes your M action (even if MR \= 10 and you only move 1sq).  
-  * If you do not use A, you may split MR (move → pause → move).  
-  * If you use A, any leftover MR is lost (cannot Move-Atk-Move unless a Power⚡ or Magic Item✨ allows).  
-* Simple Act  
-  * There is a class of acts “Simple Acts” that any AMP Action can accomplish. Thus if both the M and P are used, a character could perform two simple acts or if AMP are used three simple acts could be performed. However, a simple act does use the entire A, M or P, so an M Action used for a simple act means the character could not move that round or perform any other M Action.  
-  * Simple Acts may NOT: involve any die roll, use any math, have any magical effect, use any ability, specify a specific action type such as P or M
+  * If you do not use A Action, you may split MR (move → pause → move).  
+  * If you use A Action, any leftover MR is lost (cannot Move-Atk-Move unless a Power⚡ or Magic Item✨ allows it).
 
-**Examples of Simple Acts (for A, M or P Action):**
+**Examples of Partial (P) Actions:**
 
 * Open/lock a door.  
 * Draw weapon⚔️  
@@ -835,14 +829,9 @@ What an ability costs on your turn:
 * Stand from prone.  
 * Cross rough terrain.  
 * Drink or Eat non-magical liquid or food  
-* A brief talk.
-
-**Examples of Partial (P) Actions:**
-
-* All P Action abilities (Powers⚡ & Magic Items✨) \- (Why not Simple Act? \- is an Ability)  
-* Skill🎓 use (e.g., Awareness👁️, Climbing🏃). \- (Why not Simple Act? \- is an Ability)  
-* Run: add \+d(MR) to MR for rnd. Use die ≤ MR. \- (Why not Simple Act? \- involves a die roll)  
-* Drink a potion (Why not Simple Act? \- Has a magical effect)
+* A brief talk.  
+* Run: add \+d(MR) to MR for rnd. Use die ≤ MR  
+* Drink a potion
 
 **Examples of Free (F) Actions:**
 
@@ -860,14 +849,14 @@ What an ability costs on your turn:
 
 * Charge and Strike → Move (M) across the battlefield, Attack (A) with your longsword, and Partial (P) to draw a shield mid-swing.  
 * Shoot and Relocate → Attack (A) with a bow, Move (M) behind cover, and Partial (P) to drop prone.  
-* Dagger Flurry → Attack (A) twice using a multi-attack (if your Might allows), Move (M) to shift one square, and Partial (P) to kick a chair into an opponent’s path (but NOT at an opponent which would be an illegal 2nd Attack (A) action.  
+* Dagger Flurry → Attack (A) twice using a multi-attack (if your Might allows), Move (M) to shift one square, and Partial (P) to kick a chair into an opponent’s path (but NOT at an opponent which would be an illegal 2nd Attack (A) action).  
 * Defensive Prep & Punch → A hands free character: Move (M) into position, Partial (P) to don a shield, and Attack (A) with a punch (Brawl) as there isn’t another Partial (P) action to also draw out a weapon.  
 * Potion Break → Attack (A) with a mace, Partial (P) to quaff a healing potion, and Move (M) toward safety.  
-* Battlefield Control → Move (M) to a doorway, Partial (P) to slam it shut, and Attack (A) to strike an enemy adjacent.  
+* Battlefield Control → Move (M) to a doorway, Free (F) to slam it shut, and Attack (A) to strike an enemy adjacent.  
 * Quick Cast → Attack (A) with a spell (firebolt), Move (M) three squares back, and Partial (P) to activate a magical trinket.  
 * Opportunistic Fighter → Attack (A) with dual weapons, Move (M) around the enemy to flank, and Free (F) to shout a warning to allies.  
 * Agile Scout → Move (M) your full MR across rough terrain, Partial (P) to make an awareness check to potentially see a hidden foe, and Attack (A) with a hurled dagger.  
-* Show of Flair → Attack (A) with a rapier, Free (F) to bow dramatically (Flair trait), Move (M) into cover, and Free (P) to verbally taunt your opponent.  
+* Show of Flair → Attack (A) with a rapier, Free (F) to bow dramatically (Flair trait), Move (M) into cover, and Free (F) to verbally taunt your opponent.  
 * Shoot and Run → Attack (A) with a bow, Move (M) down the hallway, and Partial (P) to run (adds d(MR)) further.
 
 ## **⏳ Duration**
@@ -883,7 +872,7 @@ Default \= **1 rnd** unless otherwise stated/obvious.
 
 * **Melee:** Adjacent sq. (No extended melee).  
 * **Ranged:** 6–12 sq (GM discretion).  
-* **Long Range:** Beyond this → disadvantaged rolls (GM discretion).
+* **Long Range:** Beyond this is at GM discretion if allowed → all long range are disadvantaged rolls .
 
 ---
 
@@ -901,9 +890,9 @@ Note: Hazards / Afflictions \- terms are synonymous.
 **Rules:**
 
 * Afflictions do NOT have a stated duration (no “for 1 rnd” or “for encounter” etc. \- no duration), rather they last until the target saves.  
-* Each rnd on their Nish🚩, PCs get an F save roll vs each affliction.  
-* On Monster Nish🚩, PCs who caused afflictions roll again (Skill🎓 vs Monster Atr✅) to see if it persists.  
-* If an Affliction triggers upon PC Wounds🩸, do note that Fatigue Wnds🩸 does NOT count as a trigger as the wounds🩸 are only bruising/tiring no skin contact or piercing is implied. But if the PC’s AR roll did not stop all the actual DMG, then part of the Fatigue Wnds🩸did touch and pierce skin, so the affliction does apply.
+* Each rnd on their Nish🚩, PCs get an F save roll vs each affliction on themselves.  
+* On Monster Nish🚩, PCs who caused afflictions to that monster roll again (Skill🎓 vs Monster Atr✅) to see if it persists on the monster.  
+* If an Affliction triggers upon PC Wounds🩸, do note that Fatigue Wnds🩸 does NOT count as a trigger as the wounds🩸 are Fatigue only bruising/tiring no skin contact or piercing is implied. But if the PC’s AR roll did not stop all the actual DMG, then part of the Fatigue Wnds🩸did touch and pierce skin, so the affliction does apply.
 
 ---
 
@@ -911,7 +900,7 @@ Note: Hazards / Afflictions \- terms are synonymous.
 
 * **Default Use:** Reroll entire roll (all dice), keep best (original or reroll).  
 * Cannot reroll partial dice (must reroll **all** involved dice).  
-* Cannot reroll if a Crititcal💀.  
+* Cannot reroll if a Crititcal💀 occurs.  
 * Cannot use more than once on a particular roll (no “second Luck🍀”).
 
 **Starting Luck🍀:** 3 chits.  
@@ -922,7 +911,7 @@ Note: Hazards / Afflictions \- terms are synonymous.
 
 # **💰Treasure** 
 
-If the encounter does not list specific treasure, a treasure roll is typical after any major encounter or after any encounter that would warrant treasure. If the encounter was minor, skip the roll or  the roll could be 2L100, if it was major it is typical to allow multiple rolls (e.g., each player makes a roll). GMs will find a treasure balance that works for their campaign. 
+If the encounter does not list specific treasure, a treasure roll is typical after any major encounter or after any encounter that would warrant treasure. If the encounter was minor, skip the roll or  the roll could be 2L100, if it was major it is typical to allow multiple rolls (e.g., each player makes two rolls). GMs will find a treasure balance that works for their campaign. 
 
 ## **📜 Quick Notes**
 
@@ -2009,546 +1998,6 @@ Select one of the many sub-sets of powers such as Class👤, Race🧬, Combat St
 | Underground Lore👁️ |
 | Weather👁️ |
 
-# 🔒 Personal PC
-
-# 🔒Personal Player Characters
-
-This section includes personal Abilities and Magic Items✨ for specific characters.
-
-# Grand Jct
-
-# Jesse (Maddy)
-
-# Jesse Playing Maddy
-
-| 📜 Skill Set: Punk Fighter |  |  |  |  |
-| ----- | ----- | ----- | ----- | ----- |
-| **d3** | **Usage** | **Action** | **Skill Set🎓** | **Skills🎓** |
-| 1 |  |  | Streetwise Survival | Spot unusual activity👁️, Blend into crowds🏃, Create distractions👁️, Identify urban threats👁️, Escape pursuit🏃 |
-| 2 |  |  | Bareknuckle Combat | Brawl💪, Improvised weapon use💪, Street brawl tactics👁️, Endure Pain✨ |
-| 3 |  |  | Intimidation & Presence | Threaten convincingly👁️, Taunt foes👁️, Inspire allies👁️, Lead rebellious groups👁️, Recognize manipulation👁️ |
-|  |  |  |  |  |
-| **⚡ Class Powers (Fighter – Punk Archetype)** |  |  |  |  |
-| **d20** | **Usage** | **Action** | **Name** | **Effect** |
-| 1 | 2-Enc | A | Adrenaline Surge | Heal self 2❤️ |
-| 2 | 1-Enc | A | Bareknuckle Brawling | Make 2 unarmed Atk⚔️; suffer d4 self-Dmg💥❤️ |
-| 3 | 1-Rnd | A | Crossbow Snap | Quick fire; Ranged Atk⚔️, Dmg💥-1 |
-| 4 | 1-Day | A | Defiance Stance | For 1 rnd; AR🧥+2, Dmg💥+2 |
-| 5 | 1-Rnd | A | Mohawk Menace | Flash aggression; nearby foes Mind👁️ or flee 1sq |
-| 6 | 1-Enc | A | Punk Rally Cry | All allies Nish🚩+2 for 1 rnd |
-| 7 | 1-Enc | A | Smoke Bomb Toss | Create 3x3sq zone; foes inside suffer Disadvantage on Atk & Dodge🏃 this rnd |
-| 8 | 1-Enc | P | Chain Punk Fury | On hit; make 1 extra Atk⚔️ with off-hand weapon |
-| 9 | 1-Enc | P | Gambler’s Edge | Your next Atk⚔️ or Skill🎓 roll has Advantage |
-| 10 | 1-Rnd | P | Improvised Arsenal | Wield random object; Atk⚔️ and Dmg💥 equals Might💪 |
-| 11 | 1-Enc | P | Oops, Shouldn’t Have Said That… | Insult foe; Mind👁️ or target focuses Atk on you this rnd |
-| 12 | 1-Enc | P | Piercing Presence | Intimidate foe; Mind👁️ or target suffers Atk-2 for 1 rnd |
-| 13 | 1-Rnd | P | Psst\! Look at that Weird Cat\! | Summon Jim; foes in 2sq distracted👁️ this rnd, then Jim flees |
-| 14 | 1-Enc | P | Rebel’s Awareness | Spot hidden exits, ambushes, or unusual behavior👁️ |
-| 15 | 1-Enc | P | Riot Instigator | Mind👁️ vs foes or allies in 3sq Advantaged on Atk for 1 rnd |
-| 16 | 1-Enc | P | You Look Kinda Nice When You’re in Danger | When ally is hit; choose: ally AR🧥+d4 or next Dmg💥+d4 |
-| 17 | 1-Day | F | Brotherhood of the Garbage Can Gods | Call on ally memory; reroll 1 failed roll (self or ally) |
-| 18 | 1-Enc | F | PA-TING\! | On successful Dodge🏃; make 1 immediate counter-Atk⚔️ at Disadvantage |
-| 19 | 1-Enc | F | Piercing Retort | On being insulted; immediate counter-Insult, Mind👁️ or foe Atk-2 |
-| 20 | 1-Enc | F | Street Instincts | Spot danger👁️; Nish🚩+2 on next roll |
-|  |  |  |  |  |
-| **🍺 Minor Magic Items** |  |  |  |  |
-| **d1** | **Usage** | **Action** | **Name** | **Effect** |
-| 1 | 1 | P | Loaded Gambler’s Dice | On use; reroll 1 failed Atk⚔️, Skill🎓, or Power⚡ roll |
-|  |  |  |  |  |
-| **🔮 Lesser Magic Items** |  |  |  |  |
-| **d3** | **Usage** | **Action** | **Name** | **Effect** |
-| 1 | 1-Enc | A | Smoke Bomb Satchel | Throw 1 bomb; create 3x3sq smoke cloud; foes inside suffer Disadvantage on Atk & Dodge🏃 for 1 rnd |
-| 2 | 1-Enc | P | Concealed Dagger | Make 1 Atk⚔️ this rnd with Advantage (one strike only) |
-| 3 | 1-Enc | F | Spiked Vest of the Punk Gods | When grappled; grappler suffers d4 Dmg💥 |
-|  |  |  |  |  |
-| **🪬 Greater Magic Items** |  |  |  |  |
-| **d2** | **Usage** | **Action** | **Name** | **Effect** |
-| 1 | 1-Enc | A | Crossbow of the Alley | Make 1 Ranged Atk⚔️; ignoring cover and any Atk Disadvantage |
-| 2 | 1-Enc | P | Longsword of the Street Rebel | For 1 rnd; melee Atk⚔️+1 & Dmg💥+1; vs larger foes, first melee Atk has Advantage |
-
-# Merrill (Kaeleon)
-
-# Merrill Playing Kaeleon
-
-| 📜 Skill Set: Iron Lotus Discipline |  |  |  |  |
-| ----- | ----- | ----- | ----- | ----- |
-| **d1** | **Effect** | **Action** | **Skill Set🎓** | **Skills🎓** |
-| 1 |  |  | Iron Lotus Discipline | Brawl🥋, Awareness👁️, Mountaineering🏃, Healing Arts👁️, Endure Pain, (Saves✨ vs pain/fear) |
-|  |  |  |  |  |
-| **⚡ Class Powers – Blade Saint (Martial Artist)** |  |  |  |  |
-| **d21** | **Usage** | **Action** | **Name** | **Effect** |
-| 1 | 1-Day | A | Crushing Lotus | This attack gains Atk⚔️+2 and Dmg💥+2 |
-| 2 | 1-Rnd | A | Cyclone Kick | On hit; Motion🏃 Atk⚔️ knocks target back d4sq |
-| 3 | 1-Day | A | Defiance Stance | For 1 rnd; AR🧥+2, Dmg💥+2 |
-| 4 | 1-Enc | A | Flurry of Blows | Multi-Atk⚔️ with katars⚔️; each Dmg💥 at –1d |
-| 5 | 1-Enc | A | Pressure Point Strike | On hit; target Resist✨ or Stunned 1 rnd |
-| 6 | 1-Enc | A | Twin Katar Sweep | Atk⚔️ with both katars; if both hit, target prone |
-| 7 | 1-Day | A | Unbending Steel | On hit; target Atk⚔️ rolls Dis for 1 rnd |
-| 8 | 1-Day | M | Ascend the Peaks | Teleport up to 6sq if terrain is vertical stone |
-| 9 | 1-Enc | M | Ascetic Agility | Climb or leap up to MR👣 with Motion🏃 checks at Advantage this rnd |
-| 10 | 1-Enc | M | Mountain Step | Move double MR👣 over rough terrain |
-| 11 | 1-Enc | P | Balance of Steel | Nish🚩+2 for 1 rnd |
-| 12 | 1-Enc | P | Breath Control | For 1 rnd, Resist✨ vs Afflictions💀 at Advantage |
-| 13 | 1-Enc | P | Herbal Poultice | Heal 1 Vit❤️ using herbs |
-| 14 | 1-Enc | P | Iron Body Meditation | Ignore Wnd🩸 penalties (Unconscious & Death Check) for 1 rnd |
-| 15 | 1-Enc | P | Lotus Focus | Gain Adv on next Atk⚔️ roll |
-| 16 | 1-Enc | F | Blade Parry | On being Melee Hit; auto succeed at a weapon a Block🛡️ (up to Max Block of 12\) |
-| 17 | 1-Enc | F | Combat Stance Shift | Switch stance; Atk⚔️+1 or Def+1 until next rnd |
-| 18 | 1-Enc | F | Lotus Mantra | Rally allies; nearby gain Nish🚩+1 this rnd |
-| 19 | 1-Day | F | Monastic Vow | Gain Luck🍀+1 once per Day |
-| 20 | 1-Day | F | River Stone Patience | Reroll one failed roll (self or ally) |
-| 21 | 1-Enc | F | Steel Lotus Counter | After a successful Block🛡️; make 1 immediate Atk⚔️ |
-|  |  |  |  |  |
-| **🍺 Minor Magic Items** |  |  |  |  |
-| **d1** | **Usage** | **Action** | **Name** | **Effect** |
-| 1 | 1-Enc | P | Whetstone of True Edge | On use; next Atk⚔️ with sharpened weapon Dmg💥+1. |
-|  |  |  |  |  |
-| **🔮 Lesser Magic Items** |  |  |  |  |
-| **d2** | **Usage** | **Action** | **Name** | **Effect** |
-| 1 | 1-Enc | P | Bracers of the Unbroken Stance | Activate stance; Resist push/pull; AR🧥+1 for 1 rnd. |
-| 2 | 1-Enc | P | Loaded Gambler’s Dice | On use; reroll 1 failed Atk⚔️, Skill🎓, or Power⚡ roll |
-|  |  |  |  |  |
-| **🪬 Greater Magic Items** |  |  |  |  |
-| **d4** | **Usage** | **Action** | **Name** | **Effect** |
-| 1 | 1-Enc | A | Katars of the Unbending Steel (Resolve & Execution) | On hit; target Resist✨ or Stunned 1 rnd |
-| 2 | 1-Enc | A | Crossbow of the Alley | Make 1 Ranged Atk⚔️; ignoring cover and any Atk Disadvantage |
-| 3 | 1-Enc | P | Concealed Dagger | Make 1 Atk⚔️ this rnd with Advantage (one strike only) |
-| 4 | 1-Enc | P | Longsword of the Street Rebel | For 1 rnd; melee Atk⚔️+1 & Dmg💥+1; vs larger foes, first melee Atk has Advantage |
-|  |  |  |  |  |
-| **🌀 Artifact Magic Items** |  |  |  |  |
-|  | **Usage** | **Action** | **Name** | **Effect** |
-| \- | \- | \- | None | Kaelen seeks to forge his own legend. |
-
-# Phill (Solen)
-
-# Phill playing Solen
-
-| 📜 Skill Set: Sunblessed Fey Devotion |  |  |  |  |
-| ----- | ----- | ----- | ----- | ----- |
-| **d4** | **Usage** | **Action** | **Skill Set** | **Skills** |
-| 1 |  |  | Healing Arts | Herbalism👁️, Basic Healing👁️, Treat Disease👁️, Treat Poison👁️ |
-| 2 |  |  | Agility | Acrobatics🏃, Balance🏃, Escape Bonds🏃, Falling🏃, Climb🏃 |
-| 3 |  |  | Arcana | ID Magic Item/Spells/runes/Magic Beasts✨, Detect Enchantments✨ |
-| 4 |  |  | Survival | Forage👁️, Find Water👁️, Identify Plants👁️, Endure Weather✨ |
-|  |  |  |  |  |
-| **⚡ Class Powers – Sun-Devoted Healer-Protector** |  |  |  |  |
-| **d20** | **Usage** | **Action** | **Name** | **Effect** |
-| 1 | 1-Enc | A | Healing Light | On touch; Heal 1d4 Vit❤️ |
-| 2 | 3-Enc | A | Healing Light (Greater) | Heal 1d4+1 Vit❤️ |
-| 3 | 2-Day | A | Purging Breath | Cleanse 1 condition (Poison, Disease, Fatigue, Fear, Charm, Confusion, Stunned, Paralysis) |
-| 4 | 1-Enc | P | Sanctuary | Target ally cannot be attacked until they act (ends if they attack or take an A action) |
-| 5 | 1-Enc | A | Radiant Smite | On hit; add \+d6 radiant (Magic✨) Dmg💥 |
-| 6 | 1-Enc | A | Solar Burst | Magic✨ Atk (AOE 2sqR); d4 radiant Dmg💥 |
-| 7 | 1-Enc | M | Fey Flight | While flying this rnd, move up to MR👣 and ignore difficult terrain |
-| 8 | 1-Day | M | Sun Step | Teleport up to 6sq into sunlight |
-| 9 | 1-Enc | M | Blinding Wings | Create bright light (3sq); foes in light Resist✨ or Blind 1 rnd |
-| 10 | 1-Enc | P | Radiant Presence | Activate aura for 1 rnd; adjacent allies Heal 1 Vit❤️ at start of their next turn |
-| 11 | 1-Enc | P | Sun-Kissed Radiance | Emit bright light 3sq / dim 6sq for 1 Enc; vs Undead in bright light PCs Atk with Advantage |
-| 12 | 1-Rnd | P | Cobra Stance | Dodge+2 for 1 rnd; req unarmored/light armor |
-| 13 | 1-Enc | P | Uncanny Dodge | Gain Advantage on 1 Dodge🏃 roll this rnd |
-| 14 | 1-Day | P | Resist Corruption | Resist with Advantage vs disease, poison, undead effects for 1 Enc |
-| 15 | 1-Rnd | P | Nimble Form | Dodge🏃+1 |
-| 16 | 1-Enc | P | Beacon of Solara | Allies within 3sq Nish🚩+2 this rnd |
-| 17 | 1-Enc | P | Solar Rally | Rally up to 2 allies in 3sq; each gains Vit❤️+1 |
-| 18 | 1-Day | P | Dawn’s Aegis | All allies in 3sq gain AR🧥+1 for 1 Enc |
-| 19 | 1-Luck | F | Light’s Mercy | Reroll one failed Heal roll |
-| 20 | 1-Day | F | Solara’s Vow | Once/day, Revive ally at ≤0 Vit❤️ to 1 Vit❤️ |
-|  |  |  |  |  |
-| **🧬 Racial Powers – Fairy (Sunblessed Fey)** |  |  |  |  |
-| **d10** | **Usage** | **Action** | **Name** | **Effect** |
-| 1 | 1-Enc | M | Winged Flight | Fly MR👣; Hover in place |
-| 2 | 1-Enc | M | Flutter Dance | Move MR👣; foes’ Atk⚔️ vs you Dis this rnd |
-| 3 | 1-Enc | P | Small Stature | Stealth🏃 with Advantage in natural terrain |
-| 4 | 1-Enc | P | Glitterdust | Emit light motes in 2sq; foes Resist✨ or Blind 1 rnd |
-| 5 | 1-Enc | P | Fey Resilience | Resist Magic✨ with Advantage vs Charm/Fear |
-| 6 | 1-Day | P | Fey Glamour | Target Resist✨ or Charmed for 1 rnd |
-| 7 | 1-Enc | P | Sunblessed | Light sources you create glow \+1sq radius |
-| 8 | 1-Enc | F | Fey Whisper | Communicate with beasts in 3sq |
-| 9 | 1-Enc | F | Fey Grace | Gain Nish🚩+2 this rnd |
-| 10 | 1-Luck | F | Fey Luck | Reroll one failed Dodge🏃 roll |
-|  |  |  |  |  |
-| **🍺 Minor Magic Items** |  |  |  |  |
-| **d2** | **Usage** | **Action** | **Name** | **Effect** |
-| 1 | 1 | P | Sunpetal Brooch | On use; Heal self 1 Vit❤️ and emit light 2sq for 1 Enc |
-| 2 | 1 | A | Vial of Sacred Dust | Throw 2sq; Magic✨ Atk vs undead; d4 Dmg and Weakened 1 rnd |
-
-# Charlie (Steilgar)
-
-# Charlie Playing Steilgar
-
-| 📜 Skill Set: Psionic Sentinel Discipline |  |  |  |  |
-| ----- | ----- | ----- | ----- | ----- |
-| **d5** | **Usage** | **Action** | **Skill Set** | **Skills** |
-| 1 |  |  | Mental Discipline | Focus👁️, Telepathy👁️ (empathy, surface feelings), Mental Fortitude✨, Psionic Control✨ |
-| 2 |  |  | Martial Prowess | All Swords💪, Unarmed🥊, Tactics👁️, Guard Drills🏃 |
-| 3 |  |  | Awareness | Perception👁️, Read Intent👁️, Lie Detection👁️, Situational Analysis👁️ |
-| 4 |  |  | Acrobatics | Balance🏃, Evasion🏃, Parkour🏃, Recovery Rolls🏃 |
-| 5 |  |  | Diplomacy | Persuasion👁️, De-escalation👁️, Command Presence👁️, Mediation👁️ |
-|  |  |  |  |  |
-| **⚡ Class Powers – Psionic Sentinel** |  |  |  |  |
-| **d20** | **Usage** | **Action** | **Name** | **Effect** |
-| 1 | 1-Enc | A | Blade of Thought Technique | On hit with longsword; Magic✨ force Dmg💥+1 and push target 1sq. |
-| 2 | 2-Enc | A | Echo Slash | Line 3sq; make 1 Atk⚔️ vs each foe in line; on hit; Dmg💥 at –1d (no uplift). |
-| 3 | 1-Enc | A | Flurry of Mental Blows | Make 2 unarmed🥊 Atks this rnd; each Dmg💥 d4 (no uplift). |
-| 4 | 1-Enc | A | Focused Strike | Atk⚔️+2 for this Atk; on hit; Dmg💥+1. |
-| 5 | 1-Day | A | Mind Lance | Magic✨ Atk🎯 6sq; on hit; Magic✨ force Dmg💥 d8 and Mind👁️ or target is Weakened for 1 rnd. |
-| 6 | 1-Enc | A | Psionic Blade | On hit; Magic✨ force Dmg💥+1 and Mind👁️ or target is Weakened for 1 rnd. |
-| 7 | 1-Day | A | Sever Thought | On hit; Mind👁️ or target cannot use Magic✨ Powers⚡ for 1 rnd. |
-| 8 | 1-Enc | A | Stunning Palm | On unarmed🥊 hit; Dmg💥 d4 and Mind👁️ or target is Stunned for 1 rnd. |
-| 9 | 1-Enc | A | Telekinetic Crush | Magic✨ Atk🎯 4sq; on hit; Dmg💥 d6 and target is Immobilized for 1 rnd. |
-| 10 | 1-Enc | AM | Blink Assault | Teleport up to 6sq, then make 1 Atk⚔️ this rnd; on hit, Magic✨ force Dmg💥+1. |
-| 11 | 1-Day | F | Iron Will | Remove 1 condition (Stunned or Weakened). |
-| 12 | 1-Enc | M | Mind Dash | Move double MR👣 this rnd. |
-| 13 | 2-Enc | M | Phantom Step | Move MR👣; you do not provoke opportunity Atks this rnd. |
-| 14 | 1-Enc | M | Psionic Leap | Jump or vault up to MR👣 ignoring difficult terrain. |
-| 15 | 1-Enc | M | Telekinetic Glide | Teleport up to 8sq to a visible square on solid ground. |
-| 16 | 1-Enc | P | Defensive Stance | Def+2 for 1 rnd. |
-| 17 | 1-Day | P | Mind Over Body | Resist✨ poison/disease with Advantage and Heal self 1d4. |
-| 18 | 1-Enc | P | Psionic Barrier | Allies within 2sq gain AR🧥+1 for 1 rnd. |
-| 19 | 1-Enc | P | Psionic Push | Magic✨ Atk; on hit; push target 2sq. |
-| 20 | 1-Enc | P | Uncanny Dodge (Mental Reflex) | Gain Advantage on 1 Dodge🏃 roll this rnd. |
-|  |  |  |  |  |
-| **🧬 Racial Powers – Human (Aethelgard Bloodline)** |  |  |  |  |
-| **d10** | **Usage** | **Action** | **Name** | **Effect** |
-| 1 | 1-Enc | F | Battle Drill | Give 1 adjacent ally Nish🚩+1 this rnd. |
-| 2 | 1-Luck | F | Human Grit | Reroll one failed Ability Roll. |
-| 3 | 1-Day | F | Veiled Mind | After you succeed a Resist✨ vs a mental effect; Make Mind👁️ to Weaken the Attacker for 1 rnd. |
-| 4 | 1-Enc | P | Aethelgard Composure | Nish🚩+1 when combat begins. |
-| 5 | 1-Enc | P | Clear the Mind | Remove Disadvantage from your next Mind👁️ roll this rnd. |
-| 6 | 1-Enc | P | Guard’s Pragmatism | Choose Atk⚔️+1 or Def+1 for this rnd. |
-| 7 | 1-Enc | P | Orderly Bearing | Social Persuasion👁️ at Advantage with lawful authorities. |
-| 8 | 1-Enc | P | Peak-Bred Endurance | When you Heal, Heal self \+1 once per Enc. |
-| 9 | 1-Enc | P | Steady Hands | Reroll one failed Block🛡️ or Dodge🏃 roll this rnd. |
-| 10 | 1-Enc | P | Stoic Resolve | Resist✨ vs fear/charm with Advantage. |
-|  |  |  |  |  |
-| **🍺 Minor Magic Items** |  |  |  |  |
-| **d2** | **Usage** | **Action** | **Name** | **Effect** |
-| 1 | 1 | P | Ink of Recall | On use; Writing & Communication✒️ checks to reproduce or decode symbols are at Advantage for 1 Enc. |
-| 2 | 1 | P | Mindstone Charm | On use; Gain Advantage on 1 Mind👁️ roll this rnd. |
-|  |  |  |  |  |
-| **🔮 Lesser Magic Items** |  |  |  |  |
-| **d2** | **Usage** | **Action** | **Name** | **Effect** |
-| 1 | 1-Enc | A | Blade of Thought (Longsword) | On hit; Magic✨ force Dmg💥+1; once per Enc, also push target 1sq. |
-| 2 | 1-Enc | P | Bracers of Psionic Focus | Activate focus; Atk⚔️+1 and Def+1 for 1 rnd. |
-
-# Steve (Phantom)
-
-# Steve (Phantom)
-
-| 📜 Skill Set: Thievery & Assassination |  |  |  |  |
-| ----- | ----- | ----- | ----- | ----- |
-| **d4** | **Usage** | **Action** | **Skill Set** | **Skills** |
-| 1 |  |  | Thievery🎓 | Stealth🏃, Climb🏃, Open Locks👁️, Detect/Remove Traps👁️, Pick Pockets🏃 |
-| 2 |  |  | Dagger Combat⚔️ | Precision Strikes⚔️, Thrown Daggers⚔️, Dual-Wield ⚔️ |
-| 3 |  |  | Urban Survival🎓 | Navigate Cityscapes🏃, Hidden Routes👁️, Blend into Crowds🏃, Streetwise👁️ |
-| 4 |  |  | Assassination🎓 | Silent Kills⚔️, Target Analysis👁️, Backstab⚔️, Poison Use👁️ |
-|  |  |  |  |  |
-| **⚡ Class Powers – Phantom Tainville (Human Thief Assassin)** |  |  |  |  |
-| **d20** | **Usage** | **Action** | **Name** | **Effect** |
-| 1 | 1-Enc | A | Twin Strike | Multi-Atk with main and/or off-hand daggers (no uplift) to Mulit-Atk limit \+1 |
-| 2 | 2-Enc | A | Weighted Throw | If you are unseen to Target; Hurl dagger at Advantage |
-| 3 | 1-Enc | M | Ghosting Run | Move up to MR👣; ignore Opp Atk this move |
-| 4 | 1-Enc | M | Rope Runner | Climb or descend up to MR👣 on rope/wall this rnd; Stealth🏃 allowed while moving |
-| 5 | 1-Enc | M | Shadow Step | Teleport up to MR👣 to a visible shadow |
-| 6 | 1-Enc | M | Slip Through | Move through 1 enemy’s square; that foe Mind👁️ or cannot Opp Atk you this move |
-| 7 | 1-Enc | P | Apply Poison | Coat 1 dagger; next hit this Enc adds Dmg💥+1; target Resist✨ or Poisoned |
-| 8 | 1-Enc | P | Disable Trap | Disable Trap at Advantage |
-| 9 | 1-Enc | P | Distract & Draw | Create brief diversion; nearest foe Mind👁️ or looks away; your next Stealth🏃 this rnd gains Advantage |
-| 10 | 1-Enc | P | Pick Lock | Pick Lock with Advantage |
-| 11 | 1-Enc | P | Set Ambush | Choose a square; first Atk⚔️ you or ally makes into that square this rnd gains Advantage |
-| 12 | 2-Enc | P | Silent Takedown | On hit vs adjacent humanoid; target Resist✨ or Stunned |
-| 13 | 1-Enc | P | Sleight of Hand | Plant/switch/palm a small item with Advantage |
-| 14 | 1-Enc | P | Target Analysis | Study 1 foe; your next Atk⚔️ vs that foe gains Advantage |
-| 15 | 1-Enc | P | Vitals Strike | On hit; target Resist✨ or Weakened |
-| 16 | 1-Enc | F | Assassinate | On surprise Atk⚔️ from Hidden; Atk with Advantage, Dmg💥+6; target Resist✨ or Stunned |
-| 17 | 3-Enc | F | Backstab | On hit from Stealth🏃Dmg💥+4, or rear; Dmg💥+2 |
-| 18 | 1-Enc | F | Mark Target | Choose 1 visible foe; your next Atk⚔️ vs that foe this Enc gains Advantage |
-| 19 | 1-Enc | F | Vanish | If unseen; become hidden; you may immediately move up to d4 sq toward a visible shadow |
-| 20 | 1-Enc | F | Whispered Signal | Allies in earshot gain Nish🚩+1 this rnd |
-|  |  |  |  |  |
-| **🍺 Minor Magic Items** |  |  |  |  |
-| **d2** | **Usage** | **Action** | **Name** | **Effect** |
-| 1 | 1 | P | Hush Leaf | On chew; Stealth🏃 Advantage this rnd. |
-| 2 | 1-Enc | F | Shadow Thread | On use; reattach or secure 1 small garment/strap silently; grants Advantage to the next Sleight of Hand this Enc. |
-|  |  |  |  |  |
-| **🔮 Lesser Magic Items** |  |  |  |  |
-| **d2** | **Usage** | **Action** | **Name** | **Effect** |
-| 1 | 1-Enc | F | Shoes of Silence | Activate; all steps are noiseless for 1 Enc; Stealth🏃 while moving gains Advantage. |
-|  |  |  |  |  |
-| **🪬 Greater Magic Items** |  |  |  |  |
-| **d1** | **Usage** | **Action** | **Name** | **Effect** |
-| 1 | 1-Enc | P | Elven Chain Mail of Silent Passage | Activate; AR🧥+1 and all worn movement is noiseless for 1 Enc |
-
-# Meeker
-
-# Eric
-
-| 👤 Class Powers – Cursed Spartan (Shieldbearer / Executioner) |  |  |  |  |
-| ----- | ----- | ----- | ----- | ----- |
-| **d20** | **Usage** | **Action** | **Power** | **Effect** |
-| 1 | 1-Enc | AM | Phalanx Drive | Move double MR👣; Atk with Spear; Dmg💥+2 |
-| 2 | 1-Day | AM | Phalanx Advance | Move with shield raised; allies in 2sq gain AR🧥+1 this rnd |
-| 3 | 1-Enc | A | SpearCircle | Atk all adjacent foes with spear |
-| 4 | 1-Enc | A | Blood Debt Strike | On hit; ignore target’s Armor; Dmg💥+2 |
-| 5 | 2-Enc | A | Oathbound Fury | If your Wounds ≥ half Vit❤️; Atk+2 this rnd |
-| 6 | 1-Day | A | Last Stand | If reduced to negative Vit❤️; act normally until end of rnd |
-| 7 | 1-Enc | A | Shield Ram | Roll shield Def as Atk at AR🧥+1 as Dmg💥 and Might💪 pushws target d4sq |
-| 8 | 2-Enc | A | Echo of the Fallen | On hit; summon spectral ally to auto-hit same target for d6 Dmg💥 |
-| 9 | 1-Rnd | M | Shield Wall | AR🧥+2 while holding position this rnd |
-| 10 | 1-Enc | M | Linebreaker | Move MR👣 through foes; each must Block🛡️ (Might💪) or fall Prone |
-| 11 | 1-Enc | M | Formation Rally | Move to ally; that ally heals 1 Vit❤️ |
-| 12 | 1-Rnd | P | Defensive Stance | Def+1 this rnd |
-| 13 | 2-Enc | P | Cursebrand Surge | Take 1 Dmg💥; Atk+2 this rnd |
-| 14 | 1-Enc | P | Taunting Shout | Mind👁️ or foes in 2sq focus Atks on you |
-| 15 | 1-Enc | P | Shield Interpose | One adjacent ally’s Def+2 vs 1 Atk |
-| 16 | 1-Day | P | Names of the Fallen | Speak shield’s names; allies in earshot next Nish🚩+2 |
-| 17 | 1-Enc | F | Bronze Discipline | Reroll one failed Might💪 roll |
-| 18 | 1-Enc | F | Blood Oath Recall | After crit; normal GM🔎 effect and regain 1 spent (\#-Enc) usage |
-| 19 | 1-Day | F | Cursebound Defiance | Cancel 1 condition on self (Stunned/Weakened) |
-| 20 | 1-Day | F | Ghost Phalanx | Adjacent allies AR🧥+1 as spectral shields form for encounter |
-|  |  |  |  |  |
-| **🧬 Racial Powers – Bloodmarked Human (Cursed Spartan)** |  |  |  |  |
-| **d10** | **Usage** | **Action** | **Power** | **Effect** |
-| 1 | 1-Enc | A | Blood Oath Brand | On hit; Dmg💥+1 and next Nish🚩+2 |
-| 2 | 1-Enc | A | Cursefire Spear | Power channels through Spear; Atk+3 and extra d4 Dmg💥 burning |
-| 3 | 1-Enc | A | Echoing Strike | On miss; ghostly strike deals d4 Dmg💥 anyway |
-| 4 | 1-Enc | M | Burdened March | Move MR👣-2; AR🧥+2 for Encounter |
-| 5 | 1-Day | P | Ancestral Whisper | Next Mind👁️ roll with Advantage |
-| 6 | 1-Enc | P | Bronze Resolve | Resist✨+2 for 1 rnd |
-| 7 | 1-Enc | P | Shield of Names | Adjacent ally’s AR🧥+1 this rnd |
-| 8 | 1-Enc | P | Curseflare | All foes in 2sq Mind👁️ or Weakened 1 rnd |
-| 9 | 1-Day | P | Bloodmarked Defiance | When reduced to 0 Vit❤️; set to 1 Vit❤️ instead |
-| 10 | 1-Day | F | Legion’s Might | Each different Weapon has Advantage with next Attack, lasts for encounter |
-|  |  |  |  |  |
-| **🍺Minor Magic Items** |  |  |  |  |
-| **d3** | **Usage** |  | **Item** | **Effect** |
-| 1 | 1-Day | M | Ash-and-Blood WarPaint | While painted; Nish🚩+1 for encounter |
-| 2 | 1-Rnd | M | Whetstone of Memory | After sharpening weapon: next Atk+1 |
-| 3 | 1-Day | F | Iron Pendant (Mother’s Keepsake) | Resist✨+1 vs fearfor encounter |
-|  |  |  |  |  |
-| **🔮Lesser Magic Item** |  |  |  |  |
-| **d1** | **Usage** |  | **Item** | **Effect** |
-| 1 | 1-Enc | P | Spearof Phalanx | On hit; Might💪pushes target 1sq. If ally has or will likely Atk target this rnd, both Dmg💥+1 |
-|  |  |  |  |  |
-| **🪬Greater Magic Item** |  |  |  |  |
-| **d2** | **Usage** |  | **Item** | **Effect** |
-| 1 | 1-Enc | M | The Wall (Bronze Shield of the Fallen) | Summon spectral shield wall; allies in 2sq gain AR🧥+2 for 1 rnd |
-| 2 | 1-Enc | P | The Wall (Bronze Shield of the Fallen) | Block🛡️+2 for 1 rnd |
-
-# Jake
-
-| 📜 Skill Set: Engineering & Siegecraft |  |  |  |  |
-| ----- | ----- | ----- | ----- | ----- |
-| **d1** | **Usage** | **Action** | **Skill Set** | **Effect** |
-| 1 |  |  | **Engineering & Siegecraft** | Siege Engine Use/Atk/Dmg💥👁️, Repairs👁️, Rune-Engraving✨, Stone/Metal Weakness 👁️, Thunder Barge Piloting🏃 |
-|  |  |  |  |  |
-| **🛡️ Class Powers – Shield Warrior (Gutrek)** |  |  |  |  |
-| **d20** | **Usage** | **Action** | **Power** | **Effect** |
-| 1 | 1-Enc | AM | Shield Rush | Move double MR👣; Atk with shield's Def; Dmg💥 uses shield's d(Block🛡️)+2 |
-| 2 | 1-Enc | AM | Shield Break Line | Move through foes in 3sq; Might💪 or each is knocked Prone |
-| 3 | 1-Enc | A | Blackaxe Slam | Atk with shield (use Def as Atk); on hit, d4 Dmg💥 and Might💪 or target Stunned |
-| 4 | 2-Enc | A | Taunt of Stone | Mind👁️ or targets within 2sq must focus Atks on you |
-| 5 | 1-Enc | A | Hamstring Strike | On hit; normal Dmg💥 and Motion🏃 or target MR👣 halved 1 rnd |
-| 6 | 1-Enc | A | Disarm Riposte | On successful Atk; Motion🏃 or target drops weapon |
-| 7 | 1-Day | A | Stone Form | Harden body like granite; AR🛡️+2 and immune to poison/disease for Encounter |
-| 8 | 1-Enc | M | Avalanche Drive | Move MR👣; Might💪 or target falls Prone; d4 Dmg💥 |
-| 9 | 1-Enc | M | Thunder Barge Pilot | If operating Warmachine; Mind👁️ to grant allies Nish🚩+2 this rnd |
-| 10 | 1-Enc | M | Mountain Stride | Ignore terrain and climb at MR👣+2 this rnd |
-| 11 | 1-Rnd | P | Stonewall | Def+1 for 1 rnd |
-| 12 | 1-Rnd | P | Blackaxe Formation | AR🛡️+1 for 1 rnd |
-| 13 | 1-Enc | P | Ignore the Pain | Take 1 Dmg💥; negate next d6 Dmg💥 you would take |
-| 14 | 1-Enc | P | Rage Regen | Heal self 1d4 |
-| 15 | 1-Day | P | Blind Fighter’s Poise | Fight normally in darkness; Atk rolls no penalty for encounter |
-| 16 | 1-Day | P | Forge-Bound Shout | Adjacent allies gain Def+1 for Encounter |
-| 17 | 1-Enc | P | Shield Hook | Choose 1 foe; Def rolls vs them have Advantage this rnd |
-| 18 | 1-Day | F | Blackaxe Oath | If reduced to 0 Vit❤️; stay conscious until end of rnd |
-| 19 | 2-Day | F | Veteran of the Deeps | Reroll 1 failed Might💪 or Motion🏃 roll |
-| 20 | 1-Day | F | Ancestral Guard | Call on clan spirits; allies in 2sq Nish🚩+1 for Encounter |
-|  |  |  |  |  |
-| **🪨 Racial Powers – Dwarf (Blackaxe Clan)** |  |  |  |  |
-| **d10** | **Usage** | **Action** | **Power** | **Effect** |
-| 1 | 1-Enc | A | Thunder Barge Gunner | Fire mounted siege weapon; Dmg💥+2 |
-| 2 | 1-Enc | A | Tunnel Bastion | Raise 1sq wall of stone; provides cover |
-| 3 | 1-Enc | A | Construct Siege Weapon | Summon an implacement siege weapon (ballista) with 6 shots (spears) of d10 Dmg💥; Def-3 while using |
-| 4 | 1-Enc | M | Climb Like Iron | Motion🏃 climb rolls with Advantage |
-| 5 | 1-Enc | M | Rune of Endurance | Inscribe glowing rune on self; AR🛡️+2 for 1 rnd |
-| 6 | 1-Enc | P | Forge-Touched | Touch weapon; Dmg💥+1 for Encounter |
-| 7 | 1-Day | P | Ale Fortitude | Resist✨ vs poison/fearwith Advantage for Encounter |
-| 8 | 1-Enc | P | Stone Sense | Magic✨ detect hidden stone passages or weaknesses |
-| 9 | 1-Day | P | Rune-Bound Grip | Immune to being Disarmed this encounter |
-| 10 | 1-Enc | F | Ancestral Boon | Next roll Roll+2 |
-| 11 | 1-Day | F | Loyal Heart | Allies in 2sq Resist✨+1 for Encounter |
-|  |  |  |  |  |
-| **🍺 Minor Magic Items** |  |  |  |  |
-| **d1** | **Usage** | **Action** | **Item** | **Effect** |
-| 1 | 1 | P | Rune Flask of Blackaxe Ale | Drink; Heal self 1 Vit❤️ |
-|  |  |  |  |  |
-| **🔮 Lesser🔮 Magic Items** |  |  |  |  |
-| **d1** | **Usage** | **Action** | **Item** | **Effect** |
-| 1 | 1-Day | F | Tower Shield of the Blackaxe | While held: AR🛡️+1 and Def+1 for encounter |
-|  |  |  |  |  |
-| **🪬 Greater Magic Items** |  |  |  |  |
-| **d1** | **Usage** | **Action** | **Item** | **Effect** |
-| 1 | 1-Enc | P | Tower Shield of the Blackaxe (Runic Ward) | Activate rune; AR🛡️+3 for 1 rnd |
-
-# Brooke
-
-| 📜 Skill Set: Engineering & Siegecraft |  |  |  |  |
-| ----- | ----- | ----- | ----- | ----- |
-| **d1** | **Usage** | **Action** | **Skill Set** | **Effect** |
-| 1 |  |  | **Engineering & Siegecraft** | Siege Engine Use/Atk/Dmg💥👁️, Repairs👁️, Rune-Engraving✨, Stone/Metal Weakness 👁️, Thunder Barge Piloting🏃 |
-|  |  |  |  |  |
-| **🛡️ Class Powers – Shield Warrior (Gutrek)** |  |  |  |  |
-| **d20** | **Usage** | **Action** | **Power** | **Effect** |
-| 1 | 1-Enc | AM | Shield Rush | Move double MR👣; Atk with shield's Def; Dmg💥 uses shield's d(Block🛡️)+2 |
-| 2 | 1-Enc | AM | Shield Break Line | Move through foes in 3sq; Might💪 or each is knocked Prone |
-| 3 | 1-Enc | A | Blackaxe Slam | Atk with shield (use Def as Atk); on hit, d4 Dmg💥 and Might💪 or target Stunned |
-| 4 | 2-Enc | A | Taunt of Stone | Mind👁️ or targets within 2sq must focus Atks on you |
-| 5 | 1-Enc | A | Hamstring Strike | On hit; normal Dmg💥 and Motion🏃 or target MR👣 halved 1 rnd |
-| 6 | 1-Enc | A | Disarm Riposte | On successful Atk; Motion🏃 or target drops weapon |
-| 7 | 1-Day | A | Stone Form | Harden body like granite; AR🧥+2 and immune to poison/disease for Encounter |
-| 8 | 1-Enc | M | Avalanche Drive | Move MR👣; Might💪 or target falls Prone; d4 Dmg💥 |
-| 9 | 1-Enc | M | Thunder Barge Pilot | If operating Warmachine; Mind👁️ to grant allies Nish🚩+2 this rnd |
-| 10 | 1-Enc | M | Mountain Stride | Ignore terrain and climb at MR👣+2 this rnd |
-| 11 | 1-Rnd | P | Stonewall | Def+1 for 1 rnd |
-| 12 | 1-Rnd | P | Blackaxe Formation | AR🧥+1 for 1 rnd |
-| 13 | 1-Enc | P | Ignore the Pain | Take 1 Dmg💥; negate next d6 Dmg💥 you would take |
-| 14 | 1-Enc | P | Rage Regen | Heal self 1d4 |
-| 15 | 1-Day | P | Blind Fighter’s Poise | Fight normally in darkness; Atk rolls no penalty for encounter |
-| 16 | 1-Day | P | Forge-Bound Shout | Adjacent allies gain Def+1 for Encounter |
-| 17 | 1-Enc | P | Shield Hook | Choose 1 foe; Def rolls vs them have Advantage this rnd |
-| 18 | 1-Day | F | Blackaxe Oath | If reduced to 0 Vit❤️; stay conscious until end of rnd |
-| 19 | 2-Day | F | Veteran of the Deeps | Reroll 1 failed Might💪 or Motion🏃 roll |
-| 20 | 1-Day | F | Ancestral Guard | Call on clan spirits; allies in 2sq Nish🚩+1 for Encounter |
-|  |  |  |  |  |
-| **🪨 Racial Powers – Dwarf (Blackaxe Clan)** |  |  |  |  |
-| **d10** | **Usage** | **Action** | **Power** | **Effect** |
-| 1 | 1-Enc | A | Thunder Barge Gunner | Fire mounted siege weapon; Dmg💥+2 |
-| 2 | 1-Enc | A | Tunnel Bastion | Raise 1sq wall of stone; provides cover |
-| 3 | 1-Enc | A | Construct Siege Weapon | Summon an implacement siege weapon (ballista) with 6 shots (spears) of d10 Dmg💥; Def-3 while using |
-| 4 | 1-Enc | M | Climb Like Iron | Motion🏃 climb rolls with Advantage |
-| 5 | 1-Enc | M | Rune of Endurance | Inscribe glowing rune on self; AR🧥+2 for 1 rnd |
-| 6 | 1-Enc | P | Forge-Touched | Touch weapon; Dmg💥+1 for Encounter |
-| 7 | 1-Day | P | Ale Fortitude | Resist✨ vs poison/fearwith Advantage for Encounter |
-| 8 | 1-Enc | P | Stone Sense | Magic✨ detect hidden stone passages or weaknesses |
-| 9 | 1-Day | P | Rune-Bound Grip | Immune to being Disarmed this encounter |
-| 10 | 1-Enc | F | Ancestral Boon | Next roll Roll+2 |
-| 11 | 1-Day | F | Loyal Heart | Allies in 2sq Resist✨+1 for Encounter |
-|  |  |  |  |  |
-| **🍺 Minor Magic Items** |  |  |  |  |
-| **d1** | **Usage** | **Action** | **Item** | **Effect** |
-| 1 | 1 | P | Rune Flask of Blackaxe Ale | Drink; Heal self 1 Vit❤️ |
-|  |  |  |  |  |
-| **🔮 Lesser🔮 Magic Items** |  |  |  |  |
-| **d1** | **Usage** | **Action** | **Item** | **Effect** |
-| 1 | 1-Day | F | Tower Shield of the Blackaxe | While held: AR🧥+1 and Def+1 for encounter |
-|  |  |  |  |  |
-| **🪬 Greater Magic Items** |  |  |  |  |
-| **d1** | **Usage** | **Action** | **Item** | **Effect** |
-| 1 | 1-Enc | P | Tower Shield of the Blackaxe (Runic Ward) | Activate rune; AR🧥+3 for 1 rnd |
-
-# Trevor
-
-| Shadowfist Healer-Monk |  |  |  |  |
-| ----- | ----- | ----- | ----- | ----- |
-| **d25** | **Usage** | **Action** | **Power** | **Effect** |
-| 1 | 1-Enc | AM | Ki Centering | Spend 1 rnd in focus (no other actions); regain 1 Luck🍀 |
-| 2 | 1-Enc | A | Flurry of Blows | Make 2 unarmed Atks, d4 Dmg💥 each this rnd |
-| 3 | 3-Enc | A | Rejuvenating Touch | Heals d4 |
-| 4 | 1-Enc | A | Aura of Balance—Minor | Allies in 2sq Heal 1 |
-| 5 | 1-Day | A | Pressure-Point Strike | On hit; target MR👣-2 for Encounter |
-| 6 | 1-Day | A | Revive | Restore 1 ally at negative Vit❤️ to 1 Vit❤️ |
-| 7 | 2-Enc | A | Stunning Palm | On unarmed hit; d4 Dmg💥 and target Stunned 1 rnd |
-| 8 | 1-Day | A | Aura of Balance (Major) | Allies in 2sq heal d4; you suffer Dmg💥-1 for 1 rnd |
-| 9 | 2-Day | A | Purging Breath | Cleanse 1 condition (Poison, Disease, Fatigue, Fear, Charm, Confusion, Stunned, Paralysis) from an ally |
-| 10 | 1-Enc | M | Shadow Glide | Move double MR👣 this rnd |
-| 11 | 2-Enc | M | Umbral Form | Teleport between visible shadows |
-| 12 | 1-Rnd | P | Balance Ward | Allies nearby gain AR🧥+1 for 1 rnd |
-| 13 | 1-Rnd | P | Crane Stance | Def+2 for 1 rnd |
-| 14 | 1-Rnd | P | Deflect Missiles | AR🧥+2 vs Missiles |
-| 15 | 1-Enc | P | Merciful Intercession | 1 ally cannot be attacked until they act |
-| 16 | 1-Enc | P | Cloak of Darkness | Become Invisible for 1 rnd |
-| 17 | 1-Day | P | Wholeness of Body | Heal self 2 |
-| 18 | 1-Enc | P | Breath of Stillness | Ends bleeding and Saves✨+1 to target for 1 rnd |
-| 19 | 1-Enc | P | Shared Vit❤️ | Transfer up to 2 of your Vit❤️ to adjacent ally |
-| 20 | 1-Enc | P | Slow Breath (Restorative) | Regain 1 Vit❤️ and Resist✨+2 for 1 rnd |
-| 21 | 2-Enc | P | Stonefang Staffwork | If staff Atk hits; push target 1sq |
-| 22 | 2-Enc | F | Ki Surge | For 1 rnd, choose: Atk+2, Def+2, or Resist✨+2 |
-| 23 | 1-Enc | F | Pressure Chain | If unarmed Atk hits same target 2 rnds in a row; gain Def+2 for Encounter |
-| 24 | 1-Day | F | Shadow Hospice | If ally in 2sq would drop to 0; set them to 1 Vit❤️ instead |
-| 25 | 1-Enc | F | Umbral Counter | On successful Def; make 1 opportunity attack |
-|  |  |  |  |  |
-| **Umbral Kin Half-Orc Powers** |  |  |  |  |
-| **d10** | **Usage** | **Action** | **Power** | **Effect** |
-| 1 | 1-Enc | A | Dusk Howl | Foes in 2sq Mind👁️ or flee 1 rnd |
-| 2 | 1-Enc | M | Umbral Step—Short | Teleport 12sq to visible shadow |
-| 3 | 1-Rnd | P | Shadow Trance | Immune to sleep/charm and most Mind👁️ Saves✨ for 1 rnd |
-| 4 | 1-Enc | P | Ash-forged Grit | Heal self 1d4 |
-| 5 | 1-Enc | P | Volcanic Sense | Magic✨ to detect stone weaknesses/passages |
-| 6 | 1-Enc | P | Obsidian Skin | AR🧥+1 for 1 rnd |
-| 7 | 1-Day | F | Stonefang Resolve | Negate Stunned or Weakened or similar |
-| 8 | 1-Rnd | F | Blood of Balance | When you Heal an ally; Def+1 for 1 rnd |
-| 9 | 1-Day | F | Starlight Sight | See clearly in dim light; ignore typical darkness penalties |
-| 10 | 1-Enc | F | Umbral Heritage | Motion🏃 Stealth with Advantage in dim light or darkness |
-|  |  |  |  |  |
-| **🍺 Minor🍺 Magic Items** |  |  |  |  |
-| **d41** | **Usage** | **Action** | **Item** | **Effect** |
-| 1 | 2-Enc | P | Ash-Herb Pouch | Apply herbal dusts; Heal 1 Vit❤️ to adjacent ally |
-|  |  |  |  |  |
-| **🪬 Greater Magic Items** |  |  |  |  |
-| **d63** | **Usage** | **Action** | **Item** | **Effect** |
-| 1 | 1-Rnd | P | Volcanic Shard of Reth’Vash 1 | Healing Powers and healing received are \+1 |
-| 2 | 1-Enc | P | Volcanic Shard of Reth’Vash 2 | Teleport up to 6sq to visible shadow |
-| 3 | 1-Enc | F | Volcanic Shard of Reth’Vash 3 | After you Heal ally from 0 or less Vit❤️ to 1+, make 1 Brawl Opportunity Atk |
-
-# Jesse
-
-| 📜 Skill Set: Magnetism |  |  |  |  |
-| ----- | ----- | ----- | ----- | ----- |
-| **d1** | **Usage** | **Action** | **Skill Set** | **Effect** |
-| 1 |  |  | **Magnetism** | Metal Manipulation💪, Falling✨, Detect Metal👁️, Streetwise👁️ |
-|  |  |  |  |  |
-| **🎩 Class Powers: Magnetic Wizard** |  |  |  |  |
-| **d20** | **Usage** | **Action** | **Power** | **Effect** |
-| 1 | 1-Enc | A | Iron Bind | Clamp foe in metal geAR🧥; Mind👁️ or target is Immobilized |
-| 2 | 1-Enc | A | Knife Barrage | Throw d4 knives; each knife Motion🏃 Atk d4 Dmg💥 |
-| 3 | 1-Enc | A | Knife Swarm | Recall all thrown knives in range; make 1 Atk with each against nearby foes |
-| 4 | 1-Day | A | Rapier Flourish | Melee Atk with rapier; Atk+1 if foe wears metal armor for encounter |
-| 5 | 1-Rnd | AM | Magnetic Slide | Mind👁️slide up to 6 sq 1 foes held iron item or iron wearing foe |
-| 6 | 1-Day | F | Circus Survivor | When reduced to negavie Vit❤️; Resist✨ with Magic✨ vs 10+(negative wounds) to remain at 1 HP |
-| 7 | 1-Day | F | Knife Savant | Thrown knives Atk+1 for encounter |
-| 8 | 1-Day | F | Magnetized Reflex | Dodge🏃 vs ranged metal weapons with Advantage for 1 rnd |
-| 9 | 1-Enc | F | Metallic Sense | Detect hidden ferrous objects in range without roll |
-| 10 | 1-Enc | F | Streetwise Eye | Mind👁️ checks to detect scams, danger, or cheats at Advantage |
-| 11 | 1-Rnd | M | Magnetic Grasp | Move 1 unattended iron/steel object; Magic✨ roll if \> 20lb |
-| 12 | 1-Enc | M | Disarm Pull | Magic✨to disarm metal weapon, tossing weapon d8sq |
-| 13 | 1-Enc | M | Magnetic Burst | Magic✨ in 2sqR of PC; foes wearing metal roll Resist✨ or Def-2 for 1 rnd |
-| 14 | 1-Enc | M | Magnetic Featherfall | Choose 1 metal-bearing target; floats down safely this rnd |
-| 15 | 1-Rnd | M | Object Recall | Recall to hand; 1 thrown knife; or iron item in range |
-| 16 | 1-Enc | M | Polarize Armor | One ally in 3sq wearing iron; AR🧥+2 for 1 rnd |
-| 17 | 1-Enc | P | Alloy Specialist | Magic✨ reveals metal's purity & weaknesses & magic effects if any |
-| 18 | 1-Enc | P | Circus Charisma | Mind👁️ Diplomacy & Performance with Advantage |
-| 19 | 1-Day | P | Gambler’s Luck🍀 | Reroll 1 failed Mind👁️ or Motion🏃 roll |
-| 20 | 2-Enc | P | Ricochet Trick | On hit with thrown knife; magnetic knife Opporunity Atk to 1 extra target |
-|  |  |  |  |  |
-| **🍺 Minor Magic Items** |  |  |  |  |
-| **d5** | **Usage** | **Action** | **Item** | **Effect** |
-| 1 | 1-Enc | A | Stolen Iron Manacles | On capture (Brawl Atk with at least 1 Wound); foe is Immobilized until Might💪 check succeeds |
-| 2 | 1-Enc | F | Circus Cloak \- Hidden Pockets | Advantage on Mind👁️ Sleight of Hand checks |
-| 3 | 1-Day | F | Ironcore Gambler’s Dice | Next roll has Advantage |
-| 4 | 1-Rnd | M | Knife of Infinite Cloning | Can split one knife into 2 knives (new knives last for encounter) |
-| 5 | 1-Day | P | Smoke Bomb of Shrouding | Create 3x3sq smoke cloud; all Stealth rolls in area with Advantage |
-|  |  |  |  |  |
-| **🔮 Lesser Magic Items** |  |  |  |  |
-| **d3** | **Usage** | **Action** | **Item** | **Effect** |
-| 1 | 1-Enc | A | Magnetic Resonance Bracer | Target in metal armor; If Magic✨Atk hits target is leVit❤️ated up to 20', then dropped |
-| 2 | 1-Enc | A | Rapier of Impure Alloy | Atk+2 this rnd but Dmg💥-1 |
-| 3 | 1-Day | F | Ironplate Light Armor | AR🧥+1; may use Featherfall once as Free action |
-|  |  |  |  |  |
-| **🪬 Greater Magic Items** |  |  |  |  |
-| **d1** | **Usage** | **Action** | **Item** | **Effect** |
-| 1 | 1-Day | A | Circus Cloak \- Magnetized Circus | Al iron objects in 3sqR pulled to cloak at Magic✨ |
-
 # 🔎 GM Tables & Tricks
 
 # 🐉 Monster Manual
@@ -2567,7 +2016,7 @@ This section includes personal Abilities and Magic Items✨ for specific charact
 | Demon Brute | 🚩16 | 👣10 | ⚔️20 / 12 (2) | 🧥18 / 3 | ❤️24 | 💪24 / 🏃12 / 👁️12 / ✨18 | Rage aura |
 | Demon Imp | 🚩16 | 👣14 | ⚔️14 / 5 (1) | 🧥16 / 0 | ❤️8 | 💪10 / 🏃18 / 👁️16 / ✨20 | Mischief magic |
 | Dire Wolf | 🚩18 | 👣12 | ⚔️18 / 8 (1) | 🧥16 / 1 | ❤️12 | 💪18 / 🏃18 / 👁️12 / ✨10 | Pack hunter |
-| Dragon, Adult | 🚩20 | 👣12 | ⚔️24 / 25 (5) | 🧥22 / 4 | ❤️40 | 💪24 / 🏃20 / 👁️18 / ✨22 | Large breath, fearaura |
+| Dragon, Adult | 🚩20 | 👣12 | ⚔️24 / 25 (5) | 🧥22 / 4 | ❤️40 | 💪24 / 🏃20 / 👁️18 / ✨22 | Large breath, fear aura |
 | Dragon, Whelp | 🚩15 | 👣10 | ⚔️18 / 8 (1) | 🧥16 / 2 | ❤️16 | 💪18 / 🏃16 / 👁️14 / ✨16 | Small breath attack |
 | Dragon, Young | 🚩18 | 👣12 | ⚔️20 / 12 (2) | 🧥20 / 3 | ❤️28 | 💪22 / 🏃18 / 👁️16 / ✨20 | Breath weapon 1-Enc |
 | Elemental of Air | 🚩18 | 👣16 | ⚔️18 / 8 (1) | 🧥16 / 1 | ❤️14 | 💪14 / 🏃22 / 👁️18 / ✨20 | Push / knockback |
@@ -2804,7 +2253,7 @@ Assign one player as the “Bleeder.” The Bleeder is a GM helper who’s job i
 
 # **Ranged Atk into Melee**
 
-A great optional rule (for the experienced GM) is to place risk (danger) anytime a ranged weapon (hurled or shot) is used at a target engaged in melee. In the real world, melee is a highly agitated state of micro moves, dodges, etc. and it is very hard to target your intended victim and easy to hit your ally. So, the rule is, if that attaker misses the desired enemy target (normal Atk roll), they have a 50/50 chance of hitting their melee involved ally. Simply have them roll a d6 and 1-3 \= Atk auto-hits ally (Roll normal Dmg and Ally rolls normal AR🛡️).
+A great optional rule (for the experienced GM) is to place risk (danger) anytime a ranged weapon (hurled or shot) is used at a target engaged in melee. In the real world, melee is a highly agitated state of micro moves, dodges, etc. and it is very hard to target your intended victim and easy to hit your ally. So, the rule is, if that attacker misses the desired enemy target (normal Atk roll), they have a 50/50 chance of hitting their melee involved ally. Simply have them roll a d6 and 1-3 \= Atk auto-hits ally (Roll normal Dmg and Ally rolls normal AR🧥).
 
 # **Random Direction**
 
@@ -2812,13 +2261,13 @@ Often you will need to determine a random direction such as when someone is disa
 
 # **Falling, Climbing, Jumping Down**
 
-Simple version \- when a character falls, the GM assigns an amount of Dmg (e.g. 10\) and the player rolls AR🛡️ vs that Dmg. There is no Def as you cannot block or dodge the ground \- it will Hit you\!
+Simple version \- when a character falls, the GM assigns an amount of Dmg (e.g. 10\) and the player rolls AR🧥 vs that Dmg. There is no Def as you cannot block or dodge the ground \- it will Hit you\!
 
-I roughly base the Dmg on feet fallen and landing surface (bolder field vs spikes vs sand vs water, etc.). I also reduce the Dmg if the jump was intentional or if the character hung down from a ledge and then dropped the rest of the distance, etc. Finally, realize that setting falling Dmg at 20 is much worse than setting it at 10 as no normal AR🛡️ can absorb up all of Dmg 20, but larger armor can absorb most or all of Dmg 10 on a good roll. So Dmg is NOT linear from a character’s point of view. 
+I roughly base the Dmg on feet fallen and landing surface (bolder field vs spikes vs sand vs water, etc.). I also reduce the Dmg if the jump was intentional or if the character hung down from a ledge and then dropped the rest of the distance, etc. Finally, realize that setting falling Dmg at 20 is much worse than setting it at 10 as no normal AR🧥 can absorb up all of Dmg 20, but larger armor can absorb most or all of Dmg 10 on a good roll. So Dmg is NOT linear from a character’s point of view. 
 
 # **Avoid Auto-Hazards**
 
-Yes, there are a number of auto-hit, or “PC takes Dmg with no AR🛡️” etc., but these are pre-build, typed rules, and your players cannot blame you the GM for “conspiring against them” or treating them unfair. That said, in general avoid an auto-hazard, auto-negative effect, or auto-affliction as this justifiably will frustrated your players as they then have no “control” over these bad effects occurring. The default rule is, a PC should always get at least a single roll to avoid a bad effect (typically a Block, Dodge, or Save). So rather than have a player walking down a sewer tunnel suddenly fall into a 15ft pit, give them an Awareness check. Or if a trapped chest releases poisonous gas, give them a Poison Save, etc. Falling from a climb is already covered as the character had to have failed their climbing roll. Even a character pushed off a cliff had a chance as they failed their Dodge or Block (or Save) attempt versus that which pushed them.
+Yes, there are a number of auto-hit, or “PC takes Dmg with no AR🧥” etc., but these are pre-build, typed rules, and your players cannot blame you the GM for “conspiring against them” or treating them unfair. That said, in general avoid an auto-hazard, auto-negative effect, or auto-affliction as this justifiably will frustrate your players as they then have no “control” over these bad effects occurring. The default rule is, a PC should always get at least a single roll to avoid a bad effect (typically a Block, Dodge, or Save). So rather than have a player walking down a sewer tunnel suddenly fall into a 15ft pit, give them an Awareness check. Or if a trapped chest releases poisonous gas, give them a Poison Save, etc. Falling from a climb is already covered as the character had to have failed their climbing roll. Even a character pushed off a cliff had a chance as they failed their Dodge or Block (or Save) attempt versus that which pushed them.
 
 # **Difficulty Setting**
 
@@ -2830,11 +2279,11 @@ Another example is setting climbing difficulties or rules such as a player must 
 
 # **Avoid Complexity \- Dur**
 
-To keep Flex simple, the designers have gone out of their way to avoid effects that have multi-round Durations (Dur). such as 2 rounds or d4 rounds, etc., as this would require players (and the GM at times) to track this stat per ability. Rather, durations have been pretty meticulously kep to “for this round”, “for 1 rnd”, “for encounter”, etc. Just be aware of this and as you add your own rules consider the implications of adding in multiple round durations. 
+To keep Flex simple, the designers have gone out of their way to avoid effects that have multi-round Durations (Dur). such as 2 rounds or d4 rounds, etc., as this would require players (and the GM at times) to track this stat per ability. Rather, durations have been pretty meticulously kept to “for this round”, “for 1 rnd”, “for encounter”, etc. Just be aware of this and as you add your own rules consider the implications of adding in multiple round durations. 
 
 # **Avoid Complexity \- Usage beyond 3**
 
-To keep Flex simple, the designers have also gone out of their way to avoid Usage past 3\. So it is recommended to NOT allow an ability (Power or Magic Item) to progress to 4-Day nor 4-Enc. If, the GM decides to allow a Usage progression past 3-Day the next step should be 1-Enc and if the GM decides to allow Usage past 3-End, it should become 1-Rnd. That said, both of these steps are a considerable upgrade, especially the 1-Rnd. GM, think about such upgrades carefully and consider game balance.
+To keep Flex simple, the designers have also gone out of their way to avoid Usage past 3\. So it is recommended to NOT allow an ability (Power or Magic Item) to progress to 4-Day nor 4-Enc. If the GM decides to allow a Usage progression past 3-Day the next step should be 1-Enc and if the GM decides to allow Usage past 3-Enc, it should become 1-Rnd. That said, both of these steps are a considerable upgrade, especially the 1-Rnd. GM, think about such upgrades carefully and consider game balance.
 
 # **Nish Options**
 
@@ -2889,12 +2338,12 @@ Cons: Requires experienced players who know what to roll and when. A monster may
 
 # **Relational Seat Tracking**
 
-A great trick for the GM is to use relational seat tracking for PC Names and pertinent details and for Nish tracking. Seat tracking uses actual “seat at the table” physical layout of players. Consider a table with GM on one side. At the end of the table to the GM’s right is Mike playing Grond the Warrior. Across from the GM, on the other side of the table is Mary playing Natosha the thief, and on the end of the table to the left is Steve playing Miracle Max, the Mage. So on an index card the GM writes:  
+A great trick for the GM is to use relational seat tracking for PC Names and pertinent details and for Nish tracking. Seat tracking uses the actual “seat at the table” physical layout of players. Consider a table with GM on one side. At the end of the table to the GM’s right is Mike playing Grond the Warrior. Across from the GM, on the other side of the table is Mary playing Natosha the thief, and on the end of the table to the left is Steve playing Miracle Max, the Mage. So on an index card the GM writes:  
                                Mary  
 	               (Natosha)  
       Steve                                      Mike  
 (Miracle Max)                             (Grond)  
-This index card is then paper clipped to the GM screen so the GM can simply glance upward and instantly use the right character name for the right player. The GM could add in details like each character’s main weapon type, or name, etc. if desired. It is also a great idea to share this trick with your players encouraging them to make the same relational set tracking so they too, can easily use other player’s character names.
+This index card is then paper clipped to the GM screen so the GM can simply glance upward and instantly use the right character name for the right player. The GM could add in details like each character’s main weapon type, or name, etc. if desired. It is also a great idea to share this trick with your players, encouraging them to make the same relational seat tracking so they, too, can easily use other player’s character names.
 
 ## **Nish Tracking**
 
@@ -2917,17 +2366,17 @@ If used purposefully, AI can provide several aides to the game.
 
 Google's NotebookLM is great for two main purposes. If the rules are supplied, it is a great source of rapid rule lookup and interaction for the players. Players can chat prompts like:
 
-* Im, playing a Fire Mag, what are the three best powers for me to take at Level 1\. Please show these in table format.  
+* Im, playing a Fire Mage, what are the three best powers for me to take at Level 1\. Please show these in table format.  
 * Please roll me a random minor magic item and show it to me in table format.  
 * My PC’s Might is 6, what are the best melee weapons I qualify for? Show them to me in table format.  
 * I’m creating a character, succinctly walk me through this process.  
-* I just gained a level, in table format show me the advancement options.   
+* I just gained a level, in table format, show me the advancement options.   
 * I want a new fire mage ability called flame lance that allows me to summon a flaming lance. Please create this all new power and show it to me in table format.
 
-The GM can also put the rules, the character concepts and their adventure and campaign notes into NotebookLM and have a single place to query this data wuch as:
+The GM can also put in the rules, the character concepts and their adventure and campaign notes into NotebookLM and have a single place to query this data such as:
 
 * Show me Room 2 of the Stone Keep.  
-* The monsters in the Stone Keep’s kitchen just rushed in to the Main hall. Please show me all monsters from both rooms in a single combined table.  
+* The monsters in the Stone Keep’s kitchen just rushed into the Main hall. Please show me all monsters from both rooms in a single combined table.  
 * Please roll me a random Lesser Magic item.  
 * What is Grond’s family name and what is his greatest fear?  
 * My Orc Chieftain needs a magical weapon, in table format, make up a new appropriate weapon.   
@@ -2974,14 +2423,14 @@ The GM can also put the rules, the character concepts and their adventure and ca
 
 **Basic Use:**
 
-* GM🔎: “You fall into a pit trap, having failed your Save✨. Make your AR🛡️ check vs Dmg💥10..”  
+* GM🔎: “You fall into a pit trap, having failed your Save✨. Make your AR🧥 check vs Dmg💥10..”  
 * Player: “I have falling🎓. I rolled X.”  
 * GM🔎: “OK, damage is reduced to 8.”
 
 **Narrative Detail:**
 
 * Player: “On the way down I pick my landing, prepare my body to absorb impact, and grab anything to slow the fall. I’m also a Highland Monk used to mountaineering. I rolled the same X.”  
-* GM🔎: “Good description — damage is reduced to 4\. Make your AR🛡️ check.”
+* GM🔎: “Good description — damage is reduced to 4\. Make your AR🧥 check.”
 
 ---
 
@@ -3050,12 +2499,12 @@ The GM can also put the rules, the character concepts and their adventure and ca
 # **👹 Monster Quick Stats**
 
 * **Nish🚩:** 10-24.  
-* **MR🏃:** 6–12.  
+* **MR👣:** 6–12.  
 * **Atk⚔️:** 10-24.  
 * **Dmg💥:** 5-20+.  
-* **Min:** Minimum Wnd🩸 caused regardless of player AR🛡️.  
-* **Def🛡️:** 10-24.  
-* **Armor🛡️:** 0 to 3 (rare 4).  
+* **Min:** Minimum Wnd🩸 caused regardless of player AR🧥.  
+* **Def:** 10-24.  
+* **Armor🧥:** 0 to 3 (rare 4).  
 * **Vit❤️:** 4 (small) to 30+ (epic).
 
   ---
@@ -3064,5 +2513,5 @@ The GM can also put the rules, the character concepts and their adventure and ca
 
 * **Say Yes:** If the idea is fun, let it ride or lower Dif.  
 * **Failures Push Forward:** Failures cause complications, never dead ends.  
-* **Spotlight Cool:** Highlight Str, Flairs, creative Powers⚡.  
+* **Spotlight Cool:** Highlight Strengths, Flairs, and creative Powers⚡.  
 * **Keep Monsters Simple:** Use flat stats, improvise Powers⚡, focus on PCs’ rolls.
