@@ -3,7 +3,11 @@ export default {
   description: "Core Rules & Technical Reference Engine",
   base: '/MetaScape-VitePress-GitHub-Pages/',
   ignoreDeadLinks: true,
+  head: [
+    ['link', { rel: 'icon', href: '/MetaScape-VitePress-GitHub-Pages/jodar.ico' }]
+  ],
   themeConfig: {
+    logo: '/jodar.ico',
     search: {
       provider: 'local',
       options: {
