@@ -51,6 +51,26 @@ hero:
     </div>
   </a>
 
+  <!-- Flex Moxie Card -->
+  <a href="./player-guide/moxie/rules" class="engine-card moxie-card">
+    <div>
+      <div class="card-badge">Moxie Retro</div>
+      <div class="card-header">
+        <h2>🌸 Flex Moxie</h2>
+      </div>
+      <p class="card-desc">Classic rules-light campaign play, enhanced with dynamic moxie mechanics and narrative chutzpah.</p>
+      <ul class="card-features">
+        <li><strong>Attributes</strong>: Might, Motion, Mind, Magic, Moxie</li>
+        <li><strong>Focus</strong>: Narrative-enhanced retro campaigns</li>
+        <li><strong>Dice Engine</strong>: Classic roll checks & Moxie pools</li>
+      </ul>
+    </div>
+    <div class="card-cta">
+      <span>Explore Moxie Rules</span>
+      <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><line x1="5" y1="12" x2="19" y2="12"></line><polyline points="12 5 19 12 12 19"></polyline></svg>
+    </div>
+  </a>
+
   <!-- MS5 Turbo Card -->
   <a href="./player-guide/turbo/how-to-play" class="engine-card ms5-card">
     <div>

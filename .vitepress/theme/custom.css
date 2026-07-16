@@ -6,6 +6,8 @@
   --ms4-rgb: 8, 145, 178;
   --ms5-color: #7c3aed;
   --ms5-rgb: 124, 58, 237;
+  --moxie-color: #db2777;
+  --moxie-rgb: 219, 39, 119;
   
   --card-bg: rgba(0, 0, 0, 0.02);
   --card-border: rgba(0, 0, 0, 0.08);
@@ -20,6 +22,8 @@
   --ms4-rgb: 34, 211, 238;
   --ms5-color: #a78bfa;
   --ms5-rgb: 167, 139, 250;
+  --moxie-color: #f472b6;
+  --moxie-rgb: 244, 114, 182;
   
   --card-bg: rgba(255, 255, 255, 0.02);
   --card-border: rgba(255, 255, 255, 0.08);
@@ -84,10 +88,16 @@
   animation: fadeInUp 0.6s cubic-bezier(0.16, 1, 0.3, 1) 0.2s forwards;
 }
 
+.engine-card.moxie-card {
+  --theme-color: var(--moxie-color);
+  --theme-rgb: var(--moxie-rgb);
+  animation: fadeInUp 0.6s cubic-bezier(0.16, 1, 0.3, 1) 0.3s forwards;
+}
+
 .engine-card.ms5-card {
   --theme-color: var(--ms5-color);
   --theme-rgb: var(--ms5-rgb);
-  animation: fadeInUp 0.6s cubic-bezier(0.16, 1, 0.3, 1) 0.3s forwards;
+  animation: fadeInUp 0.6s cubic-bezier(0.16, 1, 0.3, 1) 0.4s forwards;
 }
 
 /* Card Hover States */
@@ -259,6 +269,13 @@ html.route-flex {
   --vp-c-brand-soft: rgba(var(--ms4-rgb), 0.08) !important;
 }
 
+html.route-moxie {
+  --vp-c-brand-1: var(--moxie-color) !important;
+  --vp-c-brand-2: #be185d !important;
+  --vp-c-brand-3: #9d174d !important;
+  --vp-c-brand-soft: rgba(var(--moxie-rgb), 0.08) !important;
+}
+
 html.route-turbo {
   --vp-c-brand-1: var(--ms5-color) !important;
   --vp-c-brand-2: #6d28d9 !important;
@@ -276,6 +293,9 @@ html.route-ms3 .VPNavBar {
 }
 html.route-flex .VPNavBar {
   border-top-color: var(--ms4-color);
+}
+html.route-moxie .VPNavBar {
+  border-top-color: var(--moxie-color);
 }
 html.route-turbo .VPNavBar {
   border-top-color: var(--ms5-color);
