@@ -1169,6 +1169,7 @@ Select one of the many sub-sets of powers such as Class👤, Race🧬, Combat St
 | 1 | 1-Day | A | **Crushing Lotus** | This attack gains Atk⚔️+2 and Dmg💥+2 |
 | 1 | 1-Rnd | A | **Cyclone Kick** | On hit; Motion🏃 Atk⚔️ knocks target back d4sq |
 | 1 | 1-Day | A | **Defiance Stance** | For 1 rnd; AR🧥+2, Dmg💥+2 |
+| 1 | 1-Enc | A | **Flurry of Blows** | Multi-Atk⚔️ with katars⚔️; each Dmg💥 at –1d |
 | 1 | 1-Enc | P | **Herbal Poultice** | Heal 1 Vit❤️ using herbs |
 | 1 | 1-Enc | P | **Iron Body Meditation** | Ignore Wnd🩸 penalties (Unconscious & Death Check) for 1 rnd |
 | 1 | 1-Enc | P | **Lotus Focus** | Gain Adv on next Atk⚔️ roll |
@@ -1191,12 +1192,10 @@ Select one of the many sub-sets of powers such as Class👤, Race🧬, Combat St
 | 1 | 1-Rnd | P | **Balance Ward** | Allies nearby gain AR🧥+1 for 1 rnd |
 | 1 | 1-Enc | P | **Breath of Stillness** | Ends bleeding and Saves✨+1 to target for 1 rnd |
 | 1 | 1-Enc | P | **Cloak of Darkness** | Become Invisible for 1 rnd |
-| 1 | 1-Rnd | P | **Cobra Stance** | Dodge+2 for 1 rnd; req unarmored or very light armor |
 | 1 | 1-Rnd | P | **Crane Stance** | Def+2 for 1 rnd |
 | 1 | 1-Rnd | P | **Deflect Missiles** | AR🧥+2 vs Missiles |
 | 1 | 1-Enc | M | **Echo Strike** | Repeat last Atk/Dmg💥 with same result |
 | 1 | 1-Enc | M | **Feather Step** | Motion🏃 actions (e.g. silence, balance, acrobatics,etc) at Advantage |
-| 1 | 1-Enc | A | **Flurry of Blows** | Make 2 unarmed Atks, d4 Dmg💥 each this rnd |
 | 1 | 1-Enc | AM | **Ki Centering** | Spend 1 rnd in focus (no other actions); regain 1 Luck🍀 |
 | 1 | 1-Luck🍀 | F | **Ki Focus** | Spend 1 Luck🍀; Roll+2 |
 | 1 | 2-Enc | F | **Ki Surge** | For 1 rnd, choose: Atk+2, Def+2, or Resist✨+2 |
@@ -1207,7 +1206,6 @@ Select one of the many sub-sets of powers such as Class👤, Race🧬, Combat St
 | 1 | 1-Enc | F | **Perfect Timing** | Nish🚩+2 on next roll |
 | 1 | 1-Enc | F | **Pressure Chain** | If unarmed Atk hits same target 2 rnds in a row; gain Def+2 for Encounter |
 | 1 | 1-Day | A | **Pressure-Point Strike** | On hit; target MR👣-2 for Encounter |
-| 1 | 2-Day | A | **Purging Breath** | Cleanse 1 condition (Poison, Disease, Fatigue, Fear, Charm, Confusion, Stunned, Paralysis) from an ally |
 | 1 | 3-Enc | A | **Rejuvenating Touch** | Heals d4 |
 | 1 | 1-Day | A | **Revive** | Restore 1 ally at negative Vit❤️ to 1 Vit❤️ |
 | 1 | 1-Enc | M | **Shadow Glide** | Move double MR👣 this rnd |
@@ -1216,11 +1214,9 @@ Select one of the many sub-sets of powers such as Class👤, Race🧬, Combat St
 | 1 | 1-Enc | P | **Slow Breath (Restorative)** | Regain 1 Vit❤️ and Resist✨+2 for 1 rnd |
 | 1 | 1-Day | AM | **Stone Stillness** | Remain motionless; Advantage on detection checks |
 | 1 | 2-Enc | P | **Stonefang Staffwork** | If staff Atk hits; push target 1sq |
-| 1 | 2-Enc | A | **Stunning Palm** | On unarmed hit; d4 Dmg💥 and target Stunned 1 rnd |
 | 1 | 1-Enc | P | **Turtle Stance** | Regain 1 Vit❤️ and Saves✨+2 for 1 rnd; req unarmored or very light armor |
 | 1 | 1-Enc | F | **Umbral Counter** | On successful Def; make 1 opportunity attack |
 | 1 | 2-Enc | M | **Umbral Form** | Teleport between visible shadows |
-| 1 | 1-Enc | P | **Uncanny Dodge** | Gain Advantage on 1 Defense roll this rnd |
 | 1 | 1-Enc | M | **Wall Run** | Move across walls/obstacles up to MR👣; Motion🏃 if risky |
 | 1 | 1-Day | P | **Wholeness of Body** | Heal self 2 |
 
@@ -1228,18 +1224,34 @@ Select one of the many sub-sets of powers such as Class👤, Race🧬, Combat St
 
 | Lvl | Usage | Action | Name | Effect |
 | --- | --- | --- | --- | --- |
+| 1 | 1-Day | F | **Ancestral Guard** | Call on clan spirits; allies in 2sq Nish🚩+1 for Encounter |
+| 1 | 1-Enc | M | **Avalanche Drive** | Move MR👣; Might💪 or target falls Prone; d4 Dmg💥 |
 | 1 | 1-Rnd | P | **Battle Trance** | All Might💪 rolls +2 for 1 rnd |
 | 1 | 1-Enc | P | **Berserker Rage** | Enter rage; Dmg💥+2 and Def-2 for Encounter |
+| 1 | 1-Rnd | P | **Blackaxe Formation** | AR🧥+1 for 1 rnd |
+| 1 | 1-Day | F | **Blackaxe Oath** | If reduced to 0 Vit❤️; stay conscious until end of rnd |
+| 1 | 1-Enc | A | **Blackaxe Slam** | Atk with shield (use Def as Atk); on hit, d4 Dmg💥 and Might💪 or target Stunned |
+| 1 | 1-Day | P | **Blind Fighter’s Poise** | Fight normally in darkness; Atk rolls no penalty for encounter |
 | 1 | 1-Enc | P | **Blood Oath** | Take 1 Dmg💥; 1 ally gains +2 on next roll |
-| 1 | 1-Rnd | P | **Defensive Stance** | Def+2 for 1 rnd |
-| 1 | 2-Day | A | **Earthquake Stomp** | Might💪 or foes in 2sq fall prone |
+| 1 | 1-Enc | A | **Disarm Riposte** | On successful Atk; Motion🏃 or target drops weapon |
 | 1 | 1-Enc | A | **Flame Weapon** | Imbue weapon; Dmg💥+1 fire for Encounter |
+| 1 | 1-Day | P | **Forge-Bound Shout** | Adjacent allies gain Def+1 for Encounter |
 | 1 | 1-Enc | AM | **Furious Charge** | Move double MR👣, Atk, and Dmg💥+2 |
-| 1 | 1-Day | F | **Iron Will** | Remove 1 condition (Stunned or Weakened) |
+| 1 | 1-Enc | A | **Hamstring Strike** | On hit; normal Dmg💥 and Motion🏃 or target MR👣 halved 1 rnd |
+| 1 | 1-Enc | P | **Ignore the Pain** | Take 1 Dmg💥; negate next d6 Dmg💥 you would take |
+| 1 | 1-Enc | M | **Mountain Stride** | Ignore terrain and climb at MR👣+2 this rnd |
 | 1 | 2-Day | F | **Quick Reflexes** | Next Nish🚩 has Advantage |
+| 1 | 1-Enc | P | **Rage Regen** | Heal self 1d4 |
 | 1 | 1-Enc | A | **Rallying Shout** | Allies MR👣+1 for Encounter |
 | 1 | 2-Enc | A | **Second Wind** | Self heal 2 Vit❤️ |
-| 1 | 1-Enc | P | **Taunting Shout** | Mind👁️ or target focuses Atks on you |
+| 1 | 1-Enc | AM | **Shield Break Line** | Move through foes in 3sq; Might💪 or each is knocked Prone |
+| 1 | 1-Enc | P | **Shield Hook** | Choose 1 foe; Def rolls vs them have Advantage this rnd |
+| 1 | 1-Enc | AM | **Shield Rush** | Move double MR👣; Atk with shield's Def; Dmg💥 uses shield's d(Block🛡️)+2 |
+| 1 | 1-Day | A | **Stone Form** | Harden body like granite; AR🧥+2 and immune to poison/disease for Encounter |
+| 1 | 1-Rnd | P | **Stonewall** | Def+1 for 1 rnd |
+| 1 | 2-Enc | A | **Taunt of Stone** | Mind👁️ or targets within 2sq must focus Atks on you |
+| 1 | 1-Enc | M | **Thunder Barge Pilot** | If operating Warmachine; Mind👁️ to grant allies Nish🚩+2 this rnd |
+| 1 | 2-Day | F | **Veteran of the Deeps** | Reroll 1 failed Might💪 or Motion🏃 roll |
 | 1 | 1-Day | A | **WarCry** | Mind👁️ or foes hesitate/flee 1 rnd |
 | 1 | 1-Enc | P | **Weapon Breaker** | On successful Might💪 Atk; destroy 1 enemy weapon/shield |
 | 1 | 1-Enc | A | **Whirlwind Strike** | Atk all foes adjacent to you |
@@ -1296,8 +1308,11 @@ Select one of the many sub-sets of powers such as Class👤, Race🧬, Combat St
 | --- | --- | --- | --- | --- |
 | 1 | 1-Enc | A | **Blade of Thought Technique** | On hit with longsword; Magic✨ force Dmg💥+1 and push target 1sq. |
 | 1 | 1-Enc | AM | **Blink Assault** | Teleport up to 6sq, then make 1 Atk⚔️ this rnd; on hit, Magic✨ force Dmg💥+1. |
+| 1 | 1-Enc | P | **Defensive Stance** | Def+2 for 1 rnd. |
 | 1 | 2-Enc | A | **Echo Slash** | Line 3sq; make 1 Atk⚔️ vs each foe in line; on hit; Dmg💥 at –1d (no uplift). |
 | 1 | 1-Enc | A | **Flurry of Mental Blows** | Make 2 unarmed🥊 Atks this rnd; each Dmg💥 d4 (no uplift). |
+| 1 | 1-Enc | A | **Focused Strike** | Atk⚔️+2 for this Atk; on hit; Dmg💥+1. |
+| 1 | 1-Day | F | **Iron Will** | Remove 1 condition (Stunned or Weakened). |
 | 1 | 1-Enc | M | **Mind Dash** | Move double MR👣 this rnd. |
 | 1 | 1-Day | A | **Mind Lance** | Magic✨ Atk🎯 6sq; on hit; Magic✨ force Dmg💥 d8 and Mind👁️ or target is Weakened for 1 rnd. |
 | 1 | 1-Day | P | **Mind Over Body** | Resist✨ poison/disease with Advantage and Heal self 1d4. |
@@ -1307,32 +1322,10 @@ Select one of the many sub-sets of powers such as Class👤, Race🧬, Combat St
 | 1 | 1-Enc | M | **Psionic Leap** | Jump or vault up to MR👣 ignoring difficult terrain. |
 | 1 | 1-Enc | P | **Psionic Push** | Magic✨ Atk; on hit; push target 2sq. |
 | 1 | 1-Day | A | **Sever Thought** | On hit; Mind👁️ or target cannot use Magic✨ Powers⚡ for 1 rnd. |
+| 1 | 1-Enc | A | **Stunning Palm** | On unarmed🥊 hit; Dmg💥 d4 and Mind👁️ or target is Stunned for 1 rnd. |
 | 1 | 1-Enc | A | **Telekinetic Crush** | Magic✨ Atk🎯 4sq; on hit; Dmg💥 d6 and target is Immobilized for 1 rnd. |
 | 1 | 1-Enc | M | **Telekinetic Glide** | Teleport up to 8sq to a visible square on solid ground. |
 | 1 | 1-Enc | P | **Uncanny Dodge (Mental Reflex)** | Gain Advantage on 1 Dodge🏃 roll this rnd. |
-
-### **Thief Assassin Powers**
-
-| Lvl | Usage | Action | Name | Effect |
-| --- | --- | --- | --- | --- |
-| 1 | 1-Enc | P | **Apply Poison** | Coat 1 dagger; next hit this Enc adds Dmg💥+1; target Resist✨ or Poisoned |
-| 1 | 1-Enc | F | **Assassinate** | On surprise Atk⚔️ from Hidden; Atk with Advantage, Dmg💥+6; target Resist✨ or Stunned |
-| 1 | 3-Enc | F | **Backstab** | On hit from Stealth🏃Dmg💥+4, or rear; Dmg💥+2 |
-| 1 | 1-Enc | P | **Disable Trap** | Disable Trap at Advantage |
-| 1 | 1-Enc | P | **Distract & Draw** | Create brief diversion; nearest foe Mind👁️ or looks away; your next Stealth🏃 this rnd gains Advantage |
-| 1 | 1-Enc | M | **Ghosting Run** | Move up to MR👣; ignore Opp Atk this move |
-| 1 | 1-Enc | F | **Mark Target** | Choose 1 visible foe; your next Atk⚔️ vs that foe this Enc gains Advantage |
-| 1 | 1-Enc | P | **Pick Lock** | Pick Lock with Advantage |
-| 1 | 1-Enc | M | **Rope Runner** | Climb or descend up to MR👣 on rope/wall this rnd; Stealth🏃 allowed while moving |
-| 1 | 1-Enc | P | **Set Ambush** | Choose a square; first Atk⚔️ you or ally makes into that square this rnd gains Advantage |
-| 1 | 2-Enc | P | **Silent Takedown** | On hit vs adjacent humanoid; target Resist✨ or Stunned |
-| 1 | 1-Enc | M | **Slip Through** | Move through 1 enemy’s square; that foe Mind👁️ or cannot Opp Atk you this move |
-| 1 | 1-Enc | P | **Target Analysis** | Study 1 foe; your next Atk⚔️ vs that foe gains Advantage |
-| 1 | 1-Enc | A | **Twin Strike** | Multi-Atk with main and/or off-hand daggers (no uplift) to Mulit-Atk limit +1 |
-| 1 | 1-Enc | F | **Vanish** | If unseen; become hidden; you may immediately move up to d4 sq toward a visible shadow |
-| 1 | 1-Enc | P | **Vitals Strike** | On hit; target Resist✨ or Weakened |
-| 1 | 2-Enc | A | **Weighted Throw** | If you are unseen to Target; Hurl dagger at Advantage |
-| 1 | 1-Enc | F | **Whispered Signal** | Allies in earshot gain Nish🚩+1 this rnd |
 
 ### **Healer Powers**
 
@@ -1340,19 +1333,37 @@ Select one of the many sub-sets of powers such as Class👤, Race🧬, Combat St
 | --- | --- | --- | --- | --- |
 | 1 | 1-Rnd | P | **Aura of Warding** | Allies nearby gain +1 AR🧥 until next turn |
 | 1 | 1-Enc | P | **Beacon of Hope** | All allies gain +1 to Resist✨ fear✨ |
+| 1 | 1-Enc | P | **Beacon of Solara** | Allies within 3sq Nish🚩+2 this rnd |
 | 1 | 2-Day | A | **Bless** | One ally gains +1 to all rolls this encounter |
+| 1 | 1-Enc | M | **Blinding Wings** | Create bright light (3sq); foes in light Resist✨ or Blind 1 rnd |
 | 1 | 1-Enc | P | **Chill Vibes** | Allies regain 1 Vit❤️ when resting neAR🧥you |
+| 1 | 1-Rnd | P | **Cobra Stance** | Dodge+2 for 1 rnd; req unarmored/light armor |
 | 1 | 3-Enc | A | **Curse** | Target suffers –2 on next roll; Magic✨ attack roll |
+| 1 | 1-Day | P | **Dawn’s Aegis** | All allies in 3sq gain AR🧥+1 for 1 Enc |
+| 1 | 1-Enc | M | **Fey Flight** | While flying this rnd, move up to MR👣 and ignore difficult terrain |
 | 1 | 1-Day | P | **Group Huddle** | All allies nearby gain +1 to next roll |
 | 1 | 1-Enc | A | **Harmonize** | Two allies combine skills as 1 roll with advantage |
-| 1 | 3-Enc | A | **Healing Light** | Restore 1d4 Vit❤️ to ally |
+| 1 | 1-Enc | A | **Healing Light** | On touch; Heal 1d4 Vit❤️ |
+| 1 | 3-Enc | A | **Healing Light (Greater)** | Heal 1d4+1 Vit❤️ |
 | 1 | 1-Enc | P | **Hero’s Blessing** | Ally adds +2 to all rolls next round |
 | 1 | 1-Day | A | **Inspiring Anthem** | Ally rerolls a failed check |
+| 1 | 1-Luck | F | **Light’s Mercy** | Reroll one failed Heal roll |
 | 1 | 1-Enc | A | **Mass Heal** | Restore 1 Vit❤️ to all allies |
 | 1 | 1-Enc | A | **Mystic Sight** | Spot hidden foes/traps; Mind👁️ perception roll |
+| 1 | 1-Rnd | P | **Nimble Form** | Dodge🏃+1 |
+| 1 | 2-Day | A | **Purging Breath** | Cleanse 1 condition (Poison, Disease, Fatigue, Fear, Charm, Confusion, Stunned, Paralysis) |
+| 1 | 1-Enc | P | **Radiant Presence** | Activate aura for 1 rnd; adjacent allies Heal 1 Vit❤️ at start of their next turn |
+| 1 | 1-Enc | A | **Radiant Smite** | On hit; add +d6 radiant (Magic✨) Dmg💥 |
 | 1 | 1-Enc | A | **Rally Soul** | Resist✨ check vs fastest foe → Nish🚩-2 |
-| 1 | 1-Enc | P | **Sanctuary** | One ally cannot be attacked until they act |
+| 1 | 1-Day | P | **Resist Corruption** | Resist with Advantage vs disease, poison, undead effects for 1 Enc |
+| 1 | 1-Enc | P | **Sanctuary** | Target ally cannot be attacked until they act (ends if they attack or take an A action) |
+| 1 | 1-Enc | A | **Solar Burst** | Magic✨ Atk (AOE 2sqR); d4 radiant Dmg💥 |
+| 1 | 1-Enc | P | **Solar Rally** | Rally up to 2 allies in 3sq; each gains Vit❤️+1 |
+| 1 | 1-Day | F | **Solara’s Vow** | Once/day, Revive ally at ≤0 Vit❤️ to 1 Vit❤️ |
 | 1 | 2-Enc | A | **Spirit Bond** | Heal ally 2 Vit❤️ by touch |
+| 1 | 1-Day | M | **Sun Step** | Teleport up to 6sq into sunlight |
+| 1 | 1-Enc | P | **Sun-Kissed Radiance** | Emit bright light 3sq / dim 6sq for 1 Enc; vs Undead in bright light PCs Atk with Advantage |
+| 1 | 1-Enc | P | **Uncanny Dodge** | Gain Advantage on 1 Dodge🏃 roll this rnd |
 
 ### **Weird Powers**
 
@@ -1394,25 +1405,56 @@ Select one of the many sub-sets of powers such as Class👤, Race🧬, Combat St
 | 1 | 1-Enc | AM | **Phalanx Drive** | Move double MR👣; Atk with Spear; Dmg💥+2 |
 | 1 | 1-Enc | P | **Shield Interpose** | One adjacent ally’s Def+2 vs 1 Atk |
 | 1 | 1-Enc | A | **Shield Ram** | Roll shield Def as Atk at AR🧥+1 as Dmg💥 and Might💪 pushws target d4sq |
+| 1 | 1-Rnd | M | **Shield Wall** | AR🧥+2 while holding position this rnd |
 | 1 | 1-Enc | A | **SpearCircle** | Atk all adjacent foes with spear |
+| 1 | 1-Enc | P | **Taunting Shout** | Mind👁️ or foes in 2sq focus Atks on you |
 
 ## 🧬 **Racial Powers**
 
+
+### **Bloodmarked Human (Cursed Spartan) Powers**
+
+| Lvl | Usage | Action | Name | Effect |
+| --- | --- | --- | --- | --- |
+| 1 | 1-Day | P | **Ancestral Whisper** | Next Mind👁️ roll with Advantage |
+| 1 | 1-Enc | A | **Blood Oath Brand** | On hit; Dmg💥+1 and next Nish🚩+2 |
+| 1 | 1-Day | P | **Bloodmarked Defiance** | When reduced to 0 Vit❤️; set to 1 Vit❤️ instead |
+| 1 | 1-Enc | P | **Bronze Resolve** | Resist✨+2 for 1 rnd |
+| 1 | 1-Enc | M | **Burdened March** | Move MR👣-2; AR🧥+2 for Encounter |
+| 1 | 1-Enc | A | **Cursefire Spear** | Power channels through Spear; Atk+3 and extra d4 Dmg💥 burning |
+| 1 | 1-Enc | P | **Curseflare** | All foes in 2sq Mind👁️ or Weakened 1 rnd |
+| 1 | 1-Enc | A | **Echoing Strike** | On miss; ghostly strike deals d4 Dmg💥 anyway |
+| 1 | 1-Day | F | **Legion’s Might** | Each different Weapon has Advantage with next Attack, lasts for encounter |
+| 1 | 1-Enc | P | **Shield of Names** | Adjacent ally’s AR🧥+1 this rnd |
 
 ### **Dwarf Powers**
 
 | Lvl | Usage | Action | Name | Effect |
 | --- | --- | --- | --- | --- |
-| 1 | 1-Day | P | **Ale Fortitude** | Resist✨ with Advantage vs poison/fearfor Encounter |
 | 1 | 1-Enc | F | **Ancestral Echo** | Call dwarven spirits; next roll Roll+2 |
 | 1 | 1-Enc | A | **Earthshaper** | Raise low stone wall or pillAR🧥; provides cover |
 | 1 | 1-Enc | P | **Forge Spark** | Touched weapon glows; Dmg💥+1 for Encounter |
 | 1 | 1-Rnd | P | **Iron Hide** | Skin hardens; AR🧥+2 for 1 rnd |
 | 1 | 1-Enc | F | **Ore Whisper** | Sense nearby metal veins or hidden armor/weapons |
 | 1 | 1-Enc | A | **Rune Carve** | Inscribe glowing rune on self; Def+2 for 1 rnd |
-| 1 | 1-Enc | P | **Stone Sense** | Magic✨ to detect hidden passages, traps, or stone weaknesses |
 | 1 | 1-Day | P | **Stoneform** | Body partly petrifies; immune to push/pull for Encounter; Earth Saves✨+2 |
 | 1 | 1-Enc | A | **Tremor Stomp** | Might💪 or nearby foes fall Prone |
+
+### **Dwarf (Blackaxe Clan) Powers**
+
+| Lvl | Usage | Action | Name | Effect |
+| --- | --- | --- | --- | --- |
+| 1 | 1-Day | P | **Ale Fortitude** | Resist✨ vs poison/fearwith Advantage for Encounter |
+| 1 | 1-Enc | F | **Ancestral Boon** | Next roll Roll+2 |
+| 1 | 1-Enc | M | **Climb Like Iron** | Motion🏃 climb rolls with Advantage |
+| 1 | 1-Enc | A | **Construct Siege Weapon** | Summon an implacement siege weapon (ballista) with 6 shots (spears) of d10 Dmg💥; Def-3 while using |
+| 1 | 1-Enc | P | **Forge-Touched** | Touch weapon; Dmg💥+1 for Encounter |
+| 1 | 1-Day | F | **Loyal Heart** | Allies in 2sq Resist✨+1 for Encounter |
+| 1 | 1-Enc | M | **Rune of Endurance** | Inscribe glowing rune on self; AR🧥+2 for 1 rnd |
+| 1 | 1-Day | P | **Rune-Bound Grip** | Immune to being Disarmed this encounter |
+| 1 | 1-Enc | P | **Stone Sense** | Magic✨ detect hidden stone passages or weaknesses |
+| 1 | 1-Enc | A | **Thunder Barge Gunner** | Fire mounted siege weapon; Dmg💥+2 |
+| 1 | 1-Enc | A | **Tunnel Bastion** | Raise 1sq wall of stone; provides cover |
 
 ### **Elf Powers**
 
@@ -1428,13 +1470,14 @@ Select one of the many sub-sets of powers such as Class👤, Race🧬, Combat St
 | 1 | 1-Enc | A | **Song of Serenity** | Mind👁️ or target is Pacified |
 | 1 | 1-Rnd | M | **Woodland Step** | Stealth in natural terrain at MR👣+2; 1 rnd |
 
-### **Fairy Powers**
+### **Fairy (Sunblessed Fey) Powers**
 
 | Lvl | Usage | Action | Name | Effect |
 | --- | --- | --- | --- | --- |
 | 1 | 1-Day | P | **Fey Glamour** | Target Resist✨ or Charmed for 1 rnd |
 | 1 | 1-Enc | F | **Fey Grace** | Gain Nish🚩+2 this rnd |
 | 1 | 1-Luck | F | **Fey Luck** | Reroll one failed Dodge🏃 roll |
+| 1 | 1-Enc | P | **Fey Resilience** | Resist Magic✨ with Advantage vs Charm/Fear |
 | 1 | 1-Enc | F | **Fey Whisper** | Communicate with beasts in 3sq |
 | 1 | 1-Enc | M | **Flutter Dance** | Move MR👣; foes’ Atk⚔️ vs you Dis this rnd |
 | 1 | 1-Enc | P | **Glitterdust** | Emit light motes in 2sq; foes Resist✨ or Blind 1 rnd |
@@ -1471,22 +1514,7 @@ Select one of the many sub-sets of powers such as Class👤, Race🧬, Combat St
 | 1 | 1-Enc | P | **Tinker Trap** | Place small trap; Magic✨ or target suffers Magic✨ Dmg💥 |
 | 1 | 1-Day | P | **Trash Shield** | AR🧥+1 for Encounter |
 
-### **Half-Orc Powers**
-
-| Lvl | Usage | Action | Name | Effect |
-| --- | --- | --- | --- | --- |
-| 1 | 1-Enc | P | **Ash-forged Grit** | Heal self 1d4 |
-| 1 | 1-Rnd | F | **Blood of Balance** | When you Heal an ally; Def+1 for 1 rnd |
-| 1 | 1-Enc | A | **Dusk Howl** | Foes in 2sq Mind👁️ or flee 1 rnd |
-| 1 | 1-Enc | P | **Obsidian Skin** | AR🧥+1 for 1 rnd |
-| 1 | 1-Rnd | P | **Shadow Trance** | Immune to sleep/charm and most  Mind👁️ Saves✨ for 1 rnd |
-| 1 | 1-Day | F | **Starlight Sight** | See clearly in dim light; ignore typical darkness penalties |
-| 1 | 1-Day | F | **Stonefang Resolve** | Negate Stunned or Weakened or similar |
-| 1 | 1-Enc | F | **Umbral Heritage** | Motion🏃 Stealth with Advantage in dim light or darkness |
-| 1 | 1-Enc | M | **Umbral Step—Short** | Teleport 12sq to visible shadow |
-| 1 | 1-Enc | P | **Volcanic Sense** | Magic✨ to detect stone weaknesses/passages |
-
-### **Human Powers**
+### **Human (Aethelgard Bloodline) Powers**
 
 | Lvl | Usage | Action | Name | Effect |
 | --- | --- | --- | --- | --- |
@@ -1516,13 +1544,12 @@ Select one of the many sub-sets of powers such as Class👤, Race🧬, Combat St
 | 1 | 1-Enc | P | **Slip Away** | Escape bonds/grapples; Motion🏃 with Advantage |
 | 1 | 1-Rnd | A | **Stone Toss** | Stone's Dmg💥+1 |
 
-### **Nymph Powers**
+### **Nymph (Thryndralis Trickster) Powers**
 
 | Lvl | Usage | Action | Name | Effect |
 | --- | --- | --- | --- | --- |
 | 1 | 1-Enc | F | **Bond of the Glade** | Mind👁️Sense nearby illusions, glamours, or nature magic |
 | 1 | 1-Enc | AM | **Dance of Light & Shadow** | Move double MR👣; Mind👁️ or nearby foes Weakened 1 rnd |
-| 1 | 1-Day | P | **Fey Resilience** | Resist✨ with Advantage vs charm/fearfor Encounter |
 | 1 | 1-Enc | F | **Fey Step** | Teleport 3sq to visible spot |
 | 1 | 1-Day | F | **Feytongue** | Mind👁️ speak any language for encounter |
 | 1 | 1-Enc | P | **Flow Like Water** | Break melle without provoking Atks |
@@ -1544,6 +1571,21 @@ Select one of the many sub-sets of powers such as Class👤, Race🧬, Combat St
 | 1 | 1-Enc | A | **Smash Gate** | Break barrier/object; Might💪 with Advantage |
 | 1 | 1-Enc | P | **Tribal Bond** | Allies Nish🚩+1 for Encounter |
 | 1 | 2-Enc | A | **Tusks & Claws** | Brawl Dmg💥+1d |
+
+### **Umbral Kin Half-Orc Powers**
+
+| Lvl | Usage | Action | Name | Effect |
+| --- | --- | --- | --- | --- |
+| 1 | 1-Enc | P | **Ash-forged Grit** | Heal self 1d4 |
+| 1 | 1-Rnd | F | **Blood of Balance** | When you Heal an ally; Def+1 for 1 rnd |
+| 1 | 1-Enc | A | **Dusk Howl** | Foes in 2sq Mind👁️ or flee 1 rnd |
+| 1 | 1-Enc | P | **Obsidian Skin** | AR🧥+1 for 1 rnd |
+| 1 | 1-Rnd | P | **Shadow Trance** | Immune to sleep/charm and most  Mind👁️ Saves✨ for 1 rnd |
+| 1 | 1-Day | F | **Starlight Sight** | See clearly in dim light; ignore typical darkness penalties |
+| 1 | 1-Day | F | **Stonefang Resolve** | Negate Stunned or Weakened or similar |
+| 1 | 1-Enc | F | **Umbral Heritage** | Motion🏃 Stealth with Advantage in dim light or darkness |
+| 1 | 1-Enc | M | **Umbral Step—Short** | Teleport 12sq to visible shadow |
+| 1 | 1-Enc | P | **Volcanic Sense** | Magic✨ to detect stone weaknesses/passages |
 
 ## ⚔️ **Combat Style Powers**
 
@@ -1569,7 +1611,6 @@ Select one of the many sub-sets of powers such as Class👤, Race🧬, Combat St
 | 1-Enc | F | **Elbow Smash** | Immediate Opportunity Atk |
 | 1-Enc | F | **Flowing Assault** | After slaying a foe; immediately make off-hand Opportunity Atk |
 | 1-Enc | AM | **Flying Kick** | Jump up to MR👣 and strike; Atk & Dmg💥 with Advantage |
-| 2-Enc | A | **Focused Strike** | Atk+2; 1 Atk |
 | 1-Enc | F | **Guard Swap** | Swap weapon or stance; no P cost |
 | 1-Rnd | M | **Guarded Step** | Move up to 3sq; attempt Block🛡️ with weapon to aid ally |
 | 1-Enc | P | **Hurl King** | Draw and throw 1 hurled weapon as second Atk/Dmg💥 |
@@ -1596,10 +1637,8 @@ Select one of the many sub-sets of powers such as Class👤, Race🧬, Combat St
 | 1-Enc | A | **Roundhouse Kick** | Atk all adjacent foes |
 | 1-Enc | A | **Shield Bash** | Make 1 Atk with shield (use Def as Atk); on hit, deal d4 Dmg💥 and Might💪 or target is Stunned |
 | 1-Day | M | **Shield Charge** | Move up to MR👣; Might💪 vs Def. On success, deal d4 Dmg💥 and target is knocked Prone |
-| 1-Enc | P | **Shield Hook** | Your Def rolls vs one opponent have Advantage this round |
 | 1-Enc | P | **Shield Riposte** | On successful Block🛡️; immediately make Opportunity Atk |
 | 2-Enc | P | **Shield Shove** | Might💪 to shove target d4sq |
-| 1-Rnd | P | **Shield Wall** | Def+1 for 1 rnd |
 | 2-Enc | A | **Side Kick** | On hit; normal Dmg💥 and push target d4sq |
 | 1-Enc | A | **Spinning Backfist** | On hit; Dmg💥+d4 and Might💪 or target falls Prone |
 | 1-Enc | P | **Steel Net** | Catch incoming blow between blades; Block🛡️+1d this rnd |
@@ -1640,38 +1679,55 @@ Dynamic magical treasures indexed from the master databases.
 
 | Usage | Action | Name | Effect |
 | --- | --- | --- | --- |
+| 2-Enc | P | **Ash-Herb Pouch** | Apply herbal dusts; Heal 1 Vit❤️ to adjacent ally |
+| 1-Day | M | **Ash-and-Blood WarPaint** | While painted; Nish🚩+1 for encounter |
 | 1-Enc | P | **Candle Spark** | Create small flame; ignite torches or campfires |
+| 1-Day | F | **Charm Bands** | Mind👁️ and Magic✨ rolls with Advantage 1 rnd |
 | 1-Enc | P | **Charm of Balance** | Motion🏃 roll with Advantage to stay upright |
+| 1-Enc | F | **Circus Cloak - Hidden Pockets** | Advantage on Mind👁️ Sleight of Hand checks |
 | 1-Enc | P | **Ember Pin** | Ignite small flame on touch |
 | 1-Enc | P | **Feather Charm** | Magic✨ to negate fall distance in ft |
 | 1-Enc | A | **Frost Pebble** | Throw; Magic✨+1d cold Dmg💥; Must find to reuse |
 | 2-Day | P | **Glow Orb** | Bright light for Encounter |
 | 1-Enc | A | **Grease Vial** | 2x2sq Slick Area; Magic✨ or target(s) are Prone |
 | 1-Enc | P | **Gust Stone** | Magic✨ or push target 1sq |
-| 1-Day | P | **Hush Leaf** | Chew; can't talk & silent in all ways for Encounter |
-| 1-Day | P | **Ink of Recall** | Write symbol on normal gear🧰/Wpn/AR🧥; Summon to you & Symbol breaks |
+| 1 | P | **Hush Leaf** | On chew; Stealth🏃 Advantage this rnd. |
+| 1 | P | **Ink of Recall** | On use; Writing & Communication✒️ checks to reproduce or decode symbols are at Advantage for 1 Enc. |
+| 1-Day | F | **Iron Pendant (Mother’s Keepsake)** | Resist✨+1 vs fearfor encounter |
 | 1-Enc | A | **Iron Sand Pouch** | Throw Sand; Magic✨+2 or target is Blinded |
+| 1-Day | F | **Ironcore Gambler’s Dice** | Next roll has Advantage |
+| 1-Day | F | **Keeth’s Mystical Bands** | Speak & Hearas if you are Keeth; Also revives Keeth from death or loss |
+| 1-Rnd | M | **Knife of Infinite Cloning** | Can split one knife into 2 knives (new knives last for encounter) |
 | 1-Day | P | **Lantern Bead** | Throw; hovering light for Encounter |
 | 1-Day | F | **Lucky Coin** | Reroll one failed roll |
+| 1 | P | **Mindstone Charm** | On use; Gain Advantage on 1 Mind👁️ roll this rnd. |
 | 1-Enc | A | **Mist Bottle** | Create fog in 2x2sq; obscure vision, for Encounter |
 | 2-Day | P | **Pocket Lantern** | Create floating Lantern that follows you for Encounter |
 | 1 | P | **Potion of Healing** | Heal self 1d4 |
 | 1 | P | **Potion of Iron Skin** | Dring; AR🧥+1 for encounter |
 | 1-Enc | P | **Quill of Sparks** | Write script visible only with command word, glows in darkness |
+| 1 | P | **Rune Flask of Blackaxe Ale** | Drink; Heal self 1 Vit❤️ |
 | 1-Enc | P | **Sand Pouch** | Throw sand; target's next Roll-2 |
 | 1 | A | **Scroll of the Commet** | Magic✨Atk and Dmg💥 both with Advantage |
-| 1 | F | **Shadow Thread** | Stich a normal item to your clothing; Will always reattach as if hooked |
+| 1-Enc | F | **Shadow Thread** | On use; reattach or secure 1 small garment/strap silently; grants Advantage to the next Sleight of Hand this Enc. |
 | 1-Rnd | M | **Shard of Echo** | Always Perfectly Repeats last 3 phrases heard |
+| 1-Day | P | **Smoke Bomb of Shrouding** | Create 3x3sq smoke cloud; all Stealth rolls in area with Advantage |
 | 1-Enc | P | **Smoke Pellet** | Creates smoke cloud; immedite Dodge with Advantage |
 | 1-Enc | A | **Sonic Marble** | Throw; Magic✨ or target is Dazed; Must be retrieved |
 | 1-Day | P | **Spark Key** | Touch to unlock normal locks up to Dif15 |
 | 1-Enc | A | **Sticky String** | Launch strand up to 4sq; retrieves up to 25Lb objects |
+| 1-Enc | A | **Stolen Iron Manacles** | On capture (Brawl Atk with at least 1 Wound); foe is Immobilized until Might💪 check succeeds |
 | 1-Day | P | **Stone Beetle** | Wind-up bug; follows you for 30 minutes, marking route with feint green glow |
+| 1 | P | **Sunpetal Brooch** | On use; Heal self 1 Vit❤️ and emit light 2sq for 1 Enc |
 | 1 | A | **Tonic of Clarity** | Drink; Mind👁️+1 for Encounter |
 | 1 | A | **Tonic of Vigor** | Drink; Might💪+1 for Encounter |
 | 1-Day | P | **Torch Seed** | Thow against wall or surface; sprouts flaming torch for Encounter |
+| 1-Enc | P | **Trickster’s Satchel** | Scatter glamor powder; 1sqR foes Mind👁️ or Distracted 1 rnd |
+| 1 | A | **Vial of Sacred Dust** | Throw 2sq; Magic✨ Atk vs undead; d4 Dmg and Weakened 1 rnd |
 | 1-Day | M | **Vine Cord** | Extend up to 100ft vine-rope; can lift up to 250Lb individuals/items |
 | 1-Day | P | **Water Skin of Plenty** | Pproduces 1 day's fresh water for 1 person |
+| 1-Rnd | M | **Whetstone of Memory** | After sharpening weapon: next Atk+1 |
+| 1-Enc | P | **Whetstone of True Edge** | On use; next Atk⚔️ with sharpened weapon Dmg💥+1. |
 | 1-Enc | P | **Whisper Stone** | Send whispered message across any barrier to allies up to 15sq |
 | 1-Enc | A | **Wind Flute** | Play note; next Nish🚩 roll with Advantage |
 | 1 | F | **Wooden Charm** | Break to gain Magic✨Resist✨+2 for encounter |
@@ -1691,19 +1747,27 @@ Dynamic magical treasures indexed from the master databases.
 | 1-Rnd | P | **Backpack of Holding** | Store much more geAR🧥; retrieve instantly |
 | 1-Enc | P | **Bell of Rallying** | Allies in earshot Nish🚩+1 |
 | 1-Day | P | **Belt of Many Knots** | Motion🏃 Climb/Bind+2 for Encounter |
+| 1-Enc | A | **Blade of Thought (Longsword)** | On hit; Magic✨ force Dmg💥+1; once per Enc, also push target 1sq. |
 | 1-Enc | F | **Bookmark of Memory** | Recall last page perfectly |
 | 1-Enc | M | **Boots of Springsteel** | Doubles jump height |
+| 1-Enc | P | **Bracers of Psionic Focus** | Activate focus; Atk⚔️+1 and Def+1 for 1 rnd. |
 | 1-Enc | P | **Bracers of Strength** | Might💪 Strength+2 (lifting, bend bars, etc.) for Encounter |
+| 1-Enc | P | **Bracers of the Unbroken Stance** | Activate stance; Resist push/pull; AR🧥+1 for 1 rnd. |
 | 1-Enc | P | **Candle of Calm** | Aura calms; Magic✨ or target looses next A Action |
 | 2-Enc | A | **Cape of Winds** | Magic✨ to push 1 foe d4sq |
 | 1-Enc | P | **Charm Bracelet** | Roll+3 on next roll |
 | 1-Day | F | **Chime of Warning** | Rings when danger is neAR🧥; lasts or Encounter |
+| 1-Enc | M | **Cloak of Feathers** | Vanish in burst of feathers; teleport 3sq and become Invisible 1 rnd |
 | 1-Day | F | **Cursed Coin** | Flip coin; Heads = boon, Tails = bane (GM🔎 decides results) |
 | 1-Enc | P | **Dice of Fortune** | Roll d10 on 10 gain 1 Luck🍀 chit |
 | 1-Day | P | **Feather of Falling** | Fall first 100 ft safely |
 | 1-Enc | A | **Flute of Frenzy** | Up to 3 Targets; Magic✨ or dance uncontrollably |
+| 1-Enc | P | **Golden Sunstone** | When Healing; Heal+1 Vit❤️ or gain AR🧥+1 for 1 rnd |
+| 1-Day | F | **Ironplate Light Armor** | AR🧥+1; may use Featherfall once as Free action |
 | 1-Day | P | **Lantern of Whispers** | Perception has Advantage |
+| 1-Enc | P | **Loaded Gambler’s Dice** | On use; reroll 1 failed Atk⚔️, Skill🎓, or Power⚡ roll |
 | 1-Rnd | M | **Magnet Ring** | Pull/push metal object 2sq; Magic✨ vs difficulty if Resist✨s or over 50Lbs |
+| 1-Enc | A | **Magnetic Resonance Bracer** | Target in metal armor; If Magic✨Atk hits target is leVit❤️ated up to 20', then dropped |
 | 1-Enc | A | **Marbles of Mischief** | Scatter marbles in 3x3sq; AoE MR👣-2; bag auto refills |
 | 1-Day | F | **Mirror Shard of Foresight** | Glimpse future; next Roll+2 |
 | 1-Day | P | **Mug of Endless Tea** | Drink; Resist✨+2 on next roll this encounter |
@@ -1712,12 +1776,17 @@ Dynamic magical treasures indexed from the master databases.
 | 1-Enc | P | **Pebble of Echoes** | Throw; creates illusory footsteps; bag auto fills |
 | 1-Day | P | **Potion of Glimmer** | Glow rainbow light for Encounter; auto refills |
 | 1-Day | AM | **Quill of Truth** | Writes only truth (limited to one topic as per GM🔎) |
+| 1-Enc | A | **Rapier of Impure Alloy** | Atk+2 this rnd but Dmg💥-1 |
 | 2-Day | F | **Scarf of Warmth** | Resist✨+2 & AR🧥+2 vs cold for Encounter |
-| 1-Enc | M | **Shoes of Silence** | Motion🏃 Stealth with Advantage |
+| 1-Enc | F | **Shoes of Silence** | Activate; all steps are noiseless for 1 Enc; Stealth🏃 while moving gains Advantage. |
+| 1-Enc | A | **Smoke Bomb Satchel** | Throw 1 bomb; create 3x3sq smoke cloud; foes inside suffer Disadvantage on Atk & Dodge🏃 for 1 rnd |
 | 1-Enc | A | **Soap Bubble Wand** | Distract 1 foe; Magic✨ or target loses all actions this round |
+| 1-Enc | P | **Spearof Phalanx** | On hit; Might💪pushes target 1sq. If ally has or will likely Atk target this rnd, both Dmg💥+1 |
+| 1-Enc | F | **Spiked Vest of the Punk Gods** | When grappled; grappler suffers d4 Dmg💥 |
 | 1-Enc | A | **Staff of Force** | Normal Atk & Dmg💥 and Magic✨or target pushed 3sq and prone |
 | 1-Enc | M | **Sticky Gloves** | Climb sheer walls; no roll |
 | 1-Day | P | **Sunglow Brooch** | Emit light 20ft radius, no shadows for Encounter |
+| 1-Day | F | **Tower Shield of the Blackaxe** | While held: AR🧥+1 and Def+1 for encounter |
 | 1-Enc | P | **Umbrella of Defiance** | Block🛡️ at Max roll, all ranged Atks for 1 rnd |
 | 2-Enc | A | **Wand of Fire Bolts** | Magic✨ Atk for Magic✨+1d fire Dmg💥 and Magic✨or target burns Dmg💥 d4/rnd |
 
@@ -1725,7 +1794,9 @@ Dynamic magical treasures indexed from the master databases.
 
 | Usage | Action | Name | Effect |
 | --- | --- | --- | --- |
+| 1-Enc | A | **Amulet of Dawn’s Radiance** | Magic✨ Atk (AOE 3sqR) vs undead; d8 radiant Dmg💥 and Weakened 1 rnd; Non-undead in AOE Heal+1 Vit❤️ |
 | 1-Day | A | **Amulet of Healing** | Heal Self 2d4 |
+| 1-Enc | F | **Amulet of Psionic Reflection** | After you succeed a Resist✨ from an foe; Magic✨ Atk & Dmg💥 vs foe and Mind👁️ to Weaken for 1 rnd. |
 | 1-Enc | P | **Bell of Guidance** | Allies Roll+1 next roll |
 | 1-Day | P | **Boneweave [Armor]** | Immune to poison for Encounter |
 | 1-Enc | A | **Boom [Weapon]** | Spells+1 for 1 rnd; Amplify voice for Encounter |
@@ -1733,14 +1804,18 @@ Dynamic magical treasures indexed from the master databases.
 | 1-Day | P | **Cassette of Rebellion** | Allies Roll+1 next roll |
 | 1-Enc | A | **Chissel of Defiance** | Carve rune on target's armor; AR🧥+1 for Encounter |
 | 1-Day | P | **Chroma [Armor]** | Immune to illusions for Encounter |
+| 1-Day | A | **Circus Cloak - Magnetized Circus** | Al iron objects in 3sqR pulled to cloak at Magic✨ |
 | 2-Enc | F | **Cloak of Shadows** | If in shadows or darkness; Motion🏃 Stealth has Advantage for 1 rnd |
 | 1-Day | A | **Clockwork [Ranged Weapon]** | Fire twice |
 | 1-Enc | P | **Compass of True North** | Always points to chosen destination for Encounter |
+| 1-Enc | P | **Concealed Dagger** | Make 1 Atk⚔️ this rnd with Advantage (one strike only) |
 | 2-Enc | A | **Crescent [Weapon]** | Dodge+2 for 1 rnd |
+| 1-Enc | A | **Crossbow of the Alley** | Make 1 Ranged Atk⚔️; ignoring cover and any Atk Disadvantage |
 | 1-Day | A | **Crystal Guitar** | Sound blast 3sq cone; Magic✨ Atk for d6 Dmg💥 |
 | 2-Day | M | **Crystal Lens** | Read all languages and magical runes etc. |
 | 1-Day | P | **Dragon [Armor]** | Immune to fire Dmg💥 for Encounter |
 | 1-Enc | A | **Drum [Weapon]** | On hit; Magic✨ Atk for d6 Dmg💥 to adjacent |
+| 1-Enc | P | **Elven Chain Mail of Silent Passage** | Activate; AR🧥+1 and all worn movement is noiseless for 1 Enc |
 | 1-Day | P | **Ember [Armor]** | If you are hit; Magic✨or attacker takes d4 fire Dmg💥; Lasts for Encounter |
 | 1-Enc | A | **Ember [Weapon]** | On miss; all adjacent squares ignite Motion🏃 or d4 burn Dmg💥 |
 | 1-Day | P | **Fat Frog Idol** | Restore 1 Luck🍀 chit |
@@ -1758,8 +1833,11 @@ Dynamic magical treasures indexed from the master databases.
 | 1-Day | P | **Holo-Sunglasses** | Roll+2 when showing off |
 | 1-Day | P | **Hoodie of Anarchy** | In crowds; Motion🏃 Stealth with Advantage |
 | 2-Enc | P | **Iron Carapace [Armor]** | AR🧥+2 for 1 rnd |
+| 1-Enc | A | **Katars of the Unbending Steel (Resolve & Execution)** | On hit; target Resist✨ or Stunned 1 rnd |
+| 1-Enc | A | **Keeth’s Shadowform** | Summon Keeth as (Nymph Sized) mount; fly MR👣; for Encounter |
 | 1-Day | P | **Knight’s [Shield]** | Negate 1 Vit❤️ completely |
 | 1-Enc | P | **Lantern of Truth** | Reveal hidden things nearby; Magic✨ |
+| 1-Enc | P | **Longsword of the Street Rebel** | For 1 rnd; melee Atk⚔️+1 & Dmg💥+1; vs larger foes, first melee Atk has Advantage |
 | 1-Enc | P | **Mask of Whispers** | Mind👁️+2 for 1 rnd |
 | 1-Enc | P | **Medallion of Calm** | Remove Weakened |
 | 1-Day | P | **Mirror [Shield]** | Magic✨ to reflect 1 spell back at caster |
@@ -1778,11 +1856,16 @@ Dynamic magical treasures indexed from the master databases.
 | 1-Day | P | **Starlight [Armor]** | Gain Starlight vision for Encounter |
 | 2-Enc | P | **Stoneform [Armor]** | If you are wounded; Attacker petrifies; MR👣-1 for Encounter; Self stacking |
 | 1-Enc | P | **Storm [Weapon]** | On hit; Magic✨ thunderclap; adjacent foes to target loose A Action |
+| 1-Enc | P | **The Wall (Bronze Shield of the Fallen)** | Block🛡️+2 for 1 rnd |
 | 1-Enc | P | **Thunder [Armor]** | If you are hit; Magic✨or attacker is stuned |
 | 1-Enc | A | **Thunder [Weapon]** | On hit; Might💪 or target is Stunned |
 | 1-Day | F | **Tome of Forgotten Lore** | Learn 1 hidden fact |
+| 1-Enc | P | **Tower Shield of the Blackaxe (Runic Ward)** | Activate rune; AR🧥+3 for 1 rnd |
 | 1-Enc | A | **Vine Lash Whip** | On hit; Magic✨ or pull target to adjacent sq for off-hand Opportunity Atk |
 | 1-Day | A | **Void [Weapon]** | On crit; Normal GM🔎 crit and erase 1 item from target |
+| 1-Rnd | P | **Volcanic Shard of Reth’Vash 1** | Healing Powers and healing received are +1 |
+| 1-Enc | P | **Volcanic Shard of Reth’Vash 2** | Teleport up to 6sq to visible shadow |
+| 1-Enc | F | **Volcanic Shard of Reth’Vash 3** | After you Heal ally from 0 or less Vit❤️ to 1+, make 1 Brawl Opportunity Atk |
 | 1-Enc | A | **Whisper [Weapon]** | On Atk; Whisper target positions at Mind👁️ to detect Invisible monsters |
 | 1-Enc | P | **[Armor] of Serenity** | Mind👁️ Persuasion+2 |
 | 1-Enc | M | **[Weapon] of Echoes** | Dmg💥+2 if the 2H20 rolls doubles, for encounter |
@@ -1831,23 +1914,34 @@ Dynamic magical treasures indexed from the master databases.
 
 | Skill Set | Skills |
 | --- | --- |
+| **Acrobatics** | Balance🏃, Evasion🏃, Parkour🏃, Recovery Rolls🏃 |
 | **Agility** | Acrobatics🏃, Balance🏃, Escape Bonds🏃, Falling🏃, Climb🏃 |
 | **Alchemy** | Identify👁️, Mix👁️, Apply Potions And Substances👁️, Id/Forage Plants👁️ |
-| **Arcana** | ID Magic Item👁️, ID Spells👁️, ID Runes👁️, ID Magical Beasts👁️, Detect Enchantments.✨ |
+| **Arcana** | ID Magic ✨, Detect Enchantments✨ |
+| **Assassination** | Target Analysis👁️, Poison Use👁️ |
+| **Assassination🎓** | Target Analysis👁️, Poison Use👁️ |
 | **Athletics** | Climb🏃, Swim🏃, Jump🏃, Lift💪, Feats Of Stregth.💪 |
+| **Awareness** | Perception👁️, Read Intent👁️, Lie Detection👁️, Situational Analysis👁️ |
 | **Bardic** | Performance👁️, Music👁️, Persuasion👁️, Inspiration.👁️ |
 | **Crafting** | Craft/Repair Weapons💪, Craft/Repair Armor💪, Craft/Repair Carpentry🏃, Craft/Repair Leatherwork🏃 |
-| **Diplomacy** | Negotiate👁️, Persuade👁️, Charm👁️, Intimidate👁️, Fast Talk👁️, Languages👁️ |
+| **Diplomacy** | Persuasion👁️, De-escalation👁️, Command Presence👁️, Mediation👁️ |
 | **Drudic** | ID Plants👁️, Talk To Plants👁️, Befriend Animal👁️, Talk To Animal👁️, Endure Weather✨ |
 | **Dungeoneering** | Direction SenseDetect Trap/Hazard👁️, Assess Stonework👁️, Climb🏃 |
 | **Dwarven Skills** | Stonecraft👁️, Mining💪, Brewing👁️, Underground Lore👁️, Repair Gear💪, Poison Save✨, Infrared👁️ |
 | **Elven Skills** | Flettcher👁️, Forest Lore👁️, Stealth🏃, Artistry👁️, Tracking👁️, Charm Save✨, Starlight👁️ |
+| **Engineering & Siegecraft** | Siege Engine Use/Atk/Dmg👁️, Repairs👁️, Rune-Engraving✨, Stone/Metal Weakness 👁️, Thunder Barge Piloting🏃 |
 | **Gnomish Skills** | Inventer👁️, Small Illusions✨, Solve Puzzles👁️, Repairs👁️, Illusion Save✨, Infrared👁️ |
 | **Goblin Skills** | Scavenging👁️, Set Traps🏃, Stealth🏃, Ambush Setup👁️, Disease Save✨, Starlight👁️ |
 | **Guard Skills** | Intimidation💪, Interrogate💪, Repair Weapons/Armor💪, Danger Sense👁️ |
 | **Halfling Skills** | Stealth🏃, Throw Rocks👁️, Cooking👁️, Community Lore👁️, Fear Save✨, Starlight👁️ |
+| **Healing Arts** | Herbalism👁️, Basic Healing👁️, Treat Disease👁️, Treat Poison👁️ |
 | **Husbandry** | Ridding🏃, Animal Training🏃, Befriend Animal👁️, Talk To Animal✨ |
+| **Intimidation & Presence** | Threaten convincingly👁️, Taunt foes👁️, Inspire allies👁️, Lead rebellious groups👁️, Recognize manipulation👁️ |
+| **Iron Lotus Discipline** | Awareness👁️, Mountaineering🏃, Healing Arts👁️, Endure Pain/Fear✨ |
+| **Magnetism** | Metal Manipulation💪, Falling✨, Detect Metal👁️, Streetwise👁️ |
+| **Martial Prowess** | Tactics👁️, Guard Drills🏃 |
 | **Medicine** | Bind Wounds👁️, Set Bones👁️, Treat Disease👁️, Treat Poison👁️, Basic Healing.👁️ |
+| **Mental Discipline** | Focus👁️, empathy👁️, Mental Fortitude✨, Psionic Control✨ |
 | **Mercantile** | Appraise👁️, Haggle👁️, Gambel👁️, Fast Talk👁️ |
 | **Mountaineering** | Climb🏃, Falling🏃, Find Route👁️, Danger Sense👁️, Endure Weather✨ |
 | **Orc Skills** | Hunt🏃, Ambush👁️, Intimidation👁️, Crafting💪, Endure Weather✨, Weather Save✨, Infrared👁️ |
@@ -1855,8 +1949,12 @@ Dynamic magical treasures indexed from the master databases.
 | **Sailing** | Ships🏃, Navigation👁️, Weather👁️, Swim🏃, Fishing🏃 |
 | **Scholar** | Lore👁️, History👁️, ID Magic Item👁️, Religion👁️, Politics👁️, Monster Knowledge.👁️ |
 | **Scout** | Track👁️, Forage👁️, Stealth🏃, Climb🏃, Fishing🏃, Set Traps🏃 |
-| **Survival** | Build Shelter👁️, Hunt🏃, Find Water👁️, Identify Plants👁️, Endure Weather.✨ |
-| **Thievery** | Stealth🏃, Climb🏃, Open Locks👁️, Detect/Remove Traps👁️, Pick Pockets.🏃 |
+| **Streetwise Survival** | Spot unusual activity👁️, Blend into crowds🏃, Create distractions👁️, Identify urban threats👁️, Escape pursuit🏃 |
+| **Survival** | Forage👁️, Find Water👁️, Identify Plants👁️, Endure Weather✨ |
+| **Thievery** | Stealth🏃, Climb🏃, Open Locks👁️, Detect/Remove Traps👁️, Pick Pockets🏃 |
+| **Thievery🎓** | Stealth🏃, Climb🏃, Open Locks👁️, Detect/Remove Traps👁️, Pick Pockets🏃 |
+| **Urban Survival** | Navigate Cityscapes🏃, Hidden Routes👁️, Blend into Crowds🏃, Streetwise👁️ |
+| **Urban Survival🎓** | Navigate Cityscapes🏃, Hidden Routes👁️, Blend into Crowds🏃, Streetwise👁️ |
 
 
 # GM Tables & Tricks
