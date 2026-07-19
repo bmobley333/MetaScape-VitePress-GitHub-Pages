@@ -1275,9 +1275,7 @@ Dynamic magical treasures indexed from the master databases.
 | **Thievery** | Stealth🏃, Climb🏃, Open Locks👁️, Detect/Remove Traps👁️, Pick Pockets.🏃 |
 
 
-# 🔒 Personal PC
 
-# 🔒Personal Player Characters
 
 This section includes personal Abilities and Magic Items✨ for specific characters.
 
