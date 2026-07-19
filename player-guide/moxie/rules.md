@@ -22,7 +22,6 @@ Emojis🙂 are used in MetaScape for rapid identification of key stats and words
 1. Emojis🙂 are to follow their key word(s) in nearly every case (other than headings)
 1. The five Attribute✅ (Atr) emojis🙂 can be used both following their key words as in: Might💪, Motion🏃, Mind👁️, Magic✨, and Moxie🫀, but also following any ability as an indicator as to which of the five attributes to roll for that ability. (e.g., “Stealth🏃” is the shorthand version of, and means the same thing as “Stealth roll using Motion🏃” or “Motion🏃 Stealth” and this shorthand is the preferred method.
 1. Monster stats place the emojis before key numbers or number sets as in:
-
 1. 4 Orc Guards (Heavy Leather, Scimitars, Bucklers) 🚩14, 👣10, ⚔️18/12(2), 🛡️16/2, ❤️12 – [💪18/🏃12/👁️10/✨10/🫀12] (Poisoned blades Magic✨ or Weakened).
 
 | Sorted by Term📖 |  |  | Sorted by Emoji🙂 |  |
@@ -175,22 +174,16 @@ Dice notation follows standard TTRPG shorthand. For example, **2d8+12** means ro
 
 * MetaScape uses the classic RPG dice: d4, d6, d8, d10, d12, and d20 (three d20 are useful for Skilled rolls with Adv).
 * MetaScape also uses the d100, rolled with two d10 (one for tens, one for ones).
-
 * Example: a roll of 8 and 2 = 82; a roll of 0 and 8 = 8; a roll of 0 and 0 = 100.
 * Some d10 use 0–9, others 1–10. In either case, treat 10 as 0.
-
 * **3H20** → Roll three d20, keep the highest.
 * **2L20** → Roll two d20, keep the lowest.
 * **+#d / –#d** → Increase or decrease the die type by # steps, within d4–d12.
-
 * Example: d6 +1d → d8; d10 –2d → d6.
 * d4 is always the minimum; d12 is always the maximum.
-
 * **Odd Dice (d7, d32, etc.)** → Roll the next higher die type, reroll results above the desired range.
-
 * Examples: d2 → use d4 (reroll 3–4), d7 → use d8 (reroll 8), d24 or d32 → use d100.
 * For d14: roll a d20 until you get 1–14, reroll 15+.
-
 * If any die is cocked, rolls off the table, is the wrong type, or you forgot a die: reroll the ENTIRE set.
 
 ### Ability Check / Ability Roll
@@ -225,12 +218,9 @@ Examples use for all of below: Sword Atk⚔️, Might💪 d8, +1 bonus.
 * **Unskilled** → 1d20 + d8 + 1.
 * **Skilled** → 2H20 + d8 + 1.
 * **Advantage** → Add one extra d20, keep highest.
-
 * If Unskilled → 2H20 + d8 + 1.
 * If Skilled → 3H20 + d8 + 1.
-
 * **Disadvantage** → Roll one fewer d20.
-
 * If Unskilled → 2L20 + d8 + 1.
 * If Skilled → 1d20 + d8 + 1.
 
@@ -258,13 +248,10 @@ All Ability Roll results stand as success or failure regardless of Tremendous or
 
 * **Double Tremendous🌟🌟** → Two natural 20s in one roll (1 in 400 chance).
 * **Triple Tremendous🌟🌟🌟** → Three natural 20s in one roll (1 in 8,000 chance).
-
 * Double = **very powerful narrative effect** .
 * Triple = **astoundingly powerful narrative effect** .
-
 * **Double Critical💀💀** → Two natural 1s.
 * **Triple Critical💀💀💀** → Three natural 1s.
-
 * Double = very significant negative effect.
 * Triple = catastrophic negative effect.
 
@@ -298,18 +285,13 @@ The GM🔎 should keep a single d20 for **quick, one-off results** . This die ne
 **Uses:**
 
 * Critical and Tremendous Intensity:
-
 * High rolls (toward 20): Means greater intensity — more impactful results (good for PCs in Tremendous cases, bad in Criticals).
 * Low rolls (toward 1): Means minimal intensity, possibly even canceling the effect.
-
 * Answering quick questions:
-
 * *Do I see any throwable rocks nearby?*
 * *Does the pickpocketed target have coins?*
 * *Does my rope hold 500 lbs?*
-
 * Examples resolving NPC vs NPC actions without full rolls:
-
 * *Atk Intensity (18)* → hits.
 * *Dmg Intensity (10)* → causes 3 Wnd🩸s❤️.
 * *Def Intensity (8)* → hit; *AR Intensity (19)* → blocks all Dmg.
@@ -393,7 +375,6 @@ All Attributes are equally important. Mgt💪 is not inherently better than Mnd�
 **⚡ 3 Powers**
 
 * A good approach is taking one each of these:
-
 * 1 A-action Power⚡ usable at least 1-Enc for encounter impact.
 * 1 P-action Power⚡ that you can turn on 1-Rnd so it can be on anytime you are not otherwise using a P action.
 * 1 1-Day Power⚡ for that big WOW factor.
@@ -402,7 +383,6 @@ All Attributes are equally important. Mgt💪 is not inherently better than Mnd�
 
 * Your character is 1st Level⭐ (record 1 for Level⭐) and thus has 1 AP🧩.
 * A good place to spend 1 AP🧩 is one of:
-
 * Nish🚩 Skill (Motion🏃)
 * Death Check Skill (Moxie🫀)
 * A 2nd Weapon⚔️
@@ -553,23 +533,17 @@ When one PC helps another, the **narrative of how** is key. The GM may:
 ## Uplifting Damage
 
 * Weapon Atk = Might💪 (melee), Motion🏃 (hurled) or Mind👁️ (shot).
-
 * If a weapon that has two Types (Me/Hu for Melee and Hurled), the weapon need only be learned once, but each type (Melee and Hurled) are separately recorded (use two lines on the character sheet’s weapon’s table.
-
 * All weapon Dmg💥, except multi-attacks, may be uplifted. This applies ONLY to Dmg💥, not Block🧱.
 * Uplifting raises a weapon’s Dmg💥 die up to the wielder’s relevant Atr✅.
-
 * **Example:** A dagger (d4) wielded by a character with Might💪 d8 deals Dmg💥 at d8 instead of d4.
-
 * Multi-attack Dmg💥 dice are never uplifted.
 
 ## Multi-Attack
 
 * Multi-attack is always an option if requirements are met. Some Powers⚡ may add further options.
 * You may multi-attack if the sum of all weapon Dmg💥 dice is ≤ your Atr✅ die.
-
 * **Example:** With a dagger (d4), a character with Might💪 d8 may make two attacks (1d4 and 1d4 Dmg💥). With Might💪 d12, they may make three attacks (three 1d4 Dmg💥 rolls).
-
 * Each multi-attack is a separate Atk⚔️ and Dmg💥 roll. Attacks may target a single foe multiple times or be split among adjacent targets.
 
 **Multi-attack can be done with:**
@@ -629,12 +603,9 @@ There are four primary combat styles in MetaScape. By default, the core rules tr
 Natural weapons🥊 (Brawl and Throw Object) cannot Block🧱 and have no coin cost. They are Unskilled unless skill🎓 is taken in each one. Dmg💥 is rolled at –1d below the governing Atr✅ (minimum d4).
 
 * **Brawl🥊** – Covers all natural attacks such as punch, kick, tackle, grab, throw, hold, etc. It also includes racial natural weapons such as claw, bite, or tail sweep.
-
 * **Martial Arts🥋** – An advanced form Brawl🥊 provided through Martial Arts Powers⚡.
-
 * **Improvised (Melee)** - An improvised melee weapon (chair, board, candelobra, torch, etc.) all fit into this category.
 * **Throw Object** – Applies to all logical thrown projectiles such as a rock, mug, or other improvised items.
-
 * Weapons marked Hu (Hurled) use their normal weapon Atr✅ and rolls and are not treated as thrown objects.
 * With GM🔎 approval, non-hurled weapons⚔️ (such as a short sword) may be thrown as improvised objects. In this case, all Throw Object rules apply.
 
@@ -703,7 +674,6 @@ Natural weapons🥊 (Brawl and Throw Object) cannot Block🧱 and have no coin c
 **Death Checks**
 
 * Death Checks = Moxie🫀 roll vs Dif = 5 + (Wnd🩸 – Vit❤️).
-
 * Example: Vit❤️ 20 with 23 Wnd🩸 → Dif = 8.
 
 **Bleeding**
@@ -785,14 +755,10 @@ Additional guidance is below:
 How often an ability (Power⚡ or Magic Item✨) can be used:
 
 * **1-Rnd:** Once per rnd. Refreshes on your next Nish🚩.
-
 * All Skills🎓 are considered 1-Rnd.
-
 * **X-Enc:** (e.g., 1-Enc, 2-Enc) → X uses per Enc. Refreshes at Enc end.
 * **X-Day:** (e.g., 1-Day, 2-Day) → X uses per Day📅. Refreshes after 🌙 sleep/start of new Day📅.
-
 * X-Day abilities may only be used once per Enc (GM may allow variance for long/climactic Encs).
-
 * **1-Luck🍀:** Uses 1 Luck chit.
 * **1:** More rare, but some usage will be “1” such as a potion, meaning you drink it once and it is gone (used up).
 
@@ -820,7 +786,6 @@ What an ability costs on your turn:
 * Actions are never interchangeable (cannot trade A or M for P, etc.).
 * Never exceed 1 A, 1 M, and 1 P per rnd.
 * Movement rule: If you move ≥1sq, it always consumes your M action (even if MR = 10 and you only move 1sq).
-
 * If you do not use A Action, you may split MR (move → pause → move).
 * If you use A Action, any leftover MR is lost (cannot Move-Atk-Move unless a Power⚡ or Magic Item✨ allows it).
 
@@ -868,7 +833,6 @@ What an ability costs on your turn:
 Default = **1 rnd** unless otherwise stated/obvious.
 
 * **1 rnd:** Effect begins immediately and lasts until the user’s next Nish🚩.
-
 * Example: Used at Rnd start, effect ends when that PC’s next Initiative🚩 arrives.
 
 **Design Goal:** Minimal tracking. Durations should be obvious, instant, 1 rnd, or entire Enc. Avoid multi-rnd tracking.
@@ -2366,7 +2330,6 @@ The GM can also put in the rules, the character concepts and their adventure and
 * **Character Concept** - Most LLMs can do a great job of building or fleshing out your character’s concept if you simply provide the LLM with a bit of details and then ask it to create a full character concept including history, appearance, personality, skills, powers, goals, etc. as a two page character concept.
 * **Character Portrait** - Most LLMs can create an image of your character if you simply ask them to draw you a picture of your character and paste in your character’s description, character concept, and gear.
 * **Adventure** - A simple and great way to leverage LLMs for adventure creation assistance is to approach the adventure and LLM in a few steps.
-
 * Step 1 - First provide your rough idea and ask the LLM to create a TTRPG adventure plot outline (no encounters).
 * Step 2 - Find or make maps of key adventure encounters or areas and number them
 * Step 3 - For each map, write up the room #, descriptive name, and describer the room’s contents
