@@ -91,5 +91,25 @@ hero:
     </div>
   </a>
 
+  <!-- SupaFlex Card -->
+  <a href="./player-guide/supaflex/rules" class="engine-card supaflex-card">
+    <div>
+      <div class="card-badge">Realtime Flex</div>
+      <div class="card-header">
+        <h2>🌌 SupaFlex</h2>
+      </div>
+      <p class="card-desc">High-performance digital companion and character sheet editor. Optimized with Supabase client-side caching and real-time socket checks.</p>
+      <ul class="card-features">
+        <li><strong>Attributes</strong>: Might, Motion, Mind, Magic, Moxie</li>
+        <li><strong>Focus</strong>: Widescreen layouts & sub-10ms latency</li>
+        <li><strong>Dice Engine</strong>: Real-time WebSocket broadcasts</li>
+      </ul>
+    </div>
+    <div class="card-cta">
+      <span>Explore SupaFlex Rules</span>
+      <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><line x1="5" y1="12" x2="19" y2="12"></line><polyline points="12 5 19 12 12 19"></polyline></svg>
+    </div>
+  </a>
+
 </div>
 

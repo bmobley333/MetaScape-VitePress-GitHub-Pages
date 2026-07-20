@@ -8,6 +8,8 @@
   --ms5-rgb: 124, 58, 237;
   --moxie-color: #db2777;
   --moxie-rgb: 219, 39, 119;
+  --supaflex-color: #4f46e5;
+  --supaflex-rgb: 79, 70, 229;
   
   --card-bg: rgba(0, 0, 0, 0.02);
   --card-border: rgba(0, 0, 0, 0.08);
@@ -24,6 +26,8 @@
   --ms5-rgb: 167, 139, 250;
   --moxie-color: #f472b6;
   --moxie-rgb: 244, 114, 182;
+  --supaflex-color: #818cf8;
+  --supaflex-rgb: 129, 140, 248;
   
   --card-bg: rgba(255, 255, 255, 0.02);
   --card-border: rgba(255, 255, 255, 0.08);
@@ -98,6 +102,12 @@
   --theme-color: var(--ms5-color);
   --theme-rgb: var(--ms5-rgb);
   animation: fadeInUp 0.6s cubic-bezier(0.16, 1, 0.3, 1) 0.4s forwards;
+}
+
+.engine-card.supaflex-card {
+  --theme-color: var(--supaflex-color);
+  --theme-rgb: var(--supaflex-rgb);
+  animation: fadeInUp 0.6s cubic-bezier(0.16, 1, 0.3, 1) 0.5s forwards;
 }
 
 /* Card Hover States */
