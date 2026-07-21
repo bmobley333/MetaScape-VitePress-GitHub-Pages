@@ -377,7 +377,7 @@ Focus is a core PC resource represented by a single die on the same d4→d6→d8
 
 **✅ Starting Atr**
 
-* Assign 1x d4, 2x d6, 2x d8 across Might💪, Motion🏃, Mind👁️, Magic✨, and Moxie🫀.
+* Assign 2x d4, 2x d6, 1x d8 across Might💪, Motion🏃, Mind👁️, Magic✨, and Moxie🫀.
 
 **🔮 Starting Focus Die**
 
@@ -481,11 +481,13 @@ Attribute upgrades are purchased with AP🧩 and are tier-gated by your level. T
 
 | Tier / Level Milestone | Attribute Die Array Max Available |
 | --- | --- |
-| Level 1 (Starting) | 1x d4, 2x d6, 2x d8 |
-| Level 25 | 2x d6, 3d8 |
-| Level 50 | 2x d6, 1xd8, 2x d10 |
-| Level 75 | 2x d6, 1x d8, 1x d10, 1x d12 |
-| Level 100 (Max Cap) | 1x d6, 1x d8, 1x d10, 2x d12 |
+| Level 1 (Starting Array) | 2x d4, 2x d6, 1x d8 |
+| Level 1–9 Max Ceiling | 1x d4, 2x d6, 2x d8 |
+| Level 10 Tier | 1x d4, 1x d6, 3x d8 |
+| Level 25 Tier | 2x d6, 1x d8, 2x d10 |
+| Level 50 Tier | 1x d6, 2x d8, 2x d10 |
+| Level 75 Tier | 1x d6, 1x d8, 2x d10, 1x d12 |
+| Level 100 Tier (Max Cap) | 1x d6, 1x d8, 1x d10, 2x d12 |
 
 | Step (per die) | AP Cost (per die) |
 | --- | --- |
