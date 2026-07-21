@@ -129,6 +129,7 @@ This section serves as both the **abbreviation reference** and the **full word d
 * **Equipment** – Another word for Gear🧰 (non-magical).
 * **Ext Rng (Extended/Long Range)** – A greater range (at disadvantage) that a weapon, ability, or item can reach.
 * **Fatigue** – A Minimal amount of Wnds🩸 a PC suffers IF HIT by a monster regardless of PC’s AR🧥 roll.
+* **Focus Die** – A resource die (d4–d12) that can be spent to boost a roll, stepping down when used and stepping up on Flood triggers.
 * **g / gp (Gold Piece)** – A gold coin; 100 silver (s) = 1 gold (g).
 * **Gear🧰** – Non-magical equipment.
 * **GM (Game Master)** – The person running the game and story.
@@ -195,6 +196,7 @@ An **Ability Roll** (also called Ability Check) is:
 * **#d20:** 2H20 if Skilled, 1d20 if Unskilled. Other options exist for Adv/Dis (see below).
 * **d(Atr) or d💪, d🏃, d👁️, d✨, or d🫀:** Roll the base Atr die of the relevant Attribute — (e.g. a simple d4, d6, d8, d10, or d12).
 * **Bonus:** From gear🧰, traits🎭, Powers⚡, or situational modifiers. Bonuses may be combined to a Max +5. However, a single bonus can be any number, even beyond +5, such as +8 but such bonuses may not be combined with any other.
+* **Focus Die spends** are *not* flat bonuses and do not touch the +5 cap. They are a separate resource-based die addition, tracked independently.
 * **Penalty** :A negative such as -2. There is no max penalty and they ALWAYS combine. However, a penalty to an Atr die or to an ability check may not reduce the roll below 0. So a d✨-2, where the Magic Atr die 4 will result in a roll between 0 and 2 (e.g. d4 rolls a 4 minus 2 is 2, d4 rolls a 1 minus 2 is 0).
 
 **Example:** A Skilled dagger Atk⚔️ with Might💪 d8 and +1 bonus:
@@ -202,6 +204,13 @@ An **Ability Roll** (also called Ability Check) is:
 2H20 (rolled 3, 17) → keep 17; d8 (rolled 5); +1 Bonus.
 
 Result = 17 + 5 + 1 = 23.
+
+### Exploding Attribute Dice
+
+Whenever an Attribute die (or Armor/Damage die) rolls its maximum face, reroll that die and add the new result.
+
+* **Comparison Rolls:** On any check that resolves as a comparison vs. a target (such as skill, attack, or defense rolls vs. Difficulty/Target), this explosion can chain indefinitely — if the reroll is also the max face, roll again, keep adding.
+* **Single Die Rolls:** On rolls that yield a single value (such as Damage and Armor rolls), the die follows the **Single Die Rule (single-explode capped)** — it rerolls once on max face and adds, but that reroll cannot itself explode.
 
 ### Difficulty Ladder
 
@@ -325,6 +334,27 @@ All Attributes are equally important. Mgt💪 is not inherently better than Mnd�
 
 * All abilities and items show their governing Atr: **Might💪, Motion🏃, Mind👁️, Magic✨, or Moxie🫀** that they provide a buff to or use as an ability roll.
 
+# 🔮 Focus Die
+
+Focus is a core PC resource represented by a single die on the same d4→d6→d8→d10→d12 step ladder as attributes.
+
+* **The Spend:** Once per roll, after seeing the result, a player may roll their current Focus Die and add it to the total.
+* On a **comparison roll** (skill, attack, defense check vs Difficulty/Target) — the Focus Die explodes freely/indefinitely on max face.
+* On a **single die roll** (Damage/Armor) — the Focus Die follows the **Single Die Rule** (exploding once, capped).
+* **The Step-Down:** After spending, the Focus Die steps down one size (d12 → d10 → d8 → d6 → d4 → Exhausted).
+* **The Flood (Refill):** When a Flood event triggers, the Focus Die steps up one size (up to its purchased maximum).
+* **Flood Triggers (+1 step up):**
+
+* Start of combat.
+* End of combat.
+* Taking a short rest opportunity between combats.
+* Spending a full round doing nothing but "Flooding" (forgoing all actions).
+
+* **Full Rest:** A full night's sleep resets the Focus Die to its purchased maximum.
+* **Focus vs. Luck:** Players can use Luck or Focus, but never both on the same roll.
+* **Luck:** Redo the whole roll (pure variance mitigation).
+* **Focus:** Add to the roll already made (deliberate agency/boost).
+
 # 🧾 Character Creation
 
 **Concept First: Any idea works — punk knight, techno-bard, gargoyle hero, soda rogue, etc.**
@@ -347,7 +377,11 @@ All Attributes are equally important. Mgt💪 is not inherently better than Mnd�
 
 **✅ Starting Atr**
 
-* Assign d4, d4, d6, d8, d8 across Might💪, Motion🏃, Mind👁️, Magic✨, and Moxie🫀.
+* Assign 1x d4, 2x d6, 2x d8 across Might💪, Motion🏃, Mind👁️, Magic✨, and Moxie🫀.
+
+**🔮 Starting Focus Die**
+
+* Character starts with a **Focus Die** sized at **d4** (purchasable upgrades gated by level, see Advancement).
 
 **❤️ Starting Vit**
 
@@ -417,52 +451,61 @@ All Attributes are equally important. Mgt💪 is not inherently better than Mnd�
 
 ## ⭐ Step 1 — Level⭐ and AP🧩
 
-At the end of each large encounter at GM’s discretion, every player receives 1 Level⭐ and 1 Advancement Point (AP🧩). Thus, a character’s Level⭐ ALWAYS matches the total AP🧩 that character has ever received.
+At the end of each large encounter at GM’s discretion, every player receives 1 Level⭐ and 2 Advancement Points (AP🧩). Thus, a character's Level matches their milestone progress, and they receive 2 AP🧩 per level to spend on horizontal options or vertical step-ups.
 
-## 🎲 Step 2 — Vit❤️ Roll And Atr🧩 Die
+## 🎲 Step 2 — Vit❤️ Roll
 
-All of step 2 below is AP🧩 free and costs no AP🧩.
+All of Step 2 below is AP🧩 free and costs no AP🧩.
 
-| ⭐Level | ❤️Vit Max Roll | ✅Atr Die |
-| --- | --- | --- |
-| 1-3 | 10+1d(Moxie🫀)+(AP🧩*2) | d4, d4, d4, d6, d8 |
-| 4-8 | 10+2d(Moxie🫀)+(AP🧩*2) | d4, d4, d6, d6, d8 |
-| 9-15 | 10+3d(Moxie🫀)+(AP🧩*2) | d4, d6, d6, d6, d8 |
-| 16-24 | 10+4d(Moxie🫀)+(AP🧩*2) | d4, d6, d6, d8, d8 |
-| 25-35 | 10+5d(Moxie🫀)+(AP🧩*2) | d4, d6, d6, d8, d8 |
-| 36-48 | 10+6d(Moxie🫀)+(AP🧩*2) | d4, d6, d6, d8, d10 |
-| 49-63 | 10+7d(Moxie🫀)+(AP🧩*2) | d4, d6, d8, d8, d10 |
-| 64-80 | 10+8d(Moxie🫀)+(AP🧩*2) | d6, d6, d8, d8, d10 |
-| 81-99 | 10+9d(Moxie🫀)+(AP🧩*2) | d6, d6, d8, d10, d10 |
-| 100-120 | 10+10d(Moxie🫀)+(AP🧩*2) | d6, d8, d8, d10, d10 |
-| 121-143 | 10+11d(Moxie🫀)+(AP🧩*2) | d6, d8, d8, d10, d12 |
-| 144-168 | 10+12d(Moxie🫀)+(AP🧩*2) | d6, d8, d10, d10, d12 |
-| 169-195 | 10+13d(Moxie🫀)+(AP🧩*2) | d8, d8, d10, d10, d12 |
-| 196-224 | 10+14d(Moxie🫀)+(AP🧩*2) | d8, d8, d10, d12, d12 |
-| 225+ | 10+15d(Moxie🫀)+(AP🧩*2) | d8, d10, d10, d12, d12 |
+### Vit❤️ Max Roll
 
-### Vit❤️Max Roll
-
-On each Level⭐, roll for new maximum Vit❤️
-
-* This is like “Lucking🍀” Max Vit❤️ (roll a new number and keep the better of the old Vit❤️ or the new Vit❤️)
-* If your Moxie🫀 has increased you use the new Moxie🫀 number in the “Vit❤️Max Roll” formula.
-
-### ✅Atr Die
-
-On the indicated Levels⭐ your Atr✅ die will change as per the “✅Atr Die” column above. You can assign these new numbers in any order to your attributes✅. All character sheet stats and abilities will immediately use these new attributes✅, so make all changes needed (e.g., Weapons⚔️ Atk/Dmg, Armor🧥 Def, Next Vit❤️ Max Roll, all skills🎓, powers⚡, and magic items✨ that reference Attributes✅.)
+On each Level⭐, roll for new maximum Vit❤️: * **Vit❤️ Max Roll Formula:** * Levels 1–3: 10 + 1d(Moxie🫀) + (Level × 2) * Levels 4–8: 10 + 2d(Moxie🫀) + (Level × 2) * Levels 9–15: 10 + 3d(Moxie🫀) + (Level × 2) * Levels 16–24: 10 + 4d(Moxie🫀) + (Level × 2) * Levels 25–35: 10 + 5d(Moxie🫀) + (Level × 2) * Levels 36–48: 10 + 6d(Moxie🫀) + (Level × 2) * Levels 49–63: 10 + 7d(Moxie🫀) + (Level × 2) * Levels 64–80: 10 + 8d(Moxie🫀) + (Level × 2) * Levels 81–99: 10 + 9d(Moxie🫀) + (Level × 2) * Levels 100+: 10 + 10d(Moxie🫀) + (Level × 2) * This is like “Lucking🍀” Max Vit❤️ (roll a new number and keep the better of the old Vit❤️ or the new Vit❤️). If your Moxie🫀 has increased, you use the new Moxie🫀 number in the formula.
 
 ## 💲 Step 3 — Spend AP🧩
 
-Choose one of the 1 AP🧩 options from the table below, or save the AP🧩 for the single 2 AP🧩 option.
+Spend your accumulated AP🧩 on horizontal upgrades, vertical Attribute step-ups, or Focus Die upgrades (subject to level gates).
+
+### Horizontal Upgrades
 
 | Category | AP🧩 Options |
 | --- | --- |
-| Powers⚡ | * Gain 1 new Power⚡ (any listed or GM-approved custom) * Randomly roll one Power⚡ on a GM-approved table. Get the Power⚡ at +1 to all typical rolls. If roll an existing Power⚡ then it gets the +1 (if not already so), otherwise, your AP🧩 is returned and you must spend it in another way. * Upgrade an existing Power⚡ (stronger effect, extra use, or twist) |
-| Skills🎓 | * Gain skill🎓 in any new SINGLE weapon, armor🧥 or skill🎓 * For 2 AP🧩 learn a new Skill Set🎓 (e.g., Dungeoneering, sailing) which includes all skills🎓 within that skill set🎓. |
-| Gear🧰 & Magic Items✨ | • Gain or upgrade a Weapon, Armor🧥, or Item (as if found) • Acquire a Minor🍺 Magic Item (as if found) • Upgrade a Magic Item Power⚡ (e.g., 1-Enc → 2-Enc) |
-| Vit❤️ | * Gain +2 Vit❤️ per 1 AP🧩 |
-| Atr✅ | * Reshuffle (e.g., swap some/all of your Atr✅ dice |
+| Powers⚡ | * Gain 1 new Power⚡ (any listed or GM-approved custom) — 1 APRandomly roll one Power⚡. If existing, it gets +1 to typical rolls; otherwise, AP is returned and you spend it elsewhere — 1 AP Upgrade an existing Power⚡ (stronger effect, extra use, or twist) — 1 AP |
+| Skills🎓 | * Gain skill🎓 in any new SINGLE weapon, armor🧥 or skill🎓 — 1 AP* Learn a new Skill Set🎓 (e.g., Thievery) — 2 AP |
+| Gear🧰 & Magic Items✨ | • Gain or upgrade a Weapon, Armor🧥, or Item — 1 AP• Acquire a Minor🍺 Magic Item — 1 AP• Upgrade a Magic Item Power⚡ (e.g., 1-Enc → 2-Enc) — 1 AP |
+| Vit❤️ | * Gain +2 Vit❤️ — 1 AP |
+| Atr✅ | * Reshuffle (swap some/all of your Atr✅ dice) — 1 AP |
+
+### Vertical Attribute Die Step-Ups
+
+Attribute upgrades are purchased with AP🧩 and are tier-gated by your level. The maximum array of attribute dice you can have is limited by your tier:
+
+| Tier / Level Milestone | Attribute Die Array Max Available |
+| --- | --- |
+| Level 1 (Starting) | 1x d4, 2x d6, 2x d8 |
+| Level 25 | 2x d6, 3d8 |
+| Level 50 | 2x d6, 1xd8, 2x d10 |
+| Level 75 | 2x d6, 1x d8, 1x d10, 1x d12 |
+| Level 100 (Max Cap) | 1x d6, 1x d8, 1x d10, 2x d12 |
+
+| Step (per die) | AP Cost (per die) |
+| --- | --- |
+| d4 → d6 | 2 AP |
+| d6 → d8 | 4 AP |
+| d8 → d10 | 6 AP |
+| d10 → d12 | 8 AP |
+
+*Note: At Level 100 Max Cap, a legendary character has at most two d12 attributes, ensuring build differentiation.*
+
+### Vertical Focus Die Upgrade
+
+You can purchase upgrades to your maximum Focus Die ceiling using AP🧩, subject to level gates:
+
+| Focus Max | Level Gate | AP Cost |
+| --- | --- | --- |
+| d4 → d6 | 1+ | 2 AP |
+| d6 → d8 | 15+ | 4 AP |
+| d8 → d10 | 35+ | 6 AP |
+| d10 → d12 | 60+ | 8 AP |
 
 All choices require GM approval. The GM may veto or suggest alternatives if a choice does not fit the campaign.
 
@@ -536,7 +579,7 @@ When one PC helps another, the **narrative of how** is key. The GM may:
 * If a weapon that has two Types (Me/Hu for Melee and Hurled), the weapon need only be learned once, but each type (Melee and Hurled) are separately recorded (use two lines on the character sheet’s weapon’s table.
 * All weapon Dmg💥, except multi-attacks, may be uplifted. This applies ONLY to Dmg💥, not Block🧱.
 * Uplifting raises a weapon’s Dmg💥 die up to the wielder’s relevant Atr✅.
-* **Example:** A dagger (d4) wielded by a character with Might💪 d8 deals Dmg💥 at d8 instead of d4.
+* **Example:** A dagger (d4) wielded by a character with Might💪 d8 deals Dmg💥 at d8 instead of d4. The resulting Damage die follows the **Single Die Rule (single-explode capped)** .
 * Multi-attack Dmg💥 dice are never uplifted.
 
 ## Multi-Attack
@@ -544,7 +587,7 @@ When one PC helps another, the **narrative of how** is key. The GM may:
 * Multi-attack is always an option if requirements are met. Some Powers⚡ may add further options.
 * You may multi-attack if the sum of all weapon Dmg💥 dice is ≤ your Atr✅ die.
 * **Example:** With a dagger (d4), a character with Might💪 d8 may make two attacks (1d4 and 1d4 Dmg💥). With Might💪 d12, they may make three attacks (three 1d4 Dmg💥 rolls).
-* Each multi-attack is a separate Atk⚔️ and Dmg💥 roll. Attacks may target a single foe multiple times or be split among adjacent targets.
+* Each multi-attack is a separate Atk⚔️ and Dmg💥 roll. Attacks may target a single foe multiple times or be split among adjacent targets. Apply the **Single Die Rule (single-explode capped)** to all damage dice results.
 
 **Multi-attack can be done with:**
 
@@ -632,11 +675,9 @@ Natural weapons🥊 (Brawl and Throw Object) cannot Block🧱 and have no coin c
 
 1. Choose Target & Atk⚔️ — Action is (A).
 1. Roll to Hit: if Skilled, roll 2H20 + Atr✅ Die + Bonus vs Monster Def (5–20). If Unskilled, roll 1d20.
-
-* Atr✅ Die = the weapon’s governing Atr✅ (Might💪 for melee, Motion🏃 for hurled, Mind👁️ for shot, Magic✨ for spell attacks).
-* Tremendous🌟 (20 on d20). Critical💀 (1 on d20).
-
-1. On Success → Roll Dmg💥: 1 die (d4–d12) plus any bonus.
+1. Atr✅ Die = the weapon’s governing Atr✅ (Might💪 for melee, Motion🏃 for hurled, Mind👁️ for shot, Magic✨ for spell attacks). Since this is a **comparison roll** , the Attribute die **explodes indefinitely** on max face.
+1. Tremendous🌟 (20 on d20). Critical💀 (1 on d20).
+1. On Success → Roll Dmg💥: 1 die (d4–d12) plus any bonus. This follows the **Single Die Rule (single-explode capped)** .
 1. Monster Armor🧥: Subtract monster Armor🧥 (0 to 3, rare 4).
 1. Apply Wnd🩸: Add the wounding damage to any existing and record it next to the monster. Once ≥ the monster’s Vit❤️, the monster dies.
 
@@ -654,22 +695,18 @@ Natural weapons🥊 (Brawl and Throw Object) cannot Block🧱 and have no coin c
 
 1. Monster Declares Atk⚔️.
 1. Player Defense Roll: 2H20 + Atr✅ Die + Bonus using:
-
-* Might💪 (Block🧱): if armed with equal/larger Max Block🧱 weapon⚔️ or shield🧱.
-* Motion🏃 (Dodge): nearly always valid.
-* Magic✨ (Resist): for undodgeable arcane/mystical effects (fire, acid, explosion, magical effects).
-* Moxie🫀 (Resist): for bodily/stamina effects (poison, exhaustion, vitality, physical endurance).
-
+1. Might💪 (Block🧱): if armed with equal/larger Max Block🧱 weapon⚔️ or shield🧱.
+1. Motion🏃 (Dodge): nearly always valid.
+1. Magic✨ (Resist): for undodgeable arcane/mystical effects (fire, acid, explosion, magical effects).
+1. Moxie🫀 (Resist): for bodily/stamina effects (poison, exhaustion, vitality, physical endurance).
+1. *Note: Since this is a comparison roll, the Attribute die explodes indefinitely on max face.*
 1. Beat Monster Atk⚔️ (10–24) → Avoid Dmg💥.
-1. If Defense Fails → Player Armor AR🧥: Roll armor die (d4–d12) and subtract result from Monster Dmg💥. The remainder = Wnd🩸.
-
-* Note the Block🧱die is never rolled in lieu of armor as the Block defense MISSED. Thus the blow has hit the character’s AR🧥.
-* Monsters also list a Fatigue Wnds🩸. If your AR🧥 results in less Wnds🩸 than the Fatigue Wnds🩸, the character suffers the indicated Fatigue Wnds🩸instead. Fatigue Wnds🩸do NOT trigger Afflictions if the AR🧥roll would have stopped ALL of the Dmg💥.
-
+1. If Defense Fails → Player Armor AR🧥: Roll armor die (d4–d12) and subtract result from Monster Dmg💥. The remainder = Wnd🩸. This armor die roll follows the **Single Die Rule (single-explode capped)** .
+1. Note the Block🧱die is never rolled in lieu of armor as the Block defense MISSED. Thus the blow has hit the character’s AR🧥.
+1. Monsters also list a Fatigue Wnds🩸. If your AR🧥 results in less Wnds🩸 than the Fatigue Wnds🩸, the character suffers the indicated Fatigue Wnds🩸instead. Fatigue Wnds🩸do NOT trigger Afflictions if the AR🧥roll would have stopped ALL of the Dmg💥.
 1. Apply Wnd🩸: Add to your total Wnd🩸.
-
-* If Wnd🩸 ≥ Vit❤️ → you are unconscious.
-* If Wnd🩸 > Vit❤️ → you must also make a Death Check each rnd.
+1. If Wnd🩸 ≥ Vit❤️ → you are unconscious.
+1. If Wnd🩸 > Vit❤️ → you must also make a Death Check each rnd.
 
 **Death Checks**
 
@@ -727,10 +764,8 @@ This classification defines #-Enc ability use.
 
 1. Determine Nish🚩 order.
 1. **Turns** – Each PC/Monster takes a turn on their Nish🚩.
-
-* A turn = AMP or 1 Atk⚔️ (A) + 1 Move (M) + 1 Partial (P).
-* No split movement (cannot Move → Atk⚔️ → Move, but can Move → P → Move).
-
+1. A turn = AMP or 1 Atk⚔️ (A) + 1 Move (M) + 1 Partial (P).
+1. No split movement (cannot Move → Atk⚔️ → Move, but can Move → P → Move).
 1. **On Nish🚩 of afflicted** – New Resistance/Save checks vs hazards (Stunned, Weakened, Immobilized, Poisoned, etc.).
 
 ## 💤 Roleplaying Encounter – Rest & Recovery
@@ -764,9 +799,9 @@ How often an ability (Power⚡ or Magic Item✨) can be used:
 
 **Limits:**
 
-* #-Day abilities → max of 3 and max 1 use per Enc. (e.g., 2-Day cannot be used twice in the same Enc unless GM approves).
-* #-Day and #-Enc → max of 3. Beyond this: 3-Day → 1-Enc; 3-Enc → 1-Rnd. (Be careful—can break game balance).
-* #-Rnd → max of 1.
+* -Day abilities → max of 3 and max 1 use per Enc. (e.g., 2-Day cannot be used twice in the same Enc unless GM approves).
+* -Day and #-Enc → max of 3. Beyond this: 3-Day → 1-Enc; 3-Enc → 1-Rnd. (Be careful—can break game balance).
+* -Rnd → max of 1.
 
 ## 🔷 Actions
 
@@ -867,6 +902,7 @@ Note: Hazards / Afflictions - terms are synonymous.
 * Cannot reroll partial dice (must reroll **all** involved dice).
 * Cannot reroll if a Crititcal💀 occurs.
 * Cannot use more than once on a particular roll (no “second Luck🍀”).
+* **Luck vs Focus:** Luck = redo the whole roll (pure variance mitigation); Focus = add to the roll already made (deliberate agency/boost). A player can use Focus or Luck on a single roll, but never both. They cannot be combined to "fish" for unbeatable outcomes.
 
 **Starting Luck🍀:** 3 chits.
 
