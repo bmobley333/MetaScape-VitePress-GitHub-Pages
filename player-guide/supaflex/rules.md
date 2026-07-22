@@ -482,7 +482,7 @@ On a comparison roll (skill, attack, defense check vs Difficulty/Target) — th
 
 On a single die roll (Damage/Armor) — the Focus Die follows the Single Die Rule (exploding once, capped).
 
-The Step-Down: After spending, the Focus Die steps down one size (d12 → d10 → d8 → d6 → d4 → Exhausted).
+The Step-Down & Preservation Rule: When a player spends their Focus Die, if the first roll of the Focus Die is 1 or Max (e.g., rolling a 1 or 6 on a d6), the Focus Die remains unchanged at its current size. Otherwise (rolling any number between 2 and Max-1), the Focus Die steps down one size on the ladder (d12 → d10 → d8 → d6 → d4 → Exhausted).
 
 The Flood (Refill): When a Flood event triggers, the Focus Die steps up one size (up to its purchased maximum).
 

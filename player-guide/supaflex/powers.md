@@ -599,6 +599,22 @@ Select one of the many sub-sets of powers such as Class👤, Race🧬, Combat St
 
 | Category | Usage | Action | Name | Effect |
 | --- | --- | --- | --- | --- |
+| 1-Enc | Gain Advantage on 1 Dodge🏃 roll this rnd. | Psionic Sentinel - Uncanny Dodge (Mental Reflex)⚡ (1-Enc, P) ➡ Gain Advantage on 1 Dodge🏃 roll this rnd. | **Charlie (Steilgar)** | 2026-07-18T15:14:47.023782+00:00 |
+| 1-Enc | Fly MR👣; Hover in place | Fairy (Sunblessed Fey) - Winged Flight⚡ (1-Enc, M) ➡ Fly MR👣; Hover in place | **Fairy** | 2026-07-18T15:14:47.023782+00:00 |
+| 1-Enc | Spot danger👁️; Nish🚩+2 on next roll | Punk Fighter - Street Instincts⚡ (1-Enc, F) ➡ Spot danger👁️; Nish🚩+2 on next roll | **Fighter – Punk Archetype** | 2026-07-19T02:53:49.930038+00:00 |
+| 1-Enc | Allies in earshot gain Nish🚩+1 this rnd | Phantom Tainville - Whispered Signal⚡ (1-Enc, F) ➡ Allies in earshot gain Nish🚩+1 this rnd | **Human Thief Assassin** | 2026-07-18T15:14:47.023782+00:00 |
+| 1-Enc | Mind👁️ checks to detect scams, danger, or cheats at Advantage | : Magnetic Wizard - Streetwise Eye⚡ (1-Enc, F) ➡ Mind👁️ checks to detect scams, danger, or cheats at Advantage | **Jesse** | 2026-07-18T15:14:47.023782+00:00 |
+| 1-Enc | Mind👁️ or target is Charmed 1 rnd (does suggestive bidding if not extreme) | Nymph (Thryndralis Trickster) - Veil of Beauty⚡ (1-Enc, A) ➡ Mind👁️ or target is Charmed 1 rnd (does suggestive bidding if not extreme) | **Nymph** | 2026-07-18T15:14:47.023782+00:00 |
+| 1-Enc | When reduced to ngative Vit❤️; Heal 1 Vit❤️ | Nymph Form - Self-Healing Essence⚡ (1-Enc, F) ➡ When reduced to ngative Vit❤️; Heal 1 Vit❤️ | **Trickster** | 2026-07-19T02:53:32.172702+00:00 |
+| 1-⚡ | Each different Weapon has Advantage with next Attack, lasts for encounter | Bloodmarked Human (Cursed Spartan) - Legion’s Might⚡ (1-⚡, F) ➡ Each different Weapon has Advantage with next Attack, lasts for encounter | **Bloodmarked Human** | 2026-07-19T02:53:26.371223+00:00 |
+| 1-⚡ | Can wield massive objects as improvised weapons (Dmg💥+2) for encounter | Giant Form - Titan’s Grip⚡ (1-⚡, P) ➡ Can wield massive objects as improvised weapons (Dmg💥+2) for encounter | **Brute Force** | 2026-07-19T02:53:35.116869+00:00 |
+| 1-⚡ | Predict weather for 1 day; no roll | Weird Powers - Weather Sense⚡ (1-⚡, A) ➡ Predict weather for 1 day; no roll | **DB** | 2026-07-18T15:14:47.023782+00:00 |
+| 1-⚡ | Allies in 2sq Resist✨+1 for Encounter | Dwarf (Blackaxe Clan) - Loyal Heart⚡ (1-⚡, F) ➡ Allies in 2sq Resist✨+1 for Encounter | **Dwarf** | 2026-07-19T02:53:24.968692+00:00 |
+| 1-⚡ | Call on clan spirits; allies in 2sq Nish🚩+1 for Encounter | Shield Warrior - Ancestral Guard⚡ (1-⚡, F) ➡ Call on clan spirits; allies in 2sq Nish🚩+1 for Encounter | **Gutrek** | 2026-07-19T02:53:37.948311+00:00 |
+| 1-⚡ | After you succeed a Resist✨ vs a mental effect; Make Mind👁️ to Weaken the Attacker for 1 rnd. | Human (Aethelgard Bloodline) - Veiled Mind⚡ (1-⚡, F) ➡ After you succeed a Resist✨ vs a mental effect; Make Mind👁️ to Weaken the Attacker for 1 rnd. | **Human** | 2026-07-18T15:14:47.023782+00:00 |
+| 1-⚡ | Detect illusions & glamours with Advantage for encounter | Pixie Form - Unseen Observer⚡ (1-⚡, F) ➡ Detect illusions & glamours with Advantage for encounter | **Illusions & Shadows** | 2026-07-19T02:53:33.70288+00:00 |
+| 1-⚡ | Once/day, Revive ally at ≤0 Vit❤️ to 1 Vit❤️ | Sun-Devoted Healer-Protector - Solara’s Vow⚡ (1-⚡, F) ➡ Once/day, Revive ally at ≤0 Vit❤️ to 1 Vit❤️ | **Phill (Solen)** | 2026-07-19T02:53:55.779525+00:00 |
+| 2-Enc | Teleport between visible shadows | Shadowfist Healer-Monk - Umbral Form⚡ (2-Enc, M) ➡ Teleport between visible shadows | **Trevor** | 2026-07-18T15:14:47.023782+00:00 |
 | Dual Wield Power | 2-Enc | F | **Ambidexterity** | Sheath or draw 1 weapon; no P cost |
 | Dual Wield Power | 1-Enc | P | **Cross Guard Riposte** | On successful Block🛡️; immediately make off-hand Opportunity Atk |
 | Dual Wield Power | 1-Enc | A | **Cross Slash** | Strike with both weapons in a single sweeping motion; 1 Atk but roll Dmg💥 for both weapons and keep best |
@@ -647,6 +663,7 @@ Select one of the many sub-sets of powers such as Class👤, Race🧬, Combat St
 | Single Weapon Powers | 1-Enc | P | **Weapon Control** | On successful Atk; Motion🏃 disarms target |
 | Single Weapon Powers | 2-Enc | P | **Weapon Mastery** | If you attacked last rnd with same weapon; Atk+2 and Dmg💥+2 this rnd |
 | TableName | Usage | Action | **Name** | Effect |
+| Usage | Effect | TableName - Name⚡ (Usage, Action) ➡ Effect | **Source** | 2026-07-18T15:14:47.023782+00:00 |
 | Weapon & Shield Powers | 1-⚡ | F | **Boomerang Block🛡️** | Hurl shield to intercept Atk vs ally; roll Def normally, success = total Block🛡️ (no Dmg💥) |
 | Weapon & Shield Powers | 2-Enc | P | **Brace** | Platn shield; AR🧥+1 for 1 rnd |
 | Weapon & Shield Powers | 2-Enc | F | **Counter Guard** | If foe misses you; Atk+2 vs that target on your next Atk |

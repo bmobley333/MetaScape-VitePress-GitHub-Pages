@@ -661,6 +661,18 @@
       "table_name": "Bloodmarked Human (Cursed Spartan)"
     },
     {
+      "id": 328,
+      "name": "Bloodmarked Human",
+      "usage": "Each different Weapon has Advantage with next Attack, lasts for encounter",
+      "action": "Bloodmarked Human (Cursed Spartan) - Legion’s Might⚡ (1-⚡, F) ➡ Each different Weapon has Advantage with next Attack, lasts for encounter",
+      "effect": "2026-07-19T02:53:26.371223+00:00",
+      "source": "F",
+      "created_at": "2026-07-22T18:25:18.334149+00:00",
+      "dropdown": "1-⚡ - Bloodmarked Human⚡ (Each different Weapon has Advantage with next Attack, lasts for encounter, Bloodmarked Human (Cursed Spartan) - Legion’s Might⚡ (1-⚡, F) ➡ Each different Weapon has Advantage with next Attack, lasts for encounter) ➡ 2026-07-19T02:53:26.371223+00:00",
+      "sub": "Bloodmarked Human (Cursed Spartan)",
+      "table_name": "1-⚡"
+    },
+    {
       "id": 253,
       "name": "Bond of the Glade",
       "usage": "1-Enc",
@@ -757,6 +769,18 @@
       "table_name": "Punk Fighter"
     },
     {
+      "id": 348,
+      "name": "Brute Force",
+      "usage": "Can wield massive objects as improvised weapons (Dmg💥+2) for encounter",
+      "action": "Giant Form - Titan’s Grip⚡ (1-⚡, P) ➡ Can wield massive objects as improvised weapons (Dmg💥+2) for encounter",
+      "effect": "2026-07-19T02:53:35.116869+00:00",
+      "source": "P",
+      "created_at": "2026-07-22T18:25:23.050114+00:00",
+      "dropdown": "1-⚡ - Brute Force⚡ (Can wield massive objects as improvised weapons (Dmg💥+2) for encounter, Giant Form - Titan’s Grip⚡ (1-⚡, P) ➡ Can wield massive objects as improvised weapons (Dmg💥+2) for encounter) ➡ 2026-07-19T02:53:35.116869+00:00",
+      "sub": "Giant Form",
+      "table_name": "1-⚡"
+    },
+    {
       "id": 875,
       "name": "Burdened March",
       "usage": "1-Enc",
@@ -815,6 +839,18 @@
       "dropdown": "Elemental Mage Powers - Chaos Surge⚡ (1-⚡, A) ➡ Random elemental effect (as per GM🔎); usually Magic✨ Atk",
       "sub": "Class",
       "table_name": "Elemental Mage Powers"
+    },
+    {
+      "id": 256,
+      "name": "Charlie (Steilgar)",
+      "usage": "Gain Advantage on 1 Dodge🏃 roll this rnd.",
+      "action": "Psionic Sentinel - Uncanny Dodge (Mental Reflex)⚡ (1-Enc, P) ➡ Gain Advantage on 1 Dodge🏃 roll this rnd.",
+      "effect": "2026-07-18T15:14:47.023782+00:00",
+      "source": "P",
+      "created_at": "2026-07-22T18:24:50.434838+00:00",
+      "dropdown": "1-Enc - Charlie (Steilgar)⚡ (Gain Advantage on 1 Dodge🏃 roll this rnd., Psionic Sentinel - Uncanny Dodge (Mental Reflex)⚡ (1-Enc, P) ➡ Gain Advantage on 1 Dodge🏃 roll this rnd.) ➡ 2026-07-18T15:14:47.023782+00:00",
+      "sub": "Psionic Sentinel",
+      "table_name": "1-Enc"
     },
     {
       "id": 920,
@@ -1225,6 +1261,18 @@
       "table_name": "Sun-Devoted Healer-Protector"
     },
     {
+      "id": 212,
+      "name": "DB",
+      "usage": "Predict weather for 1 day; no roll",
+      "action": "Weird Powers - Weather Sense⚡ (1-⚡, A) ➡ Predict weather for 1 day; no roll",
+      "effect": "2026-07-18T15:14:47.023782+00:00",
+      "source": "A",
+      "created_at": "2026-07-22T18:24:40.924835+00:00",
+      "dropdown": "1-⚡ - DB⚡ (Predict weather for 1 day; no roll, Weird Powers - Weather Sense⚡ (1-⚡, A) ➡ Predict weather for 1 day; no roll) ➡ 2026-07-18T15:14:47.023782+00:00",
+      "sub": "Weird Powers",
+      "table_name": "1-⚡"
+    },
+    {
       "id": 297,
       "name": "Deadeye Shot",
       "usage": "3-Enc",
@@ -1489,6 +1537,18 @@
       "table_name": "Umbral Kin Half-Orc Powers"
     },
     {
+      "id": 325,
+      "name": "Dwarf",
+      "usage": "Allies in 2sq Resist✨+1 for Encounter",
+      "action": "Dwarf (Blackaxe Clan) - Loyal Heart⚡ (1-⚡, F) ➡ Allies in 2sq Resist✨+1 for Encounter",
+      "effect": "2026-07-19T02:53:24.968692+00:00",
+      "source": "F",
+      "created_at": "2026-07-22T18:25:16.864053+00:00",
+      "dropdown": "1-⚡ - Dwarf⚡ (Allies in 2sq Resist✨+1 for Encounter, Dwarf (Blackaxe Clan) - Loyal Heart⚡ (1-⚡, F) ➡ Allies in 2sq Resist✨+1 for Encounter) ➡ 2026-07-19T02:53:24.968692+00:00",
+      "sub": "Dwarf (Blackaxe Clan)",
+      "table_name": "1-⚡"
+    },
+    {
       "id": 384,
       "name": "Earthquake Stomp",
       "usage": "1-Enc",
@@ -1657,6 +1717,18 @@
       "table_name": "Pixie Form"
     },
     {
+      "id": 255,
+      "name": "Fairy",
+      "usage": "Fly MR👣; Hover in place",
+      "action": "Fairy (Sunblessed Fey) - Winged Flight⚡ (1-Enc, M) ➡ Fly MR👣; Hover in place",
+      "effect": "2026-07-18T15:14:47.023782+00:00",
+      "source": "M",
+      "created_at": "2026-07-22T18:24:48.317529+00:00",
+      "dropdown": "1-Enc - Fairy⚡ (Fly MR👣; Hover in place, Fairy (Sunblessed Fey) - Winged Flight⚡ (1-Enc, M) ➡ Fly MR👣; Hover in place) ➡ 2026-07-18T15:14:47.023782+00:00",
+      "sub": "Fairy (Sunblessed Fey)",
+      "table_name": "1-Enc"
+    },
+    {
       "id": 231,
       "name": "Feather Step",
       "usage": "1-Enc",
@@ -1763,6 +1835,18 @@
       "dropdown": "Nymph (Thryndralis Trickster) - Feytongue⚡ (1-⚡, F) ➡ Mind👁️ speak any language for encounter",
       "sub": "Race",
       "table_name": "Nymph (Thryndralis Trickster)"
+    },
+    {
+      "id": 373,
+      "name": "Fighter – Punk Archetype",
+      "usage": "Spot danger👁️; Nish🚩+2 on next roll",
+      "action": "Punk Fighter - Street Instincts⚡ (1-Enc, F) ➡ Spot danger👁️; Nish🚩+2 on next roll",
+      "effect": "2026-07-19T02:53:49.930038+00:00",
+      "source": "F",
+      "created_at": "2026-07-22T18:25:28.014629+00:00",
+      "dropdown": "1-Enc - Fighter – Punk Archetype⚡ (Spot danger👁️; Nish🚩+2 on next roll, Punk Fighter - Street Instincts⚡ (1-Enc, F) ➡ Spot danger👁️; Nish🚩+2 on next roll) ➡ 2026-07-19T02:53:49.930038+00:00",
+      "sub": "Punk Fighter",
+      "table_name": "1-Enc"
     },
     {
       "id": 133,
@@ -2233,6 +2317,18 @@
       "table_name": "Single Weapon Powers"
     },
     {
+      "id": 361,
+      "name": "Gutrek",
+      "usage": "Call on clan spirits; allies in 2sq Nish🚩+1 for Encounter",
+      "action": "Shield Warrior - Ancestral Guard⚡ (1-⚡, F) ➡ Call on clan spirits; allies in 2sq Nish🚩+1 for Encounter",
+      "effect": "2026-07-19T02:53:37.948311+00:00",
+      "source": "F",
+      "created_at": "2026-07-22T18:25:25.339268+00:00",
+      "dropdown": "1-⚡ - Gutrek⚡ (Call on clan spirits; allies in 2sq Nish🚩+1 for Encounter, Shield Warrior - Ancestral Guard⚡ (1-⚡, F) ➡ Call on clan spirits; allies in 2sq Nish🚩+1 for Encounter) ➡ 2026-07-19T02:53:37.948311+00:00",
+      "sub": "Shield Warrior",
+      "table_name": "1-⚡"
+    },
+    {
       "id": 246,
       "name": "Halfling Courage",
       "usage": "1-Enc",
@@ -2365,6 +2461,18 @@
       "table_name": "Goblin Powers"
     },
     {
+      "id": 282,
+      "name": "Human",
+      "usage": "After you succeed a Resist✨ vs a mental effect; Make Mind👁️ to Weaken the Attacker for 1 rnd.",
+      "action": "Human (Aethelgard Bloodline) - Veiled Mind⚡ (1-⚡, F) ➡ After you succeed a Resist✨ vs a mental effect; Make Mind👁️ to Weaken the Attacker for 1 rnd.",
+      "effect": "2026-07-18T15:14:47.023782+00:00",
+      "source": "F",
+      "created_at": "2026-07-22T18:24:55.945259+00:00",
+      "dropdown": "1-⚡ - Human⚡ (After you succeed a Resist✨ vs a mental effect; Make Mind👁️ to Weaken the Attacker for 1 rnd., Human (Aethelgard Bloodline) - Veiled Mind⚡ (1-⚡, F) ➡ After you succeed a Resist✨ vs a mental effect; Make Mind👁️ to Weaken the Attacker for 1 rnd.) ➡ 2026-07-18T15:14:47.023782+00:00",
+      "sub": "Human (Aethelgard Bloodline)",
+      "table_name": "1-⚡"
+    },
+    {
       "id": 172,
       "name": "Human Grit",
       "usage": "1-Luck",
@@ -2375,6 +2483,18 @@
       "dropdown": "Human (Aethelgard Bloodline) - Human Grit⚡ (1-Luck, F) ➡ Reroll one failed Ability Roll.",
       "sub": "Race",
       "table_name": "Human (Aethelgard Bloodline)"
+    },
+    {
+      "id": 319,
+      "name": "Human Thief Assassin",
+      "usage": "Allies in earshot gain Nish🚩+1 this rnd",
+      "action": "Phantom Tainville - Whispered Signal⚡ (1-Enc, F) ➡ Allies in earshot gain Nish🚩+1 this rnd",
+      "effect": "2026-07-18T15:14:47.023782+00:00",
+      "source": "F",
+      "created_at": "2026-07-22T18:25:07.696896+00:00",
+      "dropdown": "1-Enc - Human Thief Assassin⚡ (Allies in earshot gain Nish🚩+1 this rnd, Phantom Tainville - Whispered Signal⚡ (1-Enc, F) ➡ Allies in earshot gain Nish🚩+1 this rnd) ➡ 2026-07-18T15:14:47.023782+00:00",
+      "sub": "Phantom Tainville",
+      "table_name": "1-Enc"
     },
     {
       "id": 264,
@@ -2435,6 +2555,18 @@
       "dropdown": "Shield Warrior - Ignore the Pain⚡ (1-Enc, P) ➡ Take 1 Dmg💥; negate next d6 Dmg💥 you would take",
       "sub": "Class",
       "table_name": "Shield Warrior"
+    },
+    {
+      "id": 383,
+      "name": "Illusions & Shadows",
+      "usage": "Detect illusions & glamours with Advantage for encounter",
+      "action": "Pixie Form - Unseen Observer⚡ (1-⚡, F) ➡ Detect illusions & glamours with Advantage for encounter",
+      "effect": "2026-07-19T02:53:33.70288+00:00",
+      "source": "F",
+      "created_at": "2026-07-22T18:25:32.319492+00:00",
+      "dropdown": "1-⚡ - Illusions & Shadows⚡ (Detect illusions & glamours with Advantage for encounter, Pixie Form - Unseen Observer⚡ (1-⚡, F) ➡ Detect illusions & glamours with Advantage for encounter) ➡ 2026-07-19T02:53:33.70288+00:00",
+      "sub": "Pixie Form",
+      "table_name": "1-⚡"
     },
     {
       "id": 924,
@@ -2615,6 +2747,18 @@
       "dropdown": "Psionic Sentinel - Iron Will⚡ (1-⚡, F) ➡ Remove 1 condition (Stunned or Weakened).",
       "sub": "Class",
       "table_name": "Psionic Sentinel"
+    },
+    {
+      "id": 289,
+      "name": "Jesse",
+      "usage": "Mind👁️ checks to detect scams, danger, or cheats at Advantage",
+      "action": ": Magnetic Wizard - Streetwise Eye⚡ (1-Enc, F) ➡ Mind👁️ checks to detect scams, danger, or cheats at Advantage",
+      "effect": "2026-07-18T15:14:47.023782+00:00",
+      "source": "F",
+      "created_at": "2026-07-22T18:24:58.710114+00:00",
+      "dropdown": "1-Enc - Jesse⚡ (Mind👁️ checks to detect scams, danger, or cheats at Advantage, : Magnetic Wizard - Streetwise Eye⚡ (1-Enc, F) ➡ Mind👁️ checks to detect scams, danger, or cheats at Advantage) ➡ 2026-07-18T15:14:47.023782+00:00",
+      "sub": ": Magnetic Wizard",
+      "table_name": "1-Enc"
     },
     {
       "id": 940,
@@ -3421,6 +3565,18 @@
       "table_name": "Nelf Powers"
     },
     {
+      "id": 275,
+      "name": "Nymph",
+      "usage": "Mind👁️ or target is Charmed 1 rnd (does suggestive bidding if not extreme)",
+      "action": "Nymph (Thryndralis Trickster) - Veil of Beauty⚡ (1-Enc, A) ➡ Mind👁️ or target is Charmed 1 rnd (does suggestive bidding if not extreme)",
+      "effect": "2026-07-18T15:14:47.023782+00:00",
+      "source": "A",
+      "created_at": "2026-07-22T18:24:54.991727+00:00",
+      "dropdown": "1-Enc - Nymph⚡ (Mind👁️ or target is Charmed 1 rnd (does suggestive bidding if not extreme), Nymph (Thryndralis Trickster) - Veil of Beauty⚡ (1-Enc, A) ➡ Mind👁️ or target is Charmed 1 rnd (does suggestive bidding if not extreme)) ➡ 2026-07-18T15:14:47.023782+00:00",
+      "sub": "Nymph (Thryndralis Trickster)",
+      "table_name": "1-Enc"
+    },
+    {
       "id": 54,
       "name": "Oathbound Fury",
       "usage": "2-Enc",
@@ -3659,6 +3815,18 @@
       "dropdown": "Psionic Sentinel - Phantom Step⚡ (2-Enc, M) ➡ Move MR👣; you do not provoke opportunity Atks this rnd.",
       "sub": "Class",
       "table_name": "Psionic Sentinel"
+    },
+    {
+      "id": 375,
+      "name": "Phill (Solen)",
+      "usage": "Once/day, Revive ally at ≤0 Vit❤️ to 1 Vit❤️",
+      "action": "Sun-Devoted Healer-Protector - Solara’s Vow⚡ (1-⚡, F) ➡ Once/day, Revive ally at ≤0 Vit❤️ to 1 Vit❤️",
+      "effect": "2026-07-19T02:53:55.779525+00:00",
+      "source": "F",
+      "created_at": "2026-07-22T18:25:29.387235+00:00",
+      "dropdown": "1-⚡ - Phill (Solen)⚡ (Once/day, Revive ally at ≤0 Vit❤️ to 1 Vit❤️, Sun-Devoted Healer-Protector - Solara’s Vow⚡ (1-⚡, F) ➡ Once/day, Revive ally at ≤0 Vit❤️ to 1 Vit❤️) ➡ 2026-07-19T02:53:55.779525+00:00",
+      "sub": "Sun-Devoted Healer-Protector",
+      "table_name": "1-⚡"
     },
     {
       "id": 353,
@@ -4897,6 +5065,18 @@
       "table_name": "Pixie Form"
     },
     {
+      "id": 311,
+      "name": "Source",
+      "usage": "Effect",
+      "action": "TableName - Name⚡ (Usage, Action) ➡ Effect",
+      "effect": "2026-07-18T15:14:47.023782+00:00",
+      "source": "Action",
+      "created_at": "2026-07-22T18:25:06.476478+00:00",
+      "dropdown": "Usage - Source⚡ (Effect, TableName - Name⚡ (Usage, Action) ➡ Effect) ➡ 2026-07-18T15:14:47.023782+00:00",
+      "sub": "TableName",
+      "table_name": "Usage"
+    },
+    {
       "id": 60,
       "name": "SpearCircle",
       "usage": "1-Enc",
@@ -5473,6 +5653,18 @@
       "table_name": "Dwarf Powers"
     },
     {
+      "id": 309,
+      "name": "Trevor",
+      "usage": "Teleport between visible shadows",
+      "action": "Shadowfist Healer-Monk - Umbral Form⚡ (2-Enc, M) ➡ Teleport between visible shadows",
+      "effect": "2026-07-18T15:14:47.023782+00:00",
+      "source": "M",
+      "created_at": "2026-07-22T18:25:03.66432+00:00",
+      "dropdown": "2-Enc - Trevor⚡ (Teleport between visible shadows, Shadowfist Healer-Monk - Umbral Form⚡ (2-Enc, M) ➡ Teleport between visible shadows) ➡ 2026-07-18T15:14:47.023782+00:00",
+      "sub": "Shadowfist Healer-Monk",
+      "table_name": "2-Enc"
+    },
+    {
       "id": 270,
       "name": "Tribal Bond",
       "usage": "1-Enc",
@@ -5495,6 +5687,18 @@
       "dropdown": "Pixie Form - Trick of Light⚡ (1-Enc, P) ➡ Disguise as another small creature; Mind👁️vs observers that have a reason to disbelieve",
       "sub": "Class",
       "table_name": "Pixie Form"
+    },
+    {
+      "id": 332,
+      "name": "Trickster",
+      "usage": "When reduced to ngative Vit❤️; Heal 1 Vit❤️",
+      "action": "Nymph Form - Self-Healing Essence⚡ (1-Enc, F) ➡ When reduced to ngative Vit❤️; Heal 1 Vit❤️",
+      "effect": "2026-07-19T02:53:32.172702+00:00",
+      "source": "F",
+      "created_at": "2026-07-22T18:25:19.938313+00:00",
+      "dropdown": "1-Enc - Trickster⚡ (When reduced to ngative Vit❤️; Heal 1 Vit❤️, Nymph Form - Self-Healing Essence⚡ (1-Enc, F) ➡ When reduced to ngative Vit❤️; Heal 1 Vit❤️) ➡ 2026-07-19T02:53:32.172702+00:00",
+      "sub": "Nymph Form",
+      "table_name": "1-Enc"
     },
     {
       "id": 130,
