@@ -34,6 +34,22 @@ const powerCount = computed(() => rawData.value.powers.length)
 const itemCount = computed(() => rawData.value.magic_items.length)
 const skillCount = computed(() => rawData.value.skillsets.length)
 
+// Helper to get Category Name of a power or item
+const getItemCategory = (item) => {
+  return item.table_name || item.sub || 'General'
+}
+
+// Helper to calculate total items in a category within a filtered list
+const getCategoryCount = (list, categoryName) => {
+  return list.filter(item => getItemCategory(item) === categoryName).length
+}
+
+// Helper to check if a new category section starts at index
+const isFirstInCategory = (list, index) => {
+  if (index === 0) return true
+  return getItemCategory(list[index]) !== getItemCategory(list[index - 1])
+}
+
 // Subcategories for Powers
 const powerClasses = computed(() => {
   const set = new Set()
@@ -378,16 +394,15 @@ const selectCategoryTab = (tab) => {
         </div>
 
         <div class="results-count">
-          Showing <strong>{{ filteredPowers.length }}</strong> of {{ powerCount }} powers (Sorted by Category A→Z, Name A→Z)
+          Showing <strong>{{ filteredPowers.length }}</strong> of {{ powerCount }} powers
         </div>
 
-        <!-- DENSE TABLE VIEW -->
+        <!-- DENSE TABLE VIEW (No Lvl Column, with Visual Category Dividers) -->
         <div v-if="viewMode === 'table'" class="table-responsive-wrapper">
           <table class="data-table">
             <thead>
               <tr>
                 <th>Category</th>
-                <th>Lvl</th>
                 <th>Usage</th>
                 <th>Action</th>
                 <th>Name</th>
@@ -395,39 +410,56 @@ const selectCategoryTab = (tab) => {
               </tr>
             </thead>
             <tbody>
-              <tr v-for="(p, i) in filteredPowers" :key="i">
-                <td>
-                  <span class="badge-pill">
-                    {{ p.table_name || p.sub || 'Power' }}
-                  </span>
-                </td>
-                <td class="text-center font-mono">{{ p.level || '1' }}</td>
-                <td class="font-semibold">{{ p.usage }}</td>
-                <td><span class="action-tag">{{ p.action }}</span></td>
-                <td class="font-bold text-primary">{{ p.name }}</td>
-                <td class="effect-text">{{ p.effect }}</td>
-              </tr>
+              <template v-for="(p, i) in filteredPowers" :key="i">
+                <!-- Visual Category Transition Divider Row -->
+                <tr v-if="isFirstInCategory(filteredPowers, i)" class="category-divider-row">
+                  <td colspan="5">
+                    <div class="category-divider-content">
+                      <span class="category-divider-title">📂 {{ getItemCategory(p) }}</span>
+                      <span class="category-divider-badge">{{ getCategoryCount(filteredPowers, getItemCategory(p)) }} Abilities</span>
+                    </div>
+                  </td>
+                </tr>
+                <tr>
+                  <td>
+                    <span class="badge-pill">
+                      {{ getItemCategory(p) }}
+                    </span>
+                  </td>
+                  <td class="font-semibold">{{ p.usage }}</td>
+                  <td><span class="action-tag">{{ p.action }}</span></td>
+                  <td class="font-bold text-primary">{{ p.name }}</td>
+                  <td class="effect-text">{{ p.effect }}</td>
+                </tr>
+              </template>
               <tr v-if="filteredPowers.length === 0">
-                <td colspan="6" class="no-results">No powers match your filter criteria.</td>
+                <td colspan="5" class="no-results">No powers match your filter criteria.</td>
               </tr>
             </tbody>
           </table>
         </div>
 
-        <!-- CARD GRID VIEW -->
+        <!-- CARD GRID VIEW (No Lvl Badge, with Visual Category Banners) -->
         <div v-else class="cards-grid">
-          <div v-for="(p, i) in filteredPowers" :key="i" class="data-card">
-            <div class="card-header-row">
-              <span class="card-badge">{{ p.table_name || p.sub }}</span>
-              <span v-if="p.level" class="card-level">Lvl {{ p.level }}</span>
+          <template v-for="(p, i) in filteredPowers" :key="i">
+            <!-- Visual Category Banner for Card View -->
+            <div v-if="isFirstInCategory(filteredPowers, i)" class="category-grid-header">
+              <span class="category-divider-title">📂 {{ getItemCategory(p) }}</span>
+              <span class="category-divider-badge">{{ getCategoryCount(filteredPowers, getItemCategory(p)) }} Abilities</span>
             </div>
-            <h4 class="card-title">{{ p.name }}</h4>
-            <div class="card-meta-row">
-              <span class="meta-tag usage">{{ p.usage }}</span>
-              <span class="meta-tag action">{{ p.action }}</span>
+
+            <div class="data-card">
+              <div class="card-header-row">
+                <span class="card-badge">{{ getItemCategory(p) }}</span>
+              </div>
+              <h4 class="card-title">{{ p.name }}</h4>
+              <div class="card-meta-row">
+                <span class="meta-tag usage">{{ p.usage }}</span>
+                <span class="meta-tag action">{{ p.action }}</span>
+              </div>
+              <p class="card-effect">{{ p.effect }}</p>
             </div>
-            <p class="card-effect">{{ p.effect }}</p>
-          </div>
+          </template>
           <div v-if="filteredPowers.length === 0" class="no-results-box">
             No powers match your filter criteria.
           </div>
@@ -506,7 +538,7 @@ const selectCategoryTab = (tab) => {
         </div>
 
         <div class="results-count">
-          Showing <strong>{{ filteredMagicItems.length }}</strong> of {{ itemCount }} magic items (Sorted by Category A→Z, Name A→Z)
+          Showing <strong>{{ filteredMagicItems.length }}</strong> of {{ itemCount }} magic items
         </div>
 
         <!-- TABLE VIEW -->
@@ -522,13 +554,24 @@ const selectCategoryTab = (tab) => {
               </tr>
             </thead>
             <tbody>
-              <tr v-for="(item, i) in filteredMagicItems" :key="i">
-                <td><span class="badge-pill item-tier">{{ item.sub }}</span></td>
-                <td class="font-semibold">{{ item.usage }}</td>
-                <td><span class="action-tag">{{ item.action }}</span></td>
-                <td class="font-bold text-primary">{{ item.name }}</td>
-                <td class="effect-text">{{ item.effect }}</td>
-              </tr>
+              <template v-for="(item, i) in filteredMagicItems" :key="i">
+                <!-- Visual Category Transition Divider Row -->
+                <tr v-if="isFirstInCategory(filteredMagicItems, i)" class="category-divider-row">
+                  <td colspan="5">
+                    <div class="category-divider-content">
+                      <span class="category-divider-title">✨ {{ getItemCategory(item) }}</span>
+                      <span class="category-divider-badge">{{ getCategoryCount(filteredMagicItems, getItemCategory(item)) }} Items</span>
+                    </div>
+                  </td>
+                </tr>
+                <tr>
+                  <td><span class="badge-pill item-tier">{{ getItemCategory(item) }}</span></td>
+                  <td class="font-semibold">{{ item.usage }}</td>
+                  <td><span class="action-tag">{{ item.action }}</span></td>
+                  <td class="font-bold text-primary">{{ item.name }}</td>
+                  <td class="effect-text">{{ item.effect }}</td>
+                </tr>
+              </template>
               <tr v-if="filteredMagicItems.length === 0">
                 <td colspan="5" class="no-results">No magic items match your search.</td>
               </tr>
@@ -538,17 +581,25 @@ const selectCategoryTab = (tab) => {
 
         <!-- CARD VIEW -->
         <div v-else class="cards-grid">
-          <div v-for="(item, i) in filteredMagicItems" :key="i" class="data-card item-card-border">
-            <div class="card-header-row">
-              <span class="card-badge item-tier">{{ item.sub }}</span>
+          <template v-for="(item, i) in filteredMagicItems" :key="i">
+            <!-- Visual Category Banner for Card View -->
+            <div v-if="isFirstInCategory(filteredMagicItems, i)" class="category-grid-header">
+              <span class="category-divider-title">✨ {{ getItemCategory(item) }}</span>
+              <span class="category-divider-badge">{{ getCategoryCount(filteredMagicItems, getItemCategory(item)) }} Items</span>
             </div>
-            <h4 class="card-title">{{ item.name }}</h4>
-            <div class="card-meta-row">
-              <span class="meta-tag usage">{{ item.usage }}</span>
-              <span class="meta-tag action">{{ item.action }}</span>
+
+            <div class="data-card item-card-border">
+              <div class="card-header-row">
+                <span class="card-badge item-tier">{{ getItemCategory(item) }}</span>
+              </div>
+              <h4 class="card-title">{{ item.name }}</h4>
+              <div class="card-meta-row">
+                <span class="meta-tag usage">{{ item.usage }}</span>
+                <span class="meta-tag action">{{ item.action }}</span>
+              </div>
+              <p class="card-effect">{{ item.effect }}</p>
             </div>
-            <p class="card-effect">{{ item.effect }}</p>
-          </div>
+          </template>
           <div v-if="filteredMagicItems.length === 0" class="no-results-box">
             No magic items match your search.
           </div>
@@ -875,6 +926,55 @@ const selectCategoryTab = (tab) => {
   font-size: 0.85rem;
   color: var(--vp-c-text-2);
   margin-bottom: 0.75rem;
+}
+
+/* CATEGORY DIVIDER STYLES */
+.category-divider-row td {
+  padding: 0 !important;
+  background: transparent !important;
+  border-bottom: none !important;
+}
+
+.category-divider-content {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  background: linear-gradient(90deg, rgba(16, 185, 129, 0.18) 0%, rgba(6, 182, 212, 0.08) 100%);
+  border-left: 4px solid #10b981;
+  padding: 10px 16px;
+  margin-top: 1.25rem;
+  margin-bottom: 0.25rem;
+  border-radius: 0 8px 8px 0;
+}
+
+.category-divider-title {
+  font-size: 1.05rem;
+  font-weight: 800;
+  color: var(--vp-c-text-1);
+  letter-spacing: 0.02em;
+}
+
+.category-divider-badge {
+  font-size: 0.78rem;
+  font-weight: 700;
+  padding: 3px 10px;
+  border-radius: 12px;
+  background: rgba(16, 185, 129, 0.2);
+  color: #10b981;
+  border: 1px solid rgba(16, 185, 129, 0.3);
+}
+
+.category-grid-header {
+  grid-column: 1 / -1;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  background: linear-gradient(90deg, rgba(16, 185, 129, 0.18) 0%, rgba(6, 182, 212, 0.08) 100%);
+  border-left: 4px solid #10b981;
+  padding: 10px 16px;
+  margin-top: 1rem;
+  margin-bottom: 0.5rem;
+  border-radius: 0 8px 8px 0;
 }
 
 /* DATA TABLE STYLES */
