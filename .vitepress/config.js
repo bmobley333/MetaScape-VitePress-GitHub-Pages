@@ -2,6 +2,7 @@ export default {
   title: "MetaScape Hub",
   description: "Core Rules & Technical Reference Engine",
   base: '/MetaScape-VitePress-GitHub-Pages/',
+  appearance: 'dark',
   ignoreDeadLinks: true,
   head: [
     ['link', { rel: 'icon', href: '/MetaScape-VitePress-GitHub-Pages/jodar.ico' }]
@@ -26,13 +27,7 @@ export default {
         }
       }
     },
-    nav: [
-      { text: 'Flex Legacy (MS3)', link: '/player-guide/ms3/rules' },
-      { text: 'Flex Engine (MS4)', link: '/player-guide/flex/how-to-play' },
-      { text: 'Flex Moxie', link: '/player-guide/moxie/rules' },
-      { text: 'SupaFlex', link: '/player-guide/supaflex/rules' },
-      { text: 'Turbo Engine (MS5)', link: '/player-guide/turbo/how-to-play' }
-    ],
+    nav: [],
     sidebar: {
       '/player-guide/supaflex/': [
         {

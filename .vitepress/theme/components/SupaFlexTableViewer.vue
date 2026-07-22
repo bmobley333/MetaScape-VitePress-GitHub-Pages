@@ -38,7 +38,7 @@ const skillCount = computed(() => rawData.value.skillsets.length)
 const powerClasses = computed(() => {
   const set = new Set()
   rawData.value.powers.forEach(p => {
-    if (p.sub === 'Class' && p.table_name) {
+    if (p.sub?.toLowerCase().includes('class') && p.table_name) {
       const clsName = p.table_name.replace(/Powers/i, '').trim()
       if (clsName) set.add(clsName)
     }
@@ -46,27 +46,57 @@ const powerClasses = computed(() => {
   return Array.from(set).sort()
 })
 
-// Filtered Powers
+const powerRaces = computed(() => {
+  const set = new Set()
+  rawData.value.powers.forEach(p => {
+    if (p.sub?.toLowerCase().includes('race') && p.table_name) {
+      const raceName = p.table_name.replace(/Powers/i, '').trim()
+      if (raceName) set.add(raceName)
+    }
+  })
+  return Array.from(set).sort()
+})
+
+const powerCombatStyles = computed(() => {
+  const set = new Set()
+  rawData.value.powers.forEach(p => {
+    const isCombat = p.sub?.toLowerCase().includes('combat') || p.table_name?.toLowerCase().includes('combat')
+    if (isCombat && p.table_name) {
+      const styleName = p.table_name.replace(/Powers/i, '').trim()
+      if (styleName) set.add(styleName)
+    }
+  })
+  return Array.from(set).sort()
+})
+
+// Filtered Powers with mandatory 2-tier sort: Category A->Z, Name A->Z
 const filteredPowers = computed(() => {
-  return rawData.value.powers.filter(p => {
+  const filtered = rawData.value.powers.filter(p => {
     // Sub-category filter
     if (activeSubCategory.value !== 'all') {
-      if (activeSubCategory.value.startsWith('class_')) {
-        const cls = activeSubCategory.value.replace('class_', '')
-        if (p.sub !== 'Class' || !p.table_name?.toLowerCase().includes(cls.toLowerCase())) return false
-      } else if (activeSubCategory.value === 'class_all') {
-        if (p.sub !== 'Class') return false
+      const subLower = (p.sub || '').toLowerCase()
+      const tblLower = (p.table_name || '').toLowerCase()
+
+      if (activeSubCategory.value === 'class_all') {
+        if (!subLower.includes('class')) return false
+      } else if (activeSubCategory.value.startsWith('class_')) {
+        const cls = activeSubCategory.value.replace('class_', '').toLowerCase()
+        if (!subLower.includes('class') || !tblLower.includes(cls)) return false
       } else if (activeSubCategory.value === 'race_all') {
-        if (p.sub !== 'Race') return false
+        if (!subLower.includes('race')) return false
       } else if (activeSubCategory.value.startsWith('race_')) {
-        const race = activeSubCategory.value.replace('race_', '')
-        if (p.sub !== 'Race' || !p.table_name?.toLowerCase().includes(race.toLowerCase())) return false
-      } else if (activeSubCategory.value === 'combat') {
-        if (p.sub !== 'Combat Style' && !p.sub?.toLowerCase().includes('combat')) return false
+        const race = activeSubCategory.value.replace('race_', '').toLowerCase()
+        if (!subLower.includes('race') || !tblLower.includes(race)) return false
+      } else if (activeSubCategory.value === 'combat_all' || activeSubCategory.value === 'combat') {
+        if (!subLower.includes('combat') && !tblLower.includes('combat')) return false
+      } else if (activeSubCategory.value.startsWith('combat_')) {
+        const style = activeSubCategory.value.replace('combat_', '').toLowerCase()
+        if ((!subLower.includes('combat') && !tblLower.includes('combat')) || !tblLower.includes(style)) return false
       } else if (activeSubCategory.value === 'luck') {
-        if (p.sub !== 'Luck' && !p.sub?.toLowerCase().includes('luck')) return false
+        if (!subLower.includes('luck') && !tblLower.includes('luck')) return false
       }
     }
+
     // Search query
     if (searchQuery.value.trim()) {
       const q = searchQuery.value.toLowerCase()
@@ -79,11 +109,19 @@ const filteredPowers = computed(() => {
     }
     return true
   })
+
+  // Mandatory Two-Tier Sort: Category A->Z, then Name A->Z
+  return filtered.sort((a, b) => {
+    const catA = (a.table_name || a.sub || '').toLowerCase()
+    const catB = (b.table_name || b.sub || '').toLowerCase()
+    if (catA !== catB) return catA.localeCompare(catB)
+    return (a.name || '').toLowerCase().localeCompare((b.name || '').toLowerCase())
+  })
 })
 
-// Filtered Magic Items
+// Filtered Magic Items with mandatory 2-tier sort: Category A->Z, Name A->Z
 const filteredMagicItems = computed(() => {
-  return rawData.value.magic_items.filter(item => {
+  const filtered = rawData.value.magic_items.filter(item => {
     if (activeSubCategory.value !== 'all') {
       const sub = (item.sub || '').toLowerCase()
       if (!sub.includes(activeSubCategory.value.toLowerCase())) return false
@@ -99,11 +137,19 @@ const filteredMagicItems = computed(() => {
     }
     return true
   })
+
+  // Mandatory Two-Tier Sort: Category (sub) A->Z, then Name A->Z
+  return filtered.sort((a, b) => {
+    const catA = (a.sub || '').toLowerCase()
+    const catB = (b.sub || '').toLowerCase()
+    if (catA !== catB) return catA.localeCompare(catB)
+    return (a.name || '').toLowerCase().localeCompare((b.name || '').toLowerCase())
+  })
 })
 
-// Filtered Skill Sets
+// Filtered Skill Sets with Category/Name Sort
 const filteredSkillsets = computed(() => {
-  return rawData.value.skillsets.filter(s => {
+  const filtered = rawData.value.skillsets.filter(s => {
     if (searchQuery.value.trim()) {
       const q = searchQuery.value.toLowerCase()
       const name = (s.name || '').toLowerCase()
@@ -112,6 +158,8 @@ const filteredSkillsets = computed(() => {
     }
     return true
   })
+
+  return filtered.sort((a, b) => (a.name || '').toLowerCase().localeCompare((b.name || '').toLowerCase()))
 })
 
 const selectCategoryTab = (tab) => {
@@ -219,7 +267,7 @@ const selectCategoryTab = (tab) => {
 
       <!-- POWERS VIEW -->
       <div v-else-if="activeTab === 'powers'" class="catalog-section">
-        <!-- Subcategory Pills Bar -->
+        <!-- Subcategory Pills & Dropdowns Toolbar -->
         <div class="sub-category-bar">
           <button 
             class="sub-pill-btn" 
@@ -254,16 +302,41 @@ const selectCategoryTab = (tab) => {
             :class="{ active: activeSubCategory === 'race_all' }"
             @click="activeSubCategory = 'race_all'"
           >
-            🧬 Racial Powers
+            🧬 All Racial Powers
           </button>
+
+          <!-- Race Dropdown/Select -->
+          <select 
+            class="sub-select" 
+            :value="activeSubCategory.startsWith('race_') ? activeSubCategory : ''" 
+            @change="e => activeSubCategory = e.target.value || 'all'"
+          >
+            <option value="" disabled>-- Select Race --</option>
+            <option v-for="r in powerRaces" :key="r" :value="`race_${r}`">
+              🧬 {{ r }} Powers
+            </option>
+          </select>
 
           <button 
             class="sub-pill-btn" 
-            :class="{ active: activeSubCategory === 'combat' }"
-            @click="activeSubCategory = 'combat'"
+            :class="{ active: activeSubCategory === 'combat_all' || activeSubCategory === 'combat' }"
+            @click="activeSubCategory = 'combat_all'"
           >
-            ⚔️ Combat Styles
+            ⚔️ All Combat Styles
           </button>
+
+          <!-- Combat Style Dropdown/Select -->
+          <select 
+            v-if="powerCombatStyles.length > 0"
+            class="sub-select" 
+            :value="activeSubCategory.startsWith('combat_') ? activeSubCategory : ''" 
+            @change="e => activeSubCategory = e.target.value || 'all'"
+          >
+            <option value="" disabled>-- Select Combat Style --</option>
+            <option v-for="cs in powerCombatStyles" :key="cs" :value="`combat_${cs}`">
+              ⚔️ {{ cs }}
+            </option>
+          </select>
 
           <button 
             class="sub-pill-btn" 
@@ -305,7 +378,7 @@ const selectCategoryTab = (tab) => {
         </div>
 
         <div class="results-count">
-          Showing <strong>{{ filteredPowers.length }}</strong> of {{ powerCount }} powers
+          Showing <strong>{{ filteredPowers.length }}</strong> of {{ powerCount }} powers (Sorted by Category A→Z, Name A→Z)
         </div>
 
         <!-- DENSE TABLE VIEW -->
@@ -433,7 +506,7 @@ const selectCategoryTab = (tab) => {
         </div>
 
         <div class="results-count">
-          Showing <strong>{{ filteredMagicItems.length }}</strong> of {{ itemCount }} magic items
+          Showing <strong>{{ filteredMagicItems.length }}</strong> of {{ itemCount }} magic items (Sorted by Category A→Z, Name A→Z)
         </div>
 
         <!-- TABLE VIEW -->

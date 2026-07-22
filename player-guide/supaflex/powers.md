@@ -60,104 +60,35 @@ Select one of the many sub-sets of powers such as Class👤, Race🧬, Combat St
 | 1 | 1-Enc | A | **Twin Katar Sweep** | Atk⚔️ with both katars; if both hit, target prone |
 | 1 | 1-Day | A | **Unbending Steel** | On hit; target Atk⚔️ rolls Dis for 1 rnd |
 
-### **Monk Powers**
+### **Core Power Powers**
 
 | Lvl | Usage | Action | Name | Effect |
 | --- | --- | --- | --- | --- |
-| 1 | 1-Day | P | **Afterimage Step** | Use before Def roll; 1 melee Atk vs you auto-misses |
-| 1 | 1-Day | A | **Aura of Balance (Major)** | Allies in 2sq heal d4; you suffer Dmg💥-1 for 1 rnd |
-| 1 | 1-Enc | A | **Aura of Balance—Minor** | Allies in 2sq Heal 1 |
-| 1 | 1-Rnd | P | **Balance Ward** | Allies nearby gain AR🧥+1 for 1 rnd |
-| 1 | 1-Enc | P | **Breath of Stillness** | Ends bleeding and Saves✨+1 to target for 1 rnd |
-| 1 | 1-Enc | P | **Cloak of Darkness** | Become Invisible for 1 rnd |
-| 1 | 1-Rnd | P | **Crane Stance** | Def+2 for 1 rnd |
-| 1 | 1-Rnd | P | **Deflect Missiles** | AR🧥+2 vs Missiles |
-| 1 | 1-Enc | M | **Echo Strike** | Repeat last Atk/Dmg💥 with same result |
-| 1 | 1-Enc | M | **Feather Step** | Motion🏃 actions (e.g. silence, balance, acrobatics,etc) at Advantage |
-| 1 | 1-Enc | AM | **Ki Centering** | Spend 1 rnd in focus (no other actions); regain 1 Luck🍀 |
-| 1 | 1-Luck🍀 | F | **Ki Focus** | Spend 1 Luck🍀; Roll+2 |
-| 1 | 2-Enc | F | **Ki Surge** | For 1 rnd, choose: Atk+2, Def+2, or Resist✨+2 |
-| 1 | 1-Enc | AM | **Meditation** | Spend 1 rnd in focus (no other actions); regain 1 Luck🍀 |
-| 1 | 1-Enc | P | **Merciful Intercession** | 1 ally cannot be attacked until they act |
-| 1 | 1-Rnd | P | **Monkey Stance** | AR🧥+2 vs ranged Dmg💥 for 1 rnd; req unarmored or very light armor |
-| 1 | 1-Rnd | P | **Panda Stance** | Immune to Fear/Charm for 1 rnd; req unarmored or very light armor |
-| 1 | 1-Enc | F | **Perfect Timing** | Nish🚩+2 on next roll |
-| 1 | 1-Enc | F | **Pressure Chain** | If unarmed Atk hits same target 2 rnds in a row; gain Def+2 for Encounter |
-| 1 | 1-Day | A | **Pressure-Point Strike** | On hit; target MR👣-2 for Encounter |
-| 1 | 3-Enc | A | **Rejuvenating Touch** | Heals d4 |
-| 1 | 1-Day | A | **Revive** | Restore 1 ally at negative Vit❤️ to 1 Vit❤️ |
-| 1 | 1-Enc | M | **Shadow Glide** | Move double MR👣 this rnd |
-| 1 | 1-Day | F | **Shadow Hospice** | If ally in 2sq would drop to 0; set them to 1 Vit❤️ instead |
-| 1 | 1-Enc | P | **Shared Vit❤️** | Transfer up to 2 of your Vit❤️ to adjacent ally |
-| 1 | 1-Enc | P | **Slow Breath (Restorative)** | Regain 1 Vit❤️ and Resist✨+2 for 1 rnd |
-| 1 | 1-Day | AM | **Stone Stillness** | Remain motionless; Advantage on detection checks |
-| 1 | 2-Enc | P | **Stonefang Staffwork** | If staff Atk hits; push target 1sq |
-| 1 | 1-Enc | P | **Turtle Stance** | Regain 1 Vit❤️ and Saves✨+2 for 1 rnd; req unarmored or very light armor |
-| 1 | 1-Enc | F | **Umbral Counter** | On successful Def; make 1 opportunity attack |
-| 1 | 2-Enc | M | **Umbral Form** | Teleport between visible shadows |
-| 1 | 1-Enc | M | **Wall Run** | Move across walls/obstacles up to MR👣; Motion🏃 if risky |
-| 1 | 1-Day | P | **Wholeness of Body** | Heal self 2 |
+| 1 | 1-Enc | P | **Shapeshift: Duality Form** | Transform into Pixie (10” 2Lbs) or Giant (11’ 1000Lbs) form for Encounter; replace Atr & Powers with that form, on an seperate speced out Character Sheet. Basically 3 characters in one. |
 
-### **Warrior Powers**
+### **Cursed Spartan Powers**
 
 | Lvl | Usage | Action | Name | Effect |
 | --- | --- | --- | --- | --- |
-| 1 | 1-Day | F | **Ancestral Guard** | Call on clan spirits; allies in 2sq Nish🚩+1 for Encounter |
-| 1 | 1-Enc | M | **Avalanche Drive** | Move MR👣; Might💪 or target falls Prone; d4 Dmg💥 |
-| 1 | 1-Rnd | P | **Battle Trance** | All Might💪 rolls +2 for 1 rnd |
-| 1 | 1-Enc | P | **Berserker Rage** | Enter rage; Dmg💥+2 and Def-2 for Encounter |
-| 1 | 1-Rnd | P | **Blackaxe Formation** | AR🧥+1 for 1 rnd |
-| 1 | 1-Day | F | **Blackaxe Oath** | If reduced to 0 Vit❤️; stay conscious until end of rnd |
-| 1 | 1-Enc | A | **Blackaxe Slam** | Atk with shield (use Def as Atk); on hit, d4 Dmg💥 and Might💪 or target Stunned |
-| 1 | 1-Day | P | **Blind Fighter’s Poise** | Fight normally in darkness; Atk rolls no penalty for encounter |
-| 1 | 1-Enc | P | **Blood Oath** | Take 1 Dmg💥; 1 ally gains +2 on next roll |
-| 1 | 1-Enc | A | **Disarm Riposte** | On successful Atk; Motion🏃 or target drops weapon |
-| 1 | 1-Enc | A | **Flame Weapon** | Imbue weapon; Dmg💥+1 fire for Encounter |
-| 1 | 1-Day | P | **Forge-Bound Shout** | Adjacent allies gain Def+1 for Encounter |
-| 1 | 1-Enc | AM | **Furious Charge** | Move double MR👣, Atk, and Dmg💥+2 |
-| 1 | 1-Enc | A | **Hamstring Strike** | On hit; normal Dmg💥 and Motion🏃 or target MR👣 halved 1 rnd |
-| 1 | 1-Enc | P | **Ignore the Pain** | Take 1 Dmg💥; negate next d6 Dmg💥 you would take |
-| 1 | 1-Enc | M | **Mountain Stride** | Ignore terrain and climb at MR👣+2 this rnd |
-| 1 | 2-Day | F | **Quick Reflexes** | Next Nish🚩 has Advantage |
-| 1 | 1-Enc | P | **Rage Regen** | Heal self 1d4 |
-| 1 | 1-Enc | A | **Rallying Shout** | Allies MR👣+1 for Encounter |
-| 1 | 2-Enc | A | **Second Wind** | Self heal 2 Vit❤️ |
-| 1 | 1-Enc | AM | **Shield Break Line** | Move through foes in 3sq; Might💪 or each is knocked Prone |
-| 1 | 1-Enc | P | **Shield Hook** | Choose 1 foe; Def rolls vs them have Advantage this rnd |
-| 1 | 1-Enc | AM | **Shield Rush** | Move double MR👣; Atk with shield's Def; Dmg💥 uses shield's d(Block🛡️)+2 |
-| 1 | 1-Day | A | **Stone Form** | Harden body like granite; AR🧥+2 and immune to poison/disease for Encounter |
-| 1 | 1-Rnd | P | **Stonewall** | Def+1 for 1 rnd |
-| 1 | 2-Enc | A | **Taunt of Stone** | Mind👁️ or targets within 2sq must focus Atks on you |
-| 1 | 1-Enc | M | **Thunder Barge Pilot** | If operating Warmachine; Mind👁️ to grant allies Nish🚩+2 this rnd |
-| 1 | 2-Day | F | **Veteran of the Deeps** | Reroll 1 failed Might💪 or Motion🏃 roll |
-| 1 | 1-Day | A | **WarCry** | Mind👁️ or foes hesitate/flee 1 rnd |
-| 1 | 1-Enc | P | **Weapon Breaker** | On successful Might💪 Atk; destroy 1 enemy weapon/shield |
-| 1 | 1-Enc | A | **Whirlwind Strike** | Atk all foes adjacent to you |
-
-### **Wizard Powers**
-
-| Lvl | Usage | Action | Name | Effect |
-| --- | --- | --- | --- | --- |
-| 1 | 1-Enc | P | **Alloy Specialist** | Magic✨ reveals metal's purity & weaknesses & magic effects if any |
-| 1 | 1-Enc | P | **Circus Charisma** | Mind👁️ Diplomacy & Performance with Advantage |
-| 1 | 1-Day | F | **Circus Survivor** | When reduced to negavie Vit❤️; Resist✨ with Magic✨ vs 10+(negative wounds) to remain at 1 HP |
-| 1 | 1-Enc | M | **Disarm Pull** | Magic✨to disarm metal weapon, tossing weapon d8sq |
-| 1 | 1-Day | P | **Gambler’s Luck🍀** | Reroll 1 failed Mind👁️ or Motion🏃 roll |
-| 1 | 1-Enc | A | **Iron Bind** | Clamp foe in metal geAR🧥; Mind👁️ or target is Immobilized |
-| 1 | 1-Enc | A | **Knife Barrage** | Throw d4 knives; each knife Motion🏃 Atk d4 Dmg💥 |
-| 1 | 1-Day | F | **Knife Savant** | Thrown knives Atk+1 for encounter |
-| 1 | 1-Enc | A | **Knife Swarm** | Recall all thrown knives in range; make 1 Atk with each against nearby foes |
-| 1 | 1-Enc | M | **Magnetic Burst** | Magic✨ in 2sqR of PC; foes wearing metal roll Resist✨ or Def-2 for 1 rnd |
-| 1 | 1-Enc | M | **Magnetic Featherfall** | Choose 1 metal-bearing target; floats down safely this rnd |
-| 1 | 1-Rnd | M | **Magnetic Grasp** | Move 1 unattended iron/steel object; Magic✨ roll if > 20lb |
-| 1 | 1-Rnd | AM | **Magnetic Slide** | Mind👁️slide up to 6 sq 1 foes held iron item or iron wearing foe |
-| 1 | 1-Day | F | **Magnetized Reflex** | Dodge🏃 vs ranged metal weapons with Advantage for 1 rnd |
-| 1 | 1-Enc | F | **Metallic Sense** | Detect hidden ferrous objects in range without roll |
-| 1 | 1-Rnd | M | **Object Recall** | Recall to hand; 1 thrown knife; or iron item in range |
-| 1 | 1-Enc | M | **Polarize Armor** | One ally in 3sq wearing iron; AR🧥+2 for 1 rnd |
-| 1 | 1-Day | A | **Rapier Flourish** | Melee Atk with rapier; Atk+1 if foe wears metal armor for encounter |
-| 1 | 2-Enc | P | **Ricochet Trick** | On hit with thrown knife; magnetic knife Opporunity Atk to 1 extra target |
-| 1 | 1-Enc | F | **Streetwise Eye** | Mind👁️ checks to detect scams, danger, or cheats at Advantage |
+| 1 | 1-Enc | A | **Blood Debt Strike** | On hit; ignore target’s Armor; Dmg💥+2 |
+| 1 | 1-Enc | F | **Blood Oath Recall** | After crit; normal GM🔎 effect and regain 1 spent (#-Enc) usage |
+| 1 | 1-Enc | F | **Bronze Discipline** | Reroll one failed Might💪 roll |
+| 1 | 1-Day | F | **Cursebound Defiance** | Cancel 1 condition on self (Stunned/Weakened) |
+| 1 | 2-Enc | P | **Cursebrand Surge** | Take 1 Dmg💥; Atk+2 this rnd |
+| 1 | 2-Enc | A | **Echo of the Fallen** | On hit; summon spectral ally to auto-hit same target for d6 Dmg💥 |
+| 1 | 1-Enc | M | **Formation Rally** | Move to ally; that ally heals 1 Vit❤️ |
+| 1 | 1-Day | F | **Ghost Phalanx** | Adjacent allies AR🧥+1 as spectral shields form for encounter |
+| 1 | 1-Day | A | **Last Stand** | If reduced to negative Vit❤️; act normally until end of rnd |
+| 1 | 1-Enc | M | **Linebreaker** | Move MR👣 through foes; each must Block🛡️ (Might💪) or fall Prone |
+| 1 | 1-Day | P | **Names of the Fallen** | Speak shield’s names; allies in earshot next Nish🚩+2 |
+| 1 | 2-Enc | A | **Oathbound Fury** | If your Wounds ≥ half Vit❤️; Atk+2 this rnd |
+| 1 | 1-Day | AM | **Phalanx Advance** | Move with shield raised; allies in 2sq gain AR🧥+1 this rnd |
+| 1 | 1-Enc | AM | **Phalanx Drive** | Move double MR👣; Atk with Spear; Dmg💥+2 |
+| 1 | 1-Enc | P | **Shield Interpose** | One adjacent ally’s Def+2 vs 1 Atk |
+| 1 | 1-Enc | A | **Shield Ram** | Roll shield Def as Atk at AR🧥+1 as Dmg💥 and Might💪 pushws target d4sq |
+| 1 | 1-Rnd | M | **Shield Wall** | AR🧥+2 while holding position this rnd |
+| 1 | 1-Enc | A | **SpearCircle** | Atk all adjacent foes with spear |
+| 1 | 1-Enc | P | **Taunting Shout** | Mind👁️ or foes in 2sq focus Atks on you |
 
 ### **Elemental Mage Powers**
 
@@ -180,30 +111,20 @@ Select one of the many sub-sets of powers such as Class👤, Race🧬, Combat St
 | 1 | 2-Enc | P | **Storm Call** | Crack of thunder; Magic✨ or target is Frightened 1 rnd |
 | 1 | 1-Enc | A | **Tornado Spin** | Summon whirlwind; Magic✨ Atk pushes adjacent foes away |
 
-### **Psionic Sentinel Powers**
+### **Giant Form Powers**
 
 | Lvl | Usage | Action | Name | Effect |
 | --- | --- | --- | --- | --- |
-| 1 | 1-Enc | A | **Blade of Thought Technique** | On hit with longsword; Magic✨ force Dmg💥+1 and push target 1sq. |
-| 1 | 1-Enc | AM | **Blink Assault** | Teleport up to 6sq, then make 1 Atk⚔️ this rnd; on hit, Magic✨ force Dmg💥+1. |
-| 1 | 1-Enc | P | **Defensive Stance** | Def+2 for 1 rnd. |
-| 1 | 2-Enc | A | **Echo Slash** | Line 3sq; make 1 Atk⚔️ vs each foe in line; on hit; Dmg💥 at –1d (no uplift). |
-| 1 | 1-Enc | A | **Flurry of Mental Blows** | Make 2 unarmed🥊 Atks this rnd; each Dmg💥 d4 (no uplift). |
-| 1 | 1-Enc | A | **Focused Strike** | Atk⚔️+2 for this Atk; on hit; Dmg💥+1. |
-| 1 | 1-Day | F | **Iron Will** | Remove 1 condition (Stunned or Weakened). |
-| 1 | 1-Enc | M | **Mind Dash** | Move double MR👣 this rnd. |
-| 1 | 1-Day | A | **Mind Lance** | Magic✨ Atk🎯 6sq; on hit; Magic✨ force Dmg💥 d8 and Mind👁️ or target is Weakened for 1 rnd. |
-| 1 | 1-Day | P | **Mind Over Body** | Resist✨ poison/disease with Advantage and Heal self 1d4. |
-| 1 | 2-Enc | M | **Phantom Step** | Move MR👣; you do not provoke opportunity Atks this rnd. |
-| 1 | 1-Enc | P | **Psionic Barrier** | Allies within 2sq gain AR🧥+1 for 1 rnd. |
-| 1 | 1-Enc | A | **Psionic Blade** | On hit; Magic✨ force Dmg💥+1 and Mind👁️ or target is Weakened for 1 rnd. |
-| 1 | 1-Enc | M | **Psionic Leap** | Jump or vault up to MR👣 ignoring difficult terrain. |
-| 1 | 1-Enc | P | **Psionic Push** | Magic✨ Atk; on hit; push target 2sq. |
-| 1 | 1-Day | A | **Sever Thought** | On hit; Mind👁️ or target cannot use Magic✨ Powers⚡ for 1 rnd. |
-| 1 | 1-Enc | A | **Stunning Palm** | On unarmed🥊 hit; Dmg💥 d4 and Mind👁️ or target is Stunned for 1 rnd. |
-| 1 | 1-Enc | A | **Telekinetic Crush** | Magic✨ Atk🎯 4sq; on hit; Dmg💥 d6 and target is Immobilized for 1 rnd. |
-| 1 | 1-Enc | M | **Telekinetic Glide** | Teleport up to 8sq to a visible square on solid ground. |
-| 1 | 1-Enc | P | **Uncanny Dodge (Mental Reflex)** | Gain Advantage on 1 Dodge🏃 roll this rnd. |
+| 1 | 1-Enc | AM | **Colossal Charge** | Move double MR👣; Melee Atk; Dmg💥+3 |
+| 1 | 1-Enc | A | **Double Grab** | Grab 2 adjacent foes; Might💪 Brawl Atk & Dmg💥 on both |
+| 1 | 1-Enc | A | **Earthquake Stomp** | Might💪 or foes in 2sqR fall Prone |
+| 1 | 1-Enc | P | **Iron Endurance** | Heal self 2 Vit❤️ |
+| 1 | 1-Day | P | **Juggernaut** | AR🧥+2 vs all Atks while in Giant form for encounter |
+| 1 | 1-Enc | P | **Leap of the Colossus** | Jump up to 5sq; using Might💪Brawl as "Landing" Atk & Dmg💥 |
+| 1 | 1-Enc | P | **Rip & Throw** | Might💪Brawl  to Grab Atk and Dmg💥 & hurl target up d6sq |
+| 1 | 1-Enc | A | **Skull Crusher** | On hit with unarmed; Might💪 or target is Stunned |
+| 1 | 1-Day | P | **Titan’s Grip** | Can wield massive objects as improvised weapons (Dmg💥+2) for encounter |
+| 1 | 1-Enc | M | **Towering Stride** | MR👣 in a straight line, ignoring most terrain, traps, Block🛡️s, etc. |
 
 ### **Healer Powers**
 
@@ -243,6 +164,214 @@ Select one of the many sub-sets of powers such as Class👤, Race🧬, Combat St
 | 1 | 1-Enc | P | **Sun-Kissed Radiance** | Emit bright light 3sq / dim 6sq for 1 Enc; vs Undead in bright light PCs Atk with Advantage |
 | 1 | 1-Enc | P | **Uncanny Dodge** | Gain Advantage on 1 Dodge🏃 roll this rnd |
 
+### **Monk Powers**
+
+| Lvl | Usage | Action | Name | Effect |
+| --- | --- | --- | --- | --- |
+| 1 | 1-Day | P | **Afterimage Step** | Use before Def roll; 1 melee Atk vs you auto-misses |
+| 1 | 1-Day | A | **Aura of Balance (Major)** | Allies in 2sq heal d4; you suffer Dmg💥-1 for 1 rnd |
+| 1 | 1-Enc | A | **Aura of Balance—Minor** | Allies in 2sq Heal 1 |
+| 1 | 1-Rnd | P | **Balance Ward** | Allies nearby gain AR🧥+1 for 1 rnd |
+| 1 | 1-Enc | P | **Breath of Stillness** | Ends bleeding and Saves✨+1 to target for 1 rnd |
+| 1 | 1-Enc | P | **Cloak of Darkness** | Become Invisible for 1 rnd |
+| 1 | 1-Rnd | P | **Crane Stance** | Def+2 for 1 rnd |
+| 1 | 1-Rnd | P | **Deflect Missiles** | AR🧥+2 vs Missiles |
+| 1 | 1-Enc | M | **Echo Strike** | Repeat last Atk/Dmg💥 with same result |
+| 1 | 1-Enc | M | **Feather Step** | Motion🏃 actions (e.g. silence, balance, acrobatics,etc) at Advantage |
+| 1 | 1-Enc | AM | **Ki Centering** | Spend 1 rnd in focus (no other actions); regain 1 Luck🍀 |
+| 1 | 1-Luck🍀 | F | **Ki Focus** | Spend 1 Luck🍀; Roll+2 |
+| 1 | 2-Enc | F | **Ki Surge** | For 1 rnd, choose: Atk+2, Def+2, or Resist✨+2 |
+| 1 | 1-Enc | AM | **Meditation** | Spend 1 rnd in focus (no other actions); regain 1 Luck🍀 |
+| 1 | 1-Enc | P | **Merciful Intercession** | 1 ally cannot be attacked until they act |
+| 1 | 1-Rnd | P | **Monkey Stance** | AR🧥+2 vs ranged Dmg💥 for 1 rnd; req unarmored or very light armor |
+| 1 | 1-Rnd | P | **Panda Stance** | Immune to Fear/Charm for 1 rnd; req unarmored or very light armor |
+| 1 | 1-Enc | F | **Perfect Timing** | Nish🚩+2 on next roll |
+| 1 | 1-Enc | F | **Pressure Chain** | If unarmed Atk hits same target 2 rnds in a row; gain Def+2 for Encounter |
+| 1 | 1-Day | A | **Pressure-Point Strike** | On hit; target MR👣-2 for Encounter |
+| 1 | 3-Enc | A | **Rejuvenating Touch** | Heals d4 |
+| 1 | 1-Day | A | **Revive** | Restore 1 ally at negative Vit❤️ to 1 Vit❤️ |
+| 1 | 1-Enc | M | **Shadow Glide** | Move double MR👣 this rnd |
+| 1 | 1-Day | F | **Shadow Hospice** | If ally in 2sq would drop to 0; set them to 1 Vit❤️ instead |
+| 1 | 1-Enc | P | **Shared Vit❤️** | Transfer up to 2 of your Vit❤️ to adjacent ally |
+| 1 | 1-Enc | P | **Slow Breath (Restorative)** | Regain 1 Vit❤️ and Resist✨+2 for 1 rnd |
+| 1 | 1-Day | AM | **Stone Stillness** | Remain motionless; Advantage on detection checks |
+| 1 | 2-Enc | P | **Stonefang Staffwork** | If staff Atk hits; push target 1sq |
+| 1 | 1-Enc | P | **Turtle Stance** | Regain 1 Vit❤️ and Saves✨+2 for 1 rnd; req unarmored or very light armor |
+| 1 | 1-Enc | F | **Umbral Counter** | On successful Def; make 1 opportunity attack |
+| 1 | 2-Enc | M | **Umbral Form** | Teleport between visible shadows |
+| 1 | 1-Enc | M | **Wall Run** | Move across walls/obstacles up to MR👣; Motion🏃 if risky |
+| 1 | 1-Day | P | **Wholeness of Body** | Heal self 2 |
+
+### **Nymph Form Powers**
+
+| Lvl | Usage | Action | Name | Effect |
+| --- | --- | --- | --- | --- |
+| 1 | 1-Enc | P | **Charm Veil** | Mind👁️ Socail roll with Advantage |
+| 1 | 1-Enc | M | **Glamour Assault** | Cast glamour; Mind👁️ or target is Stunned 1 rnd |
+| 1 | 1-Rnd | M | **Glamours Dance** | Enemies within 4sq Def-1 while Raven is visible |
+| 1 | 1-Enc | A | **Mind Twist** | Mind👁️ or target attacks ally this rnd |
+| 1 | 1-Enc | M | **Mirage Projection** | Create illusory ally; foes may waste Atks on it |
+| 1 | 1-Enc | F | **Self-Healing Essence** | When reduced to ngative Vit❤️; Heal 1 Vit❤️ |
+| 1 | 1-Enc | AM | **Shadow Swarm** | Fly up to 8sq as swarm of ravens; Melee Atk foes in origin sq for d4 Dmg💥 |
+| 1 | 1-Enc | M | **Trickster's Glide** | Move through foes; All foes "touched" (no atk) Magic✨or allys get Atk+2, & Def+2 |
+| 1 | 1-Enc | P | **Trickster’s Gambit** | Reroll 1 failed Mind👁️ or Magic✨ roll |
+
+### **Phantom Tainville Powers**
+
+| Lvl | Usage | Action | Name | Effect |
+| --- | --- | --- | --- | --- |
+| 1 | 1-Enc | P | **Apply Poison** | Coat 1 dagger; next hit this Enc adds Dmg💥+1; target Resist✨ or Poisoned |
+| 1 | 1-Enc | F | **Assassinate** | On surprise Atk⚔️ from Hidden; Atk with Advantage, Dmg💥+6; target Resist✨ or Stunned |
+| 1 | 3-Enc | F | **Backstab** | On hit from Stealth🏃Dmg💥+4, or rear; Dmg💥+2 |
+| 1 | 1-Enc | P | **Disable Trap** | Disable Trap at Advantage |
+| 1 | 1-Enc | P | **Distract & Draw** | Create brief diversion; nearest foe Mind👁️ or looks away; your next Stealth🏃 this rnd gains Advantage |
+| 1 | 1-Enc | M | **Ghosting Run** | Move up to MR👣; ignore Opp Atk this move |
+| 1 | 1-Enc | F | **Mark Target** | Choose 1 visible foe; your next Atk⚔️ vs that foe this Enc gains Advantage |
+| 1 | 1-Enc | P | **Pick Lock** | Pick Lock with Advantage |
+| 1 | 1-Enc | M | **Rope Runner** | Climb or descend up to MR👣 on rope/wall this rnd; Stealth🏃 allowed while moving |
+| 1 | 1-Enc | P | **Set Ambush** | Choose a square; first Atk⚔️ you or ally makes into that square this rnd gains Advantage |
+| 1 | 1-Enc | M | **Shadow Step** | Teleport up to MR👣 to a visible shadow |
+| 1 | 2-Enc | P | **Silent Takedown** | On hit vs adjacent humanoid; target Resist✨ or Stunned |
+| 1 | 1-Enc | P | **Sleight of Hand** | Plant/switch/palm a small item with Advantage |
+| 1 | 1-Enc | M | **Slip Through** | Move through 1 enemy’s square; that foe Mind👁️ or cannot Opp Atk you this move |
+| 1 | 1-Enc | P | **Target Analysis** | Study 1 foe; your next Atk⚔️ vs that foe gains Advantage |
+| 1 | 1-Enc | A | **Twin Strike** | Multi-Atk with main and/or off-hand daggers (no uplift) to Mulit-Atk limit +1 |
+| 1 | 1-Enc | F | **Vanish** | If unseen; become hidden; you may immediately move up to d4 sq toward a visible shadow |
+| 1 | 1-Enc | P | **Vitals Strike** | On hit; target Resist✨ or Weakened |
+| 1 | 2-Enc | A | **Weighted Throw** | If you are unseen to Target; Hurl dagger at Advantage |
+| 1 | 1-Enc | F | **Whispered Signal** | Allies in earshot gain Nish🚩+1 this rnd |
+
+### **Pixie Form Powers**
+
+| Lvl | Usage | Action | Name | Effect |
+| --- | --- | --- | --- | --- |
+| 1 | 1-Enc | A | **Fade Into Dust** | Invisible for 1 rnd |
+| 1 | 1-Day | A | **Illusory Army** | Create 1d4 illusory allies; Mind👁️ or foes believe for Encounter |
+| 1 | 1-Day | A | **Keeth’s Cry** | Summon Keeth; allies in 3sq Nish🚩+2 for Encounter |
+| 1 | 1-Enc | A | **Phantom Grasp** | Magic✨ or target is Immobilized |
+| 1 | 1-Enc | P | **Pixie’s Laughter** | Mind👁️ or target is Weakened 1 rnd |
+| 1 | 1-Enc | M | **Raven Wings** | Ride Keeth; fly MR👣 this rnd |
+| 1 | 1-Enc | A | **Sound Mimicry** | Mind👁️ (GM🔎 set Dif) or target obeys false order |
+| 1 | 1-Enc | P | **Tiny Terror** | If hidden; Atk with Advantage |
+| 1 | 1-Enc | P | **Trick of Light** | Disguise as another small creature; Mind👁️vs observers that have a reason to disbelieve |
+| 1 | 1-Day | F | **Unseen Observer** | Detect illusions & glamours with Advantage for encounter |
+
+### **Psionic Sentinel Powers**
+
+| Lvl | Usage | Action | Name | Effect |
+| --- | --- | --- | --- | --- |
+| 1 | 1-Enc | A | **Blade of Thought Technique** | On hit with longsword; Magic✨ force Dmg💥+1 and push target 1sq. |
+| 1 | 1-Enc | AM | **Blink Assault** | Teleport up to 6sq, then make 1 Atk⚔️ this rnd; on hit, Magic✨ force Dmg💥+1. |
+| 1 | 1-Enc | P | **Defensive Stance** | Def+2 for 1 rnd. |
+| 1 | 2-Enc | A | **Echo Slash** | Line 3sq; make 1 Atk⚔️ vs each foe in line; on hit; Dmg💥 at –1d (no uplift). |
+| 1 | 1-Enc | A | **Flurry of Mental Blows** | Make 2 unarmed🥊 Atks this rnd; each Dmg💥 d4 (no uplift). |
+| 1 | 1-Enc | A | **Focused Strike** | Atk⚔️+2 for this Atk; on hit; Dmg💥+1. |
+| 1 | 1-Day | F | **Iron Will** | Remove 1 condition (Stunned or Weakened). |
+| 1 | 1-Enc | M | **Mind Dash** | Move double MR👣 this rnd. |
+| 1 | 1-Day | A | **Mind Lance** | Magic✨ Atk🎯 6sq; on hit; Magic✨ force Dmg💥 d8 and Mind👁️ or target is Weakened for 1 rnd. |
+| 1 | 1-Day | P | **Mind Over Body** | Resist✨ poison/disease with Advantage and Heal self 1d4. |
+| 1 | 2-Enc | M | **Phantom Step** | Move MR👣; you do not provoke opportunity Atks this rnd. |
+| 1 | 1-Enc | P | **Psionic Barrier** | Allies within 2sq gain AR🧥+1 for 1 rnd. |
+| 1 | 1-Enc | A | **Psionic Blade** | On hit; Magic✨ force Dmg💥+1 and Mind👁️ or target is Weakened for 1 rnd. |
+| 1 | 1-Enc | M | **Psionic Leap** | Jump or vault up to MR👣 ignoring difficult terrain. |
+| 1 | 1-Enc | P | **Psionic Push** | Magic✨ Atk; on hit; push target 2sq. |
+| 1 | 1-Day | A | **Sever Thought** | On hit; Mind👁️ or target cannot use Magic✨ Powers⚡ for 1 rnd. |
+| 1 | 1-Enc | A | **Stunning Palm** | On unarmed🥊 hit; Dmg💥 d4 and Mind👁️ or target is Stunned for 1 rnd. |
+| 1 | 1-Enc | A | **Telekinetic Crush** | Magic✨ Atk🎯 4sq; on hit; Dmg💥 d6 and target is Immobilized for 1 rnd. |
+| 1 | 1-Enc | M | **Telekinetic Glide** | Teleport up to 8sq to a visible square on solid ground. |
+| 1 | 1-Enc | P | **Uncanny Dodge (Mental Reflex)** | Gain Advantage on 1 Dodge🏃 roll this rnd. |
+
+### **Punk Fighter Powers**
+
+| Lvl | Usage | Action | Name | Effect |
+| --- | --- | --- | --- | --- |
+| 1 | 2-Enc | A | **Adrenaline Surge** | Heal self 2❤️ |
+| 1 | 1-Enc | A | **Bareknuckle Brawling** | Make 2 unarmed Atk⚔️; suffer d4 self-Dmg💥❤️ |
+| 1 | 1-Day | F | **Brotherhood of the Garbage Can Gods** | Call on ally memory; reroll 1 failed roll (self or ally) |
+| 1 | 1-Enc | P | **Chain Punk Fury** | On hit; make 1 extra Atk⚔️ with off-hand weapon |
+| 1 | 1-Rnd | A | **Crossbow Snap** | Quick fire; Ranged Atk⚔️, Dmg💥-1 |
+| 1 | 1-Enc | P | **Gambler’s Edge** | Your next Atk⚔️ or Skill🎓 roll has Advantage |
+| 1 | 1-Rnd | P | **Improvised Arsenal** | Wield random object; Atk⚔️ and Dmg💥 equals Might💪 |
+| 1 | 1-Rnd | A | **Mohawk Menace** | Flash aggression; nearby foes Mind👁️ or flee 1sq |
+| 1 | 1-Enc | P | **Oops, Shouldn’t Have Said That…** | Insult foe; Mind👁️ or target focuses Atk on you this rnd |
+| 1 | 1-Enc | F | **PA-TING!** | On successful Dodge🏃; make 1 immediate counter-Atk⚔️ at Disadvantage |
+| 1 | 1-Enc | P | **Piercing Presence** | Intimidate foe; Mind👁️ or target suffers Atk-2 for 1 rnd |
+| 1 | 1-Enc | F | **Piercing Retort** | On being insulted; immediate counter-Insult, Mind👁️ or foe Atk-2 |
+| 1 | 1-Rnd | P | **Psst! Look at that Weird Cat!** | Summon Jim; foes in 2sq distracted👁️ this rnd, then Jim flees |
+| 1 | 1-Enc | A | **Punk Rally Cry** | All allies Nish🚩+2 for 1 rnd |
+| 1 | 1-Enc | P | **Rebel’s Awareness** | Spot hidden exits, ambushes, or unusual behavior👁️ |
+| 1 | 1-Enc | P | **Riot Instigator** | Mind👁️ vs foes or allies in 3sq Advantaged on Atk for 1 rnd |
+| 1 | 1-Enc | A | **Smoke Bomb Toss** | Create 3x3sq zone; foes inside suffer Disadvantage on Atk & Dodge🏃 this rnd |
+| 1 | 1-Enc | F | **Street Instincts** | Spot danger👁️; Nish🚩+2 on next roll |
+| 1 | 1-Enc | P | **You Look Kinda Nice When You’re in Danger** | When ally is hit; choose: ally AR🧥+d4 or next Dmg💥+d4 |
+
+### **Ranger Powers**
+
+| Lvl | Usage | Action | Name | Effect |
+| --- | --- | --- | --- | --- |
+| 1 | 2-Enc | P | **Acrobatics Roll** | Avoid fall Dmg💥 or escape grapple; Motion🏃 acrobatics roll |
+| 1 | 1-Enc | A | **Animal Empathy** | Calm or befriend 1 beast; Mind👁️ animal handling roll |
+| 1 | 2-Enc | P | **Camouflage** | Advantage on 1 Motion🏃 stealth roll outdoors |
+| 1 | 3-Enc | A | **Deadeye Shot** | Blast of sound; Magic✨ to push back foes |
+| 1 | 1-Enc | P | **Dungeoneer’s Sense** | GM🔎 reveals 1 hidden feature when you succeed Mind👁️ perception |
+| 1 | 1-Enc | P | **Escape Artist** | Slip out of bonds, nets, grapples; Motion🏃 escape roll |
+| 1 | 2-Enc | F | **Evasion** | Automatically dodge 1 trap/hazard (no roll) |
+| 1 | 1-Enc | P | **Mountaineer’s Grip** | Advantage on Motion🏃 climbing rolls |
+| 1 | 1-Enc | P | **Ranger’s Mark** | Mark target; all allies deal +1 Dmg💥 vs that foe |
+| 1 | 1-Enc | P | **Terrain Mastery** | +2 to Motion🏃 & Mind👁️ rolls in familiAR🧥terrain (forest, desert, etc.) |
+
+### **Trickster Powers**
+
+| Lvl | Usage | Action | Name | Effect |
+| --- | --- | --- | --- | --- |
+| 1 | 1-Enc | A | **Aura of Charm** | Mind👁️ charms target |
+| 1 | 1-Day | A | **Doppelgänger Bluff** | Impersonate someone nearby; Mind👁️ disguise roll |
+| 1 | 1-Enc | M | **Flash Step** | Move double MR👣 this rnd |
+| 1 | 1-Day | A | **Master of Disguise** | AppeAR🧥as another person; Mind👁️ disguise roll |
+| 1 | 2-Enc | A | **Neon Mirage** | Create illusory double; Mind👁️ |
+| 1 | 1-Enc | P | **Sabotage** | Disable 1 object (lock, rope, or gear); Mind👁️ |
+| 1 | 1-Enc | P | **Shadow Veil** | Invisible for 1 rnd |
+| 1 | 2-Enc | P | **Smoke Bomb** | Create cloud; next Dodge has Advantage |
+| 1 | 2-Enc | A | **Sonic Pulse** | Blast of sound; Mind👁️ or foes pushed back d4sq |
+| 1 | 1-Day | A | **Techno-Babble** | Convince with jargon; Mind👁️ persuasion |
+| 1 | 1-Enc | P | **Trickster’s Feint** | 1 free reroll |
+
+### **Warrior Powers**
+
+| Lvl | Usage | Action | Name | Effect |
+| --- | --- | --- | --- | --- |
+| 1 | 1-Day | F | **Ancestral Guard** | Call on clan spirits; allies in 2sq Nish🚩+1 for Encounter |
+| 1 | 1-Enc | M | **Avalanche Drive** | Move MR👣; Might💪 or target falls Prone; d4 Dmg💥 |
+| 1 | 1-Rnd | P | **Battle Trance** | All Might💪 rolls +2 for 1 rnd |
+| 1 | 1-Enc | P | **Berserker Rage** | Enter rage; Dmg💥+2 and Def-2 for Encounter |
+| 1 | 1-Rnd | P | **Blackaxe Formation** | AR🧥+1 for 1 rnd |
+| 1 | 1-Day | F | **Blackaxe Oath** | If reduced to 0 Vit❤️; stay conscious until end of rnd |
+| 1 | 1-Enc | A | **Blackaxe Slam** | Atk with shield (use Def as Atk); on hit, d4 Dmg💥 and Might💪 or target Stunned |
+| 1 | 1-Day | P | **Blind Fighter’s Poise** | Fight normally in darkness; Atk rolls no penalty for encounter |
+| 1 | 1-Enc | P | **Blood Oath** | Take 1 Dmg💥; 1 ally gains +2 on next roll |
+| 1 | 1-Enc | A | **Disarm Riposte** | On successful Atk; Motion🏃 or target drops weapon |
+| 1 | 1-Enc | A | **Flame Weapon** | Imbue weapon; Dmg💥+1 fire for Encounter |
+| 1 | 1-Day | P | **Forge-Bound Shout** | Adjacent allies gain Def+1 for Encounter |
+| 1 | 1-Enc | AM | **Furious Charge** | Move double MR👣, Atk, and Dmg💥+2 |
+| 1 | 1-Enc | A | **Hamstring Strike** | On hit; normal Dmg💥 and Motion🏃 or target MR👣 halved 1 rnd |
+| 1 | 1-Enc | P | **Ignore the Pain** | Take 1 Dmg💥; negate next d6 Dmg💥 you would take |
+| 1 | 1-Enc | M | **Mountain Stride** | Ignore terrain and climb at MR👣+2 this rnd |
+| 1 | 2-Day | F | **Quick Reflexes** | Next Nish🚩 has Advantage |
+| 1 | 1-Enc | P | **Rage Regen** | Heal self 1d4 |
+| 1 | 1-Enc | A | **Rallying Shout** | Allies MR👣+1 for Encounter |
+| 1 | 2-Enc | A | **Second Wind** | Self heal 2 Vit❤️ |
+| 1 | 1-Enc | AM | **Shield Break Line** | Move through foes in 3sq; Might💪 or each is knocked Prone |
+| 1 | 1-Enc | P | **Shield Hook** | Choose 1 foe; Def rolls vs them have Advantage this rnd |
+| 1 | 1-Enc | AM | **Shield Rush** | Move double MR👣; Atk with shield's Def; Dmg💥 uses shield's d(Block🛡️)+2 |
+| 1 | 1-Day | A | **Stone Form** | Harden body like granite; AR🧥+2 and immune to poison/disease for Encounter |
+| 1 | 1-Rnd | P | **Stonewall** | Def+1 for 1 rnd |
+| 1 | 2-Enc | A | **Taunt of Stone** | Mind👁️ or targets within 2sq must focus Atks on you |
+| 1 | 1-Enc | M | **Thunder Barge Pilot** | If operating Warmachine; Mind👁️ to grant allies Nish🚩+2 this rnd |
+| 1 | 2-Day | F | **Veteran of the Deeps** | Reroll 1 failed Might💪 or Motion🏃 roll |
+| 1 | 1-Day | A | **WarCry** | Mind👁️ or foes hesitate/flee 1 rnd |
+| 1 | 1-Enc | P | **Weapon Breaker** | On successful Might💪 Atk; destroy 1 enemy weapon/shield |
+| 1 | 1-Enc | A | **Whirlwind Strike** | Atk all foes adjacent to you |
+
 ### **Weird Powers**
 
 | Lvl | Usage | Action | Name | Effect |
@@ -263,29 +392,30 @@ Select one of the many sub-sets of powers such as Class👤, Race🧬, Combat St
 | 1 | 1-Rnd | P | **Water Breathing** | Breathe underwater; no roll, for 1 rnd |
 | 1 | 1-Day | A | **Weather Sense** | Predict weather for 1 day; no roll |
 
-### **Cursed Spartan Powers**
+### **Wizard Powers**
 
 | Lvl | Usage | Action | Name | Effect |
 | --- | --- | --- | --- | --- |
-| 1 | 1-Enc | A | **Blood Debt Strike** | On hit; ignore target’s Armor; Dmg💥+2 |
-| 1 | 1-Enc | F | **Blood Oath Recall** | After crit; normal GM🔎 effect and regain 1 spent (#-Enc) usage |
-| 1 | 1-Enc | F | **Bronze Discipline** | Reroll one failed Might💪 roll |
-| 1 | 1-Day | F | **Cursebound Defiance** | Cancel 1 condition on self (Stunned/Weakened) |
-| 1 | 2-Enc | P | **Cursebrand Surge** | Take 1 Dmg💥; Atk+2 this rnd |
-| 1 | 2-Enc | A | **Echo of the Fallen** | On hit; summon spectral ally to auto-hit same target for d6 Dmg💥 |
-| 1 | 1-Enc | M | **Formation Rally** | Move to ally; that ally heals 1 Vit❤️ |
-| 1 | 1-Day | F | **Ghost Phalanx** | Adjacent allies AR🧥+1 as spectral shields form for encounter |
-| 1 | 1-Day | A | **Last Stand** | If reduced to negative Vit❤️; act normally until end of rnd |
-| 1 | 1-Enc | M | **Linebreaker** | Move MR👣 through foes; each must Block🛡️ (Might💪) or fall Prone |
-| 1 | 1-Day | P | **Names of the Fallen** | Speak shield’s names; allies in earshot next Nish🚩+2 |
-| 1 | 2-Enc | A | **Oathbound Fury** | If your Wounds ≥ half Vit❤️; Atk+2 this rnd |
-| 1 | 1-Day | AM | **Phalanx Advance** | Move with shield raised; allies in 2sq gain AR🧥+1 this rnd |
-| 1 | 1-Enc | AM | **Phalanx Drive** | Move double MR👣; Atk with Spear; Dmg💥+2 |
-| 1 | 1-Enc | P | **Shield Interpose** | One adjacent ally’s Def+2 vs 1 Atk |
-| 1 | 1-Enc | A | **Shield Ram** | Roll shield Def as Atk at AR🧥+1 as Dmg💥 and Might💪 pushws target d4sq |
-| 1 | 1-Rnd | M | **Shield Wall** | AR🧥+2 while holding position this rnd |
-| 1 | 1-Enc | A | **SpearCircle** | Atk all adjacent foes with spear |
-| 1 | 1-Enc | P | **Taunting Shout** | Mind👁️ or foes in 2sq focus Atks on you |
+| 1 | 1-Enc | P | **Alloy Specialist** | Magic✨ reveals metal's purity & weaknesses & magic effects if any |
+| 1 | 1-Enc | P | **Circus Charisma** | Mind👁️ Diplomacy & Performance with Advantage |
+| 1 | 1-Day | F | **Circus Survivor** | When reduced to negavie Vit❤️; Resist✨ with Magic✨ vs 10+(negative wounds) to remain at 1 HP |
+| 1 | 1-Enc | M | **Disarm Pull** | Magic✨to disarm metal weapon, tossing weapon d8sq |
+| 1 | 1-Day | P | **Gambler’s Luck🍀** | Reroll 1 failed Mind👁️ or Motion🏃 roll |
+| 1 | 1-Enc | A | **Iron Bind** | Clamp foe in metal geAR🧥; Mind👁️ or target is Immobilized |
+| 1 | 1-Enc | A | **Knife Barrage** | Throw d4 knives; each knife Motion🏃 Atk d4 Dmg💥 |
+| 1 | 1-Day | F | **Knife Savant** | Thrown knives Atk+1 for encounter |
+| 1 | 1-Enc | A | **Knife Swarm** | Recall all thrown knives in range; make 1 Atk with each against nearby foes |
+| 1 | 1-Enc | M | **Magnetic Burst** | Magic✨ in 2sqR of PC; foes wearing metal roll Resist✨ or Def-2 for 1 rnd |
+| 1 | 1-Enc | M | **Magnetic Featherfall** | Choose 1 metal-bearing target; floats down safely this rnd |
+| 1 | 1-Rnd | M | **Magnetic Grasp** | Move 1 unattended iron/steel object; Magic✨ roll if > 20lb |
+| 1 | 1-Rnd | AM | **Magnetic Slide** | Mind👁️slide up to 6 sq 1 foes held iron item or iron wearing foe |
+| 1 | 1-Day | F | **Magnetized Reflex** | Dodge🏃 vs ranged metal weapons with Advantage for 1 rnd |
+| 1 | 1-Enc | F | **Metallic Sense** | Detect hidden ferrous objects in range without roll |
+| 1 | 1-Rnd | M | **Object Recall** | Recall to hand; 1 thrown knife; or iron item in range |
+| 1 | 1-Enc | M | **Polarize Armor** | One ally in 3sq wearing iron; AR🧥+2 for 1 rnd |
+| 1 | 1-Day | A | **Rapier Flourish** | Melee Atk with rapier; Atk+1 if foe wears metal armor for encounter |
+| 1 | 2-Enc | P | **Ricochet Trick** | On hit with thrown knife; magnetic knife Opporunity Atk to 1 extra target |
+| 1 | 1-Enc | F | **Streetwise Eye** | Mind👁️ checks to detect scams, danger, or cheats at Advantage |
 
 ## 🧬 **Racial Powers**
 
@@ -467,69 +597,69 @@ Select one of the many sub-sets of powers such as Class👤, Race🧬, Combat St
 
 ## ⚔️ **Combat Style Powers**
 
-| Usage | Action | Name | Effect |
-| --- | --- | --- | --- |
-| 2-Enc | F | **Ambidexterity** | Sheath or draw 1 weapon; no P cost |
-| 2-Enc | AM | **Axe Kick** | Dmg💥+3 |
-| 1-Day | F | **Boomerang Block🛡️** | Hurl shield to intercept Atk vs ally; roll Def normally, success = total Block🛡️ (no Dmg💥) |
-| 2-Enc | P | **Brace** | Platn shield; AR🧥+1 for 1 rnd |
-| 1-Day | A | **Chain Strikes** | Make 3 Atk & Dmg💥 vs same foe |
-| 1-Enc | A | **Cleaving Swing** | On hit; deal half Dmg💥 to all adjacent foes with Def ≤ the Atk |
-| 2-Enc | F | **Counter Guard** | If foe misses you; Atk+2 vs that target on your next Atk |
-| 2-Enc | P | **Cover Ally** | Adjacent Allies gain Def+2 for 1 rnd |
-| 1-Enc | P | **Cross Guard Riposte** | On successful Block🛡️; immediately make off-hand Opportunity Atk |
-| 1-Enc | A | **Cross Slash** | Strike with both weapons in a single sweeping motion; 1 Atk but roll Dmg💥 for both weapons and keep best |
-| 1-Enc | P | **Defender’s Focus** | Gain Advantage on next Block🛡️ roll |
-| 1-Enc | P | **Defensive Flourish** | Def+2 for 1 rnd |
-| 2-Enc | P | **Disarm Strike** | On hit; normal Dmg💥 and Motion🏃 or target drops weapon |
-| 1-Enc | P | **Double Parry** | All Block🛡️s this round roll using both weapons and keep best |
-| 1-Day | A | **Dragon Strike** | Mighty blow; Atk Dmg💥+3 |
-| 1-Rnd | P | **Driving Attack** | On hit; Might💪 to push target 1sq |
-| 2-Enc | M | **Duelist’s Dance** | MR👣+1 this rnd as you weave between attacks |
-| 1-Enc | F | **Elbow Smash** | Immediate Opportunity Atk |
-| 1-Enc | F | **Flowing Assault** | After slaying a foe; immediately make off-hand Opportunity Atk |
-| 1-Enc | AM | **Flying Kick** | Jump up to MR👣 and strike; Atk & Dmg💥 with Advantage |
-| 1-Enc | F | **Guard Swap** | Swap weapon or stance; no P cost |
-| 1-Rnd | M | **Guarded Step** | Move up to 3sq; attempt Block🛡️ with weapon to aid ally |
-| 1-Enc | P | **Hurl King** | Draw and throw 1 hurled weapon as second Atk/Dmg💥 |
-| 1-Enc | P | **Iron Bulwark** | Allies directly behind you gain Def+2 for 1 rnd |
-| 1-Rnd | P | **Iron Fist** | All Brawl; Dmg💥+1d |
-| 1-Day | F | **Iron Focus** | Reroll 1 missed Atk with this weapon |
-| 2-Enc | A | **Knee Breaker** | On hit; normal Dmg💥 and Might💪 or target Immobilized |
-| 1-Enc | AM | **Leaping Strike** | Leap up to double MR👣; Dmg💥+2 |
-| 1-Enc | A | **MA Flurry** | Make 4 Atk vs any combination of adjacent targets; each Dmg💥 is d4 |
-| 1-Enc | P | **Master's Riposte** | If foe misses you; get opportunity Atk; 1 roll per use |
-| 1-Enc | P | **Measured Guard** | Block🛡️+1d this rnd |
-| 1-Rnd | P | **Mirror Guard** | Block🛡️ with both weapons; Def+2 for 1 rnd |
-| Usage | Action | **Name** | Effect |
-| 2-Enc | P | **Off-Hand Feint** | Distract with off-hand; main-hand Atk+2 |
-| 1-Enc | A | **Overwhelming Flurry** | Choose 1 foe; make main-hand Atk with Advantage |
-| 2-Enc | P | **Paired Precision** | Atk+2 if you attacked only with other weapon last rnd |
-| 1-Day | A | **Palm Heal** | On hit; normal Dmg💥 and heal self equal to Wounds caused |
-| 3-Enc | A | **Piercing Strike** | This Atk ignores 1 AR🧥 (Dmg💥+1 if target has armor) |
-| 1-Rnd | P | **Precision Cut** | On hit; Dmg💥+1 |
-| 1-Enc | A | **Pressure Point** | On hit; normal Dmg💥 and target MR👣-2 for 1 rnd |
-| 1-Enc | F | **Quick Recovery** | Stand from Prone; no P cost |
-| 1-Enc | F | **Relentless Flow** | If hit same target with this weapon 2 rnds in a row; Dmg💥+1 vs them for Encounter |
-| 1-Enc | F | **Relentless Pressure** | If you hit with both weapons in same rnd; Atk+1 for Encounter |
-| 1-Enc | A | **Roundhouse Kick** | Atk all adjacent foes |
-| 1-Enc | A | **Shield Bash** | Make 1 Atk with shield (use Def as Atk); on hit, deal d4 Dmg💥 and Might💪 or target is Stunned |
-| 1-Day | M | **Shield Charge** | Move up to MR👣; Might💪 vs Def. On success, deal d4 Dmg💥 and target is knocked Prone |
-| 1-Enc | P | **Shield Riposte** | On successful Block🛡️; immediately make Opportunity Atk |
-| 2-Enc | P | **Shield Shove** | Might💪 to shove target d4sq |
-| 2-Enc | A | **Side Kick** | On hit; normal Dmg💥 and push target d4sq |
-| 1-Enc | A | **Spinning Backfist** | On hit; Dmg💥+d4 and Might💪 or target falls Prone |
-| 1-Enc | P | **Steel Net** | Catch incoming blow between blades; Block🛡️+1d this rnd |
-| 2-Enc | A | **Sweep Kick** | Atk all adjacent foes for Dmg💥 d4; wounded targets fall Prone |
-| 1-Enc | F | **Swift Ready** | Swap to new weapon; no P cost |
-| 2-Enc | A | **Tiger Claw** | Make 2 unarmed Atk; if both hit, each is Dmg💥+1 |
-| 1-Enc | A | **Twin Threat** | Make Atk with main-hand; if miss, immediately Atk with off-hand |
-| 1-Enc | AM | **Wall Run Kick** | Run along wall/obstacle up to MR👣; normal Atk & Dmg💥 on landing |
-| 1-Enc | P | **Wall of Steel** | Block🛡️+1d this rnd; MR👣0 this rnd |
-| 2-Enc | P | **Weapon & Board** | If you hit with weapon last rnd; Atk+1 and Def+1 for 1 rnd |
-| 1-Enc | P | **Weapon Control** | On successful Atk; Motion🏃 disarms target |
-| 2-Enc | P | **Weapon Mastery** | If you attacked last rnd with same weapon; Atk+2 and Dmg💥+2 this rnd |
-| 2-Day | A | **Whirling Dance** | Make separate Atk & Dmg💥 rolls vs 2 adjacent foes |
+| Category | Usage | Action | Name | Effect |
+| --- | --- | --- | --- | --- |
+| Dual Wield Power | 2-Enc | F | **Ambidexterity** | Sheath or draw 1 weapon; no P cost |
+| Dual Wield Power | 1-Enc | P | **Cross Guard Riposte** | On successful Block🛡️; immediately make off-hand Opportunity Atk |
+| Dual Wield Power | 1-Enc | A | **Cross Slash** | Strike with both weapons in a single sweeping motion; 1 Atk but roll Dmg💥 for both weapons and keep best |
+| Dual Wield Power | 1-Enc | P | **Double Parry** | All Block🛡️s this round roll using both weapons and keep best |
+| Dual Wield Power | 2-Enc | M | **Duelist’s Dance** | MR👣+1 this rnd as you weave between attacks |
+| Dual Wield Power | 1-Enc | F | **Flowing Assault** | After slaying a foe; immediately make off-hand Opportunity Atk |
+| Dual Wield Power | 1-Rnd | P | **Mirror Guard** | Block🛡️ with both weapons; Def+2 for 1 rnd |
+| Dual Wield Power | 2-Enc | P | **Off-Hand Feint** | Distract with off-hand; main-hand Atk+2 |
+| Dual Wield Power | 1-Enc | A | **Overwhelming Flurry** | Choose 1 foe; make main-hand Atk with Advantage |
+| Dual Wield Power | 2-Enc | P | **Paired Precision** | Atk+2 if you attacked only with other weapon last rnd |
+| Dual Wield Power | 1-Enc | F | **Relentless Pressure** | If you hit with both weapons in same rnd; Atk+1 for Encounter |
+| Dual Wield Power | 1-Enc | P | **Steel Net** | Catch incoming blow between blades; Block🛡️+1d this rnd |
+| Dual Wield Power | 1-Enc | A | **Twin Threat** | Make Atk with main-hand; if miss, immediately Atk with off-hand |
+| Dual Wield Power | 2-Day | A | **Whirling Dance** | Make separate Atk & Dmg💥 rolls vs 2 adjacent foes |
+| Martial Arts Powe | 1-Enc | F | **Elbow Smash** | Immediate Opportunity Atk |
+| Martial Arts Powers | 2-Enc | AM | **Axe Kick** | Dmg💥+3 |
+| Martial Arts Powers | 1-Day | A | **Chain Strikes** | Make 3 Atk & Dmg💥 vs same foe |
+| Martial Arts Powers | 2-Enc | P | **Disarm Strike** | On hit; normal Dmg💥 and Motion🏃 or target drops weapon |
+| Martial Arts Powers | 1-Day | A | **Dragon Strike** | Mighty blow; Atk Dmg💥+3 |
+| Martial Arts Powers | 1-Enc | AM | **Flying Kick** | Jump up to MR👣 and strike; Atk & Dmg💥 with Advantage |
+| Martial Arts Powers | 1-Rnd | P | **Iron Fist** | All Brawl; Dmg💥+1d |
+| Martial Arts Powers | 2-Enc | A | **Knee Breaker** | On hit; normal Dmg💥 and Might💪 or target Immobilized |
+| Martial Arts Powers | 1-Enc | AM | **Leaping Strike** | Leap up to double MR👣; Dmg💥+2 |
+| Martial Arts Powers | 1-Enc | A | **MA Flurry** | Make 4 Atk vs any combination of adjacent targets; each Dmg💥 is d4 |
+| Martial Arts Powers | 1-Day | A | **Palm Heal** | On hit; normal Dmg💥 and heal self equal to Wounds caused |
+| Martial Arts Powers | 1-Enc | A | **Pressure Point** | On hit; normal Dmg💥 and target MR👣-2 for 1 rnd |
+| Martial Arts Powers | 1-Enc | A | **Roundhouse Kick** | Atk all adjacent foes |
+| Martial Arts Powers | 2-Enc | A | **Side Kick** | On hit; normal Dmg💥 and push target d4sq |
+| Martial Arts Powers | 1-Enc | A | **Spinning Backfist** | On hit; Dmg💥+d4 and Might💪 or target falls Prone |
+| Martial Arts Powers | 2-Enc | A | **Sweep Kick** | Atk all adjacent foes for Dmg💥 d4; wounded targets fall Prone |
+| Martial Arts Powers | 2-Enc | A | **Tiger Claw** | Make 2 unarmed Atk; if both hit, each is Dmg💥+1 |
+| Martial Arts Powers | 1-Enc | AM | **Wall Run Kick** | Run along wall/obstacle up to MR👣; normal Atk & Dmg💥 on landing |
+| Single Weapon Powers | 1-Enc | A | **Cleaving Swing** | On hit; deal half Dmg💥 to all adjacent foes with Def ≤ the Atk |
+| Single Weapon Powers | 1-Enc | P | **Defensive Flourish** | Def+2 for 1 rnd |
+| Single Weapon Powers | 1-Rnd | P | **Driving Attack** | On hit; Might💪 to push target 1sq |
+| Single Weapon Powers | 1-Rnd | M | **Guarded Step** | Move up to 3sq; attempt Block🛡️ with weapon to aid ally |
+| Single Weapon Powers | 1-Enc | P | **Hurl King** | Draw and throw 1 hurled weapon as second Atk/Dmg💥 |
+| Single Weapon Powers | 1-Day | F | **Iron Focus** | Reroll 1 missed Atk with this weapon |
+| Single Weapon Powers | 1-Enc | P | **Master's Riposte** | If foe misses you; get opportunity Atk; 1 roll per use |
+| Single Weapon Powers | 1-Enc | P | **Measured Guard** | Block🛡️+1d this rnd |
+| Single Weapon Powers | 3-Enc | A | **Piercing Strike** | This Atk ignores 1 AR🧥 (Dmg💥+1 if target has armor) |
+| Single Weapon Powers | 1-Rnd | P | **Precision Cut** | On hit; Dmg💥+1 |
+| Single Weapon Powers | 1-Enc | F | **Quick Recovery** | Stand from Prone; no P cost |
+| Single Weapon Powers | 1-Enc | F | **Relentless Flow** | If hit same target with this weapon 2 rnds in a row; Dmg💥+1 vs them for Encounter |
+| Single Weapon Powers | 1-Enc | F | **Swift Ready** | Swap to new weapon; no P cost |
+| Single Weapon Powers | 1-Enc | P | **Weapon Control** | On successful Atk; Motion🏃 disarms target |
+| Single Weapon Powers | 2-Enc | P | **Weapon Mastery** | If you attacked last rnd with same weapon; Atk+2 and Dmg💥+2 this rnd |
+| TableName | Usage | Action | **Name** | Effect |
+| Weapon & Shield Powers | 1-Day | F | **Boomerang Block🛡️** | Hurl shield to intercept Atk vs ally; roll Def normally, success = total Block🛡️ (no Dmg💥) |
+| Weapon & Shield Powers | 2-Enc | P | **Brace** | Platn shield; AR🧥+1 for 1 rnd |
+| Weapon & Shield Powers | 2-Enc | F | **Counter Guard** | If foe misses you; Atk+2 vs that target on your next Atk |
+| Weapon & Shield Powers | 2-Enc | P | **Cover Ally** | Adjacent Allies gain Def+2 for 1 rnd |
+| Weapon & Shield Powers | 1-Enc | P | **Defender’s Focus** | Gain Advantage on next Block🛡️ roll |
+| Weapon & Shield Powers | 1-Enc | F | **Guard Swap** | Swap weapon or stance; no P cost |
+| Weapon & Shield Powers | 1-Enc | P | **Iron Bulwark** | Allies directly behind you gain Def+2 for 1 rnd |
+| Weapon & Shield Powers | 1-Enc | A | **Shield Bash** | Make 1 Atk with shield (use Def as Atk); on hit, deal d4 Dmg💥 and Might💪 or target is Stunned |
+| Weapon & Shield Powers | 1-Day | M | **Shield Charge** | Move up to MR👣; Might💪 vs Def. On success, deal d4 Dmg💥 and target is knocked Prone |
+| Weapon & Shield Powers | 1-Enc | P | **Shield Riposte** | On successful Block🛡️; immediately make Opportunity Atk |
+| Weapon & Shield Powers | 2-Enc | P | **Shield Shove** | Might💪 to shove target d4sq |
+| Weapon & Shield Powers | 1-Enc | P | **Wall of Steel** | Block🛡️+1d this rnd; MR👣0 this rnd |
+| Weapon & Shield Powers | 2-Enc | P | **Weapon & Board** | If you hit with weapon last rnd; Atk+1 and Def+1 for 1 rnd |
 
 ## 🍀 **Luck Powers**
 

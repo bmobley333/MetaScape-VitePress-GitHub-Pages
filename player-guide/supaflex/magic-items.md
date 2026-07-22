@@ -10,8 +10,8 @@ Dynamic magical treasures indexed from the master databases.
 
 | Usage | Action | Name | Effect |
 | --- | --- | --- | --- |
-| 2-Enc | P | **Ash-Herb Pouch** | Apply herbal dusts; Heal 1 Vit❤️ to adjacent ally |
 | 1-Day | M | **Ash-and-Blood WarPaint** | While painted; Nish🚩+1 for encounter |
+| 2-Enc | P | **Ash-Herb Pouch** | Apply herbal dusts; Heal 1 Vit❤️ to adjacent ally |
 | 1-Enc | P | **Candle Spark** | Create small flame; ignite torches or campfires |
 | 1-Day | F | **Charm Bands** | Mind👁️ and Magic✨ rolls with Advantage 1 rnd |
 | 1-Enc | P | **Charm of Balance** | Motion🏃 roll with Advantage to stay upright |
@@ -125,6 +125,9 @@ Dynamic magical treasures indexed from the master databases.
 
 | Usage | Action | Name | Effect |
 | --- | --- | --- | --- |
+| 1-Enc | P | **[Armor] of Serenity** | Mind👁️ Persuasion+2 |
+| 1-Enc | M | **[Weapon] of Echoes** | Dmg💥+2 if the 2H20 rolls doubles, for encounter |
+| 1-Enc | A | **[Weapon] of Glimmer** | Create illusion; Magic✨ |
 | 1-Enc | A | **Amulet of Dawn’s Radiance** | Magic✨ Atk (AOE 3sqR) vs undead; d8 radiant Dmg💥 and Weakened 1 rnd; Non-undead in AOE Heal+1 Vit❤️ |
 | 1-Day | A | **Amulet of Healing** | Heal Self 2d4 |
 | 1-Enc | F | **Amulet of Psionic Reflection** | After you succeed a Resist✨ from an foe; Magic✨ Atk & Dmg💥 vs foe and Mind👁️ to Weaken for 1 rnd. |
@@ -173,8 +176,8 @@ Dynamic magical treasures indexed from the master databases.
 | 1-Enc | P | **Medallion of Calm** | Remove Weakened |
 | 1-Day | P | **Mirror [Shield]** | Magic✨ to reflect 1 spell back at caster |
 | 2-Enc | P | **Mohawk Helm** | Mind👁️ Intimidation+2 for 1 rnd |
-| 1-Day | P | **Neon Skateboard** | While riding MR👣+1 for Encounter |
 | 1-Enc | F | **Neon [Weapon]** | Mind👁️ Intimidation+2 |
+| 1-Day | P | **Neon Skateboard** | While riding MR👣+1 for Encounter |
 | 1-Day | P | **Orb of Echo Memory** | Replay 1 past scene vividly |
 | 1-Day | A | **Phoenix [Weapon]** | On crit; Normal GM🔎 crit and Heal self 2 |
 | 1-Day | P | **Radiant [Weapon]** | Glows with Everlight (20 sq light with no shadows) |
@@ -198,9 +201,6 @@ Dynamic magical treasures indexed from the master databases.
 | 1-Enc | P | **Volcanic Shard of Reth’Vash 2** | Teleport up to 6sq to visible shadow |
 | 1-Enc | F | **Volcanic Shard of Reth’Vash 3** | After you Heal ally from 0 or less Vit❤️ to 1+, make 1 Brawl Opportunity Atk |
 | 1-Enc | A | **Whisper [Weapon]** | On Atk; Whisper target positions at Mind👁️ to detect Invisible monsters |
-| 1-Enc | P | **[Armor] of Serenity** | Mind👁️ Persuasion+2 |
-| 1-Enc | M | **[Weapon] of Echoes** | Dmg💥+2 if the 2H20 rolls doubles, for encounter |
-| 1-Enc | A | **[Weapon] of Glimmer** | Create illusion; Magic✨ |
 
 ## **🌀 Artifact Magic Items**
 
