@@ -30,18 +30,13 @@ export default {
     nav: [],
     sidebar: {
       '/player-guide/supaflex/': [
-        {
-          text: '🌌 SupaFlex System',
-          collapsed: false,
-          items: [
-            { text: '📖 Core Rules Manual', link: '/player-guide/supaflex/rules' },
-            { text: '🔥 Powers Reference', link: '/player-guide/supaflex/powers' },
-            { text: '✨ Magic Items Reference', link: '/player-guide/supaflex/magic-items' },
-            { text: '🎓 Skill Sets Reference', link: '/player-guide/supaflex/skillsets' },
-            { text: '── OR ──', link: '/player-guide/supaflex/tables#divider' },
-            { text: '📊 Interactive Tables Catalog', link: '/player-guide/supaflex/tables' }
-          ]
-        }
+        { text: '📖 Core Rules Manual', link: '/player-guide/supaflex/rules' },
+        { text: '──────────────', link: '/player-guide/supaflex/rules#sep' },
+        { text: '🔥 Powers Reference', link: '/player-guide/supaflex/powers' },
+        { text: '✨ Magic Items Reference', link: '/player-guide/supaflex/magic-items' },
+        { text: '🎓 Skill Sets Reference', link: '/player-guide/supaflex/skillsets' },
+        { text: '── OR ──', link: '/player-guide/supaflex/tables#divider' },
+        { text: '📊 Interactive Tables Catalog', link: '/player-guide/supaflex/tables' }
       ],
       '/player-guide/ms3/': [
         {

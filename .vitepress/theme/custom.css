@@ -331,6 +331,19 @@ a.link[href*="#divider"] {
   margin: 4px 0 !important;
 }
 
+/* Style visual separator line between Core Rules and Powers */
+a.VPLink[href*="#sep"],
+a.link[href*="#sep"] {
+  pointer-events: none !important;
+  text-align: center !important;
+  border-bottom: 1px solid var(--vp-c-divider) !important;
+  margin: 10px 12px 10px 12px !important;
+  padding: 0 !important;
+  height: 1px !important;
+  overflow: hidden !important;
+  opacity: 0.6 !important;
+}
+
 /* Highlight Core Rules Manual link in sidebar */
 a.VPLink[href*="/supaflex/rules"] .text {
   font-weight: 700 !important;
