@@ -31,14 +31,21 @@ export default {
     sidebar: {
       '/player-guide/supaflex/': [
         {
-          text: '🌌 SupaFlex System',
+          text: '🌌 SupaFlex Core System',
           collapsed: false,
           items: [
-            { text: '📖 Core Rules Manual', link: '/player-guide/supaflex/rules' },
-            { text: '📊 Interactive Tables Catalog', link: '/player-guide/supaflex/tables' },
+            { text: '📖 Core Rules Manual', link: '/player-guide/supaflex/rules' }
+          ]
+        },
+        {
+          text: '📚 Reference Tables & Catalog',
+          collapsed: false,
+          items: [
             { text: '🔥 Powers Reference', link: '/player-guide/supaflex/powers' },
             { text: '✨ Magic Items Reference', link: '/player-guide/supaflex/magic-items' },
-            { text: '🎓 Skill Sets Reference', link: '/player-guide/supaflex/skillsets' }
+            { text: '🎓 Skill Sets Reference', link: '/player-guide/supaflex/skillsets' },
+            { text: '── OR ──', link: '/player-guide/supaflex/tables#divider' },
+            { text: '📊 Interactive Tables Catalog', link: '/player-guide/supaflex/tables' }
           ]
         }
       ],

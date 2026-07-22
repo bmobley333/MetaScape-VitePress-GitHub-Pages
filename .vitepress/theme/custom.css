@@ -311,3 +311,29 @@ html.route-turbo .VPNavBar {
   border-top-color: var(--ms5-color);
 }
 
+/* Sidebar Section Emphasis & Divider Styling */
+.VPSidebarGroup .title-text {
+  font-weight: 800 !important;
+  letter-spacing: 0.02em;
+}
+
+/* Style the -- OR -- divider item in sidebar */
+a.VPLink[href*="#divider"],
+a.link[href*="#divider"] {
+  pointer-events: none !important;
+  text-align: center !important;
+  opacity: 0.5 !important;
+  font-size: 0.78rem !important;
+  font-weight: 800 !important;
+  letter-spacing: 0.15em !important;
+  color: var(--vp-c-text-2) !important;
+  padding: 6px 0 !important;
+  margin: 4px 0 !important;
+}
+
+/* Highlight Core Rules Manual link in sidebar */
+a.VPLink[href*="/supaflex/rules"] .text {
+  font-weight: 700 !important;
+  color: #10b981 !important;
+}
+
