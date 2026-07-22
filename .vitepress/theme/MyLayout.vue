@@ -11,6 +11,7 @@ const activeEngine = computed(() => {
   if (path.includes('/ms3/')) return 'ms3'
   if (path.includes('/flex/')) return 'flex'
   if (path.includes('/moxie/')) return 'moxie'
+  if (path.includes('/supaflex/')) return 'supaflex'
   if (path.includes('/turbo/')) return 'turbo'
   return null
 })
@@ -18,7 +19,7 @@ const activeEngine = computed(() => {
 const updateClass = (engine) => {
   if (typeof document === 'undefined') return
   const html = document.documentElement
-  html.classList.remove('route-ms3', 'route-flex', 'route-moxie', 'route-turbo')
+  html.classList.remove('route-ms3', 'route-flex', 'route-moxie', 'route-supaflex', 'route-turbo')
   if (engine) {
     html.classList.add(`route-${engine}`)
   }
@@ -40,7 +41,7 @@ onMounted(() => {
       <div v-if="activeEngine" class="engine-indicator-badge" :class="`badge-${activeEngine}`">
         <span class="badge-dot"></span>
         <span class="badge-text">
-          {{ activeEngine === 'ms3' ? 'Flex Legacy (MS3)' : activeEngine === 'flex' ? 'Flex Engine (MS4)' : activeEngine === 'moxie' ? 'Flex Moxie' : 'Turbo Engine (MS5)' }}
+          {{ activeEngine === 'ms3' ? 'Flex Legacy (MS3)' : activeEngine === 'flex' ? 'Flex Engine (MS4)' : activeEngine === 'moxie' ? 'Flex Moxie' : activeEngine === 'supaflex' ? 'SupaFlex' : 'Turbo Engine (MS5)' }}
         </span>
       </div>
     </template>
@@ -84,6 +85,12 @@ onMounted(() => {
   --badge-bg: rgba(219, 39, 119, 0.05);
   --badge-shadow: rgba(219, 39, 119, 0.03);
   --badge-color: var(--moxie-color);
+}
+.badge-supaflex {
+  --badge-border: rgba(16, 185, 129, 0.2);
+  --badge-bg: rgba(16, 185, 129, 0.05);
+  --badge-shadow: rgba(16, 185, 129, 0.03);
+  --badge-color: #10b981;
 }
 .badge-turbo {
   --badge-border: rgba(124, 58, 237, 0.2);

@@ -34,8 +34,20 @@ export default {
       { text: 'Turbo Engine (MS5)', link: '/player-guide/turbo/how-to-play' }
     ],
     sidebar: {
-      // THE PLAYER ZONE SIDEBAR (Swaps completely to user-friendly layouts)
-      '/player-guide/': [
+      '/player-guide/supaflex/': [
+        {
+          text: '🌌 SupaFlex System',
+          collapsed: false,
+          items: [
+            { text: '📖 Core Rules Manual', link: '/player-guide/supaflex/rules' },
+            { text: '📊 Interactive Tables Catalog', link: '/player-guide/supaflex/tables' },
+            { text: '🔥 Powers Reference', link: '/player-guide/supaflex/powers' },
+            { text: '✨ Magic Items Reference', link: '/player-guide/supaflex/magic-items' },
+            { text: '🎓 Skill Sets Reference', link: '/player-guide/supaflex/skillsets' }
+          ]
+        }
+      ],
+      '/player-guide/ms3/': [
         {
           text: '📜 Flex Legacy (MS3)',
           collapsed: false,
@@ -43,7 +55,9 @@ export default {
             { text: 'Core Rules Manual', link: '/player-guide/ms3/rules' },
             { text: 'Character Sheet Options', link: '/player-guide/ms3/character-sheets' }
           ]
-        },
+        }
+      ],
+      '/player-guide/flex/': [
         {
           text: '⚡ Flex Engine (MS4)',
           collapsed: false,
@@ -52,21 +66,18 @@ export default {
             { text: 'Weapons & Gear Specs', link: '/player-guide/flex/equipment' },
             { text: 'Companion Web App Guide', link: '/player-guide/flex/web-app-guide' }
           ]
-        },
+        }
+      ],
+      '/player-guide/moxie/': [
         {
           text: '🌸 Flex Moxie',
           collapsed: false,
           items: [
             { text: 'Core Rules Manual', link: '/player-guide/moxie/rules' }
           ]
-        },
-        {
-          text: '🌌 SupaFlex',
-          collapsed: false,
-          items: [
-            { text: 'Core Rules Manual', link: '/player-guide/supaflex/rules' }
-          ]
-        },
+        }
+      ],
+      '/player-guide/turbo/': [
         {
           text: '🚀 Turbo Engine (MS5)',
           collapsed: false,
