@@ -31,16 +31,10 @@ export default {
     sidebar: {
       '/player-guide/supaflex/': [
         {
-          text: '🌌 SupaFlex Core System',
+          text: '🌌 SupaFlex System',
           collapsed: false,
           items: [
-            { text: '📖 Core Rules Manual', link: '/player-guide/supaflex/rules' }
-          ]
-        },
-        {
-          text: '📚 Reference Tables & Catalog',
-          collapsed: false,
-          items: [
+            { text: '📖 Core Rules Manual', link: '/player-guide/supaflex/rules' },
             { text: '🔥 Powers Reference', link: '/player-guide/supaflex/powers' },
             { text: '✨ Magic Items Reference', link: '/player-guide/supaflex/magic-items' },
             { text: '🎓 Skill Sets Reference', link: '/player-guide/supaflex/skillsets' },
