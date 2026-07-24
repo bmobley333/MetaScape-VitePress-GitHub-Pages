@@ -9404,16 +9404,6 @@
   ],
   "weapons": [
     {
-      "id": 39,
-      "name": "",
-      "type": "",
-      "requirement": "",
-      "max_block": "",
-      "atk_dmg": "",
-      "cost": "",
-      "created_at": "2026-07-24T15:50:03.060268+00:00"
-    },
-    {
       "id": 30,
       "name": "Bastard Sword",
       "type": "Me",
@@ -9822,29 +9812,9 @@
       "atk_dmg": "=Might💪",
       "cost": "8g",
       "created_at": "2026-07-24T15:50:03.060268+00:00"
-    },
-    {
-      "id": 40,
-      "name": "Weapon",
-      "type": "Type",
-      "requirement": "Requirement",
-      "max_block": "Max Block🧱",
-      "atk_dmg": "Atk & Dmg💥",
-      "cost": "Cost💰",
-      "created_at": "2026-07-24T15:50:03.060268+00:00"
     }
   ],
   "armor": [
-    {
-      "id": 30,
-      "name": "",
-      "requirement": "",
-      "dodge": "",
-      "ar": "",
-      "mr": "",
-      "cost": "",
-      "created_at": "2026-07-24T15:50:06.373207+00:00"
-    },
     {
       "id": 29,
       "name": "Arcane Wardsuit",
@@ -9853,16 +9823,6 @@
       "ar": "🧥d12",
       "mr": "👣5",
       "cost": "20g",
-      "created_at": "2026-07-24T15:50:06.373207+00:00"
-    },
-    {
-      "id": 31,
-      "name": "Armor",
-      "requirement": "Requirement",
-      "dodge": "Dodge",
-      "ar": "AR🧥",
-      "mr": "MR👣",
-      "cost": "Cost💰",
       "created_at": "2026-07-24T15:50:06.373207+00:00"
     },
     {

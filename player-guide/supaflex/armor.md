@@ -7,9 +7,7 @@ Master indexed armor directory.
 
 | Armor | Requirement | Dodge | AR | MR | Cost |
 | --- | --- | --- | --- | --- | --- |
-| **** |  |  |  |  |  |
 | **Arcane Wardsuit** | Might💪 d12 | =Motion🏃 | 🧥d12 | 👣5 | 20g |
-| **Armor** | Requirement | Dodge | AR🧥 | MR👣 | Cost💰 |
 | **Banded Armor** | Might💪 d8 | =Motion🏃 | 🧥d8 | 👣6 | 5g |
 | **Brigandine** | Might💪 d6 | =Motion🏃 | 🧥d6 | 👣7 | 3g |
 | **Chain Shirt** | Might💪 d6 | =Motion🏃 | 🧥d6 | 👣7 | 2g |

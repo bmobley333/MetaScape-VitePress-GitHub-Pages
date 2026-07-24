@@ -7,7 +7,6 @@ Master indexed weapons directory.
 
 | Weapon | Type | Requirement | Max Block | Atk & Dmg | Cost |
 | --- | --- | --- | --- | --- | --- |
-| **** |  |  |  |  |  |
 | **Bastard Sword** | Me | Might💪 d10 | 🛡️20 | =Might💪 | 6g |
 | **Battleaxe** | Me | Might💪 d8 | 🛡️16 | =Might💪 | 4g |
 | **Bow (Long)** | Sh | Mind👁️ d6 | X | =Mind👁️ | 3g |
@@ -49,4 +48,3 @@ Master indexed weapons directory.
 | **Warhammer** | Me | Might💪 d8 | 🛡️16 | =Might💪 | 5g |
 | **WarPick** | Me | Might💪 d6 | 🛡️12 | =Might💪 | 2g |
 | **WarScythe** | Me | Might💪 d12 | 🛡️24 | =Might💪 | 8g |
-| **Weapon** | Type | Requirement | Max Block🧱 | Atk & Dmg💥 | Cost💰 |
