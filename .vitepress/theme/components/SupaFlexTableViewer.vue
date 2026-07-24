@@ -254,48 +254,22 @@ const selectCategoryTab = (tab) => {
 <template>
   <div class="supaflex-catalog-container">
     <!-- Primary Category Navigation Bar -->
-    <div class="catalog-nav-tabs">
+    <div class="overview-tab-row">
       <button 
-        class="nav-tab-btn" 
+        class="nav-tab-btn overview-tab-btn" 
         :class="{ active: activeTab === 'overview' }"
         @click="selectCategoryTab('overview')"
       >
         📊 Overview Dashboard
       </button>
-      <button 
-        class="nav-tab-btn" 
-        :class="{ active: activeTab === 'powers' }"
-        @click="selectCategoryTab('powers')"
-      >
-        🔥 Powers ({{ powerCount }})
-      </button>
-      <button 
-        class="nav-tab-btn" 
-        :class="{ active: activeTab === 'magic_items' }"
-        @click="selectCategoryTab('magic_items')"
-      >
-        ✨ Magic Items ({{ itemCount }})
-      </button>
-      <button 
-        class="nav-tab-btn" 
-        :class="{ active: activeTab === 'weapons' }"
-        @click="selectCategoryTab('weapons')"
-      >
-        ⚔️ Weapons ({{ weaponCount }})
-      </button>
+    </div>
+    <div class="catalog-nav-tabs">
       <button 
         class="nav-tab-btn" 
         :class="{ active: activeTab === 'armor' }"
         @click="selectCategoryTab('armor')"
       >
         🧥 Armor ({{ armorCount }})
-      </button>
-      <button 
-        class="nav-tab-btn" 
-        :class="{ active: activeTab === 'shields' }"
-        @click="selectCategoryTab('shields')"
-      >
-        🛡️ Shields ({{ shieldCount }})
       </button>
       <button 
         class="nav-tab-btn" 
@@ -306,6 +280,13 @@ const selectCategoryTab = (tab) => {
       </button>
       <button 
         class="nav-tab-btn" 
+        :class="{ active: activeTab === 'magic_items' }"
+        @click="selectCategoryTab('magic_items')"
+      >
+        ✨ Magic Items ({{ itemCount }})
+      </button>
+      <button 
+        class="nav-tab-btn" 
         :class="{ active: activeTab === 'monsters' }"
         @click="selectCategoryTab('monsters')"
       >
@@ -313,10 +294,31 @@ const selectCategoryTab = (tab) => {
       </button>
       <button 
         class="nav-tab-btn" 
+        :class="{ active: activeTab === 'powers' }"
+        @click="selectCategoryTab('powers')"
+      >
+        🔥 Powers ({{ powerCount }})
+      </button>
+      <button 
+        class="nav-tab-btn" 
+        :class="{ active: activeTab === 'shields' }"
+        @click="selectCategoryTab('shields')"
+      >
+        🛡️ Shields ({{ shieldCount }})
+      </button>
+      <button 
+        class="nav-tab-btn" 
         :class="{ active: activeTab === 'skillsets' }"
         @click="selectCategoryTab('skillsets')"
       >
         🎓 Skill Sets ({{ skillCount }})
+      </button>
+      <button 
+        class="nav-tab-btn" 
+        :class="{ active: activeTab === 'weapons' }"
+        @click="selectCategoryTab('weapons')"
+      >
+        ⚔️ Weapons ({{ weaponCount }})
       </button>
     </div>
 
@@ -938,6 +940,11 @@ const selectCategoryTab = (tab) => {
 .supaflex-catalog-container {
   margin: 1.5rem 0;
   font-family: var(--vp-font-family-base, sans-serif);
+}
+
+.overview-tab-row {
+  display: flex;
+  margin-bottom: 8px;
 }
 
 .catalog-nav-tabs {
