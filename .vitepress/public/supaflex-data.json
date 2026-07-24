@@ -9406,421 +9406,502 @@
     {
       "id": 30,
       "name": "Bastard Sword",
-      "type": "Me",
-      "requirement": "Might💪 d10",
+      "type": "Melee",
+      "requirement": "💪 10",
       "max_block": "🛡️20",
       "atk_dmg": "=Might💪",
       "cost": "6g",
-      "created_at": "2026-07-24T15:50:03.060268+00:00"
+      "created_at": "2026-07-24T15:50:03.060268+00:00",
+      "atk": "💪",
+      "dmg": "💪"
     },
     {
       "id": 18,
       "name": "Battleaxe",
-      "type": "Me",
-      "requirement": "Might💪 d8",
+      "type": "Melee",
+      "requirement": "💪 8",
       "max_block": "🛡️16",
       "atk_dmg": "=Might💪",
       "cost": "4g",
-      "created_at": "2026-07-24T15:50:03.060268+00:00"
+      "created_at": "2026-07-24T15:50:03.060268+00:00",
+      "atk": "💪",
+      "dmg": "💪"
     },
     {
       "id": 14,
       "name": "Bow (Long)",
-      "type": "Sh",
-      "requirement": "Mind👁️ d6",
-      "max_block": "X",
+      "type": "Shot",
+      "requirement": "👁️ 6",
+      "max_block": "n/a",
       "atk_dmg": "=Mind👁️",
       "cost": "3g",
-      "created_at": "2026-07-24T15:50:03.060268+00:00"
+      "created_at": "2026-07-24T15:50:03.060268+00:00",
+      "atk": "👁️",
+      "dmg": "👁️"
     },
     {
       "id": 41,
       "name": "Brawl",
-      "type": "Me",
-      "requirement": "Might💪 d4",
-      "max_block": "X",
+      "type": "Melee",
+      "requirement": "💪 4",
+      "max_block": "n/a",
       "atk_dmg": "=Might💪/Might💪-1d",
       "cost": "X",
-      "created_at": "2026-07-24T15:50:03.060268+00:00"
+      "created_at": "2026-07-24T15:50:03.060268+00:00",
+      "atk": "💪",
+      "dmg": "💪-1d"
     },
     {
       "id": 4,
       "name": "Chain Whip",
-      "type": "Me",
-      "requirement": "Might💪 d4",
+      "type": "Melee",
+      "requirement": "💪 4",
       "max_block": "🛡️8",
       "atk_dmg": "=Might💪",
       "cost": "2g",
-      "created_at": "2026-07-24T15:50:03.060268+00:00"
+      "created_at": "2026-07-24T15:50:03.060268+00:00",
+      "atk": "💪",
+      "dmg": "💪"
     },
     {
       "id": 27,
       "name": "Claymore",
-      "type": "Me",
-      "requirement": "Might💪 d10",
+      "type": "Melee",
+      "requirement": "💪 10",
       "max_block": "🛡️20",
       "atk_dmg": "=Might💪",
       "cost": "6g",
-      "created_at": "2026-07-24T15:50:03.060268+00:00"
+      "created_at": "2026-07-24T15:50:03.060268+00:00",
+      "atk": "💪",
+      "dmg": "💪"
     },
     {
       "id": 13,
       "name": "Crossbow",
-      "type": "Sh",
-      "requirement": "Mind👁️ d6",
-      "max_block": "X",
+      "type": "Shot",
+      "requirement": "👁️ 6",
+      "max_block": "n/a",
       "atk_dmg": "=Mind👁️",
       "cost": "3g",
-      "created_at": "2026-07-24T15:50:03.060268+00:00"
+      "created_at": "2026-07-24T15:50:03.060268+00:00",
+      "atk": "👁️",
+      "dmg": "👁️"
     },
     {
       "id": 25,
       "name": "Crystal Guitar",
-      "type": "Me",
-      "requirement": "Might💪 d8",
+      "type": "Melee",
+      "requirement": "💪 8",
       "max_block": "🛡️16",
       "atk_dmg": "=Might💪",
       "cost": "6g",
-      "created_at": "2026-07-24T15:50:03.060268+00:00"
+      "created_at": "2026-07-24T15:50:03.060268+00:00",
+      "atk": "💪",
+      "dmg": "💪"
     },
     {
       "id": 1,
       "name": "Dagger",
-      "type": "Me / Hu",
-      "requirement": "Might💪 d4 / Motion🏃d4",
+      "type": "Melee, Hurled",
+      "requirement": "💪 4, 🏃 4",
       "max_block": "🛡️8",
       "atk_dmg": "=Might💪 / =Motion🏃",
       "cost": "5s",
-      "created_at": "2026-07-24T15:50:03.060268+00:00"
+      "created_at": "2026-07-24T15:50:03.060268+00:00",
+      "atk": "💪, 🏃",
+      "dmg": "💪, 🏃"
     },
     {
       "id": 34,
       "name": "Dragon Slayer Spear",
-      "type": "Me / Hu",
-      "requirement": "Might💪 d12 / Motion🏃12",
+      "type": "Melee, Hurled",
+      "requirement": "💪 12, 🏃 12",
       "max_block": "🛡️24",
       "atk_dmg": "=Might💪 / =Motion🏃",
       "cost": "9g",
-      "created_at": "2026-07-24T15:50:03.060268+00:00"
+      "created_at": "2026-07-24T15:50:03.060268+00:00",
+      "atk": "💪, 🏃",
+      "dmg": "💪, 🏃"
     },
     {
       "id": 33,
       "name": "Executioner’s Axe",
-      "type": "Me",
-      "requirement": "Might💪 d12",
+      "type": "Melee",
+      "requirement": "💪 12",
       "max_block": "🛡️24",
       "atk_dmg": "=Might💪",
       "cost": "8g",
-      "created_at": "2026-07-24T15:50:03.060268+00:00"
+      "created_at": "2026-07-24T15:50:03.060268+00:00",
+      "atk": "💪",
+      "dmg": "💪"
     },
     {
       "id": 15,
       "name": "Flail",
-      "type": "Me",
-      "requirement": "Might💪 d6",
+      "type": "Melee",
+      "requirement": "💪 6",
       "max_block": "🛡️12",
       "atk_dmg": "=Might💪",
       "cost": "3g",
-      "created_at": "2026-07-24T15:50:03.060268+00:00"
+      "created_at": "2026-07-24T15:50:03.060268+00:00",
+      "atk": "💪",
+      "dmg": "💪"
     },
     {
       "id": 37,
       "name": "Giant Maul",
-      "type": "Me",
-      "requirement": "Might💪 d12",
+      "type": "Melee",
+      "requirement": "💪 12",
       "max_block": "🛡️24",
       "atk_dmg": "=Might💪",
       "cost": "10g",
-      "created_at": "2026-07-24T15:50:03.060268+00:00"
+      "created_at": "2026-07-24T15:50:03.060268+00:00",
+      "atk": "💪",
+      "dmg": "💪"
     },
     {
       "id": 31,
       "name": "Glaive",
-      "type": "Me",
-      "requirement": "Might💪 d10",
+      "type": "Melee",
+      "requirement": "💪 10",
       "max_block": "🛡️20",
       "atk_dmg": "=Might💪",
       "cost": "6g",
-      "created_at": "2026-07-24T15:50:03.060268+00:00"
+      "created_at": "2026-07-24T15:50:03.060268+00:00",
+      "atk": "💪",
+      "dmg": "💪"
     },
     {
       "id": 20,
       "name": "Great Axe",
-      "type": "Me",
-      "requirement": "Might💪 d8",
+      "type": "Melee",
+      "requirement": "💪 8",
       "max_block": "🛡️16",
       "atk_dmg": "=Might💪",
       "cost": "4g",
-      "created_at": "2026-07-24T15:50:03.060268+00:00"
+      "created_at": "2026-07-24T15:50:03.060268+00:00",
+      "atk": "💪",
+      "dmg": "💪"
     },
     {
       "id": 22,
       "name": "Halberd",
-      "type": "Me",
-      "requirement": "Might💪 d8",
+      "type": "Melee",
+      "requirement": "💪 8",
       "max_block": "🛡️16",
       "atk_dmg": "=Might💪",
       "cost": "4g",
-      "created_at": "2026-07-24T15:50:03.060268+00:00"
+      "created_at": "2026-07-24T15:50:03.060268+00:00",
+      "atk": "💪",
+      "dmg": "💪"
     },
     {
       "id": 5,
       "name": "Hand Axe",
-      "type": "Me / Hu",
-      "requirement": "Might💪 d4 / Motion🏃d4",
+      "type": "Melee, Hurled",
+      "requirement": "💪 4, 🏃 4",
       "max_block": "🛡️8",
       "atk_dmg": "=Might💪 / =Motion🏃",
       "cost": "2g",
-      "created_at": "2026-07-24T15:50:03.060268+00:00"
+      "created_at": "2026-07-24T15:50:03.060268+00:00",
+      "atk": "💪, 🏃",
+      "dmg": "💪, 🏃"
     },
     {
       "id": 26,
       "name": "Heavy Crossbow",
-      "type": "Sh",
-      "requirement": "Mind👁️ d8",
-      "max_block": "X",
+      "type": "Shot",
+      "requirement": "👁️ 8",
+      "max_block": "n/a",
       "atk_dmg": "=Mind👁️",
       "cost": "5g",
-      "created_at": "2026-07-24T15:50:03.060268+00:00"
+      "created_at": "2026-07-24T15:50:03.060268+00:00",
+      "atk": "👁️",
+      "dmg": "👁️"
     },
     {
       "id": 32,
       "name": "Heavy Flail",
-      "type": "Me",
-      "requirement": "Might💪 d10",
+      "type": "Melee",
+      "requirement": "💪 10",
       "max_block": "🛡️20",
       "atk_dmg": "=Might💪",
       "cost": "5g",
-      "created_at": "2026-07-24T15:50:03.060268+00:00"
+      "created_at": "2026-07-24T15:50:03.060268+00:00",
+      "atk": "💪",
+      "dmg": "💪"
     },
     {
       "id": 42,
       "name": "Improvised",
-      "type": "Me",
-      "requirement": "Might💪 d4",
+      "type": "Melee",
+      "requirement": "💪 4",
       "max_block": "🛡️6",
       "atk_dmg": "=Might💪/Might💪-1d",
       "cost": "X",
-      "created_at": "2026-07-24T15:50:03.060268+00:00"
+      "created_at": "2026-07-24T15:50:03.060268+00:00",
+      "atk": "💪-1d",
+      "dmg": "💪"
     },
     {
       "id": 7,
       "name": "Light Crossbow",
-      "type": "Sh",
-      "requirement": "Mind👁️ d4",
-      "max_block": "X",
+      "type": "Shot",
+      "requirement": "👁️ 4",
+      "max_block": "n/a",
       "atk_dmg": "=Mind👁️",
       "cost": "2g",
-      "created_at": "2026-07-24T15:50:03.060268+00:00"
+      "created_at": "2026-07-24T15:50:03.060268+00:00",
+      "atk": "👁️",
+      "dmg": "👁️"
     },
     {
       "id": 12,
       "name": "Longsword",
-      "type": "Me",
-      "requirement": "Might💪 d6",
+      "type": "Melee",
+      "requirement": "💪 6",
       "max_block": "🛡️12",
       "atk_dmg": "=Might💪",
       "cost": "3g",
-      "created_at": "2026-07-24T15:50:03.060268+00:00"
+      "created_at": "2026-07-24T15:50:03.060268+00:00",
+      "atk": "💪",
+      "dmg": "💪"
     },
     {
       "id": 21,
       "name": "Mace (Heavy)",
-      "type": "Me",
-      "requirement": "Might💪 d8",
+      "type": "Melee",
+      "requirement": "💪 8",
       "max_block": "🛡️16",
       "atk_dmg": "=Might💪",
       "cost": "3g",
-      "created_at": "2026-07-24T15:50:03.060268+00:00"
+      "created_at": "2026-07-24T15:50:03.060268+00:00",
+      "atk": "💪",
+      "dmg": "💪"
     },
     {
       "id": 28,
       "name": "Morningstar",
-      "type": "Me",
-      "requirement": "Might💪 d10",
+      "type": "Melee",
+      "requirement": "💪 10",
       "max_block": "🛡️20",
       "atk_dmg": "=Might💪",
       "cost": "5g",
-      "created_at": "2026-07-24T15:50:03.060268+00:00"
+      "created_at": "2026-07-24T15:50:03.060268+00:00",
+      "atk": "💪",
+      "dmg": "💪"
     },
     {
       "id": 17,
       "name": "Neon Skateboard",
-      "type": "Me",
-      "requirement": "Might💪 d6",
+      "type": "Melee",
+      "requirement": "💪 6",
       "max_block": "🛡️12",
       "atk_dmg": "=Might💪",
       "cost": "3g",
-      "created_at": "2026-07-24T15:50:03.060268+00:00"
+      "created_at": "2026-07-24T15:50:03.060268+00:00",
+      "atk": "💪",
+      "dmg": "💪"
     },
     {
       "id": 29,
       "name": "Pike",
-      "type": "Me",
-      "requirement": "Might💪 d10",
+      "type": "Melee",
+      "requirement": "💪 10",
       "max_block": "🛡️20",
       "atk_dmg": "=Might💪",
       "cost": "5g",
-      "created_at": "2026-07-24T15:50:03.060268+00:00"
+      "created_at": "2026-07-24T15:50:03.060268+00:00",
+      "atk": "💪",
+      "dmg": "💪"
     },
     {
       "id": 24,
       "name": "Pipe Wrench",
-      "type": "Me",
-      "requirement": "Might💪 d8",
+      "type": "Melee",
+      "requirement": "💪 8",
       "max_block": "🛡️16",
       "atk_dmg": "=Might💪",
       "cost": "3g",
-      "created_at": "2026-07-24T15:50:03.060268+00:00"
+      "created_at": "2026-07-24T15:50:03.060268+00:00",
+      "atk": "💪",
+      "dmg": "💪"
     },
     {
       "id": 23,
       "name": "Polearm",
-      "type": "Me",
-      "requirement": "Might💪 d8",
+      "type": "Melee",
+      "requirement": "💪 8",
       "max_block": "🛡️16",
       "atk_dmg": "=Might💪",
       "cost": "4g",
-      "created_at": "2026-07-24T15:50:03.060268+00:00"
+      "created_at": "2026-07-24T15:50:03.060268+00:00",
+      "atk": "💪",
+      "dmg": "💪"
     },
     {
       "id": 3,
       "name": "Quarterstaff",
-      "type": "Me",
-      "requirement": "Might💪 d4",
+      "type": "Melee",
+      "requirement": "💪 4",
       "max_block": "🛡️8",
       "atk_dmg": "=Might💪",
       "cost": "1g",
-      "created_at": "2026-07-24T15:50:03.060268+00:00"
+      "created_at": "2026-07-24T15:50:03.060268+00:00",
+      "atk": "💪",
+      "dmg": "💪"
     },
     {
       "id": 11,
       "name": "Scimitar",
-      "type": "Me",
-      "requirement": "Might💪 d6",
+      "type": "Melee",
+      "requirement": "💪 6",
       "max_block": "🛡️12",
       "atk_dmg": "=Might💪",
       "cost": "3g",
-      "created_at": "2026-07-24T15:50:03.060268+00:00"
+      "created_at": "2026-07-24T15:50:03.060268+00:00",
+      "atk": "💪",
+      "dmg": "💪"
     },
     {
       "id": 2,
       "name": "Short Sword",
-      "type": "Me",
-      "requirement": "Might💪 d4",
+      "type": "Melee",
+      "requirement": "💪 4",
       "max_block": "🛡️8",
       "atk_dmg": "=Might💪",
       "cost": "1g",
-      "created_at": "2026-07-24T15:50:03.060268+00:00"
+      "created_at": "2026-07-24T15:50:03.060268+00:00",
+      "atk": "💪",
+      "dmg": "💪"
     },
     {
       "id": 6,
       "name": "Sickle",
-      "type": "Me",
-      "requirement": "Might💪 d4",
+      "type": "Melee",
+      "requirement": "💪 4",
       "max_block": "🛡️8",
       "atk_dmg": "=Might💪",
       "cost": "1g",
-      "created_at": "2026-07-24T15:50:03.060268+00:00"
+      "created_at": "2026-07-24T15:50:03.060268+00:00",
+      "atk": "💪",
+      "dmg": "💪"
     },
     {
       "id": 38,
       "name": "Siege Hammer",
-      "type": "Me",
-      "requirement": "Might💪 d12",
+      "type": "Melee",
+      "requirement": "💪 12",
       "max_block": "🛡️24",
       "atk_dmg": "=Might💪",
       "cost": "10g",
-      "created_at": "2026-07-24T15:50:03.060268+00:00"
+      "created_at": "2026-07-24T15:50:03.060268+00:00",
+      "atk": "💪",
+      "dmg": "💪"
     },
     {
       "id": 10,
       "name": "Spear",
-      "type": "Me / Hu",
-      "requirement": "Might💪 d6 / Motion🏃d6",
+      "type": "Melee, Hurled",
+      "requirement": "💪 6, 🏃 6",
       "max_block": "🛡️12",
       "atk_dmg": "=Might💪 / =Motion🏃",
       "cost": "2g",
-      "created_at": "2026-07-24T15:50:03.060268+00:00"
+      "created_at": "2026-07-24T15:50:03.060268+00:00",
+      "atk": "💪, 🏃",
+      "dmg": "💪, 🏃"
     },
     {
       "id": 43,
       "name": "Throw Object",
-      "type": "Hu",
-      "requirement": "Motion💪 d4",
-      "max_block": "X",
+      "type": "Hurled",
+      "requirement": "🏃 4",
+      "max_block": "n/a",
       "atk_dmg": "=Motion🏃/Motion🏃-1d",
       "cost": "X",
-      "created_at": "2026-07-24T15:50:03.060268+00:00"
+      "created_at": "2026-07-24T15:50:03.060268+00:00",
+      "atk": "🏃",
+      "dmg": "💪-1d"
     },
     {
       "id": 8,
       "name": "Throwing Knives (set)",
-      "type": "Hu",
-      "requirement": "Motion🏃 d4",
-      "max_block": "X",
+      "type": "Hurled",
+      "requirement": "🏃 4",
+      "max_block": "n/a",
       "atk_dmg": "=Motion🏃",
       "cost": "2g",
-      "created_at": "2026-07-24T15:50:03.060268+00:00"
+      "created_at": "2026-07-24T15:50:03.060268+00:00",
+      "atk": "🏃",
+      "dmg": "🏃"
     },
     {
       "id": 35,
       "name": "Tower Crossbow",
-      "type": "Sh",
-      "requirement": "Mind👁️ d12",
-      "max_block": "X",
+      "type": "Shot",
+      "requirement": "👁️ 12",
+      "max_block": "n/a",
       "atk_dmg": "=Mind👁️",
       "cost": "8g",
-      "created_at": "2026-07-24T15:50:03.060268+00:00"
+      "created_at": "2026-07-24T15:50:03.060268+00:00",
+      "atk": "👁️",
+      "dmg": "👁️"
     },
     {
       "id": 16,
       "name": "Trident",
-      "type": "Me / Hu",
-      "requirement": "Might💪 d6 / Motion🏃d6",
+      "type": "Melee, Hurled",
+      "requirement": "💪 6, 🏃 6",
       "max_block": "🛡️12",
       "atk_dmg": "=Might💪 / =Motion🏃",
       "cost": "3g",
-      "created_at": "2026-07-24T15:50:03.060268+00:00"
+      "created_at": "2026-07-24T15:50:03.060268+00:00",
+      "atk": "💪, 🏃",
+      "dmg": "💪, 🏃"
     },
     {
       "id": 19,
       "name": "Warhammer",
-      "type": "Me",
-      "requirement": "Might💪 d8",
+      "type": "Melee",
+      "requirement": "💪 8",
       "max_block": "🛡️16",
       "atk_dmg": "=Might💪",
       "cost": "5g",
-      "created_at": "2026-07-24T15:50:03.060268+00:00"
+      "created_at": "2026-07-24T15:50:03.060268+00:00",
+      "atk": "💪",
+      "dmg": "💪"
     },
     {
       "id": 9,
       "name": "WarPick",
-      "type": "Me",
-      "requirement": "Might💪 d6",
+      "type": "Melee",
+      "requirement": "💪 6",
       "max_block": "🛡️12",
       "atk_dmg": "=Might💪",
       "cost": "2g",
-      "created_at": "2026-07-24T15:50:03.060268+00:00"
+      "created_at": "2026-07-24T15:50:03.060268+00:00",
+      "atk": "💪",
+      "dmg": "💪"
     },
     {
       "id": 36,
       "name": "WarScythe",
-      "type": "Me",
-      "requirement": "Might💪 d12",
+      "type": "Melee",
+      "requirement": "💪 12",
       "max_block": "🛡️24",
       "atk_dmg": "=Might💪",
       "cost": "8g",
-      "created_at": "2026-07-24T15:50:03.060268+00:00"
+      "created_at": "2026-07-24T15:50:03.060268+00:00",
+      "atk": "💪",
+      "dmg": "💪"
     }
   ],
   "armor": [
     {
       "id": 29,
       "name": "Arcane Wardsuit",
-      "requirement": "Might💪 d12",
-      "dodge": "=Motion🏃",
-      "ar": "🧥d12",
+      "requirement": "💪 12",
+      "ar": "🧥12",
       "mr": "👣5",
       "cost": "20g",
       "created_at": "2026-07-24T15:50:06.373207+00:00"
@@ -9828,9 +9909,8 @@
     {
       "id": 18,
       "name": "Banded Armor",
-      "requirement": "Might💪 d8",
-      "dodge": "=Motion🏃",
-      "ar": "🧥d8",
+      "requirement": "💪 8",
+      "ar": "🧥8",
       "mr": "👣6",
       "cost": "5g",
       "created_at": "2026-07-24T15:50:06.373207+00:00"
@@ -9838,9 +9918,8 @@
     {
       "id": 11,
       "name": "Brigandine",
-      "requirement": "Might💪 d6",
-      "dodge": "=Motion🏃",
-      "ar": "🧥d6",
+      "requirement": "💪 6",
+      "ar": "🧥6",
       "mr": "👣7",
       "cost": "3g",
       "created_at": "2026-07-24T15:50:06.373207+00:00"
@@ -9848,9 +9927,8 @@
     {
       "id": 7,
       "name": "Chain Shirt",
-      "requirement": "Might💪 d6",
-      "dodge": "=Motion🏃",
-      "ar": "🧥d6",
+      "requirement": "💪 6",
+      "ar": "🧥6",
       "mr": "👣7",
       "cost": "2g",
       "created_at": "2026-07-24T15:50:06.373207+00:00"
@@ -9858,9 +9936,8 @@
     {
       "id": 3,
       "name": "Denim Battle Vest",
-      "requirement": "Might💪 d4",
-      "dodge": "=Motion🏃",
-      "ar": "🧥d4",
+      "requirement": "💪 4",
+      "ar": "🧥4",
       "mr": "👣8",
       "cost": "1g",
       "created_at": "2026-07-24T15:50:06.373207+00:00"
@@ -9868,9 +9945,8 @@
     {
       "id": 25,
       "name": "Dragon Scale Armor",
-      "requirement": "Might💪 d12",
-      "dodge": "=Motion🏃",
-      "ar": "🧥d12",
+      "requirement": "💪 12",
+      "ar": "🧥12",
       "mr": "👣5",
       "cost": "12g",
       "created_at": "2026-07-24T15:50:06.373207+00:00"
@@ -9878,9 +9954,8 @@
     {
       "id": 20,
       "name": "Field Plate",
-      "requirement": "Might💪 d10",
-      "dodge": "=Motion🏃",
-      "ar": "🧥d10",
+      "requirement": "💪 10",
+      "ar": "🧥10",
       "mr": "👣6",
       "cost": "7g",
       "created_at": "2026-07-24T15:50:06.373207+00:00"
@@ -9888,9 +9963,8 @@
     {
       "id": 24,
       "name": "Full Plate",
-      "requirement": "Might💪 d12",
-      "dodge": "=Motion🏃",
-      "ar": "🧥d12",
+      "requirement": "💪 12",
+      "ar": "🧥12",
       "mr": "👣5",
       "cost": "10g",
       "created_at": "2026-07-24T15:50:06.373207+00:00"
@@ -9898,9 +9972,8 @@
     {
       "id": 5,
       "name": "Gambeson",
-      "requirement": "Might💪 d4",
-      "dodge": "=Motion🏃",
-      "ar": "🧥d4",
+      "requirement": "💪 4",
+      "ar": "🧥4",
       "mr": "👣8",
       "cost": "2g",
       "created_at": "2026-07-24T15:50:06.373207+00:00"
@@ -9908,9 +9981,8 @@
     {
       "id": 4,
       "name": "Glowweave Robe",
-      "requirement": "Might💪 d4",
-      "dodge": "=Motion🏃",
-      "ar": "🧥d4",
+      "requirement": "💪 4",
+      "ar": "🧥4",
       "mr": "👣8",
       "cost": "2g",
       "created_at": "2026-07-24T15:50:06.373207+00:00"
@@ -9918,9 +9990,8 @@
     {
       "id": 19,
       "name": "Half-Plate",
-      "requirement": "Might💪 d10",
-      "dodge": "=Motion🏃",
-      "ar": "🧥d10",
+      "requirement": "💪 10",
+      "ar": "🧥10",
       "mr": "👣6",
       "cost": "6g",
       "created_at": "2026-07-24T15:50:06.373207+00:00"
@@ -9928,9 +9999,8 @@
     {
       "id": 23,
       "name": "Hardened Riot Exo-Suit",
-      "requirement": "Might💪 d10",
-      "dodge": "=Motion🏃",
-      "ar": "🧥d10",
+      "requirement": "💪 10",
+      "ar": "🧥10",
       "mr": "👣6",
       "cost": "8g",
       "created_at": "2026-07-24T15:50:06.373207+00:00"
@@ -9938,9 +10008,8 @@
     {
       "id": 22,
       "name": "Heavy Laminar",
-      "requirement": "Might💪 d10",
-      "dodge": "=Motion🏃",
-      "ar": "🧥d10",
+      "requirement": "💪 10",
+      "ar": "🧥10",
       "mr": "👣6",
       "cost": "6g",
       "created_at": "2026-07-24T15:50:06.373207+00:00"
@@ -9948,9 +10017,8 @@
     {
       "id": 8,
       "name": "Hide Armor",
-      "requirement": "Might💪 d6",
-      "dodge": "=Motion🏃",
-      "ar": "🧥d6",
+      "requirement": "💪 6",
+      "ar": "🧥6",
       "mr": "👣7",
       "cost": "1g",
       "created_at": "2026-07-24T15:50:06.373207+00:00"
@@ -9958,9 +10026,8 @@
     {
       "id": 12,
       "name": "Lamellar Armor",
-      "requirement": "Might💪 d6",
-      "dodge": "=Motion🏃",
-      "ar": "🧥d6",
+      "requirement": "💪 6",
+      "ar": "🧥6",
       "mr": "👣7",
       "cost": "3g",
       "created_at": "2026-07-24T15:50:06.373207+00:00"
@@ -9968,9 +10035,8 @@
     {
       "id": 2,
       "name": "Leather Jacket",
-      "requirement": "Might💪 d4",
-      "dodge": "=Motion🏃",
-      "ar": "🧥d4",
+      "requirement": "💪 4",
+      "ar": "🧥4",
       "mr": "👣8",
       "cost": "1g",
       "created_at": "2026-07-24T15:50:06.373207+00:00"
@@ -9978,9 +10044,8 @@
     {
       "id": 26,
       "name": "Mithril Mail",
-      "requirement": "Might💪 d12",
-      "dodge": "=Motion🏃",
-      "ar": "🧥d12",
+      "requirement": "💪 12",
+      "ar": "🧥12",
       "mr": "👣5",
       "cost": "15g",
       "created_at": "2026-07-24T15:50:06.373207+00:00"
@@ -9988,9 +10053,8 @@
     {
       "id": 27,
       "name": "Obsidian Carapace",
-      "requirement": "Might💪 d12",
-      "dodge": "=Motion🏃",
-      "ar": "🧥d12",
+      "requirement": "💪 12",
+      "ar": "🧥12",
       "mr": "👣5",
       "cost": "15g",
       "created_at": "2026-07-24T15:50:06.373207+00:00"
@@ -9998,9 +10062,8 @@
     {
       "id": 1,
       "name": "Padded Cloth",
-      "requirement": "Might💪 d4",
-      "dodge": "=Motion🏃",
-      "ar": "🧥d4",
+      "requirement": "💪 4",
+      "ar": "🧥4",
       "mr": "👣8",
       "cost": "5s",
       "created_at": "2026-07-24T15:50:06.373207+00:00"
@@ -10008,9 +10071,8 @@
     {
       "id": 13,
       "name": "Plate Harness",
-      "requirement": "Might💪 d8",
-      "dodge": "=Motion🏃",
-      "ar": "🧥d8",
+      "requirement": "💪 8",
+      "ar": "🧥8",
       "mr": "👣6",
       "cost": "5g",
       "created_at": "2026-07-24T15:50:06.373207+00:00"
@@ -10018,9 +10080,8 @@
     {
       "id": 16,
       "name": "Riot Gear",
-      "requirement": "Might💪 d8",
-      "dodge": "=Motion🏃",
-      "ar": "🧥d8",
+      "requirement": "💪 8",
+      "ar": "🧥8",
       "mr": "👣6",
       "cost": "4g",
       "created_at": "2026-07-24T15:50:06.373207+00:00"
@@ -10028,9 +10089,8 @@
     {
       "id": 21,
       "name": "Samurai Armor",
-      "requirement": "Might💪 d10",
-      "dodge": "=Motion🏃",
-      "ar": "🧥d10",
+      "requirement": "💪 10",
+      "ar": "🧥10",
       "mr": "👣6",
       "cost": "7g",
       "created_at": "2026-07-24T15:50:06.373207+00:00"
@@ -10038,9 +10098,8 @@
     {
       "id": 9,
       "name": "Scale Mail",
-      "requirement": "Might💪 d6",
-      "dodge": "=Motion🏃",
-      "ar": "🧥d6",
+      "requirement": "💪 6",
+      "ar": "🧥6",
       "mr": "👣7",
       "cost": "3g",
       "created_at": "2026-07-24T15:50:06.373207+00:00"
@@ -10048,9 +10107,8 @@
     {
       "id": 15,
       "name": "Spiked Armor",
-      "requirement": "Might💪 d8",
-      "dodge": "=Motion🏃",
-      "ar": "🧥d8",
+      "requirement": "💪 8",
+      "ar": "🧥8",
       "mr": "👣6",
       "cost": "5g",
       "created_at": "2026-07-24T15:50:06.373207+00:00"
@@ -10058,9 +10116,8 @@
     {
       "id": 17,
       "name": "Splint Mail",
-      "requirement": "Might💪 d8",
-      "dodge": "=Motion🏃",
-      "ar": "🧥d8",
+      "requirement": "💪 8",
+      "ar": "🧥8",
       "mr": "👣6",
       "cost": "5g",
       "created_at": "2026-07-24T15:50:06.373207+00:00"
@@ -10068,9 +10125,8 @@
     {
       "id": 14,
       "name": "Stoneform Armor",
-      "requirement": "Might💪 d8",
-      "dodge": "=Motion🏃",
-      "ar": "🧥d8",
+      "requirement": "💪 8",
+      "ar": "🧥8",
       "mr": "👣6",
       "cost": "6g",
       "created_at": "2026-07-24T15:50:06.373207+00:00"
@@ -10078,9 +10134,8 @@
     {
       "id": 10,
       "name": "Tactical Vest",
-      "requirement": "Might💪 d6",
-      "dodge": "=Motion🏃",
-      "ar": "🧥d6",
+      "requirement": "💪 6",
+      "ar": "🧥6",
       "mr": "👣7",
       "cost": "3g",
       "created_at": "2026-07-24T15:50:06.373207+00:00"
@@ -10088,9 +10143,8 @@
     {
       "id": 28,
       "name": "Tower Shield Harness",
-      "requirement": "Might💪 d12",
-      "dodge": "=Motion🏃",
-      "ar": "🧥d12",
+      "requirement": "💪 12",
+      "ar": "🧥12",
       "mr": "👣5",
       "cost": "9g",
       "created_at": "2026-07-24T15:50:06.373207+00:00"
@@ -10098,9 +10152,8 @@
     {
       "id": 6,
       "name": "Traveler’s Cloak",
-      "requirement": "Might💪 d4",
-      "dodge": "=Motion🏃",
-      "ar": "🧥d4",
+      "requirement": "💪 4",
+      "ar": "🧥4",
       "mr": "👣8",
       "cost": "1g",
       "created_at": "2026-07-24T15:50:06.373207+00:00"
@@ -10108,11 +10161,10 @@
     {
       "id": 32,
       "name": "Unarmored",
-      "requirement": "X",
-      "dodge": "=Motion🏃",
+      "requirement": "💪 0",
       "ar": "🧥1",
       "mr": "👣9",
-      "cost": "X",
+      "cost": "0s",
       "created_at": "2026-07-24T15:50:06.373207+00:00"
     }
   ],
@@ -10120,7 +10172,7 @@
     {
       "id": 2,
       "name": "Heater Shield",
-      "requirement": "Might💪 d6",
+      "requirement": "💪 6",
       "max_block": "🛡️16",
       "mr": "👣–1",
       "description": "Iconic knight’s shield, shaped like an inverted triangle.",
@@ -10130,7 +10182,7 @@
     {
       "id": 3,
       "name": "Kite Shield",
-      "requirement": "Might💪 d8",
+      "requirement": "💪 8",
       "max_block": "🛡️20",
       "mr": "👣–2",
       "description": "Long tapered shield, excellent for infantry formations.",
@@ -10140,7 +10192,7 @@
     {
       "id": 1,
       "name": "Round Shield",
-      "requirement": "Might💪 d4",
+      "requirement": "💪 4",
       "max_block": "🛡️12",
       "mr": "👣0",
       "description": "Mid-sized wooden shield, classic adventurer gear.",
@@ -10150,7 +10202,7 @@
     {
       "id": 5,
       "name": "Siege Wall Shield",
-      "requirement": "Might💪 d12",
+      "requirement": "💪 12",
       "max_block": "🛡️28",
       "mr": "👣-4",
       "description": "Oversized heavy wood-and-iron shield, used in sieges.",
@@ -10160,7 +10212,7 @@
     {
       "id": 4,
       "name": "Tower Shield",
-      "requirement": "Might💪 d10",
+      "requirement": "💪 10",
       "max_block": "🛡️24",
       "mr": "👣-3",
       "description": "Huge slab shield, nearly full-body cover.",
