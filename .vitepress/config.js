@@ -8,7 +8,7 @@ export default {
     ['link', { rel: 'icon', href: '/MetaScape-VitePress-GitHub-Pages/jodar.ico' }]
   ],
   themeConfig: {
-    outline: [2, 4],
+    outline: [2, 2],
     logo: '/jodar.ico',
     search: {
       provider: 'local',
