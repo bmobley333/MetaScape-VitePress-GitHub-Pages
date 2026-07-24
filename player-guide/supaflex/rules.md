@@ -1,7 +1,6 @@
+# ⚡ SupaFlex Rules Manual
 
-⚡ SupaFlex Rules
-
-# ✅ System Philosophy & Guiding Principles
+## ✅ System Philosophy & Guiding Principles
 
 🎬 Cinematic – Big swing dice (d20 + Atr Die) create dramatic highs and lows that feel like movie moments. Every roll should carry weight, producing stories worth retelling.
 
@@ -21,7 +20,7 @@
 
 📉 Minimal Tracking – Players should track only Vit and Luck chits whenever possible. Low overhead means more energy spent on roleplay, tactics, and fun.
 
-# 🙂Emojis
+## 🙂Emojis
 
 Emojis🙂 are used in MetaScape for rapid identification of key stats and words. They are used in several ways and formats:
 
@@ -117,7 +116,7 @@ Example Monster Stats:
 
 4 Orc Guards (Heavy Leather, Scimitars, Bucklers) 🚩14, 👣10, ⚔️18/12(2), 🛡️16/2, ❤️12 – [💪18/🏃12/👁️10/✨10/🫀12] (Poisoned blades Magic✨ or Weakened).
 
-## 📝 Definitions
+### 📝 Definitions
 
 This section serves as both the abbreviation reference and the full word definition area for the system. Each entry begins with the common abbreviation (if any), followed by the full term in parentheses. All entries are alphabetized for quick reference.
 
@@ -233,9 +232,9 @@ Wnd🩸 (Wounds) – Damage sustained after AR🧥 or other reduction is applie
 
 Wpn⚔️ (Weapon) – A held weapon such as a sword
 
-## 🎲 Die Mechanics
+### 🎲 Die Mechanics
 
-### Die Notation
+#### Die Notation
 
 Dice notation follows standard TTRPG shorthand. For example, 2d8+12 means roll two eight-sided dice, add the results together, then add +12.
 
@@ -265,7 +264,7 @@ For d14: roll a d20 until you get 1–14, reroll 15+.
 
 If any die is cocked, rolls off the table, is the wrong type, or you forgot a die: reroll the ENTIRE set.
 
-### Ability Check / Ability Roll
+#### Ability Check / Ability Roll
 
 An Ability Roll (also called Ability Check) is:
 
@@ -287,7 +286,7 @@ Example: A Skilled dagger Atk⚔️ with Might💪 d8 and +1 bonus:
 
 Result = 17 + 5 + 1 = 23.
 
-### Exploding Attribute Dice
+#### Exploding Attribute Dice
 
 Whenever an Attribute die (or Armor/Damage die) rolls its maximum face, reroll that die and add the new result.
 
@@ -295,7 +294,7 @@ Comparison Rolls: On any check that resolves as a comparison vs. a target (such
 
 Single Die Rolls: On rolls that yield a single value (such as Damage and Armor rolls), the die follows the Single Die Rule (single-explode capped) — it rerolls once on max face and adds, but that reroll cannot itself explode.
 
-### Difficulty Ladder
+#### Difficulty Ladder
 
 Easy = 10
 
@@ -307,7 +306,7 @@ Very Hard = 20
 
 Extreme = 24 Note: Ties always go to PCs.
 
-### Skilled, Unskilled, Advantage, Disadvantage
+#### Skilled, Unskilled, Advantage, Disadvantage
 
 Examples use for all of below: Sword Atk⚔️, Might💪 d8, +1 bonus.
 
@@ -329,7 +328,7 @@ If Skilled → 1d20 + d8 + 1.
 
 Note: There is no such thing as double or triple advantage or disadvantage. Once you have advantage additional indications of advantage do not stack - they simply confirm the ONE advantage. Same for disadvantage. If a character has both then they cancel in equal numbers. So in a super rare 2 advantages and one disadvantage there would be ONE advantage.
 
-### Ability Roll Combinations
+#### Ability Roll Combinations
 
 This table shows all possible combinations of Ability Rolls (#d20).
 
@@ -340,7 +339,7 @@ This table shows all possible combinations of Ability Rolls (#d20).
 | 2H20 | Skilled🎓 | Unskilled with Advantage |  | 2H20 + d8 + 1 |
 | 3H20 |  | Skilled🎓 with Advantage |  | 3H20 + d8 + 1 |
 
-## 🌟 Tremendous & 💀 Critical
+### 🌟 Tremendous & 💀 Critical
 
 All Ability Roll results stand as success or failure regardless of Tremendous or Critical effects. A Tremendous or Critical does not override the numbers — a natural 20 does not guarantee success, and a natural 1 does not guarantee failure. The roll result still determines success or failure. However, Tremendous rolls trigger beneficial narrative effects , and Critical rolls trigger detrimental narrative effects , as determined by the GM🔎.
 
@@ -348,7 +347,7 @@ Tremendous🌟 → Natural 20 on any d20 during an Ability Roll.
 
 Critical💀 → Natural 1 on any d20 during an Ability Roll.
 
-### Double / Triple Results:
+#### Double / Triple Results:
 
 Double Tremendous🌟🌟 → Two natural 20s in one roll (1 in 400 chance).
 
@@ -366,7 +365,7 @@ Double = very significant negative effect.
 
 Triple = catastrophic negative effect.
 
-### Mixed Rolls (Adv + Dis):
+#### Mixed Rolls (Adv + Dis):
 
 Default Rule → Any Tremendous🌟 overrides all Criticals💀. This keeps play simple and favors PCs.
 
@@ -408,7 +407,7 @@ Triple Critical Defense🛡️ – You not only fail to defend but stumble dire
 
 Triple Critical Skill Check🎓 – The ritual backfires explosively — you not only fail but unleash a magical surge that Afflicts allies nearby with random conditions and causes the ceiling to collapse on all for 14 Dmg💥, save vs Dif 18 for half.
 
-## 🎲 GM Intensity Die
+### 🎲 GM Intensity Die
 
 The GM🔎 should keep a single d20 for quick, one-off results . This die never uses bonuses, multiple dice, or add-ons. It provides a snap judgment when randomness or intensity is needed.
 
@@ -442,7 +441,7 @@ Optional Rule:
 
 Experienced GMs may roll the Intensity Die for “rough” Tremendous🌟 or Critical💀 resolution. Larger rolls mean bigger effects; smaller rolls reduce the impact. A 1 cancels the effect entirely.
 
-# ✅ Attributes
+## ✅ Attributes
 
 Each character begins with five core Attributes (Atr✅). Each Attribute is expressed as a die type: d4, d6, d8, d10, or d12. These represent a character’s natural ability in that category.
 
@@ -468,11 +467,11 @@ Balance Note:
 
 All Attributes are equally important. Mgt💪 is not inherently better than Mnd👁️, nor Mot🏃 better than Mag✨ or Mox🫀. Players succeed by leveraging their strongest dice in creative ways.
 
-## ✅ Atr Tags
+### ✅ Atr Tags
 
 All abilities and items show their governing Atr: Might💪, Motion🏃, Mind👁️, Magic✨, or Moxie🫀 that they provide a buff to or use as an ability roll.
 
-# 🔮 Focus Die
+## 🔮 Focus Die
 
 Focus is a core PC resource represented by a single die on the same d4→d6→d8→d10→d12 step ladder as attributes.
 
@@ -504,7 +503,7 @@ Luck: Redo the whole roll (pure variance mitigation).
 
 Focus: Add to the roll already made (deliberate agency/boost).
 
-# 🧾 Character Creation
+## 🧾 Character Creation
 
 Concept First: Any idea works — punk knight, techno-bard, gargoyle hero, soda rogue, etc.
 
@@ -614,9 +613,9 @@ Begin with one randomly rolled Minor🍺 Magic Item✨ from the general or perso
 
 Luck🍀: Begin each Session with 3 Luck chits (max 5).
 
-# ⭐ Leveling/Advancement
+## ⭐ Leveling/Advancement
 
-## Advancement Philosophy
+### Advancement Philosophy
 
 Incremental, not exponential → Growth comes from new tricks, not huge Powers🔥 spikes.
 
@@ -626,15 +625,15 @@ Cinematic growth → Luck, quirks, and Powers🔥 drive memorable play moments.
 
 Customization first → Players shape advancement to match their character’s story, not a rigid class track.
 
-## ⭐ Step 1 — Level⭐ and AP🧩
+### ⭐ Step 1 — Level⭐ and AP🧩
 
 At the end of each large encounter at GM’s discretion, every player receives 1 Level⭐ and 2 Advancement Points (AP🧩). Thus, a character's Level matches their milestone progress, and they receive 2 AP🧩 per level to spend on horizontal options or vertical step-ups.
 
-## 🎲 Step 2 — Vit❤️ Roll
+### 🎲 Step 2 — Vit❤️ Roll
 
 All of Step 2 below is AP🧩 free and costs no AP🧩.
 
-### Vit❤️ Max Roll
+#### Vit❤️ Max Roll
 
 On each Level⭐, roll for new maximum Vit❤️:
 
@@ -651,11 +650,11 @@ On each Level⭐, roll for new maximum Vit❤️:
   * Levels 100+: 10 + 10d(Moxie🫀) + (Level × 2)
 * This is like “Lucking🍀” Max Vit❤️ (roll a new number and keep the better of the old Vit❤️ or the new Vit❤️). If your Moxie🫀 has increased, you use the new Moxie🫀 number in the formula.
 
-## 💲 Step 3 — Spend AP🧩
+### 💲 Step 3 — Spend AP🧩
 
 Spend your accumulated AP🧩 on horizontal upgrades, vertical Attribute step-ups, or Focus Die upgrades (subject to level gates).
 
-### Horizontal Upgrades
+#### Horizontal Upgrades
 
 The 1-AP Augment System (Advancement Without Version Trees):
 
@@ -674,7 +673,7 @@ Character advancement relies on Horizontal Augments without rigid hierarchical v
 | Vit❤️ | * Gain +2 Vit❤️ — 1 AP |
 | Atr✅ | * Reshuffle (swap some/all of your Atr✅ dice) — 1 AP |
 
-### Vertical Attribute Die Step-Ups
+#### Vertical Attribute Die Step-Ups
 
 Attribute upgrades are purchased with AP🧩 and are tier-gated by your level. The maximum array of attribute dice you can have is limited by your tier:
 
@@ -697,7 +696,7 @@ Attribute upgrades are purchased with AP🧩 and are tier-gated by your level. T
 
 Note: At Level 100 Max Cap, a legendary character has at most two d12 attributes, ensuring build differentiation.
 
-### Vertical Focus Die Upgrade
+#### Vertical Focus Die Upgrade
 
 You can purchase upgrades to your maximum Focus Die ceiling using AP🧩, subject to level gates:
 
@@ -710,9 +709,9 @@ You can purchase upgrades to your maximum Focus Die ceiling using AP🧩, subjec
 
 All choices require GM approval. The GM may veto or suggest alternatives if a choice does not fit the campaign.
 
-# 🎓 Skill and Skill Set Rules
+## 🎓 Skill and Skill Set Rules
 
-## 🎓 Skills
+### 🎓 Skills
 
 Abilities (weapons⚔️, Armor🧥, skills🎓, Atr✅ rolls) are all unskilled unless explicitly learned with AP🧩 (thus becoming skilled).
 
@@ -724,7 +723,7 @@ Exception: Magic Items✨ are always skilled. This prevents messy tracking and 
 
 When a skill🎓 is rolled, its Atr✅ is used (e.g., Acrobatics🏃 = Motion🏃 check). All skills🎓 may be attempted unskilled. This includes Stealth🏃, climbing, identifying a Magic Item✨, etc.
 
-## 🎓 Skill Negotiation
+### 🎓 Skill Negotiation
 
 Skills🎓 are intentionally open-ended . When a player uses a skill:
 
@@ -744,7 +743,7 @@ Example: “I use my healing🎓 with detailed triage, splints, and temple backg
 
 Example: “I add narrative detail to my Stealth🏃.” → GM may set a lower Dif.
 
-## 🎓 GM Guidance for Setting Dif
+### 🎓 GM Guidance for Setting Dif
 
 When setting or modifying Dif, the GM🔎 should weigh:
 
@@ -762,7 +761,7 @@ Overall fairness and balance in play.
 
 Dif should reflect both the task’s challenge and the quality of the player’s solution.
 
-## 🎓 Character Assists
+### 🎓 Character Assists
 
 When one PC helps another, the narrative of how is key. The GM may:
 
@@ -772,7 +771,7 @@ Grant reduced Dif.
 
 Count it as Advantage (extra d20). The GM chooses based on group dynamics and campaign tone.
 
-## 🎓 Skills vs Powers
+### 🎓 Skills vs Powers
 
 Powers🔥 are concrete, mechanical, and balanced with usage limits.
 
@@ -782,7 +781,7 @@ Skills may alter Dif, reduce damage, grant a minor one-off bonus, or open a path
 
 Skills should not overshadow Powers🔥 — they are meant to be creative, situational, and dynamic.
 
-## 🎓 Skill Sets
+### 🎓 Skill Sets
 
 A Skill Set🎓 is a logical collection of related skills.
 
@@ -792,9 +791,9 @@ The same skill🎓 may appear in multiple sets, possibly with different Atr✅. 
 
 Sets are not exhaustive — the GM may approve additional related skills not listed.
 
-# ⚔️ Weapon Rules
+## ⚔️ Weapon Rules
 
-## Uplifting Damage
+### Uplifting Damage
 
 Weapon Atk = Might💪 (melee), Motion🏃 (hurled) or Mind👁️ (shot).
 
@@ -808,7 +807,7 @@ Example: A dagger (d4) wielded by a character with Might💪 d8 deals Dmg💥 a
 
 Multi-attack Dmg💥 dice are never uplifted.
 
-## Multi-Attack
+### Multi-Attack
 
 Multi-attack is always an option if requirements are met. Some Powers🔥 may add further options.
 
@@ -826,7 +825,7 @@ Dual wielding identical weapons (e.g., two daggers). Number of attacks/targets 
 
 Dual wielding different weapons (e.g., dagger d4 + sword d6). In this case, Might💪 must equal or exceed the combined dice (d10+).
 
-## Opportunity Attacks (Break From Melee)
+### Opportunity Attacks (Break From Melee)
 
 If a PC or monster disengages from melee before the opponent’s Nish🚩, the disengage works without penalty (no opportunity attack).
 
@@ -842,11 +841,11 @@ When in melee, attacking with Rng weapons against a target other than those enga
 
 When in melee, performing distracting actions such as quaffing a potion.
 
-# ⚔️ Combat Styles Rules
+## ⚔️ Combat Styles Rules
 
 There are four primary combat styles in MetaScape. By default, the core rules treat them similarly; distinctions and advantages mainly come from Powers🔥.
 
-### Requirements
+#### Requirements
 
 Single Weapon🗡️ - Only usable during Single Weapon combat style (e.g. a single weapon with no shield)
 
@@ -856,13 +855,13 @@ Weapon & Shield🛡️ - Only usable during Weapon & Shield combat style (e.g. a
 
 Martial Arts🥋 - Only usable during Unarmed🥊 combat style (e.g. Brawling)
 
-## 🗡️Single Weapon
+### 🗡️Single Weapon
 
 Fighting with a single weapon⚔️, one-handed or two-handed.
 
 Emphasizes precision and Powers🔥.
 
-## ⚔️Dual Wield
+### ⚔️Dual Wield
 
 Fighting with two one-handed weapons⚔️. Emphasizes speed and versatility.
 
@@ -876,7 +875,7 @@ Two-handed weapons⚔️ cannot be dual wielded.
 
 Utility tasks (opening doors, drinking potions, etc.) require a Partial (P) action (sheath one weapon⚔️, perform the action, retrieve the weapon⚔️).
 
-## 🛡️Weapon & Shield
+### 🛡️Weapon & Shield
 
 Fighting with a one-handed weapon⚔️ in one hand and a shield🛡️ in the other.
 
@@ -886,7 +885,7 @@ Shields🛡️ restrict the off-hand: you cannot normally hold a torch or item i
 
 Utility tasks (opening doors, drinking potions, etc.) require one Partial (P) action (awkwardly holding the weapon⚔️ with the shield🛡️ hand while using the free hand).
 
-## 🥊 Unarmed or Natural Weapons
+### 🥊 Unarmed or Natural Weapons
 
 Natural weapons🥊 (Brawl and Throw Object) cannot Block🧱 and have no coin cost. They are Unskilled unless skill🎓 is taken in each one. Dmg💥 is rolled at –1d below the governing Atr✅ (minimum d4).
 
@@ -902,7 +901,7 @@ Weapons marked Hu (Hurled) use their normal weapon Atr✅ and rolls and are not 
 
 With GM🔎 approval, non-hurled weapons⚔️ (such as a short sword) may be thrown as improvised objects. In this case, all Throw Object rules apply.
 
-### Off-Hand Use
+#### Off-Hand Use
 
 A free off-hand (when using a one-handed weapon⚔️) allows carrying utility items such as a torch, lantern, Magic Item✨, or flask.
 
@@ -910,9 +909,9 @@ With two-handed weapons⚔️, this still applies: you may temporarily shift the
 
 Note: This advantage does not exist when dual wielding or using Weapon & Shield🛡️.
 
-# Armor & Shields
+## Armor & Shields
 
-## 🛡️ Shields
+### 🛡️ Shields
 
 All Armor’s Defense (Dod/AR or Blk/AR): Dodge 🤸 = Motion🏃, Block 🧱 = Might💪.
 
@@ -926,9 +925,9 @@ Small shields🛡️ (bucklers, bracers, vambraces) offer mobility and count as 
 
 Large shields🛡️ provide greater Max Block🧱 protection but impose greater limits on mobility.
 
-# ⚔️🛡️ Combat Sequence
+## ⚔️🛡️ Combat Sequence
 
-## ⚔️ Combat (Player Attacking)
+### ⚔️ Combat (Player Attacking)
 
 Choose Target & Atk⚔️ — Action is (A).
 
@@ -956,7 +955,7 @@ Area or special effects still require an Atk⚔️ roll unless stated otherwise.
 
 Area and multi-attacks make separate Atk⚔️ and Dmg💥 rolls for each attack.
 
-## 🛡️ Combat (Player Defending – Monster Attacking)
+### 🛡️ Combat (Player Defending – Monster Attacking)
 
 Monster Declares Atk⚔️.
 
@@ -998,9 +997,9 @@ After each Death Check, Wnd🩸 always increase by 1 unless you receive bandagin
 
 Left unattended, an unconscious PC will slowly bleed out (Wnd🩸 increase 1/rnd until they eventually fail a Death Check).
 
-# 📅 Days and Encounters
+## 📅 Days and Encounters
 
-## 📅 Days
+### 📅 Days
 
 A new Day📅 begins each new character day (after sleep).
 
@@ -1008,7 +1007,7 @@ A new Day📅 automatically starts a new Enc (see below).
 
 When characters start their new Day📅, they are in a new Day📅 and a new Enc.
 
-## 🎲 Encounters
+### 🎲 Encounters
 
 The game’s Days📅 are broken into Encs.
 
@@ -1032,7 +1031,7 @@ Example: A healer who can heal 2-Enc may heal 2 times per Enc (2 in each combat
 
 In the sequence above, they could heal 6 times in total (2 each in 3 Encounters).
 
-## ⚔️ Combat Encounter – Initiative & Rounds
+### ⚔️ Combat Encounter – Initiative & Rounds
 
 Nish🚩: Common abbreviation for Initiative. Used interchangeably in rules and table talk.
 
@@ -1060,7 +1059,7 @@ No split movement (cannot Move → Atk⚔️ → Move, but can Move → P → Mo
 
 On Nish🚩 of afflicted – New Resistance/Save checks vs hazards (Stunned, Weakened, Immobilized, Poisoned, etc.).
 
-## 💤 Roleplaying Encounter – Rest & Recovery
+### 💤 Roleplaying Encounter – Rest & Recovery
 
 After a combat encounter, the roleplaying encounter will often begin with post-combat rest.
 
@@ -1068,15 +1067,15 @@ Roleplaying Enc Rest (after battle): Regain d4 Vit❤️. Max 1 rest per Enc.
 
 Day Rest (sleep/new Day📅): Regain 2d4 Vit❤️, resets all #-Day abilities.
 
-# Abilities (Powers🔥, Magic Items✨, Skills🎓)
+## Abilities (Powers🔥, Magic Items✨, Skills🎓)
 
-### 
+#### 
 
 🪄 Magic Item Parity
 
 Magic Items function EXACTLY like Powers🔥 (they are simply powers granted by item ownership). All rules for action budgets (AMP), usage frequencies, Meta costs (Meta⚡x#), and 1-AP augments apply identically to Magic Items.
 
-### 📜 System Architecture: Power & Magic Item Grammar
+#### 📜 System Architecture: Power & Magic Item Grammar
 
 To ensure absolute clarity without rulebook arguments or bloat, every Power🔥 and Magic Item✨ follows a standardized, single-sentence Power Grammar:
 
@@ -1098,7 +1097,7 @@ Example: An ability that heals the user 1 Vit❤️ as a 1-Enc, P action would h
 
 Additional guidance is below:
 
-## 🔄 Usage & The Meta Engine (⚡)
+### 🔄 Usage & The Meta Engine (⚡)
 
 How often an ability (Power🔥 or Magic Item✨) can be used:
 
@@ -1109,7 +1108,7 @@ How often an ability (Power🔥 or Magic Item✨) can be used:
 | 1-⚡ (1-Meta / 5 Sparks) | Consumes 1 full Meta (5 Sparks, 5⚡︎). Usable max 1 time per encounter (1-⚡ implies 1-Enc). | High-impact burst, combos, or area control. Earned dynamically via Sparks in combat or roleplaying. |
 | 1-Luck (Chit) | Consumes 1 Luck chit (🍀). | Cinematic interrupts, heroic saves, clutch auto-defenses. |
 
-### ⚡ Meta Generation & Spark (⚡︎) Rules
+#### ⚡ Meta Generation & Spark (⚡︎) Rules
 
 - **5 Sparks = 1 Meta:** It ALWAYS takes a full Meta (5 Sparks or 5⚡︎) to power a Meta-using ability. All Meta abilities indicate this in the Usage column as **1-⚡** (representing 1-Meta). There are no 2-⚡ or 3-⚡ costs.
 - **Spark Events (⚡︎):** Charging up or building to a Meta occurs via Sparks earned in gameplay:
@@ -1124,7 +1123,7 @@ How often an ability (Power🔥 or Magic Item✨) can be used:
 > **Elimination of Daily Hoarding (X-Day)**
 > High-tier daily powers are converted into Meta powers (1-⚡) or 1-Luck powers. Players no longer hoard powerful abilities for boss fights that never come; they earn them dynamically in every fight through tactical play and dice momentum.
 
-### 🧠 Game Theory & Psychology ("My Game Theory")
+#### 🧠 Game Theory & Psychology ("My Game Theory")
 
 - **Built-in Delay:** Requires 5 Sparks to gain a Meta, introducing natural tactical delay for high-impact abilities.
 - **Dopamine Rewards:** Gives immediate positive feedback (dopamine hit) anytime a player rolls a Tremendous (nat 20), Critical (nat 1), or Exploding die.
@@ -1132,7 +1131,7 @@ How often an ability (Power🔥 or Magic Item✨) can be used:
 - **Active Play Incentive:** Directly rewards active participation in encounters (taking actions, making rolls, and Focusing to trigger exploding dice).
 
 
-## 🔷 Actions
+### 🔷 Actions
 
 Mobile Striker Clause (Split-Movement Override): Standard Rule: Taking an Attack (A) action forfeits all remaining Movement Rate (MR). Specialized Move (M) or Partial (P) powers or magic items can explicitly override this rule ("You may split your movement before and after this attack"), giving clear tactical identity to mobility-based builds.
 
@@ -1208,7 +1207,7 @@ Kneel, dive prone.
 
 Close a door.
 
-### 1 Round Action Examples
+#### 1 Round Action Examples
 
 Charge and Strike → Move (M) across the battlefield, Attack (A) with your longsword, and Partial (P) to draw a shield mid-swing.
 
@@ -1232,7 +1231,7 @@ Show of Flair → Attack (A) with a rapier, Free (F) to bow dramatically (Flair 
 
 Shoot and Run → Attack (A) with a bow, Move (M) down the hallway, and Partial (P) to run (adds d(MR)) further.
 
-## ⏳ Duration
+### ⏳ Duration
 
 Default = 1 rnd unless otherwise stated/obvious.
 
@@ -1242,7 +1241,7 @@ Example: Used at Rnd start, effect ends when that PC’s next Initiative🚩 arr
 
 Design Goal: Minimal tracking. Durations should be obvious, instant, 1 rnd, or entire Enc. Avoid multi-rnd tracking.
 
-## 🎯 Range
+### 🎯 Range
 
 Powers🔥 and Magic Items✨ eliminate exact square/footage measuring in favor of 5 natural Range Bands:
 
@@ -1252,7 +1251,7 @@ Powers🔥 and Magic Items✨ eliminate exact square/footage measuring in favor 
 * Long: Extended sight line (≤ 24 sq).
 * Extreme: Beyond standard grid boundaries (≥ 25 sq, requires Disadvantaged roll 2L20 / 1d20).
 
-# 💀 Hazards / Afflictions
+## 💀 Hazards / Afflictions
 
 Note: Hazards / Afflictions - terms are synonymous.
 
@@ -1276,9 +1275,9 @@ On Monster Nish🚩, PCs who caused afflictions to that monster roll again (Skil
 
 If an Affliction triggers upon PC Wounds🩸, do note that Fatigue Wnds🩸 does NOT count as a trigger as the wounds🩸 are Fatigue only bruising/tiring no skin contact or piercing is implied. But if the PC’s AR roll did not stop all the actual DMG, then part of the Fatigue Wnds🩸did touch and pierce skin, so the affliction does apply.
 
-# 🍀 Luck
+## 🍀 Luck
 
-### 
+#### 
 
 🍀 The Luck Twist (Rule of 1)
 
@@ -1315,11 +1314,11 @@ Earning Luck🍀: Awarded for cool, funny, or heroic play (max 5).
 
 Other Uses: May be spent for special learned Luck Powers🔥 (e.g., Lucky Dodge, Inspire Ally, Twist of Fate).
 
-# 💰Treasure
+## 💰Treasure
 
 If the encounter does not list specific treasure, a treasure roll is typical after any major encounter or after any encounter that would warrant treasure. If the encounter was minor, skip the roll or the roll could be 2L100, if it was major it is typical to allow multiple rolls (e.g., each player makes two rolls). GMs will find a treasure balance that works for their campaign.
 
-## 📜 Quick Notes
+### 📜 Quick Notes
 
 Art/Jewelry can be re-flavored (figurines, ivory carvings, crowns, chalices).
 
@@ -1329,7 +1328,7 @@ Junk is intentionally silly or useless — adds levity.
 
 Magic Items roll on the proper table:
 
-# 📊 System Tables & Catalogs
+## 📊 System Tables & Catalogs
 
 
 ---
@@ -1366,13 +1365,13 @@ Magic Items roll on the proper table:
 >   - ✨ **[Magic Items Catalog](/player-guide/supaflex/magic-items)**
 >   - 🎓 **[Skill Sets Directory](/player-guide/supaflex/skillsets)**
 
-# 🐉 Monster Manual
+## 🐉 Monster Manual
 
 The complete bestiary of monsters, stats, initiative flags, attributes, and special abilities is hosted in our online **[Monsters Bestiary](/player-guide/supaflex/monsters)** and the **[Interactive Tables Catalog](/player-guide/supaflex/tables)**.
 
-# 💰 Treasure
+## 💰 Treasure
 
-# 💰Treasure
+## 💰Treasure
 
 | 🎲 Master d100 Treasure Table |  |
 | --- | --- |
@@ -1430,11 +1429,11 @@ The complete bestiary of monsters, stats, initiative flags, attributes, and spec
 | 5 | Sack of bent nails |
 | 6 | Wooden puppet missing an arm |
 
-# 🔎 GM Tricks
+## 🔎 GM Tricks
 
 This section covers a number of great GM tricks and examples to help your game run even more smoothly. All tricks/rules herein are optional and may be incorporated into your game sessions at the GM’s discretion. Some of these tricks are more advanced rules that can be incorporated once the GM and their group has fully grasped the base rules.
 
-# Helper - 🌟Tremendous/💀 Critical Nish🚩
+## Helper - 🌟Tremendous/💀 Critical Nish🚩
 
 Because everyone rolls Nish every round, you will end up with a LOT of tremendous and critical Nish rolls. Coming up with original results for this many rolls is very difficult and will slow your game down. A great trick is to use (or expand) the tables below. Print, enlarge, and cut out the results. Then assign a player to be the Nish Crit/Tremendous GM’s aide. Anytime a player has a critical or tremendous Nish they do NOT announce it. They simply ask the assigned helper to hand them the result. You can use a bowl, hat, cup to contain the slips of paper, but my favorite is to use two envelopes as they are VERY easy to store. Another trip - tell players they are NOT to keep the slips of paper, rather write them down if necessary and immediately hand them back to your helper (so they do not get lost). For double or Triple Crit/Tremendous simply have them draw two or three results.
 
@@ -1546,29 +1545,29 @@ Because everyone rolls Nish every round, you will end up with a LOT of tremendou
 | 49 | Sudden Fatigue | Lose 1 Act this rnd (choose M or A). |
 | 50 | Head Rush | Lose 1 Act each rnd (choose M, A, or P each rnd) for encounter |
 
-# Helper - Bleeder
+## Helper - Bleeder
 
 Assign one player as the “Bleeder.” The Bleeder is a GM helper who’s job it is to track all monster wounds for the GM. For example, if you use a write on board or mat, give them a red pen and if Orc A takes 5 Wnd🩸s it is the Bleeder’s responsibility to place a 5 next to Orc A. If that orc later takes another 3 Wnd🩸s, the Bleeder will change the 5 to 8. Also as you, the GM, move the monster around the board, it is the Bleeder’s responsibility to erase the old Wnd🩸 number and place it adjacent to the monster’s new location. Finally, you can assign the Bleeder (if they are an experienced gamer) or some other helper to track monster death. This helper will always ask you what the Vit❤️ of each monster type is and they’ll let everyone know when a monster should die due to Wnd🩸s being >= their Vit❤️. Once you train your Bleeder up, you are largely freed up, as GM, from this common set of tasks.
 
-# Ranged Atk into Melee
+## Ranged Atk into Melee
 
 A great optional rule (for the experienced GM) is to place risk (danger) anytime a ranged weapon (hurled or shot) is used at a target engaged in melee. In the real world, melee is a highly agitated state of micro moves, dodges, etc. and it is very hard to target your intended victim and easy to hit your ally. So, the rule is, if that attacker misses the desired enemy target (normal Atk roll), they have a 50/50 chance of hitting their melee involved ally. Simply have them roll a d6 and 1-3 = Atk auto-hits ally (Roll normal Dmg and Ally rolls normal AR🧥).
 
-# Random Direction
+## Random Direction
 
 Often you will need to determine a random direction such as when someone is disarmed or if a hurled item misses. A great way to do this is to have the involved player roll a d12 to represent the hours of a clock (ALWAYS from the GM’s point of view) thus a 12 is away from the GM, 3 is to the right, 6 toward the GM, 9 to the left. And the other numbers are some combination therein. If you also need a random distance, just have the player roll an appropriate die (d6, d8, 2H6, etc.) or you can roll your GM’ s Intensity die.
 
-# Falling, Climbing, Jumping Down
+## Falling, Climbing, Jumping Down
 
 Simple version - when a character falls, the GM assigns an amount of Dmg (e.g. 10) and the player rolls AR🧥 vs that Dmg. There is no Def as you cannot block or dodge the ground - it will Hit you!
 
 I roughly base the Dmg on feet fallen and landing surface (bolder field vs spikes vs sand vs water, etc.). I also reduce the Dmg if the jump was intentional or if the character hung down from a ledge and then dropped the rest of the distance, etc. Finally, realize that setting falling Dmg at 20 is much worse than setting it at 10 as no normal AR🧥 can absorb up all of Dmg 20, but larger armor can absorb most or all of Dmg 10 on a good roll. So Dmg is NOT linear from a character’s point of view.
 
-# Avoid Auto-Hazards
+## Avoid Auto-Hazards
 
 Yes, there are a number of auto-hit, or “PC takes Dmg with no AR🧥” etc., but these are pre-build, typed rules, and your players cannot blame you the GM for “conspiring against them” or treating them unfair. That said, in general avoid an auto-hazard, auto-negative effect, or auto-affliction as this justifiably will frustrate your players as they then have no “control” over these bad effects occurring. The default rule is, a PC should always get at least a single roll to avoid a bad effect (typically a Block, Dodge, or Save). So rather than have a player walking down a sewer tunnel suddenly fall into a 15ft pit, give them an Awareness check. Or if a trapped chest releases poisonous gas, give them a Poison Save, etc. Falling from a climb is already covered as the character had to have failed their climbing roll. Even a character pushed off a cliff had a chance as they failed their Dodge or Block (or Save) attempt versus that which pushed them.
 
-# Difficulty Setting
+## Difficulty Setting
 
 Yes, the GM setting a difficulty is already the default rule and well explained. However, be VERY careful about slipping into numeric based logic for coming up with difficulties as this will often trap you into a much more complex (and often unbalanced) and nearly always non-cinematic/heroic game. For example, if a PC has Acrobatics skill, do not set the difficulty of vaulting over a 6ft opponent at X and leaping every 5ft of distance as Y*sq, etc. This may seem like a good idea at first, but it rarely ends up being a good rule. Rather, set a difficulty for the vault or leap or acrobatic attempt based upon the situation and the character’s concept. This is VERY open ended, subjective, and will add much more flavor to your game as players learn that they can do things like, “I’m going to try to run down the hall, parcour run 5ft up that wall leap over that orc with a twisting vault and then land in front of the next Orc. The GM then assigns a single difficulty and the player makes a single roll. Much more cinematic, creative, open and does not lock you into looking up detailed tables or rules.
 
@@ -1576,19 +1575,19 @@ Another reason for this is different GMs or settings, or games. If you are playi
 
 Another example is setting climbing difficulties or rules such as a player must check every 10 or 50 or 100ft and that a rough vs smooth vs stone vs glass wall all have some defined Dif or modifier. This gets very messy very fast. Rather, assess the situation (the desired climb, the character, the setting) and assign a Dif. You and your players will usually prefer this approach over artificial rigidity.
 
-# Avoid Complexity - Dur
+## Avoid Complexity - Dur
 
 To keep Flex simple, the designers have gone out of their way to avoid effects that have multi-round Durations (Dur). such as 2 rounds or d4 rounds, etc., as this would require players (and the GM at times) to track this stat per ability. Rather, durations have been pretty meticulously kept to “for this round”, “for 1 rnd”, “for encounter”, etc. Just be aware of this and as you add your own rules consider the implications of adding in multiple round durations.
 
-# Avoid Complexity - Usage beyond 3
+## Avoid Complexity - Usage beyond 3
 
 To keep Flex simple, the designers have also gone out of their way to avoid Usage past 3. So it is recommended to NOT allow an ability (Power or Magic Item) to progress to 4-Day nor 4-Enc. If the GM decides to allow a Usage progression past 3-Day the next step should be 1-Enc and if the GM decides to allow Usage past 3-Enc, it should become 1-Rnd. That said, both of these steps are a considerable upgrade, especially the 1-Rnd. GM, think about such upgrades carefully and consider game balance.
 
-# Nish Options
+## Nish Options
 
 There are several methods the GM can choose between when running Nish (PC and Monster Nishes). The tradeoffs are between detail and individual flow and speed of each round. There is not a best approach presented here. Rather each approach has different pros/cons and the GM needs to select the best approach for their current gaming group and campaign.
 
-## Example
+### Example
 
 For each of the methods below, we’ll use the example of Nish rolls as follows:
 
@@ -1606,7 +1605,7 @@ Monsters
 
 -- Old Kobold Nish of 5
 
-## Method 1 - Individual Nishes
+### Method 1 - Individual Nishes
 
 Individual Nishes means that the GM calls on the highest Nish to lowest Nish in order, one by one, including all PCs and all monster types. So using the above example, the Nish sequence would be:
 
@@ -1624,7 +1623,7 @@ Pros : This is the most structured, everyone gets their turn, each monster type
 
 Cons : This will be the slowest method, particularly for complex characters or new players. Also the hardest for the GM to track.
 
-## Method 2 - Group Monsters
+### Method 2 - Group Monsters
 
 When grouping monsters, all monsters go on the best monster’s Nish. So using the above example, the Nish sequence would be:
 
@@ -1640,7 +1639,7 @@ Pros : GM gets to decide all monster actions at once so it is much easier for t
 
 Cons : Give up a little bit of realism that a slow monster type goes later in the round and a fast monster type goes earlier.
 
-## Method 3 - Three Groups
+### Method 3 - Three Groups
 
 With the Three group method, all PCs who beat the highest Nish monsters all go at once, then all monsters, then all PCs who have Nishes below the best monster Nish. When the PC groups go, each group (beat monsters or were slower than monsters) all roll their abilities simultaneously, write them down, and when they are “Ready to Tell Their Story” the GM calls on them and they say something like, “I swung my sword at the Orc at an 18”, GM announces “Hit”, player says, “And I slashed the orc for 7 Dmg”, GM says, “Orc AR of 1 results in 6 Wounds.” Then the GM moves on to the next PC story. So using the above example, the Nish sequence would be:
 
@@ -1654,7 +1653,7 @@ Pros: The fastest method. Chaos of players rolling simultaneously (perhaps again
 
 Cons: Requires experienced players who know what to roll and when. A monster may get slain by PC A making a simultaneous attack by PC B seem like a waste. But a good GM can explain that both PC A and B hit the monster simultaneously.
 
-# Relational Seat Tracking
+## Relational Seat Tracking
 
 A great trick for the GM is to use relational seat tracking for PC Names and pertinent details and for Nish tracking. Seat tracking uses the actual “seat at the table” physical layout of players. Consider a table with GM on one side. At the end of the table to the GM’s right is Mike playing Grond the Warrior. Across from the GM, on the other side of the table is Mary playing Natosha the thief, and on the end of the table to the left is Steve playing Miracle Max, the Mage. So on an index card the GM writes:
 
@@ -1668,7 +1667,7 @@ Steve Mike
 
 This index card is then paper clipped to the GM screen so the GM can simply glance upward and instantly use the right character name for the right player. The GM could add in details like each character’s main weapon type, or name, etc. if desired. It is also a great idea to share this trick with your players, encouraging them to make the same relational seat tracking so they, too, can easily use other player’s character names.
 
-## Nish Tracking
+### Nish Tracking
 
 Relational Seat Tracking is also one of the best ways to track Nish. On a piece of scratch paper (behind your GM screen) simply write down each character’s Nish number in the same relationship and add the monster(s) Nish(es) where you sit. So using the above Nish Method example the numbers look like:
 
@@ -1682,15 +1681,15 @@ The GM can glance at this pattern and know that the player to their right (Mike 
 
 If you use grounded monsters, you only need to write down the fastest monster Nish (14). And if you use the three groups method, simply cross off all PCs with Nishes >= monsters (and they all go simultaneously) then your monsters go, then cross off all the other PCs who lost Nish to the monsters and they go at the end of the round.
 
-# Character Introduction
+## Character Introduction
 
 At the start of each game session, it is a great idea to go around the table and have each player introduce (or re-introduce) their character to the group. They should point out their miniature or token (if used) and then describe what their character looks like (race, height, weight, hair, eyes, features) and explain demeanor/behavior. And at a minimum explain what their character’s main role (class) will be, or if they characters have a history together, they explain their characters main abilities and common strategies.
 
-# Using AI
+## Using AI
 
 If used purposefully, AI can provide several aides to the game.
 
-## NotebookLM
+### NotebookLM
 
 Google's NotebookLM is great for two main purposes. If the rules are supplied, it is a great source of rapid rule lookup and interaction for the players. Players can chat prompts like:
 
@@ -1732,7 +1731,7 @@ I need a treasure horde for my Dragon’s treasure rolled now.
 
 I need, in table format, a good medium difficulty wandering monster encounter in the Stone Keeps secret passageway. The monster should be very unique compared to the rest of the Stone Keep.
 
-## Most LLMs
+### Most LLMs
 
 Character Concept - Most LLMs can do a great job of building or fleshing out your character’s concept if you simply provide the LLM with a bit of details and then ask it to create a full character concept including history, appearance, personality, skills, powers, goals, etc. as a two page character concept.
 
@@ -1748,9 +1747,9 @@ Step 3 - For each map, write up the room #, descriptive name, and describer the 
 
 Step 4 - Attach the plot from Step 1, the current map from step 2, and the brief room list from step 3 along with the rules and ask the LLM to generate the encounters for this map. To get this to work great, you also need to perfect a final attachment document which is a set of instructions as to how you like your encounters formatted.
 
-# 🎓 Skill Negotiation Examples
+## 🎓 Skill Negotiation Examples
 
-## 🧗 Example 1 – Climbing a Sheer Cliff
+### 🧗 Example 1 – Climbing a Sheer Cliff
 
 Basic Use:
 
@@ -1770,7 +1769,7 @@ Player: “I’ll climb in two stages, using rope, iron spikes, and a mallet. I�
 
 GM🔎: “First roll to the ledge (Dif 14). If you fail, you’ll get a second roll to catch yourself on the rope instead of falling. Then we’ll proceed with your final ascent.”
 
-## 🕳️ Example 2 – Falling into a Pit
+### 🕳️ Example 2 – Falling into a Pit
 
 Basic Use:
 
@@ -1786,7 +1785,7 @@ Player: “On the way down I pick my landing, prepare my body to absorb impact, 
 
 GM🔎: “Good description — damage is reduced to 4. Make your AR🧥 check.”
 
-## ⚕️ Example 3 – Healing Fredo
+### ⚕️ Example 3 – Healing Fredo
 
 Basic Use:
 
@@ -1800,7 +1799,7 @@ Player: “Fredo took a cleaver blow to the arm. I splint, bandage, and stabiliz
 
 GM🔎: “Dif 10 to both stop bleeding and restore +1 Vit❤️.”
 
-## 🥷 Example 4 – Sneaking Past Orc Guards
+### 🥷 Example 4 – Sneaking Past Orc Guards
 
 Basic Use:
 
@@ -1812,7 +1811,7 @@ Player: “I study the hallway and guards, planning my best route. I toss a pebb
 
 GM🔎: “OK — roll Stealth🎓 vs Dif 9.”
 
-## ⚔️ Example 5 – Battlefield Tactics
+### ⚔️ Example 5 – Battlefield Tactics
 
 Basic Use:
 
@@ -1830,7 +1829,7 @@ Player: “Rolled 19.”
 
 GM🔎: “That’s excellent. Fredo gets +3 Dmg💥 on his next dagger hit — but remember, skills🎓 support narrative moments. They don’t replace Powers🔥.”
 
-## 👑 Example 6 – Persuasion in the Great Hall
+### 👑 Example 6 – Persuasion in the Great Hall
 
 Basic Use (One Big Roll):
 
@@ -1852,7 +1851,7 @@ GM🔎: “Because of the groundwork, your final roll is with Advantage (3H20) a
 
 Result → Success has greater weight due to noble support; failure may still leave cracks of doubt but not total rejection.
 
-# 👹 Monster Quick Stats
+## 👹 Monster Quick Stats
 
 Nish🚩: 10-24.
 
@@ -1870,7 +1869,7 @@ Armor🧥: 0 to 3 (rare 4).
 
 Vit❤️: 4 (small) to 30+ (epic).
 
-# 🔎 GM Principles
+## 🔎 GM Principles
 
 Say Yes: If the idea is fun, let it ride or lower Dif.
 
