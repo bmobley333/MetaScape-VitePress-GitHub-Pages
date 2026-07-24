@@ -770,7 +770,8 @@ const selectCategoryTab = (tab) => {
                 <th>Type</th>
                 <th>Requirement</th>
                 <th>Max Block</th>
-                <th>Atk & Dmg</th>
+                <th>Atk</th>
+                <th>Dmg</th>
                 <th>Cost</th>
               </tr>
             </thead>
@@ -780,10 +781,11 @@ const selectCategoryTab = (tab) => {
                 <td>{{ w.type }}</td>
                 <td>{{ w.requirement }}</td>
                 <td>{{ w.max_block }}</td>
-                <td>{{ w.atk_dmg }}</td>
+                <td>{{ w.atk }}</td>
+                <td>{{ w.dmg }}</td>
                 <td>{{ w.cost }}</td>
               </tr>
-              <tr v-if="filteredWeapons.length === 0"><td colspan="6" class="no-results">No weapons match your search.</td></tr>
+              <tr v-if="filteredWeapons.length === 0"><td colspan="7" class="no-results">No weapons match your search.</td></tr>
             </tbody>
           </table>
         </div>
@@ -804,7 +806,6 @@ const selectCategoryTab = (tab) => {
               <tr>
                 <th>Armor Name</th>
                 <th>Requirement</th>
-                <th>Dodge</th>
                 <th>AR</th>
                 <th>MR</th>
                 <th>Cost</th>
@@ -814,12 +815,11 @@ const selectCategoryTab = (tab) => {
               <tr v-for="(a, i) in filteredArmor" :key="i">
                 <td class="font-bold text-primary">🧥 {{ a.name }}</td>
                 <td>{{ a.requirement }}</td>
-                <td>{{ a.dodge }}</td>
                 <td>{{ a.ar }}</td>
                 <td>{{ a.mr }}</td>
                 <td>{{ a.cost }}</td>
               </tr>
-              <tr v-if="filteredArmor.length === 0"><td colspan="6" class="no-results">No armor matches your search.</td></tr>
+              <tr v-if="filteredArmor.length === 0"><td colspan="5" class="no-results">No armor matches your search.</td></tr>
             </tbody>
           </table>
         </div>
