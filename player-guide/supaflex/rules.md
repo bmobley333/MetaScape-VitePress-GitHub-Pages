@@ -1,3 +1,7 @@
+---
+outline: 2
+---
+
 # ⚡ SupaFlex Rules Manual
 
 ## ✅ System Philosophy & Guiding Principles
