@@ -9,7 +9,12 @@ const viewMode = ref('table') // 'table' or 'card'
 const rawData = ref({
   powers: [],
   magic_items: [],
-  skillsets: []
+  skillsets: [],
+  weapons: [],
+  armor: [],
+  shields: [],
+  gear: [],
+  monsters: []
 })
 
 const isLoading = ref(true)
@@ -18,7 +23,17 @@ onMounted(async () => {
   try {
     const res = await fetch('/MetaScape-VitePress-GitHub-Pages/supaflex-data.json')
     if (res.ok) {
-      rawData.value = await res.json()
+      const data = await res.json()
+      rawData.value = {
+        powers: data.powers || [],
+        magic_items: data.magic_items || [],
+        skillsets: data.skillsets || [],
+        weapons: data.weapons || [],
+        armor: data.armor || [],
+        shields: data.shields || [],
+        gear: data.gear || [],
+        monsters: data.monsters || []
+      }
     } else {
       console.warn('Failed to load supaflex-data.json via fetch')
     }
@@ -30,9 +45,14 @@ onMounted(async () => {
 })
 
 // Counts and summaries for Overview Dashboard
-const powerCount = computed(() => rawData.value.powers.length)
-const itemCount = computed(() => rawData.value.magic_items.length)
-const skillCount = computed(() => rawData.value.skillsets.length)
+const powerCount = computed(() => rawData.value.powers?.length || 0)
+const itemCount = computed(() => rawData.value.magic_items?.length || 0)
+const skillCount = computed(() => rawData.value.skillsets?.length || 0)
+const weaponCount = computed(() => rawData.value.weapons?.length || 0)
+const armorCount = computed(() => rawData.value.armor?.length || 0)
+const shieldCount = computed(() => rawData.value.shields?.length || 0)
+const gearCount = computed(() => rawData.value.gear?.length || 0)
+const monsterCount = computed(() => rawData.value.monsters?.length || 0)
 
 // Helper to get Category Name of a power or item
 const getItemCategory = (item) => {
@@ -178,6 +198,52 @@ const filteredSkillsets = computed(() => {
   return filtered.sort((a, b) => (a.name || '').toLowerCase().localeCompare((b.name || '').toLowerCase()))
 })
 
+
+// Filtered Weapons
+const filteredWeapons = computed(() => {
+  return (rawData.value.weapons || []).filter(w => {
+    if (!searchQuery.value.trim()) return true
+    const q = searchQuery.value.toLowerCase()
+    return (w.name || '').toLowerCase().includes(q) || (w.type || '').toLowerCase().includes(q) || (w.requirement || '').toLowerCase().includes(q)
+  }).sort((a, b) => (a.name || '').localeCompare(b.name || ''))
+})
+
+// Filtered Armor
+const filteredArmor = computed(() => {
+  return (rawData.value.armor || []).filter(a => {
+    if (!searchQuery.value.trim()) return true
+    const q = searchQuery.value.toLowerCase()
+    return (a.name || '').toLowerCase().includes(q) || (a.requirement || '').toLowerCase().includes(q)
+  }).sort((a, b) => (a.name || '').localeCompare(b.name || ''))
+})
+
+// Filtered Shields
+const filteredShields = computed(() => {
+  return (rawData.value.shields || []).filter(s => {
+    if (!searchQuery.value.trim()) return true
+    const q = searchQuery.value.toLowerCase()
+    return (s.name || '').toLowerCase().includes(q) || (s.description || '').toLowerCase().includes(q)
+  }).sort((a, b) => (a.name || '').localeCompare(b.name || ''))
+})
+
+// Filtered Gear
+const filteredGear = computed(() => {
+  return (rawData.value.gear || []).filter(g => {
+    if (!searchQuery.value.trim()) return true
+    const q = searchQuery.value.toLowerCase()
+    return (g.name || '').toLowerCase().includes(q) || (g.category || '').toLowerCase().includes(q)
+  }).sort((a, b) => (a.category || '').localeCompare(b.category || '') || (a.name || '').localeCompare(b.name || ''))
+})
+
+// Filtered Monsters
+const filteredMonsters = computed(() => {
+  return (rawData.value.monsters || []).filter(m => {
+    if (!searchQuery.value.trim()) return true
+    const q = searchQuery.value.toLowerCase()
+    return (m.name || '').toLowerCase().includes(q) || (m.abilities || '').toLowerCase().includes(q)
+  }).sort((a, b) => (a.name || '').localeCompare(b.name || ''))
+})
+
 const selectCategoryTab = (tab) => {
   activeTab.value = tab
   activeSubCategory.value = 'all'
@@ -209,6 +275,41 @@ const selectCategoryTab = (tab) => {
         @click="selectCategoryTab('magic_items')"
       >
         ✨ Magic Items ({{ itemCount }})
+      </button>
+      <button 
+        class="nav-tab-btn" 
+        :class="{ active: activeTab === 'weapons' }"
+        @click="selectCategoryTab('weapons')"
+      >
+        ⚔️ Weapons ({{ weaponCount }})
+      </button>
+      <button 
+        class="nav-tab-btn" 
+        :class="{ active: activeTab === 'armor' }"
+        @click="selectCategoryTab('armor')"
+      >
+        🧥 Armor ({{ armorCount }})
+      </button>
+      <button 
+        class="nav-tab-btn" 
+        :class="{ active: activeTab === 'shields' }"
+        @click="selectCategoryTab('shields')"
+      >
+        🛡️ Shields ({{ shieldCount }})
+      </button>
+      <button 
+        class="nav-tab-btn" 
+        :class="{ active: activeTab === 'gear' }"
+        @click="selectCategoryTab('gear')"
+      >
+        🧰 Gear ({{ gearCount }})
+      </button>
+      <button 
+        class="nav-tab-btn" 
+        :class="{ active: activeTab === 'monsters' }"
+        @click="selectCategoryTab('monsters')"
+      >
+        🐉 Monsters ({{ monsterCount }})
       </button>
       <button 
         class="nav-tab-btn" 
@@ -647,6 +748,184 @@ const selectCategoryTab = (tab) => {
               <tr v-if="filteredSkillsets.length === 0">
                 <td colspan="2" class="no-results">No skill sets match your search.</td>
               </tr>
+            </tbody>
+          </table>
+        </div>
+      </div>
+
+      <!-- WEAPONS VIEW -->
+      <div v-else-if="activeTab === 'weapons'" class="catalog-section">
+        <div class="toolbar-row">
+          <div class="search-box-wrapper full-width">
+            <input v-model="searchQuery" type="text" placeholder="Search weapons by name, type, requirement..." class="search-input" />
+            <span v-if="searchQuery" class="clear-search" @click="searchQuery = ''">✕</span>
+          </div>
+        </div>
+        <div class="results-count">Showing <strong>{{ filteredWeapons.length }}</strong> of {{ weaponCount }} weapons</div>
+        <div class="table-responsive-wrapper">
+          <table class="data-table">
+            <thead>
+              <tr>
+                <th>Weapon Name</th>
+                <th>Type</th>
+                <th>Requirement</th>
+                <th>Max Block</th>
+                <th>Atk & Dmg</th>
+                <th>Cost</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr v-for="(w, i) in filteredWeapons" :key="i">
+                <td class="font-bold text-primary">⚔️ {{ w.name }}</td>
+                <td>{{ w.type }}</td>
+                <td>{{ w.requirement }}</td>
+                <td>{{ w.max_block }}</td>
+                <td>{{ w.atk_dmg }}</td>
+                <td>{{ w.cost }}</td>
+              </tr>
+              <tr v-if="filteredWeapons.length === 0"><td colspan="6" class="no-results">No weapons match your search.</td></tr>
+            </tbody>
+          </table>
+        </div>
+      </div>
+
+      <!-- ARMOR VIEW -->
+      <div v-else-if="activeTab === 'armor'" class="catalog-section">
+        <div class="toolbar-row">
+          <div class="search-box-wrapper full-width">
+            <input v-model="searchQuery" type="text" placeholder="Search armor by name, requirement..." class="search-input" />
+            <span v-if="searchQuery" class="clear-search" @click="searchQuery = ''">✕</span>
+          </div>
+        </div>
+        <div class="results-count">Showing <strong>{{ filteredArmor.length }}</strong> of {{ armorCount }} armor items</div>
+        <div class="table-responsive-wrapper">
+          <table class="data-table">
+            <thead>
+              <tr>
+                <th>Armor Name</th>
+                <th>Requirement</th>
+                <th>Dodge</th>
+                <th>AR</th>
+                <th>MR</th>
+                <th>Cost</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr v-for="(a, i) in filteredArmor" :key="i">
+                <td class="font-bold text-primary">🧥 {{ a.name }}</td>
+                <td>{{ a.requirement }}</td>
+                <td>{{ a.dodge }}</td>
+                <td>{{ a.ar }}</td>
+                <td>{{ a.mr }}</td>
+                <td>{{ a.cost }}</td>
+              </tr>
+              <tr v-if="filteredArmor.length === 0"><td colspan="6" class="no-results">No armor matches your search.</td></tr>
+            </tbody>
+          </table>
+        </div>
+      </div>
+
+      <!-- SHIELDS VIEW -->
+      <div v-else-if="activeTab === 'shields'" class="catalog-section">
+        <div class="toolbar-row">
+          <div class="search-box-wrapper full-width">
+            <input v-model="searchQuery" type="text" placeholder="Search shields by name, description..." class="search-input" />
+            <span v-if="searchQuery" class="clear-search" @click="searchQuery = ''">✕</span>
+          </div>
+        </div>
+        <div class="results-count">Showing <strong>{{ filteredShields.length }}</strong> of {{ shieldCount }} shields</div>
+        <div class="table-responsive-wrapper">
+          <table class="data-table">
+            <thead>
+              <tr>
+                <th>Shield Name</th>
+                <th>Requirement</th>
+                <th>Max Block</th>
+                <th>MR</th>
+                <th>Description</th>
+                <th>Cost</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr v-for="(s, i) in filteredShields" :key="i">
+                <td class="font-bold text-primary">🛡️ {{ s.name }}</td>
+                <td>{{ s.requirement }}</td>
+                <td>{{ s.max_block }}</td>
+                <td>{{ s.mr }}</td>
+                <td class="effect-text">{{ s.description }}</td>
+                <td>{{ s.cost }}</td>
+              </tr>
+              <tr v-if="filteredShields.length === 0"><td colspan="6" class="no-results">No shields match your search.</td></tr>
+            </tbody>
+          </table>
+        </div>
+      </div>
+
+      <!-- GEAR VIEW -->
+      <div v-else-if="activeTab === 'gear'" class="catalog-section">
+        <div class="toolbar-row">
+          <div class="search-box-wrapper full-width">
+            <input v-model="searchQuery" type="text" placeholder="Search gear by name, category..." class="search-input" />
+            <span v-if="searchQuery" class="clear-search" @click="searchQuery = ''">✕</span>
+          </div>
+        </div>
+        <div class="results-count">Showing <strong>{{ filteredGear.length }}</strong> of {{ gearCount }} gear items</div>
+        <div class="table-responsive-wrapper">
+          <table class="data-table">
+            <thead>
+              <tr>
+                <th>Category</th>
+                <th>Item Name</th>
+                <th>Cost</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr v-for="(g, i) in filteredGear" :key="i">
+                <td><span class="badge-pill item-tier">{{ g.category }}</span></td>
+                <td class="font-bold text-primary">🧰 {{ g.name }}</td>
+                <td>{{ g.cost }}</td>
+              </tr>
+              <tr v-if="filteredGear.length === 0"><td colspan="3" class="no-results">No gear matches your search.</td></tr>
+            </tbody>
+          </table>
+        </div>
+      </div>
+
+      <!-- MONSTERS VIEW -->
+      <div v-else-if="activeTab === 'monsters'" class="catalog-section">
+        <div class="toolbar-row">
+          <div class="search-box-wrapper full-width">
+            <input v-model="searchQuery" type="text" placeholder="Search monsters by name, abilities..." class="search-input" />
+            <span v-if="searchQuery" class="clear-search" @click="searchQuery = ''">✕</span>
+          </div>
+        </div>
+        <div class="results-count">Showing <strong>{{ filteredMonsters.length }}</strong> of {{ monsterCount }} monsters</div>
+        <div class="table-responsive-wrapper">
+          <table class="data-table">
+            <thead>
+              <tr>
+                <th>Monster Name</th>
+                <th>Nish</th>
+                <th>MR</th>
+                <th>Atk / Dmg (Ftg)</th>
+                <th>Dod / AR</th>
+                <th>Vit</th>
+                <th>Attributes</th>
+                <th>Abilities</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr v-for="(m, i) in filteredMonsters" :key="i">
+                <td class="font-bold text-primary">🐉 {{ m.name }}</td>
+                <td>{{ m.nish }}</td>
+                <td>{{ m.mr }}</td>
+                <td>{{ m.atk_dmg_ftg }}</td>
+                <td>{{ m.dod_ar }}</td>
+                <td>{{ m.vit }}</td>
+                <td>{{ m.attributes }}</td>
+                <td class="effect-text">{{ m.abilities }}</td>
+              </tr>
+              <tr v-if="filteredMonsters.length === 0"><td colspan="8" class="no-results">No monsters match your search.</td></tr>
             </tbody>
           </table>
         </div>

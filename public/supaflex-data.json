@@ -39,24 +39,24 @@
     {
       "id": 227,
       "name": "Afterimage Step",
-      "usage": "1-⚡",
+      "usage": "1-Day",
       "action": "P",
       "effect": "Use before Def roll; 1 melee Atk vs you auto-misses",
       "source": "DB",
       "created_at": "2026-07-18T15:14:47.023782+00:00",
-      "dropdown": "Monk Powers - Afterimage Step⚡ (1-⚡, P) ➡ Use before Def roll; 1 melee Atk vs you auto-misses",
+      "dropdown": "Monk Powers - Afterimage Step⚡ (1-Day, P) ➡ Use before Def roll; 1 melee Atk vs you auto-misses",
       "sub": "Class",
       "table_name": "Monk Powers"
     },
     {
       "id": 77,
       "name": "Ale Fortitude",
-      "usage": "1-⚡",
+      "usage": "1-Day",
       "action": "P",
       "effect": "Resist✨ vs poison/fearwith Advantage for Encounter",
       "source": "Dwarf",
       "created_at": "2026-07-18T15:14:47.023782+00:00",
-      "dropdown": "Dwarf (Blackaxe Clan) - Ale Fortitude⚡ (1-⚡, P) ➡ Resist✨ vs poison/fearwith Advantage for Encounter",
+      "dropdown": "Dwarf (Blackaxe Clan) - Ale Fortitude⚡ (1-Day, P) ➡ Resist✨ vs poison/fearwith Advantage for Encounter",
       "sub": "Race",
       "table_name": "Dwarf (Blackaxe Clan)"
     },
@@ -111,12 +111,12 @@
     {
       "id": 103,
       "name": "Ancestral Bow",
-      "usage": "1-⚡",
+      "usage": "1-Day",
       "action": "A",
       "effect": "Bow auto-hits; normal Dmg💥",
       "source": "DB",
       "created_at": "2026-07-18T15:14:47.023782+00:00",
-      "dropdown": "Elf Powers - Ancestral Bow⚡ (1-⚡, A) ➡ Bow auto-hits; normal Dmg💥",
+      "dropdown": "Elf Powers - Ancestral Bow⚡ (1-Day, A) ➡ Bow auto-hits; normal Dmg💥",
       "sub": "Race",
       "table_name": "Elf Powers"
     },
@@ -135,24 +135,24 @@
     {
       "id": 963,
       "name": "Ancestral Guard",
-      "usage": "1-⚡",
+      "usage": "1-Day",
       "action": "F",
       "effect": "Call on clan spirits; allies in 2sq Nish🚩+1 for Encounter",
       "source": "Gutrek",
       "created_at": "2026-07-19T02:53:37.948311+00:00",
-      "dropdown": "Shield Warrior - Ancestral Guard⚡ (1-⚡, F) ➡ Call on clan spirits; allies in 2sq Nish🚩+1 for Encounter",
+      "dropdown": "Shield Warrior - Ancestral Guard⚡ (1-Day, F) ➡ Call on clan spirits; allies in 2sq Nish🚩+1 for Encounter",
       "sub": "Class",
       "table_name": "Shield Warrior"
     },
     {
       "id": 876,
       "name": "Ancestral Whisper",
-      "usage": "1-⚡",
+      "usage": "1-Day",
       "action": "P",
       "effect": "Next Mind👁️ roll with Advantage",
       "source": "Bloodmarked Human",
       "created_at": "2026-07-19T02:53:25.669348+00:00",
-      "dropdown": "Bloodmarked Human (Cursed Spartan) - Ancestral Whisper⚡ (1-⚡, P) ➡ Next Mind👁️ roll with Advantage",
+      "dropdown": "Bloodmarked Human (Cursed Spartan) - Ancestral Whisper⚡ (1-Day, P) ➡ Next Mind👁️ roll with Advantage",
       "sub": "Race",
       "table_name": "Bloodmarked Human (Cursed Spartan)"
     },
@@ -207,12 +207,12 @@
     {
       "id": 21,
       "name": "Ascend the Peaks",
-      "usage": "1-⚡",
+      "usage": "1-Day",
       "action": "M",
       "effect": "Teleport up to 6sq if terrain is vertical stone",
       "source": "Martial Artist",
       "created_at": "2026-07-18T15:14:47.023782+00:00",
-      "dropdown": "Blade Saint - Ascend the Peaks⚡ (1-⚡, M) ➡ Teleport up to 6sq if terrain is vertical stone",
+      "dropdown": "Blade Saint - Ascend the Peaks⚡ (1-Day, M) ➡ Teleport up to 6sq if terrain is vertical stone",
       "sub": "Class",
       "table_name": "Blade Saint"
     },
@@ -255,24 +255,24 @@
     {
       "id": 411,
       "name": "Astral Projection",
-      "usage": "1-⚡",
+      "usage": "1-Day",
       "action": "A",
       "effect": "Project vision for others to see; no roll",
       "source": "DB",
       "created_at": "2026-07-18T15:14:47.023782+00:00",
-      "dropdown": "Weird Powers - Astral Projection⚡ (1-⚡, A) ➡ Project vision for others to see; no roll",
+      "dropdown": "Weird Powers - Astral Projection⚡ (1-Day, A) ➡ Project vision for others to see; no roll",
       "sub": "Class",
       "table_name": "Weird Powers"
     },
     {
       "id": 304,
       "name": "Aura of Balance (Major)",
-      "usage": "1-⚡",
+      "usage": "1-Day",
       "action": "A",
       "effect": "Allies in 2sq heal d4; you suffer Dmg💥-1 for 1 rnd",
       "source": "Trevor",
       "created_at": "2026-07-18T15:14:47.023782+00:00",
-      "dropdown": "Shadowfist Healer-Monk - Aura of Balance (Major)⚡ (1-⚡, A) ➡ Allies in 2sq heal d4; you suffer Dmg💥-1 for 1 rnd",
+      "dropdown": "Shadowfist Healer-Monk - Aura of Balance (Major)⚡ (1-Day, A) ➡ Allies in 2sq heal d4; you suffer Dmg💥-1 for 1 rnd",
       "sub": "Class",
       "table_name": "Shadowfist Healer-Monk"
     },
@@ -483,12 +483,12 @@
     {
       "id": 961,
       "name": "Blackaxe Oath",
-      "usage": "1-⚡",
+      "usage": "1-Day",
       "action": "F",
       "effect": "If reduced to 0 Vit❤️; stay conscious until end of rnd",
       "source": "Gutrek",
       "created_at": "2026-07-19T02:53:37.667841+00:00",
-      "dropdown": "Shield Warrior - Blackaxe Oath⚡ (1-⚡, F) ➡ If reduced to 0 Vit❤️; stay conscious until end of rnd",
+      "dropdown": "Shield Warrior - Blackaxe Oath⚡ (1-Day, F) ➡ If reduced to 0 Vit❤️; stay conscious until end of rnd",
       "sub": "Class",
       "table_name": "Shield Warrior"
     },
@@ -531,24 +531,24 @@
     {
       "id": 154,
       "name": "Bless",
-      "usage": "1-⚡",
+      "usage": "2-Day",
       "action": "A",
       "effect": "One ally gains +1 to all rolls this encounter",
       "source": "DB",
       "created_at": "2026-07-18T15:14:47.023782+00:00",
-      "dropdown": "Healer Powers - Bless⚡ (1-⚡, A) ➡ One ally gains +1 to all rolls this encounter",
+      "dropdown": "Healer Powers - Bless⚡ (2-Day, A) ➡ One ally gains +1 to all rolls this encounter",
       "sub": "Class",
       "table_name": "Healer Powers"
     },
     {
       "id": 958,
       "name": "Blind Fighter’s Poise",
-      "usage": "1-⚡",
+      "usage": "1-Day",
       "action": "P",
       "effect": "Fight normally in darkness; Atk rolls no penalty for encounter",
       "source": "Gutrek",
       "created_at": "2026-07-19T02:53:37.23598+00:00",
-      "dropdown": "Shield Warrior - Blind Fighter’s Poise⚡ (1-⚡, P) ➡ Fight normally in darkness; Atk rolls no penalty for encounter",
+      "dropdown": "Shield Warrior - Blind Fighter’s Poise⚡ (1-Day, P) ➡ Fight normally in darkness; Atk rolls no penalty for encounter",
       "sub": "Class",
       "table_name": "Shield Warrior"
     },
@@ -651,26 +651,14 @@
     {
       "id": 880,
       "name": "Bloodmarked Defiance",
-      "usage": "1-⚡",
+      "usage": "1-Day",
       "action": "P",
       "effect": "When reduced to 0 Vit❤️; set to 1 Vit❤️ instead",
       "source": "Bloodmarked Human",
       "created_at": "2026-07-19T02:53:26.228045+00:00",
-      "dropdown": "Bloodmarked Human (Cursed Spartan) - Bloodmarked Defiance⚡ (1-⚡, P) ➡ When reduced to 0 Vit❤️; set to 1 Vit❤️ instead",
+      "dropdown": "Bloodmarked Human (Cursed Spartan) - Bloodmarked Defiance⚡ (1-Day, P) ➡ When reduced to 0 Vit❤️; set to 1 Vit❤️ instead",
       "sub": "Race",
       "table_name": "Bloodmarked Human (Cursed Spartan)"
-    },
-    {
-      "id": 328,
-      "name": "Bloodmarked Human",
-      "usage": "Each different Weapon has Advantage with next Attack, lasts for encounter",
-      "action": "Bloodmarked Human (Cursed Spartan) - Legion’s Might⚡ (1-⚡, F) ➡ Each different Weapon has Advantage with next Attack, lasts for encounter",
-      "effect": "2026-07-19T02:53:26.371223+00:00",
-      "source": "F",
-      "created_at": "2026-07-22T18:25:18.334149+00:00",
-      "dropdown": "1-⚡ - Bloodmarked Human⚡ (Each different Weapon has Advantage with next Attack, lasts for encounter, Bloodmarked Human (Cursed Spartan) - Legion’s Might⚡ (1-⚡, F) ➡ Each different Weapon has Advantage with next Attack, lasts for encounter) ➡ 2026-07-19T02:53:26.371223+00:00",
-      "sub": "Bloodmarked Human (Cursed Spartan)",
-      "table_name": "1-⚡"
     },
     {
       "id": 253,
@@ -687,12 +675,12 @@
     {
       "id": 396,
       "name": "Boomerang Block🛡️",
-      "usage": "1-⚡",
+      "usage": "1-Day",
       "action": "F",
       "effect": "Hurl shield to intercept Atk vs ally; roll Def normally, success = total Block🛡️ (no Dmg💥)",
       "source": "DB",
       "created_at": "2026-07-18T15:14:47.023782+00:00",
-      "dropdown": "Weapon & Shield Powers - Boomerang Block🛡️⚡ (1-⚡, F) ➡ Hurl shield to intercept Atk vs ally; roll Def normally, success = total Block🛡️ (no Dmg💥)",
+      "dropdown": "Weapon & Shield Powers - Boomerang Block🛡️⚡ (1-Day, F) ➡ Hurl shield to intercept Atk vs ally; roll Def normally, success = total Block🛡️ (no Dmg💥)",
       "sub": "Combat Style",
       "table_name": "Weapon & Shield Powers"
     },
@@ -759,26 +747,14 @@
     {
       "id": 1045,
       "name": "Brotherhood of the Garbage Can Gods",
-      "usage": "1-⚡",
+      "usage": "1-Day",
       "action": "F",
       "effect": "Call on ally memory; reroll 1 failed roll (self or ally)",
       "source": "Fighter – Punk Archetype",
       "created_at": "2026-07-19T02:53:49.516024+00:00",
-      "dropdown": "Punk Fighter - Brotherhood of the Garbage Can Gods⚡ (1-⚡, F) ➡ Call on ally memory; reroll 1 failed roll (self or ally)",
+      "dropdown": "Punk Fighter - Brotherhood of the Garbage Can Gods⚡ (1-Day, F) ➡ Call on ally memory; reroll 1 failed roll (self or ally)",
       "sub": "Class",
       "table_name": "Punk Fighter"
-    },
-    {
-      "id": 348,
-      "name": "Brute Force",
-      "usage": "Can wield massive objects as improvised weapons (Dmg💥+2) for encounter",
-      "action": "Giant Form - Titan’s Grip⚡ (1-⚡, P) ➡ Can wield massive objects as improvised weapons (Dmg💥+2) for encounter",
-      "effect": "2026-07-19T02:53:35.116869+00:00",
-      "source": "P",
-      "created_at": "2026-07-22T18:25:23.050114+00:00",
-      "dropdown": "1-⚡ - Brute Force⚡ (Can wield massive objects as improvised weapons (Dmg💥+2) for encounter, Giant Form - Titan’s Grip⚡ (1-⚡, P) ➡ Can wield massive objects as improvised weapons (Dmg💥+2) for encounter) ➡ 2026-07-19T02:53:35.116869+00:00",
-      "sub": "Giant Form",
-      "table_name": "1-⚡"
     },
     {
       "id": 875,
@@ -819,38 +795,26 @@
     {
       "id": 209,
       "name": "Chain Strikes",
-      "usage": "1-⚡",
+      "usage": "1-Day",
       "action": "A",
       "effect": "Make 3 Atk & Dmg💥 vs same foe",
       "source": "DB",
       "created_at": "2026-07-18T15:14:47.023782+00:00",
-      "dropdown": "Martial Arts Powers - Chain Strikes⚡ (1-⚡, A) ➡ Make 3 Atk & Dmg💥 vs same foe",
+      "dropdown": "Martial Arts Powers - Chain Strikes⚡ (1-Day, A) ➡ Make 3 Atk & Dmg💥 vs same foe",
       "sub": "Combat Style",
       "table_name": "Martial Arts Powers"
     },
     {
       "id": 88,
       "name": "Chaos Surge",
-      "usage": "1-⚡",
+      "usage": "1-Day",
       "action": "A",
       "effect": "Random elemental effect (as per GM🔎); usually Magic✨ Atk",
       "source": "DB",
       "created_at": "2026-07-18T15:14:47.023782+00:00",
-      "dropdown": "Elemental Mage Powers - Chaos Surge⚡ (1-⚡, A) ➡ Random elemental effect (as per GM🔎); usually Magic✨ Atk",
+      "dropdown": "Elemental Mage Powers - Chaos Surge⚡ (1-Day, A) ➡ Random elemental effect (as per GM🔎); usually Magic✨ Atk",
       "sub": "Class",
       "table_name": "Elemental Mage Powers"
-    },
-    {
-      "id": 256,
-      "name": "Charlie (Steilgar)",
-      "usage": "Gain Advantage on 1 Dodge🏃 roll this rnd.",
-      "action": "Psionic Sentinel - Uncanny Dodge (Mental Reflex)⚡ (1-Enc, P) ➡ Gain Advantage on 1 Dodge🏃 roll this rnd.",
-      "effect": "2026-07-18T15:14:47.023782+00:00",
-      "source": "P",
-      "created_at": "2026-07-22T18:24:50.434838+00:00",
-      "dropdown": "1-Enc - Charlie (Steilgar)⚡ (Gain Advantage on 1 Dodge🏃 roll this rnd., Psionic Sentinel - Uncanny Dodge (Mental Reflex)⚡ (1-Enc, P) ➡ Gain Advantage on 1 Dodge🏃 roll this rnd.) ➡ 2026-07-18T15:14:47.023782+00:00",
-      "sub": "Psionic Sentinel",
-      "table_name": "1-Enc"
     },
     {
       "id": 920,
@@ -903,12 +867,12 @@
     {
       "id": 189,
       "name": "Circus Survivor",
-      "usage": "1-⚡",
+      "usage": "1-Day",
       "action": "F",
       "effect": "When reduced to negavie Vit❤️; Resist✨ with Magic✨ vs 10+(negative wounds) to remain at 1 HP",
       "source": "Jesse",
       "created_at": "2026-07-18T15:14:47.023782+00:00",
-      "dropdown": ": Magnetic Wizard - Circus Survivor⚡ (1-⚡, F) ➡ When reduced to negavie Vit❤️; Resist✨ with Magic✨ vs 10+(negative wounds) to remain at 1 HP",
+      "dropdown": ": Magnetic Wizard - Circus Survivor⚡ (1-Day, F) ➡ When reduced to negavie Vit❤️; Resist✨ with Magic✨ vs 10+(negative wounds) to remain at 1 HP",
       "sub": "Class",
       "table_name": ": Magnetic Wizard"
     },
@@ -1023,12 +987,12 @@
     {
       "id": 245,
       "name": "Community Spirit",
-      "usage": "1-⚡",
+      "usage": "1-Day",
       "action": "F",
       "effect": "Ally reroll one failed roll",
       "source": "DB",
       "created_at": "2026-07-18T15:14:47.023782+00:00",
-      "dropdown": "Nelf Powers - Community Spirit⚡ (1-⚡, F) ➡ Ally reroll one failed roll",
+      "dropdown": "Nelf Powers - Community Spirit⚡ (1-Day, F) ➡ Ally reroll one failed roll",
       "sub": "Race",
       "table_name": "Nelf Powers"
     },
@@ -1143,12 +1107,12 @@
     {
       "id": 27,
       "name": "Crushing Lotus",
-      "usage": "1-⚡",
+      "usage": "1-Day",
       "action": "A",
       "effect": "This attack gains Atk⚔️+2 and Dmg💥+2",
       "source": "Martial Artist",
       "created_at": "2026-07-18T15:14:47.023782+00:00",
-      "dropdown": "Blade Saint - Crushing Lotus⚡ (1-⚡, A) ➡ This attack gains Atk⚔️+2 and Dmg💥+2",
+      "dropdown": "Blade Saint - Crushing Lotus⚡ (1-Day, A) ➡ This attack gains Atk⚔️+2 and Dmg💥+2",
       "sub": "Class",
       "table_name": "Blade Saint"
     },
@@ -1167,12 +1131,12 @@
     {
       "id": 45,
       "name": "Cursebound Defiance",
-      "usage": "1-⚡",
+      "usage": "1-Day",
       "action": "F",
       "effect": "Cancel 1 condition on self (Stunned/Weakened)",
       "source": "Shieldbearer / Executioner",
       "created_at": "2026-07-18T15:14:47.023782+00:00",
-      "dropdown": "Cursed Spartan - Cursebound Defiance⚡ (1-⚡, F) ➡ Cancel 1 condition on self (Stunned/Weakened)",
+      "dropdown": "Cursed Spartan - Cursebound Defiance⚡ (1-Day, F) ➡ Cancel 1 condition on self (Stunned/Weakened)",
       "sub": "Class",
       "table_name": "Cursed Spartan"
     },
@@ -1251,26 +1215,14 @@
     {
       "id": 1087,
       "name": "Dawn’s Aegis",
-      "usage": "1-⚡",
+      "usage": "1-Day",
       "action": "P",
       "effect": "All allies in 3sq gain AR🧥+1 for 1 Enc",
       "source": "Phill (Solen)",
       "created_at": "2026-07-19T02:53:55.500236+00:00",
-      "dropdown": "Sun-Devoted Healer-Protector - Dawn’s Aegis⚡ (1-⚡, P) ➡ All allies in 3sq gain AR🧥+1 for 1 Enc",
+      "dropdown": "Sun-Devoted Healer-Protector - Dawn’s Aegis⚡ (1-Day, P) ➡ All allies in 3sq gain AR🧥+1 for 1 Enc",
       "sub": "Class",
       "table_name": "Sun-Devoted Healer-Protector"
-    },
-    {
-      "id": 212,
-      "name": "DB",
-      "usage": "Predict weather for 1 day; no roll",
-      "action": "Weird Powers - Weather Sense⚡ (1-⚡, A) ➡ Predict weather for 1 day; no roll",
-      "effect": "2026-07-18T15:14:47.023782+00:00",
-      "source": "A",
-      "created_at": "2026-07-22T18:24:40.924835+00:00",
-      "dropdown": "1-⚡ - DB⚡ (Predict weather for 1 day; no roll, Weird Powers - Weather Sense⚡ (1-⚡, A) ➡ Predict weather for 1 day; no roll) ➡ 2026-07-18T15:14:47.023782+00:00",
-      "sub": "Weird Powers",
-      "table_name": "1-⚡"
     },
     {
       "id": 297,
@@ -1323,12 +1275,12 @@
     {
       "id": 29,
       "name": "Defiance Stance",
-      "usage": "1-⚡",
+      "usage": "1-Day",
       "action": "A",
       "effect": "For 1 rnd; AR🧥+2, Dmg💥+2",
       "source": "Martial Artist",
       "created_at": "2026-07-18T15:14:47.023782+00:00",
-      "dropdown": "Blade Saint - Defiance Stance⚡ (1-⚡, A) ➡ For 1 rnd; AR🧥+2, Dmg💥+2",
+      "dropdown": "Blade Saint - Defiance Stance⚡ (1-Day, A) ➡ For 1 rnd; AR🧥+2, Dmg💥+2",
       "sub": "Class",
       "table_name": "Blade Saint"
     },
@@ -1419,12 +1371,12 @@
     {
       "id": 367,
       "name": "Doppelgänger Bluff",
-      "usage": "1-⚡",
+      "usage": "1-Day",
       "action": "A",
       "effect": "Impersonate someone nearby; Mind👁️ disguise roll",
       "source": "DB",
       "created_at": "2026-07-18T15:14:47.023782+00:00",
-      "dropdown": "Trickster Powers - Doppelgänger Bluff⚡ (1-⚡, A) ➡ Impersonate someone nearby; Mind👁️ disguise roll",
+      "dropdown": "Trickster Powers - Doppelgänger Bluff⚡ (1-Day, A) ➡ Impersonate someone nearby; Mind👁️ disguise roll",
       "sub": "Class",
       "table_name": "Trickster Powers"
     },
@@ -1455,24 +1407,24 @@
     {
       "id": 211,
       "name": "Dragon Strike",
-      "usage": "1-⚡",
+      "usage": "1-Day",
       "action": "A",
       "effect": "Mighty blow; Atk Dmg💥+3",
       "source": "DB",
       "created_at": "2026-07-18T15:14:47.023782+00:00",
-      "dropdown": "Martial Arts Powers - Dragon Strike⚡ (1-⚡, A) ➡ Mighty blow; Atk Dmg💥+3",
+      "dropdown": "Martial Arts Powers - Dragon Strike⚡ (1-Day, A) ➡ Mighty blow; Atk Dmg💥+3",
       "sub": "Combat Style",
       "table_name": "Martial Arts Powers"
     },
     {
       "id": 413,
       "name": "Dream Walk",
-      "usage": "1-⚡",
+      "usage": "1-Day",
       "action": "A",
       "effect": "Enter ally’s dreams; share messages; no roll",
       "source": "DB",
       "created_at": "2026-07-18T15:14:47.023782+00:00",
-      "dropdown": "Weird Powers - Dream Walk⚡ (1-⚡, A) ➡ Enter ally’s dreams; share messages; no roll",
+      "dropdown": "Weird Powers - Dream Walk⚡ (1-Day, A) ➡ Enter ally’s dreams; share messages; no roll",
       "sub": "Class",
       "table_name": "Weird Powers"
     },
@@ -1537,18 +1489,6 @@
       "table_name": "Umbral Kin Half-Orc Powers"
     },
     {
-      "id": 325,
-      "name": "Dwarf",
-      "usage": "Allies in 2sq Resist✨+1 for Encounter",
-      "action": "Dwarf (Blackaxe Clan) - Loyal Heart⚡ (1-⚡, F) ➡ Allies in 2sq Resist✨+1 for Encounter",
-      "effect": "2026-07-19T02:53:24.968692+00:00",
-      "source": "F",
-      "created_at": "2026-07-22T18:25:16.864053+00:00",
-      "dropdown": "1-⚡ - Dwarf⚡ (Allies in 2sq Resist✨+1 for Encounter, Dwarf (Blackaxe Clan) - Loyal Heart⚡ (1-⚡, F) ➡ Allies in 2sq Resist✨+1 for Encounter) ➡ 2026-07-19T02:53:24.968692+00:00",
-      "sub": "Dwarf (Blackaxe Clan)",
-      "table_name": "1-⚡"
-    },
-    {
       "id": 384,
       "name": "Earthquake Stomp",
       "usage": "1-Enc",
@@ -1611,12 +1551,12 @@
     {
       "id": 7,
       "name": "Echo Verse",
-      "usage": "1-⚡",
+      "usage": "1-Day",
       "action": "A",
       "effect": "Repeat last spell cast nearby at half effect (Magic✨)",
       "source": "DB",
       "created_at": "2026-07-18T15:14:47.023782+00:00",
-      "dropdown": "Bard (Musical Rogue) Powers - Echo Verse⚡ (1-⚡, A) ➡ Repeat last spell cast nearby at half effect (Magic✨)",
+      "dropdown": "Bard (Musical Rogue) Powers - Echo Verse⚡ (1-Day, A) ➡ Repeat last spell cast nearby at half effect (Magic✨)",
       "sub": "Class",
       "table_name": "Bard (Musical Rogue) Powers"
     },
@@ -1647,24 +1587,24 @@
     {
       "id": 89,
       "name": "Elemental Armor",
-      "usage": "1-⚡",
+      "usage": "1-Day",
       "action": "P",
       "effect": "AR🧥+2 (or +2 Save✨) vs a chosen element for Encounter",
       "source": "DB",
       "created_at": "2026-07-18T15:14:47.023782+00:00",
-      "dropdown": "Elemental Mage Powers - Elemental Armor⚡ (1-⚡, P) ➡ AR🧥+2 (or +2 Save✨) vs a chosen element for Encounter",
+      "dropdown": "Elemental Mage Powers - Elemental Armor⚡ (1-Day, P) ➡ AR🧥+2 (or +2 Save✨) vs a chosen element for Encounter",
       "sub": "Class",
       "table_name": "Elemental Mage Powers"
     },
     {
       "id": 90,
       "name": "Elemental Burst",
-      "usage": "1-⚡",
+      "usage": "1-Day",
       "action": "P",
       "effect": "Choose either fire/ice/lightning; Magic✨ Atk Dmg💥+1 for Encounter",
       "source": "DB",
       "created_at": "2026-07-18T15:14:47.023782+00:00",
-      "dropdown": "Elemental Mage Powers - Elemental Burst⚡ (1-⚡, P) ➡ Choose either fire/ice/lightning; Magic✨ Atk Dmg💥+1 for Encounter",
+      "dropdown": "Elemental Mage Powers - Elemental Burst⚡ (1-Day, P) ➡ Choose either fire/ice/lightning; Magic✨ Atk Dmg💥+1 for Encounter",
       "sub": "Class",
       "table_name": "Elemental Mage Powers"
     },
@@ -1717,18 +1657,6 @@
       "table_name": "Pixie Form"
     },
     {
-      "id": 255,
-      "name": "Fairy",
-      "usage": "Fly MR👣; Hover in place",
-      "action": "Fairy (Sunblessed Fey) - Winged Flight⚡ (1-Enc, M) ➡ Fly MR👣; Hover in place",
-      "effect": "2026-07-18T15:14:47.023782+00:00",
-      "source": "M",
-      "created_at": "2026-07-22T18:24:48.317529+00:00",
-      "dropdown": "1-Enc - Fairy⚡ (Fly MR👣; Hover in place, Fairy (Sunblessed Fey) - Winged Flight⚡ (1-Enc, M) ➡ Fly MR👣; Hover in place) ➡ 2026-07-18T15:14:47.023782+00:00",
-      "sub": "Fairy (Sunblessed Fey)",
-      "table_name": "1-Enc"
-    },
-    {
       "id": 231,
       "name": "Feather Step",
       "usage": "1-Enc",
@@ -1755,12 +1683,12 @@
     {
       "id": 113,
       "name": "Fey Glamour",
-      "usage": "1-⚡",
+      "usage": "1-Day",
       "action": "P",
       "effect": "Target Resist✨ or Charmed for 1 rnd",
       "source": "Fairy",
       "created_at": "2026-07-18T15:14:47.023782+00:00",
-      "dropdown": "Fairy (Sunblessed Fey) - Fey Glamour⚡ (1-⚡, P) ➡ Target Resist✨ or Charmed for 1 rnd",
+      "dropdown": "Fairy (Sunblessed Fey) - Fey Glamour⚡ (1-Day, P) ➡ Target Resist✨ or Charmed for 1 rnd",
       "sub": "Race",
       "table_name": "Fairy (Sunblessed Fey)"
     },
@@ -1827,26 +1755,14 @@
     {
       "id": 257,
       "name": "Feytongue",
-      "usage": "1-⚡",
+      "usage": "1-Day",
       "action": "F",
       "effect": "Mind👁️ speak any language for encounter",
       "source": "Nymph",
       "created_at": "2026-07-18T15:14:47.023782+00:00",
-      "dropdown": "Nymph (Thryndralis Trickster) - Feytongue⚡ (1-⚡, F) ➡ Mind👁️ speak any language for encounter",
+      "dropdown": "Nymph (Thryndralis Trickster) - Feytongue⚡ (1-Day, F) ➡ Mind👁️ speak any language for encounter",
       "sub": "Race",
       "table_name": "Nymph (Thryndralis Trickster)"
-    },
-    {
-      "id": 373,
-      "name": "Fighter – Punk Archetype",
-      "usage": "Spot danger👁️; Nish🚩+2 on next roll",
-      "action": "Punk Fighter - Street Instincts⚡ (1-Enc, F) ➡ Spot danger👁️; Nish🚩+2 on next roll",
-      "effect": "2026-07-19T02:53:49.930038+00:00",
-      "source": "F",
-      "created_at": "2026-07-22T18:25:28.014629+00:00",
-      "dropdown": "1-Enc - Fighter – Punk Archetype⚡ (Spot danger👁️; Nish🚩+2 on next roll, Punk Fighter - Street Instincts⚡ (1-Enc, F) ➡ Spot danger👁️; Nish🚩+2 on next roll) ➡ 2026-07-19T02:53:49.930038+00:00",
-      "sub": "Punk Fighter",
-      "table_name": "1-Enc"
     },
     {
       "id": 133,
@@ -1875,12 +1791,12 @@
     {
       "id": 92,
       "name": "Fireball",
-      "usage": "1-⚡",
+      "usage": "1-Day",
       "action": "A",
       "effect": "Magic✨ Atk AOE blast d8 fire Dmg💥",
       "source": "DB",
       "created_at": "2026-07-18T15:14:47.023782+00:00",
-      "dropdown": "Elemental Mage Powers - Fireball⚡ (1-⚡, A) ➡ Magic✨ Atk AOE blast d8 fire Dmg💥",
+      "dropdown": "Elemental Mage Powers - Fireball⚡ (1-Day, A) ➡ Magic✨ Atk AOE blast d8 fire Dmg💥",
       "sub": "Class",
       "table_name": "Elemental Mage Powers"
     },
@@ -1899,12 +1815,12 @@
     {
       "id": 93,
       "name": "Flame Wave",
-      "usage": "1-⚡",
+      "usage": "1-Day",
       "action": "A",
       "effect": "Magic✨ Atk line d6 fire Dmg💥",
       "source": "DB",
       "created_at": "2026-07-18T15:14:47.023782+00:00",
-      "dropdown": "Elemental Mage Powers - Flame Wave⚡ (1-⚡, A) ➡ Magic✨ Atk line d6 fire Dmg💥",
+      "dropdown": "Elemental Mage Powers - Flame Wave⚡ (1-Day, A) ➡ Magic✨ Atk line d6 fire Dmg💥",
       "sub": "Class",
       "table_name": "Elemental Mage Powers"
     },
@@ -2043,12 +1959,12 @@
     {
       "id": 959,
       "name": "Forge-Bound Shout",
-      "usage": "1-⚡",
+      "usage": "1-Day",
       "action": "P",
       "effect": "Adjacent allies gain Def+1 for Encounter",
       "source": "Gutrek",
       "created_at": "2026-07-19T02:53:37.371973+00:00",
-      "dropdown": "Shield Warrior - Forge-Bound Shout⚡ (1-⚡, P) ➡ Adjacent allies gain Def+1 for Encounter",
+      "dropdown": "Shield Warrior - Forge-Bound Shout⚡ (1-Day, P) ➡ Adjacent allies gain Def+1 for Encounter",
       "sub": "Class",
       "table_name": "Shield Warrior"
     },
@@ -2127,24 +2043,24 @@
     {
       "id": 191,
       "name": "Gambler’s Luck🍀",
-      "usage": "1-⚡",
+      "usage": "1-Day",
       "action": "P",
       "effect": "Reroll 1 failed Mind👁️ or Motion🏃 roll",
       "source": "Jesse",
       "created_at": "2026-07-18T15:14:47.023782+00:00",
-      "dropdown": ": Magnetic Wizard - Gambler’s Luck🍀⚡ (1-⚡, P) ➡ Reroll 1 failed Mind👁️ or Motion🏃 roll",
+      "dropdown": ": Magnetic Wizard - Gambler’s Luck🍀⚡ (1-Day, P) ➡ Reroll 1 failed Mind👁️ or Motion🏃 roll",
       "sub": "Class",
       "table_name": ": Magnetic Wizard"
     },
     {
       "id": 50,
       "name": "Ghost Phalanx",
-      "usage": "1-⚡",
+      "usage": "1-Day",
       "action": "F",
       "effect": "Adjacent allies AR🧥+1 as spectral shields form for encounter",
       "source": "Shieldbearer / Executioner",
       "created_at": "2026-07-18T15:14:47.023782+00:00",
-      "dropdown": "Cursed Spartan - Ghost Phalanx⚡ (1-⚡, F) ➡ Adjacent allies AR🧥+1 as spectral shields form for encounter",
+      "dropdown": "Cursed Spartan - Ghost Phalanx⚡ (1-Day, F) ➡ Adjacent allies AR🧥+1 as spectral shields form for encounter",
       "sub": "Class",
       "table_name": "Cursed Spartan"
     },
@@ -2175,12 +2091,12 @@
     {
       "id": 259,
       "name": "Glamour Shift",
-      "usage": "1-⚡",
+      "usage": "1-Day",
       "action": "P",
       "effect": "Change appearance completely (similarsize) for Encounter",
       "source": "Nymph",
       "created_at": "2026-07-18T15:14:47.023782+00:00",
-      "dropdown": "Nymph (Thryndralis Trickster) - Glamour Shift⚡ (1-⚡, P) ➡ Change appearance completely (similarsize) for Encounter",
+      "dropdown": "Nymph (Thryndralis Trickster) - Glamour Shift⚡ (1-Day, P) ➡ Change appearance completely (similarsize) for Encounter",
       "sub": "Race",
       "table_name": "Nymph (Thryndralis Trickster)"
     },
@@ -2223,24 +2139,24 @@
     {
       "id": 124,
       "name": "Gnome Luck🍀",
-      "usage": "1-⚡",
+      "usage": "1-Day",
       "action": "F",
       "effect": "Reroll one failed roll",
       "source": "DB",
       "created_at": "2026-07-18T15:14:47.023782+00:00",
-      "dropdown": "Gnome Powers - Gnome Luck🍀⚡ (1-⚡, F) ➡ Reroll one failed roll",
+      "dropdown": "Gnome Powers - Gnome Luck🍀⚡ (1-Day, F) ➡ Reroll one failed roll",
       "sub": "Race",
       "table_name": "Gnome Powers"
     },
     {
       "id": 134,
       "name": "Goblin Glee",
-      "usage": "1-⚡",
+      "usage": "1-Day",
       "action": "F",
       "effect": "After a crit; gain 1 Luck🍀 chit",
       "source": "DB",
       "created_at": "2026-07-18T15:14:47.023782+00:00",
-      "dropdown": "Goblin Powers - Goblin Glee⚡ (1-⚡, F) ➡ After a crit; gain 1 Luck🍀 chit",
+      "dropdown": "Goblin Powers - Goblin Glee⚡ (1-Day, F) ➡ After a crit; gain 1 Luck🍀 chit",
       "sub": "Race",
       "table_name": "Goblin Powers"
     },
@@ -2271,12 +2187,12 @@
     {
       "id": 157,
       "name": "Group Huddle",
-      "usage": "1-⚡",
+      "usage": "1-Day",
       "action": "P",
       "effect": "All allies nearby gain +1 to next roll",
       "source": "DB",
       "created_at": "2026-07-18T15:14:47.023782+00:00",
-      "dropdown": "Healer Powers - Group Huddle⚡ (1-⚡, P) ➡ All allies nearby gain +1 to next roll",
+      "dropdown": "Healer Powers - Group Huddle⚡ (1-Day, P) ➡ All allies nearby gain +1 to next roll",
       "sub": "Class",
       "table_name": "Healer Powers"
     },
@@ -2315,18 +2231,6 @@
       "dropdown": "Single Weapon Powers - Guarded Step⚡ (1-Rnd, M) ➡ Move up to 3sq; attempt Block🛡️ with weapon to aid ally",
       "sub": "Combat Style",
       "table_name": "Single Weapon Powers"
-    },
-    {
-      "id": 361,
-      "name": "Gutrek",
-      "usage": "Call on clan spirits; allies in 2sq Nish🚩+1 for Encounter",
-      "action": "Shield Warrior - Ancestral Guard⚡ (1-⚡, F) ➡ Call on clan spirits; allies in 2sq Nish🚩+1 for Encounter",
-      "effect": "2026-07-19T02:53:37.948311+00:00",
-      "source": "F",
-      "created_at": "2026-07-22T18:25:25.339268+00:00",
-      "dropdown": "1-⚡ - Gutrek⚡ (Call on clan spirits; allies in 2sq Nish🚩+1 for Encounter, Shield Warrior - Ancestral Guard⚡ (1-⚡, F) ➡ Call on clan spirits; allies in 2sq Nish🚩+1 for Encounter) ➡ 2026-07-19T02:53:37.948311+00:00",
-      "sub": "Shield Warrior",
-      "table_name": "1-⚡"
     },
     {
       "id": 246,
@@ -2403,12 +2307,12 @@
     {
       "id": 247,
       "name": "Hearth Magic",
-      "usage": "1-⚡",
+      "usage": "1-Day",
       "action": "A",
       "effect": "Heal 1 Vit❤️ to all allies",
       "source": "DB",
       "created_at": "2026-07-18T15:14:47.023782+00:00",
-      "dropdown": "Nelf Powers - Hearth Magic⚡ (1-⚡, A) ➡ Heal 1 Vit❤️ to all allies",
+      "dropdown": "Nelf Powers - Hearth Magic⚡ (1-Day, A) ➡ Heal 1 Vit❤️ to all allies",
       "sub": "Race",
       "table_name": "Nelf Powers"
     },
@@ -2461,18 +2365,6 @@
       "table_name": "Goblin Powers"
     },
     {
-      "id": 282,
-      "name": "Human",
-      "usage": "After you succeed a Resist✨ vs a mental effect; Make Mind👁️ to Weaken the Attacker for 1 rnd.",
-      "action": "Human (Aethelgard Bloodline) - Veiled Mind⚡ (1-⚡, F) ➡ After you succeed a Resist✨ vs a mental effect; Make Mind👁️ to Weaken the Attacker for 1 rnd.",
-      "effect": "2026-07-18T15:14:47.023782+00:00",
-      "source": "F",
-      "created_at": "2026-07-22T18:24:55.945259+00:00",
-      "dropdown": "1-⚡ - Human⚡ (After you succeed a Resist✨ vs a mental effect; Make Mind👁️ to Weaken the Attacker for 1 rnd., Human (Aethelgard Bloodline) - Veiled Mind⚡ (1-⚡, F) ➡ After you succeed a Resist✨ vs a mental effect; Make Mind👁️ to Weaken the Attacker for 1 rnd.) ➡ 2026-07-18T15:14:47.023782+00:00",
-      "sub": "Human (Aethelgard Bloodline)",
-      "table_name": "1-⚡"
-    },
-    {
       "id": 172,
       "name": "Human Grit",
       "usage": "1-Luck",
@@ -2483,18 +2375,6 @@
       "dropdown": "Human (Aethelgard Bloodline) - Human Grit⚡ (1-Luck, F) ➡ Reroll one failed Ability Roll.",
       "sub": "Race",
       "table_name": "Human (Aethelgard Bloodline)"
-    },
-    {
-      "id": 319,
-      "name": "Human Thief Assassin",
-      "usage": "Allies in earshot gain Nish🚩+1 this rnd",
-      "action": "Phantom Tainville - Whispered Signal⚡ (1-Enc, F) ➡ Allies in earshot gain Nish🚩+1 this rnd",
-      "effect": "2026-07-18T15:14:47.023782+00:00",
-      "source": "F",
-      "created_at": "2026-07-22T18:25:07.696896+00:00",
-      "dropdown": "1-Enc - Human Thief Assassin⚡ (Allies in earshot gain Nish🚩+1 this rnd, Phantom Tainville - Whispered Signal⚡ (1-Enc, F) ➡ Allies in earshot gain Nish🚩+1 this rnd) ➡ 2026-07-18T15:14:47.023782+00:00",
-      "sub": "Phantom Tainville",
-      "table_name": "1-Enc"
     },
     {
       "id": 264,
@@ -2557,26 +2437,14 @@
       "table_name": "Shield Warrior"
     },
     {
-      "id": 383,
-      "name": "Illusions & Shadows",
-      "usage": "Detect illusions & glamours with Advantage for encounter",
-      "action": "Pixie Form - Unseen Observer⚡ (1-⚡, F) ➡ Detect illusions & glamours with Advantage for encounter",
-      "effect": "2026-07-19T02:53:33.70288+00:00",
-      "source": "F",
-      "created_at": "2026-07-22T18:25:32.319492+00:00",
-      "dropdown": "1-⚡ - Illusions & Shadows⚡ (Detect illusions & glamours with Advantage for encounter, Pixie Form - Unseen Observer⚡ (1-⚡, F) ➡ Detect illusions & glamours with Advantage for encounter) ➡ 2026-07-19T02:53:33.70288+00:00",
-      "sub": "Pixie Form",
-      "table_name": "1-⚡"
-    },
-    {
       "id": 924,
       "name": "Illusory Army",
-      "usage": "1-⚡",
+      "usage": "1-Day",
       "action": "A",
       "effect": "Create 1d4 illusory allies; Mind👁️ or foes believe for Encounter",
       "source": "Illusions & Shadows",
       "created_at": "2026-07-19T02:53:32.452291+00:00",
-      "dropdown": "Pixie Form - Illusory Army⚡ (1-⚡, A) ➡ Create 1d4 illusory allies; Mind👁️ or foes believe for Encounter",
+      "dropdown": "Pixie Form - Illusory Army⚡ (1-Day, A) ➡ Create 1d4 illusory allies; Mind👁️ or foes believe for Encounter",
       "sub": "Class",
       "table_name": "Pixie Form"
     },
@@ -2619,12 +2487,12 @@
     {
       "id": 161,
       "name": "Inspiring Anthem",
-      "usage": "1-⚡",
+      "usage": "1-Day",
       "action": "A",
       "effect": "Ally rerolls a failed check",
       "source": "DB",
       "created_at": "2026-07-18T15:14:47.023782+00:00",
-      "dropdown": "Healer Powers - Inspiring Anthem⚡ (1-⚡, A) ➡ Ally rerolls a failed check",
+      "dropdown": "Healer Powers - Inspiring Anthem⚡ (1-Day, A) ➡ Ally rerolls a failed check",
       "sub": "Class",
       "table_name": "Healer Powers"
     },
@@ -2703,12 +2571,12 @@
     {
       "id": 335,
       "name": "Iron Focus",
-      "usage": "1-⚡",
+      "usage": "1-Day",
       "action": "F",
       "effect": "Reroll 1 missed Atk with this weapon",
       "source": "DB",
       "created_at": "2026-07-18T15:14:47.023782+00:00",
-      "dropdown": "Single Weapon Powers - Iron Focus⚡ (1-⚡, F) ➡ Reroll 1 missed Atk with this weapon",
+      "dropdown": "Single Weapon Powers - Iron Focus⚡ (1-Day, F) ➡ Reroll 1 missed Atk with this weapon",
       "sub": "Combat Style",
       "table_name": "Single Weapon Powers"
     },
@@ -2739,36 +2607,24 @@
     {
       "id": 279,
       "name": "Iron Will",
-      "usage": "1-⚡",
+      "usage": "1-Day",
       "action": "F",
       "effect": "Remove 1 condition (Stunned or Weakened).",
       "source": "Charlie (Steilgar)",
       "created_at": "2026-07-18T15:14:47.023782+00:00",
-      "dropdown": "Psionic Sentinel - Iron Will⚡ (1-⚡, F) ➡ Remove 1 condition (Stunned or Weakened).",
+      "dropdown": "Psionic Sentinel - Iron Will⚡ (1-Day, F) ➡ Remove 1 condition (Stunned or Weakened).",
       "sub": "Class",
       "table_name": "Psionic Sentinel"
     },
     {
-      "id": 289,
-      "name": "Jesse",
-      "usage": "Mind👁️ checks to detect scams, danger, or cheats at Advantage",
-      "action": ": Magnetic Wizard - Streetwise Eye⚡ (1-Enc, F) ➡ Mind👁️ checks to detect scams, danger, or cheats at Advantage",
-      "effect": "2026-07-18T15:14:47.023782+00:00",
-      "source": "F",
-      "created_at": "2026-07-22T18:24:58.710114+00:00",
-      "dropdown": "1-Enc - Jesse⚡ (Mind👁️ checks to detect scams, danger, or cheats at Advantage, : Magnetic Wizard - Streetwise Eye⚡ (1-Enc, F) ➡ Mind👁️ checks to detect scams, danger, or cheats at Advantage) ➡ 2026-07-18T15:14:47.023782+00:00",
-      "sub": ": Magnetic Wizard",
-      "table_name": "1-Enc"
-    },
-    {
       "id": 940,
       "name": "Juggernaut",
-      "usage": "1-⚡",
+      "usage": "1-Day",
       "action": "P",
       "effect": "AR🧥+2 vs all Atks while in Giant form for encounter",
       "source": "Brute Force",
       "created_at": "2026-07-19T02:53:34.692568+00:00",
-      "dropdown": "Giant Form - Juggernaut⚡ (1-⚡, P) ➡ AR🧥+2 vs all Atks while in Giant form for encounter",
+      "dropdown": "Giant Form - Juggernaut⚡ (1-Day, P) ➡ AR🧥+2 vs all Atks while in Giant form for encounter",
       "sub": "Class",
       "table_name": "Giant Form"
     },
@@ -2787,12 +2643,12 @@
     {
       "id": 925,
       "name": "Keeth’s Cry",
-      "usage": "1-⚡",
+      "usage": "1-Day",
       "action": "A",
       "effect": "Summon Keeth; allies in 3sq Nish🚩+2 for Encounter",
       "source": "Illusions & Shadows",
       "created_at": "2026-07-19T02:53:32.593931+00:00",
-      "dropdown": "Pixie Form - Keeth’s Cry⚡ (1-⚡, A) ➡ Summon Keeth; allies in 3sq Nish🚩+2 for Encounter",
+      "dropdown": "Pixie Form - Keeth’s Cry⚡ (1-Day, A) ➡ Summon Keeth; allies in 3sq Nish🚩+2 for Encounter",
       "sub": "Class",
       "table_name": "Pixie Form"
     },
@@ -2859,12 +2715,12 @@
     {
       "id": 194,
       "name": "Knife Savant",
-      "usage": "1-⚡",
+      "usage": "1-Day",
       "action": "F",
       "effect": "Thrown knives Atk+1 for encounter",
       "source": "Jesse",
       "created_at": "2026-07-18T15:14:47.023782+00:00",
-      "dropdown": ": Magnetic Wizard - Knife Savant⚡ (1-⚡, F) ➡ Thrown knives Atk+1 for encounter",
+      "dropdown": ": Magnetic Wizard - Knife Savant⚡ (1-Day, F) ➡ Thrown knives Atk+1 for encounter",
       "sub": "Class",
       "table_name": ": Magnetic Wizard"
     },
@@ -2895,24 +2751,24 @@
     {
       "id": 51,
       "name": "Last Stand",
-      "usage": "1-⚡",
+      "usage": "1-Day",
       "action": "A",
       "effect": "If reduced to negative Vit❤️; act normally until end of rnd",
       "source": "Shieldbearer / Executioner",
       "created_at": "2026-07-18T15:14:47.023782+00:00",
-      "dropdown": "Cursed Spartan - Last Stand⚡ (1-⚡, A) ➡ If reduced to negative Vit❤️; act normally until end of rnd",
+      "dropdown": "Cursed Spartan - Last Stand⚡ (1-Day, A) ➡ If reduced to negative Vit❤️; act normally until end of rnd",
       "sub": "Class",
       "table_name": "Cursed Spartan"
     },
     {
       "id": 96,
       "name": "Lava Pool",
-      "usage": "1-⚡",
+      "usage": "1-Day",
       "action": "A",
       "effect": "Create hazard; foes entering sq take Magic✨ Atk d6 fire Dmg💥",
       "source": "DB",
       "created_at": "2026-07-18T15:14:47.023782+00:00",
-      "dropdown": "Elemental Mage Powers - Lava Pool⚡ (1-⚡, A) ➡ Create hazard; foes entering sq take Magic✨ Atk d6 fire Dmg💥",
+      "dropdown": "Elemental Mage Powers - Lava Pool⚡ (1-Day, A) ➡ Create hazard; foes entering sq take Magic✨ Atk d6 fire Dmg💥",
       "sub": "Class",
       "table_name": "Elemental Mage Powers"
     },
@@ -2943,24 +2799,24 @@
     {
       "id": 12,
       "name": "Legendary Encore",
-      "usage": "1-⚡",
+      "usage": "1-Day",
       "action": "F",
       "effect": "Target (self or ally) reroll one failed roll",
       "source": "DB",
       "created_at": "2026-07-18T15:14:47.023782+00:00",
-      "dropdown": "Bard (Musical Rogue) Powers - Legendary Encore⚡ (1-⚡, F) ➡ Target (self or ally) reroll one failed roll",
+      "dropdown": "Bard (Musical Rogue) Powers - Legendary Encore⚡ (1-Day, F) ➡ Target (self or ally) reroll one failed roll",
       "sub": "Class",
       "table_name": "Bard (Musical Rogue) Powers"
     },
     {
       "id": 881,
       "name": "Legion’s Might",
-      "usage": "1-⚡",
+      "usage": "1-Day",
       "action": "F",
       "effect": "Each different Weapon has Advantage with next Attack, lasts for encounter",
       "source": "Bloodmarked Human",
       "created_at": "2026-07-19T02:53:26.371223+00:00",
-      "dropdown": "Bloodmarked Human (Cursed Spartan) - Legion’s Might⚡ (1-⚡, F) ➡ Each different Weapon has Advantage with next Attack, lasts for encounter",
+      "dropdown": "Bloodmarked Human (Cursed Spartan) - Legion’s Might⚡ (1-Day, F) ➡ Each different Weapon has Advantage with next Attack, lasts for encounter",
       "sub": "Race",
       "table_name": "Bloodmarked Human (Cursed Spartan)"
     },
@@ -3003,12 +2859,12 @@
     {
       "id": 415,
       "name": "Lorekeeper’s Recall",
-      "usage": "1-⚡",
+      "usage": "1-Day",
       "action": "A",
       "effect": "Declare 1 statement; GM🔎 confirms yes or no; no roll",
       "source": "DB",
       "created_at": "2026-07-18T15:14:47.023782+00:00",
-      "dropdown": "Weird Powers - Lorekeeper’s Recall⚡ (1-⚡, A) ➡ Declare 1 statement; GM🔎 confirms yes or no; no roll",
+      "dropdown": "Weird Powers - Lorekeeper’s Recall⚡ (1-Day, A) ➡ Declare 1 statement; GM🔎 confirms yes or no; no roll",
       "sub": "Class",
       "table_name": "Weird Powers"
     },
@@ -3039,12 +2895,12 @@
     {
       "id": 871,
       "name": "Loyal Heart",
-      "usage": "1-⚡",
+      "usage": "1-Day",
       "action": "F",
       "effect": "Allies in 2sq Resist✨+1 for Encounter",
       "source": "Dwarf",
       "created_at": "2026-07-19T02:53:24.968692+00:00",
-      "dropdown": "Dwarf (Blackaxe Clan) - Loyal Heart⚡ (1-⚡, F) ➡ Allies in 2sq Resist✨+1 for Encounter",
+      "dropdown": "Dwarf (Blackaxe Clan) - Loyal Heart⚡ (1-Day, F) ➡ Allies in 2sq Resist✨+1 for Encounter",
       "sub": "Race",
       "table_name": "Dwarf (Blackaxe Clan)"
     },
@@ -3183,12 +3039,12 @@
     {
       "id": 200,
       "name": "Magnetized Reflex",
-      "usage": "1-⚡",
+      "usage": "1-Day",
       "action": "F",
       "effect": "Dodge🏃 vs ranged metal weapons with Advantage for 1 rnd",
       "source": "Jesse",
       "created_at": "2026-07-18T15:14:47.023782+00:00",
-      "dropdown": ": Magnetic Wizard - Magnetized Reflex⚡ (1-⚡, F) ➡ Dodge🏃 vs ranged metal weapons with Advantage for 1 rnd",
+      "dropdown": ": Magnetic Wizard - Magnetized Reflex⚡ (1-Day, F) ➡ Dodge🏃 vs ranged metal weapons with Advantage for 1 rnd",
       "sub": "Class",
       "table_name": ": Magnetic Wizard"
     },
@@ -3219,12 +3075,12 @@
     {
       "id": 369,
       "name": "Master of Disguise",
-      "usage": "1-⚡",
+      "usage": "1-Day",
       "action": "A",
       "effect": "AppeAR🧥as another person; Mind👁️ disguise roll",
       "source": "DB",
       "created_at": "2026-07-18T15:14:47.023782+00:00",
-      "dropdown": "Trickster Powers - Master of Disguise⚡ (1-⚡, A) ➡ AppeAR🧥as another person; Mind👁️ disguise roll",
+      "dropdown": "Trickster Powers - Master of Disguise⚡ (1-Day, A) ➡ AppeAR🧥as another person; Mind👁️ disguise roll",
       "sub": "Class",
       "table_name": "Trickster Powers"
     },
@@ -3303,24 +3159,24 @@
     {
       "id": 281,
       "name": "Mind Lance",
-      "usage": "1-⚡",
+      "usage": "1-Day",
       "action": "A",
       "effect": "Magic✨ Atk🎯 6sq; on hit; Magic✨ force Dmg💥 d8 and Mind👁️ or target is Weakened for 1 rnd.",
       "source": "Charlie (Steilgar)",
       "created_at": "2026-07-18T15:14:47.023782+00:00",
-      "dropdown": "Psionic Sentinel - Mind Lance⚡ (1-⚡, A) ➡ Magic✨ Atk🎯 6sq; on hit; Magic✨ force Dmg💥 d8 and Mind👁️ or target is Weakened for 1 rnd.",
+      "dropdown": "Psionic Sentinel - Mind Lance⚡ (1-Day, A) ➡ Magic✨ Atk🎯 6sq; on hit; Magic✨ force Dmg💥 d8 and Mind👁️ or target is Weakened for 1 rnd.",
       "sub": "Class",
       "table_name": "Psionic Sentinel"
     },
     {
       "id": 234,
       "name": "Mind Over Body",
-      "usage": "1-⚡",
+      "usage": "1-Day",
       "action": "P",
       "effect": "Resist✨ poison/disease with Advantage and Heal self 1d4.",
       "source": "Charlie (Steilgar)",
       "created_at": "2026-07-18T15:14:47.023782+00:00",
-      "dropdown": "Psionic Sentinel - Mind Over Body⚡ (1-⚡, P) ➡ Resist✨ poison/disease with Advantage and Heal self 1d4.",
+      "dropdown": "Psionic Sentinel - Mind Over Body⚡ (1-Day, P) ➡ Resist✨ poison/disease with Advantage and Heal self 1d4.",
       "sub": "Class",
       "table_name": "Psionic Sentinel"
     },
@@ -3399,12 +3255,12 @@
     {
       "id": 35,
       "name": "Monastic Vow",
-      "usage": "1-⚡",
+      "usage": "1-Day",
       "action": "F",
       "effect": "Gain Luck🍀+1 once per Day",
       "source": "Martial Artist",
       "created_at": "2026-07-18T15:14:47.023782+00:00",
-      "dropdown": "Blade Saint - Monastic Vow⚡ (1-⚡, F) ➡ Gain Luck🍀+1 once per Day",
+      "dropdown": "Blade Saint - Monastic Vow⚡ (1-Day, F) ➡ Gain Luck🍀+1 once per Day",
       "sub": "Class",
       "table_name": "Blade Saint"
     },
@@ -3495,12 +3351,12 @@
     {
       "id": 53,
       "name": "Names of the Fallen",
-      "usage": "1-⚡",
+      "usage": "1-Day",
       "action": "P",
       "effect": "Speak shield’s names; allies in earshot next Nish🚩+2",
       "source": "Shieldbearer / Executioner",
       "created_at": "2026-07-18T15:14:47.023782+00:00",
-      "dropdown": "Cursed Spartan - Names of the Fallen⚡ (1-⚡, P) ➡ Speak shield’s names; allies in earshot next Nish🚩+2",
+      "dropdown": "Cursed Spartan - Names of the Fallen⚡ (1-Day, P) ➡ Speak shield’s names; allies in earshot next Nish🚩+2",
       "sub": "Class",
       "table_name": "Cursed Spartan"
     },
@@ -3563,18 +3419,6 @@
       "dropdown": "Nelf Powers - Nimble Step⚡ (1-Enc, M) ➡ Ignore rough terrain and all MR👣 impairments this rnd",
       "sub": "Race",
       "table_name": "Nelf Powers"
-    },
-    {
-      "id": 275,
-      "name": "Nymph",
-      "usage": "Mind👁️ or target is Charmed 1 rnd (does suggestive bidding if not extreme)",
-      "action": "Nymph (Thryndralis Trickster) - Veil of Beauty⚡ (1-Enc, A) ➡ Mind👁️ or target is Charmed 1 rnd (does suggestive bidding if not extreme)",
-      "effect": "2026-07-18T15:14:47.023782+00:00",
-      "source": "A",
-      "created_at": "2026-07-22T18:24:54.991727+00:00",
-      "dropdown": "1-Enc - Nymph⚡ (Mind👁️ or target is Charmed 1 rnd (does suggestive bidding if not extreme), Nymph (Thryndralis Trickster) - Veil of Beauty⚡ (1-Enc, A) ➡ Mind👁️ or target is Charmed 1 rnd (does suggestive bidding if not extreme)) ➡ 2026-07-18T15:14:47.023782+00:00",
-      "sub": "Nymph (Thryndralis Trickster)",
-      "table_name": "1-Enc"
     },
     {
       "id": 54,
@@ -3651,12 +3495,12 @@
     {
       "id": 266,
       "name": "Orc Resilience",
-      "usage": "1-⚡",
+      "usage": "1-Day",
       "action": "F",
       "effect": "Negate Stunned or Weakened or similar",
       "source": "DB",
       "created_at": "2026-07-18T15:14:47.023782+00:00",
-      "dropdown": "Orc Powers - Orc Resilience⚡ (1-⚡, F) ➡ Negate Stunned or Weakened or similar",
+      "dropdown": "Orc Powers - Orc Resilience⚡ (1-Day, F) ➡ Negate Stunned or Weakened or similar",
       "sub": "Race",
       "table_name": "Orc Powers"
     },
@@ -3723,12 +3567,12 @@
     {
       "id": 218,
       "name": "Palm Heal",
-      "usage": "1-⚡",
+      "usage": "1-Day",
       "action": "A",
       "effect": "On hit; normal Dmg💥 and heal self equal to Wounds caused",
       "source": "DB",
       "created_at": "2026-07-18T15:14:47.023782+00:00",
-      "dropdown": "Martial Arts Powers - Palm Heal⚡ (1-⚡, A) ➡ On hit; normal Dmg💥 and heal self equal to Wounds caused",
+      "dropdown": "Martial Arts Powers - Palm Heal⚡ (1-Day, A) ➡ On hit; normal Dmg💥 and heal self equal to Wounds caused",
       "sub": "Combat Style",
       "table_name": "Martial Arts Powers"
     },
@@ -3771,12 +3615,12 @@
     {
       "id": 55,
       "name": "Phalanx Advance",
-      "usage": "1-⚡",
+      "usage": "1-Day",
       "action": "AM",
       "effect": "Move with shield raised; allies in 2sq gain AR🧥+1 this rnd",
       "source": "Shieldbearer / Executioner",
       "created_at": "2026-07-18T15:14:47.023782+00:00",
-      "dropdown": "Cursed Spartan - Phalanx Advance⚡ (1-⚡, AM) ➡ Move with shield raised; allies in 2sq gain AR🧥+1 this rnd",
+      "dropdown": "Cursed Spartan - Phalanx Advance⚡ (1-Day, AM) ➡ Move with shield raised; allies in 2sq gain AR🧥+1 this rnd",
       "sub": "Class",
       "table_name": "Cursed Spartan"
     },
@@ -3815,18 +3659,6 @@
       "dropdown": "Psionic Sentinel - Phantom Step⚡ (2-Enc, M) ➡ Move MR👣; you do not provoke opportunity Atks this rnd.",
       "sub": "Class",
       "table_name": "Psionic Sentinel"
-    },
-    {
-      "id": 375,
-      "name": "Phill (Solen)",
-      "usage": "Once/day, Revive ally at ≤0 Vit❤️ to 1 Vit❤️",
-      "action": "Sun-Devoted Healer-Protector - Solara’s Vow⚡ (1-⚡, F) ➡ Once/day, Revive ally at ≤0 Vit❤️ to 1 Vit❤️",
-      "effect": "2026-07-19T02:53:55.779525+00:00",
-      "source": "F",
-      "created_at": "2026-07-22T18:25:29.387235+00:00",
-      "dropdown": "1-⚡ - Phill (Solen)⚡ (Once/day, Revive ally at ≤0 Vit❤️ to 1 Vit❤️, Sun-Devoted Healer-Protector - Solara’s Vow⚡ (1-⚡, F) ➡ Once/day, Revive ally at ≤0 Vit❤️ to 1 Vit❤️) ➡ 2026-07-19T02:53:55.779525+00:00",
-      "sub": "Sun-Devoted Healer-Protector",
-      "table_name": "1-⚡"
     },
     {
       "id": 353,
@@ -3939,12 +3771,12 @@
     {
       "id": 419,
       "name": "Portal Step",
-      "usage": "1-⚡",
+      "usage": "1-Day",
       "action": "M",
       "effect": "Open door; teleport anywhere in sight; no roll",
       "source": "DB",
       "created_at": "2026-07-18T15:14:47.023782+00:00",
-      "dropdown": "Weird Powers - Portal Step⚡ (1-⚡, M) ➡ Open door; teleport anywhere in sight; no roll",
+      "dropdown": "Weird Powers - Portal Step⚡ (1-Day, M) ➡ Open door; teleport anywhere in sight; no roll",
       "sub": "Class",
       "table_name": "Weird Powers"
     },
@@ -3999,12 +3831,12 @@
     {
       "id": 316,
       "name": "Pressure-Point Strike",
-      "usage": "1-⚡",
+      "usage": "1-Day",
       "action": "A",
       "effect": "On hit; target MR👣-2 for Encounter",
       "source": "Trevor",
       "created_at": "2026-07-18T15:14:47.023782+00:00",
-      "dropdown": "Shadowfist Healer-Monk - Pressure-Point Strike⚡ (1-⚡, A) ➡ On hit; target MR👣-2 for Encounter",
+      "dropdown": "Shadowfist Healer-Monk - Pressure-Point Strike⚡ (1-Day, A) ➡ On hit; target MR👣-2 for Encounter",
       "sub": "Class",
       "table_name": "Shadowfist Healer-Monk"
     },
@@ -4083,12 +3915,12 @@
     {
       "id": 317,
       "name": "Purging Breath",
-      "usage": "1-⚡",
+      "usage": "2-Day",
       "action": "A",
       "effect": "Cleanse 1 condition (Poison, Disease, Fatigue, Fear, Charm, Confusion, Stunned, Paralysis)",
       "source": "Phill (Solen)",
       "created_at": "2026-07-18T15:14:47.023782+00:00",
-      "dropdown": "Sun-Devoted Healer-Protector - Purging Breath⚡ (1-⚡, A) ➡ Cleanse 1 condition (Poison, Disease, Fatigue, Fear, Charm, Confusion, Stunned, Paralysis)",
+      "dropdown": "Sun-Devoted Healer-Protector - Purging Breath⚡ (2-Day, A) ➡ Cleanse 1 condition (Poison, Disease, Fatigue, Fear, Charm, Confusion, Stunned, Paralysis)",
       "sub": "Class",
       "table_name": "Sun-Devoted Healer-Protector"
     },
@@ -4131,12 +3963,12 @@
     {
       "id": 388,
       "name": "Quick Reflexes",
-      "usage": "1-⚡",
+      "usage": "2-Day",
       "action": "F",
       "effect": "Next Nish🚩 has Advantage",
       "source": "DB",
       "created_at": "2026-07-18T15:14:47.023782+00:00",
-      "dropdown": "Warrior Powers - Quick Reflexes⚡ (1-⚡, F) ➡ Next Nish🚩 has Advantage",
+      "dropdown": "Warrior Powers - Quick Reflexes⚡ (2-Day, F) ➡ Next Nish🚩 has Advantage",
       "sub": "Class",
       "table_name": "Warrior Powers"
     },
@@ -4179,12 +4011,12 @@
     {
       "id": 16,
       "name": "Rally Song",
-      "usage": "1-⚡",
+      "usage": "1-Day",
       "action": "A",
       "effect": "Allies in earshot Atk+1 for Encounter",
       "source": "DB",
       "created_at": "2026-07-18T15:14:47.023782+00:00",
-      "dropdown": "Bard (Musical Rogue) Powers - Rally Song⚡ (1-⚡, A) ➡ Allies in earshot Atk+1 for Encounter",
+      "dropdown": "Bard (Musical Rogue) Powers - Rally Song⚡ (1-Day, A) ➡ Allies in earshot Atk+1 for Encounter",
       "sub": "Class",
       "table_name": "Bard (Musical Rogue) Powers"
     },
@@ -4227,12 +4059,12 @@
     {
       "id": 204,
       "name": "Rapier Flourish",
-      "usage": "1-⚡",
+      "usage": "1-Day",
       "action": "A",
       "effect": "Melee Atk with rapier; Atk+1 if foe wears metal armor for encounter",
       "source": "Jesse",
       "created_at": "2026-07-18T15:14:47.023782+00:00",
-      "dropdown": ": Magnetic Wizard - Rapier Flourish⚡ (1-⚡, A) ➡ Melee Atk with rapier; Atk+1 if foe wears metal armor for encounter",
+      "dropdown": ": Magnetic Wizard - Rapier Flourish⚡ (1-Day, A) ➡ Melee Atk with rapier; Atk+1 if foe wears metal armor for encounter",
       "sub": "Class",
       "table_name": ": Magnetic Wizard"
     },
@@ -4311,24 +4143,24 @@
     {
       "id": 1083,
       "name": "Resist Corruption",
-      "usage": "1-⚡",
+      "usage": "1-Day",
       "action": "P",
       "effect": "Resist with Advantage vs disease, poison, undead effects for 1 Enc",
       "source": "Phill (Solen)",
       "created_at": "2026-07-19T02:53:54.949301+00:00",
-      "dropdown": "Sun-Devoted Healer-Protector - Resist Corruption⚡ (1-⚡, P) ➡ Resist with Advantage vs disease, poison, undead effects for 1 Enc",
+      "dropdown": "Sun-Devoted Healer-Protector - Resist Corruption⚡ (1-Day, P) ➡ Resist with Advantage vs disease, poison, undead effects for 1 Enc",
       "sub": "Class",
       "table_name": "Sun-Devoted Healer-Protector"
     },
     {
       "id": 165,
       "name": "Revive",
-      "usage": "1-⚡",
+      "usage": "1-Day",
       "action": "A",
       "effect": "Restore 1 ally at negative Vit❤️ to 1 Vit❤️",
       "source": "Trevor",
       "created_at": "2026-07-18T15:14:47.023782+00:00",
-      "dropdown": "Shadowfist Healer-Monk - Revive⚡ (1-⚡, A) ➡ Restore 1 ally at negative Vit❤️ to 1 Vit❤️",
+      "dropdown": "Shadowfist Healer-Monk - Revive⚡ (1-Day, A) ➡ Restore 1 ally at negative Vit❤️ to 1 Vit❤️",
       "sub": "Class",
       "table_name": "Shadowfist Healer-Monk"
     },
@@ -4383,12 +4215,12 @@
     {
       "id": 38,
       "name": "River Stone Patience",
-      "usage": "1-⚡",
+      "usage": "1-Day",
       "action": "F",
       "effect": "Reroll one failed roll (self or ally)",
       "source": "Martial Artist",
       "created_at": "2026-07-18T15:14:47.023782+00:00",
-      "dropdown": "Blade Saint - River Stone Patience⚡ (1-⚡, F) ➡ Reroll one failed roll (self or ally)",
+      "dropdown": "Blade Saint - River Stone Patience⚡ (1-Day, F) ➡ Reroll one failed roll (self or ally)",
       "sub": "Class",
       "table_name": "Blade Saint"
     },
@@ -4455,12 +4287,12 @@
     {
       "id": 869,
       "name": "Rune-Bound Grip",
-      "usage": "1-⚡",
+      "usage": "1-Day",
       "action": "P",
       "effect": "Immune to being Disarmed this encounter",
       "source": "Dwarf",
       "created_at": "2026-07-19T02:53:24.683396+00:00",
-      "dropdown": "Dwarf (Blackaxe Clan) - Rune-Bound Grip⚡ (1-⚡, P) ➡ Immune to being Disarmed this encounter",
+      "dropdown": "Dwarf (Blackaxe Clan) - Rune-Bound Grip⚡ (1-Day, P) ➡ Immune to being Disarmed this encounter",
       "sub": "Race",
       "table_name": "Dwarf (Blackaxe Clan)"
     },
@@ -4503,12 +4335,12 @@
     {
       "id": 137,
       "name": "Scrap Bomb",
-      "usage": "1-⚡",
+      "usage": "1-Day",
       "action": "A",
       "effect": "Toss a bomb; Magic✨ Atk for Magic✨+1 Dmg💥 in 2x2sq",
       "source": "DB",
       "created_at": "2026-07-18T15:14:47.023782+00:00",
-      "dropdown": "Goblin Powers - Scrap Bomb⚡ (1-⚡, A) ➡ Toss a bomb; Magic✨ Atk for Magic✨+1 Dmg💥 in 2x2sq",
+      "dropdown": "Goblin Powers - Scrap Bomb⚡ (1-Day, A) ➡ Toss a bomb; Magic✨ Atk for Magic✨+1 Dmg💥 in 2x2sq",
       "sub": "Race",
       "table_name": "Goblin Powers"
     },
@@ -4575,12 +4407,12 @@
     {
       "id": 288,
       "name": "Sever Thought",
-      "usage": "1-⚡",
+      "usage": "1-Day",
       "action": "A",
       "effect": "On hit; Mind👁️ or target cannot use Magic✨ Powers⚡ for 1 rnd.",
       "source": "Charlie (Steilgar)",
       "created_at": "2026-07-18T15:14:47.023782+00:00",
-      "dropdown": "Psionic Sentinel - Sever Thought⚡ (1-⚡, A) ➡ On hit; Mind👁️ or target cannot use Magic✨ Powers⚡ for 1 rnd.",
+      "dropdown": "Psionic Sentinel - Sever Thought⚡ (1-Day, A) ➡ On hit; Mind👁️ or target cannot use Magic✨ Powers⚡ for 1 rnd.",
       "sub": "Class",
       "table_name": "Psionic Sentinel"
     },
@@ -4599,12 +4431,12 @@
     {
       "id": 321,
       "name": "Shadow Hospice",
-      "usage": "1-⚡",
+      "usage": "1-Day",
       "action": "F",
       "effect": "If ally in 2sq would drop to 0; set them to 1 Vit❤️ instead",
       "source": "Trevor",
       "created_at": "2026-07-18T15:14:47.023782+00:00",
-      "dropdown": "Shadowfist Healer-Monk - Shadow Hospice⚡ (1-⚡, F) ➡ If ally in 2sq would drop to 0; set them to 1 Vit❤️ instead",
+      "dropdown": "Shadowfist Healer-Monk - Shadow Hospice⚡ (1-Day, F) ➡ If ally in 2sq would drop to 0; set them to 1 Vit❤️ instead",
       "sub": "Class",
       "table_name": "Shadowfist Healer-Monk"
     },
@@ -4707,12 +4539,12 @@
     {
       "id": 404,
       "name": "Shield Charge",
-      "usage": "1-⚡",
+      "usage": "1-Day",
       "action": "M",
       "effect": "Move up to MR👣; Might💪 vs Def. On success, deal d4 Dmg💥 and target is knocked Prone",
       "source": "DB",
       "created_at": "2026-07-18T15:14:47.023782+00:00",
-      "dropdown": "Weapon & Shield Powers - Shield Charge⚡ (1-⚡, M) ➡ Move up to MR👣; Might💪 vs Def. On success, deal d4 Dmg💥 and target is knocked Prone",
+      "dropdown": "Weapon & Shield Powers - Shield Charge⚡ (1-Day, M) ➡ Move up to MR👣; Might💪 vs Def. On success, deal d4 Dmg💥 and target is knocked Prone",
       "sub": "Combat Style",
       "table_name": "Weapon & Shield Powers"
     },
@@ -5007,12 +4839,12 @@
     {
       "id": 1089,
       "name": "Solara’s Vow",
-      "usage": "1-⚡",
+      "usage": "1-Day",
       "action": "F",
       "effect": "Once/day, Revive ally at ≤0 Vit❤️ to 1 Vit❤️",
       "source": "Phill (Solen)",
       "created_at": "2026-07-19T02:53:55.779525+00:00",
-      "dropdown": "Sun-Devoted Healer-Protector - Solara’s Vow⚡ (1-⚡, F) ➡ Once/day, Revive ally at ≤0 Vit❤️ to 1 Vit❤️",
+      "dropdown": "Sun-Devoted Healer-Protector - Solara’s Vow⚡ (1-Day, F) ➡ Once/day, Revive ally at ≤0 Vit❤️ to 1 Vit❤️",
       "sub": "Class",
       "table_name": "Sun-Devoted Healer-Protector"
     },
@@ -5065,18 +4897,6 @@
       "table_name": "Pixie Form"
     },
     {
-      "id": 311,
-      "name": "Source",
-      "usage": "Effect",
-      "action": "TableName - Name⚡ (Usage, Action) ➡ Effect",
-      "effect": "2026-07-18T15:14:47.023782+00:00",
-      "source": "Action",
-      "created_at": "2026-07-22T18:25:06.476478+00:00",
-      "dropdown": "Usage - Source⚡ (Effect, TableName - Name⚡ (Usage, Action) ➡ Effect) ➡ 2026-07-18T15:14:47.023782+00:00",
-      "sub": "TableName",
-      "table_name": "Usage"
-    },
-    {
       "id": 60,
       "name": "SpearCircle",
       "usage": "1-Enc",
@@ -5127,12 +4947,12 @@
     {
       "id": 147,
       "name": "Starlight Sight",
-      "usage": "1-⚡",
+      "usage": "1-Day",
       "action": "F",
       "effect": "See clearly in dim light; ignore typical darkness penalties",
       "source": "Umbral Kin Half-Orc Powers",
       "created_at": "2026-07-18T15:14:47.023782+00:00",
-      "dropdown": "Umbral Kin Half-Orc Powers - Starlight Sight⚡ (1-⚡, F) ➡ See clearly in dim light; ignore typical darkness penalties",
+      "dropdown": "Umbral Kin Half-Orc Powers - Starlight Sight⚡ (1-Day, F) ➡ See clearly in dim light; ignore typical darkness penalties",
       "sub": "Race",
       "table_name": "Umbral Kin Half-Orc Powers"
     },
@@ -5187,12 +5007,12 @@
     {
       "id": 950,
       "name": "Stone Form",
-      "usage": "1-⚡",
+      "usage": "1-Day",
       "action": "A",
       "effect": "Harden body like granite; AR🧥+2 and immune to poison/disease for Encounter",
       "source": "Gutrek",
       "created_at": "2026-07-19T02:53:36.113879+00:00",
-      "dropdown": "Shield Warrior - Stone Form⚡ (1-⚡, A) ➡ Harden body like granite; AR🧥+2 and immune to poison/disease for Encounter",
+      "dropdown": "Shield Warrior - Stone Form⚡ (1-Day, A) ➡ Harden body like granite; AR🧥+2 and immune to poison/disease for Encounter",
       "sub": "Class",
       "table_name": "Shield Warrior"
     },
@@ -5223,12 +5043,12 @@
     {
       "id": 238,
       "name": "Stone Stillness",
-      "usage": "1-⚡",
+      "usage": "1-Day",
       "action": "AM",
       "effect": "Remain motionless; Advantage on detection checks",
       "source": "DB",
       "created_at": "2026-07-18T15:14:47.023782+00:00",
-      "dropdown": "Monk Powers - Stone Stillness⚡ (1-⚡, AM) ➡ Remain motionless; Advantage on detection checks",
+      "dropdown": "Monk Powers - Stone Stillness⚡ (1-Day, AM) ➡ Remain motionless; Advantage on detection checks",
       "sub": "Class",
       "table_name": "Monk Powers"
     },
@@ -5247,12 +5067,12 @@
     {
       "id": 148,
       "name": "Stonefang Resolve",
-      "usage": "1-⚡",
+      "usage": "1-Day",
       "action": "F",
       "effect": "Negate Stunned or Weakened or similar",
       "source": "Umbral Kin Half-Orc Powers",
       "created_at": "2026-07-18T15:14:47.023782+00:00",
-      "dropdown": "Umbral Kin Half-Orc Powers - Stonefang Resolve⚡ (1-⚡, F) ➡ Negate Stunned or Weakened or similar",
+      "dropdown": "Umbral Kin Half-Orc Powers - Stonefang Resolve⚡ (1-Day, F) ➡ Negate Stunned or Weakened or similar",
       "sub": "Race",
       "table_name": "Umbral Kin Half-Orc Powers"
     },
@@ -5271,12 +5091,12 @@
     {
       "id": 85,
       "name": "Stoneform",
-      "usage": "1-⚡",
+      "usage": "1-Day",
       "action": "P",
       "effect": "Body partly petrifies; immune to push/pull for Encounter; Earth Saves✨+2",
       "source": "DB",
       "created_at": "2026-07-18T15:14:47.023782+00:00",
-      "dropdown": "Dwarf Powers - Stoneform⚡ (1-⚡, P) ➡ Body partly petrifies; immune to push/pull for Encounter; Earth Saves✨+2",
+      "dropdown": "Dwarf Powers - Stoneform⚡ (1-Day, P) ➡ Body partly petrifies; immune to push/pull for Encounter; Earth Saves✨+2",
       "sub": "Race",
       "table_name": "Dwarf Powers"
     },
@@ -5331,12 +5151,12 @@
     {
       "id": 20,
       "name": "Street Show",
-      "usage": "1-⚡",
+      "usage": "1-Day",
       "action": "F",
       "effect": "Perform in downtime; earn 1d6 Silver or Minor🍺 info",
       "source": "DB",
       "created_at": "2026-07-18T15:14:47.023782+00:00",
-      "dropdown": "Bard (Musical Rogue) Powers - Street Show⚡ (1-⚡, F) ➡ Perform in downtime; earn 1d6 Silver or Minor🍺 info",
+      "dropdown": "Bard (Musical Rogue) Powers - Street Show⚡ (1-Day, F) ➡ Perform in downtime; earn 1d6 Silver or Minor🍺 info",
       "sub": "Class",
       "table_name": "Bard (Musical Rogue) Powers"
     },
@@ -5367,12 +5187,12 @@
     {
       "id": 1077,
       "name": "Sun Step",
-      "usage": "1-⚡",
+      "usage": "1-Day",
       "action": "M",
       "effect": "Teleport up to 6sq into sunlight",
       "source": "Phill (Solen)",
       "created_at": "2026-07-19T02:53:54.100359+00:00",
-      "dropdown": "Sun-Devoted Healer-Protector - Sun Step⚡ (1-⚡, M) ➡ Teleport up to 6sq into sunlight",
+      "dropdown": "Sun-Devoted Healer-Protector - Sun Step⚡ (1-Day, M) ➡ Teleport up to 6sq into sunlight",
       "sub": "Class",
       "table_name": "Sun-Devoted Healer-Protector"
     },
@@ -5463,12 +5283,12 @@
     {
       "id": 378,
       "name": "Techno-Babble",
-      "usage": "1-⚡",
+      "usage": "1-Day",
       "action": "A",
       "effect": "Convince with jargon; Mind👁️ persuasion",
       "source": "DB",
       "created_at": "2026-07-18T15:14:47.023782+00:00",
-      "dropdown": "Trickster Powers - Techno-Babble⚡ (1-⚡, A) ➡ Convince with jargon; Mind👁️ persuasion",
+      "dropdown": "Trickster Powers - Techno-Babble⚡ (1-Day, A) ➡ Convince with jargon; Mind👁️ persuasion",
       "sub": "Class",
       "table_name": "Trickster Powers"
     },
@@ -5547,12 +5367,12 @@
     {
       "id": 423,
       "name": "Time Flicker",
-      "usage": "1-⚡",
+      "usage": "1-Day",
       "action": "P",
       "effect": "Make any 1 roll this round at 2H both at -1",
       "source": "DB",
       "created_at": "2026-07-18T15:14:47.023782+00:00",
-      "dropdown": "Weird Powers - Time Flicker⚡ (1-⚡, P) ➡ Make any 1 roll this round at 2H both at -1",
+      "dropdown": "Weird Powers - Time Flicker⚡ (1-Day, P) ➡ Make any 1 roll this round at 2H both at -1",
       "sub": "Class",
       "table_name": "Weird Powers"
     },
@@ -5595,12 +5415,12 @@
     {
       "id": 943,
       "name": "Titan’s Grip",
-      "usage": "1-⚡",
+      "usage": "1-Day",
       "action": "P",
       "effect": "Can wield massive objects as improvised weapons (Dmg💥+2) for encounter",
       "source": "Brute Force",
       "created_at": "2026-07-19T02:53:35.116869+00:00",
-      "dropdown": "Giant Form - Titan’s Grip⚡ (1-⚡, P) ➡ Can wield massive objects as improvised weapons (Dmg💥+2) for encounter",
+      "dropdown": "Giant Form - Titan’s Grip⚡ (1-Day, P) ➡ Can wield massive objects as improvised weapons (Dmg💥+2) for encounter",
       "sub": "Class",
       "table_name": "Giant Form"
     },
@@ -5631,12 +5451,12 @@
     {
       "id": 141,
       "name": "Trash Shield",
-      "usage": "1-⚡",
+      "usage": "1-Day",
       "action": "P",
       "effect": "AR🧥+1 for Encounter",
       "source": "DB",
       "created_at": "2026-07-18T15:14:47.023782+00:00",
-      "dropdown": "Goblin Powers - Trash Shield⚡ (1-⚡, P) ➡ AR🧥+1 for Encounter",
+      "dropdown": "Goblin Powers - Trash Shield⚡ (1-Day, P) ➡ AR🧥+1 for Encounter",
       "sub": "Race",
       "table_name": "Goblin Powers"
     },
@@ -5651,18 +5471,6 @@
       "dropdown": "Dwarf Powers - Tremor Stomp⚡ (1-Enc, A) ➡ Might💪 or nearby foes fall Prone",
       "sub": "Race",
       "table_name": "Dwarf Powers"
-    },
-    {
-      "id": 309,
-      "name": "Trevor",
-      "usage": "Teleport between visible shadows",
-      "action": "Shadowfist Healer-Monk - Umbral Form⚡ (2-Enc, M) ➡ Teleport between visible shadows",
-      "effect": "2026-07-18T15:14:47.023782+00:00",
-      "source": "M",
-      "created_at": "2026-07-22T18:25:03.66432+00:00",
-      "dropdown": "2-Enc - Trevor⚡ (Teleport between visible shadows, Shadowfist Healer-Monk - Umbral Form⚡ (2-Enc, M) ➡ Teleport between visible shadows) ➡ 2026-07-18T15:14:47.023782+00:00",
-      "sub": "Shadowfist Healer-Monk",
-      "table_name": "2-Enc"
     },
     {
       "id": 270,
@@ -5687,18 +5495,6 @@
       "dropdown": "Pixie Form - Trick of Light⚡ (1-Enc, P) ➡ Disguise as another small creature; Mind👁️vs observers that have a reason to disbelieve",
       "sub": "Class",
       "table_name": "Pixie Form"
-    },
-    {
-      "id": 332,
-      "name": "Trickster",
-      "usage": "When reduced to ngative Vit❤️; Heal 1 Vit❤️",
-      "action": "Nymph Form - Self-Healing Essence⚡ (1-Enc, F) ➡ When reduced to ngative Vit❤️; Heal 1 Vit❤️",
-      "effect": "2026-07-19T02:53:32.172702+00:00",
-      "source": "F",
-      "created_at": "2026-07-22T18:25:19.938313+00:00",
-      "dropdown": "1-Enc - Trickster⚡ (When reduced to ngative Vit❤️; Heal 1 Vit❤️, Nymph Form - Self-Healing Essence⚡ (1-Enc, F) ➡ When reduced to ngative Vit❤️; Heal 1 Vit❤️) ➡ 2026-07-19T02:53:32.172702+00:00",
-      "sub": "Nymph Form",
-      "table_name": "1-Enc"
     },
     {
       "id": 130,
@@ -5871,12 +5667,12 @@
     {
       "id": 41,
       "name": "Unbending Steel",
-      "usage": "1-⚡",
+      "usage": "1-Day",
       "action": "A",
       "effect": "On hit; target Atk⚔️ rolls Dis for 1 rnd",
       "source": "Martial Artist",
       "created_at": "2026-07-18T15:14:47.023782+00:00",
-      "dropdown": "Blade Saint - Unbending Steel⚡ (1-⚡, A) ➡ On hit; target Atk⚔️ rolls Dis for 1 rnd",
+      "dropdown": "Blade Saint - Unbending Steel⚡ (1-Day, A) ➡ On hit; target Atk⚔️ rolls Dis for 1 rnd",
       "sub": "Class",
       "table_name": "Blade Saint"
     },
@@ -5907,12 +5703,12 @@
     {
       "id": 933,
       "name": "Unseen Observer",
-      "usage": "1-⚡",
+      "usage": "1-Day",
       "action": "F",
       "effect": "Detect illusions & glamours with Advantage for encounter",
       "source": "Illusions & Shadows",
       "created_at": "2026-07-19T02:53:33.70288+00:00",
-      "dropdown": "Pixie Form - Unseen Observer⚡ (1-⚡, F) ➡ Detect illusions & glamours with Advantage for encounter",
+      "dropdown": "Pixie Form - Unseen Observer⚡ (1-Day, F) ➡ Detect illusions & glamours with Advantage for encounter",
       "sub": "Class",
       "table_name": "Pixie Form"
     },
@@ -5943,24 +5739,24 @@
     {
       "id": 177,
       "name": "Veiled Mind",
-      "usage": "1-⚡",
+      "usage": "1-Day",
       "action": "F",
       "effect": "After you succeed a Resist✨ vs a mental effect; Make Mind👁️ to Weaken the Attacker for 1 rnd.",
       "source": "Human",
       "created_at": "2026-07-18T15:14:47.023782+00:00",
-      "dropdown": "Human (Aethelgard Bloodline) - Veiled Mind⚡ (1-⚡, F) ➡ After you succeed a Resist✨ vs a mental effect; Make Mind👁️ to Weaken the Attacker for 1 rnd.",
+      "dropdown": "Human (Aethelgard Bloodline) - Veiled Mind⚡ (1-Day, F) ➡ After you succeed a Resist✨ vs a mental effect; Make Mind👁️ to Weaken the Attacker for 1 rnd.",
       "sub": "Race",
       "table_name": "Human (Aethelgard Bloodline)"
     },
     {
       "id": 962,
       "name": "Veteran of the Deeps",
-      "usage": "1-⚡",
+      "usage": "2-Day",
       "action": "F",
       "effect": "Reroll 1 failed Might💪 or Motion🏃 roll",
       "source": "Gutrek",
       "created_at": "2026-07-19T02:53:37.808107+00:00",
-      "dropdown": "Shield Warrior - Veteran of the Deeps⚡ (1-⚡, F) ➡ Reroll 1 failed Might💪 or Motion🏃 roll",
+      "dropdown": "Shield Warrior - Veteran of the Deeps⚡ (2-Day, F) ➡ Reroll 1 failed Might💪 or Motion🏃 roll",
       "sub": "Class",
       "table_name": "Shield Warrior"
     },
@@ -6027,12 +5823,12 @@
     {
       "id": 272,
       "name": "WarCry",
-      "usage": "1-⚡",
+      "usage": "1-Day",
       "action": "A",
       "effect": "Mind👁️ or foes hesitate/flee 1 rnd",
       "source": "DB",
       "created_at": "2026-07-18T15:14:47.023782+00:00",
-      "dropdown": "Warrior Powers - WarCry⚡ (1-⚡, A) ➡ Mind👁️ or foes hesitate/flee 1 rnd",
+      "dropdown": "Warrior Powers - WarCry⚡ (1-Day, A) ➡ Mind👁️ or foes hesitate/flee 1 rnd",
       "sub": "Class",
       "table_name": "Warrior Powers"
     },
@@ -6099,12 +5895,12 @@
     {
       "id": 425,
       "name": "Weather Sense",
-      "usage": "1-⚡",
+      "usage": "1-Day",
       "action": "A",
       "effect": "Predict weather for 1 day; no roll",
       "source": "DB",
       "created_at": "2026-07-18T15:14:47.023782+00:00",
-      "dropdown": "Weird Powers - Weather Sense⚡ (1-⚡, A) ➡ Predict weather for 1 day; no roll",
+      "dropdown": "Weird Powers - Weather Sense⚡ (1-Day, A) ➡ Predict weather for 1 day; no roll",
       "sub": "Class",
       "table_name": "Weird Powers"
     },
@@ -6123,12 +5919,12 @@
     {
       "id": 76,
       "name": "Whirling Dance",
-      "usage": "1-⚡",
+      "usage": "2-Day",
       "action": "A",
       "effect": "Make separate Atk & Dmg💥 rolls vs 2 adjacent foes",
       "source": "DB",
       "created_at": "2026-07-18T15:14:47.023782+00:00",
-      "dropdown": "Dual Wield Power - Whirling Dance⚡ (1-⚡, A) ➡ Make separate Atk & Dmg💥 rolls vs 2 adjacent foes",
+      "dropdown": "Dual Wield Power - Whirling Dance⚡ (2-Day, A) ➡ Make separate Atk & Dmg💥 rolls vs 2 adjacent foes",
       "sub": "Combat Style",
       "table_name": "Dual Wield Power"
     },
@@ -6171,12 +5967,12 @@
     {
       "id": 242,
       "name": "Wholeness of Body",
-      "usage": "1-⚡",
+      "usage": "1-Day",
       "action": "P",
       "effect": "Heal self 2",
       "source": "Trevor",
       "created_at": "2026-07-18T15:14:47.023782+00:00",
-      "dropdown": "Shadowfist Healer-Monk - Wholeness of Body⚡ (1-⚡, P) ➡ Heal self 2",
+      "dropdown": "Shadowfist Healer-Monk - Wholeness of Body⚡ (1-Day, P) ➡ Heal self 2",
       "sub": "Class",
       "table_name": "Shadowfist Healer-Monk"
     },
@@ -6281,12 +6077,12 @@
     {
       "id": 79,
       "name": "Amulet of Healing",
-      "usage": "1-⚡",
+      "usage": "1-Day",
       "action": "A",
       "effect": "Heal Self 2d4",
       "source": "DB",
       "created_at": "2026-07-18T15:15:18.698492+00:00",
-      "dropdown": "Greater🪬 - Amulet of Healing (1-⚡, A) ➡ Heal Self 2d4",
+      "dropdown": "Greater🪬 - Amulet of Healing (1-Day, A) ➡ Heal Self 2d4",
       "sub": "Greater",
       "table_name": "Greater🪬 Magic Items"
     },
@@ -6317,12 +6113,12 @@
     {
       "id": 42,
       "name": "Amulet of Sparks",
-      "usage": "1-⚡",
+      "usage": "2-Day",
       "action": "A",
       "effect": "Magic✨ Atk for d12 Dmg💥",
       "source": "DB",
       "created_at": "2026-07-18T15:15:18.698492+00:00",
-      "dropdown": "Lesser🔮 - Amulet of Sparks (1-⚡, A) ➡ Magic✨ Atk for d12 Dmg💥",
+      "dropdown": "Lesser🔮 - Amulet of Sparks (2-Day, A) ➡ Magic✨ Atk for d12 Dmg💥",
       "sub": "Lesser",
       "table_name": "Lesser🔮 Magic Items"
     },
@@ -6353,12 +6149,12 @@
     {
       "id": 176,
       "name": "Ash-and-Blood WarPaint",
-      "usage": "1-⚡",
+      "usage": "1-Day",
       "action": "M",
       "effect": "While painted; Nish🚩+1 for encounter",
       "source": null,
       "created_at": "2026-07-19T02:54:02.967883+00:00",
-      "dropdown": "Minor🍺 - Ash-and-Blood WarPaint (1-⚡, M) ➡ While painted; Nish🚩+1 for encounter",
+      "dropdown": "Minor🍺 - Ash-and-Blood WarPaint (1-Day, M) ➡ While painted; Nish🚩+1 for encounter",
       "sub": "Minor",
       "table_name": "Minor🍺 Magic Items"
     },
@@ -6389,12 +6185,12 @@
     {
       "id": 139,
       "name": "Banner of Eternity",
-      "usage": "1-⚡",
+      "usage": "1-Day",
       "action": "P",
       "effect": "Allies Nish🚩+2 while carried for encounter",
       "source": "DB",
       "created_at": "2026-07-18T15:15:18.698492+00:00",
-      "dropdown": "Artifact🌀 - Banner of Eternity (1-⚡, P) ➡ Allies Nish🚩+2 while carried for encounter",
+      "dropdown": "Artifact🌀 - Banner of Eternity (1-Day, P) ➡ Allies Nish🚩+2 while carried for encounter",
       "sub": "Artifact",
       "table_name": "Artifact🌀 Magic Items"
     },
@@ -6437,24 +6233,24 @@
     {
       "id": 46,
       "name": "Belt of Many Knots",
-      "usage": "1-⚡",
+      "usage": "1-Day",
       "action": "P",
       "effect": "Motion🏃 Climb/Bind+2 for Encounter",
       "source": "DB",
       "created_at": "2026-07-18T15:15:18.698492+00:00",
-      "dropdown": "Lesser🔮 - Belt of Many Knots (1-⚡, P) ➡ Motion🏃 Climb/Bind+2 for Encounter",
+      "dropdown": "Lesser🔮 - Belt of Many Knots (1-Day, P) ➡ Motion🏃 Climb/Bind+2 for Encounter",
       "sub": "Lesser",
       "table_name": "Lesser🔮 Magic Items"
     },
     {
       "id": 141,
       "name": "Blade of Final Memory",
-      "usage": "1-⚡",
+      "usage": "1-Day",
       "action": "A",
       "effect": "On hit, target forgets last 24h; Dmg💥 +d8",
       "source": "DB",
       "created_at": "2026-07-18T15:15:18.698492+00:00",
-      "dropdown": "Artifact🌀 - Blade of Final Memory (1-⚡, A) ➡ On hit, target forgets last 24h; Dmg💥 +d8",
+      "dropdown": "Artifact🌀 - Blade of Final Memory (1-Day, A) ➡ On hit, target forgets last 24h; Dmg💥 +d8",
       "sub": "Artifact",
       "table_name": "Artifact🌀 Magic Items"
     },
@@ -6473,12 +6269,12 @@
     {
       "id": 81,
       "name": "Boneweave [Armor]",
-      "usage": "1-⚡",
+      "usage": "1-Day",
       "action": "P",
       "effect": "Immune to poison for Encounter",
       "source": "DB",
       "created_at": "2026-07-18T15:15:18.698492+00:00",
-      "dropdown": "Greater🪬 - Boneweave [Armor] (1-⚡, P) ➡ Immune to poison for Encounter",
+      "dropdown": "Greater🪬 - Boneweave [Armor] (1-Day, P) ➡ Immune to poison for Encounter",
       "sub": "Greater",
       "table_name": "Greater🪬 Magic Items"
     },
@@ -6617,48 +6413,48 @@
     {
       "id": 84,
       "name": "Cassette of Rebellion",
-      "usage": "1-⚡",
+      "usage": "1-Day",
       "action": "P",
       "effect": "Allies Roll+1 next roll",
       "source": "DB",
       "created_at": "2026-07-18T15:15:18.698492+00:00",
-      "dropdown": "Greater🪬 - Cassette of Rebellion (1-⚡, P) ➡ Allies Roll+1 next roll",
+      "dropdown": "Greater🪬 - Cassette of Rebellion (1-Day, P) ➡ Allies Roll+1 next roll",
       "sub": "Greater",
       "table_name": "Greater🪬 Magic Items"
     },
     {
       "id": 143,
       "name": "Chains of Oblivion",
-      "usage": "1-⚡",
+      "usage": "1-Day",
       "action": "A",
       "effect": "Magic✨ binds target",
       "source": "DB",
       "created_at": "2026-07-18T15:15:18.698492+00:00",
-      "dropdown": "Artifact🌀 - Chains of Oblivion (1-⚡, A) ➡ Magic✨ binds target",
+      "dropdown": "Artifact🌀 - Chains of Oblivion (1-Day, A) ➡ Magic✨ binds target",
       "sub": "Artifact",
       "table_name": "Artifact🌀 Magic Items"
     },
     {
       "id": 144,
       "name": "Chalice of Renewal",
-      "usage": "1-⚡",
+      "usage": "1-Day",
       "action": "P",
       "effect": "Heal 2d6 Vit❤️ to all allies in 4sq",
       "source": "DB",
       "created_at": "2026-07-18T15:15:18.698492+00:00",
-      "dropdown": "Artifact🌀 - Chalice of Renewal (1-⚡, P) ➡ Heal 2d6 Vit❤️ to all allies in 4sq",
+      "dropdown": "Artifact🌀 - Chalice of Renewal (1-Day, P) ➡ Heal 2d6 Vit❤️ to all allies in 4sq",
       "sub": "Artifact",
       "table_name": "Artifact🌀 Magic Items"
     },
     {
       "id": 169,
       "name": "Charm Bands",
-      "usage": "1-⚡",
+      "usage": "1-Day",
       "action": "F",
       "effect": "Mind👁️ and Magic✨ rolls with Advantage 1 rnd",
       "source": null,
       "created_at": "2026-07-19T02:54:01.971248+00:00",
-      "dropdown": "Minor🍺 - Charm Bands (1-⚡, F) ➡ Mind👁️ and Magic✨ rolls with Advantage 1 rnd",
+      "dropdown": "Minor🍺 - Charm Bands (1-Day, F) ➡ Mind👁️ and Magic✨ rolls with Advantage 1 rnd",
       "sub": "Minor",
       "table_name": "Minor🍺 Magic Items"
     },
@@ -6689,12 +6485,12 @@
     {
       "id": 53,
       "name": "Chime of Warning",
-      "usage": "1-⚡",
+      "usage": "1-Day",
       "action": "F",
       "effect": "Rings when danger is neAR🧥; lasts or Encounter",
       "source": "DB",
       "created_at": "2026-07-18T15:15:18.698492+00:00",
-      "dropdown": "Lesser🔮 - Chime of Warning (1-⚡, F) ➡ Rings when danger is neAR🧥; lasts or Encounter",
+      "dropdown": "Lesser🔮 - Chime of Warning (1-Day, F) ➡ Rings when danger is neAR🧥; lasts or Encounter",
       "sub": "Lesser",
       "table_name": "Lesser🔮 Magic Items"
     },
@@ -6713,12 +6509,12 @@
     {
       "id": 86,
       "name": "Chroma [Armor]",
-      "usage": "1-⚡",
+      "usage": "1-Day",
       "action": "P",
       "effect": "Immune to illusions for Encounter",
       "source": "DB",
       "created_at": "2026-07-18T15:15:18.698492+00:00",
-      "dropdown": "Greater🪬 - Chroma [Armor] (1-⚡, P) ➡ Immune to illusions for Encounter",
+      "dropdown": "Greater🪬 - Chroma [Armor] (1-Day, P) ➡ Immune to illusions for Encounter",
       "sub": "Greater",
       "table_name": "Greater🪬 Magic Items"
     },
@@ -6737,24 +6533,24 @@
     {
       "id": 189,
       "name": "Circus Cloak - Magnetized Circus",
-      "usage": "1-⚡",
+      "usage": "1-Day",
       "action": "A",
       "effect": "Al iron objects in 3sqR pulled to cloak at Magic✨",
       "source": null,
       "created_at": "2026-07-19T02:54:04.919336+00:00",
-      "dropdown": "Greater🪬 - Circus Cloak - Magnetized Circus (1-⚡, A) ➡ Al iron objects in 3sqR pulled to cloak at Magic✨",
+      "dropdown": "Greater🪬 - Circus Cloak - Magnetized Circus (1-Day, A) ➡ Al iron objects in 3sqR pulled to cloak at Magic✨",
       "sub": "Greater",
       "table_name": "Greater🪬 Magic Items"
     },
     {
       "id": 145,
       "name": "Cloak of Endless Steps",
-      "usage": "1-⚡",
+      "usage": "1-Day",
       "action": "M",
       "effect": "Teleport up to 1 mile",
       "source": "DB",
       "created_at": "2026-07-18T15:15:18.698492+00:00",
-      "dropdown": "Artifact🌀 - Cloak of Endless Steps (1-⚡, M) ➡ Teleport up to 1 mile",
+      "dropdown": "Artifact🌀 - Cloak of Endless Steps (1-Day, M) ➡ Teleport up to 1 mile",
       "sub": "Artifact",
       "table_name": "Artifact🌀 Magic Items"
     },
@@ -6785,24 +6581,24 @@
     {
       "id": 88,
       "name": "Clockwork [Ranged Weapon]",
-      "usage": "1-⚡",
+      "usage": "1-Day",
       "action": "A",
       "effect": "Fire twice",
       "source": "DB",
       "created_at": "2026-07-18T15:15:18.698492+00:00",
-      "dropdown": "Greater🪬 - Clockwork [Ranged Weapon] (1-⚡, A) ➡ Fire twice",
+      "dropdown": "Greater🪬 - Clockwork [Ranged Weapon] (1-Day, A) ➡ Fire twice",
       "sub": "Greater",
       "table_name": "Greater🪬 Magic Items"
     },
     {
       "id": 146,
       "name": "Codex of All Names",
-      "usage": "1-⚡",
+      "usage": "1-Day",
       "action": "A",
       "effect": "Know and speak true name; all Rolls+2 vs that target",
       "source": "DB",
       "created_at": "2026-07-18T15:15:18.698492+00:00",
-      "dropdown": "Artifact🌀 - Codex of All Names (1-⚡, A) ➡ Know and speak true name; all Rolls+2 vs that target",
+      "dropdown": "Artifact🌀 - Codex of All Names (1-Day, A) ➡ Know and speak true name; all Rolls+2 vs that target",
       "sub": "Artifact",
       "table_name": "Artifact🌀 Magic Items"
     },
@@ -6857,12 +6653,12 @@
     {
       "id": 147,
       "name": "Crown of Beasts",
-      "usage": "1-⚡",
+      "usage": "1-Day",
       "action": "A",
       "effect": "Summon 1d4+1 beast allies (Vit❤️ 6 each) for encounter",
       "source": "DB",
       "created_at": "2026-07-18T15:15:18.698492+00:00",
-      "dropdown": "Artifact🌀 - Crown of Beasts (1-⚡, A) ➡ Summon 1d4+1 beast allies (Vit❤️ 6 each) for encounter",
+      "dropdown": "Artifact🌀 - Crown of Beasts (1-Day, A) ➡ Summon 1d4+1 beast allies (Vit❤️ 6 each) for encounter",
       "sub": "Artifact",
       "table_name": "Artifact🌀 Magic Items"
     },
@@ -6893,36 +6689,36 @@
     {
       "id": 91,
       "name": "Crystal Guitar",
-      "usage": "1-⚡",
+      "usage": "1-Day",
       "action": "A",
       "effect": "Sound blast 3sq cone; Magic✨ Atk for d6 Dmg💥",
       "source": "DB",
       "created_at": "2026-07-18T15:15:18.698492+00:00",
-      "dropdown": "Greater🪬 - Crystal Guitar (1-⚡, A) ➡ Sound blast 3sq cone; Magic✨ Atk for d6 Dmg💥",
+      "dropdown": "Greater🪬 - Crystal Guitar (1-Day, A) ➡ Sound blast 3sq cone; Magic✨ Atk for d6 Dmg💥",
       "sub": "Greater",
       "table_name": "Greater🪬 Magic Items"
     },
     {
       "id": 92,
       "name": "Crystal Lens",
-      "usage": "1-⚡",
+      "usage": "2-Day",
       "action": "M",
       "effect": "Read all languages and magical runes etc.",
       "source": "DB",
       "created_at": "2026-07-18T15:15:18.698492+00:00",
-      "dropdown": "Greater🪬 - Crystal Lens (1-⚡, M) ➡ Read all languages and magical runes etc.",
+      "dropdown": "Greater🪬 - Crystal Lens (2-Day, M) ➡ Read all languages and magical runes etc.",
       "sub": "Greater",
       "table_name": "Greater🪬 Magic Items"
     },
     {
       "id": 54,
       "name": "Cursed Coin",
-      "usage": "1-⚡",
+      "usage": "1-Day",
       "action": "F",
       "effect": "Flip coin; Heads = boon, Tails = bane (GM🔎 decides results)",
       "source": "DB",
       "created_at": "2026-07-18T15:15:18.698492+00:00",
-      "dropdown": "Lesser🔮 - Cursed Coin (1-⚡, F) ➡ Flip coin; Heads = boon, Tails = bane (GM🔎 decides results)",
+      "dropdown": "Lesser🔮 - Cursed Coin (1-Day, F) ➡ Flip coin; Heads = boon, Tails = bane (GM🔎 decides results)",
       "sub": "Lesser",
       "table_name": "Lesser🔮 Magic Items"
     },
@@ -6941,12 +6737,12 @@
     {
       "id": 93,
       "name": "Dragon [Armor]",
-      "usage": "1-⚡",
+      "usage": "1-Day",
       "action": "P",
       "effect": "Immune to fire Dmg💥 for Encounter",
       "source": "DB",
       "created_at": "2026-07-18T15:15:18.698492+00:00",
-      "dropdown": "Greater🪬 - Dragon [Armor] (1-⚡, P) ➡ Immune to fire Dmg💥 for Encounter",
+      "dropdown": "Greater🪬 - Dragon [Armor] (1-Day, P) ➡ Immune to fire Dmg💥 for Encounter",
       "sub": "Greater",
       "table_name": "Greater🪬 Magic Items"
     },
@@ -6977,12 +6773,12 @@
     {
       "id": 95,
       "name": "Ember [Armor]",
-      "usage": "1-⚡",
+      "usage": "1-Day",
       "action": "P",
       "effect": "If you are hit; Magic✨or attacker takes d4 fire Dmg💥; Lasts for Encounter",
       "source": "DB",
       "created_at": "2026-07-18T15:15:18.698492+00:00",
-      "dropdown": "Greater🪬 - Ember [Armor] (1-⚡, P) ➡ If you are hit; Magic✨or attacker takes d4 fire Dmg💥; Lasts for Encounter",
+      "dropdown": "Greater🪬 - Ember [Armor] (1-Day, P) ➡ If you are hit; Magic✨or attacker takes d4 fire Dmg💥; Lasts for Encounter",
       "sub": "Greater",
       "table_name": "Greater🪬 Magic Items"
     },
@@ -7013,12 +6809,12 @@
     {
       "id": 97,
       "name": "Fat Frog Idol",
-      "usage": "1-⚡",
+      "usage": "1-Day",
       "action": "P",
       "effect": "Restore 1 Luck🍀 chit",
       "source": "DB",
       "created_at": "2026-07-18T15:15:18.698492+00:00",
-      "dropdown": "Greater🪬 - Fat Frog Idol (1-⚡, P) ➡ Restore 1 Luck🍀 chit",
+      "dropdown": "Greater🪬 - Fat Frog Idol (1-Day, P) ➡ Restore 1 Luck🍀 chit",
       "sub": "Greater",
       "table_name": "Greater🪬 Magic Items"
     },
@@ -7037,24 +6833,24 @@
     {
       "id": 56,
       "name": "Feather of Falling",
-      "usage": "1-⚡",
+      "usage": "1-Day",
       "action": "P",
       "effect": "Fall first 100 ft safely",
       "source": "DB",
       "created_at": "2026-07-18T15:15:18.698492+00:00",
-      "dropdown": "Lesser🔮 - Feather of Falling (1-⚡, P) ➡ Fall first 100 ft safely",
+      "dropdown": "Lesser🔮 - Feather of Falling (1-Day, P) ➡ Fall first 100 ft safely",
       "sub": "Lesser",
       "table_name": "Lesser🔮 Magic Items"
     },
     {
       "id": 98,
       "name": "Fine Slik Shirt",
-      "usage": "1-⚡",
+      "usage": "1-Day",
       "action": "P",
       "effect": "Mind👁️ Social+2 for encounter",
       "source": "DB",
       "created_at": "2026-07-18T15:15:18.698492+00:00",
-      "dropdown": "Greater🪬 - Fine Slik Shirt (1-⚡, P) ➡ Mind👁️ Social+2 for encounter",
+      "dropdown": "Greater🪬 - Fine Slik Shirt (1-Day, P) ➡ Mind👁️ Social+2 for encounter",
       "sub": "Greater",
       "table_name": "Greater🪬 Magic Items"
     },
@@ -7109,12 +6905,12 @@
     {
       "id": 101,
       "name": "Frostmantle [Armor]",
-      "usage": "1-⚡",
+      "usage": "1-Day",
       "action": "P",
       "effect": "Immune to cold Dmg💥 for Encounter",
       "source": "DB",
       "created_at": "2026-07-18T15:15:18.698492+00:00",
-      "dropdown": "Greater🪬 - Frostmantle [Armor] (1-⚡, P) ➡ Immune to cold Dmg💥 for Encounter",
+      "dropdown": "Greater🪬 - Frostmantle [Armor] (1-Day, P) ➡ Immune to cold Dmg💥 for Encounter",
       "sub": "Greater",
       "table_name": "Greater🪬 Magic Items"
     },
@@ -7133,12 +6929,12 @@
     {
       "id": 102,
       "name": "Gauntlet of Grip",
-      "usage": "1-⚡",
+      "usage": "1-Day",
       "action": "P",
       "effect": "Weapon cannot be dropped for Encounter",
       "source": "DB",
       "created_at": "2026-07-18T15:15:18.698492+00:00",
-      "dropdown": "Greater🪬 - Gauntlet of Grip (1-⚡, P) ➡ Weapon cannot be dropped for Encounter",
+      "dropdown": "Greater🪬 - Gauntlet of Grip (1-Day, P) ➡ Weapon cannot be dropped for Encounter",
       "sub": "Greater",
       "table_name": "Greater🪬 Magic Items"
     },
@@ -7157,12 +6953,12 @@
     {
       "id": 103,
       "name": "Ghost Shirt",
-      "usage": "1-⚡",
+      "usage": "1-Day",
       "action": "M",
       "effect": "Phase through 1 wall",
       "source": "DB",
       "created_at": "2026-07-18T15:15:18.698492+00:00",
-      "dropdown": "Greater🪬 - Ghost Shirt (1-⚡, M) ➡ Phase through 1 wall",
+      "dropdown": "Greater🪬 - Ghost Shirt (1-Day, M) ➡ Phase through 1 wall",
       "sub": "Greater",
       "table_name": "Greater🪬 Magic Items"
     },
@@ -7181,24 +6977,24 @@
     {
       "id": 105,
       "name": "Gloves of Craft",
-      "usage": "1-⚡",
+      "usage": "1-Day",
       "action": "P",
       "effect": "Repair 1 normal broken item instantly or 1 magic item at Magic✨",
       "source": "DB",
       "created_at": "2026-07-18T15:15:18.698492+00:00",
-      "dropdown": "Greater🪬 - Gloves of Craft (1-⚡, P) ➡ Repair 1 normal broken item instantly or 1 magic item at Magic✨",
+      "dropdown": "Greater🪬 - Gloves of Craft (1-Day, P) ➡ Repair 1 normal broken item instantly or 1 magic item at Magic✨",
       "sub": "Greater",
       "table_name": "Greater🪬 Magic Items"
     },
     {
       "id": 6,
       "name": "Glow Orb",
-      "usage": "1-⚡",
+      "usage": "2-Day",
       "action": "P",
       "effect": "Bright light for Encounter",
       "source": "DB",
       "created_at": "2026-07-18T15:15:18.698492+00:00",
-      "dropdown": "Minor🍺 - Glow Orb (1-⚡, P) ➡ Bright light for Encounter",
+      "dropdown": "Minor🍺 - Glow Orb (2-Day, P) ➡ Bright light for Encounter",
       "sub": "Minor",
       "table_name": "Minor🍺 Magic Items"
     },
@@ -7265,48 +7061,48 @@
     {
       "id": 152,
       "name": "Harp of Discord",
-      "usage": "1-⚡",
+      "usage": "1-Day",
       "action": "A",
       "effect": "All foes in 8sq must Nish🚩 vs 15 or lose 1 rnd",
       "source": "DB",
       "created_at": "2026-07-18T15:15:18.698492+00:00",
-      "dropdown": "Artifact🌀 - Harp of Discord (1-⚡, A) ➡ All foes in 8sq must Nish🚩 vs 15 or lose 1 rnd",
+      "dropdown": "Artifact🌀 - Harp of Discord (1-Day, A) ➡ All foes in 8sq must Nish🚩 vs 15 or lose 1 rnd",
       "sub": "Artifact",
       "table_name": "Artifact🌀 Magic Items"
     },
     {
       "id": 108,
       "name": "Helm of Clarity",
-      "usage": "1-⚡",
+      "usage": "1-Day",
       "action": "P",
       "effect": "See through illusions for Encounter",
       "source": "DB",
       "created_at": "2026-07-18T15:15:18.698492+00:00",
-      "dropdown": "Greater🪬 - Helm of Clarity (1-⚡, P) ➡ See through illusions for Encounter",
+      "dropdown": "Greater🪬 - Helm of Clarity (1-Day, P) ➡ See through illusions for Encounter",
       "sub": "Greater",
       "table_name": "Greater🪬 Magic Items"
     },
     {
       "id": 109,
       "name": "Holo-Sunglasses",
-      "usage": "1-⚡",
+      "usage": "1-Day",
       "action": "P",
       "effect": "Roll+2 when showing off",
       "source": "DB",
       "created_at": "2026-07-18T15:15:18.698492+00:00",
-      "dropdown": "Greater🪬 - Holo-Sunglasses (1-⚡, P) ➡ Roll+2 when showing off",
+      "dropdown": "Greater🪬 - Holo-Sunglasses (1-Day, P) ➡ Roll+2 when showing off",
       "sub": "Greater",
       "table_name": "Greater🪬 Magic Items"
     },
     {
       "id": 110,
       "name": "Hoodie of Anarchy",
-      "usage": "1-⚡",
+      "usage": "1-Day",
       "action": "P",
       "effect": "In crowds; Motion🏃 Stealth with Advantage",
       "source": "DB",
       "created_at": "2026-07-18T15:15:18.698492+00:00",
-      "dropdown": "Greater🪬 - Hoodie of Anarchy (1-⚡, P) ➡ In crowds; Motion🏃 Stealth with Advantage",
+      "dropdown": "Greater🪬 - Hoodie of Anarchy (1-Day, P) ➡ In crowds; Motion🏃 Stealth with Advantage",
       "sub": "Greater",
       "table_name": "Greater🪬 Magic Items"
     },
@@ -7349,12 +7145,12 @@
     {
       "id": 155,
       "name": "Infinite Dice",
-      "usage": "1-⚡",
+      "usage": "1-Day",
       "action": "F",
       "effect": "Magic✨ as a wish (GM🔎 interprets result)",
       "source": "DB",
       "created_at": "2026-07-18T15:15:18.698492+00:00",
-      "dropdown": "Artifact🌀 - Infinite Dice (1-⚡, F) ➡ Magic✨ as a wish (GM🔎 interprets result)",
+      "dropdown": "Artifact🌀 - Infinite Dice (1-Day, F) ➡ Magic✨ as a wish (GM🔎 interprets result)",
       "sub": "Artifact",
       "table_name": "Artifact🌀 Magic Items"
     },
@@ -7385,12 +7181,12 @@
     {
       "id": 178,
       "name": "Iron Pendant (Mother’s Keepsake)",
-      "usage": "1-⚡",
+      "usage": "1-Day",
       "action": "F",
       "effect": "Resist✨+1 vs fearfor encounter",
       "source": null,
       "created_at": "2026-07-19T02:54:03.24477+00:00",
-      "dropdown": "Minor🍺 - Iron Pendant (Mother’s Keepsake) (1-⚡, F) ➡ Resist✨+1 vs fearfor encounter",
+      "dropdown": "Minor🍺 - Iron Pendant (Mother’s Keepsake) (1-Day, F) ➡ Resist✨+1 vs fearfor encounter",
       "sub": "Minor",
       "table_name": "Minor🍺 Magic Items"
     },
@@ -7409,24 +7205,24 @@
     {
       "id": 183,
       "name": "Ironcore Gambler’s Dice",
-      "usage": "1-⚡",
+      "usage": "1-Day",
       "action": "F",
       "effect": "Next roll has Advantage",
       "source": null,
       "created_at": "2026-07-19T02:54:04.080307+00:00",
-      "dropdown": "Minor🍺 - Ironcore Gambler’s Dice (1-⚡, F) ➡ Next roll has Advantage",
+      "dropdown": "Minor🍺 - Ironcore Gambler’s Dice (1-Day, F) ➡ Next roll has Advantage",
       "sub": "Minor",
       "table_name": "Minor🍺 Magic Items"
     },
     {
       "id": 188,
       "name": "Ironplate Light Armor",
-      "usage": "1-⚡",
+      "usage": "1-Day",
       "action": "F",
       "effect": "AR🧥+1; may use Featherfall once as Free action",
       "source": null,
       "created_at": "2026-07-19T02:54:04.776892+00:00",
-      "dropdown": "Lesser🔮 - Ironplate Light Armor (1-⚡, F) ➡ AR🧥+1; may use Featherfall once as Free action",
+      "dropdown": "Lesser🔮 - Ironplate Light Armor (1-Day, F) ➡ AR🧥+1; may use Featherfall once as Free action",
       "sub": "Lesser",
       "table_name": "Lesser🔮 Magic Items"
     },
@@ -7445,12 +7241,12 @@
     {
       "id": 170,
       "name": "Keeth’s Mystical Bands",
-      "usage": "1-⚡",
+      "usage": "1-Day",
       "action": "F",
       "effect": "Speak & Hearas if you are Keeth; Also revives Keeth from death or loss",
       "source": null,
       "created_at": "2026-07-19T02:54:02.113887+00:00",
-      "dropdown": "Minor🍺 - Keeth’s Mystical Bands (1-⚡, F) ➡ Speak & Hearas if you are Keeth; Also revives Keeth from death or loss",
+      "dropdown": "Minor🍺 - Keeth’s Mystical Bands (1-Day, F) ➡ Speak & Hearas if you are Keeth; Also revives Keeth from death or loss",
       "sub": "Minor",
       "table_name": "Minor🍺 Magic Items"
     },
@@ -7481,24 +7277,24 @@
     {
       "id": 112,
       "name": "Knight’s [Shield]",
-      "usage": "1-⚡",
+      "usage": "1-Day",
       "action": "P",
       "effect": "Negate 1 Vit❤️ completely",
       "source": "DB",
       "created_at": "2026-07-18T15:15:18.698492+00:00",
-      "dropdown": "Greater🪬 - Knight’s [Shield] (1-⚡, P) ➡ Negate 1 Vit❤️ completely",
+      "dropdown": "Greater🪬 - Knight’s [Shield] (1-Day, P) ➡ Negate 1 Vit❤️ completely",
       "sub": "Greater",
       "table_name": "Greater🪬 Magic Items"
     },
     {
       "id": 12,
       "name": "Lantern Bead",
-      "usage": "1-⚡",
+      "usage": "1-Day",
       "action": "P",
       "effect": "Throw; hovering light for Encounter",
       "source": "DB",
       "created_at": "2026-07-18T15:15:18.698492+00:00",
-      "dropdown": "Minor🍺 - Lantern Bead (1-⚡, P) ➡ Throw; hovering light for Encounter",
+      "dropdown": "Minor🍺 - Lantern Bead (1-Day, P) ➡ Throw; hovering light for Encounter",
       "sub": "Minor",
       "table_name": "Minor🍺 Magic Items"
     },
@@ -7529,12 +7325,12 @@
     {
       "id": 58,
       "name": "Lantern of Whispers",
-      "usage": "1-⚡",
+      "usage": "1-Day",
       "action": "P",
       "effect": "Perception has Advantage",
       "source": "DB",
       "created_at": "2026-07-18T15:15:18.698492+00:00",
-      "dropdown": "Lesser🔮 - Lantern of Whispers (1-⚡, P) ➡ Perception has Advantage",
+      "dropdown": "Lesser🔮 - Lantern of Whispers (1-Day, P) ➡ Perception has Advantage",
       "sub": "Lesser",
       "table_name": "Lesser🔮 Magic Items"
     },
@@ -7565,12 +7361,12 @@
     {
       "id": 13,
       "name": "Lucky Coin",
-      "usage": "1-⚡",
+      "usage": "1-Day",
       "action": "F",
       "effect": "Reroll one failed roll",
       "source": "DB",
       "created_at": "2026-07-18T15:15:18.698492+00:00",
-      "dropdown": "Minor🍺 - Lucky Coin (1-⚡, F) ➡ Reroll one failed roll",
+      "dropdown": "Minor🍺 - Lucky Coin (1-Day, F) ➡ Reroll one failed roll",
       "sub": "Minor",
       "table_name": "Minor🍺 Magic Items"
     },
@@ -7661,36 +7457,36 @@
     {
       "id": 116,
       "name": "Mirror [Shield]",
-      "usage": "1-⚡",
+      "usage": "1-Day",
       "action": "P",
       "effect": "Magic✨ to reflect 1 spell back at caster",
       "source": "DB",
       "created_at": "2026-07-18T15:15:18.698492+00:00",
-      "dropdown": "Greater🪬 - Mirror [Shield] (1-⚡, P) ➡ Magic✨ to reflect 1 spell back at caster",
+      "dropdown": "Greater🪬 - Mirror [Shield] (1-Day, P) ➡ Magic✨ to reflect 1 spell back at caster",
       "sub": "Greater",
       "table_name": "Greater🪬 Magic Items"
     },
     {
       "id": 158,
       "name": "Mirror of the Other You",
-      "usage": "1-⚡",
+      "usage": "1-Day",
       "action": "P",
       "effect": "Identical self steps out for 1 rnd",
       "source": "DB",
       "created_at": "2026-07-18T15:15:18.698492+00:00",
-      "dropdown": "Artifact🌀 - Mirror of the Other You (1-⚡, P) ➡ Identical self steps out for 1 rnd",
+      "dropdown": "Artifact🌀 - Mirror of the Other You (1-Day, P) ➡ Identical self steps out for 1 rnd",
       "sub": "Artifact",
       "table_name": "Artifact🌀 Magic Items"
     },
     {
       "id": 61,
       "name": "Mirror Shard of Foresight",
-      "usage": "1-⚡",
+      "usage": "1-Day",
       "action": "F",
       "effect": "Glimpse future; next Roll+2",
       "source": "DB",
       "created_at": "2026-07-18T15:15:18.698492+00:00",
-      "dropdown": "Lesser🔮 - Mirror Shard of Foresight (1-⚡, F) ➡ Glimpse future; next Roll+2",
+      "dropdown": "Lesser🔮 - Mirror Shard of Foresight (1-Day, F) ➡ Glimpse future; next Roll+2",
       "sub": "Lesser",
       "table_name": "Lesser🔮 Magic Items"
     },
@@ -7721,12 +7517,12 @@
     {
       "id": 62,
       "name": "Mug of Endless Tea",
-      "usage": "1-⚡",
+      "usage": "1-Day",
       "action": "P",
       "effect": "Drink; Resist✨+2 on next roll this encounter",
       "source": "DB",
       "created_at": "2026-07-18T15:15:18.698492+00:00",
-      "dropdown": "Lesser🔮 - Mug of Endless Tea (1-⚡, P) ➡ Drink; Resist✨+2 on next roll this encounter",
+      "dropdown": "Lesser🔮 - Mug of Endless Tea (1-Day, P) ➡ Drink; Resist✨+2 on next roll this encounter",
       "sub": "Lesser",
       "table_name": "Lesser🔮 Magic Items"
     },
@@ -7745,36 +7541,36 @@
     {
       "id": 119,
       "name": "Neon Skateboard",
-      "usage": "1-⚡",
+      "usage": "1-Day",
       "action": "P",
       "effect": "While riding MR👣+1 for Encounter",
       "source": "DB",
       "created_at": "2026-07-18T15:15:18.698492+00:00",
-      "dropdown": "Greater🪬 - Neon Skateboard (1-⚡, P) ➡ While riding MR👣+1 for Encounter",
+      "dropdown": "Greater🪬 - Neon Skateboard (1-Day, P) ➡ While riding MR👣+1 for Encounter",
       "sub": "Greater",
       "table_name": "Greater🪬 Magic Items"
     },
     {
       "id": 63,
       "name": "Neon Sunglasses",
-      "usage": "1-⚡",
+      "usage": "2-Day",
       "action": "F",
       "effect": "Mind👁️ Intimidation+2",
       "source": "DB",
       "created_at": "2026-07-18T15:15:18.698492+00:00",
-      "dropdown": "Lesser🔮 - Neon Sunglasses (1-⚡, F) ➡ Mind👁️ Intimidation+2",
+      "dropdown": "Lesser🔮 - Neon Sunglasses (2-Day, F) ➡ Mind👁️ Intimidation+2",
       "sub": "Lesser",
       "table_name": "Lesser🔮 Magic Items"
     },
     {
       "id": 120,
       "name": "Orb of Echo Memory",
-      "usage": "1-⚡",
+      "usage": "1-Day",
       "action": "P",
       "effect": "Replay 1 past scene vividly",
       "source": "DB",
       "created_at": "2026-07-18T15:15:18.698492+00:00",
-      "dropdown": "Greater🪬 - Orb of Echo Memory (1-⚡, P) ➡ Replay 1 past scene vividly",
+      "dropdown": "Greater🪬 - Orb of Echo Memory (1-Day, P) ➡ Replay 1 past scene vividly",
       "sub": "Greater",
       "table_name": "Greater🪬 Magic Items"
     },
@@ -7793,12 +7589,12 @@
     {
       "id": 159,
       "name": "Orb of Worlds",
-      "usage": "1-⚡",
+      "usage": "1-Day",
       "action": "P",
       "effect": "Peer into another plane; ask one yes/no question",
       "source": "DB",
       "created_at": "2026-07-18T15:15:18.698492+00:00",
-      "dropdown": "Artifact🌀 - Orb of Worlds (1-⚡, P) ➡ Peer into another plane; ask one yes/no question",
+      "dropdown": "Artifact🌀 - Orb of Worlds (1-Day, P) ➡ Peer into another plane; ask one yes/no question",
       "sub": "Artifact",
       "table_name": "Artifact🌀 Magic Items"
     },
@@ -7817,36 +7613,36 @@
     {
       "id": 121,
       "name": "Phoenix [Weapon]",
-      "usage": "1-⚡",
+      "usage": "1-Day",
       "action": "A",
       "effect": "On crit; Normal GM🔎 crit and Heal self 2",
       "source": "DB",
       "created_at": "2026-07-18T15:15:18.698492+00:00",
-      "dropdown": "Greater🪬 - Phoenix [Weapon] (1-⚡, A) ➡ On crit; Normal GM🔎 crit and Heal self 2",
+      "dropdown": "Greater🪬 - Phoenix [Weapon] (1-Day, A) ➡ On crit; Normal GM🔎 crit and Heal self 2",
       "sub": "Greater",
       "table_name": "Greater🪬 Magic Items"
     },
     {
       "id": 15,
       "name": "Pocket Lantern",
-      "usage": "1-⚡",
+      "usage": "2-Day",
       "action": "P",
       "effect": "Create floating Lantern that follows you for Encounter",
       "source": "DB",
       "created_at": "2026-07-18T15:15:18.698492+00:00",
-      "dropdown": "Minor🍺 - Pocket Lantern (1-⚡, P) ➡ Create floating Lantern that follows you for Encounter",
+      "dropdown": "Minor🍺 - Pocket Lantern (2-Day, P) ➡ Create floating Lantern that follows you for Encounter",
       "sub": "Minor",
       "table_name": "Minor🍺 Magic Items"
     },
     {
       "id": 66,
       "name": "Potion of Glimmer",
-      "usage": "1-⚡",
+      "usage": "1-Day",
       "action": "P",
       "effect": "Glow rainbow light for Encounter; auto refills",
       "source": "DB",
       "created_at": "2026-07-18T15:15:18.698492+00:00",
-      "dropdown": "Lesser🔮 - Potion of Glimmer (1-⚡, P) ➡ Glow rainbow light for Encounter; auto refills",
+      "dropdown": "Lesser🔮 - Potion of Glimmer (1-Day, P) ➡ Glow rainbow light for Encounter; auto refills",
       "sub": "Lesser",
       "table_name": "Lesser🔮 Magic Items"
     },
@@ -7889,24 +7685,24 @@
     {
       "id": 67,
       "name": "Quill of Truth",
-      "usage": "1-⚡",
+      "usage": "1-Day",
       "action": "AM",
       "effect": "Writes only truth (limited to one topic as per GM🔎)",
       "source": "DB",
       "created_at": "2026-07-18T15:15:18.698492+00:00",
-      "dropdown": "Lesser🔮 - Quill of Truth (1-⚡, AM) ➡ Writes only truth (limited to one topic as per GM🔎)",
+      "dropdown": "Lesser🔮 - Quill of Truth (1-Day, AM) ➡ Writes only truth (limited to one topic as per GM🔎)",
       "sub": "Lesser",
       "table_name": "Lesser🔮 Magic Items"
     },
     {
       "id": 122,
       "name": "Radiant [Weapon]",
-      "usage": "1-⚡",
+      "usage": "1-Day",
       "action": "P",
       "effect": "Glows with Everlight (20 sq light with no shadows)",
       "source": "DB",
       "created_at": "2026-07-18T15:15:18.698492+00:00",
-      "dropdown": "Greater🪬 - Radiant [Weapon] (1-⚡, P) ➡ Glows with Everlight (20 sq light with no shadows)",
+      "dropdown": "Greater🪬 - Radiant [Weapon] (1-Day, P) ➡ Glows with Everlight (20 sq light with no shadows)",
       "sub": "Greater",
       "table_name": "Greater🪬 Magic Items"
     },
@@ -7985,24 +7781,24 @@
     {
       "id": 68,
       "name": "Scarf of Warmth",
-      "usage": "1-⚡",
+      "usage": "2-Day",
       "action": "F",
       "effect": "Resist✨+2 & AR🧥+2 vs cold for Encounter",
       "source": "DB",
       "created_at": "2026-07-18T15:15:18.698492+00:00",
-      "dropdown": "Lesser🔮 - Scarf of Warmth (1-⚡, F) ➡ Resist✨+2 & AR🧥+2 vs cold for Encounter",
+      "dropdown": "Lesser🔮 - Scarf of Warmth (2-Day, F) ➡ Resist✨+2 & AR🧥+2 vs cold for Encounter",
       "sub": "Lesser",
       "table_name": "Lesser🔮 Magic Items"
     },
     {
       "id": 161,
       "name": "Scepter of Storms",
-      "usage": "1-⚡",
+      "usage": "1-Day",
       "action": "A",
       "effect": "Magic✨ Atk; d12 lightning Dmg💥 in 4x4sq",
       "source": "DB",
       "created_at": "2026-07-18T15:15:18.698492+00:00",
-      "dropdown": "Artifact🌀 - Scepter of Storms (1-⚡, A) ➡ Magic✨ Atk; d12 lightning Dmg💥 in 4x4sq",
+      "dropdown": "Artifact🌀 - Scepter of Storms (1-Day, A) ➡ Magic✨ Atk; d12 lightning Dmg💥 in 4x4sq",
       "sub": "Artifact",
       "table_name": "Artifact🌀 Magic Items"
     },
@@ -8105,12 +7901,12 @@
     {
       "id": 185,
       "name": "Smoke Bomb of Shrouding",
-      "usage": "1-⚡",
+      "usage": "1-Day",
       "action": "P",
       "effect": "Create 3x3sq smoke cloud; all Stealth rolls in area with Advantage",
       "source": null,
       "created_at": "2026-07-19T02:54:04.364305+00:00",
-      "dropdown": "Minor🍺 - Smoke Bomb of Shrouding (1-⚡, P) ➡ Create 3x3sq smoke cloud; all Stealth rolls in area with Advantage",
+      "dropdown": "Minor🍺 - Smoke Bomb of Shrouding (1-Day, P) ➡ Create 3x3sq smoke cloud; all Stealth rolls in area with Advantage",
       "sub": "Minor",
       "table_name": "Minor🍺 Magic Items"
     },
@@ -8177,24 +7973,24 @@
     {
       "id": 25,
       "name": "Spark Key",
-      "usage": "1-⚡",
+      "usage": "1-Day",
       "action": "P",
       "effect": "Touch to unlock normal locks up to Dif15",
       "source": "DB",
       "created_at": "2026-07-18T15:15:18.698492+00:00",
-      "dropdown": "Minor🍺 - Spark Key (1-⚡, P) ➡ Touch to unlock normal locks up to Dif15",
+      "dropdown": "Minor🍺 - Spark Key (1-Day, P) ➡ Touch to unlock normal locks up to Dif15",
       "sub": "Minor",
       "table_name": "Minor🍺 Magic Items"
     },
     {
       "id": 164,
       "name": "Spear of the Horizon",
-      "usage": "1-⚡",
+      "usage": "1-Day",
       "action": "A",
       "effect": "Ranged strike; auto-hits 1 target in sight; Dmg💥 d12",
       "source": "DB",
       "created_at": "2026-07-18T15:15:18.698492+00:00",
-      "dropdown": "Artifact🌀 - Spear of the Horizon (1-⚡, A) ➡ Ranged strike; auto-hits 1 target in sight; Dmg💥 d12",
+      "dropdown": "Artifact🌀 - Spear of the Horizon (1-Day, A) ➡ Ranged strike; auto-hits 1 target in sight; Dmg💥 d12",
       "sub": "Artifact",
       "table_name": "Artifact🌀 Magic Items"
     },
@@ -8213,12 +8009,12 @@
     {
       "id": 128,
       "name": "Spiked Choker",
-      "usage": "1-⚡",
+      "usage": "1-Day",
       "action": "P",
       "effect": "Brawl Dmg💥+1 for Encounter",
       "source": "DB",
       "created_at": "2026-07-18T15:15:18.698492+00:00",
-      "dropdown": "Greater🪬 - Spiked Choker (1-⚡, P) ➡ Brawl Dmg💥+1 for Encounter",
+      "dropdown": "Greater🪬 - Spiked Choker (1-Day, P) ➡ Brawl Dmg💥+1 for Encounter",
       "sub": "Greater",
       "table_name": "Greater🪬 Magic Items"
     },
@@ -8237,12 +8033,12 @@
     {
       "id": 165,
       "name": "Staff of Eternal Flame",
-      "usage": "1-⚡",
+      "usage": "1-Day",
       "action": "A",
       "effect": "Firestorm AoE 4x4sq; Magic✨ d12 fire Dmg💥",
       "source": "DB",
       "created_at": "2026-07-18T15:15:18.698492+00:00",
-      "dropdown": "Artifact🌀 - Staff of Eternal Flame (1-⚡, A) ➡ Firestorm AoE 4x4sq; Magic✨ d12 fire Dmg💥",
+      "dropdown": "Artifact🌀 - Staff of Eternal Flame (1-Day, A) ➡ Firestorm AoE 4x4sq; Magic✨ d12 fire Dmg💥",
       "sub": "Artifact",
       "table_name": "Artifact🌀 Magic Items"
     },
@@ -8261,12 +8057,12 @@
     {
       "id": 129,
       "name": "Starlight [Armor]",
-      "usage": "1-⚡",
+      "usage": "1-Day",
       "action": "P",
       "effect": "Gain Starlight vision for Encounter",
       "source": "DB",
       "created_at": "2026-07-18T15:15:18.698492+00:00",
-      "dropdown": "Greater🪬 - Starlight [Armor] (1-⚡, P) ➡ Gain Starlight vision for Encounter",
+      "dropdown": "Greater🪬 - Starlight [Armor] (1-Day, P) ➡ Gain Starlight vision for Encounter",
       "sub": "Greater",
       "table_name": "Greater🪬 Magic Items"
     },
@@ -8309,12 +8105,12 @@
     {
       "id": 27,
       "name": "Stone Beetle",
-      "usage": "1-⚡",
+      "usage": "1-Day",
       "action": "P",
       "effect": "Wind-up bug; follows you for 30 minutes, marking route with feint green glow",
       "source": "DB",
       "created_at": "2026-07-18T15:15:18.698492+00:00",
-      "dropdown": "Minor🍺 - Stone Beetle (1-⚡, P) ➡ Wind-up bug; follows you for 30 minutes, marking route with feint green glow",
+      "dropdown": "Minor🍺 - Stone Beetle (1-Day, P) ➡ Wind-up bug; follows you for 30 minutes, marking route with feint green glow",
       "sub": "Minor",
       "table_name": "Minor🍺 Magic Items"
     },
@@ -8345,12 +8141,12 @@
     {
       "id": 73,
       "name": "Sunglow Brooch",
-      "usage": "1-⚡",
+      "usage": "1-Day",
       "action": "P",
       "effect": "Emit light 20ft radius, no shadows for Encounter",
       "source": "DB",
       "created_at": "2026-07-18T15:15:18.698492+00:00",
-      "dropdown": "Lesser🔮 - Sunglow Brooch (1-⚡, P) ➡ Emit light 20ft radius, no shadows for Encounter",
+      "dropdown": "Lesser🔮 - Sunglow Brooch (1-Day, P) ➡ Emit light 20ft radius, no shadows for Encounter",
       "sub": "Lesser",
       "table_name": "Lesser🔮 Magic Items"
     },
@@ -8381,12 +8177,12 @@
     {
       "id": 166,
       "name": "Throne of Ashes",
-      "usage": "1-⚡",
+      "usage": "1-Day",
       "action": "A",
       "effect": "Summon & sit; command undead in 8sq for encounter",
       "source": "DB",
       "created_at": "2026-07-18T15:15:18.698492+00:00",
-      "dropdown": "Artifact🌀 - Throne of Ashes (1-⚡, A) ➡ Summon & sit; command undead in 8sq for encounter",
+      "dropdown": "Artifact🌀 - Throne of Ashes (1-Day, A) ➡ Summon & sit; command undead in 8sq for encounter",
       "sub": "Artifact",
       "table_name": "Artifact🌀 Magic Items"
     },
@@ -8417,24 +8213,24 @@
     {
       "id": 134,
       "name": "Tome of Forgotten Lore",
-      "usage": "1-⚡",
+      "usage": "1-Day",
       "action": "F",
       "effect": "Learn 1 hidden fact",
       "source": "DB",
       "created_at": "2026-07-18T15:15:18.698492+00:00",
-      "dropdown": "Greater🪬 - Tome of Forgotten Lore (1-⚡, F) ➡ Learn 1 hidden fact",
+      "dropdown": "Greater🪬 - Tome of Forgotten Lore (1-Day, F) ➡ Learn 1 hidden fact",
       "sub": "Greater",
       "table_name": "Greater🪬 Magic Items"
     },
     {
       "id": 167,
       "name": "Tome of Forgotten Stars",
-      "usage": "1-⚡",
+      "usage": "1-Day",
       "action": "A",
       "effect": "Read aloud; Magic✨ Atk vs all foes in 6sq; on fail, stunned 1 rnd",
       "source": "DB",
       "created_at": "2026-07-18T15:15:18.698492+00:00",
-      "dropdown": "Artifact🌀 - Tome of Forgotten Stars (1-⚡, A) ➡ Read aloud; Magic✨ Atk vs all foes in 6sq; on fail, stunned 1 rnd",
+      "dropdown": "Artifact🌀 - Tome of Forgotten Stars (1-Day, A) ➡ Read aloud; Magic✨ Atk vs all foes in 6sq; on fail, stunned 1 rnd",
       "sub": "Artifact",
       "table_name": "Artifact🌀 Magic Items"
     },
@@ -8465,24 +8261,24 @@
     {
       "id": 30,
       "name": "Torch Seed",
-      "usage": "1-⚡",
+      "usage": "1-Day",
       "action": "P",
       "effect": "Thow against wall or surface; sprouts flaming torch for Encounter",
       "source": "DB",
       "created_at": "2026-07-18T15:15:18.698492+00:00",
-      "dropdown": "Minor🍺 - Torch Seed (1-⚡, P) ➡ Thow against wall or surface; sprouts flaming torch for Encounter",
+      "dropdown": "Minor🍺 - Torch Seed (1-Day, P) ➡ Thow against wall or surface; sprouts flaming torch for Encounter",
       "sub": "Minor",
       "table_name": "Minor🍺 Magic Items"
     },
     {
       "id": 174,
       "name": "Tower Shield of the Blackaxe",
-      "usage": "1-⚡",
+      "usage": "1-Day",
       "action": "F",
       "effect": "While held: AR🧥+1 and Def+1 for encounter",
       "source": null,
       "created_at": "2026-07-19T02:54:02.691484+00:00",
-      "dropdown": "Lesser🔮 - Tower Shield of the Blackaxe (1-⚡, F) ➡ While held: AR🧥+1 and Def+1 for encounter",
+      "dropdown": "Lesser🔮 - Tower Shield of the Blackaxe (1-Day, F) ➡ While held: AR🧥+1 and Def+1 for encounter",
       "sub": "Lesser",
       "table_name": "Lesser🔮 Magic Items"
     },
@@ -8537,12 +8333,12 @@
     {
       "id": 31,
       "name": "Vine Cord",
-      "usage": "1-⚡",
+      "usage": "1-Day",
       "action": "M",
       "effect": "Extend up to 100ft vine-rope; can lift up to 250Lb individuals/items",
       "source": "DB",
       "created_at": "2026-07-18T15:15:18.698492+00:00",
-      "dropdown": "Minor🍺 - Vine Cord (1-⚡, M) ➡ Extend up to 100ft vine-rope; can lift up to 250Lb individuals/items",
+      "dropdown": "Minor🍺 - Vine Cord (1-Day, M) ➡ Extend up to 100ft vine-rope; can lift up to 250Lb individuals/items",
       "sub": "Minor",
       "table_name": "Minor🍺 Magic Items"
     },
@@ -8561,12 +8357,12 @@
     {
       "id": 136,
       "name": "Void [Weapon]",
-      "usage": "1-⚡",
+      "usage": "1-Day",
       "action": "A",
       "effect": "On crit; Normal GM🔎 crit and erase 1 item from target",
       "source": "DB",
       "created_at": "2026-07-18T15:15:18.698492+00:00",
-      "dropdown": "Greater🪬 - Void [Weapon] (1-⚡, A) ➡ On crit; Normal GM🔎 crit and erase 1 item from target",
+      "dropdown": "Greater🪬 - Void [Weapon] (1-Day, A) ➡ On crit; Normal GM🔎 crit and erase 1 item from target",
       "sub": "Greater",
       "table_name": "Greater🪬 Magic Items"
     },
@@ -8621,12 +8417,12 @@
     {
       "id": 32,
       "name": "Water Skin of Plenty",
-      "usage": "1-⚡",
+      "usage": "1-Day",
       "action": "P",
       "effect": "Pproduces 1 day's fresh water for 1 person",
       "source": "DB",
       "created_at": "2026-07-18T15:15:18.698492+00:00",
-      "dropdown": "Minor🍺 - Water Skin of Plenty (1-⚡, P) ➡ Pproduces 1 day's fresh water for 1 person",
+      "dropdown": "Minor🍺 - Water Skin of Plenty (1-Day, P) ➡ Pproduces 1 day's fresh water for 1 person",
       "sub": "Minor",
       "table_name": "Minor🍺 Magic Items"
     },
@@ -9400,6 +9196,2168 @@
       "dropdown": "General Skill Sets - Urban Survival🎓 ➡ Navigate Cityscapes🏃, Hidden Routes👁️, Blend into Crowds🏃, Streetwise👁️",
       "sub": "General",
       "table_name": "General Skill Sets"
+    }
+  ],
+  "weapons": [
+    {
+      "id": 39,
+      "name": "",
+      "type": "",
+      "requirement": "",
+      "max_block": "",
+      "atk_dmg": "",
+      "cost": "",
+      "created_at": "2026-07-24T15:50:03.060268+00:00"
+    },
+    {
+      "id": 30,
+      "name": "Bastard Sword",
+      "type": "Me",
+      "requirement": "Might💪 d10",
+      "max_block": "🛡️20",
+      "atk_dmg": "=Might💪",
+      "cost": "6g",
+      "created_at": "2026-07-24T15:50:03.060268+00:00"
+    },
+    {
+      "id": 18,
+      "name": "Battleaxe",
+      "type": "Me",
+      "requirement": "Might💪 d8",
+      "max_block": "🛡️16",
+      "atk_dmg": "=Might💪",
+      "cost": "4g",
+      "created_at": "2026-07-24T15:50:03.060268+00:00"
+    },
+    {
+      "id": 14,
+      "name": "Bow (Long)",
+      "type": "Sh",
+      "requirement": "Mind👁️ d6",
+      "max_block": "X",
+      "atk_dmg": "=Mind👁️",
+      "cost": "3g",
+      "created_at": "2026-07-24T15:50:03.060268+00:00"
+    },
+    {
+      "id": 41,
+      "name": "Brawl",
+      "type": "Me",
+      "requirement": "Might💪 d4",
+      "max_block": "X",
+      "atk_dmg": "=Might💪/Might💪-1d",
+      "cost": "X",
+      "created_at": "2026-07-24T15:50:03.060268+00:00"
+    },
+    {
+      "id": 4,
+      "name": "Chain Whip",
+      "type": "Me",
+      "requirement": "Might💪 d4",
+      "max_block": "🛡️8",
+      "atk_dmg": "=Might💪",
+      "cost": "2g",
+      "created_at": "2026-07-24T15:50:03.060268+00:00"
+    },
+    {
+      "id": 27,
+      "name": "Claymore",
+      "type": "Me",
+      "requirement": "Might💪 d10",
+      "max_block": "🛡️20",
+      "atk_dmg": "=Might💪",
+      "cost": "6g",
+      "created_at": "2026-07-24T15:50:03.060268+00:00"
+    },
+    {
+      "id": 13,
+      "name": "Crossbow",
+      "type": "Sh",
+      "requirement": "Mind👁️ d6",
+      "max_block": "X",
+      "atk_dmg": "=Mind👁️",
+      "cost": "3g",
+      "created_at": "2026-07-24T15:50:03.060268+00:00"
+    },
+    {
+      "id": 25,
+      "name": "Crystal Guitar",
+      "type": "Me",
+      "requirement": "Might💪 d8",
+      "max_block": "🛡️16",
+      "atk_dmg": "=Might💪",
+      "cost": "6g",
+      "created_at": "2026-07-24T15:50:03.060268+00:00"
+    },
+    {
+      "id": 1,
+      "name": "Dagger",
+      "type": "Me / Hu",
+      "requirement": "Might💪 d4 / Motion🏃d4",
+      "max_block": "🛡️8",
+      "atk_dmg": "=Might💪 / =Motion🏃",
+      "cost": "5s",
+      "created_at": "2026-07-24T15:50:03.060268+00:00"
+    },
+    {
+      "id": 34,
+      "name": "Dragon Slayer Spear",
+      "type": "Me / Hu",
+      "requirement": "Might💪 d12 / Motion🏃12",
+      "max_block": "🛡️24",
+      "atk_dmg": "=Might💪 / =Motion🏃",
+      "cost": "9g",
+      "created_at": "2026-07-24T15:50:03.060268+00:00"
+    },
+    {
+      "id": 33,
+      "name": "Executioner’s Axe",
+      "type": "Me",
+      "requirement": "Might💪 d12",
+      "max_block": "🛡️24",
+      "atk_dmg": "=Might💪",
+      "cost": "8g",
+      "created_at": "2026-07-24T15:50:03.060268+00:00"
+    },
+    {
+      "id": 15,
+      "name": "Flail",
+      "type": "Me",
+      "requirement": "Might💪 d6",
+      "max_block": "🛡️12",
+      "atk_dmg": "=Might💪",
+      "cost": "3g",
+      "created_at": "2026-07-24T15:50:03.060268+00:00"
+    },
+    {
+      "id": 37,
+      "name": "Giant Maul",
+      "type": "Me",
+      "requirement": "Might💪 d12",
+      "max_block": "🛡️24",
+      "atk_dmg": "=Might💪",
+      "cost": "10g",
+      "created_at": "2026-07-24T15:50:03.060268+00:00"
+    },
+    {
+      "id": 31,
+      "name": "Glaive",
+      "type": "Me",
+      "requirement": "Might💪 d10",
+      "max_block": "🛡️20",
+      "atk_dmg": "=Might💪",
+      "cost": "6g",
+      "created_at": "2026-07-24T15:50:03.060268+00:00"
+    },
+    {
+      "id": 20,
+      "name": "Great Axe",
+      "type": "Me",
+      "requirement": "Might💪 d8",
+      "max_block": "🛡️16",
+      "atk_dmg": "=Might💪",
+      "cost": "4g",
+      "created_at": "2026-07-24T15:50:03.060268+00:00"
+    },
+    {
+      "id": 22,
+      "name": "Halberd",
+      "type": "Me",
+      "requirement": "Might💪 d8",
+      "max_block": "🛡️16",
+      "atk_dmg": "=Might💪",
+      "cost": "4g",
+      "created_at": "2026-07-24T15:50:03.060268+00:00"
+    },
+    {
+      "id": 5,
+      "name": "Hand Axe",
+      "type": "Me / Hu",
+      "requirement": "Might💪 d4 / Motion🏃d4",
+      "max_block": "🛡️8",
+      "atk_dmg": "=Might💪 / =Motion🏃",
+      "cost": "2g",
+      "created_at": "2026-07-24T15:50:03.060268+00:00"
+    },
+    {
+      "id": 26,
+      "name": "Heavy Crossbow",
+      "type": "Sh",
+      "requirement": "Mind👁️ d8",
+      "max_block": "X",
+      "atk_dmg": "=Mind👁️",
+      "cost": "5g",
+      "created_at": "2026-07-24T15:50:03.060268+00:00"
+    },
+    {
+      "id": 32,
+      "name": "Heavy Flail",
+      "type": "Me",
+      "requirement": "Might💪 d10",
+      "max_block": "🛡️20",
+      "atk_dmg": "=Might💪",
+      "cost": "5g",
+      "created_at": "2026-07-24T15:50:03.060268+00:00"
+    },
+    {
+      "id": 42,
+      "name": "Improvised",
+      "type": "Me",
+      "requirement": "Might💪 d4",
+      "max_block": "🛡️6",
+      "atk_dmg": "=Might💪/Might💪-1d",
+      "cost": "X",
+      "created_at": "2026-07-24T15:50:03.060268+00:00"
+    },
+    {
+      "id": 7,
+      "name": "Light Crossbow",
+      "type": "Sh",
+      "requirement": "Mind👁️ d4",
+      "max_block": "X",
+      "atk_dmg": "=Mind👁️",
+      "cost": "2g",
+      "created_at": "2026-07-24T15:50:03.060268+00:00"
+    },
+    {
+      "id": 12,
+      "name": "Longsword",
+      "type": "Me",
+      "requirement": "Might💪 d6",
+      "max_block": "🛡️12",
+      "atk_dmg": "=Might💪",
+      "cost": "3g",
+      "created_at": "2026-07-24T15:50:03.060268+00:00"
+    },
+    {
+      "id": 21,
+      "name": "Mace (Heavy)",
+      "type": "Me",
+      "requirement": "Might💪 d8",
+      "max_block": "🛡️16",
+      "atk_dmg": "=Might💪",
+      "cost": "3g",
+      "created_at": "2026-07-24T15:50:03.060268+00:00"
+    },
+    {
+      "id": 28,
+      "name": "Morningstar",
+      "type": "Me",
+      "requirement": "Might💪 d10",
+      "max_block": "🛡️20",
+      "atk_dmg": "=Might💪",
+      "cost": "5g",
+      "created_at": "2026-07-24T15:50:03.060268+00:00"
+    },
+    {
+      "id": 17,
+      "name": "Neon Skateboard",
+      "type": "Me",
+      "requirement": "Might💪 d6",
+      "max_block": "🛡️12",
+      "atk_dmg": "=Might💪",
+      "cost": "3g",
+      "created_at": "2026-07-24T15:50:03.060268+00:00"
+    },
+    {
+      "id": 29,
+      "name": "Pike",
+      "type": "Me",
+      "requirement": "Might💪 d10",
+      "max_block": "🛡️20",
+      "atk_dmg": "=Might💪",
+      "cost": "5g",
+      "created_at": "2026-07-24T15:50:03.060268+00:00"
+    },
+    {
+      "id": 24,
+      "name": "Pipe Wrench",
+      "type": "Me",
+      "requirement": "Might💪 d8",
+      "max_block": "🛡️16",
+      "atk_dmg": "=Might💪",
+      "cost": "3g",
+      "created_at": "2026-07-24T15:50:03.060268+00:00"
+    },
+    {
+      "id": 23,
+      "name": "Polearm",
+      "type": "Me",
+      "requirement": "Might💪 d8",
+      "max_block": "🛡️16",
+      "atk_dmg": "=Might💪",
+      "cost": "4g",
+      "created_at": "2026-07-24T15:50:03.060268+00:00"
+    },
+    {
+      "id": 3,
+      "name": "Quarterstaff",
+      "type": "Me",
+      "requirement": "Might💪 d4",
+      "max_block": "🛡️8",
+      "atk_dmg": "=Might💪",
+      "cost": "1g",
+      "created_at": "2026-07-24T15:50:03.060268+00:00"
+    },
+    {
+      "id": 11,
+      "name": "Scimitar",
+      "type": "Me",
+      "requirement": "Might💪 d6",
+      "max_block": "🛡️12",
+      "atk_dmg": "=Might💪",
+      "cost": "3g",
+      "created_at": "2026-07-24T15:50:03.060268+00:00"
+    },
+    {
+      "id": 2,
+      "name": "Short Sword",
+      "type": "Me",
+      "requirement": "Might💪 d4",
+      "max_block": "🛡️8",
+      "atk_dmg": "=Might💪",
+      "cost": "1g",
+      "created_at": "2026-07-24T15:50:03.060268+00:00"
+    },
+    {
+      "id": 6,
+      "name": "Sickle",
+      "type": "Me",
+      "requirement": "Might💪 d4",
+      "max_block": "🛡️8",
+      "atk_dmg": "=Might💪",
+      "cost": "1g",
+      "created_at": "2026-07-24T15:50:03.060268+00:00"
+    },
+    {
+      "id": 38,
+      "name": "Siege Hammer",
+      "type": "Me",
+      "requirement": "Might💪 d12",
+      "max_block": "🛡️24",
+      "atk_dmg": "=Might💪",
+      "cost": "10g",
+      "created_at": "2026-07-24T15:50:03.060268+00:00"
+    },
+    {
+      "id": 10,
+      "name": "Spear",
+      "type": "Me / Hu",
+      "requirement": "Might💪 d6 / Motion🏃d6",
+      "max_block": "🛡️12",
+      "atk_dmg": "=Might💪 / =Motion🏃",
+      "cost": "2g",
+      "created_at": "2026-07-24T15:50:03.060268+00:00"
+    },
+    {
+      "id": 43,
+      "name": "Throw Object",
+      "type": "Hu",
+      "requirement": "Motion💪 d4",
+      "max_block": "X",
+      "atk_dmg": "=Motion🏃/Motion🏃-1d",
+      "cost": "X",
+      "created_at": "2026-07-24T15:50:03.060268+00:00"
+    },
+    {
+      "id": 8,
+      "name": "Throwing Knives (set)",
+      "type": "Hu",
+      "requirement": "Motion🏃 d4",
+      "max_block": "X",
+      "atk_dmg": "=Motion🏃",
+      "cost": "2g",
+      "created_at": "2026-07-24T15:50:03.060268+00:00"
+    },
+    {
+      "id": 35,
+      "name": "Tower Crossbow",
+      "type": "Sh",
+      "requirement": "Mind👁️ d12",
+      "max_block": "X",
+      "atk_dmg": "=Mind👁️",
+      "cost": "8g",
+      "created_at": "2026-07-24T15:50:03.060268+00:00"
+    },
+    {
+      "id": 16,
+      "name": "Trident",
+      "type": "Me / Hu",
+      "requirement": "Might💪 d6 / Motion🏃d6",
+      "max_block": "🛡️12",
+      "atk_dmg": "=Might💪 / =Motion🏃",
+      "cost": "3g",
+      "created_at": "2026-07-24T15:50:03.060268+00:00"
+    },
+    {
+      "id": 19,
+      "name": "Warhammer",
+      "type": "Me",
+      "requirement": "Might💪 d8",
+      "max_block": "🛡️16",
+      "atk_dmg": "=Might💪",
+      "cost": "5g",
+      "created_at": "2026-07-24T15:50:03.060268+00:00"
+    },
+    {
+      "id": 9,
+      "name": "WarPick",
+      "type": "Me",
+      "requirement": "Might💪 d6",
+      "max_block": "🛡️12",
+      "atk_dmg": "=Might💪",
+      "cost": "2g",
+      "created_at": "2026-07-24T15:50:03.060268+00:00"
+    },
+    {
+      "id": 36,
+      "name": "WarScythe",
+      "type": "Me",
+      "requirement": "Might💪 d12",
+      "max_block": "🛡️24",
+      "atk_dmg": "=Might💪",
+      "cost": "8g",
+      "created_at": "2026-07-24T15:50:03.060268+00:00"
+    },
+    {
+      "id": 40,
+      "name": "Weapon",
+      "type": "Type",
+      "requirement": "Requirement",
+      "max_block": "Max Block🧱",
+      "atk_dmg": "Atk & Dmg💥",
+      "cost": "Cost💰",
+      "created_at": "2026-07-24T15:50:03.060268+00:00"
+    }
+  ],
+  "armor": [
+    {
+      "id": 30,
+      "name": "",
+      "requirement": "",
+      "dodge": "",
+      "ar": "",
+      "mr": "",
+      "cost": "",
+      "created_at": "2026-07-24T15:50:06.373207+00:00"
+    },
+    {
+      "id": 29,
+      "name": "Arcane Wardsuit",
+      "requirement": "Might💪 d12",
+      "dodge": "=Motion🏃",
+      "ar": "🧥d12",
+      "mr": "👣5",
+      "cost": "20g",
+      "created_at": "2026-07-24T15:50:06.373207+00:00"
+    },
+    {
+      "id": 31,
+      "name": "Armor",
+      "requirement": "Requirement",
+      "dodge": "Dodge",
+      "ar": "AR🧥",
+      "mr": "MR👣",
+      "cost": "Cost💰",
+      "created_at": "2026-07-24T15:50:06.373207+00:00"
+    },
+    {
+      "id": 18,
+      "name": "Banded Armor",
+      "requirement": "Might💪 d8",
+      "dodge": "=Motion🏃",
+      "ar": "🧥d8",
+      "mr": "👣6",
+      "cost": "5g",
+      "created_at": "2026-07-24T15:50:06.373207+00:00"
+    },
+    {
+      "id": 11,
+      "name": "Brigandine",
+      "requirement": "Might💪 d6",
+      "dodge": "=Motion🏃",
+      "ar": "🧥d6",
+      "mr": "👣7",
+      "cost": "3g",
+      "created_at": "2026-07-24T15:50:06.373207+00:00"
+    },
+    {
+      "id": 7,
+      "name": "Chain Shirt",
+      "requirement": "Might💪 d6",
+      "dodge": "=Motion🏃",
+      "ar": "🧥d6",
+      "mr": "👣7",
+      "cost": "2g",
+      "created_at": "2026-07-24T15:50:06.373207+00:00"
+    },
+    {
+      "id": 3,
+      "name": "Denim Battle Vest",
+      "requirement": "Might💪 d4",
+      "dodge": "=Motion🏃",
+      "ar": "🧥d4",
+      "mr": "👣8",
+      "cost": "1g",
+      "created_at": "2026-07-24T15:50:06.373207+00:00"
+    },
+    {
+      "id": 25,
+      "name": "Dragon Scale Armor",
+      "requirement": "Might💪 d12",
+      "dodge": "=Motion🏃",
+      "ar": "🧥d12",
+      "mr": "👣5",
+      "cost": "12g",
+      "created_at": "2026-07-24T15:50:06.373207+00:00"
+    },
+    {
+      "id": 20,
+      "name": "Field Plate",
+      "requirement": "Might💪 d10",
+      "dodge": "=Motion🏃",
+      "ar": "🧥d10",
+      "mr": "👣6",
+      "cost": "7g",
+      "created_at": "2026-07-24T15:50:06.373207+00:00"
+    },
+    {
+      "id": 24,
+      "name": "Full Plate",
+      "requirement": "Might💪 d12",
+      "dodge": "=Motion🏃",
+      "ar": "🧥d12",
+      "mr": "👣5",
+      "cost": "10g",
+      "created_at": "2026-07-24T15:50:06.373207+00:00"
+    },
+    {
+      "id": 5,
+      "name": "Gambeson",
+      "requirement": "Might💪 d4",
+      "dodge": "=Motion🏃",
+      "ar": "🧥d4",
+      "mr": "👣8",
+      "cost": "2g",
+      "created_at": "2026-07-24T15:50:06.373207+00:00"
+    },
+    {
+      "id": 4,
+      "name": "Glowweave Robe",
+      "requirement": "Might💪 d4",
+      "dodge": "=Motion🏃",
+      "ar": "🧥d4",
+      "mr": "👣8",
+      "cost": "2g",
+      "created_at": "2026-07-24T15:50:06.373207+00:00"
+    },
+    {
+      "id": 19,
+      "name": "Half-Plate",
+      "requirement": "Might💪 d10",
+      "dodge": "=Motion🏃",
+      "ar": "🧥d10",
+      "mr": "👣6",
+      "cost": "6g",
+      "created_at": "2026-07-24T15:50:06.373207+00:00"
+    },
+    {
+      "id": 23,
+      "name": "Hardened Riot Exo-Suit",
+      "requirement": "Might💪 d10",
+      "dodge": "=Motion🏃",
+      "ar": "🧥d10",
+      "mr": "👣6",
+      "cost": "8g",
+      "created_at": "2026-07-24T15:50:06.373207+00:00"
+    },
+    {
+      "id": 22,
+      "name": "Heavy Laminar",
+      "requirement": "Might💪 d10",
+      "dodge": "=Motion🏃",
+      "ar": "🧥d10",
+      "mr": "👣6",
+      "cost": "6g",
+      "created_at": "2026-07-24T15:50:06.373207+00:00"
+    },
+    {
+      "id": 8,
+      "name": "Hide Armor",
+      "requirement": "Might💪 d6",
+      "dodge": "=Motion🏃",
+      "ar": "🧥d6",
+      "mr": "👣7",
+      "cost": "1g",
+      "created_at": "2026-07-24T15:50:06.373207+00:00"
+    },
+    {
+      "id": 12,
+      "name": "Lamellar Armor",
+      "requirement": "Might💪 d6",
+      "dodge": "=Motion🏃",
+      "ar": "🧥d6",
+      "mr": "👣7",
+      "cost": "3g",
+      "created_at": "2026-07-24T15:50:06.373207+00:00"
+    },
+    {
+      "id": 2,
+      "name": "Leather Jacket",
+      "requirement": "Might💪 d4",
+      "dodge": "=Motion🏃",
+      "ar": "🧥d4",
+      "mr": "👣8",
+      "cost": "1g",
+      "created_at": "2026-07-24T15:50:06.373207+00:00"
+    },
+    {
+      "id": 26,
+      "name": "Mithril Mail",
+      "requirement": "Might💪 d12",
+      "dodge": "=Motion🏃",
+      "ar": "🧥d12",
+      "mr": "👣5",
+      "cost": "15g",
+      "created_at": "2026-07-24T15:50:06.373207+00:00"
+    },
+    {
+      "id": 27,
+      "name": "Obsidian Carapace",
+      "requirement": "Might💪 d12",
+      "dodge": "=Motion🏃",
+      "ar": "🧥d12",
+      "mr": "👣5",
+      "cost": "15g",
+      "created_at": "2026-07-24T15:50:06.373207+00:00"
+    },
+    {
+      "id": 1,
+      "name": "Padded Cloth",
+      "requirement": "Might💪 d4",
+      "dodge": "=Motion🏃",
+      "ar": "🧥d4",
+      "mr": "👣8",
+      "cost": "5s",
+      "created_at": "2026-07-24T15:50:06.373207+00:00"
+    },
+    {
+      "id": 13,
+      "name": "Plate Harness",
+      "requirement": "Might💪 d8",
+      "dodge": "=Motion🏃",
+      "ar": "🧥d8",
+      "mr": "👣6",
+      "cost": "5g",
+      "created_at": "2026-07-24T15:50:06.373207+00:00"
+    },
+    {
+      "id": 16,
+      "name": "Riot Gear",
+      "requirement": "Might💪 d8",
+      "dodge": "=Motion🏃",
+      "ar": "🧥d8",
+      "mr": "👣6",
+      "cost": "4g",
+      "created_at": "2026-07-24T15:50:06.373207+00:00"
+    },
+    {
+      "id": 21,
+      "name": "Samurai Armor",
+      "requirement": "Might💪 d10",
+      "dodge": "=Motion🏃",
+      "ar": "🧥d10",
+      "mr": "👣6",
+      "cost": "7g",
+      "created_at": "2026-07-24T15:50:06.373207+00:00"
+    },
+    {
+      "id": 9,
+      "name": "Scale Mail",
+      "requirement": "Might💪 d6",
+      "dodge": "=Motion🏃",
+      "ar": "🧥d6",
+      "mr": "👣7",
+      "cost": "3g",
+      "created_at": "2026-07-24T15:50:06.373207+00:00"
+    },
+    {
+      "id": 15,
+      "name": "Spiked Armor",
+      "requirement": "Might💪 d8",
+      "dodge": "=Motion🏃",
+      "ar": "🧥d8",
+      "mr": "👣6",
+      "cost": "5g",
+      "created_at": "2026-07-24T15:50:06.373207+00:00"
+    },
+    {
+      "id": 17,
+      "name": "Splint Mail",
+      "requirement": "Might💪 d8",
+      "dodge": "=Motion🏃",
+      "ar": "🧥d8",
+      "mr": "👣6",
+      "cost": "5g",
+      "created_at": "2026-07-24T15:50:06.373207+00:00"
+    },
+    {
+      "id": 14,
+      "name": "Stoneform Armor",
+      "requirement": "Might💪 d8",
+      "dodge": "=Motion🏃",
+      "ar": "🧥d8",
+      "mr": "👣6",
+      "cost": "6g",
+      "created_at": "2026-07-24T15:50:06.373207+00:00"
+    },
+    {
+      "id": 10,
+      "name": "Tactical Vest",
+      "requirement": "Might💪 d6",
+      "dodge": "=Motion🏃",
+      "ar": "🧥d6",
+      "mr": "👣7",
+      "cost": "3g",
+      "created_at": "2026-07-24T15:50:06.373207+00:00"
+    },
+    {
+      "id": 28,
+      "name": "Tower Shield Harness",
+      "requirement": "Might💪 d12",
+      "dodge": "=Motion🏃",
+      "ar": "🧥d12",
+      "mr": "👣5",
+      "cost": "9g",
+      "created_at": "2026-07-24T15:50:06.373207+00:00"
+    },
+    {
+      "id": 6,
+      "name": "Traveler’s Cloak",
+      "requirement": "Might💪 d4",
+      "dodge": "=Motion🏃",
+      "ar": "🧥d4",
+      "mr": "👣8",
+      "cost": "1g",
+      "created_at": "2026-07-24T15:50:06.373207+00:00"
+    },
+    {
+      "id": 32,
+      "name": "Unarmored",
+      "requirement": "X",
+      "dodge": "=Motion🏃",
+      "ar": "🧥1",
+      "mr": "👣9",
+      "cost": "X",
+      "created_at": "2026-07-24T15:50:06.373207+00:00"
+    }
+  ],
+  "shields": [
+    {
+      "id": 2,
+      "name": "Heater Shield",
+      "requirement": "Might💪 d6",
+      "max_block": "🛡️16",
+      "mr": "👣–1",
+      "description": "Iconic knight’s shield, shaped like an inverted triangle.",
+      "cost": "3g",
+      "created_at": "2026-07-24T15:50:08.806975+00:00"
+    },
+    {
+      "id": 3,
+      "name": "Kite Shield",
+      "requirement": "Might💪 d8",
+      "max_block": "🛡️20",
+      "mr": "👣–2",
+      "description": "Long tapered shield, excellent for infantry formations.",
+      "cost": "4g",
+      "created_at": "2026-07-24T15:50:08.806975+00:00"
+    },
+    {
+      "id": 1,
+      "name": "Round Shield",
+      "requirement": "Might💪 d4",
+      "max_block": "🛡️12",
+      "mr": "👣0",
+      "description": "Mid-sized wooden shield, classic adventurer gear.",
+      "cost": "2g",
+      "created_at": "2026-07-24T15:50:08.806975+00:00"
+    },
+    {
+      "id": 5,
+      "name": "Siege Wall Shield",
+      "requirement": "Might💪 d12",
+      "max_block": "🛡️28",
+      "mr": "👣-4",
+      "description": "Oversized heavy wood-and-iron shield, used in sieges.",
+      "cost": "10g",
+      "created_at": "2026-07-24T15:50:08.806975+00:00"
+    },
+    {
+      "id": 4,
+      "name": "Tower Shield",
+      "requirement": "Might💪 d10",
+      "max_block": "🛡️24",
+      "mr": "👣-3",
+      "description": "Huge slab shield, nearly full-body cover.",
+      "cost": "8g",
+      "created_at": "2026-07-24T15:50:08.806975+00:00"
+    }
+  ],
+  "gear": [
+    {
+      "id": 23,
+      "category": "🥖 Food & Drink",
+      "name": "Ale (pitcher)",
+      "cost": "4s",
+      "created_at": "2026-07-24T15:50:09.365481+00:00"
+    },
+    {
+      "id": 12,
+      "category": "🧺 Containers",
+      "name": "Backpack",
+      "cost": "5s",
+      "created_at": "2026-07-24T15:50:09.365481+00:00"
+    },
+    {
+      "id": 85,
+      "category": "⚕️ Medical & Healing Supplies",
+      "name": "Bandages (roll)",
+      "cost": "2s",
+      "created_at": "2026-07-24T15:50:09.365481+00:00"
+    },
+    {
+      "id": 13,
+      "category": "🧺 Containers",
+      "name": "Barrel (small)",
+      "cost": "6s",
+      "created_at": "2026-07-24T15:50:09.365481+00:00"
+    },
+    {
+      "id": 14,
+      "category": "🧺 Containers",
+      "name": "Basket (woven)",
+      "cost": "1s",
+      "created_at": "2026-07-24T15:50:09.365481+00:00"
+    },
+    {
+      "id": 39,
+      "category": "🏕️ Camp Gear",
+      "name": "Bedroll",
+      "cost": "5s",
+      "created_at": "2026-07-24T15:50:09.365481+00:00"
+    },
+    {
+      "id": 79,
+      "category": "🎵 Entertainment & Instruments",
+      "name": "Bell (small)",
+      "cost": "4s",
+      "created_at": "2026-07-24T15:50:09.365481+00:00"
+    },
+    {
+      "id": 1,
+      "category": "👕 Clothing & Personal",
+      "name": "Belt",
+      "cost": "2s",
+      "created_at": "2026-07-24T15:50:09.365481+00:00"
+    },
+    {
+      "id": 40,
+      "category": "🏕️ Camp Gear",
+      "name": "Blanket (wool)",
+      "cost": "4s",
+      "created_at": "2026-07-24T15:50:09.365481+00:00"
+    },
+    {
+      "id": 2,
+      "category": "👕 Clothing & Personal",
+      "name": "Boots (sturdy)",
+      "cost": "6s",
+      "created_at": "2026-07-24T15:50:09.365481+00:00"
+    },
+    {
+      "id": 31,
+      "category": "🐴 Travel & Animals",
+      "name": "Bridle & Bit",
+      "cost": "2g",
+      "created_at": "2026-07-24T15:50:09.365481+00:00"
+    },
+    {
+      "id": 15,
+      "category": "🧺 Containers",
+      "name": "Bucket (wood)",
+      "cost": "2s",
+      "created_at": "2026-07-24T15:50:09.365481+00:00"
+    },
+    {
+      "id": 41,
+      "category": "🏕️ Camp Gear",
+      "name": "Candle (dozen)",
+      "cost": "1s",
+      "created_at": "2026-07-24T15:50:09.365481+00:00"
+    },
+    {
+      "id": 32,
+      "category": "🐴 Travel & Animals",
+      "name": "Cart (2-wheel)",
+      "cost": "20g",
+      "created_at": "2026-07-24T15:50:09.365481+00:00"
+    },
+    {
+      "id": 16,
+      "category": "🧺 Containers",
+      "name": "Case (Map Case, leather)",
+      "cost": "1g",
+      "created_at": "2026-07-24T15:50:09.365481+00:00"
+    },
+    {
+      "id": 70,
+      "category": "✒️ Writing & Communication",
+      "name": "Chalk (10 sticks)",
+      "cost": "1s",
+      "created_at": "2026-07-24T15:50:09.365481+00:00"
+    },
+    {
+      "id": 71,
+      "category": "✒️ Writing & Communication",
+      "name": "Charcoal (writing, 5 sticks)",
+      "cost": "1s",
+      "created_at": "2026-07-24T15:50:09.365481+00:00"
+    },
+    {
+      "id": 24,
+      "category": "🥖 Food & Drink",
+      "name": "Cheese Wheel (small)",
+      "cost": "5s",
+      "created_at": "2026-07-24T15:50:09.365481+00:00"
+    },
+    {
+      "id": 50,
+      "category": "🛠️ Tools & Equipment",
+      "name": "Chisel (iron)",
+      "cost": "4s",
+      "created_at": "2026-07-24T15:50:09.365481+00:00"
+    },
+    {
+      "id": 51,
+      "category": "🛠️ Tools & Equipment",
+      "name": "Climbing Spikes (set)",
+      "cost": "6s",
+      "created_at": "2026-07-24T15:50:09.365481+00:00"
+    },
+    {
+      "id": 3,
+      "category": "👕 Clothing & Personal",
+      "name": "Cloak (Winter, Warm)",
+      "cost": "8s",
+      "created_at": "2026-07-24T15:50:09.365481+00:00"
+    },
+    {
+      "id": 4,
+      "category": "👕 Clothing & Personal",
+      "name": "Clothes (Common)",
+      "cost": "5s",
+      "created_at": "2026-07-24T15:50:09.365481+00:00"
+    },
+    {
+      "id": 5,
+      "category": "👕 Clothing & Personal",
+      "name": "Clothes (Fine)",
+      "cost": "2g",
+      "created_at": "2026-07-24T15:50:09.365481+00:00"
+    },
+    {
+      "id": 80,
+      "category": "🎵 Entertainment & Instruments",
+      "name": "Comb/Brush",
+      "cost": "2s",
+      "created_at": "2026-07-24T15:50:09.365481+00:00"
+    },
+    {
+      "id": 52,
+      "category": "🛠️ Tools & Equipment",
+      "name": "Cooking Pot (iron)",
+      "cost": "6s",
+      "created_at": "2026-07-24T15:50:09.365481+00:00"
+    },
+    {
+      "id": 53,
+      "category": "🛠️ Tools & Equipment",
+      "name": "Crowbar",
+      "cost": "5s",
+      "created_at": "2026-07-24T15:50:09.365481+00:00"
+    },
+    {
+      "id": 72,
+      "category": "✒️ Writing & Communication",
+      "name": "Dice/Playing Cards",
+      "cost": "4s",
+      "created_at": "2026-07-24T15:50:09.365481+00:00"
+    },
+    {
+      "id": 25,
+      "category": "🥖 Food & Drink",
+      "name": "Dried Meat (1 lb)",
+      "cost": "4s",
+      "created_at": "2026-07-24T15:50:09.365481+00:00"
+    },
+    {
+      "id": 81,
+      "category": "🎵 Entertainment & Instruments",
+      "name": "Drum (hand)",
+      "cost": "1g",
+      "created_at": "2026-07-24T15:50:09.365481+00:00"
+    },
+    {
+      "id": 82,
+      "category": "🎵 Entertainment & Instruments",
+      "name": "Drum (war)",
+      "cost": "3g",
+      "created_at": "2026-07-24T15:50:09.365481+00:00"
+    },
+    {
+      "id": 33,
+      "category": "🐴 Travel & Animals",
+      "name": "Feed Bag",
+      "cost": "5s",
+      "created_at": "2026-07-24T15:50:09.365481+00:00"
+    },
+    {
+      "id": 42,
+      "category": "🏕️ Camp Gear",
+      "name": "Firewood Bundle",
+      "cost": "1s",
+      "created_at": "2026-07-24T15:50:09.365481+00:00"
+    },
+    {
+      "id": 17,
+      "category": "🧺 Containers",
+      "name": "Flask (metal)",
+      "cost": "5s",
+      "created_at": "2026-07-24T15:50:09.365481+00:00"
+    },
+    {
+      "id": 54,
+      "category": "🛠️ Tools & Equipment",
+      "name": "Funnel (metal)",
+      "cost": "2s",
+      "created_at": "2026-07-24T15:50:09.365481+00:00"
+    },
+    {
+      "id": 6,
+      "category": "👕 Clothing & Personal",
+      "name": "Gloves (leather)",
+      "cost": "4s",
+      "created_at": "2026-07-24T15:50:09.365481+00:00"
+    },
+    {
+      "id": 55,
+      "category": "🛠️ Tools & Equipment",
+      "name": "Grappling Hook",
+      "cost": "8s",
+      "created_at": "2026-07-24T15:50:09.365481+00:00"
+    },
+    {
+      "id": 56,
+      "category": "🛠️ Tools & Equipment",
+      "name": "Hammer (small)",
+      "cost": "4s",
+      "created_at": "2026-07-24T15:50:09.365481+00:00"
+    },
+    {
+      "id": 57,
+      "category": "🛠️ Tools & Equipment",
+      "name": "Hammer (wooden, tent)",
+      "cost": "2s",
+      "created_at": "2026-07-24T15:50:09.365481+00:00"
+    },
+    {
+      "id": 26,
+      "category": "🥖 Food & Drink",
+      "name": "Hardtack Biscuits (1 lb)",
+      "cost": "2s",
+      "created_at": "2026-07-24T15:50:09.365481+00:00"
+    },
+    {
+      "id": 86,
+      "category": "⚕️ Medical & Healing Supplies",
+      "name": "Healer’s Kit (bandages, herbs)",
+      "cost": "3g",
+      "created_at": "2026-07-24T15:50:09.365481+00:00"
+    },
+    {
+      "id": 27,
+      "category": "🥖 Food & Drink",
+      "name": "Honey Jar",
+      "cost": "6s",
+      "created_at": "2026-07-24T15:50:09.365481+00:00"
+    },
+    {
+      "id": 7,
+      "category": "👕 Clothing & Personal",
+      "name": "Hood",
+      "cost": "3s",
+      "created_at": "2026-07-24T15:50:09.365481+00:00"
+    },
+    {
+      "id": 73,
+      "category": "✒️ Writing & Communication",
+      "name": "Horn (wooden)",
+      "cost": "5s",
+      "created_at": "2026-07-24T15:50:09.365481+00:00"
+    },
+    {
+      "id": 34,
+      "category": "🐴 Travel & Animals",
+      "name": "Horse (riding)",
+      "cost": "75g",
+      "created_at": "2026-07-24T15:50:09.365481+00:00"
+    },
+    {
+      "id": 74,
+      "category": "✒️ Writing & Communication",
+      "name": "Ink (small vial)",
+      "cost": "1g",
+      "created_at": "2026-07-24T15:50:09.365481+00:00"
+    },
+    {
+      "id": 75,
+      "category": "✒️ Writing & Communication",
+      "name": "Journal/Notebook",
+      "cost": "2g",
+      "created_at": "2026-07-24T15:50:09.365481+00:00"
+    },
+    {
+      "id": 18,
+      "category": "🧺 Containers",
+      "name": "Jug (clay)",
+      "cost": "1s",
+      "created_at": "2026-07-24T15:50:09.365481+00:00"
+    },
+    {
+      "id": 43,
+      "category": "🏕️ Camp Gear",
+      "name": "Lantern (hooded)",
+      "cost": "8s",
+      "created_at": "2026-07-24T15:50:09.365481+00:00"
+    },
+    {
+      "id": 87,
+      "category": "⚕️ Medical & Healing Supplies",
+      "name": "Lock (simple)",
+      "cost": "1g",
+      "created_at": "2026-07-24T15:50:09.365481+00:00"
+    },
+    {
+      "id": 88,
+      "category": "⚕️ Medical & Healing Supplies",
+      "name": "Lockpicks (set)",
+      "cost": "3g",
+      "created_at": "2026-07-24T15:50:09.365481+00:00"
+    },
+    {
+      "id": 83,
+      "category": "🎵 Entertainment & Instruments",
+      "name": "Lyre/Flute (instrument)",
+      "cost": "5g",
+      "created_at": "2026-07-24T15:50:09.365481+00:00"
+    },
+    {
+      "id": 58,
+      "category": "🛠️ Tools & Equipment",
+      "name": "Mallet (wood)",
+      "cost": "2s",
+      "created_at": "2026-07-24T15:50:09.365481+00:00"
+    },
+    {
+      "id": 89,
+      "category": "⚕️ Medical & Healing Supplies",
+      "name": "Manacles",
+      "cost": "1g",
+      "created_at": "2026-07-24T15:50:09.365481+00:00"
+    },
+    {
+      "id": 76,
+      "category": "✒️ Writing & Communication",
+      "name": "Mirror (polished steel)",
+      "cost": "5s",
+      "created_at": "2026-07-24T15:50:09.365481+00:00"
+    },
+    {
+      "id": 35,
+      "category": "🐴 Travel & Animals",
+      "name": "Mule",
+      "cost": "8g",
+      "created_at": "2026-07-24T15:50:09.365481+00:00"
+    },
+    {
+      "id": 59,
+      "category": "🛠️ Tools & Equipment",
+      "name": "Nails (25)",
+      "cost": "1s",
+      "created_at": "2026-07-24T15:50:09.365481+00:00"
+    },
+    {
+      "id": 90,
+      "category": "⚕️ Medical & Healing Supplies",
+      "name": "Needle & Thread (suturing)",
+      "cost": "1g",
+      "created_at": "2026-07-24T15:50:09.365481+00:00"
+    },
+    {
+      "id": 60,
+      "category": "🛠️ Tools & Equipment",
+      "name": "Net (10 ft)",
+      "cost": "8s",
+      "created_at": "2026-07-24T15:50:09.365481+00:00"
+    },
+    {
+      "id": 44,
+      "category": "🏕️ Camp Gear",
+      "name": "Oil Flask (lamp fuel)",
+      "cost": "2s",
+      "created_at": "2026-07-24T15:50:09.365481+00:00"
+    },
+    {
+      "id": 8,
+      "category": "👕 Clothing & Personal",
+      "name": "Perfume (small vial)",
+      "cost": "2g",
+      "created_at": "2026-07-24T15:50:09.365481+00:00"
+    },
+    {
+      "id": 61,
+      "category": "🛠️ Tools & Equipment",
+      "name": "Pickaxe",
+      "cost": "7s",
+      "created_at": "2026-07-24T15:50:09.365481+00:00"
+    },
+    {
+      "id": 19,
+      "category": "🧺 Containers",
+      "name": "Pouch (small)",
+      "cost": "2s",
+      "created_at": "2026-07-24T15:50:09.365481+00:00"
+    },
+    {
+      "id": 77,
+      "category": "✒️ Writing & Communication",
+      "name": "Quill & Parchment (10 sheets)",
+      "cost": "5s",
+      "created_at": "2026-07-24T15:50:09.365481+00:00"
+    },
+    {
+      "id": 28,
+      "category": "🥖 Food & Drink",
+      "name": "Rations (1 day)",
+      "cost": "5s",
+      "created_at": "2026-07-24T15:50:09.365481+00:00"
+    },
+    {
+      "id": 29,
+      "category": "🥖 Food & Drink",
+      "name": "Rations (1 week)",
+      "cost": "3g",
+      "created_at": "2026-07-24T15:50:09.365481+00:00"
+    },
+    {
+      "id": 62,
+      "category": "🛠️ Tools & Equipment",
+      "name": "Rope (50 ft hemp)",
+      "cost": "5s",
+      "created_at": "2026-07-24T15:50:09.365481+00:00"
+    },
+    {
+      "id": 63,
+      "category": "🛠️ Tools & Equipment",
+      "name": "Rope (50 ft silk)",
+      "cost": "2g",
+      "created_at": "2026-07-24T15:50:09.365481+00:00"
+    },
+    {
+      "id": 20,
+      "category": "🧺 Containers",
+      "name": "Sack (large)",
+      "cost": "1s",
+      "created_at": "2026-07-24T15:50:09.365481+00:00"
+    },
+    {
+      "id": 36,
+      "category": "🐴 Travel & Animals",
+      "name": "Saddle",
+      "cost": "5g",
+      "created_at": "2026-07-24T15:50:09.365481+00:00"
+    },
+    {
+      "id": 37,
+      "category": "🐴 Travel & Animals",
+      "name": "Saddle Bags",
+      "cost": "3g",
+      "created_at": "2026-07-24T15:50:09.365481+00:00"
+    },
+    {
+      "id": 9,
+      "category": "👕 Clothing & Personal",
+      "name": "Sandals",
+      "cost": "2s",
+      "created_at": "2026-07-24T15:50:09.365481+00:00"
+    },
+    {
+      "id": 21,
+      "category": "🧺 Containers",
+      "name": "Satchel (leather)",
+      "cost": "4s",
+      "created_at": "2026-07-24T15:50:09.365481+00:00"
+    },
+    {
+      "id": 64,
+      "category": "🛠️ Tools & Equipment",
+      "name": "Saw (hand)",
+      "cost": "6s",
+      "created_at": "2026-07-24T15:50:09.365481+00:00"
+    },
+    {
+      "id": 10,
+      "category": "👕 Clothing & Personal",
+      "name": "Scarf of Warmth (non-magical wool)",
+      "cost": "4s",
+      "created_at": "2026-07-24T15:50:09.365481+00:00"
+    },
+    {
+      "id": 91,
+      "category": "⚕️ Medical & Healing Supplies",
+      "name": "Sewing Kit",
+      "cost": "5s",
+      "created_at": "2026-07-24T15:50:09.365481+00:00"
+    },
+    {
+      "id": 65,
+      "category": "🛠️ Tools & Equipment",
+      "name": "Shovel (iron)",
+      "cost": "6s",
+      "created_at": "2026-07-24T15:50:09.365481+00:00"
+    },
+    {
+      "id": 78,
+      "category": "✒️ Writing & Communication",
+      "name": "Signal Whistle",
+      "cost": "3s",
+      "created_at": "2026-07-24T15:50:09.365481+00:00"
+    },
+    {
+      "id": 66,
+      "category": "🛠️ Tools & Equipment",
+      "name": "Skillet (iron)",
+      "cost": "4s",
+      "created_at": "2026-07-24T15:50:09.365481+00:00"
+    },
+    {
+      "id": 11,
+      "category": "👕 Clothing & Personal",
+      "name": "Soap (bar)",
+      "cost": "1s",
+      "created_at": "2026-07-24T15:50:09.365481+00:00"
+    },
+    {
+      "id": 84,
+      "category": "🎵 Entertainment & Instruments",
+      "name": "Soapstone Idol",
+      "cost": "3s",
+      "created_at": "2026-07-24T15:50:09.365481+00:00"
+    },
+    {
+      "id": 67,
+      "category": "🛠️ Tools & Equipment",
+      "name": "Spikes (iron, 10)",
+      "cost": "4s",
+      "created_at": "2026-07-24T15:50:09.365481+00:00"
+    },
+    {
+      "id": 92,
+      "category": "⚕️ Medical & Healing Supplies",
+      "name": "Splints (wooden)",
+      "cost": "2s",
+      "created_at": "2026-07-24T15:50:09.365481+00:00"
+    },
+    {
+      "id": 47,
+      "category": "🏕️ Camp Gear",
+      "name": "Tarp (canvas)",
+      "cost": "6s",
+      "created_at": "2026-07-24T15:50:09.365481+00:00"
+    },
+    {
+      "id": 45,
+      "category": "🏕️ Camp Gear",
+      "name": "Tent (2-person)",
+      "cost": "2g",
+      "created_at": "2026-07-24T15:50:09.365481+00:00"
+    },
+    {
+      "id": 46,
+      "category": "🏕️ Camp Gear",
+      "name": "Tent Stakes (6)",
+      "cost": "1s",
+      "created_at": "2026-07-24T15:50:09.365481+00:00"
+    },
+    {
+      "id": 48,
+      "category": "🏕️ Camp Gear",
+      "name": "Tinderbox",
+      "cost": "3s",
+      "created_at": "2026-07-24T15:50:09.365481+00:00"
+    },
+    {
+      "id": 49,
+      "category": "🏕️ Camp Gear",
+      "name": "Torch (bundle of 5)",
+      "cost": "2s",
+      "created_at": "2026-07-24T15:50:09.365481+00:00"
+    },
+    {
+      "id": 38,
+      "category": "🐴 Travel & Animals",
+      "name": "Wagon (4-wheel)",
+      "cost": "35g",
+      "created_at": "2026-07-24T15:50:09.365481+00:00"
+    },
+    {
+      "id": 68,
+      "category": "🛠️ Tools & Equipment",
+      "name": "Waterscoop Ladle",
+      "cost": "1s",
+      "created_at": "2026-07-24T15:50:09.365481+00:00"
+    },
+    {
+      "id": 22,
+      "category": "🧺 Containers",
+      "name": "Waterskin",
+      "cost": "3s",
+      "created_at": "2026-07-24T15:50:09.365481+00:00"
+    },
+    {
+      "id": 69,
+      "category": "🛠️ Tools & Equipment",
+      "name": "Whetstone",
+      "cost": "2s",
+      "created_at": "2026-07-24T15:50:09.365481+00:00"
+    },
+    {
+      "id": 30,
+      "category": "🥖 Food & Drink",
+      "name": "Wine (bottle)",
+      "cost": "1g",
+      "created_at": "2026-07-24T15:50:09.365481+00:00"
+    }
+  ],
+  "monsters": [
+    {
+      "id": 1,
+      "name": "Bandit Archer",
+      "nish": "🚩13",
+      "mr": "👣10",
+      "atk_dmg_ftg": "⚔️16 / 5 (1)",
+      "dod_ar": "🧥14 / 1",
+      "vit": "❤️8",
+      "attributes": "💪12 / 🏃16 / 👁️14 / ✨10 / 🫀10",
+      "abilities": "Volley fire",
+      "created_at": "2026-07-24T15:50:16.077793+00:00"
+    },
+    {
+      "id": 2,
+      "name": "Bandit Archer",
+      "nish": "🚩13",
+      "mr": "👣10",
+      "atk_dmg_ftg": "⚔️16 / 5 (1)",
+      "dod_ar": "🧥14 / 1",
+      "vit": "❤️8",
+      "attributes": "💪12 / 🏃16 / 👁️14 / ✨10 / 🫀10",
+      "abilities": "Volley fire",
+      "created_at": "2026-07-24T15:50:16.077793+00:00"
+    },
+    {
+      "id": 3,
+      "name": "Bandit Leader",
+      "nish": "🚩16",
+      "mr": "👣10",
+      "atk_dmg_ftg": "⚔️20 / 8 (1)",
+      "dod_ar": "🧥18 / 2",
+      "vit": "❤️16",
+      "attributes": "💪18 / 🏃12 / 👁️12 / ✨11 / 🫀10",
+      "abilities": "Inspires bandits",
+      "created_at": "2026-07-24T15:50:16.077793+00:00"
+    },
+    {
+      "id": 4,
+      "name": "Bandit Thug",
+      "nish": "🚩13",
+      "mr": "👣10",
+      "atk_dmg_ftg": "⚔️16 / 8 (1)",
+      "dod_ar": "🧥14 / 1",
+      "vit": "❤️10",
+      "attributes": "💪16 / 🏃12 / 👁️10 / ✨10 / 🫀10",
+      "abilities": "Dirty tricks",
+      "created_at": "2026-07-24T15:50:16.077793+00:00"
+    },
+    {
+      "id": 6,
+      "name": "Bats, Swarm of",
+      "nish": "🚩18",
+      "mr": "👣14",
+      "atk_dmg_ftg": "⚔️14 / 5 (1)",
+      "dod_ar": "🧥14 / 0",
+      "vit": "❤️6",
+      "attributes": "💪10 / 🏃22 / 👁️16 / ✨12 / 🫀10",
+      "abilities": "Distracts enemies",
+      "created_at": "2026-07-24T15:50:16.077793+00:00"
+    },
+    {
+      "id": 5,
+      "name": "Bear, Brown",
+      "nish": "🚩15",
+      "mr": "👣11",
+      "atk_dmg_ftg": "⚔️18 / 12 (2)",
+      "dod_ar": "🧥16 / 2",
+      "vit": "❤️16",
+      "attributes": "💪20 / 🏃14 / 👁️10 / ✨10 / 🫀10",
+      "abilities": "Mauling attacks",
+      "created_at": "2026-07-24T15:50:16.077793+00:00"
+    },
+    {
+      "id": 7,
+      "name": "Bubblegum Golem",
+      "nish": "🚩13",
+      "mr": "👣8",
+      "atk_dmg_ftg": "⚔️18 / 12 (2)",
+      "dod_ar": "🧥18 / 3",
+      "vit": "❤️14",
+      "attributes": "💪20 / 🏃12 / 👁️14 / ✨16 / 🫀10",
+      "abilities": "Traps foes in gum",
+      "created_at": "2026-07-24T15:50:16.077793+00:00"
+    },
+    {
+      "id": 8,
+      "name": "Chimera",
+      "nish": "🚩18",
+      "mr": "👣10",
+      "atk_dmg_ftg": "⚔️22 / 12 (2)",
+      "dod_ar": "🧥20 / 3",
+      "vit": "❤️30",
+      "attributes": "💪22 / 🏃16 / 👁️14 / ✨16 / 🫀10",
+      "abilities": "3 attacks (lion, goat, dragon)",
+      "created_at": "2026-07-24T15:50:16.077793+00:00"
+    },
+    {
+      "id": 9,
+      "name": "Demon Brute",
+      "nish": "🚩16",
+      "mr": "👣10",
+      "atk_dmg_ftg": "⚔️20 / 12 (2)",
+      "dod_ar": "🧥18 / 3",
+      "vit": "❤️24",
+      "attributes": "💪24 / 🏃12 / 👁️12 / ✨18 / 🫀10",
+      "abilities": "Rage aura",
+      "created_at": "2026-07-24T15:50:16.077793+00:00"
+    },
+    {
+      "id": 10,
+      "name": "Demon Imp",
+      "nish": "🚩16",
+      "mr": "👣14",
+      "atk_dmg_ftg": "⚔️14 / 5 (1)",
+      "dod_ar": "🧥16 / 0",
+      "vit": "❤️8",
+      "attributes": "💪10 / 🏃18 / 👁️16 / ✨20 / 🫀10",
+      "abilities": "Mischief magic",
+      "created_at": "2026-07-24T15:50:16.077793+00:00"
+    },
+    {
+      "id": 11,
+      "name": "Dire Wolf",
+      "nish": "🚩18",
+      "mr": "👣12",
+      "atk_dmg_ftg": "⚔️18 / 8 (1)",
+      "dod_ar": "🧥16 / 1",
+      "vit": "❤️12",
+      "attributes": "💪18 / 🏃18 / 👁️12 / ✨10 / 🫀10",
+      "abilities": "Pack hunter",
+      "created_at": "2026-07-24T15:50:16.077793+00:00"
+    },
+    {
+      "id": 12,
+      "name": "Dragon, Adult",
+      "nish": "🚩20",
+      "mr": "👣12",
+      "atk_dmg_ftg": "⚔️24 / 25 (5)",
+      "dod_ar": "🧥22 / 4",
+      "vit": "❤️40",
+      "attributes": "💪24 / 🏃20 / 👁️18 / ✨22 / 🫀10",
+      "abilities": "Large breath, fear aura",
+      "created_at": "2026-07-24T15:50:16.077793+00:00"
+    },
+    {
+      "id": 13,
+      "name": "Dragon, Whelp",
+      "nish": "🚩15",
+      "mr": "👣10",
+      "atk_dmg_ftg": "⚔️18 / 8 (1)",
+      "dod_ar": "🧥16 / 2",
+      "vit": "❤️16",
+      "attributes": "💪18 / 🏃16 / 👁️14 / ✨16 / 🫀10",
+      "abilities": "Small breath attack",
+      "created_at": "2026-07-24T15:50:16.077793+00:00"
+    },
+    {
+      "id": 14,
+      "name": "Dragon, Young",
+      "nish": "🚩18",
+      "mr": "👣12",
+      "atk_dmg_ftg": "⚔️20 / 12 (2)",
+      "dod_ar": "🧥20 / 3",
+      "vit": "❤️28",
+      "attributes": "💪22 / 🏃18 / 👁️16 / ✨20 / 🫀10",
+      "abilities": "Breath weapon 1-Enc",
+      "created_at": "2026-07-24T15:50:16.077793+00:00"
+    },
+    {
+      "id": 15,
+      "name": "Elemental of Air",
+      "nish": "🚩18",
+      "mr": "👣16",
+      "atk_dmg_ftg": "⚔️18 / 8 (1)",
+      "dod_ar": "🧥16 / 1",
+      "vit": "❤️14",
+      "attributes": "💪14 / 🏃22 / 👁️18 / ✨20 / 🫀10",
+      "abilities": "Push / knockback",
+      "created_at": "2026-07-24T15:50:16.077793+00:00"
+    },
+    {
+      "id": 16,
+      "name": "Elemental of Earth",
+      "nish": "🚩14",
+      "mr": "👣8",
+      "atk_dmg_ftg": "⚔️18 / 12 (2)",
+      "dod_ar": "🧥20 / 4",
+      "vit": "❤️22",
+      "attributes": "💪24 / 🏃12 / 👁️12 / ✨20 / 🫀10",
+      "abilities": "Knockdown slam",
+      "created_at": "2026-07-24T15:50:16.077793+00:00"
+    },
+    {
+      "id": 17,
+      "name": "Elemental of Fire",
+      "nish": "🚩18",
+      "mr": "👣12",
+      "atk_dmg_ftg": "⚔️18 / 8 (1)",
+      "dod_ar": "🧥16 / 2",
+      "vit": "❤️14",
+      "attributes": "💪16 / 🏃18 / 👁️14 / ✨22 / 🫀10",
+      "abilities": "Burns attackers",
+      "created_at": "2026-07-24T15:50:16.077793+00:00"
+    },
+    {
+      "id": 18,
+      "name": "Elemental of Water",
+      "nish": "🚩15",
+      "mr": "👣10",
+      "atk_dmg_ftg": "⚔️18 / 8 (1)",
+      "dod_ar": "🧥16 / 2",
+      "vit": "❤️16",
+      "attributes": "💪18 / 🏃14 / 👁️14 / ✨22 / 🫀10",
+      "abilities": "Engulf + drown",
+      "created_at": "2026-07-24T15:50:16.077793+00:00"
+    },
+    {
+      "id": 19,
+      "name": "Ghoul",
+      "nish": "🚩13",
+      "mr": "👣10",
+      "atk_dmg_ftg": "⚔️16 / 8 (1)",
+      "dod_ar": "🧥14 / 1",
+      "vit": "❤️10",
+      "attributes": "💪14 / 🏃12 / 👁️12 / ✨12 / 🫀10",
+      "abilities": "Paralysis on hit",
+      "created_at": "2026-07-24T15:50:16.077793+00:00"
+    },
+    {
+      "id": 24,
+      "name": "Giant Rat",
+      "nish": "🚩14",
+      "mr": "👣12",
+      "atk_dmg_ftg": "⚔️14 / 5 (1)",
+      "dod_ar": "🧥12 / 0",
+      "vit": "❤️6",
+      "attributes": "💪10 / 🏃18 / 👁️12 / ✨10 / 🫀10",
+      "abilities": "Swarm tactics",
+      "created_at": "2026-07-24T15:50:16.077793+00:00"
+    },
+    {
+      "id": 20,
+      "name": "Giant, Fire",
+      "nish": "🚩16",
+      "mr": "👣8",
+      "atk_dmg_ftg": "⚔️22 / 19 (4)",
+      "dod_ar": "🧥18 / 3",
+      "vit": "❤️30",
+      "attributes": "💪24 / 🏃12 / 👁️12 / ✨14 / 🫀10",
+      "abilities": "Fire aura",
+      "created_at": "2026-07-24T15:50:16.077793+00:00"
+    },
+    {
+      "id": 21,
+      "name": "Giant, Frost",
+      "nish": "🚩15",
+      "mr": "👣8",
+      "atk_dmg_ftg": "⚔️20 / 19 (4)",
+      "dod_ar": "🧥18 / 3",
+      "vit": "❤️30",
+      "attributes": "💪24 / 🏃12 / 👁️12 / ✨14 / 🫀10",
+      "abilities": "Cold aura",
+      "created_at": "2026-07-24T15:50:16.077793+00:00"
+    },
+    {
+      "id": 22,
+      "name": "Giant, Hill",
+      "nish": "🚩13",
+      "mr": "👣8",
+      "atk_dmg_ftg": "⚔️18 / 12 (2)",
+      "dod_ar": "🧥16 / 3",
+      "vit": "❤️26",
+      "attributes": "💪22 / 🏃12 / 👁️10 / ✨10 / 🫀10",
+      "abilities": "Rock throws",
+      "created_at": "2026-07-24T15:50:16.077793+00:00"
+    },
+    {
+      "id": 23,
+      "name": "Giant, Stone",
+      "nish": "🚩15",
+      "mr": "👣8",
+      "atk_dmg_ftg": "⚔️20 / 12 (2)",
+      "dod_ar": "🧥18 / 3",
+      "vit": "❤️28",
+      "attributes": "💪24 / 🏃12 / 👁️12 / ✨12 / 🫀10",
+      "abilities": "Rock skin",
+      "created_at": "2026-07-24T15:50:16.077793+00:00"
+    },
+    {
+      "id": 25,
+      "name": "Glitter Ghoul",
+      "nish": "🚩13",
+      "mr": "👣10",
+      "atk_dmg_ftg": "⚔️16 / 8 (1)",
+      "dod_ar": "🧥14 / 1",
+      "vit": "❤️8",
+      "attributes": "💪12 / 🏃12 / 👁️14 / ✨14 / 🫀10",
+      "abilities": "Blinds with sparkle cloud",
+      "created_at": "2026-07-24T15:50:16.077793+00:00"
+    },
+    {
+      "id": 26,
+      "name": "Goblin Raider",
+      "nish": "🚩13",
+      "mr": "👣12",
+      "atk_dmg_ftg": "⚔️16 / 8 (1)",
+      "dod_ar": "🧥14 / 1",
+      "vit": "❤️6",
+      "attributes": "💪12 / 🏃16 / 👁️12 / ✨10 / 🫀10",
+      "abilities": "Likes ambushes",
+      "created_at": "2026-07-24T15:50:16.077793+00:00"
+    },
+    {
+      "id": 27,
+      "name": "Goblin Scout",
+      "nish": "🚩15",
+      "mr": "👣12",
+      "atk_dmg_ftg": "⚔️14 / 5 (1)",
+      "dod_ar": "🧥13 / 0",
+      "vit": "❤️6",
+      "attributes": "💪10 / 🏃18 / 👁️12 / ✨10 / 🫀10",
+      "abilities": "Nimble, fights in packs",
+      "created_at": "2026-07-24T15:50:16.077793+00:00"
+    },
+    {
+      "id": 28,
+      "name": "Goblin Shaman",
+      "nish": "🚩13",
+      "mr": "👣10",
+      "atk_dmg_ftg": "⚔️16 / 8 (1)",
+      "dod_ar": "🧥14 / 1",
+      "vit": "❤️6",
+      "attributes": "💪10 / 🏃10 / 👁️14 / ✨18 / 🫀10",
+      "abilities": "1 quirky spell",
+      "created_at": "2026-07-24T15:50:16.077793+00:00"
+    },
+    {
+      "id": 29,
+      "name": "Golem, Iron",
+      "nish": "🚩16",
+      "mr": "👣8",
+      "atk_dmg_ftg": "⚔️20 / 12 (2)",
+      "dod_ar": "🧥22 / 4",
+      "vit": "❤️28",
+      "attributes": "💪24 / 🏃12 / 👁️12 / ✨18 / 🫀10",
+      "abilities": "Gas cloud breath",
+      "created_at": "2026-07-24T15:50:16.077793+00:00"
+    },
+    {
+      "id": 30,
+      "name": "Golem, Stone",
+      "nish": "🚩15",
+      "mr": "👣8",
+      "atk_dmg_ftg": "⚔️18 / 12 (2)",
+      "dod_ar": "🧥20 / 4",
+      "vit": "❤️24",
+      "attributes": "💪22 / 🏃12 / 👁️12 / ✨16 / 🫀10",
+      "abilities": "Magic Resistant",
+      "created_at": "2026-07-24T15:50:16.077793+00:00"
+    },
+    {
+      "id": 31,
+      "name": "Harpy",
+      "nish": "🚩15",
+      "mr": "👣12",
+      "atk_dmg_ftg": "⚔️16 / 8 (1)",
+      "dod_ar": "🧥16 / 1",
+      "vit": "❤️10",
+      "attributes": "💪12 / 🏃18 / 👁️14 / ✨16 / 🫀10",
+      "abilities": "Alluring song",
+      "created_at": "2026-07-24T15:50:16.077793+00:00"
+    },
+    {
+      "id": 32,
+      "name": "Hashtag Harpy",
+      "nish": "🚩18",
+      "mr": "👣12",
+      "atk_dmg_ftg": "⚔️14 / 5 (1)",
+      "dod_ar": "🧥14 / 1",
+      "vit": "❤️8",
+      "attributes": "💪12 / 🏃18 / 👁️16 / ✨18 / 🫀10",
+      "abilities": "Song = trending curse",
+      "created_at": "2026-07-24T15:50:16.077793+00:00"
+    },
+    {
+      "id": 33,
+      "name": "Hoodie Wraith",
+      "nish": "🚩16",
+      "mr": "👣12",
+      "atk_dmg_ftg": "⚔️18 / 8 (1)",
+      "dod_ar": "🧥16 / 2",
+      "vit": "❤️10",
+      "attributes": "💪12 / 🏃12 / 👁️14 / ✨20 / 🫀10",
+      "abilities": "Vanishes in shadows",
+      "created_at": "2026-07-24T15:50:16.077793+00:00"
+    },
+    {
+      "id": 34,
+      "name": "Kraken Spawn",
+      "nish": "🚩16",
+      "mr": "👣12",
+      "atk_dmg_ftg": "⚔️22 / 19 (4)",
+      "dod_ar": "🧥18 / 3",
+      "vit": "❤️30",
+      "attributes": "💪24 / 🏃16 / 👁️14 / ✨16 / 🫀10",
+      "abilities": "Tentacle grapple",
+      "created_at": "2026-07-24T15:50:16.077793+00:00"
+    },
+    {
+      "id": 35,
+      "name": "Lich",
+      "nish": "🚩18",
+      "mr": "👣10",
+      "atk_dmg_ftg": "⚔️22 / 12 (2)",
+      "dod_ar": "🧥20 / 3",
+      "vit": "❤️26",
+      "attributes": "💪14 / 🏃12 / 👁️20 / ✨24 / 🫀10",
+      "abilities": "Casts spells",
+      "created_at": "2026-07-24T15:50:16.077793+00:00"
+    },
+    {
+      "id": 36,
+      "name": "Meme Imp",
+      "nish": "🚩18",
+      "mr": "👣13",
+      "atk_dmg_ftg": "⚔️14 / 5 (1)",
+      "dod_ar": "🧥14 / 0",
+      "vit": "❤️6",
+      "attributes": "💪10 / 🏃16 / 👁️16 / ✨20 / 🫀10",
+      "abilities": "Random meme magic",
+      "created_at": "2026-07-24T15:50:16.077793+00:00"
+    },
+    {
+      "id": 37,
+      "name": "Minotaur",
+      "nish": "🚩16",
+      "mr": "👣10",
+      "atk_dmg_ftg": "⚔️20 / 12 (2)",
+      "dod_ar": "🧥18 / 2",
+      "vit": "❤️18",
+      "attributes": "💪22 / 🏃12 / 👁️12 / ✨12 / 🫀10",
+      "abilities": "Charge attack",
+      "created_at": "2026-07-24T15:50:16.077793+00:00"
+    },
+    {
+      "id": 38,
+      "name": "Ogre Brute",
+      "nish": "🚩14",
+      "mr": "👣8",
+      "atk_dmg_ftg": "⚔️20 / 12 (2)",
+      "dod_ar": "🧥16 / 3",
+      "vit": "❤️24",
+      "attributes": "💪22 / 🏃12 / 👁️10 / ✨10 / 🫀10",
+      "abilities": "Smashes obstacles",
+      "created_at": "2026-07-24T15:50:16.077793+00:00"
+    },
+    {
+      "id": 39,
+      "name": "Orc Archer",
+      "nish": "🚩13",
+      "mr": "👣10",
+      "atk_dmg_ftg": "⚔️16 / 8 (1)",
+      "dod_ar": "🧥14 / 1",
+      "vit": "❤️10",
+      "attributes": "💪12 / 🏃16 / 👁️12 / ✨10 / 🫀10",
+      "abilities": "Ranged focus",
+      "created_at": "2026-07-24T15:50:16.077793+00:00"
+    },
+    {
+      "id": 40,
+      "name": "Orc Bruiser",
+      "nish": "🚩14",
+      "mr": "👣10",
+      "atk_dmg_ftg": "⚔️18 / 12 (2)",
+      "dod_ar": "🧥16 / 2",
+      "vit": "❤️12",
+      "attributes": "💪18 / 🏃12 / 👁️10 / ✨10 / 🫀10",
+      "abilities": "Brutal melee strikes",
+      "created_at": "2026-07-24T15:50:16.077793+00:00"
+    },
+    {
+      "id": 41,
+      "name": "Orc WarChief",
+      "nish": "🚩16",
+      "mr": "👣8",
+      "atk_dmg_ftg": "⚔️20 / 12 (2)",
+      "dod_ar": "🧥18 / 3",
+      "vit": "❤️16",
+      "attributes": "💪22 / 🏃12 / 👁️12 / ✨12 / 🫀10",
+      "abilities": "Inspires allies",
+      "created_at": "2026-07-24T15:50:16.077793+00:00"
+    },
+    {
+      "id": 42,
+      "name": "Owlbear",
+      "nish": "🚩15",
+      "mr": "👣8",
+      "atk_dmg_ftg": "⚔️20 / 12 (2)",
+      "dod_ar": "🧥16 / 2",
+      "vit": "❤️18",
+      "attributes": "💪22 / 🏃14 / 👁️10 / ✨10 / 🫀10",
+      "abilities": "Ferocious charge",
+      "created_at": "2026-07-24T15:50:16.077793+00:00"
+    },
+    {
+      "id": 43,
+      "name": "Scooter Gargoyle",
+      "nish": "🚩18",
+      "mr": "👣12",
+      "atk_dmg_ftg": "⚔️18 / 8 (1)",
+      "dod_ar": "🧥16 / 2",
+      "vit": "❤️10",
+      "attributes": "💪16 / 🏃18 / 👁️12 / ✨12 / 🫀10",
+      "abilities": "Rides neon scooter",
+      "created_at": "2026-07-24T15:50:16.077793+00:00"
+    },
+    {
+      "id": 47,
+      "name": "Skater Punk Knight",
+      "nish": "🚩16",
+      "mr": "👣12",
+      "atk_dmg_ftg": "⚔️18 / 8 (1)",
+      "dod_ar": "🧥16 / 2",
+      "vit": "❤️10",
+      "attributes": "💪16 / 🏃18 / 👁️14 / ✨14 / 🫀10",
+      "abilities": "Rally cry with guitar",
+      "created_at": "2026-07-24T15:50:16.077793+00:00"
+    },
+    {
+      "id": 44,
+      "name": "Skeleton Archer",
+      "nish": "🚩12",
+      "mr": "👣8",
+      "atk_dmg_ftg": "⚔️14 / 5 (1)",
+      "dod_ar": "🧥12 / 0",
+      "vit": "❤️8",
+      "attributes": "💪12 / 🏃12 / 👁️12 / ✨10 / 🫀10",
+      "abilities": "Bone arrows",
+      "created_at": "2026-07-24T15:50:16.077793+00:00"
+    },
+    {
+      "id": 45,
+      "name": "Skeleton Knight",
+      "nish": "🚩14",
+      "mr": "👣8",
+      "atk_dmg_ftg": "⚔️18 / 12 (2)",
+      "dod_ar": "🧥16 / 2",
+      "vit": "❤️10",
+      "attributes": "💪18 / 🏃12 / 👁️12 / ✨12 / 🫀10",
+      "abilities": "Relentless",
+      "created_at": "2026-07-24T15:50:16.077793+00:00"
+    },
+    {
+      "id": 46,
+      "name": "Skeleton Warrior",
+      "nish": "🚩13",
+      "mr": "👣8",
+      "atk_dmg_ftg": "⚔️16 / 8 (1)",
+      "dod_ar": "🧥14 / 2",
+      "vit": "❤️8",
+      "attributes": "💪16 / 🏃10 / 👁️10 / ✨10 / 🫀10",
+      "abilities": "Immune to poison",
+      "created_at": "2026-07-24T15:50:16.077793+00:00"
+    },
+    {
+      "id": 48,
+      "name": "Slime",
+      "nish": "🚩13",
+      "mr": "👣8",
+      "atk_dmg_ftg": "⚔️14 / 8 (1)",
+      "dod_ar": "🧥12 / 2",
+      "vit": "❤️8",
+      "attributes": "💪12 / 🏃10 / 👁️12 / ✨20 / 🫀10",
+      "abilities": "Splits if hit by slashing",
+      "created_at": "2026-07-24T15:50:16.077793+00:00"
+    },
+    {
+      "id": 49,
+      "name": "Soda Slime",
+      "nish": "🚩14",
+      "mr": "👣10",
+      "atk_dmg_ftg": "⚔️16 / 8 (1)",
+      "dod_ar": "🧥14 / 2",
+      "vit": "❤️8",
+      "attributes": "💪12 / 🏃12 / 👁️12 / ✨20 / 🫀10",
+      "abilities": "Sticky soda burst",
+      "created_at": "2026-07-24T15:50:16.077793+00:00"
+    },
+    {
+      "id": 50,
+      "name": "Spider, Giant",
+      "nish": "🚩15",
+      "mr": "👣10",
+      "atk_dmg_ftg": "⚔️18 / 8 (1)",
+      "dod_ar": "🧥16 / 1",
+      "vit": "❤️12",
+      "attributes": "💪16 / 🏃18 / 👁️14 / ✨14 / 🫀10",
+      "abilities": "Web entrapment",
+      "created_at": "2026-07-24T15:50:16.077793+00:00"
+    },
+    {
+      "id": 51,
+      "name": "Swarm of Insects",
+      "nish": "🚩15",
+      "mr": "👣12",
+      "atk_dmg_ftg": "⚔️14 / 5 (1)",
+      "dod_ar": "🧥12 / 0",
+      "vit": "❤️6",
+      "attributes": "💪10 / 🏃18 / 👁️12 / ✨10 / 🫀10",
+      "abilities": "Obscures vision",
+      "created_at": "2026-07-24T15:50:16.077793+00:00"
+    },
+    {
+      "id": 52,
+      "name": "TikTok Dragon",
+      "nish": "🚩18",
+      "mr": "👣10",
+      "atk_dmg_ftg": "⚔️20 / 12 (2)",
+      "dod_ar": "🧥18 / 3",
+      "vit": "❤️16",
+      "attributes": "💪18 / 🏃18 / 👁️14 / ✨20 / 🫀10",
+      "abilities": "Dance = spell component",
+      "created_at": "2026-07-24T15:50:16.077793+00:00"
+    },
+    {
+      "id": 53,
+      "name": "Troll",
+      "nish": "🚩13",
+      "mr": "👣8",
+      "atk_dmg_ftg": "⚔️18 / 12 (2)",
+      "dod_ar": "🧥16 / 3",
+      "vit": "❤️22",
+      "attributes": "💪22 / 🏃12 / 👁️10 / ✨10 / 🫀10",
+      "abilities": "Regenerates unless burned",
+      "created_at": "2026-07-24T15:50:16.077793+00:00"
+    },
+    {
+      "id": 54,
+      "name": "Vampire Lord",
+      "nish": "🚩20",
+      "mr": "👣12",
+      "atk_dmg_ftg": "⚔️22 / 12 (2)",
+      "dod_ar": "🧥20 / 3",
+      "vit": "❤️24",
+      "attributes": "💪22 / 🏃18 / 👁️18 / ✨24 / 🫀10",
+      "abilities": "Commands bats / wolves",
+      "created_at": "2026-07-24T15:50:16.077793+00:00"
+    },
+    {
+      "id": 55,
+      "name": "Vampire Spawn",
+      "nish": "🚩16",
+      "mr": "👣10",
+      "atk_dmg_ftg": "⚔️18 / 8 (1)",
+      "dod_ar": "🧥16 / 2",
+      "vit": "❤️14",
+      "attributes": "💪18 / 🏃16 / 👁️16 / ✨16 / 🫀10",
+      "abilities": "Heals 2 Vit❤️ when feeding",
+      "created_at": "2026-07-24T15:50:16.077793+00:00"
+    },
+    {
+      "id": 56,
+      "name": "Werewolf",
+      "nish": "🚩18",
+      "mr": "👣10",
+      "atk_dmg_ftg": "⚔️20 / 12 (2)",
+      "dod_ar": "🧥18 / 2",
+      "vit": "❤️18",
+      "attributes": "💪20 / 🏃18 / 👁️14 / ✨12 / 🫀10",
+      "abilities": "Regeneration",
+      "created_at": "2026-07-24T15:50:16.077793+00:00"
+    },
+    {
+      "id": 57,
+      "name": "Wraith",
+      "nish": "🚩18",
+      "mr": "👣14",
+      "atk_dmg_ftg": "⚔️20 / 8 (1)",
+      "dod_ar": "🧥18 / 2",
+      "vit": "❤️16",
+      "attributes": "💪12 / 🏃18 / 👁️16 / ✨22 / 🫀10",
+      "abilities": "Intangible",
+      "created_at": "2026-07-24T15:50:16.077793+00:00"
+    },
+    {
+      "id": 58,
+      "name": "Zombie",
+      "nish": "🚩12",
+      "mr": "👣8",
+      "atk_dmg_ftg": "⚔️14 / 8 (1)",
+      "dod_ar": "🧥12 / 2",
+      "vit": "❤️10",
+      "attributes": "💪18 / 🏃10 / 👁️10 / ✨10 / 🫀10",
+      "abilities": "Slow, keeps coming",
+      "created_at": "2026-07-24T15:50:16.077793+00:00"
+    },
+    {
+      "id": 59,
+      "name": "Zombie Brute",
+      "nish": "🚩12",
+      "mr": "👣8",
+      "atk_dmg_ftg": "⚔️18 / 12 (2)",
+      "dod_ar": "🧥14 / 3",
+      "vit": "❤️12",
+      "attributes": "💪20 / 🏃10 / 👁️10 / ✨10 / 🫀10",
+      "abilities": "Hits hard, slow",
+      "created_at": "2026-07-24T15:50:16.077793+00:00"
     }
   ]
 }
