@@ -4,6 +4,8 @@ outline: 2
 
 # ⚡ SupaFlex Rules Manual
 
+## 🔝 Top of Rules
+
 ## ✅ System Philosophy & Guiding Principles
 
 🎬 Cinematic – Big swing dice (d20 + Atr Die) create dramatic highs and lows that feel like movie moments. Every roll should carry weight, producing stories worth retelling.
