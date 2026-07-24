@@ -636,7 +636,20 @@ All of Step 2 below is AP🧩 free and costs no AP🧩.
 
 ### Vit❤️ Max Roll
 
-On each Level⭐, roll for new maximum Vit❤️: * Vit❤️ Max Roll Formula: * Levels 1–3: 10 + 1d(Moxie🫀) + (Level × 2) * Levels 4–8: 10 + 2d(Moxie🫀) + (Level × 2) * Levels 9–15: 10 + 3d(Moxie🫀) + (Level × 2) * Levels 16–24: 10 + 4d(Moxie🫀) + (Level × 2) * Levels 25–35: 10 + 5d(Moxie🫀) + (Level × 2) * Levels 36–48: 10 + 6d(Moxie🫀) + (Level × 2) * Levels 49–63: 10 + 7d(Moxie🫀) + (Level × 2) * Levels 64–80: 10 + 8d(Moxie🫀) + (Level × 2) * Levels 81–99: 10 + 9d(Moxie🫀) + (Level × 2) * Levels 100+: 10 + 10d(Moxie🫀) + (Level × 2) * This is like “Lucking🍀” Max Vit❤️ (roll a new number and keep the better of the old Vit❤️ or the new Vit❤️). If your Moxie🫀 has increased, you use the new Moxie🫀 number in the formula.
+On each Level⭐, roll for new maximum Vit❤️:
+
+* **Vit❤️ Max Roll Formula:**
+  * Levels 1–3: 10 + 1d(Moxie🫀) + (Level × 2)
+  * Levels 4–8: 10 + 2d(Moxie🫀) + (Level × 2)
+  * Levels 9–15: 10 + 3d(Moxie🫀) + (Level × 2)
+  * Levels 16–24: 10 + 4d(Moxie🫀) + (Level × 2)
+  * Levels 25–35: 10 + 5d(Moxie🫀) + (Level × 2)
+  * Levels 36–48: 10 + 6d(Moxie🫀) + (Level × 2)
+  * Levels 49–63: 10 + 7d(Moxie🫀) + (Level × 2)
+  * Levels 64–80: 10 + 8d(Moxie🫀) + (Level × 2)
+  * Levels 81–99: 10 + 9d(Moxie🫀) + (Level × 2)
+  * Levels 100+: 10 + 10d(Moxie🫀) + (Level × 2)
+* This is like “Lucking🍀” Max Vit❤️ (roll a new number and keep the better of the old Vit❤️ or the new Vit❤️). If your Moxie🫀 has increased, you use the new Moxie🫀 number in the formula.
 
 ## 💲 Step 3 — Spend AP🧩
 
