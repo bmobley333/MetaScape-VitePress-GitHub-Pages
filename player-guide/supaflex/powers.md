@@ -1,7 +1,4 @@
-
-# 🔥 Powers
-
-# **🔥 Powers**
+# 🔥 Powers Reference Manual
 
 Select one of the many sub-sets of powers such as Class👤, Race🧬, Combat Styles⚔️, etc. in the sections below.
 
@@ -662,7 +659,6 @@ Select one of the many sub-sets of powers such as Class👤, Race🧬, Combat St
 | Single Weapon Powers | 1-Enc | F | **Swift Ready** | Swap to new weapon; no P cost |
 | Single Weapon Powers | 1-Enc | P | **Weapon Control** | On successful Atk; Motion🏃 disarms target |
 | Single Weapon Powers | 2-Enc | P | **Weapon Mastery** | If you attacked last rnd with same weapon; Atk+2 and Dmg💥+2 this rnd |
-| TableName | Usage | Action | **Name** | Effect |
 | Usage | Effect | TableName - Name⚡ (Usage, Action) ➡ Effect | **Source** | 2026-07-18T15:14:47.023782+00:00 |
 | Weapon & Shield Powers | 1-⚡ | F | **Boomerang Block🛡️** | Hurl shield to intercept Atk vs ally; roll Def normally, success = total Block🛡️ (no Dmg💥) |
 | Weapon & Shield Powers | 2-Enc | P | **Brace** | Platn shield; AR🧥+1 for 1 rnd |

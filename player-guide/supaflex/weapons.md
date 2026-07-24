@@ -1,7 +1,4 @@
-
-# ⚔️ Weapons
-
-# **⚔️ Weapons**
+# ⚔️ Weapons Reference Manual
 
 Master indexed weapons directory.
 

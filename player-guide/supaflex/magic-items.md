@@ -1,7 +1,4 @@
-
-# ✨ Magic Items
-
-# **✨Magic Items**
+# ✨ Magic Items Catalog
 
 Dynamic magical treasures indexed from the master databases.
 

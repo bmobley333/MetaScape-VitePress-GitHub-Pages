@@ -1,7 +1,4 @@
-
-# 🧥 Armor
-
-# **🧥 Armor**
+# 🧥 Armor Reference Manual
 
 Master indexed armor directory.
 

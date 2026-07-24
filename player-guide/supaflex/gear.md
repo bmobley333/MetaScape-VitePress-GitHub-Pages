@@ -1,7 +1,4 @@
-
-# 🧰 Gear
-
-# **🧰 Gear**
+# 🧰 Gear Catalog
 
 Master indexed gear equipment directory.
 

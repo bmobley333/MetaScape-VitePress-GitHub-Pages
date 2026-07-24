@@ -1,7 +1,4 @@
-
-# 🛡️ Shields
-
-# **🛡️ Shields**
+# 🛡️ Shields Reference Manual
 
 Master indexed shields directory.
 

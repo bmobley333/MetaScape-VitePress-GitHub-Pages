@@ -1,7 +1,6 @@
+# 🎓 Skill Sets Directory
 
-# 🎓 Skills & Skills Sets
-
-#  **🎓 Skills Sets**
+Master indexed skill sets directory.
 
 | Skill Set | Skills |
 | --- | --- |

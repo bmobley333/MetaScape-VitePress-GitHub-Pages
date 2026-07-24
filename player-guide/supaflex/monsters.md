@@ -1,7 +1,4 @@
-
-# 🐉 Monsters
-
-# **🐉 Monsters**
+# 🐉 Monsters Bestiary
 
 Master indexed monster bestiary.
 
