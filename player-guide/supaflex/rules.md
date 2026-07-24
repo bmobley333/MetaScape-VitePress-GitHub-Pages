@@ -41,7 +41,7 @@ Monster stats place the emojis before key numbers or number sets as in:
 | Actions🔷 | 🔷 |  | 🔄 | Usage🔄 |
 | Affliction💀 | 💀 |  | ⏳ | Duration⏳ |
 | AP🧩 | 🧩 |  | ⚕️ | Medical & Healing Supplies⚕️ |
-| AR🧥 | 🧥 |  | ⚡ | Power🔥 |
+| AR🧥 | 🧥 |  | 🔥 | Power🔥 |
 | Armor🧥 | 🧥 |  | ✅ | Atr✅ |
 | Art🎨 | 🎨 |  | ✒️ | Writing & Communication✒️ |
 | Artifact💫 (Magic Item) | 💫 |  | ❤️ | Vit❤️ |
@@ -82,7 +82,7 @@ Monster stats place the emojis before key numbers or number sets as in:
 | Natural Weapons🥊 | 🥊 |  | 🧺 | Containers🧺 |
 | Nish🚩 | 🚩 |  | 🚩 | Nish🚩 |
 | Notes📜 | 📜 |  | 🪬 | Greater🪬 (Magic Item) |
-| Power🔥 | ⚡ |  | 🛠️ | Tools & Equipment🛠️ |
+| Power🔥 | 🔥 |  | 🛠️ | Tools & Equipment🛠️ |
 | Racial 🧬 | 🧬 |  | 🩸 | Wnd🩸 |
 | Range🎯 | 🎯 |  | 🧥 | AR🧥 |
 | Resist✨ | ✨ |  | 🧥 | Armor🧥 |
