@@ -32,6 +32,11 @@ export default {
       '/player-guide/supaflex/': [
         { text: '📖 Core Rules Manual', link: '/player-guide/supaflex/rules' },
         { text: '──────────────', link: '/player-guide/supaflex/rules#sep' },
+        { text: '⚔️ Weapons Reference', link: '/player-guide/supaflex/weapons' },
+        { text: '🧥 Armor Reference', link: '/player-guide/supaflex/armor' },
+        { text: '🛡️ Shields Reference', link: '/player-guide/supaflex/shields' },
+        { text: '🧰 Gear Catalog', link: '/player-guide/supaflex/gear' },
+        { text: '🐉 Monsters Bestiary', link: '/player-guide/supaflex/monsters' },
         { text: '🔥 Powers Reference', link: '/player-guide/supaflex/powers' },
         { text: '✨ Magic Items Reference', link: '/player-guide/supaflex/magic-items' },
         { text: '🎓 Skill Sets Reference', link: '/player-guide/supaflex/skillsets' },
