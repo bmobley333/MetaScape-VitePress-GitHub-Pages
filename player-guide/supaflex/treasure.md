@@ -2,49 +2,49 @@
 
 Master indexed random treasure and quality tables.
 
-| Table / Category | Entry & Range | Value / Cost |
-| --- | --- | --- |
-| 🎨 Art, Gems & Jewelry (d8) | **d8 1: Elaborate tapestry (bulky)** | 10g |
-| 🎨 Art, Gems & Jewelry (d8) | **d8 2: Gem cluster (sapphires, emeralds, etc.)** | 2d6g |
-| 🎨 Art, Gems & Jewelry (d8) | **d8 3: Ivory figurine of a knight** | 3g |
-| 🎨 Art, Gems & Jewelry (d8) | **d8 4: Jeweled circlet, delicate gold wire** | 8g |
-| 🎨 Art, Gems & Jewelry (d8) | **d8 5: Ornate ring with carved sigil** | 4g |
-| 🎨 Art, Gems & Jewelry (d8) | **d8 6: Ruby-studded chalice** | 5g |
-| 🎨 Art, Gems & Jewelry (d8) | **d8 7: Silver necklace with tiny bells** | 2g |
-| 🎨 Art, Gems & Jewelry (d8) | **d8 8: Small painting of a noble’s hunting party** | 2g |
-| 💰 Master d100 Treasure Table | **d100 01–09: Nothing Found** | — |
-| 💰 Master d100 Treasure Table | **d100 100: Epic Hoard 👑 → 1 Artifact💫 + 1d100g + 1 additional roll** | 1d100g + Artifact |
-| 💰 Master d100 Treasure Table | **d100 10–24: Junk / Funny One-Off** | — |
-| 💰 Master d100 Treasure Table | **d100 25–27: Coins 💰 → 1d6s** | 1d6s |
-| 💰 Master d100 Treasure Table | **d100 28–30: Coins 💰 → 1d20s** | 1d20s |
-| 💰 Master d100 Treasure Table | **d100 31–33: Coins 💰 → 1d100s** | 1d100s |
-| 💰 Master d100 Treasure Table | **d100 34–36: Coins 💰 → 1d4g** | 1d4g |
-| 💰 Master d100 Treasure Table | **d100 37–39: Coins 💰 → 2d6 × 10s + 1d4g** | 2d6x10s+1d4g |
-| 💰 Master d100 Treasure Table | **d100 40–49: Art Object (necklace, chalice, painting, tapestry)** | 1d4+1g |
-| 💰 Master d100 Treasure Table | **d100 50–59: Gem / Jewel (sapphire, ruby, emerald, etc.)** | 2d6g |
-| 💰 Master d100 Treasure Table | **d100 60–64: Curio / Document (map, deed, spellbook, IOU, royal letter)** | — |
-| 💰 Master d100 Treasure Table | **d100 65–74: Collectible (figurine, rare coin, idol, old toy, antique)** | 1d20g |
-| 💰 Master d100 Treasure Table | **d100 75–83: Minor🍺 Magic Item (roll d15 on Minor🍺 table)** | Catalog |
-| 💰 Master d100 Treasure Table | **d100 84–89: Lesser🪄 Magic Item (roll d30 on Lesser🪄 table)** | Catalog |
-| 💰 Master d100 Treasure Table | **d100 90–93: Greater✨ Magic Item (roll d63 on Greater table)** | Catalog |
-| 💰 Master d100 Treasure Table | **d100 94–95: Artifact💫 Magic Item (roll d15 on Artifact💫 table)** | Catalog |
-| 💰 Master d100 Treasure Table | **d100 96–99: Double Roll 🎲🎲 → Roll twice on this table (ignore 96+)** | Special |
-| 📜 Curios, Maps & Documents (d6) | **d6 1: Bestiary notes (hint at monster weakness)** | — |
-| 📜 Curios, Maps & Documents (d6) | **d6 2: Deed to a crumbling farmstead** | — |
-| 📜 Curios, Maps & Documents (d6) | **d6 3: Map fragment to a dungeon or cave** | — |
-| 📜 Curios, Maps & Documents (d6) | **d6 4: Odd contract, owed favor, or IOU** | — |
-| 📜 Curios, Maps & Documents (d6) | **d6 5: Royal letter, sealed with wax (political intrigue)** | — |
-| 📜 Curios, Maps & Documents (d6) | **d6 6: Spellbook with 1 usable ritual** | — |
-| 🗑️ Junk & One-Offs (d6) | **d6 1: “Cursed” spoon (just bent metal)** | 0g |
-| 🗑️ Junk & One-Offs (d6) | **d6 2: Fake gem made of glass** | 0g |
-| 🗑️ Junk & One-Offs (d6) | **d6 3: Ice sculpture of a frog leaping from a crocodile’s mouth (melts in hours)** | 0g |
-| 🗑️ Junk & One-Offs (d6) | **d6 4: Pouch of colorful sand** | 0g |
-| 🗑️ Junk & One-Offs (d6) | **d6 5: Sack of bent nails** | 0g |
-| 🗑️ Junk & One-Offs (d6) | **d6 6: Wooden puppet missing an arm** | 0g |
-| 🧰 Gear Quality Table (d8) | **d8 1: Ruined (rotten, unusable without repair)** | 0x |
-| 🧰 Gear Quality Table (d8) | **d8 2: Used (worn, dented, reduced resale)** | 0.5x |
-| 🧰 Gear Quality Table (d8) | **d8 3–4: Normal (functional, plain)** | 1.0x |
-| 🧰 Gear Quality Table (d8) | **d8 5: Good (well-kept, durable)** | 1.25x |
-| 🧰 Gear Quality Table (d8) | **d8 6: Excellent (masterwork)** | 1.5x |
-| 🧰 Gear Quality Table (d8) | **d8 7: Ornate (decorated, engraved)** | +1d6s |
-| 🧰 Gear Quality Table (d8) | **d8 8: Gem-Encrusted** | +1d4g |
+| Table Name | Range | Outcome | Formula / Value | Notes |
+| --- | --- | --- | --- | --- |
+| **Art, Gems & Jewelry** | 01 | **Elaborate Tapestry** | 10g | Bulky decorative woven tapestry |
+| **Art, Gems & Jewelry** | 02 | **Gem Cluster** | 2d6g | Uncut sapphires, emeralds, rubies |
+| **Art, Gems & Jewelry** | 03 | **Ivory Figurine of a Knight** | 3g | Detailed hand-carved ivory sculpture |
+| **Art, Gems & Jewelry** | 04 | **Jeweled Circlet** | 8g | Delicate gold wire headband with gems |
+| **Art, Gems & Jewelry** | 05 | **Ornate Ring with Carved Sigil** | 4g | Engraved noble signet ring |
+| **Art, Gems & Jewelry** | 06 | **Ruby-Studded Chalice** | 5g | Silver drinking cup set with rubies |
+| **Art, Gems & Jewelry** | 07 | **Silver Necklace with Tiny Bells** | 2g | Charming silver jewelry piece |
+| **Art, Gems & Jewelry** | 08 | **Small Painting of Noble's Hunting Party** | 2g | Framed canvas oil painting |
+| **Curios, Maps & Documents** | 01 | **Bestiary Notes** |  | Provides hint at specific monster weakness |
+| **Curios, Maps & Documents** | 02 | **Deed to Crumbling Farmstead** |  | Land ownership document |
+| **Curios, Maps & Documents** | 03 | **Map Fragment to Dungeon or Cave** |  | Torn parchment map with compass point |
+| **Curios, Maps & Documents** | 04 | **Odd Contract, Owed Favor, or IOU** |  | Legal obligation or debt marker |
+| **Curios, Maps & Documents** | 05 | **Royal Letter (Sealed with Wax)** |  | Political intrigue correspondence |
+| **Curios, Maps & Documents** | 06 | **Spellbook with 1 Usable Ritual** |  | Ancient tome containing ritual spell |
+| **Gear Quality Table** | 01 | **Ruined** | 0x | Rotten, unusable without repair |
+| **Gear Quality Table** | 02 | **Used** | 0.5x | Worn, dented, reduced resale |
+| **Gear Quality Table** | 03–04 | **Normal** | 1.0x | Functional, plain standard condition |
+| **Gear Quality Table** | 05 | **Good** | 1.25x | Well-kept, durable |
+| **Gear Quality Table** | 06 | **Excellent** | 1.5x | Masterwork craftsmanship |
+| **Gear Quality Table** | 07 | **Ornate** | +1d6s | Decorated, engraved, worth +1d6s extra |
+| **Gear Quality Table** | 08 | **Gem-Encrusted** | +1d4g | Adds +1d4g to base item value |
+| **Junk & One-Offs** | 01 | **'Cursed' Spoon** | 0g | Just bent cheap metal |
+| **Junk & One-Offs** | 02 | **Fake Gem Made of Glass** | 0g | Polished colored glass trinket |
+| **Junk & One-Offs** | 03 | **Ice Sculpture of a Frog Leaping from a Crocodile's Mouth** | 0g | Melts in hours |
+| **Junk & One-Offs** | 04 | **Pouch of Colorful Sand** | 0g | Decorative desert sand |
+| **Junk & One-Offs** | 05 | **Sack of Bent Nails** | 0g | Rusty iron nails |
+| **Junk & One-Offs** | 06 | **Wooden Puppet Missing an Arm** | 0g | Carved toy marionette |
+| **Master d100 Treasure Table** | 01–09 | **Nothing Found** |  | No loot present |
+| **Master d100 Treasure Table** | 10–24 | **Junk / Funny One-Off** |  | Roll d6 on Junk table |
+| **Master d100 Treasure Table** | 25–27 | **Coins 💰 (1d6s)** | 1d6s | Small silver coin pouch |
+| **Master d100 Treasure Table** | 28–30 | **Coins 💰 (1d20s)** | 1d20s | Medium silver coin purse |
+| **Master d100 Treasure Table** | 31–33 | **Coins 💰 (1d100s)** | 1d100s | Large silver coin sack |
+| **Master d100 Treasure Table** | 34–36 | **Coins 💰 (1d4g)** | 1d4g | Small gold coins |
+| **Master d100 Treasure Table** | 37–39 | **Coins 💰 (2d6×10s + 1d4g)** | 2d6x10s+1d4g | Mixed coin hoard |
+| **Master d100 Treasure Table** | 40–49 | **Art Object (1d4+1g)** | 1d4+1g | Necklace, chalice, painting, tapestry |
+| **Master d100 Treasure Table** | 50–59 | **Gem / Jewel (2d6g)** | 2d6g | Sapphire, ruby, emerald |
+| **Master d100 Treasure Table** | 60–64 | **Curio / Document** |  | Map, deed, spellbook, IOU, royal letter |
+| **Master d100 Treasure Table** | 65–74 | **Collectible (1d20g)** | 1d20g | Figurine, rare coin, idol, old toy, antique |
+| **Master d100 Treasure Table** | 75–83 | **Minor🍺 Magic Item** | d15 | Roll d15 on Minor magic item catalog |
+| **Master d100 Treasure Table** | 84–89 | **Lesser🪄 Magic Item** | d30 | Roll d30 on Lesser magic item catalog |
+| **Master d100 Treasure Table** | 90–93 | **Greater✨ Magic Item** | d63 | Roll d63 on Greater magic item catalog |
+| **Master d100 Treasure Table** | 94–95 | **Artifact💫 Magic Item** | d15 | Roll d15 on Artifact catalog (Extremely Rare) |
+| **Master d100 Treasure Table** | 96–99 | **Double Roll 🎲🎲** |  | Roll twice on this table (ignore 96+) |
+| **Master d100 Treasure Table** | 100 | **Epic Hoard 👑** | 1d100g | 1 Artifact💫 + 1d100g + 1 additional roll (ignore 95+) |

@@ -10300,62 +10300,6 @@
       "created_at": "2026-07-24T15:50:09.365481+00:00"
     },
     {
-      "id": 117,
-      "category": "🎨 Art, Gems & Jewelry (d8)",
-      "name": "d8 1: Elaborate tapestry (bulky)",
-      "cost": "10g",
-      "created_at": "2026-07-25T20:11:25.304133+00:00"
-    },
-    {
-      "id": 118,
-      "category": "🎨 Art, Gems & Jewelry (d8)",
-      "name": "d8 2: Gem cluster (sapphires, emeralds, etc.)",
-      "cost": "2d6g",
-      "created_at": "2026-07-25T20:11:25.304133+00:00"
-    },
-    {
-      "id": 119,
-      "category": "🎨 Art, Gems & Jewelry (d8)",
-      "name": "d8 3: Ivory figurine of a knight",
-      "cost": "3g",
-      "created_at": "2026-07-25T20:11:25.304133+00:00"
-    },
-    {
-      "id": 120,
-      "category": "🎨 Art, Gems & Jewelry (d8)",
-      "name": "d8 4: Jeweled circlet, delicate gold wire",
-      "cost": "8g",
-      "created_at": "2026-07-25T20:11:25.304133+00:00"
-    },
-    {
-      "id": 121,
-      "category": "🎨 Art, Gems & Jewelry (d8)",
-      "name": "d8 5: Ornate ring with carved sigil",
-      "cost": "4g",
-      "created_at": "2026-07-25T20:11:25.304133+00:00"
-    },
-    {
-      "id": 122,
-      "category": "🎨 Art, Gems & Jewelry (d8)",
-      "name": "d8 6: Ruby-studded chalice",
-      "cost": "5g",
-      "created_at": "2026-07-25T20:11:25.304133+00:00"
-    },
-    {
-      "id": 123,
-      "category": "🎨 Art, Gems & Jewelry (d8)",
-      "name": "d8 7: Silver necklace with tiny bells",
-      "cost": "2g",
-      "created_at": "2026-07-25T20:11:25.304133+00:00"
-    },
-    {
-      "id": 124,
-      "category": "🎨 Art, Gems & Jewelry (d8)",
-      "name": "d8 8: Small painting of a noble’s hunting party",
-      "cost": "2g",
-      "created_at": "2026-07-25T20:11:25.304133+00:00"
-    },
-    {
       "id": 79,
       "category": "🎵 Entertainment & Instruments",
       "name": "Bell (small)",
@@ -10608,209 +10552,6 @@
       "created_at": "2026-07-24T15:50:09.365481+00:00"
     },
     {
-      "id": 93,
-      "category": "💰 Master d100 Treasure Table",
-      "name": "d100 01–09: Nothing Found",
-      "cost": "—",
-      "created_at": "2026-07-25T20:11:25.304133+00:00"
-    },
-    {
-      "id": 94,
-      "category": "💰 Master d100 Treasure Table",
-      "name": "d100 10–24: Junk / Funny One-Off",
-      "cost": "—",
-      "created_at": "2026-07-25T20:11:25.304133+00:00"
-    },
-    {
-      "id": 109,
-      "category": "💰 Master d100 Treasure Table",
-      "name": "d100 100: Epic Hoard 👑 → 1 Artifact💫 + 1d100g + 1 additional roll",
-      "cost": "1d100g + Artifact",
-      "created_at": "2026-07-25T20:11:25.304133+00:00"
-    },
-    {
-      "id": 95,
-      "category": "💰 Master d100 Treasure Table",
-      "name": "d100 25–27: Coins 💰 → 1d6s",
-      "cost": "1d6s",
-      "created_at": "2026-07-25T20:11:25.304133+00:00"
-    },
-    {
-      "id": 96,
-      "category": "💰 Master d100 Treasure Table",
-      "name": "d100 28–30: Coins 💰 → 1d20s",
-      "cost": "1d20s",
-      "created_at": "2026-07-25T20:11:25.304133+00:00"
-    },
-    {
-      "id": 97,
-      "category": "💰 Master d100 Treasure Table",
-      "name": "d100 31–33: Coins 💰 → 1d100s",
-      "cost": "1d100s",
-      "created_at": "2026-07-25T20:11:25.304133+00:00"
-    },
-    {
-      "id": 98,
-      "category": "💰 Master d100 Treasure Table",
-      "name": "d100 34–36: Coins 💰 → 1d4g",
-      "cost": "1d4g",
-      "created_at": "2026-07-25T20:11:25.304133+00:00"
-    },
-    {
-      "id": 99,
-      "category": "💰 Master d100 Treasure Table",
-      "name": "d100 37–39: Coins 💰 → 2d6 × 10s + 1d4g",
-      "cost": "2d6x10s+1d4g",
-      "created_at": "2026-07-25T20:11:25.304133+00:00"
-    },
-    {
-      "id": 100,
-      "category": "💰 Master d100 Treasure Table",
-      "name": "d100 40–49: Art Object (necklace, chalice, painting, tapestry)",
-      "cost": "1d4+1g",
-      "created_at": "2026-07-25T20:11:25.304133+00:00"
-    },
-    {
-      "id": 101,
-      "category": "💰 Master d100 Treasure Table",
-      "name": "d100 50–59: Gem / Jewel (sapphire, ruby, emerald, etc.)",
-      "cost": "2d6g",
-      "created_at": "2026-07-25T20:11:25.304133+00:00"
-    },
-    {
-      "id": 102,
-      "category": "💰 Master d100 Treasure Table",
-      "name": "d100 60–64: Curio / Document (map, deed, spellbook, IOU, royal letter)",
-      "cost": "—",
-      "created_at": "2026-07-25T20:11:25.304133+00:00"
-    },
-    {
-      "id": 103,
-      "category": "💰 Master d100 Treasure Table",
-      "name": "d100 65–74: Collectible (figurine, rare coin, idol, old toy, antique)",
-      "cost": "1d20g",
-      "created_at": "2026-07-25T20:11:25.304133+00:00"
-    },
-    {
-      "id": 104,
-      "category": "💰 Master d100 Treasure Table",
-      "name": "d100 75–83: Minor🍺 Magic Item (roll d15 on Minor🍺 table)",
-      "cost": "Catalog",
-      "created_at": "2026-07-25T20:11:25.304133+00:00"
-    },
-    {
-      "id": 105,
-      "category": "💰 Master d100 Treasure Table",
-      "name": "d100 84–89: Lesser🪄 Magic Item (roll d30 on Lesser🪄 table)",
-      "cost": "Catalog",
-      "created_at": "2026-07-25T20:11:25.304133+00:00"
-    },
-    {
-      "id": 106,
-      "category": "💰 Master d100 Treasure Table",
-      "name": "d100 90–93: Greater✨ Magic Item (roll d63 on Greater table)",
-      "cost": "Catalog",
-      "created_at": "2026-07-25T20:11:25.304133+00:00"
-    },
-    {
-      "id": 107,
-      "category": "💰 Master d100 Treasure Table",
-      "name": "d100 94–95: Artifact💫 Magic Item (roll d15 on Artifact💫 table)",
-      "cost": "Catalog",
-      "created_at": "2026-07-25T20:11:25.304133+00:00"
-    },
-    {
-      "id": 108,
-      "category": "💰 Master d100 Treasure Table",
-      "name": "d100 96–99: Double Roll 🎲🎲 → Roll twice on this table (ignore 96+)",
-      "cost": "Special",
-      "created_at": "2026-07-25T20:11:25.304133+00:00"
-    },
-    {
-      "id": 125,
-      "category": "📜 Curios, Maps & Documents (d6)",
-      "name": "d6 1: Bestiary notes (hint at monster weakness)",
-      "cost": "—",
-      "created_at": "2026-07-25T20:11:25.304133+00:00"
-    },
-    {
-      "id": 126,
-      "category": "📜 Curios, Maps & Documents (d6)",
-      "name": "d6 2: Deed to a crumbling farmstead",
-      "cost": "—",
-      "created_at": "2026-07-25T20:11:25.304133+00:00"
-    },
-    {
-      "id": 127,
-      "category": "📜 Curios, Maps & Documents (d6)",
-      "name": "d6 3: Map fragment to a dungeon or cave",
-      "cost": "—",
-      "created_at": "2026-07-25T20:11:25.304133+00:00"
-    },
-    {
-      "id": 128,
-      "category": "📜 Curios, Maps & Documents (d6)",
-      "name": "d6 4: Odd contract, owed favor, or IOU",
-      "cost": "—",
-      "created_at": "2026-07-25T20:11:25.304133+00:00"
-    },
-    {
-      "id": 129,
-      "category": "📜 Curios, Maps & Documents (d6)",
-      "name": "d6 5: Royal letter, sealed with wax (political intrigue)",
-      "cost": "—",
-      "created_at": "2026-07-25T20:11:25.304133+00:00"
-    },
-    {
-      "id": 130,
-      "category": "📜 Curios, Maps & Documents (d6)",
-      "name": "d6 6: Spellbook with 1 usable ritual",
-      "cost": "—",
-      "created_at": "2026-07-25T20:11:25.304133+00:00"
-    },
-    {
-      "id": 131,
-      "category": "🗑️ Junk & One-Offs (d6)",
-      "name": "d6 1: “Cursed” spoon (just bent metal)",
-      "cost": "0g",
-      "created_at": "2026-07-25T20:11:25.304133+00:00"
-    },
-    {
-      "id": 132,
-      "category": "🗑️ Junk & One-Offs (d6)",
-      "name": "d6 2: Fake gem made of glass",
-      "cost": "0g",
-      "created_at": "2026-07-25T20:11:25.304133+00:00"
-    },
-    {
-      "id": 133,
-      "category": "🗑️ Junk & One-Offs (d6)",
-      "name": "d6 3: Ice sculpture of a frog leaping from a crocodile’s mouth (melts in hours)",
-      "cost": "0g",
-      "created_at": "2026-07-25T20:11:25.304133+00:00"
-    },
-    {
-      "id": 134,
-      "category": "🗑️ Junk & One-Offs (d6)",
-      "name": "d6 4: Pouch of colorful sand",
-      "cost": "0g",
-      "created_at": "2026-07-25T20:11:25.304133+00:00"
-    },
-    {
-      "id": 135,
-      "category": "🗑️ Junk & One-Offs (d6)",
-      "name": "d6 5: Sack of bent nails",
-      "cost": "0g",
-      "created_at": "2026-07-25T20:11:25.304133+00:00"
-    },
-    {
-      "id": 136,
-      "category": "🗑️ Junk & One-Offs (d6)",
-      "name": "d6 6: Wooden puppet missing an arm",
-      "cost": "0g",
-      "created_at": "2026-07-25T20:11:25.304133+00:00"
-    },
-    {
       "id": 23,
       "category": "🥖 Food & Drink",
       "name": "Ale (pitcher)",
@@ -10865,55 +10606,6 @@
       "name": "Wine (bottle)",
       "cost": "1g",
       "created_at": "2026-07-24T15:50:09.365481+00:00"
-    },
-    {
-      "id": 110,
-      "category": "🧰 Gear Quality Table (d8)",
-      "name": "d8 1: Ruined (rotten, unusable without repair)",
-      "cost": "0x",
-      "created_at": "2026-07-25T20:11:25.304133+00:00"
-    },
-    {
-      "id": 111,
-      "category": "🧰 Gear Quality Table (d8)",
-      "name": "d8 2: Used (worn, dented, reduced resale)",
-      "cost": "0.5x",
-      "created_at": "2026-07-25T20:11:25.304133+00:00"
-    },
-    {
-      "id": 112,
-      "category": "🧰 Gear Quality Table (d8)",
-      "name": "d8 3–4: Normal (functional, plain)",
-      "cost": "1.0x",
-      "created_at": "2026-07-25T20:11:25.304133+00:00"
-    },
-    {
-      "id": 113,
-      "category": "🧰 Gear Quality Table (d8)",
-      "name": "d8 5: Good (well-kept, durable)",
-      "cost": "1.25x",
-      "created_at": "2026-07-25T20:11:25.304133+00:00"
-    },
-    {
-      "id": 114,
-      "category": "🧰 Gear Quality Table (d8)",
-      "name": "d8 6: Excellent (masterwork)",
-      "cost": "1.5x",
-      "created_at": "2026-07-25T20:11:25.304133+00:00"
-    },
-    {
-      "id": 115,
-      "category": "🧰 Gear Quality Table (d8)",
-      "name": "d8 7: Ornate (decorated, engraved)",
-      "cost": "+1d6s",
-      "created_at": "2026-07-25T20:11:25.304133+00:00"
-    },
-    {
-      "id": 116,
-      "category": "🧰 Gear Quality Table (d8)",
-      "name": "d8 8: Gem-Encrusted",
-      "cost": "+1d4g",
-      "created_at": "2026-07-25T20:11:25.304133+00:00"
     },
     {
       "id": 12,
@@ -11841,6 +11533,578 @@
       "attributes": "💪20 / 🏃10 / 👁️10 / ✨10 / 🫀10",
       "abilities": "Hits hard, slow",
       "created_at": "2026-07-24T15:50:16.077793+00:00"
+    }
+  ],
+  "treasure_tables": [
+    {
+      "id": 1,
+      "table_key": "master_d100",
+      "name": "Master d100 Treasure Table",
+      "dice_type": "d100",
+      "description": "Primary random treasure determination matrix.",
+      "created_at": "2026-07-25T20:20:55.818419+00:00"
+    },
+    {
+      "id": 2,
+      "table_key": "gear_quality",
+      "name": "Gear Quality Table",
+      "dice_type": "d8",
+      "description": "Condition and quality multiplier for found normal gear.",
+      "created_at": "2026-07-25T20:20:55.818419+00:00"
+    },
+    {
+      "id": 3,
+      "table_key": "art_gems",
+      "name": "Art, Gems & Jewelry",
+      "dice_type": "d8",
+      "description": "Valuable artistic artifacts, precious gems, and fine jewelry.",
+      "created_at": "2026-07-25T20:20:55.818419+00:00"
+    },
+    {
+      "id": 4,
+      "table_key": "curios",
+      "name": "Curios, Maps & Documents",
+      "dice_type": "d6",
+      "description": "Plot hooks, maps, deeds, IOUs, and rare documents.",
+      "created_at": "2026-07-25T20:20:55.818419+00:00"
+    },
+    {
+      "id": 5,
+      "table_key": "junk",
+      "name": "Junk & One-Offs",
+      "dice_type": "d6",
+      "description": "Flavor items, oddities, and humorous trinkets.",
+      "created_at": "2026-07-25T20:20:55.818419+00:00"
+    }
+  ],
+  "treasure_entries": [
+    {
+      "id": 1,
+      "table_key": "master_d100",
+      "range_min": 1,
+      "range_max": 9,
+      "result_name": "Nothing Found",
+      "result_type": "nothing",
+      "val_formula": "",
+      "subtable_key": "",
+      "notes": "No loot present",
+      "created_at": "2026-07-25T20:20:55.892994+00:00"
+    },
+    {
+      "id": 2,
+      "table_key": "master_d100",
+      "range_min": 10,
+      "range_max": 24,
+      "result_name": "Junk / Funny One-Off",
+      "result_type": "subtable",
+      "val_formula": "",
+      "subtable_key": "junk",
+      "notes": "Roll d6 on Junk table",
+      "created_at": "2026-07-25T20:20:55.892994+00:00"
+    },
+    {
+      "id": 3,
+      "table_key": "master_d100",
+      "range_min": 25,
+      "range_max": 27,
+      "result_name": "Coins 💰 (1d6s)",
+      "result_type": "currency",
+      "val_formula": "1d6s",
+      "subtable_key": "",
+      "notes": "Small silver coin pouch",
+      "created_at": "2026-07-25T20:20:55.892994+00:00"
+    },
+    {
+      "id": 4,
+      "table_key": "master_d100",
+      "range_min": 28,
+      "range_max": 30,
+      "result_name": "Coins 💰 (1d20s)",
+      "result_type": "currency",
+      "val_formula": "1d20s",
+      "subtable_key": "",
+      "notes": "Medium silver coin purse",
+      "created_at": "2026-07-25T20:20:55.892994+00:00"
+    },
+    {
+      "id": 5,
+      "table_key": "master_d100",
+      "range_min": 31,
+      "range_max": 33,
+      "result_name": "Coins 💰 (1d100s)",
+      "result_type": "currency",
+      "val_formula": "1d100s",
+      "subtable_key": "",
+      "notes": "Large silver coin sack",
+      "created_at": "2026-07-25T20:20:55.892994+00:00"
+    },
+    {
+      "id": 6,
+      "table_key": "master_d100",
+      "range_min": 34,
+      "range_max": 36,
+      "result_name": "Coins 💰 (1d4g)",
+      "result_type": "currency",
+      "val_formula": "1d4g",
+      "subtable_key": "",
+      "notes": "Small gold coins",
+      "created_at": "2026-07-25T20:20:55.892994+00:00"
+    },
+    {
+      "id": 7,
+      "table_key": "master_d100",
+      "range_min": 37,
+      "range_max": 39,
+      "result_name": "Coins 💰 (2d6×10s + 1d4g)",
+      "result_type": "currency",
+      "val_formula": "2d6x10s+1d4g",
+      "subtable_key": "",
+      "notes": "Mixed coin hoard",
+      "created_at": "2026-07-25T20:20:55.892994+00:00"
+    },
+    {
+      "id": 8,
+      "table_key": "master_d100",
+      "range_min": 40,
+      "range_max": 49,
+      "result_name": "Art Object (1d4+1g)",
+      "result_type": "art_gem",
+      "val_formula": "1d4+1g",
+      "subtable_key": "art_gems",
+      "notes": "Necklace, chalice, painting, tapestry",
+      "created_at": "2026-07-25T20:20:55.892994+00:00"
+    },
+    {
+      "id": 9,
+      "table_key": "master_d100",
+      "range_min": 50,
+      "range_max": 59,
+      "result_name": "Gem / Jewel (2d6g)",
+      "result_type": "art_gem",
+      "val_formula": "2d6g",
+      "subtable_key": "art_gems",
+      "notes": "Sapphire, ruby, emerald",
+      "created_at": "2026-07-25T20:20:55.892994+00:00"
+    },
+    {
+      "id": 10,
+      "table_key": "master_d100",
+      "range_min": 60,
+      "range_max": 64,
+      "result_name": "Curio / Document",
+      "result_type": "subtable",
+      "val_formula": "",
+      "subtable_key": "curios",
+      "notes": "Map, deed, spellbook, IOU, royal letter",
+      "created_at": "2026-07-25T20:20:55.892994+00:00"
+    },
+    {
+      "id": 11,
+      "table_key": "master_d100",
+      "range_min": 65,
+      "range_max": 74,
+      "result_name": "Collectible (1d20g)",
+      "result_type": "item",
+      "val_formula": "1d20g",
+      "subtable_key": "",
+      "notes": "Figurine, rare coin, idol, old toy, antique",
+      "created_at": "2026-07-25T20:20:55.892994+00:00"
+    },
+    {
+      "id": 12,
+      "table_key": "master_d100",
+      "range_min": 75,
+      "range_max": 83,
+      "result_name": "Minor🍺 Magic Item",
+      "result_type": "magic_item",
+      "val_formula": "d15",
+      "subtable_key": "magic_minor",
+      "notes": "Roll d15 on Minor magic item catalog",
+      "created_at": "2026-07-25T20:20:55.892994+00:00"
+    },
+    {
+      "id": 13,
+      "table_key": "master_d100",
+      "range_min": 84,
+      "range_max": 89,
+      "result_name": "Lesser🪄 Magic Item",
+      "result_type": "magic_item",
+      "val_formula": "d30",
+      "subtable_key": "magic_lesser",
+      "notes": "Roll d30 on Lesser magic item catalog",
+      "created_at": "2026-07-25T20:20:55.892994+00:00"
+    },
+    {
+      "id": 14,
+      "table_key": "master_d100",
+      "range_min": 90,
+      "range_max": 93,
+      "result_name": "Greater✨ Magic Item",
+      "result_type": "magic_item",
+      "val_formula": "d63",
+      "subtable_key": "magic_greater",
+      "notes": "Roll d63 on Greater magic item catalog",
+      "created_at": "2026-07-25T20:20:55.892994+00:00"
+    },
+    {
+      "id": 15,
+      "table_key": "master_d100",
+      "range_min": 94,
+      "range_max": 95,
+      "result_name": "Artifact💫 Magic Item",
+      "result_type": "magic_item",
+      "val_formula": "d15",
+      "subtable_key": "magic_artifact",
+      "notes": "Roll d15 on Artifact catalog (Extremely Rare)",
+      "created_at": "2026-07-25T20:20:55.892994+00:00"
+    },
+    {
+      "id": 16,
+      "table_key": "master_d100",
+      "range_min": 96,
+      "range_max": 99,
+      "result_name": "Double Roll 🎲🎲",
+      "result_type": "special",
+      "val_formula": "",
+      "subtable_key": "master_d100",
+      "notes": "Roll twice on this table (ignore 96+)",
+      "created_at": "2026-07-25T20:20:55.892994+00:00"
+    },
+    {
+      "id": 17,
+      "table_key": "master_d100",
+      "range_min": 100,
+      "range_max": 100,
+      "result_name": "Epic Hoard 👑",
+      "result_type": "special",
+      "val_formula": "1d100g",
+      "subtable_key": "magic_artifact",
+      "notes": "1 Artifact💫 + 1d100g + 1 additional roll (ignore 95+)",
+      "created_at": "2026-07-25T20:20:55.892994+00:00"
+    },
+    {
+      "id": 18,
+      "table_key": "gear_quality",
+      "range_min": 1,
+      "range_max": 1,
+      "result_name": "Ruined",
+      "result_type": "quality",
+      "val_formula": "0x",
+      "subtable_key": "",
+      "notes": "Rotten, unusable without repair",
+      "created_at": "2026-07-25T20:20:55.892994+00:00"
+    },
+    {
+      "id": 19,
+      "table_key": "gear_quality",
+      "range_min": 2,
+      "range_max": 2,
+      "result_name": "Used",
+      "result_type": "quality",
+      "val_formula": "0.5x",
+      "subtable_key": "",
+      "notes": "Worn, dented, reduced resale",
+      "created_at": "2026-07-25T20:20:55.892994+00:00"
+    },
+    {
+      "id": 20,
+      "table_key": "gear_quality",
+      "range_min": 3,
+      "range_max": 4,
+      "result_name": "Normal",
+      "result_type": "quality",
+      "val_formula": "1.0x",
+      "subtable_key": "",
+      "notes": "Functional, plain standard condition",
+      "created_at": "2026-07-25T20:20:55.892994+00:00"
+    },
+    {
+      "id": 21,
+      "table_key": "gear_quality",
+      "range_min": 5,
+      "range_max": 5,
+      "result_name": "Good",
+      "result_type": "quality",
+      "val_formula": "1.25x",
+      "subtable_key": "",
+      "notes": "Well-kept, durable",
+      "created_at": "2026-07-25T20:20:55.892994+00:00"
+    },
+    {
+      "id": 22,
+      "table_key": "gear_quality",
+      "range_min": 6,
+      "range_max": 6,
+      "result_name": "Excellent",
+      "result_type": "quality",
+      "val_formula": "1.5x",
+      "subtable_key": "",
+      "notes": "Masterwork craftsmanship",
+      "created_at": "2026-07-25T20:20:55.892994+00:00"
+    },
+    {
+      "id": 23,
+      "table_key": "gear_quality",
+      "range_min": 7,
+      "range_max": 7,
+      "result_name": "Ornate",
+      "result_type": "quality",
+      "val_formula": "+1d6s",
+      "subtable_key": "",
+      "notes": "Decorated, engraved, worth +1d6s extra",
+      "created_at": "2026-07-25T20:20:55.892994+00:00"
+    },
+    {
+      "id": 24,
+      "table_key": "gear_quality",
+      "range_min": 8,
+      "range_max": 8,
+      "result_name": "Gem-Encrusted",
+      "result_type": "quality",
+      "val_formula": "+1d4g",
+      "subtable_key": "",
+      "notes": "Adds +1d4g to base item value",
+      "created_at": "2026-07-25T20:20:55.892994+00:00"
+    },
+    {
+      "id": 25,
+      "table_key": "art_gems",
+      "range_min": 1,
+      "range_max": 1,
+      "result_name": "Elaborate Tapestry",
+      "result_type": "art_gem",
+      "val_formula": "10g",
+      "subtable_key": "",
+      "notes": "Bulky decorative woven tapestry",
+      "created_at": "2026-07-25T20:20:55.892994+00:00"
+    },
+    {
+      "id": 26,
+      "table_key": "art_gems",
+      "range_min": 2,
+      "range_max": 2,
+      "result_name": "Gem Cluster",
+      "result_type": "art_gem",
+      "val_formula": "2d6g",
+      "subtable_key": "",
+      "notes": "Uncut sapphires, emeralds, rubies",
+      "created_at": "2026-07-25T20:20:55.892994+00:00"
+    },
+    {
+      "id": 27,
+      "table_key": "art_gems",
+      "range_min": 3,
+      "range_max": 3,
+      "result_name": "Ivory Figurine of a Knight",
+      "result_type": "art_gem",
+      "val_formula": "3g",
+      "subtable_key": "",
+      "notes": "Detailed hand-carved ivory sculpture",
+      "created_at": "2026-07-25T20:20:55.892994+00:00"
+    },
+    {
+      "id": 28,
+      "table_key": "art_gems",
+      "range_min": 4,
+      "range_max": 4,
+      "result_name": "Jeweled Circlet",
+      "result_type": "art_gem",
+      "val_formula": "8g",
+      "subtable_key": "",
+      "notes": "Delicate gold wire headband with gems",
+      "created_at": "2026-07-25T20:20:55.892994+00:00"
+    },
+    {
+      "id": 29,
+      "table_key": "art_gems",
+      "range_min": 5,
+      "range_max": 5,
+      "result_name": "Ornate Ring with Carved Sigil",
+      "result_type": "art_gem",
+      "val_formula": "4g",
+      "subtable_key": "",
+      "notes": "Engraved noble signet ring",
+      "created_at": "2026-07-25T20:20:55.892994+00:00"
+    },
+    {
+      "id": 30,
+      "table_key": "art_gems",
+      "range_min": 6,
+      "range_max": 6,
+      "result_name": "Ruby-Studded Chalice",
+      "result_type": "art_gem",
+      "val_formula": "5g",
+      "subtable_key": "",
+      "notes": "Silver drinking cup set with rubies",
+      "created_at": "2026-07-25T20:20:55.892994+00:00"
+    },
+    {
+      "id": 31,
+      "table_key": "art_gems",
+      "range_min": 7,
+      "range_max": 7,
+      "result_name": "Silver Necklace with Tiny Bells",
+      "result_type": "art_gem",
+      "val_formula": "2g",
+      "subtable_key": "",
+      "notes": "Charming silver jewelry piece",
+      "created_at": "2026-07-25T20:20:55.892994+00:00"
+    },
+    {
+      "id": 32,
+      "table_key": "art_gems",
+      "range_min": 8,
+      "range_max": 8,
+      "result_name": "Small Painting of Noble's Hunting Party",
+      "result_type": "art_gem",
+      "val_formula": "2g",
+      "subtable_key": "",
+      "notes": "Framed canvas oil painting",
+      "created_at": "2026-07-25T20:20:55.892994+00:00"
+    },
+    {
+      "id": 33,
+      "table_key": "curios",
+      "range_min": 1,
+      "range_max": 1,
+      "result_name": "Bestiary Notes",
+      "result_type": "document",
+      "val_formula": "",
+      "subtable_key": "",
+      "notes": "Provides hint at specific monster weakness",
+      "created_at": "2026-07-25T20:20:55.892994+00:00"
+    },
+    {
+      "id": 34,
+      "table_key": "curios",
+      "range_min": 2,
+      "range_max": 2,
+      "result_name": "Deed to Crumbling Farmstead",
+      "result_type": "document",
+      "val_formula": "",
+      "subtable_key": "",
+      "notes": "Land ownership document",
+      "created_at": "2026-07-25T20:20:55.892994+00:00"
+    },
+    {
+      "id": 35,
+      "table_key": "curios",
+      "range_min": 3,
+      "range_max": 3,
+      "result_name": "Map Fragment to Dungeon or Cave",
+      "result_type": "document",
+      "val_formula": "",
+      "subtable_key": "",
+      "notes": "Torn parchment map with compass point",
+      "created_at": "2026-07-25T20:20:55.892994+00:00"
+    },
+    {
+      "id": 36,
+      "table_key": "curios",
+      "range_min": 4,
+      "range_max": 4,
+      "result_name": "Odd Contract, Owed Favor, or IOU",
+      "result_type": "document",
+      "val_formula": "",
+      "subtable_key": "",
+      "notes": "Legal obligation or debt marker",
+      "created_at": "2026-07-25T20:20:55.892994+00:00"
+    },
+    {
+      "id": 37,
+      "table_key": "curios",
+      "range_min": 5,
+      "range_max": 5,
+      "result_name": "Royal Letter (Sealed with Wax)",
+      "result_type": "document",
+      "val_formula": "",
+      "subtable_key": "",
+      "notes": "Political intrigue correspondence",
+      "created_at": "2026-07-25T20:20:55.892994+00:00"
+    },
+    {
+      "id": 38,
+      "table_key": "curios",
+      "range_min": 6,
+      "range_max": 6,
+      "result_name": "Spellbook with 1 Usable Ritual",
+      "result_type": "document",
+      "val_formula": "",
+      "subtable_key": "",
+      "notes": "Ancient tome containing ritual spell",
+      "created_at": "2026-07-25T20:20:55.892994+00:00"
+    },
+    {
+      "id": 39,
+      "table_key": "junk",
+      "range_min": 1,
+      "range_max": 1,
+      "result_name": "'Cursed' Spoon",
+      "result_type": "junk",
+      "val_formula": "0g",
+      "subtable_key": "",
+      "notes": "Just bent cheap metal",
+      "created_at": "2026-07-25T20:20:55.892994+00:00"
+    },
+    {
+      "id": 40,
+      "table_key": "junk",
+      "range_min": 2,
+      "range_max": 2,
+      "result_name": "Fake Gem Made of Glass",
+      "result_type": "junk",
+      "val_formula": "0g",
+      "subtable_key": "",
+      "notes": "Polished colored glass trinket",
+      "created_at": "2026-07-25T20:20:55.892994+00:00"
+    },
+    {
+      "id": 41,
+      "table_key": "junk",
+      "range_min": 3,
+      "range_max": 3,
+      "result_name": "Ice Sculpture of a Frog Leaping from a Crocodile's Mouth",
+      "result_type": "junk",
+      "val_formula": "0g",
+      "subtable_key": "",
+      "notes": "Melts in hours",
+      "created_at": "2026-07-25T20:20:55.892994+00:00"
+    },
+    {
+      "id": 42,
+      "table_key": "junk",
+      "range_min": 4,
+      "range_max": 4,
+      "result_name": "Pouch of Colorful Sand",
+      "result_type": "junk",
+      "val_formula": "0g",
+      "subtable_key": "",
+      "notes": "Decorative desert sand",
+      "created_at": "2026-07-25T20:20:55.892994+00:00"
+    },
+    {
+      "id": 43,
+      "table_key": "junk",
+      "range_min": 5,
+      "range_max": 5,
+      "result_name": "Sack of Bent Nails",
+      "result_type": "junk",
+      "val_formula": "0g",
+      "subtable_key": "",
+      "notes": "Rusty iron nails",
+      "created_at": "2026-07-25T20:20:55.892994+00:00"
+    },
+    {
+      "id": 44,
+      "table_key": "junk",
+      "range_min": 6,
+      "range_max": 6,
+      "result_name": "Wooden Puppet Missing an Arm",
+      "result_type": "junk",
+      "val_formula": "0g",
+      "subtable_key": "",
+      "notes": "Carved toy marionette",
+      "created_at": "2026-07-25T20:20:55.892994+00:00"
     }
   ]
 }
