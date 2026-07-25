@@ -1884,3 +1884,15 @@ Failures Push Forward: Failures cause complications, never dead ends.
 Spotlight Cool: Highlight Strengths, Flairs, and creative Powers🔥.
 
 Keep Monsters Simple: Use flat stats, improvise Powers🔥, focus on PCs’ rolls.
+
+## 🏆 Master 2-Column Split-Pane Manager Modal UI/UX Blueprint Standard
+
+The **Gear Manager Modal (`GearCard.tsx`)** is canonized as the **Master Blueprint Standard** for all present and future SupaFlex item and ability catalog management modals across the application (**Weapons**, **Armor**, **Shields**, **Gear**, **Skillsets**, **Powers**, **Magic Items**):
+
+1. **Header Architecture (Icon + 2-Line Text Block + Close Trigger):** Padded glassmorphic icon badge (`p-2 rounded-xl bg-cyan-950/80 border border-cyan-500/30 text-cyan-300`), bold 2-line Title/Subtitle block (`ADVENTURING GEAR MANAGER` / `Manage character equipment side-by-side...`), and top-right close trigger (`<X />`).
+2. **2-Column Split-Pane Body Architecture (`w-[880px] h-[85vh]`):**
+   - **Left Column (Active Inventory / Known Abilities Pane):** Always-visible side-by-side pane displaying what the player owns or knows, with independent vertical scrolling, inventory search bar (`Search...`), item count badge, and 1-click item removal/adjustment controls.
+   - **Right Column (Catalog & Custom Creator Pane):** Sub-tab navigation bar (`🌐 Stock Catalog` vs `➕ Custom Form`) utilizing the exact same space. Sub-Tab 1 features catalog search & category filter dropdown (`All Categories` / `Class`, `Racial`, `Tools`, etc.) with 1-click `+ Add` / `+ Learn` buttons that immediately append the item to the Left Pane in real time. Sub-Tab 2 features the custom item/ability creation form with input guardrails.
+3. **Streamlined UI DRY Footer Architecture:** Clean bottom bar with summary total badge (`Total Gear Value: 🪙 Xg 🥈 Ys`) and a single `<button>Done</button>`.
+4. **Master Blueprint Application Scope:** Mandatory directive for upcoming overhauls across items (**Weapons**, **Armor**, **Shields**, **Gear**) and abilities (**Skillsets**, **Powers**, **Magic Items**).
+
