@@ -1342,14 +1342,13 @@ Magic Items roll on the proper table:
 ## 📊 SupaFlex Reference & Data Tables
 
 > [!TIP]
-> **Explore Powers, Magic Items, Skill Sets, Gear, Equipment, Treasure & Monsters:**
+> **Explore Powers, Magic Items, Skill Sets, Gear, Equipment & Monsters:**
 > Use our modern **[Interactive Tables Catalog](/player-guide/supaflex/tables)** to filter, search, and view all game data instantly.
 > Alternatively, browse individual static reference guides:
 > - ⚔️ **[Weapons Reference Manual](/player-guide/supaflex/weapons)**
 > - 🧥 **[Armor Reference Manual](/player-guide/supaflex/armor)**
 > - 🛡️ **[Shields Reference Manual](/player-guide/supaflex/shields)**
 > - 🧰 **[Gear Catalog](/player-guide/supaflex/gear)**
-> - 💰 **[Treasure Reference Manual](/player-guide/supaflex/treasure)**
 > - 🐉 **[Monsters Bestiary](/player-guide/supaflex/monsters)**
 > - 🔥 **[Powers Reference Manual](/player-guide/supaflex/powers)**
 > - ✨ **[Magic Items Catalog](/player-guide/supaflex/magic-items)**

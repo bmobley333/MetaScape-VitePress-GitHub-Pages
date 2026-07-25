@@ -53,7 +53,6 @@ const armorCount = computed(() => rawData.value.armor?.length || 0)
 const shieldCount = computed(() => rawData.value.shields?.length || 0)
 const gearCount = computed(() => rawData.value.gear?.length || 0)
 const monsterCount = computed(() => rawData.value.monsters?.length || 0)
-const treasureCount = computed(() => (rawData.value.gear || []).filter(g => (g.category || '').includes('💰') || (g.category || '').includes('Quality') || (g.category || '').includes('Art') || (g.category || '').includes('Curios') || (g.category || '').includes('Junk')).length)
 
 // Helper to get Category Name of a power or item
 const getItemCategory = (item) => {
@@ -245,17 +244,6 @@ const filteredMonsters = computed(() => {
   }).sort((a, b) => (a.name || '').localeCompare(b.name || ''))
 })
 
-// Filtered Treasure
-const filteredTreasure = computed(() => {
-  return (rawData.value.gear || []).filter(g => {
-    const isTreasureCat = (g.category || '').includes('💰') || (g.category || '').includes('Quality') || (g.category || '').includes('Art') || (g.category || '').includes('Curios') || (g.category || '').includes('Junk')
-    if (!isTreasureCat) return false
-    if (!searchQuery.value.trim()) return true
-    const q = searchQuery.value.toLowerCase()
-    return (g.name || '').toLowerCase().includes(q) || (g.category || '').toLowerCase().includes(q)
-  }).sort((a, b) => (a.category || '').localeCompare(b.category || '') || (a.name || '').localeCompare(b.name || ''))
-})
-
 const selectCategoryTab = (tab) => {
   activeTab.value = tab
   activeSubCategory.value = 'all'
@@ -324,13 +312,6 @@ const selectCategoryTab = (tab) => {
         @click="selectCategoryTab('skillsets')"
       >
         🎓 Skill Sets ({{ skillCount }})
-      </button>
-      <button 
-        class="nav-tab-btn" 
-        :class="{ active: activeTab === 'treasure' }"
-        @click="selectCategoryTab('treasure')"
-      >
-        💰 Treasure ({{ treasureCount }})
       </button>
       <button 
         class="nav-tab-btn" 

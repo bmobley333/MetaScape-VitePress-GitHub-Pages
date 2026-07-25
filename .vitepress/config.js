@@ -40,7 +40,6 @@ export default {
         { text: '🔥 Powers Reference', link: '/player-guide/supaflex/powers' },
         { text: '🛡️ Shields Reference', link: '/player-guide/supaflex/shields' },
         { text: '🎓 Skill Sets Reference', link: '/player-guide/supaflex/skillsets' },
-        { text: '💰 Treasure Reference', link: '/player-guide/supaflex/treasure' },
         { text: '⚔️ Weapons Reference', link: '/player-guide/supaflex/weapons' },
         { text: '── OR ──', link: '/player-guide/supaflex/tables#divider' },
         { text: '📊 Interactive Tables Catalog', link: '/player-guide/supaflex/tables' }
