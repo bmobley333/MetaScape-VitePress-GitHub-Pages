@@ -633,7 +633,10 @@ Customization first → Players shape advancement to match their character’s s
 
 ### ⭐ Step 1 — Level⭐ and AP🧩
 
-At the end of each large encounter at GM’s discretion, every player receives 1 Level⭐ and 2 Advancement Points (AP🧩). Thus, a character's Level matches their milestone progress, and they receive 2 AP🧩 per level to spend on horizontal options or vertical step-ups.
+At the end of each large encounter at GM’s discretion, every player receives 1 Level⭐ and 2 Advancement Points (AP🧩).
+
+* **Level⭐ Equivalence:** A character's Level⭐ equals their Total Completed Major Milestones ($\text{Level⭐} \equiv \text{Completed Milestones}$).
+* **Lifetime AP Earned:** $\text{Lifetime AP Earned} = \text{Character Level} \times 2$. Thus, characters earn 2 AP🧩 per level milestone to spend on horizontal options or vertical step-ups.
 
 ### 🎲 Step 2 — Vit❤️ Roll
 
@@ -643,43 +646,41 @@ All of Step 2 below is AP🧩 free and costs no AP🧩.
 
 On each Level⭐, roll for new maximum Vit❤️:
 
-* **Vit❤️ Max Roll Formula:**
-  * Levels 1–3: 10 + 1d(Moxie🫀) + (Level × 2)
-  * Levels 4–8: 10 + 2d(Moxie🫀) + (Level × 2)
-  * Levels 9–15: 10 + 3d(Moxie🫀) + (Level × 2)
-  * Levels 16–24: 10 + 4d(Moxie🫀) + (Level × 2)
-  * Levels 25–35: 10 + 5d(Moxie🫀) + (Level × 2)
-  * Levels 36–48: 10 + 6d(Moxie🫀) + (Level × 2)
-  * Levels 49–63: 10 + 7d(Moxie🫀) + (Level × 2)
-  * Levels 64–80: 10 + 8d(Moxie🫀) + (Level × 2)
-  * Levels 81–99: 10 + 9d(Moxie🫀) + (Level × 2)
-  * Levels 100+: 10 + 10d(Moxie🫀) + (Level × 2)
+* **Vit❤️ Max Roll Formula:** $\text{Max Vit} = 10 + N \times d(\text{Moxie🫀}) + (\text{Level} \times 2)$
+* **Moxie Dice Bracket ($N$) (Capped at 5d):**
+  * Levels 1–3: $1d(\text{Moxie🫀})$
+  * Levels 4–8: $2d(\text{Moxie🫀})$
+  * Levels 9–15: $3d(\text{Moxie🫀})$
+  * Levels 16–24: $4d(\text{Moxie🫀})$
+  * Levels 25+: $5d(\text{Moxie🫀})$ **(HARD CAP — Prevents late-game HP bloat)**
 * This is like “Lucking🍀” Max Vit❤️ (roll a new number and keep the better of the old Vit❤️ or the new Vit❤️). If your Moxie🫀 has increased, you use the new Moxie🫀 number in the formula.
 
 ### 💲 Step 3 — Spend AP🧩
 
-Spend your accumulated AP🧩 on horizontal upgrades, vertical Attribute step-ups, or Focus Die upgrades (subject to level gates).
+Spend your accumulated AP🧩 across 3 structured tiers of progression:
 
-#### Horizontal Upgrades
+#### Tier 1: Basic Progression & Utility (1–2 AP🧩)
 
 The 1-AP Augment System (Advancement Without Version Trees):
 
 Character advancement relies on Horizontal Augments without rigid hierarchical version trees. Spending 1 AP (🧩) upgrades an existing Power🔥 or Magic Item✨ along one of four non-hierarchical vectors:
 
-* Vector 1: Mechanical Punch (Effect Augment): Upgrade damage or healing die tier (d4 → d6 → d8 → d10 → d12) or expand target count by +1.
-* Vector 2: Action Compression (Economy Augment): Compress action cost down the compression chain (AM → A → M → P → F) or unlock Mobile Striker split-movement ("You may split your movement before and after this attack").
-* Vector 3: Synergy / Affliction (Twist Augment): Attach an Affliction on hit (Stunned 1 rnd, Prone, Weakened -2) or attach a Meta Generator ("Generates 1 Meta even on a miss").
-* Vector 4: Frequency / Range Shift (Usage Augment): Shift usage frequency (e.g., 1-Enc → Meta⚡x1 power, making it reusable via combat momentum) or expand Range Band (Touch → Short → Medium → Long → Extreme).
+* **Vector 1: Mechanical Punch (Effect Augment):** Upgrade damage or healing die tier ($d4 \rightarrow d6 \rightarrow d8 \rightarrow d10 \rightarrow d12$) or expand target count by +1.
+* **Vector 2: Action Compression (Economy Augment — MANDATORY BALANCE RULE):** Compress action cost down the compression chain ($\text{AM} \rightarrow \text{A} \rightarrow \text{M} \rightarrow \text{P} \rightarrow \text{F}$) or unlock Mobile Striker split-movement ("You may split your movement before and after this attack"). **Balance Rule:** Action Compression is strictly capped at **1 Compression Upgrade per Power** to prevent dominant action-economy abuse.
+* **Vector 3: Synergy / Affliction (Twist Augment):** Attach an Affliction on hit (Stunned 1 rnd, Prone, Weakened -2) or attach a Meta Generator ("Generates 1 Meta even on a miss").
+* **Vector 4: Frequency / Range Shift (Usage Augment):** Shift usage frequency (e.g., $1\text{-Enc} \rightarrow 2\text{-Enc} \rightarrow 3\text{-Enc}$ max cap, or $\text{Meta⚡} \times 1$ power reusable via combat momentum) or expand Range Band ($\text{Touch} \rightarrow \text{Short} \rightarrow \text{Medium} \rightarrow \text{Long} \rightarrow \text{Extreme}$). Note: Per-encounter usage upgrades step sequentially ($1\text{-Enc} \rightarrow 2\text{-Enc} \rightarrow 3\text{-Enc}$ maximum).
 
 | Category | AP🧩 Options |
 | --- | --- |
-| Powers🔥 | * Gain 1 new Power🔥 (any listed or GM-approved custom) — 1 APRandomly roll one Power🔥. If existing, it gets +1 to typical rolls; otherwise, AP is returned and you spend it elsewhere — 1 AP Upgrade an existing Power🔥 (stronger effect, extra use, or twist) — 1 AP |
-| Skills🎓 | * Gain skill🎓 in any new SINGLE weapon, armor🧥 or skill🎓 — 1 AP* Learn a new Skill Set🎓 (e.g., Thievery) — 2 AP |
-| Gear🧰 & Magic Items✨ | • Gain or upgrade a Weapon, Armor🧥, or Item — 1 AP• Acquire a Minor🍺 Magic Item — 1 AP• Upgrade a Magic Item Power🔥 (e.g., 1-Enc → 2-Enc) — 1 AP |
-| Vit❤️ | * Gain +2 Vit❤️ — 1 AP |
-| Atr✅ | * Reshuffle (swap some/all of your Atr✅ dice) — 1 AP |
+| **Powers🔥** | • Gain 1 new Power🔥 (any listed or GM-approved custom) — **1 AP**<br>• Randomly roll one Power🔥. If duplicate $\rightarrow$ gain **1 Free Augment Token** instead of flat +1 — **1 AP**<br>• Upgrade an existing Power🔥 (stronger effect, extra use, or twist) — **1 AP** |
+| **Skills🎓** | • Gain skill🎓 in any new SINGLE weapon, armor🧥 or skill🎓 — **1 AP**<br>• Learn a new Skill Set🎓 (e.g., Thievery) — **2 AP** |
+| **Gear🧰 & Magic Items✨** | • Gain or upgrade a Weapon, Armor🧥, or Item — **1 AP**<br>• Acquire a Minor🍺 Magic Item — **1 AP**<br>• Upgrade a Magic Item Power🔥 (e.g., $1\text{-Enc} \rightarrow 2\text{-Enc} \rightarrow 3\text{-Enc}$ max cap) — **1 AP** |
+| **Vit❤️** | • Gain +2 Vit❤️ — **1 AP** |
+| **Atr✅** | • Reshuffle (swap some/all of your Atr✅ dice) — **1 AP** *(Downtime / Milestone Level-Up Only)* |
 
-#### Vertical Attribute Die Step-Ups
+#### Tier 2: Vertical Progression & Stat Step-Ups (2–8 AP🧩)
+
+##### Vertical Attribute Die Step-Ups
 
 Attribute upgrades are purchased with AP🧩 and are tier-gated by your level. The maximum array of attribute dice you can have is limited by your tier:
 
@@ -691,7 +692,7 @@ Attribute upgrades are purchased with AP🧩 and are tier-gated by your level. T
 | Level 25 Tier | 2x d6, 1x d8, 2x d10 |
 | Level 50 Tier | 1x d6, 2x d8, 2x d10 |
 | Level 75 Tier | 1x d6, 1x d8, 2x d10, 1x d12 |
-| Level 100 Tier (Max Cap) | 1x d6, 1x d8, 1x d10, 2x d12 |
+| Level 100 Tier (Max Cap) | 1x d6, 1x d8, 1x d10, 2x d12 *(Hard cap: Max 2x d12)* |
 
 | Step (per die) | AP Cost (per die) |
 | --- | --- |
@@ -700,9 +701,11 @@ Attribute upgrades are purchased with AP🧩 and are tier-gated by your level. T
 | d8 → d10 | 6 AP |
 | d10 → d12 | 8 AP |
 
-Note: At Level 100 Max Cap, a legendary character has at most two d12 attributes, ensuring build differentiation.
+**Qualitative Attribute Perks (Fixing "Boring Stat Bumps"):**
+* **$d8\text{ Tier Unlocked:}$** Unlock 1 passive utility trait tied to that attribute (e.g., Motion $d8 \rightarrow$ Free Disengage $1\times/\text{encounter}$).
+* **$d12\text{ Tier Unlocked:}$** Unlock 1 master perk tied to that attribute (e.g., Moxie $d12 \rightarrow$ Death Resistance; Mind $d12 \rightarrow +1\text{ extra tactic slot}$).
 
-#### Vertical Focus Die Upgrade
+##### Vertical Focus Die Upgrade
 
 You can purchase upgrades to your maximum Focus Die ceiling using AP🧩, subject to level gates:
 
@@ -712,6 +715,16 @@ You can purchase upgrades to your maximum Focus Die ceiling using AP🧩, subjec
 | d6 → d8 | 15+ | 4 AP |
 | d8 → d10 | 35+ | 6 AP |
 | d10 → d12 | 60+ | 8 AP |
+
+#### Tier 3: Heroic Capstones (5–8 AP🧩) — "Saving" Tier
+
+High-cost capstones designed for build-defining investment and long-term saving anticipation:
+
+| Category | Cost (AP🧩) | Option & Effect |
+| --- | --- | --- |
+| **Master Technique** | **5 AP** | Combine two known Powers into a single combined-action deployment. |
+| **Second Reaction** | **6 AP** | Gain an additional Reaction action per combat round. |
+| **Heroic Passive** | **8 AP** | Unlock a signature, narrative-defining passive power or capstone immunity. |
 
 All choices require GM approval. The GM may veto or suggest alternatives if a choice does not fit the campaign.
 
