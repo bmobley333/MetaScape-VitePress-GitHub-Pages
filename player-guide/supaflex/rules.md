@@ -26,6 +26,9 @@ outline: 2
 
 📉 Minimal Tracking – Players should track only Vit and Luck chits whenever possible. Low overhead means more energy spent on roleplay, tactics, and fun.
 
+🎯 KISS & Data De-Duplication – Keep It Simple & Single-source-of-truth. Never duplicate database-backed tables (Weapons, Armor, Shields, Gear, Powers, Magic Items, Skill Sets, Monsters, and Treasure) as static text in markdown rules documents; query Supabase or link to interactive catalogs to maintain single-source-of-truth DRY alignment.
+
+
 ## 🙂Emojis
 
 Emojis🙂 are used in MetaScape for rapid identification of key stats and words. They are used in several ways and formats:
@@ -1372,7 +1375,7 @@ Magic Items roll on the proper table:
 
 
 > [!TIP]
-> All SupaFlex game tables—including Weapons⚔️, Armor🧥, Shields🛡️, Gear🧰, Monsters🐉, Powers🔥, Magic Items✨, and Skill Sets🎓—have been migrated to our structured database catalog.
+> All SupaFlex game tables—including Weapons⚔️, Armor🧥, Shields🛡️, Gear🧰, Monsters🐉, Powers🔥, Magic Items✨, Skill Sets🎓, and Treasure💰—have been migrated to our structured database catalog.
 > - Browse the **[Interactive Tables Catalog](/player-guide/supaflex/tables)** to filter, search, and view all game stats dynamically.
 > - Or explore individual reference manuals:
 >   - ⚔️ **[Weapons Reference Manual](/player-guide/supaflex/weapons)**
@@ -1383,6 +1386,7 @@ Magic Items roll on the proper table:
 >   - 🔥 **[Powers Reference Manual](/player-guide/supaflex/powers)**
 >   - ✨ **[Magic Items Catalog](/player-guide/supaflex/magic-items)**
 >   - 🎓 **[Skill Sets Directory](/player-guide/supaflex/skillsets)**
+>   - 💰 **[Treasure Tables & Loot Matrix](/player-guide/supaflex/tables)**
 
 ## 🐉 Monster Manual
 
@@ -1390,63 +1394,14 @@ The complete bestiary of monsters, stats, initiative flags, attributes, and spec
 
 ## 💰 Treasure
 
-## 💰Treasure
+If the encounter does not list specific treasure, a treasure roll is typical after any major encounter or after any encounter that would warrant treasure. If the encounter was minor, skip the roll or the roll could be 2L100; if major, allow multiple rolls (e.g. each player makes two rolls). GMs will find a treasure balance that works for their campaign.
 
-| 🎲 Master d100 Treasure Table |  |
-| --- | --- |
-| d100 | Treasure |
-| 01–09 | Nothing Found |
-| 10–24 | Junk / Funny One-Off (ice frog sculpture, cursed spoon, sack of bent nails, etc.) |
-| 25–27 | Coins💰 → 1d6s |
-| 28–30 | Coins💰 → 1d20s |
-| 31–33 | Coins💰 → 1d100s |
-| 34–36 | Coins💰 → 1d4 g |
-| 37–39 | Coins💰 → 2d6 × 10s + 1d4 g |
-| 40–49 | Art Object (necklace, chalice, painting, tapestry) worth 1d4+1 g |
-| 50–59 | Gem / Jewel (sapphire, ruby, emerald, etc.) worth 2d6 g |
-| 60–64 | Curio / Document (map, deed, spellbook, IOU, royal letter) |
-| 65–74 | Collectible (figurine, rare coin, idol, old toy, weird antique) 1d20 g |
-| 75–83 | Minor🍺 Magic Item (roll d15 on Minor🍺 table) |
-| 84–89 | Lesser🪄 Magic Item (roll d30 on Lesser🪄 table) |
-| 90–93 | Greater✨ Magic Item (roll d63 on Greater table) |
-| 94–95 | Artifact💫 (roll d15 on Artifact💫 table — extremely rare) |
-| 96–99 | Double Roll → Roll twice on this table (ignore 96+) |
-| 100 | Epic Hoard → 1 Artifact💫 + d100g + 1 additional roll (ignore 95+) |
-| 🧰Gear Quality (for Normal Gear) |  |
-| d8 | Quality |
-| 1 | Ruined (rotten, unusable without repair) |
-| 2 | Used (worn, dented, reduced resale) |
-| 3–4 | Normal (functional, plain) |
-| 5 | Good (well-kept, durable) |
-| 6 | Excellent (masterwork) |
-| 7 | Ornate (decorated, engraved, worth +1d6s extra) |
-| 8 | Gem-Encrusted (adds +1d4 g to value) |
-| 🎨 Art, Gems, Jewelry (d8) |  |
-| d8 | Quality |
-| 1 | Elaborate tapestry (10g, bulky) |
-| 2 | Gem cluster (sapphires, emeralds, etc.) (2d6 g) |
-| 3 | Ivory figurine of a knight (3g) |
-| 4 | Jeweled circlet, delicate gold wire (8g) |
-| 5 | Ornate ring with carved sigil (4g) |
-| 6 | Ruby-studded chalice (5g) |
-| 7 | Silver necklace with tiny bells (2g) |
-| 8 | Small painting of a noble’s hunting party (2g) |
-| 📜 Curios, Maps, Documents (d6) |  |
-| d6 | Quality |
-| 1 | Bestiary notes (hint at monster weakness) |
-| 2 | Deed to a crumbling farmstead |
-| 3 | Map fragment to a dungeon or cave |
-| 4 | Odd contract, owed favor, or IOU |
-| 5 | Royal letter, sealed with wax (political intrigue) |
-| 6 | Spellbook with 1 usable ritual |
-| 🗑️ Junk & One-Offs (d6) |  |
-| d6 | Quality |
-| 1 | “Cursed” spoon (just bent metal) |
-| 2 | Fake gem made of glass |
-| 3 | Ice sculpture of a frog leaping from a crocodile’s mouth (melts in hours) |
-| 4 | Pouch of colorful sand |
-| 5 | Sack of bent nails |
-| 6 | Wooden puppet missing an arm |
+> [!TIP]
+> **Dynamic Treasure & Loot Matrix:**
+> All 5 treasure determination tables (Master d100, Gear Quality, Art & Gems, Curios & Documents, and Junk) reside in our single-source-of-truth database.
+> - Roll loot dynamically using the **[Loot Generator Modal](/player-guide/supaflex/tables)** in SupaFlex.
+> - View the complete treasure matrix in the **[Interactive Tables Catalog](/player-guide/supaflex/tables)**.
+
 
 ## 🔎 GM Tricks
 

@@ -9558,6 +9558,17 @@
       "dmg": "💪"
     },
     {
+      "id": 44,
+      "name": "Glaive",
+      "type": "Melee",
+      "requirement": "💪 6",
+      "max_block": "🛡️12",
+      "cost": "1g",
+      "created_at": "2026-07-31T21:25:49.282548+00:00",
+      "atk": "💪",
+      "dmg": "💪"
+    },
+    {
       "id": 20,
       "name": "Great Axe",
       "type": "Melee",
@@ -9675,6 +9686,17 @@
       "max_block": "🛡️12",
       "cost": "3g",
       "created_at": "2026-07-24T15:50:03.060268+00:00",
+      "atk": "💪",
+      "dmg": "💪"
+    },
+    {
+      "id": 45,
+      "name": "Nuke",
+      "type": "Melee",
+      "requirement": "💪 12",
+      "max_block": "🛡️24",
+      "cost": "1g",
+      "created_at": "2026-07-31T21:26:04.742775+00:00",
       "atk": "💪",
       "dmg": "💪"
     },
@@ -9864,6 +9886,24 @@
       "mr": "👣5",
       "cost": "20g",
       "created_at": "2026-07-24T15:50:06.373207+00:00"
+    },
+    {
+      "id": 34,
+      "name": "asdf",
+      "requirement": "💪 12",
+      "ar": "🧥12",
+      "mr": "👣5",
+      "cost": "1g",
+      "created_at": "2026-07-31T21:33:26.849216+00:00"
+    },
+    {
+      "id": 33,
+      "name": "asdf",
+      "requirement": "💪 4",
+      "ar": "🧥4",
+      "mr": "👣8",
+      "cost": "1g",
+      "created_at": "2026-07-31T21:33:16.441726+00:00"
     },
     {
       "id": 18,

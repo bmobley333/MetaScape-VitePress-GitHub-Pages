@@ -5,6 +5,8 @@ Master indexed armor directory.
 | Armor | Requirement | AR | MR | Cost |
 | --- | --- | --- | --- | --- |
 | **Arcane Wardsuit** | 💪 12 | 🧥12 | 👣5 | 20g |
+| **asdf** | 💪 12 | 🧥12 | 👣5 | 1g |
+| **asdf** | 💪 4 | 🧥4 | 👣8 | 1g |
 | **Banded Armor** | 💪 8 | 🧥8 | 👣6 | 5g |
 | **Brigandine** | 💪 6 | 🧥6 | 👣7 | 3g |
 | **Chain Shirt** | 💪 6 | 🧥6 | 👣7 | 2g |

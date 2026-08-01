@@ -18,6 +18,7 @@ Master indexed weapons directory.
 | **Flail** | Melee | 💪 6 | 🛡️12 | 💪 | 💪 | 3g |
 | **Giant Maul** | Melee | 💪 12 | 🛡️24 | 💪 | 💪 | 10g |
 | **Glaive** | Melee | 💪 10 | 🛡️20 | 💪 | 💪 | 6g |
+| **Glaive** | Melee | 💪 6 | 🛡️12 | 💪 | 💪 | 1g |
 | **Great Axe** | Melee | 💪 8 | 🛡️16 | 💪 | 💪 | 4g |
 | **Halberd** | Melee | 💪 8 | 🛡️16 | 💪 | 💪 | 4g |
 | **Hand Axe** | Melee, Hurled | 💪 4, 🏃 4 | 🛡️8 | 💪, 🏃 | 💪, 🏃 | 2g |
@@ -29,6 +30,7 @@ Master indexed weapons directory.
 | **Mace (Heavy)** | Melee | 💪 8 | 🛡️16 | 💪 | 💪 | 3g |
 | **Morningstar** | Melee | 💪 10 | 🛡️20 | 💪 | 💪 | 5g |
 | **Neon Skateboard** | Melee | 💪 6 | 🛡️12 | 💪 | 💪 | 3g |
+| **Nuke** | Melee | 💪 12 | 🛡️24 | 💪 | 💪 | 1g |
 | **Pike** | Melee | 💪 10 | 🛡️20 | 💪 | 💪 | 5g |
 | **Pipe Wrench** | Melee | 💪 8 | 🛡️16 | 💪 | 💪 | 3g |
 | **Polearm** | Melee | 💪 8 | 🛡️16 | 💪 | 💪 | 4g |
