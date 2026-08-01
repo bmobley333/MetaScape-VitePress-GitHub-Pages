@@ -1411,115 +1411,13 @@ This section covers a number of great GM tricks and examples to help your game r
 
 Because everyone rolls Nish every round, you will end up with a LOT of tremendous and critical Nish rolls. Coming up with original results for this many rolls is very difficult and will slow your game down. A great trick is to use (or expand) the tables below. Print, enlarge, and cut out the results. Then assign a player to be the Nish Crit/Tremendous GM’s aide. Anytime a player has a critical or tremendous Nish they do NOT announce it. They simply ask the assigned helper to hand them the result. You can use a bowl, hat, cup to contain the slips of paper, but my favorite is to use two envelopes as they are VERY easy to store. Another trip - tell players they are NOT to keep the slips of paper, rather write them down if necessary and immediately hand them back to your helper (so they do not get lost). For double or Triple Crit/Tremendous simply have them draw two or three results.
 
-| 🌟Tremendous Nish🚩 |  |  |
-| --- | --- | --- |
-| d50 | Tremendous | Effect |
-| 1 | Quick Step | Gain +1 to MR👣 for this round. |
-| 2 | Sharp Eyes | One Free Awareness roll this round. |
-| 3 | Steady Grip | Auto-succeed next simple task |
-| 4 | Lucky Break | Cancel 1 Minor🍺 penalty this round (–1, Affliction Save✨, etc.). |
-| 5 | Flair Move | Add a flourish; gain Advantage on "personality" based Mind👁️ |
-| 6 | Catch Breath | Regain 1 Vit❤️ immediately. |
-| 7 | Loose Stone | On hit; Auto-disarm or unshield d2sq |
-| 8 | Smooth Draw | Equip or switch weapon/shield without using P action. |
-| 9 | Quick Call | You have Advantage vs next trap for encounter |
-| 10 | Easy Dodge | Your next Dodge roll has Advantage. |
-| 11 | Nimble Feet | Step d4 squares without using MR👣. |
-| 12 | Quick Hand | Free Luck🍀 of 1 skill (not Wpn or Armor) this encounter |
-| 13 | Guard Shift | Gain +1 Def for 1 rnd |
-| 14 | Extra Glance | Auto-spot 1 hidden or unseen detail in the area. |
-| 15 | Rally Breath | An ally of choice gets +3 Nish🚩 next round. |
-| 16 | Keep Pace | Match Nish🚩 of any ally this round. |
-| 17 | Lucky Timing | Your Nish🚩 is minimum of +1 more than best monster for encounter |
-| 18 | Swift Stand | Stand from prone without P action for encounter |
-| 19 | Quick Step Back | Immediately step 1 sq away when targeted for 1 rnd |
-| 20 | Duck Low | Avoid next ranged Atk |
-| 21 | Push Forward | Gain Nish🚩 Advantage next round. |
-| 22 | Quick Swap | Change held gear(weapon/shield/item) instantly once this encounter |
-| 23 | Cover Dash | Gain +2 AR🧥 |
-| 24 | Double Time | Move full MR👣 plus +d4 extra this round. |
-| 25 | Haste Pulse | All allies within 3 sq gain +1 Nish🚩 next round. |
-| 26 | Inspire Action | One ally gains an extra P action this round. |
-| 27 | Speed Echo | You gain and extra P action this round |
-| 28 | Deflect | If attacked; weapon/shield glints; Block🧱 with Advantage for 1 rnd |
-| 29 | Dash First | Move before enemy group regardless of Nish🚩 order. |
-| 30 | Strike True | Add +1d to your next Atk roll this rnd. |
-| 31 | Step In Sync | Choose 1 ally of lower Nish🚩; both act simultaneously this round. |
-| 32 | Call Shot | Add +2 Dmg💥 to your first successful Atk this rnd. |
-| 33 | Rally Cry | All allies within earshot gain +1 to first roll this rnd. |
-| 34 | Slip Free | Escape 1 grapple, hold, or slow effect for encounter |
-| 35 | Quick Cast | If casting a spell, reduce action to P instead of A this rnd. |
-| 36 | Swap Order | Your Nish🚩 matches ally of choice this round |
-| 37 | Strike Again | After a successful Atk, Opportunity Atk at –2. |
-| 38 | Blur Dash | Gain Dodge Advantage for all Dodges until next turn. |
-| 39 | Flow Motion | Perform A-M-A (Attack, Move, Attack) sequence this rnd. |
-| 40 | Pinpoint | Your Atk ignores AR🧥 on first strike this rnd. |
-| 41 | Nimble Surge | Gain extra M Actionthis rnd. |
-| 42 | Flash Counter | If struck in melee, gain one Opportunity atk back |
-| 43 | Fast Hands | One P Action is Free this rnd. |
-| 44 | Nish Lock | Your Nish🚩 stays the same next round (no roll). |
-| 45 | Momentum | Bonus of +5 to your next Atk roll. |
-| 46 | Surge Order | All allies act before monsters this round. |
-| 47 | Push the Line | Foes adjacent to you suffer –1 Def this rnd. |
-| 48 | Masters Surge | Gain extra A Actionthis rnd. |
-| 49 | Heroic Dash | Up to MR👣 ; May M-A-M this rnd |
-| 50 | Lead the Charge | All allies add +2 MR👣 this round if they move toward you. |
-
-| 💀 Critical Nish🚩 |  |  |
-| --- | --- | --- |
-| d50 | Critical | Effect |
-| 1 | Squirrel!!! | Your Nish🚩 = 1 this round. |
-| 2 | Stumbler | You slip and fall prone. |
-| 3 | Doh… So Close | Your Nish🚩 is 1 less than the slowest opponent. |
-| 4 | Quick Fumble | Drop 1 held item (weapon/shield/etc.) in reach of foes. |
-| 5 | Clumsy Hands | Random gearitem is lost |
-| 6 | Random Act | Roll a random Skill🎓; must be your next action (besides move). |
-| 7 | Friendly Fire | Your planned Atk hits nearest ally. If no plan, use most common Atk. |
-| 8 | This is Not the Weapon I Was Looking For | Next Atk uses random weapon from Weapons Table (appears in hand) |
-| 9 | I NEED POWER! | You may ONLY move (i.e. relocate) this round |
-| 10 | So Thirsty! | You may not drink anything (potions, etc.) this encounter |
-| 11 | Flat Footed | Loose your M Action this round. |
-| 12 | Frozen | You may only Attack, Move, or Defend this rnd. Pick one. |
-| 13 | Passive | You may not Atk or cause harm this rnd. |
-| 14 | Random Thought | Lose your P action this rnd. |
-| 15 | No Sudden Movements! | Your next Resist✨ance roll auto-fails, for encounter |
-| 16 | Save Me! | All Resist✨ance rolls Disadvantaged for encounter |
-| 17 | Rumblin Stumblin Bumblin | Def and all Motion🏃 rolls Disadvantaged for 1 rnd |
-| 18 | Bumbling Fool | Halve your Nish🚩 and closest ally’s Nish🚩 this round. |
-| 19 | Lack of Focus | All rolls at -4 this round |
-| 20 | Wait What? | Cannot use Skills🎓 for this encounter |
-| 21 | Hear/See/Speak No Evil | No Awareness rolls for encounter; No speech for 1 rnd |
-| 22 | Slacker | No Luck🍀 use for encounter |
-| 23 | Excedrin Won’t Fix This | Lose 1 Luck🍀 chit |
-| 24 | Oh So Drained | Lose d4 Vit❤️ |
-| 25 | Half Power | Take d(half of Max Vit❤️) as Wounds |
-| 26 | No Power! | Loose all Luck🍀 Chits |
-| 27 | Glass Weapon | Next failed Atk breaks that weapon until repaired. |
-| 28 | Glass Armor | Next hit you take reduces armor to AR🧥 1 until repaired |
-| 29 | Glass Jaw | If you take Dmg💥 this rnd, you fall unconscious until awake Magic✨ Dif 20 |
-| 30 | Glass Jaw 2 | All Wnds🩸 taken are doubled this encounter. |
-| 31 | Comes in Like a Wreckingball | You fall into nearest ally; Motion🏃Dif 15 or they fall prone |
-| 32 | Hey Stupid! | You shout and become most likely monster target. |
-| 33 | Half a Man | All your rolls Disadvantaged this round. |
-| 34 | Crit Be Gone | You got Lucky - no effect. |
-| 35 | You Left It in Your Other Pants… | You only have a P Action this rnd |
-| 36 | No Power | Cannot use Magic Item Effects this encounter |
-| 37 | It’s a Trap! | You stumble into the nearest logical trap (if any). |
-| 38 | Clang & Bang | Stealth rolls Disadvantaged this encounter |
-| 39 | Spell Addict | A Action may ONLY be for a spell like power this round |
-| 40 | Ranged Addict | A Action may ONLY be for a Ranged weapon Atk this round |
-| 41 | Melee Addict | A Action may ONLY be for a mleee weapon Atk this round |
-| 42 | I’m a Bit Punchy | You may only deal Dmg💥 via Brawl this round |
-| 43 | This Weapon Sucks! | You will not use current weapon for encounter |
-| 44 | I Should Have Opened With That | Your next Atk must be your strongest possible combo you can legally do |
-| 45 | Stuck Reload | Your current main weapon is useless until A Action is used to free it |
-| 46 | Weapon Slip | Disarm self; weapon skitters 2H4 squares away |
-| 47 | Armor Pinch | MR👣 reduced by half until rnd ends. |
-| 48 | Overextend | Your next Def is at Disadvantage |
-| 49 | Sudden Fatigue | Lose 1 Act this rnd (choose M or A). |
-| 50 | Head Rush | Lose 1 Act each rnd (choose M, A, or P each rnd) for encounter |
+> [!TIP]
+> **Dynamic Nish Tremendous & Critical Matrix:**
+> All 100 Tremendous (d50) and Critical (d50) Nish results reside in our single-source-of-truth database (`public.nish_tc`).
+> - View, search, and roll Nish Tremendous and Critical results in the **[Interactive Tables Catalog](/player-guide/supaflex/tables)**.
 
 ## Helper - Bleeder
+
 
 Assign one player as the “Bleeder.” The Bleeder is a GM helper who’s job it is to track all monster wounds for the GM. For example, if you use a write on board or mat, give them a red pen and if Orc A takes 5 Wnd🩸s it is the Bleeder’s responsibility to place a 5 next to Orc A. If that orc later takes another 3 Wnd🩸s, the Bleeder will change the 5 to 8. Also as you, the GM, move the monster around the board, it is the Bleeder’s responsibility to erase the old Wnd🩸 number and place it adjacent to the monster’s new location. Finally, you can assign the Bleeder (if they are an experienced gamer) or some other helper to track monster death. This helper will always ask you what the Vit❤️ of each monster type is and they’ll let everyone know when a monster should die due to Wnd🩸s being >= their Vit❤️. Once you train your Bleeder up, you are largely freed up, as GM, from this common set of tasks.
 
