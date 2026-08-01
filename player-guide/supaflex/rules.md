@@ -1407,11 +1407,8 @@ If the encounter does not list specific treasure, a treasure roll is typical aft
 
 This section covers a number of great GM tricks and examples to help your game run even more smoothly. All tricks/rules herein are optional and may be incorporated into your game sessions at the GM’s discretion. Some of these tricks are more advanced rules that can be incorporated once the GM and their group has fully grasped the base rules.
 
-## Helper - 🌟Tremendous/💀 Critical Nish🚩
-
-Because everyone rolls Nish every round, you will end up with a LOT of tremendous and critical Nish rolls. Coming up with original results for this many rolls is very difficult and will slow your game down. A great trick is to use (or expand) the tables below. Print, enlarge, and cut out the results. Then assign a player to be the Nish Crit/Tremendous GM’s aide. Anytime a player has a critical or tremendous Nish they do NOT announce it. They simply ask the assigned helper to hand them the result. You can use a bowl, hat, cup to contain the slips of paper, but my favorite is to use two envelopes as they are VERY easy to store. Another trip - tell players they are NOT to keep the slips of paper, rather write them down if necessary and immediately hand them back to your helper (so they do not get lost). For double or Triple Crit/Tremendous simply have them draw two or three results.
-
 ## Helper - Bleeder
+
 
 
 
