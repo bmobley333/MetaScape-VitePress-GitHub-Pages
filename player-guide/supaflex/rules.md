@@ -1411,12 +1411,8 @@ This section covers a number of great GM tricks and examples to help your game r
 
 Because everyone rolls Nish every round, you will end up with a LOT of tremendous and critical Nish rolls. Coming up with original results for this many rolls is very difficult and will slow your game down. A great trick is to use (or expand) the tables below. Print, enlarge, and cut out the results. Then assign a player to be the Nish Crit/Tremendous GM’s aide. Anytime a player has a critical or tremendous Nish they do NOT announce it. They simply ask the assigned helper to hand them the result. You can use a bowl, hat, cup to contain the slips of paper, but my favorite is to use two envelopes as they are VERY easy to store. Another trip - tell players they are NOT to keep the slips of paper, rather write them down if necessary and immediately hand them back to your helper (so they do not get lost). For double or Triple Crit/Tremendous simply have them draw two or three results.
 
-> [!TIP]
-> **Dynamic Nish Tremendous & Critical Matrix:**
-> All 100 Tremendous (d50) and Critical (d50) Nish results reside in our single-source-of-truth database (`public.nish_tc`).
-> - View, search, and roll Nish Tremendous and Critical results in the **[Interactive Tables Catalog](/player-guide/supaflex/tables)**.
-
 ## Helper - Bleeder
+
 
 
 Assign one player as the “Bleeder.” The Bleeder is a GM helper who’s job it is to track all monster wounds for the GM. For example, if you use a write on board or mat, give them a red pen and if Orc A takes 5 Wnd🩸s it is the Bleeder’s responsibility to place a 5 next to Orc A. If that orc later takes another 3 Wnd🩸s, the Bleeder will change the 5 to 8. Also as you, the GM, move the monster around the board, it is the Bleeder’s responsibility to erase the old Wnd🩸 number and place it adjacent to the monster’s new location. Finally, you can assign the Bleeder (if they are an experienced gamer) or some other helper to track monster death. This helper will always ask you what the Vit❤️ of each monster type is and they’ll let everyone know when a monster should die due to Wnd🩸s being >= their Vit❤️. Once you train your Bleeder up, you are largely freed up, as GM, from this common set of tasks.
