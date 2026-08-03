@@ -28,7 +28,7 @@ outline: 2
 
 🎯 KISS & Data De-Duplication – Keep It Simple & Single-source-of-truth. Never duplicate database-backed tables (Weapons, Armor, Shields, Gear, Powers, Magic Items, Skill Sets, Monsters, and Treasure) as static text in markdown rules documents; query Supabase or link to interactive catalogs to maintain single-source-of-truth DRY alignment.
 
-📇 Character Card 2-Row Layout Standard – Character selection cards (`UnifiedLaunchHubModal.tsx`) MUST lock the `Active Hero` pill to absolute upper-right (`top-3.5 right-3.5`), lock Edit/Delete action buttons (`✏️`, `🗑️`) to absolute lower-right (`bottom-3.5 right-3.5`), and constrain main card details to 2 rows (Row 1: Name, Row 2: Race & Class badges) with `pr-24` right padding to prevent 3-row vertical expansion and layout mis-alignment.
+📇 Character Card 2-Row Layout Standard – Character selection cards (`UnifiedLaunchHubModal.tsx`) MUST enforce a 2-column flexbox grid layout (`flex items-center justify-between gap-3`), placing Name and Badges in the left column (Rows 1 & 2) and the `Active Hero` badge and Edit/Delete buttons in the right column (Rows 1 & 2) to eliminate vertical overlapping.
 
 
 
