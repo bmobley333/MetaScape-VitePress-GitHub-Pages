@@ -10879,18 +10879,6 @@
       "created_at": "2026-07-24T15:50:16.077793+00:00"
     },
     {
-      "id": 2,
-      "name": "Bandit Archer",
-      "nish": "🚩13",
-      "mr": "👣10",
-      "atk_dmg_ftg": "⚔️16 / 5 (1)",
-      "dod_ar": "🧥14 / 1",
-      "vit": "❤️8",
-      "attributes": "💪12 / 🏃16 / 👁️14 / ✨10 / 🫀10",
-      "abilities": "Volley fire",
-      "created_at": "2026-07-24T15:50:16.077793+00:00"
-    },
-    {
       "id": 3,
       "name": "Bandit Leader",
       "nish": "🚩16",

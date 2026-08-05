@@ -5,7 +5,6 @@ Master indexed monster bestiary.
 | Monster Name | Nish | MR | Atk / Dmg | Dod / AR | Vit | Stats | Abilities |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | **Bandit Archer** | 🚩13 | 👣10 | ⚔️16 / 5 (1) | 🧥14 / 1 | ❤️8 | 💪12 / 🏃16 / 👁️14 / ✨10 / 🫀10 | Volley fire |
-| **Bandit Archer** | 🚩13 | 👣10 | ⚔️16 / 5 (1) | 🧥14 / 1 | ❤️8 | 💪12 / 🏃16 / 👁️14 / ✨10 / 🫀10 | Volley fire |
 | **Bandit Leader** | 🚩16 | 👣10 | ⚔️20 / 8 (1) | 🧥18 / 2 | ❤️16 | 💪18 / 🏃12 / 👁️12 / ✨11 / 🫀10 | Inspires bandits |
 | **Bandit Thug** | 🚩13 | 👣10 | ⚔️16 / 8 (1) | 🧥14 / 1 | ❤️10 | 💪16 / 🏃12 / 👁️10 / ✨10 / 🫀10 | Dirty tricks |
 | **Bats, Swarm of** | 🚩18 | 👣14 | ⚔️14 / 5 (1) | 🧥14 / 0 | ❤️6 | 💪10 / 🏃22 / 👁️16 / ✨12 / 🫀10 | Distracts enemies |
