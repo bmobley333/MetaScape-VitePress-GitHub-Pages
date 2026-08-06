@@ -9,20 +9,39 @@ export default defineConfig({
   head: [
     ['link', { rel: 'icon', href: '/MetaScape-VitePress-GitHub-Pages/jodar.ico' }]
   ],
+  // ─────────────────────────────────────────────────────────────────────────────
+  // CUSTOM EMOJI-STRIPPING ANCHOR SLUGIFIER
+  // ─────────────────────────────────────────────────────────────────────────────
+  // PURPOSE: VitePress's default slugifier includes Unicode emoji characters in
+  // heading IDs and URL hash fragments. A heading like "## ⭐ Leveling/Advancement"
+  // produces id="⭐-leveling-advancement" → URL-encoded as #%E2%AD%90-leveling-advancement.
+  // This breaks deep-linking from the SupaFlex app popovers and is untypeable.
+  //
+  // This custom slugifier strips ALL emoji codepoints from heading IDs while
+  // preserving them 100% in the visible heading text and sidebar TOC.
+  //
+  // RESULT:  Heading text = "⭐ Leveling/Advancement" (emoji visible)
+  //          HTML element = <h2 id="leveling-advancement">
+  //          Clean URL    = rules.html#leveling-advancement
+  //
+  // DOCS: See Jodar SoT → Popover_Blueprint.md § "VitePress Clean URL Anchor Standard"
+  // HISTORY: Added 2026-08-06 to fix #%E2%AD%90 emoji encoding in live URLs.
+  // ─────────────────────────────────────────────────────────────────────────────
   markdown: {
     anchor: {
       slugify: (str: string) =>
         str
-          .replace(/[\/\\]/g, '-')
-          .replace(/\{#[\w-]+\}/g, '')
-          .replace(/[\u{1F300}-\u{1F9FF}]|[\u{2600}-\u{26FF}]|[\u{2700}-\u{27BF}]|[\u{1F600}-\u{1F64F}]|[\u{1F680}-\u{1F6FF}]|[\u{1F1E0}-\u{1F1FF}]|[\u{2B05}-\u{2B07}]|[\u{2934}-\u{2935}]|[\u{3297}-\u{3299}]|[\u{3030}]|[\u{303D}]|[\u{203C}]|[\u{2049}]|[\u{2122}]|[\u{2139}]/gu, '')
-          .toLowerCase()
-          .trim()
-          .replace(/[^\w\s-]/g, '')
-          .replace(/[\s_]+/g, '-')
-          .replace(/^-+|-+$/g, '')
+          .replace(/[\/\\]/g, '-')                     // Step 1: Convert forward/back slashes to hyphens
+          .replace(/\{#[\w-]+\}/g, '')                 // Step 2: Strip VitePress {#custom-id} attribute tags
+          .replace(/[\u{1F300}-\u{1F9FF}]|[\u{2600}-\u{26FF}]|[\u{2700}-\u{27BF}]|[\u{1F600}-\u{1F64F}]|[\u{1F680}-\u{1F6FF}]|[\u{1F1E0}-\u{1F1FF}]|[\u{2B05}-\u{2B07}]|[\u{2934}-\u{2935}]|[\u{3297}-\u{3299}]|[\u{3030}]|[\u{303D}]|[\u{203C}]|[\u{2049}]|[\u{2122}]|[\u{2139}]/gu, '')  // Step 3: Strip all Unicode emoji ranges
+          .toLowerCase()                               // Step 4: Lowercase everything
+          .trim()                                      // Step 5: Trim whitespace
+          .replace(/[^\w\s-]/g, '')                    // Step 6: Remove remaining non-word chars (except hyphens)
+          .replace(/[\s_]+/g, '-')                     // Step 7: Convert spaces/underscores to hyphens
+          .replace(/^-+|-+$/g, '')                     // Step 8: Trim leading/trailing hyphens
     }
   },
+
   themeConfig: {
     outline: [2, 2],
     logo: '/jodar.ico',
