@@ -483,15 +483,14 @@ All Attributes are equally important. Mgt💪 is not inherently better than Mnd�
 
 All abilities and items show their governing Atr: Might💪, Motion🏃, Mind👁️, Magic✨, or Moxie🫀 that they provide a buff to or use as an ability roll.
 
+<!-- @rule:focus.basics anchor="#focus-die" -->
 ## 🔮 Focus Die
 
 Focus is a core PC resource represented by a single die on the same d4→d6→d8→d10→d12 step ladder as attributes.
 
 The Spend: Once per roll, after seeing the result, a player may roll their current Focus Die and add it to the total.
 
-On a comparison roll (skill, attack, defense check vs Difficulty/Target) — the Focus Die explodes freely/indefinitely on max face.
-
-On a single die roll (Damage/Armor) — the Focus Die follows the Single Die Rule (exploding once, capped).
+Exploding Focus Die: All Focus Die rolls explode freely and indefinitely whenever they roll their maximum face (regardless of roll type — Skill, Attack, Defense, Damage, or Armor).
 
 The Step-Down & Preservation Rule: When a player spends their Focus Die, if the first roll of the Focus Die is 1 or Max (e.g., rolling a 1 or 6 on a d6), the Focus Die remains unchanged at its current size. Otherwise (rolling any number between 2 and Max-1), the Focus Die steps down one size on the ladder (d12 → d10 → d8 → d6 → d4 → Exhausted).
 
@@ -509,7 +508,7 @@ Spending a full round doing nothing but "Flooding" (forgoing all actions).
 
 Full Rest: A full night's sleep resets the Focus Die to its purchased maximum.
 
-Focus vs. Luck: Players can use Luck or Focus, but never both on the same roll.
+Focus & Luck: Players can freely use both Focus and Luck on the same roll.
 
 Luck: Redo the whole roll (pure variance mitigation).
 
@@ -1276,13 +1275,13 @@ Range:
 * Disadvantage Extension — GM “may” allow a single range extension at disadvantage.
 
 The Luck Twist (Rule of 1):
-* Overview — When activating any Power or Magic Item, spend 1 Luck chit (🍀) to apply one instant "Rule of 1" boost (Limit: Max 1 Luck Twist per activation).
-* +1 Spark — Gain +1 Spark (✨) toward Charge gauge (Max 2 converted per round).
-* -1 Action Budget — Compress action budget by 1 step (AM → A → M → P → F).
+* Overview — When activating any Power or Magic Item, you can spend 1 Luck chit (🍀) to apply one instant "Rule of 1" boost (Limit: Max 1 Luck Twist per activation).
+* Power 1 Charge Cost — Reduced Meta cost (e.g. 1-⚡ → works!).
+* -1 Action Budget — Compress action cost by 1 step (AM → A, A → M, M → P, or P → F).
 * +1 Target — Strike 1 additional adjacent foe.
 * +1 Die Tier — Step up damage or healing die by +1 die type (d4 → d6 → d8 → d10 → d12).
-* +1 Range Band — Expand range by 1 band (Touch → Short → Medium → Long).
-* +1 Push/Move — Add +1 square to push, pull, or movement distance.
+* +1 Range Band — Expand range by 1 band (e.g., Short → Medium).
+* +1 Push/Move/Etc. — Add +1 square to any push or move effect.
 
 :::
 <!-- /popover:powers.basics -->
@@ -1522,7 +1521,7 @@ Cannot reroll if a Crititcal💀 occurs.
 
 Cannot use more than once on a particular roll (no “second Luck🍀”).
 
-Luck vs Focus: Luck = redo the whole roll (pure variance mitigation); Focus = add to the roll already made (deliberate agency/boost). A player can use Focus or Luck on a single roll, but never both. They cannot be combined to "fish" for unbeatable outcomes.
+Luck & Focus: Luck = redo the whole roll (pure variance mitigation); Focus = add to the roll already made (deliberate agency/boost). Players may freely use both Focus and Luck on a single roll.
 
 Starting Luck🍀: 3 chits.
 
