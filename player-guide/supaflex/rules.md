@@ -1775,3 +1775,4 @@ The **Gear Manager Modal (`GearCard.tsx`)** is canonized as the **Master Bluepri
 3. **Streamlined UI DRY Footer Architecture:** Clean bottom bar with summary total badge (`Total Gear Value: 🪙 Xg 🥈 Ys`) and a single `<button>Done</button>`.
 4. **Master Blueprint Application Scope:** Mandatory directive for upcoming overhauls across items (**Weapons**, **Armor**, **Shields**, **Gear**) and abilities (**Skillsets**, **Powers**, **Magic Items**).
 
+<!-- build: force-clean-anchors-2026-08-06 -->
