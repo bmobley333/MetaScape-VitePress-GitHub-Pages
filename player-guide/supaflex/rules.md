@@ -638,18 +638,12 @@ Cinematic growth → Luck, quirks, and Powers🔥 drive memorable play moments.
 Customization first → Players shape advancement to match their character’s story, not a rigid class track.
 
 <!-- @rule:leveling.advancement_steps -->
-### ⭐ Step 1 — Level⭐ and AP🧩
+# Leveling & AP Advancement
 
-At the end of each large encounter at GM’s discretion, every player receives 1 Level⭐ and 2 Advancement Points (AP🧩).
-
-* **Level⭐ Equivalence:** A character's Level⭐ equals their Total Completed Major Milestones ($\text{Level⭐} \equiv \text{Completed Milestones}$).
-* **Lifetime AP Earned:** $\text{Lifetime AP Earned} = \text{Character Level} \times 2$. Thus, characters earn 2 AP🧩 per level milestone to spend on horizontal options or vertical step-ups.
-
-**Summary of Leveling & AP Advancement:**
 Gain 2 AP per Level
 
 Free Level Advancement
-• Manage Vitality — Free Max Vit Roll (Roll & keep higher)
+• Manage Vitality - Free Max Vit Roll (Roll & keep higher)
 
 Spend AP to Improve Abilities (1–2 AP):
 • Manage Skills — Learn Skill Set (2 AP) | Learn Skill (1 AP)
