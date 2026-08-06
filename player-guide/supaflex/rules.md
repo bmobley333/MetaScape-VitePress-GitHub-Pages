@@ -834,6 +834,7 @@ The same skill🎓 may appear in multiple sets, possibly with different Atr✅. 
 
 Sets are not exhaustive — the GM may approve additional related skills not listed.
 
+<!-- @rule:weapons.basics anchor="#weapon-rules" -->
 ## ⚔️ Weapon Rules
 
 ### Uplifting Damage
