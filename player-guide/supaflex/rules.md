@@ -486,6 +486,27 @@ All abilities and items show their governing Atr: Might💪, Motion🏃, Mind�
 <!-- @rule:focus.basics anchor="#focus-die" -->
 ## 🔮 Focus Die
 
+<!-- @popover:focus.basics -->
+::: details ⚡ Quick Reference: Focus Die Rules
+
+Focus Roll
+* Focus Roll — Once per roll, after seeing the initial roll result, roll your current Focus Die (exploding) and add the result directly to your total.
+* Step-Down Rule — Focus Die drops (d12 ➔ d10 ➔ d8 ➔ d6 ➔ d4 ➔ Exhausted) if the initial focus die roll is not 1 or its Max #. Thus a d6 Focus will remain d6 if it rolls 1 or 6, otherwise becomes a d4 Focus.
+
+Requirement:
+* Eligible Rolls — Any ability roll, Damage, AR, and other rolls as GM allows.
+* Usage Limit — Limit 1 Focus per roll.
+
+Refilling Focus (The Flood):
+* Start of Combat — Step up +1 at the beginning of an encounter.
+* End of Combat — Step up +1 upon resolving an encounter.
+* Short Rest — Step up +1 when taking a short rest between combats.
+* Full Round Action — Spend an entire combat round taking no other actions to "Flood" (+1 step up).
+* Full Rest — A full night's sleep completely restores your Focus Die to its maximum ceiling size.
+
+:::
+<!-- /popover:focus.basics -->
+
 Focus is a core PC resource represented by a single die on the same d4→d6→d8→d10→d12 step ladder as attributes.
 
 The Spend: Once per roll, after seeing the result, a player may roll their current Focus Die and add it to the total.
