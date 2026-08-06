@@ -1,4 +1,6 @@
-export default {
+import { defineConfig } from 'vitepress'
+
+export default defineConfig({
   title: "MetaScape Hub",
   description: "Core Rules & Technical Reference Engine",
   base: '/MetaScape-VitePress-GitHub-Pages/',
@@ -9,7 +11,7 @@ export default {
   ],
   markdown: {
     anchor: {
-      slugify: (str) =>
+      slugify: (str: string) =>
         str
           .replace(/[\/\\]/g, '-')
           .replace(/\{#[\w-]+\}/g, '')
@@ -29,7 +31,7 @@ export default {
       options: {
         miniSearch: {
           searchOptions: {
-            filter: (result) => {
+            filter: (result: any) => {
               if (typeof window === 'undefined') return true;
               const path = window.location.pathname;
               if (path.includes('/ms3/')) return result.id.includes('ms3/');
@@ -101,4 +103,4 @@ export default {
       ]
     }
   }
-}
+})
