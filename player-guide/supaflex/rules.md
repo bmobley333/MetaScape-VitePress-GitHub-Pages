@@ -1275,9 +1275,14 @@ Range:
 * General Guidance — Touch/Melee (≤1 sq), Short (≤6 sq), Medium (≤12 sq), Long (≤24 sq), Extreme (≥25 sq).
 * Disadvantage Extension — GM “may” allow a single range extension at disadvantage.
 
-Luck & Spark Conversion (Buy 1 Spark ✨):
-* Overview — Spend 1 Luck chit (🍀) from your pool to immediately gain +1 Spark (✨) to help build toward a Charge (⚡).
-* Guardrail — Limit: Max 2 Luck chits converted per round. Luck chits CANNOT be used to directly activate 1-⚡ Powers or Magic Items.
+The Luck Twist (Rule of 1):
+* Overview — When activating any Power or Magic Item, spend 1 Luck chit (🍀) to apply one instant "Rule of 1" boost (Limit: Max 1 Luck Twist per activation).
+* +1 Spark — Gain +1 Spark (✨) toward Charge gauge (Max 2 converted per round).
+* -1 Action Budget — Compress action budget by 1 step (AM → A → M → P → F).
+* +1 Target — Strike 1 additional adjacent foe.
+* +1 Die Tier — Step up damage or healing die by +1 die type (d4 → d6 → d8 → d10 → d12).
+* +1 Range Band — Expand range by 1 band (Touch → Short → Medium → Long).
+* +1 Push/Move — Add +1 square to push, pull, or movement distance.
 
 :::
 <!-- /popover:powers.basics -->
@@ -1491,15 +1496,23 @@ If an Affliction triggers upon PC Wounds🩸, do note that Fatigue Wnds🩸 does
 
 ## 🍀 Luck
 
-#### 🍀 Luck to Spark Conversion (Buy 1 Spark ✨)
+#### 🍀 The Luck Twist (Rule of 1)
 
-When a player needs to accelerate their Charge gauge (⚡), they may spend 1 Luck chit (🍀) from their pool to immediately gain **+1 Spark (✨)**.
+When activating any Power🔥 or Magic Item✨, a player may spend 1 Luck chit (🍀) from their pool to apply a dynamic "Rule of 1" modification (+1 / -1) to that activation.
 
-Rules & Guardrails:
-* **Spark Gap Closer:** Allows players to close the gap when at 3 or 4 Sparks to achieve a full Charge (⚡) for a clutch moment.
-* **Conversion Limit:** Maximum 2 Luck chits (🍀) may be converted into Sparks per round.
-* **No Direct Power Activation:** Luck chits CANNOT be spent to directly activate 1-⚡ Powers or Magic Items. They only build toward the 5-Spark Charge requirement.
-* **Magic Item Parity:** Applies identically across all character actions, Powers, and Magic Items.
+Permitted "Rule of 1" Modifications (Pick One per Luck Chit):
+* **+1 Spark (✨):** Immediately gain +1 Spark toward your Charge gauge (Limit: Max 2 converted per round).
+* **-1 Action Budget:** Compress action cost by 1 step (AM → A → M → P → F). (e.g., Activate an Attack (A) power as a Partial (P) action).
+* **+1 Target:** Add +1 target to the power or magic item's effect. (e.g., Strike 2 adjacent foes with a single-target melee/spell power).
+* **+1 Die Tier:** Increase damage or healing die by 1 die step (d4 → d6 → d8 → d10 → d12).
+* **+1 Range Band:** Expand range by 1 Range Band (Touch → Short → Medium → Long → Extreme).
+* **+1 Push / Move:** Add +1 sq to any movement, push, or pull effect.
+
+Play & Integration Rules:
+* **Limit:** Maximum 1 Luck Twist (🍀) per power/item activation (cannot stack multiple Luck chits on the exact same roll/activation).
+* **No Direct 1-⚡ Bypass:** Luck chits CANNOT be spent to directly activate 1-⚡ Powers or Magic Items. They only build toward the 5-Spark Charge requirement via Option 1 (+1 Spark).
+* **Instant Adjudication:** No character sheet editing required. Simply announce: "I'm burning a Luck chit 🍀 for a +1 Target / -1 Action Budget Twist!"
+* **Magic Item Parity:** Applies 100% identically to both Powers (🔥) and Magic Items (✨).
 
 Default Use: Reroll entire roll (all dice), keep best (original or reroll).
 
