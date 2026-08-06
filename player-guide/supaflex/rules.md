@@ -959,7 +959,7 @@ Note: This advantage does not exist when dual wielding or using Weapon & Shield
 
 All Armor’s Defense (Dod/AR or Blk/AR): Dodge 🤸 = Motion🏃, Block 🧱 = Might💪.
 
-Shields🛡️ provide a Max Block🧱 rating, which functions the same as weapon⚔️ Max Block (it applies if the shield’s Max Block🧱 is ≥ the monster’s Dmg💥).
+Shields🛡️ provide a Max Block🧱 rating, which functions the same as weapon⚔️ Max Block (it applies to any attack that “could” be Dodged, if the shield’s Max Block🧱 is ≥ the monster’s Dmg💥).
 
 The key advantage of shields🛡️ is that their Block🧱 is rolled at +1 die step above the Might💪 requirement. The tradeoff is reduced MR👣 and tying up your off-hand.
 
@@ -1005,7 +1005,7 @@ Monster Declares Atk⚔️.
 
 Player Defense Roll: 2H20 + Atr✅ Die + Bonus using:
 
-Might💪 (Block🧱): if armed with equal/larger Max Block🧱 weapon⚔️ or shield🧱.
+Might💪 (Block🧱): for any attack that “could” be Dodged, if armed with equal/larger Max Block🧱 weapon⚔️ or shield🧱.
 
 Motion🏃 (Dodge): nearly always valid.
 
