@@ -628,25 +628,28 @@ Luck🍀: Begin each Session with 3 Luck chits (max 5).
 ## ⭐ Leveling/Advancement {#leveling-advancement}
 
 <!-- @popover:leveling.advancement_steps -->
-> [!TIP]- ⚡ Quick Reference: Leveling & AP Advancement
-> Gain 2 AP per Level
-> 
-> Free Level Advancement
-> • Manage Vitality - Free Max Vit Roll (Roll & keep higher)
-> 
-> Spend AP to Improve Abilities (1–2 AP):
-> • Manage Skills — Learn Skill Set (2 AP) | Learn Skill (1 AP)
-> • Manage Weapons — Learn Weapon (1 AP)
-> • Manage Armor — Learn Armor (1 AP)
-> • Manage Shields — Learn Shield (1 AP)
-> • Manage Vitality — Gain +2 Max Vit (1 AP)
-> • Manage Powers — Learn Power (1 AP) | Upgrade Power (1 AP)
-> • Manage Magic Items — Acquire Minor Item (1 AP) | Upgrade Any Magic Item (1 AP)
-> 
-> Special AP Expenditures (2–8 AP):
-> • Manage Attributes — Step-Up Attribute Die (2–8 AP) | Respec Attributes (1 AP)
-> • Upgrade Focus Die — Step-Up Focus Die (2–8 AP)
-> • Gain Capstone Ability — Learn Heroic Capstone (5–8 AP)
+::: details ⚡ Quick Reference: Leveling & AP Advancement
+
+Gain 2 AP per Level
+
+Free Level Advancement
+* Manage Vitality - Free Max Vit Roll (Roll & keep higher)
+
+Spend AP to Improve Abilities (1–2 AP):
+* Manage Skills — Learn Skill Set (2 AP) | Learn Skill (1 AP)
+* Manage Weapons — Learn Weapon (1 AP)
+* Manage Armor — Learn Armor (1 AP)
+* Manage Shields — Learn Shield (1 AP)
+* Manage Vitality — Gain +2 Max Vit (1 AP)
+* Manage Powers — Learn Power (1 AP) | Upgrade Power (1 AP)
+* Manage Magic Items — Acquire Minor Item (1 AP) | Upgrade Any Magic Item (1 AP)
+
+Special AP Expenditures (2–8 AP):
+* Manage Attributes — Step-Up Attribute Die (2–8 AP) | Respec Attributes (1 AP)
+* Upgrade Focus Die — Step-Up Focus Die (2–8 AP)
+* Gain Capstone Ability — Learn Heroic Capstone (5–8 AP)
+
+:::
 <!-- /popover:leveling.advancement_steps -->
 
 
@@ -778,14 +781,17 @@ All choices require GM approval. The GM may veto or suggest alternatives if a ch
 ## 🎓 Skill and Skill Set Rules
 
 <!-- @popover:skills.basics -->
-> [!TIP]- ⚡ Quick Reference: Skilled vs. Unskilled Rolls
-> Rolls:
-> • Unskilled Checks — Unknown skills (including weapons, armor, and shields) may be attempted as an Unskilled Ability check (1d20 + Atr Die).
-> • Skilled Checks — Known skills, or those approved by the GM as matching a Skill Set, use a Skilled Ability check (2H20 + Atr Die).
-> • Powers & Magic Items — All Powers🔥 and Magic Items✨ are ALWAYS considered Skilled.
-> 
-> Action:
-> • Skill Action Costs — Skills use a Partial (P) or Free (F) action as determined by the GM. GM-initiated skill checks are always Free (F).
+::: details ⚡ Quick Reference: Skilled vs. Unskilled Rolls
+
+Rolls:
+* Unskilled Checks — Unknown skills (including weapons, armor, and shields) may be attempted as an Unskilled Ability check (1d20 + Atr Die).
+* Skilled Checks — Known skills, or those approved by the GM as matching a Skill Set, use a Skilled Ability check (2H20 + Atr Die).
+* Powers & Magic Items — All Powers🔥 and Magic Items✨ are ALWAYS considered Skilled.
+
+Action:
+* Skill Action Costs — Skills use a Partial (P) or Free (F) action as determined by the GM. GM-initiated skill checks are always Free (F).
+
+:::
 <!-- /popover:skills.basics -->
 
 
@@ -873,37 +879,40 @@ Sets are not exhaustive — the GM may approve additional related skills not lis
 ## ⚔️ Weapon Rules
 
 <!-- @popover:weapons.basics -->
-> [!TIP]- ⚡ Quick Reference: Weapons & Combat Rules
-> <!-- tab: ⚔️ Combat Rules -->
-> Rolls:
-> • Unskilled Attacks — Unknown weapons may be attempted as an Unskilled Attack (1d20 + Atk Die) with normal damage and Unskilled Block.
-> • Skilled Attacks — Known weapons use a Skilled Attack (2H20 + Atk Die) with normal damage and Skilled Block.
-> • Powers & Magic Items — All Powers🔥 and Magic Items✨ are ALWAYS considered Skilled.
-> 
-> Action:
-> • Attack & Block Costs — Attacking is an Attack (A) action. Blocking is a Free (F) reaction.
-> 
-> Multi Attacking:
-> • Single Weapon Example — With Might💪 d8 and a d4 Dagger, you can make 2 attacks (d4 + d4). With Might💪 d12, you can make 3 attacks (d4 + d4 + d4).
-> • Dual Wielding Example — With a d4 Dagger + d6 Shortsword (total d10), Might💪 d10+ is required to make a multi-attack.
-> • Multi-Attack Rules — Roll a separate Attack (#d20 + Atr) and separate Damage die for each strike. Strikes can target one foe or be split among adjacent foes.
-> • ⚠️ Uplifting Exception — Multi-attack damage dice are NEVER uplifted.
-> 
-> Opportunity Attacks:
-> • Trigger Requirements — Previously engaged in MELEE, currently have Initiative (Nish🚩), and monster moves out of melee range OR performs a distracting action (casts a spell, quaffs a potion, inspects an item).
-> • Attack Resolution — Immediate, Free (F) BASIC reaction attack (no Focus, Luck, Powers, or Magic Item enhancements allowed).
-> 
-> Blocking Melee:
-> • Requirements — Wielding a drawn MELEE weapon; monster attack is melee with Dmg ≤ weapon "Max Block" rating.
-> • Resolution — Success = negates all damage. Failure = hit connects, roll Armor AR value to reduce damage.
-> 
-> <!-- tab: 🥋 Combat Styles -->
-> | Combat Style | Off-Hand | Key Rules & Utility Handling |
-> | :--- | :---: | :--- |
-> | **🗡️ Single Weapon** | **FREE** | Maximum precision. Off-hand is free for torches, flasks, or potions without action penalty. |
-> | **⚔️ Dual Wield** | **TIED UP** | Hold two 1H weapons. Use higher Block rating of either. Utility tasks require a Partial (P) action. |
-> | **🛡️ Weapon & Shield** | **TIED UP** | Hold 1H weapon + Shield. Shield Block allowed. Utility tasks require a Partial (P) action. |
-> | **🥊 Unarmed / Natural** | **FREE** | Brawling, punches, kicks, grabs, thrown objects. Cannot Block. Damage is -1 die step below Atr die (min d4). |
+::: details ⚡ Quick Reference: Weapons & Combat Rules
+
+<!-- tab: ⚔️ Combat Rules -->
+Rolls:
+* Unskilled Attacks — Unknown weapons may be attempted as an Unskilled Attack (1d20 + Atk Die) with normal damage and Unskilled Block.
+* Skilled Attacks — Known weapons use a Skilled Attack (2H20 + Atk Die) with normal damage and Skilled Block.
+* Powers & Magic Items — All Powers🔥 and Magic Items✨ are ALWAYS considered Skilled.
+
+Action:
+* Attack & Block Costs — Attacking is an Attack (A) action. Blocking is a Free (F) reaction.
+
+Multi Attacking:
+* Single Weapon Example — With Might💪 d8 and a d4 Dagger, you can make 2 attacks (d4 + d4). With Might💪 d12, you can make 3 attacks (d4 + d4 + d4).
+* Dual Wielding Example — With a d4 Dagger + d6 Shortsword (total d10), Might💪 d10+ is required to make a multi-attack.
+* Multi-Attack Rules — Roll a separate Attack (#d20 + Atr) and separate Damage die for each strike. Strikes can target one foe or be split among adjacent foes.
+* ⚠️ Uplifting Exception — Multi-attack damage dice are NEVER uplifted.
+
+Opportunity Attacks:
+* Trigger Requirements — Previously engaged in MELEE, currently have Initiative (Nish🚩), and monster moves out of melee range OR performs a distracting action (casts a spell, quaffs a potion, inspects an item).
+* Attack Resolution — Immediate, Free (F) BASIC reaction attack (no Focus, Luck, Powers, or Magic Item enhancements allowed).
+
+Blocking Melee:
+* Requirements — Wielding a drawn MELEE weapon; monster attack is melee with Dmg ≤ weapon "Max Block" rating.
+* Resolution — Success = negates all damage. Failure = hit connects, roll Armor AR value to reduce damage.
+
+<!-- tab: 🥋 Combat Styles -->
+| Combat Style | Off-Hand | Key Rules & Utility Handling |
+| :--- | :---: | :--- |
+| **🗡️ Single Weapon** | **FREE** | Maximum precision. Off-hand is free for torches, flasks, or potions without action penalty. |
+| **⚔️ Dual Wield** | **TIED UP** | Hold two 1H weapons. Use higher Block rating of either. Utility tasks require a Partial (P) action. |
+| **🛡️ Weapon & Shield** | **TIED UP** | Hold 1H weapon + Shield. Shield Block allowed. Utility tasks require a Partial (P) action. |
+| **🥊 Unarmed / Natural** | **FREE** | Brawling, punches, kicks, grabs, thrown objects. Cannot Block. Damage is -1 die step below Atr die (min d4). |
+
+:::
 <!-- /popover:weapons.basics -->
 
 
@@ -1026,41 +1035,47 @@ Note: This advantage does not exist when dual wielding or using Weapon & Shield
 ## Armor & Shields
 
 <!-- @popover:col.armor.ar -->
-> [!TIP]- ⚡ Quick Reference: Armor & Defense Rules
-> Rolls:
-> • Unskilled Armor — Unknown armor may be attempted as an Unskilled Dodge (1d20 + Dodge Die) and normal AR.
-> • Skilled Armor — Skilled armor uses a Skilled Dodge (2H20 + Dodge Die) and normal AR.
-> 
-> Dodge vs Block:
-> • Attack Evasion — All attacks may be Dodged; some attacks may be Blocked rather than Dodged (see weapon and shield rules).
-> • Exclusive Defenses — No attack may be both Blocked and Dodged.
-> • Fallback AR Protection — If a weapon or shield block fails, the Armor's AR is still rolled.
-> 
-> Action:
-> • Action Cost — ALL armor rolls are a Free (F) action.
+::: details ⚡ Quick Reference: Armor & Defense Rules
+
+Rolls:
+* Unskilled Armor — Unknown armor may be attempted as an Unskilled Dodge (1d20 + Dodge Die) and normal AR.
+* Skilled Armor — Skilled armor uses a Skilled Dodge (2H20 + Dodge Die) and normal AR.
+
+Dodge vs Block:
+* Attack Evasion — All attacks may be Dodged; some attacks may be Blocked rather than Dodged (see weapon and shield rules).
+* Exclusive Defenses — No attack may be both Blocked and Dodged.
+* Fallback AR Protection — If a weapon or shield block fails, the Armor's AR is still rolled.
+
+Action:
+* Action Cost — ALL armor rolls are a Free (F) action.
+
+:::
 <!-- /popover:col.armor.ar -->
 
 ### 🛡️ Shields
 
 <!-- @popover:col.shields.block -->
-> [!TIP]- ⚡ Quick Reference: Shield & Block Rules
-> Rolls:
-> • Unskilled Shield Block — Unknown shields may be attempted as an Unskilled Block (1d20 + Block Die).
-> • Skilled Attacks — Known shields use a Skilled Block (2H20 + Block Die).
-> 
-> Action:
-> • Action Cost — Blocking is a Free (F) action.
-> 
-> Blocking:
-> • Requirements — Wielding a drawn shield; Any Attack that “could” be Dodged; Attack’s Dmg ≤ weapon "Max Block" rating.
-> • Resolution — Success = negates all damage. Failure = hit connects, roll Armor AR value to reduce damage.
-> 
-> Shield-Hand Restrictions:
-> • Off-Hand Limits — Holding a shield completely ties up your off-hand. You cannot hold a torch, lantern, flask, or second weapon in your shield hand.
-> • Utility Action Cost — Performing utility tasks during combat (quaffing a potion, retrieving an item, opening a heavy door) requires a Partial (P) action to awkwardly manage items while holding your weapon and shield.
-> 
-> Movement Rate (MR 👣) Penalty:
-> • Active Shield Penalty — When a shield is drawn, the Shield Drawn MR applies.
+::: details ⚡ Quick Reference: Shield & Block Rules
+
+Rolls:
+* Unskilled Shield Block — Unknown shields may be attempted as an Unskilled Block (1d20 + Block Die).
+* Skilled Attacks — Known shields use a Skilled Block (2H20 + Block Die).
+
+Action:
+* Action Cost — Blocking is a Free (F) action.
+
+Blocking:
+* Requirements — Wielding a drawn shield; Any Attack that “could” be Dodged; Attack’s Dmg ≤ weapon "Max Block" rating.
+* Resolution — Success = negates all damage. Failure = hit connects, roll Armor AR value to reduce damage.
+
+Shield-Hand Restrictions:
+* Off-Hand Limits — Holding a shield completely ties up your off-hand. You cannot hold a torch, lantern, flask, or second weapon in your shield hand.
+* Utility Action Cost — Performing utility tasks during combat (quaffing a potion, retrieving an item, opening a heavy door) requires a Partial (P) action to awkwardly manage items while holding your weapon and shield.
+
+Movement Rate (MR 👣) Penalty:
+* Active Shield Penalty — When a shield is drawn, the Shield Drawn MR applies.
+
+:::
 <!-- /popover:col.shields.block -->
 
 
@@ -1109,20 +1124,23 @@ Area and multi-attacks make separate Atk⚔️ and Dmg💥 rolls for each attack
 ### 🛡️ Combat (Player Defending – Monster Attacking)
 
 <!-- @popover:vitality.death_checks -->
-> [!TIP]- ⚡ Quick Reference: Vitality & Death Checks
-> Unconsciousness & Dying:
-> • Unconsciousness Condition — Unconscious if Current Vit is ≤ 0.
-> • Death Check Trigger — When Current Vit is -1 or less, must immediately make a Death Check and make a Death Check each round on your nish, until Current Vit is no longer negative or you die.
-> • Death Check Roll — Moxie 🫀 Ability check vs. Difficulty = 5 + (– Current Vit ❤️) as unskilled, unless you have the “Death Check🫀” skill. Example: at Current Vit of -8 the Dif is 13.
-> 
-> Bleeding:
-> • Bleeding Out (+1 Wound/Rnd) — After each Death Check except the first, your Wounds automatically increase by +1 Wound due to active bleeding unless you receive bandaging, triage, or magical healing, making future death checks harder.
-> 
-> 💤 Rest & Recovery (Healing):
-> • Post-Combat Short Rest — Taking a brief rest opportunity after a combat encounter restores d4 Vit ❤️ (Maximum 1 short rest per encounter).
-> • Full Day Rest (Sleep) — A full night's sleep restores 2d4 Vit ❤️.
-> • First Aid & Healing — Medical supplies, bandaging, and healing skills stop active bleeding.
-> • Magical Healing — Will stop active bleeding and heal as per the power or item’s rules.
+::: details ⚡ Quick Reference: Vitality & Death Checks
+
+Unconsciousness & Dying:
+* Unconsciousness Condition — Unconscious if Current Vit is ≤ 0.
+* Death Check Trigger — When Current Vit is -1 or less, must immediately make a Death Check and make a Death Check each round on your nish, until Current Vit is no longer negative or you die.
+* Death Check Roll — Moxie 🫀 Ability check vs. Difficulty = 5 + (– Current Vit ❤️) as unskilled, unless you have the “Death Check🫀” skill. Example: at Current Vit of -8 the Dif is 13.
+
+Bleeding:
+* Bleeding Out (+1 Wound/Rnd) — After each Death Check except the first, your Wounds automatically increase by +1 Wound due to active bleeding unless you receive bandaging, triage, or magical healing, making future death checks harder.
+
+💤 Rest & Recovery (Healing):
+* Post-Combat Short Rest — Taking a brief rest opportunity after a combat encounter restores d4 Vit ❤️ (Maximum 1 short rest per encounter).
+* Full Day Rest (Sleep) — A full night's sleep restores 2d4 Vit ❤️.
+* First Aid & Healing — Medical supplies, bandaging, and healing skills stop active bleeding.
+* Magical Healing — Will stop active bleeding and heal as per the power or item’s rules.
+
+:::
 <!-- /popover:vitality.death_checks -->
 
 
@@ -1239,31 +1257,34 @@ Day Rest (sleep/new Day📅): Regain 2d4 Vit❤️, resets all #-Day abilities.
 ## Abilities (Powers🔥, Magic Items✨, Skills🎓)
 
 <!-- @popover:powers.basics -->
-> [!TIP]- ⚡ Quick Reference: Powers & Combat Rules
-> Powers & Magic Items — Identical Rules:
-> • Shared Rules Engine — Powers & Magic Items function EXACTLY the same (Magic Items are simply powers granted by item ownership).
-> • Equipment Requirement — The ONE exception is Magic Items must be properly held, drawn, or worn to work (e.g. a Magic ring will only work if on a finger).
-> 
-> Always Skilled:
-> • Skilled Invocation — Powers and Magic Items are ALWAYS considered Skilled (2H20 + Attribute Die).
-> 
-> Syntax Standard:
-> • Formula — Name | Action Budget | Usage Frequency → Mechanical Effect.
-> • Example — Discordant Chord | A | 1-Rnd → Magic✨ attack vs all Short foes for d4 Dmg.
-> 
-> Range:
-> • GM Interpretation — SupaFlex intentionally does not use strict ranges in most cases. Range is up to GM interpretation.
-> • General Guidance — Touch/Melee (≤1 sq), Short (≤6 sq), Medium (≤12 sq), Long (≤24 sq), Extreme (≥25 sq).
-> • Disadvantage Extension — GM “may” allow a single range extension at disadvantage.
-> 
-> The Luck Twist (Rule of 1):
-> • Overview — When activating any Power or Magic Item, you can spend 1 Luck chit (🍀) to apply one instant "Rule of 1" boost (Limit: Max 1 Luck Twist per activation).
-> • Power 1 Charge Cost — Reduced Meta cost (e.g. 1-⚡ → works!).
-> • -1 Action Budget — Compress action cost by 1 step (AM → A, A → M, M → P, or P → F).
-> • +1 Target — Strike 1 additional adjacent foe.
-> • +1 Die Tier — Step up damage or healing die by +1 die type (d4 → d6 → d8 → d10 → d12).
-> • +1 Range Band — Expand range by 1 band (e.g., Short → Medium).
-> • +1 Push/Move/Etc. — Add +1 square to any push or move effect.
+::: details ⚡ Quick Reference: Powers & Combat Rules
+
+Powers & Magic Items — Identical Rules:
+* Shared Rules Engine — Powers & Magic Items function EXACTLY the same (Magic Items are simply powers granted by item ownership).
+* Equipment Requirement — The ONE exception is Magic Items must be properly held, drawn, or worn to work (e.g. a Magic ring will only work if on a finger).
+
+Always Skilled:
+* Skilled Invocation — Powers and Magic Items are ALWAYS considered Skilled (2H20 + Attribute Die).
+
+Syntax Standard:
+* Formula — Name | Action Budget | Usage Frequency → Mechanical Effect.
+* Example — Discordant Chord | A | 1-Rnd → Magic✨ attack vs all Short foes for d4 Dmg.
+
+Range:
+* GM Interpretation — SupaFlex intentionally does not use strict ranges in most cases. Range is up to GM interpretation.
+* General Guidance — Touch/Melee (≤1 sq), Short (≤6 sq), Medium (≤12 sq), Long (≤24 sq), Extreme (≥25 sq).
+* Disadvantage Extension — GM “may” allow a single range extension at disadvantage.
+
+The Luck Twist (Rule of 1):
+* Overview — When activating any Power or Magic Item, you can spend 1 Luck chit (🍀) to apply one instant "Rule of 1" boost (Limit: Max 1 Luck Twist per activation).
+* Power 1 Charge Cost — Reduced Meta cost (e.g. 1-⚡ → works!).
+* -1 Action Budget — Compress action cost by 1 step (AM → A, A → M, M → P, or P → F).
+* +1 Target — Strike 1 additional adjacent foe.
+* +1 Die Tier — Step up damage or healing die by +1 die type (d4 → d6 → d8 → d10 → d12).
+* +1 Range Band — Expand range by 1 band (e.g., Short → Medium).
+* +1 Push/Move/Etc. — Add +1 square to any push or move effect.
+
+:::
 <!-- /popover:powers.basics -->
 
 
