@@ -637,12 +637,35 @@ Cinematic growth → Luck, quirks, and Powers🔥 drive memorable play moments.
 
 Customization first → Players shape advancement to match their character’s story, not a rigid class track.
 
+<!-- @rule:leveling.advancement_steps -->
 ### ⭐ Step 1 — Level⭐ and AP🧩
 
 At the end of each large encounter at GM’s discretion, every player receives 1 Level⭐ and 2 Advancement Points (AP🧩).
 
 * **Level⭐ Equivalence:** A character's Level⭐ equals their Total Completed Major Milestones ($\text{Level⭐} \equiv \text{Completed Milestones}$).
 * **Lifetime AP Earned:** $\text{Lifetime AP Earned} = \text{Character Level} \times 2$. Thus, characters earn 2 AP🧩 per level milestone to spend on horizontal options or vertical step-ups.
+
+**Summary of Leveling & AP Advancement:**
+Gain 2 AP per Level
+
+Free Level Advancement
+• Manage Vitality — Free Max Vit Roll (Roll & keep higher)
+
+Spend AP to Improve Abilities (1–2 AP):
+• Manage Skills — Learn Skill Set (2 AP) | Learn Skill (1 AP)
+• Manage Weapons — Learn Weapon (1 AP)
+• Manage Armor — Learn Armor (1 AP)
+• Manage Shields — Learn Shield (1 AP)
+• Manage Vitality — Gain +2 Max Vit (1 AP)
+• Manage Powers — Learn Power (1 AP) | Upgrade Power (1 AP)
+• Manage Magic Items — Acquire Minor Item (1 AP) | Upgrade Any Magic Item (1 AP)
+
+Special AP Expenditures (2–8 AP):
+• Manage Attributes — Step-Up Attribute Die (2–8 AP) | Respec Attributes (1 AP)
+• Upgrade Focus Die — Step-Up Focus Die (2–8 AP)
+• Gain Capstone Ability — Learn Heroic Capstone (5–8 AP)
+<!-- /rule:leveling.advancement_steps -->
+
 
 ### 🎲 Step 2 — Vit❤️ Roll
 
