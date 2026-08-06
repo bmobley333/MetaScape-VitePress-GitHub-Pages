@@ -7,6 +7,20 @@ export default {
   head: [
     ['link', { rel: 'icon', href: '/MetaScape-VitePress-GitHub-Pages/jodar.ico' }]
   ],
+  markdown: {
+    anchor: {
+      slugify: (str) =>
+        str
+          .replace(/[\/\\]/g, '-')
+          .replace(/\{#[\w-]+\}/g, '')
+          .replace(/[\u{1F300}-\u{1F9FF}]|[\u{2600}-\u{26FF}]|[\u{2700}-\u{27BF}]|[\u{1F600}-\u{1F64F}]|[\u{1F680}-\u{1F6FF}]|[\u{1F1E0}-\u{1F1FF}]|[\u{2B05}-\u{2B07}]|[\u{2934}-\u{2935}]|[\u{3297}-\u{3299}]|[\u{3030}]|[\u{303D}]|[\u{203C}]|[\u{2049}]|[\u{2122}]|[\u{2139}]/gu, '')
+          .toLowerCase()
+          .trim()
+          .replace(/[^\w\s-]/g, '')
+          .replace(/[\s_]+/g, '-')
+          .replace(/^-+|-+$/g, '')
+    }
+  },
   themeConfig: {
     outline: [2, 2],
     logo: '/jodar.ico',
