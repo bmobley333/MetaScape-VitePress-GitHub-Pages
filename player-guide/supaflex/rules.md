@@ -625,7 +625,7 @@ Begin with one randomly rolled Minor🍺 Magic Item✨ from the general or perso
 
 Luck🍀: Begin each Session with 3 Luck chits (max 5).
 
-## ⭐ Leveling/Advancement
+## ⭐ Leveling/Advancement {#leveling-advancement}
 
 ### Advancement Philosophy
 
@@ -637,7 +637,7 @@ Cinematic growth → Luck, quirks, and Powers🔥 drive memorable play moments.
 
 Customization first → Players shape advancement to match their character’s story, not a rigid class track.
 
-<!-- @rule:leveling.advancement_steps anchor="#⭐-leveling-advancement" -->
+<!-- @rule:leveling.advancement_steps anchor="#leveling-advancement" -->
 # Leveling & AP Advancement
 
 Gain 2 AP per Level
