@@ -1275,14 +1275,9 @@ Range:
 * General Guidance — Touch/Melee (≤1 sq), Short (≤6 sq), Medium (≤12 sq), Long (≤24 sq), Extreme (≥25 sq).
 * Disadvantage Extension — GM “may” allow a single range extension at disadvantage.
 
-The Luck Twist (Rule of 1):
-* Overview — When activating any Power or Magic Item, you can spend 1 Luck chit (🍀) to apply one instant "Rule of 1" boost (Limit: Max 1 Luck Twist per activation).
-* Power 1 Charge Cost — Reduced Meta cost (e.g. 1-⚡ → works!).
-* -1 Action Budget — Compress action cost by 1 step (AM → A, A → M, M → P, or P → F).
-* +1 Target — Strike 1 additional adjacent foe.
-* +1 Die Tier — Step up damage or healing die by +1 die type (d4 → d6 → d8 → d10 → d12).
-* +1 Range Band — Expand range by 1 band (e.g., Short → Medium).
-* +1 Push/Move/Etc. — Add +1 square to any push or move effect.
+Luck & Spark Conversion (Buy 1 Spark ✨):
+* Overview — Spend 1 Luck chit (🍀) from your pool to immediately gain +1 Spark (✨) to help build toward a Charge (⚡).
+* Guardrail — Limit: Max 2 Luck chits converted per round. Luck chits CANNOT be used to directly activate 1-⚡ Powers or Magic Items.
 
 :::
 <!-- /popover:powers.basics -->
@@ -1292,7 +1287,7 @@ The Luck Twist (Rule of 1):
 
 🪄 Magic Item Parity
 
-Magic Items function EXACTLY like Powers🔥 (they are simply powers granted by item ownership). All rules for action budgets (AMP), usage frequencies, Meta costs (Meta⚡x#), and 1-AP augments apply identically to Magic Items.
+Magic Items function EXACTLY like Powers🔥 (they are simply powers granted by item ownership). All rules for action budgets (AMP), usage frequencies, Charge costs (1-⚡), and 1-AP augments apply identically to Magic Items.
 
 #### 📜 System Architecture: Power & Magic Item Grammar
 
@@ -1316,7 +1311,7 @@ Example: An ability that heals the user 1 Vit❤️ as a 1-Enc, P action would h
 
 Additional guidance is below:
 
-### 🔄 Usage & The Meta Engine (⚡)
+### 🔄 Usage & The Charge Engine (⚡)
 
 How often an ability (Power🔥 or Magic Item✨) can be used:
 
@@ -1324,29 +1319,29 @@ How often an ability (Power🔥 or Magic Item✨) can be used:
 | --- | --- | --- |
 | 1-Rnd | Refreshes every round on Initiative (Nish🚩). | Bread-and-butter attacks, basic spells, and minor item triggers. |
 | 1-Enc / 2-Enc / 3-Enc | Refreshes immediately when combat resolves (Max 3-Enc). | Battlefield setups, stances, defensive triggers, utility resets. |
-| 1-⚡ (1-Meta / 5 Sparks) | Consumes 1 full Meta (5 Sparks, 5⚡︎). Usable max 1 time per encounter (1-⚡ implies 1-Enc). | High-impact burst, combos, or area control. Earned dynamically via Sparks in combat or roleplaying. |
+| 1-⚡ (1-Charge / 5 Sparks) | Consumes 1 full Charge (5 Sparks, ⚡). Usable max 1 time per encounter (1-⚡ implies 1-Enc). | High-impact burst, combos, or area control. Earned dynamically via Sparks in combat or roleplaying. |
 | 1-Luck (Chit) | Consumes 1 Luck chit (🍀). | Cinematic interrupts, heroic saves, clutch auto-defenses. |
 
-#### ⚡ Meta Generation & Spark (⚡︎) Rules
+#### ⚡ Charge Generation & Spark Rules
 
-- **5 Sparks = 1 Meta:** It ALWAYS takes a full Meta (5 Sparks or 5⚡︎) to power a Meta-using ability. All Meta abilities indicate this in the Usage column as **1-⚡** (representing 1-Meta). There are no 2-⚡ or 3-⚡ costs.
-- **Spark Events (⚡︎):** Charging up or building to a Meta occurs via Sparks earned in gameplay:
-  - **Tremendous or Critical Rolls:** Gain 1⚡︎ for every natural 20 or natural 1 on the base d20 die of a typical ability roll.
-  - **Exploding Die Events:** Gain 1⚡︎ per exploding die roll (if a die explodes 4 times in a row, gain 4⚡︎). Applies to ANY ability roll (Skill, Attack, Defense, Focus, etc.).
-- **Charged State:** A character with a full Meta (5 Sparks) is Charged. While Charged, they gain +1 to ALL rolls until they spend their Meta or the encounter ends.
+- **5 Sparks = 1 Charge:** It ALWAYS takes 5 Sparks (✨) to build 1 Charge (⚡). All Charge abilities indicate this in the Usage column as **1-⚡** (representing 1 Charge). There are no 2-⚡ or 3-⚡ costs.
+- **Spark Events (✨):** Building a Charge occurs via Sparks earned in gameplay:
+  - **Tremendous or Critical Rolls:** Gain +1 Spark (✨) for every natural 20 or natural 1 on the base d20 die of a typical ability roll.
+  - **Exploding Die Events:** Gain +1 Spark (✨) per exploding die roll (if a die explodes 4 times in a row, gain 4 Sparks). Applies to ANY ability roll (Skill, Attack, Defense, Focus, etc.).
+- **Charged State (+1 to All Rolls):** A character holding 1 Charge (5 Sparks) is "Charged." While Charged, they gain a flat +1 bonus to ALL Ability Rolls, Defenses, and Damage rolls until they spend their Charge (⚡) or the encounter ends.
 - **Encounter Transition & Zeroing Out:**
-  - If a character reaches a full Meta (5 Sparks) in an encounter, then at the end of that encounter their Sparks zero out (reset to 0⚡︎).
+  - If a character forms a Charge (5 Sparks) in an encounter, then at the end of that encounter their Sparks zero out (reset to 0).
   - Otherwise, if they end an encounter with fewer than 5 Sparks (<5 Sparks), their Sparks carry over into the next encounter. (Characters are continuously transitioning between encounter types, whether combat or roleplaying).
 
 > [!NOTE]
 > **Elimination of Daily Hoarding (X-Day)**
-> High-tier daily powers are converted into Meta powers (1-⚡) or 1-Luck powers. Players no longer hoard powerful abilities for boss fights that never come; they earn them dynamically in every fight through tactical play and dice momentum.
+> High-tier daily powers are converted into Charge powers (1-⚡) or 1-Luck powers. Players no longer hoard powerful abilities for boss fights that never come; they earn them dynamically in every fight through tactical play and dice momentum.
 
 #### 🧠 Game Theory & Psychology ("My Game Theory")
 
-- **Built-in Delay:** Requires 5 Sparks to gain a Meta, introducing natural tactical delay for high-impact abilities.
+- **Built-in Delay:** Requires 5 Sparks to gain a Charge, introducing natural tactical delay for high-impact abilities.
 - **Dopamine Rewards:** Gives immediate positive feedback (dopamine hit) anytime a player rolls a Tremendous (nat 20), Critical (nat 1), or Exploding die.
-- **Pavlovian Random Anticipation:** Because a player could gain multiple Sparks in a single round from exploding dice, players never know exactly when a full Meta (5⚡︎) will hit, driving engagement.
+- **Pavlovian Random Anticipation:** Because a player could gain multiple Sparks in a single round from exploding dice, players never know exactly when a full Charge (⚡) will hit, driving engagement.
 - **Active Play Incentive:** Directly rewards active participation in encounters (taking actions, making rolls, and Focusing to trigger exploding dice).
 
 
@@ -1496,26 +1491,15 @@ If an Affliction triggers upon PC Wounds🩸, do note that Fatigue Wnds🩸 does
 
 ## 🍀 Luck
 
-#### 
+#### 🍀 Luck to Spark Conversion (Buy 1 Spark ✨)
 
-🍀 The Luck Twist (Rule of 1)
+When a player needs to accelerate their Charge gauge (⚡), they may spend 1 Luck chit (🍀) from their pool to immediately gain **+1 Spark (✨)**.
 
-When activating any Power🔥 or Magic Item✨, a player may spend 1 Luck chit (🍀) from their pool to apply a dynamic "Rule of 1" modification (+1 / -1) to that activation.
-
-Permitted "Rule of 1" Modifications (Pick One per Luck Chit):
-
-* -1 Meta Cost: Reduce the Meta cost of the power/item by 1 Meta (⚡). (e.g., Reduce a ⚡x2 Surge power down to ⚡x1, or a ⚡x1 power to 0 Meta).
-* -1 Action Budget: Compress the action cost down by 1 action step (AM → A → M → P → F). (e.g., Activate an Attack (A) power as a Partial (P) action, preserving your main Attack).
-* +1 Target: Add +1 target to the power or magic item's effect. (e.g., Strike 2 adjacent foes with a single-target melee/spell power).
-* +1 Die Tier: Increase the damage or healing die by 1 die step (d4 → d6 → d8 → d10 → d12). (e.g., Uplift a d6 Dmg spell to a d8 Dmg strike).
-* +1 Range Band: Expand the range of the power/item by 1 Range Band (Touch → Short → Medium → Long → Extreme). (e.g., Cast a Short-range spell across the battlefield at Medium range).
-* +1 Push / Move: Add +1 sq to any movement, push, or pull effect. (e.g., Push a target d4+1 sq back into a pit or hazard).
-
-Play & Integration Rules:
-
-* Limit: Maximum 1 Luck Twist (🍀) per power/item activation (cannot stack multiple Luck chits on the exact same roll).
-* Instant Adjudication: No character sheet editing required. The player simply announces: "I'm burning a Luck chit 🍀 for a Rule of 1 target/range boost!"
-* Magic Item Parity: Applies 100% identically to Magic Items (e.g. spending a Luck chit 🍀 to make a potion quaff a Free action or give a wand +1 target).
+Rules & Guardrails:
+* **Spark Gap Closer:** Allows players to close the gap when at 3 or 4 Sparks to achieve a full Charge (⚡) for a clutch moment.
+* **Conversion Limit:** Maximum 2 Luck chits (🍀) may be converted into Sparks per round.
+* **No Direct Power Activation:** Luck chits CANNOT be spent to directly activate 1-⚡ Powers or Magic Items. They only build toward the 5-Spark Charge requirement.
+* **Magic Item Parity:** Applies identically across all character actions, Powers, and Magic Items.
 
 Default Use: Reroll entire roll (all dice), keep best (original or reroll).
 
