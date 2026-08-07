@@ -77,7 +77,7 @@ Select one of the many sub-sets of powers such as Class👤, Race🧬, Combat St
 | 1-⚡ | F | **Ghost Phalanx** | Adjacent allies AR🧥+1 as spectral shields form for encounter |
 | 1-⚡ | A | **Last Stand** | If reduced to negative Vit❤️; act normally until end of rnd |
 | 1-Enc | M | **Linebreaker** | Move MR👣 through foes; each must Block🛡️ (Might💪) or fall Prone |
-| 1-⚡ | P | **Names of the Fallen** | Speak shield’s names; allies in earshot next Nish🚩+2 |
+| 1-Enc | P | **Names of the Fallen** | Speak shield’s names; allies in earshot next Nish🚩+2 |
 | 2-Enc | A | **Oathbound Fury** | If your Wounds ≥ half Vit❤️; Atk+2 this rnd |
 | 1-⚡ | AM | **Phalanx Advance** | Move with shield raised; allies in 2sq gain AR🧥+1 this rnd |
 | 1-Enc | AM | **Phalanx Drive** | Move double MR👣; Atk with Spear; Dmg💥+2 |

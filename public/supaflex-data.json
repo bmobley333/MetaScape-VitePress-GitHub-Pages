@@ -3495,12 +3495,12 @@
     {
       "id": 53,
       "name": "Names of the Fallen",
-      "usage": "1-⚡",
+      "usage": "1-Enc",
       "action": "P",
       "effect": "Speak shield’s names; allies in earshot next Nish🚩+2",
       "source": "Shieldbearer / Executioner",
       "created_at": "2026-07-18T15:14:47.023782+00:00",
-      "dropdown": "Cursed Spartan - Names of the Fallen⚡ (1-⚡, P) ➡ Speak shield’s names; allies in earshot next Nish🚩+2",
+      "dropdown": "Cursed Spartan - Names of the Fallen (1-Enc, P) ➡ Speak shield’s names; allies in earshot next Nish🚩+2",
       "sub": "Class",
       "table_name": "Cursed Spartan"
     },
