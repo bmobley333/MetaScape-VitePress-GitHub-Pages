@@ -79,7 +79,7 @@ Select one of the many sub-sets of powers such as Class👤, Race🧬, Combat St
 | 1-Enc | M | **Linebreaker** | Move MR👣 through foes; each must Block🛡️ (Might💪) or fall Prone |
 | 1-Enc | P | **Names of the Fallen** | Speak shield’s names; allies in earshot next Nish🚩+2 |
 | 2-Enc | A | **Oathbound Fury** | If your Wounds ≥ half Vit❤️; Atk+2 this rnd |
-| 1-⚡ | AM | **Phalanx Advance** | Move with shield raised; allies in 2sq gain AR🧥+1 this rnd |
+| 1-⚡ | AM | **Phalanx Advance** | Move with spear drawn & shield raised; Spear Atk auto-hits; allies in 2sq gain AR🧥+2 this rnd |
 | 1-Enc | AM | **Phalanx Drive** | Move double MR👣; Atk with Spear; Dmg💥+2 |
 | 1-Enc | P | **Shield Interpose** | One adjacent ally’s Def+2 vs 1 Atk |
 | 1-Enc | A | **Shield Ram** | Roll shield Def as Atk at AR🧥+1 as Dmg💥 and Might💪 pushws target d4sq |

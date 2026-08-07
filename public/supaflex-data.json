@@ -3773,10 +3773,10 @@
       "name": "Phalanx Advance",
       "usage": "1-⚡",
       "action": "AM",
-      "effect": "Move with shield raised; allies in 2sq gain AR🧥+1 this rnd",
+      "effect": "Move with spear drawn & shield raised; Spear Atk auto-hits; allies in 2sq gain AR🧥+2 this rnd",
       "source": "Shieldbearer / Executioner",
       "created_at": "2026-07-18T15:14:47.023782+00:00",
-      "dropdown": "Cursed Spartan - Phalanx Advance⚡ (1-⚡, AM) ➡ Move with shield raised; allies in 2sq gain AR🧥+1 this rnd",
+      "dropdown": "Cursed Spartan - Phalanx Advance⚡ (1-⚡, AM) ➡ Move with spear drawn & shield raised; Spear Atk auto-hits; allies in 2sq gain AR🧥+2 this rnd",
       "sub": "Class",
       "table_name": "Cursed Spartan"
     },
