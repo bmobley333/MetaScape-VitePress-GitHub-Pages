@@ -662,7 +662,6 @@ Spend AP to Improve Abilities (1–2 AP):
 * Manage Shields — Learn Shield (1 AP)
 * Manage Vitality — Gain +2 Max Vit (1 AP)
 * Manage Powers — Learn Power (1 AP) | Upgrade Power (1 AP)
-* Manage Magic Items — Acquire Minor Item (1 AP) | Upgrade Any Magic Item (1 AP)
 
 Special AP Expenditures (2–8 AP):
 * Manage Attributes — Step-Up Attribute Die (2–8 AP) | Respec Attributes (1 AP)
