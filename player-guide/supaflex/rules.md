@@ -698,7 +698,6 @@ Spend AP to Improve Abilities (1–2 AP):
 • Manage Shields — Learn Shield (1 AP)
 • Manage Vitality — Gain +2 Max Vit (1 AP)
 • Manage Powers — Learn Power (1 AP) | Upgrade Power (1 AP)
-• Manage Magic Items — Acquire Minor Item (1 AP) | Upgrade Any Magic Item (1 AP)
 
 Special AP Expenditures (2–8 AP):
 • Manage Attributes — Step-Up Attribute Die (2–8 AP) | Respec Attributes (1 AP)
@@ -732,7 +731,7 @@ Spend your accumulated AP🧩 across 3 structured tiers of progression:
 
 The 1-AP Augment System (Advancement Without Version Trees):
 
-Character advancement relies on Horizontal Augments without rigid hierarchical version trees. Spending 1 AP (🧩) upgrades an existing Power🔥 or Magic Item✨ along one of four non-hierarchical vectors:
+Character advancement relies on Horizontal Augments without rigid hierarchical version trees. Spending 1 AP (🧩) upgrades an existing Power🔥 along one of four non-hierarchical vectors:
 
 * **Vector 1: Mechanical Punch (Effect Augment):** Upgrade damage or healing die tier ($d4 \rightarrow d6 \rightarrow d8 \rightarrow d10 \rightarrow d12$) or expand target count by +1.
 * **Vector 2: Action Compression (Economy Augment — MANDATORY BALANCE RULE):** Compress action cost down the compression chain ($\text{AM} \rightarrow \text{A} \rightarrow \text{M} \rightarrow \text{P} \rightarrow \text{F}$) or unlock Mobile Striker split-movement ("You may split your movement before and after this attack"). **Balance Rule:** Action Compression is strictly capped at **1 Compression Upgrade per Power** to prevent dominant action-economy abuse.
@@ -743,7 +742,7 @@ Character advancement relies on Horizontal Augments without rigid hierarchical v
 | --- | --- |
 | **Powers🔥** | • Gain 1 new Power🔥 (any listed or GM-approved custom) — **1 AP**<br>• Randomly roll one Power🔥. If duplicate $\rightarrow$ gain **1 Free Augment Token** instead of flat +1 — **1 AP**<br>• Upgrade an existing Power🔥 (stronger effect, extra use, or twist) — **1 AP** |
 | **Skills🎓** | • Gain skill🎓 in any new SINGLE weapon, armor🧥 or skill🎓 — **1 AP**<br>• Learn a new Skill Set🎓 (e.g., Thievery) — **2 AP** |
-| **Gear🧰 & Magic Items✨** | • Gain or upgrade a Weapon, Armor🧥, or Item — **1 AP**<br>• Acquire a Minor🍺 Magic Item — **1 AP**<br>• Upgrade a Magic Item Power🔥 (e.g., $1\text{-Enc} \rightarrow 2\text{-Enc} \rightarrow 3\text{-Enc}$ max cap) — **1 AP** |
+| **Gear🧰 & Equipment** | • Gain or upgrade a Weapon, Armor🧥, or Shield — **1 AP**<br>• *Note: Magic Items✨ are acquired via loot/rewards and cost **0 AP**.* |
 | **Vit❤️** | • Gain +2 Vit❤️ — **1 AP** |
 | **Atr✅** | • Reshuffle (swap some/all of your Atr✅ dice) — **1 AP** *(Downtime / Milestone Level-Up Only)* |
 
