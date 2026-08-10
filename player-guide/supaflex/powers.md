@@ -452,7 +452,7 @@ Select one of the many sub-sets of powers such as Class👤, Race🧬, Combat St
 | 1-⚡ | P | **Ale Fortitude** | Resist✨ vs poison/fearwith Advantage for Encounter |
 | 1-Enc | F | **Ancestral Boon** | Next roll Roll+2 |
 | 1-Enc | M | **Climb Like Iron** | Motion🏃 climb rolls with Advantage |
-| 1-Enc | A | **Construct Siege Weapon** | Summon an implacement siege weapon (ballista) with 6 shots (spears) of d10 Dmg💥; Def-3 while using |
+| 1-Enc | A | **Construct Siege Weapon** | Summon implacement ballista for encounter user can shoot javelins Mind👁️ Atk, Dmg d10💥; Def-3 while using |
 | 1-Enc | P | **Forge-Touched** | Touch weapon; Dmg💥+1 for Encounter |
 | 1-⚡ | F | **Loyal Heart** | Allies in 2sq Resist✨+1 for Encounter |
 | 1-Enc | M | **Rune of Endurance** | Inscribe glowing rune on self; AR🧥+2 for 1 rnd |

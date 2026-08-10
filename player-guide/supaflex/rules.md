@@ -190,7 +190,7 @@ M/H/S (Melee, Hurled, Shot) – Shorthand for weapon types.
 
 Magic Item✨ – Magical items categorized as Minor🍺, Lesser🪄, Greater🪬, or Artifact💫.
 
-Max Block🧱 – The maximum monster damage a melee weapon or shield can block.
+Block Cap🧱 – The maximum monster damage a melee weapon or shield can block.
 
 Mgt💪 (Might💪) – Attribute✅ for brute force, melee weapons Atk⚔️ and Dmg💥, armor size (Strength Saves), block Def, shields, physical strength, lifting
 
@@ -232,7 +232,7 @@ Skill🎓 – An ability roll using #d20 + d(Atr) + Bonus, usually vs. a GM-set
 
 Skill Set🎓 – A logical collection of related skills (e.g., Thievery includes climb, pick locks, stealth).
 
-Stats – All recorded values: Atr, Vit, MR, Def, Atk, Max Block, Actions, Usage, etc.
+Stats – All recorded values: Atr, Vit, MR, Def, Atk, Block Cap, Actions, Usage, etc.
 
 Tremendous🌟 – A natural 20 on any d20 in an ability roll.
 
@@ -397,7 +397,7 @@ Critical Skill Check🎓 – Your attempt to sneak trips a noisy latch; you’re
 
 Double Tremendous Attack⚔️ – A warhammer strike obliterates your target outright, then ricochets with supernatural force into 1d4 nearby enemies for max Dmg💥 before returning to your hand.
 
-Double Tremendous Defense🛡️ – Your block not only deflects the blow but rebounds it — the attacker suffers their own full Dmg💥, and you may immediately reposition 3 squares and gain +3 Max Block for the rest of the Enc.
+Double Tremendous Defense🛡️ – Your block not only deflects the blow but rebounds it — the attacker suffers their own full Dmg💥, and you may immediately reposition 3 squares and gain +3 Block Cap for the rest of the Enc.
 
 Double Tremendous Skill Check🎓 – Your persuasion is so compelling that the guard doesn’t just let you through — he convinces his comrades to fight at your side for the rest of the Enc and remains your lifelong ally.💀💀 Double Critical (Two Natural 1s)
 
@@ -1099,7 +1099,7 @@ Movement Rate (MR 👣) Penalty:
 
 All Armor’s Defense (Dod/AR or Blk/AR): Dodge 🤸 = Motion🏃, Block 🧱 = Might💪.
 
-Shields🛡️ provide a Max Block🧱 rating, which functions the same as weapon⚔️ Max Block (it applies to any attack that “could” be Dodged, if the shield’s Max Block🧱 is ≥ the monster’s Dmg💥).
+Shields🛡️ provide a Block Cap🧱 rating, which functions the same as weapon⚔️ Block Cap (it applies to any attack that “could” be Dodged, if the shield’s Block Cap🧱 is ≥ the monster’s Dmg💥).
 
 The key advantage of shields🛡️ is that their Block🧱 is rolled at +1 die step above the Might💪 requirement. The tradeoff is reduced MR👣 and tying up your off-hand.
 
@@ -1107,7 +1107,7 @@ MR👣 impact applies only when the shield🛡️ is wielded (drawn and readied)
 
 Small shields🛡️ (bucklers, bracers, vambraces) offer mobility and count as part of regular Armor🧥; they are not large enough to be considered true shields🛡️ in MetaScape.
 
-Large shields🛡️ provide greater Max Block🧱 protection but impose greater limits on mobility.
+Large shields🛡️ provide greater Block Cap🧱 protection but impose greater limits on mobility.
 
 ## ⚔️🛡️ Combat Sequence
 
@@ -1166,7 +1166,7 @@ Monster Declares Atk⚔️.
 
 Player Defense Roll: 2H20 + Atr✅ Die + Bonus using:
 
-Might💪 (Block🧱): for any attack that “could” be Dodged, if armed with equal/larger Max Block🧱 weapon⚔️ or shield🧱.
+Might💪 (Block🧱): for any attack that “could” be Dodged, if armed with equal/larger Block Cap🧱 weapon⚔️ or shield🧱.
 
 Motion🏃 (Dodge): nearly always valid.
 
@@ -1322,7 +1322,7 @@ Example Entries:
 
 * Discordant Chord | A / 1-Rnd → Magic✨ attack vs all Short foes for d4 Dmg.
 * Cyclone Kick | A / 1-Enc → 1-⚡ → Motion🏃 attack dealing d8 Dmg and pushing target d4 sq.
-* Blade Parry | F / 2-Enc → On hit in Melee: Auto-succeed a weapon Block🛡️ (up to Max Block).
+* Blade Parry | F / 2-Enc → On hit in Melee: Auto-succeed a weapon Block🛡️ (up to Block Cap).
 * Bardic Bluff | P / 1-Enc → Mind👁️ check vs target's Mind👁️ with Advantage (2H20) to deceive or distract.
 * Frost Pebble (Minor Item) | A / 1-Enc → Hurled Motion🏃 attack vs Short target for Magic✨ + d4 Cold Dmg.
 

@@ -1049,10 +1049,10 @@
       "name": "Construct Siege Weapon",
       "usage": "1-Enc",
       "action": "A",
-      "effect": "Summon an implacement siege weapon (ballista) with 6 shots (spears) of d10 Dmg💥; Def-3 while using",
+      "effect": "Summon implacement ballista for encounter user can shoot javelins Mind👁️ Atk, Dmg d10💥; Def-3 while using",
       "source": "Dwarf",
       "created_at": "2026-07-19T02:53:23.831313+00:00",
-      "dropdown": "Dwarf (Blackaxe Clan) - Construct Siege Weapon⚡ (1-Enc, A) ➡ Summon an implacement siege weapon (ballista) with 6 shots (spears) of d10 Dmg💥; Def-3 while using",
+      "dropdown": "Dwarf (Blackaxe Clan) - Construct Siege Weapon⚡ (1-Enc, A) ➡ Summon implacement ballista for encounter user can shoot javelins Mind👁️ Atk, Dmg d10💥; Def-3 while using",
       "sub": "Race",
       "table_name": "Dwarf (Blackaxe Clan)"
     },
