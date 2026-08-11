@@ -6334,9 +6334,9 @@
       "effect": "If bearer is dropped to 0 or less❤️, auto-revive to 1❤️",
       "source": "DB",
       "created_at": "2026-07-18T15:15:18.698492+00:00",
-      "dropdown": "Artifact🌀 - Ankh of the Undying (1-Enc, F) ➡ If bearer is dropped to 0 or less❤️, auto-revive to 1❤️",
-      "sub": "Artifact",
-      "table_name": "Artifact🌀 Magic Items"
+      "dropdown": "Epic💫 - Ankh of the Undying (1-Enc, F) ➡ If bearer is dropped to 0 or less❤️, auto-revive to 1❤️",
+      "sub": "Epic",
+      "table_name": "Epic💫 Magic Items"
     },
     {
       "id": 43,
@@ -6394,9 +6394,9 @@
       "effect": "Allies Nish🚩+2 while carried for encounter",
       "source": "DB",
       "created_at": "2026-07-18T15:15:18.698492+00:00",
-      "dropdown": "Artifact🌀 - Banner of Eternity (1-⚡, P) ➡ Allies Nish🚩+2 while carried for encounter",
-      "sub": "Artifact",
-      "table_name": "Artifact🌀 Magic Items"
+      "dropdown": "Epic💫 - Banner of Eternity (1-⚡, P) ➡ Allies Nish🚩+2 while carried for encounter",
+      "sub": "Epic",
+      "table_name": "Epic💫 Magic Items"
     },
     {
       "id": 80,
@@ -6430,9 +6430,9 @@
       "effect": "Summon omen of cataclysm (major effect as per GM🔎)",
       "source": "DB",
       "created_at": "2026-07-18T15:15:18.698492+00:00",
-      "dropdown": "Artifact🌀 - Bell of Worlds End (1, AM) ➡ Summon omen of cataclysm (major effect as per GM🔎)",
-      "sub": "Artifact",
-      "table_name": "Artifact🌀 Magic Items"
+      "dropdown": "Epic💫 - Bell of Worlds End (1, AM) ➡ Summon omen of cataclysm (major effect as per GM🔎)",
+      "sub": "Epic",
+      "table_name": "Epic💫 Magic Items"
     },
     {
       "id": 46,
@@ -6454,9 +6454,9 @@
       "effect": "On hit, target forgets last 24h; Dmg💥 +d8",
       "source": "DB",
       "created_at": "2026-07-18T15:15:18.698492+00:00",
-      "dropdown": "Artifact🌀 - Blade of Final Memory (1-⚡, A) ➡ On hit, target forgets last 24h; Dmg💥 +d8",
-      "sub": "Artifact",
-      "table_name": "Artifact🌀 Magic Items"
+      "dropdown": "Epic💫 - Blade of Final Memory (1-⚡, A) ➡ On hit, target forgets last 24h; Dmg💥 +d8",
+      "sub": "Epic",
+      "table_name": "Epic💫 Magic Items"
     },
     {
       "id": 209,
@@ -6538,9 +6538,9 @@
       "effect": "MR👣 doubled for encounter; leave whirlwind trail (foes Rolls-1)",
       "source": "DB",
       "created_at": "2026-07-18T15:15:18.698492+00:00",
-      "dropdown": "Artifact🌀 - Boots of the Cyclone (1-Enc, M) ➡ MR👣 doubled for encounter; leave whirlwind trail (foes Rolls-1)",
-      "sub": "Artifact",
-      "table_name": "Artifact🌀 Magic Items"
+      "dropdown": "Epic💫 - Boots of the Cyclone (1-Enc, M) ➡ MR👣 doubled for encounter; leave whirlwind trail (foes Rolls-1)",
+      "sub": "Epic",
+      "table_name": "Epic💫 Magic Items"
     },
     {
       "id": 210,
@@ -6634,9 +6634,9 @@
       "effect": "Magic✨ binds target",
       "source": "DB",
       "created_at": "2026-07-18T15:15:18.698492+00:00",
-      "dropdown": "Artifact🌀 - Chains of Oblivion (1-⚡, A) ➡ Magic✨ binds target",
-      "sub": "Artifact",
-      "table_name": "Artifact🌀 Magic Items"
+      "dropdown": "Epic💫 - Chains of Oblivion (1-⚡, A) ➡ Magic✨ binds target",
+      "sub": "Epic",
+      "table_name": "Epic💫 Magic Items"
     },
     {
       "id": 144,
@@ -6646,9 +6646,9 @@
       "effect": "Heal 2d6 Vit❤️ to all allies in 4sq",
       "source": "DB",
       "created_at": "2026-07-18T15:15:18.698492+00:00",
-      "dropdown": "Artifact🌀 - Chalice of Renewal (1-⚡, P) ➡ Heal 2d6 Vit❤️ to all allies in 4sq",
-      "sub": "Artifact",
-      "table_name": "Artifact🌀 Magic Items"
+      "dropdown": "Epic💫 - Chalice of Renewal (1-⚡, P) ➡ Heal 2d6 Vit❤️ to all allies in 4sq",
+      "sub": "Epic",
+      "table_name": "Epic💫 Magic Items"
     },
     {
       "id": 169,
@@ -6754,9 +6754,9 @@
       "effect": "Teleport up to 1 mile",
       "source": "DB",
       "created_at": "2026-07-18T15:15:18.698492+00:00",
-      "dropdown": "Artifact🌀 - Cloak of Endless Steps (1-⚡, M) ➡ Teleport up to 1 mile",
-      "sub": "Artifact",
-      "table_name": "Artifact🌀 Magic Items"
+      "dropdown": "Epic💫 - Cloak of Endless Steps (1-⚡, M) ➡ Teleport up to 1 mile",
+      "sub": "Epic",
+      "table_name": "Epic💫 Magic Items"
     },
     {
       "id": 171,
@@ -6802,9 +6802,9 @@
       "effect": "Know and speak true name; all Rolls+2 vs that target",
       "source": "DB",
       "created_at": "2026-07-18T15:15:18.698492+00:00",
-      "dropdown": "Artifact🌀 - Codex of All Names (1-⚡, A) ➡ Know and speak true name; all Rolls+2 vs that target",
-      "sub": "Artifact",
-      "table_name": "Artifact🌀 Magic Items"
+      "dropdown": "Epic💫 - Codex of All Names (1-⚡, A) ➡ Know and speak true name; all Rolls+2 vs that target",
+      "sub": "Epic",
+      "table_name": "Epic💫 Magic Items"
     },
     {
       "id": 89,
@@ -6862,9 +6862,9 @@
       "effect": "Summon 1d4+1 beast allies (Vit❤️ 6 each) for encounter",
       "source": "DB",
       "created_at": "2026-07-18T15:15:18.698492+00:00",
-      "dropdown": "Artifact🌀 - Crown of Beasts (1-⚡, A) ➡ Summon 1d4+1 beast allies (Vit❤️ 6 each) for encounter",
-      "sub": "Artifact",
-      "table_name": "Artifact🌀 Magic Items"
+      "dropdown": "Epic💫 - Crown of Beasts (1-⚡, A) ➡ Summon 1d4+1 beast allies (Vit❤️ 6 each) for encounter",
+      "sub": "Epic",
+      "table_name": "Epic💫 Magic Items"
     },
     {
       "id": 148,
@@ -6874,9 +6874,9 @@
       "effect": "Dispel all darkness for encounter",
       "source": "DB",
       "created_at": "2026-07-18T15:15:18.698492+00:00",
-      "dropdown": "Artifact🌀 - Crown of Light (1-Enc, M) ➡ Dispel all darkness for encounter",
-      "sub": "Artifact",
-      "table_name": "Artifact🌀 Magic Items"
+      "dropdown": "Epic💫 - Crown of Light (1-Enc, M) ➡ Dispel all darkness for encounter",
+      "sub": "Epic",
+      "table_name": "Epic💫 Magic Items"
     },
     {
       "id": 149,
@@ -6886,9 +6886,9 @@
       "effect": "All foes in 6sqR AoE Rolls-1 for encounter; AoE follows PC",
       "source": "DB",
       "created_at": "2026-07-18T15:15:18.698492+00:00",
-      "dropdown": "Artifact🌀 - Crown of Static (1-Enc, A) ➡ All foes in 6sqR AoE Rolls-1 for encounter; AoE follows PC",
-      "sub": "Artifact",
-      "table_name": "Artifact🌀 Magic Items"
+      "dropdown": "Epic💫 - Crown of Static (1-Enc, A) ➡ All foes in 6sqR AoE Rolls-1 for encounter; AoE follows PC",
+      "sub": "Epic",
+      "table_name": "Epic💫 Magic Items"
     },
     {
       "id": 91,
@@ -7126,9 +7126,9 @@
       "effect": "AR🧥+d6 & MR👣-1/rnd while worn",
       "source": "DB",
       "created_at": "2026-07-18T15:15:18.698492+00:00",
-      "dropdown": "Artifact🌀 - Gargoyle’s Heart (1-Enc, P) ➡ AR🧥+d6 & MR👣-1/rnd while worn",
-      "sub": "Artifact",
-      "table_name": "Artifact🌀 Magic Items"
+      "dropdown": "Epic💫 - Gargoyle’s Heart (1-Enc, P) ➡ AR🧥+d6 & MR👣-1/rnd while worn",
+      "sub": "Epic",
+      "table_name": "Epic💫 Magic Items"
     },
     {
       "id": 102,
@@ -7150,9 +7150,9 @@
       "effect": "Strike adds +2💪 to Atk & Dmg💥 for encounter",
       "source": "DB",
       "created_at": "2026-07-18T15:15:18.698492+00:00",
-      "dropdown": "Artifact🌀 - Gauntlet of the Titan (1-Enc, A) ➡ Strike adds +2💪 to Atk & Dmg💥 for encounter",
-      "sub": "Artifact",
-      "table_name": "Artifact🌀 Magic Items"
+      "dropdown": "Epic💫 - Gauntlet of the Titan (1-Enc, A) ➡ Strike adds +2💪 to Atk & Dmg💥 for encounter",
+      "sub": "Epic",
+      "table_name": "Epic💫 Magic Items"
     },
     {
       "id": 103,
@@ -7270,9 +7270,9 @@
       "effect": "All foes in 8sq must Nish🚩 vs 15 or lose 1 rnd",
       "source": "DB",
       "created_at": "2026-07-18T15:15:18.698492+00:00",
-      "dropdown": "Artifact🌀 - Harp of Discord (1-⚡, A) ➡ All foes in 8sq must Nish🚩 vs 15 or lose 1 rnd",
-      "sub": "Artifact",
-      "table_name": "Artifact🌀 Magic Items"
+      "dropdown": "Epic💫 - Harp of Discord (1-⚡, A) ➡ All foes in 8sq must Nish🚩 vs 15 or lose 1 rnd",
+      "sub": "Epic",
+      "table_name": "Epic💫 Magic Items"
     },
     {
       "id": 108,
@@ -7318,9 +7318,9 @@
       "effect": "Sound blast; all foes in line 6sq make Resist✨ or take d10 sonic Dmg💥",
       "source": "DB",
       "created_at": "2026-07-18T15:15:18.698492+00:00",
-      "dropdown": "Artifact🌀 - Horn of Ruin (1-Enc, A) ➡ Sound blast; all foes in line 6sq make Resist✨ or take d10 sonic Dmg💥",
-      "sub": "Artifact",
-      "table_name": "Artifact🌀 Magic Items"
+      "dropdown": "Epic💫 - Horn of Ruin (1-Enc, A) ➡ Sound blast; all foes in line 6sq make Resist✨ or take d10 sonic Dmg💥",
+      "sub": "Epic",
+      "table_name": "Epic💫 Magic Items"
     },
     {
       "id": 154,
@@ -7330,9 +7330,9 @@
       "effect": "Reroll any one roll",
       "source": "DB",
       "created_at": "2026-07-18T15:15:18.698492+00:00",
-      "dropdown": "Artifact🌀 - Hourglass of Fate (1-Enc, F) ➡ Reroll any one roll",
-      "sub": "Artifact",
-      "table_name": "Artifact🌀 Magic Items"
+      "dropdown": "Epic💫 - Hourglass of Fate (1-Enc, F) ➡ Reroll any one roll",
+      "sub": "Epic",
+      "table_name": "Epic💫 Magic Items"
     },
     {
       "id": 9,
@@ -7354,9 +7354,9 @@
       "effect": "Magic✨ as a wish (GM🔎 interprets result)",
       "source": "DB",
       "created_at": "2026-07-18T15:15:18.698492+00:00",
-      "dropdown": "Artifact🌀 - Infinite Dice (1-⚡, F) ➡ Magic✨ as a wish (GM🔎 interprets result)",
-      "sub": "Artifact",
-      "table_name": "Artifact🌀 Magic Items"
+      "dropdown": "Epic💫 - Infinite Dice (1-⚡, F) ➡ Magic✨ as a wish (GM🔎 interprets result)",
+      "sub": "Epic",
+      "table_name": "Epic💫 Magic Items"
     },
     {
       "id": 10,
@@ -7510,9 +7510,9 @@
       "effect": "All illusions in 6sq dispelled for encounter",
       "source": "DB",
       "created_at": "2026-07-18T15:15:18.698492+00:00",
-      "dropdown": "Artifact🌀 - Lantern of Clarity (1-Enc, P) ➡ All illusions in 6sq dispelled for encounter",
-      "sub": "Artifact",
-      "table_name": "Artifact🌀 Magic Items"
+      "dropdown": "Epic💫 - Lantern of Clarity (1-Enc, P) ➡ All illusions in 6sq dispelled for encounter",
+      "sub": "Epic",
+      "table_name": "Epic💫 Magic Items"
     },
     {
       "id": 113,
@@ -7618,9 +7618,9 @@
       "effect": "Ignore aging; narrative effect only",
       "source": "DB",
       "created_at": "2026-07-18T15:15:18.698492+00:00",
-      "dropdown": "Artifact🌀 - Mask of Eternity (Perm, F) ➡ Ignore aging; narrative effect only",
-      "sub": "Artifact",
-      "table_name": "Artifact🌀 Magic Items"
+      "dropdown": "Epic💫 - Mask of Eternity (Perm, F) ➡ Ignore aging; narrative effect only",
+      "sub": "Epic",
+      "table_name": "Epic💫 Magic Items"
     },
     {
       "id": 114,
@@ -7678,9 +7678,9 @@
       "effect": "Identical self steps out for 1 rnd",
       "source": "DB",
       "created_at": "2026-07-18T15:15:18.698492+00:00",
-      "dropdown": "Artifact🌀 - Mirror of the Other You (1-⚡, P) ➡ Identical self steps out for 1 rnd",
-      "sub": "Artifact",
-      "table_name": "Artifact🌀 Magic Items"
+      "dropdown": "Epic💫 - Mirror of the Other You (1-⚡, P) ➡ Identical self steps out for 1 rnd",
+      "sub": "Epic",
+      "table_name": "Epic💫 Magic Items"
     },
     {
       "id": 61,
@@ -7798,9 +7798,9 @@
       "effect": "Peer into another plane; ask one yes/no question",
       "source": "DB",
       "created_at": "2026-07-18T15:15:18.698492+00:00",
-      "dropdown": "Artifact🌀 - Orb of Worlds (1-⚡, P) ➡ Peer into another plane; ask one yes/no question",
-      "sub": "Artifact",
-      "table_name": "Artifact🌀 Magic Items"
+      "dropdown": "Epic💫 - Orb of Worlds (1-⚡, P) ➡ Peer into another plane; ask one yes/no question",
+      "sub": "Epic",
+      "table_name": "Epic💫 Magic Items"
     },
     {
       "id": 65,
@@ -7930,9 +7930,9 @@
       "effect": "Poison aura; all foes in 3sqR Rolls-2 vs Resist✨",
       "source": "DB",
       "created_at": "2026-07-18T15:15:18.698492+00:00",
-      "dropdown": "Artifact🌀 - Ring of the Serpent (1-Enc, P) ➡ Poison aura; all foes in 3sqR Rolls-2 vs Resist✨",
-      "sub": "Artifact",
-      "table_name": "Artifact🌀 Magic Items"
+      "dropdown": "Epic💫 - Ring of the Serpent (1-Enc, P) ➡ Poison aura; all foes in 3sqR Rolls-2 vs Resist✨",
+      "sub": "Epic",
+      "table_name": "Epic💫 Magic Items"
     },
     {
       "id": 123,
@@ -8002,9 +8002,9 @@
       "effect": "Magic✨ Atk; d12 lightning Dmg💥 in 4x4sq",
       "source": "DB",
       "created_at": "2026-07-18T15:15:18.698492+00:00",
-      "dropdown": "Artifact🌀 - Scepter of Storms (1-⚡, A) ➡ Magic✨ Atk; d12 lightning Dmg💥 in 4x4sq",
-      "sub": "Artifact",
-      "table_name": "Artifact🌀 Magic Items"
+      "dropdown": "Epic💫 - Scepter of Storms (1-⚡, A) ➡ Magic✨ Atk; d12 lightning Dmg💥 in 4x4sq",
+      "sub": "Epic",
+      "table_name": "Epic💫 Magic Items"
     },
     {
       "id": 20,
@@ -8050,9 +8050,9 @@
       "effect": "Suggest plot alteration (results at GM🔎’s discretion)",
       "source": "DB",
       "created_at": "2026-07-18T15:15:18.698492+00:00",
-      "dropdown": "Artifact🌀 - Shard of Infinity (1, AM) ➡ Suggest plot alteration (results at GM🔎’s discretion)",
-      "sub": "Artifact",
-      "table_name": "Artifact🌀 Magic Items"
+      "dropdown": "Epic💫 - Shard of Infinity (1, AM) ➡ Suggest plot alteration (results at GM🔎’s discretion)",
+      "sub": "Epic",
+      "table_name": "Epic💫 Magic Items"
     },
     {
       "id": 125,
@@ -8074,9 +8074,9 @@
       "effect": "Reflect first Magic✨ Atk back at caster",
       "source": "DB",
       "created_at": "2026-07-18T15:15:18.698492+00:00",
-      "dropdown": "Artifact🌀 - Shield of Echoes (1-Enc, P) ➡ Reflect first Magic✨ Atk back at caster",
-      "sub": "Artifact",
-      "table_name": "Artifact🌀 Magic Items"
+      "dropdown": "Epic💫 - Shield of Echoes (1-Enc, P) ➡ Reflect first Magic✨ Atk back at caster",
+      "sub": "Epic",
+      "table_name": "Epic💫 Magic Items"
     },
     {
       "id": 126,
@@ -8194,9 +8194,9 @@
       "effect": "Ranged strike; auto-hits 1 target in sight; Dmg💥 d12",
       "source": "DB",
       "created_at": "2026-07-18T15:15:18.698492+00:00",
-      "dropdown": "Artifact🌀 - Spear of the Horizon (1-⚡, A) ➡ Ranged strike; auto-hits 1 target in sight; Dmg💥 d12",
-      "sub": "Artifact",
-      "table_name": "Artifact🌀 Magic Items"
+      "dropdown": "Epic💫 - Spear of the Horizon (1-⚡, A) ➡ Ranged strike; auto-hits 1 target in sight; Dmg💥 d12",
+      "sub": "Epic",
+      "table_name": "Epic💫 Magic Items"
     },
     {
       "id": 179,
@@ -8242,9 +8242,9 @@
       "effect": "Firestorm AoE 4x4sq; Magic✨ d12 fire Dmg💥",
       "source": "DB",
       "created_at": "2026-07-18T15:15:18.698492+00:00",
-      "dropdown": "Artifact🌀 - Staff of Eternal Flame (1-⚡, A) ➡ Firestorm AoE 4x4sq; Magic✨ d12 fire Dmg💥",
-      "sub": "Artifact",
-      "table_name": "Artifact🌀 Magic Items"
+      "dropdown": "Epic💫 - Staff of Eternal Flame (1-⚡, A) ➡ Firestorm AoE 4x4sq; Magic✨ d12 fire Dmg💥",
+      "sub": "Epic",
+      "table_name": "Epic💫 Magic Items"
     },
     {
       "id": 71,
@@ -8386,9 +8386,9 @@
       "effect": "Summon & sit; command undead in 8sq for encounter",
       "source": "DB",
       "created_at": "2026-07-18T15:15:18.698492+00:00",
-      "dropdown": "Artifact🌀 - Throne of Ashes (1-⚡, A) ➡ Summon & sit; command undead in 8sq for encounter",
-      "sub": "Artifact",
-      "table_name": "Artifact🌀 Magic Items"
+      "dropdown": "Epic💫 - Throne of Ashes (1-⚡, A) ➡ Summon & sit; command undead in 8sq for encounter",
+      "sub": "Epic",
+      "table_name": "Epic💫 Magic Items"
     },
     {
       "id": 132,
@@ -8434,9 +8434,9 @@
       "effect": "Read aloud; Magic✨ Atk vs all foes in 6sq; on fail, stunned 1 rnd",
       "source": "DB",
       "created_at": "2026-07-18T15:15:18.698492+00:00",
-      "dropdown": "Artifact🌀 - Tome of Forgotten Stars (1-⚡, A) ➡ Read aloud; Magic✨ Atk vs all foes in 6sq; on fail, stunned 1 rnd",
-      "sub": "Artifact",
-      "table_name": "Artifact🌀 Magic Items"
+      "dropdown": "Epic💫 - Tome of Forgotten Stars (1-⚡, A) ➡ Read aloud; Magic✨ Atk vs all foes in 6sq; on fail, stunned 1 rnd",
+      "sub": "Epic",
+      "table_name": "Epic💫 Magic Items"
     },
     {
       "id": 28,
