@@ -1614,6 +1614,24 @@ If the encounter does not list specific treasure, a treasure roll is typical aft
 > - Roll loot dynamically using the **[Loot Generator Modal](/player-guide/supaflex/tables)** in SupaFlex.
 > - View the complete treasure matrix in the **[Interactive Tables Catalog](/player-guide/supaflex/tables)**.
 
+### 🧪 Essence & Disenchanting Engine
+
+Unwanted loot drops may be disenchanted directly into personal **Essence Core** progress. Filling the Essence Core allows players to craft custom or targeted magic items from the Essence Crafting Modal.
+
+#### 50% Disenchant Recycling Ratios
+Disenchanting an item returns **50% of the Essence required to craft a new item of that same tier**:
+
+| Item Tier / Drop Type | Crafting Cost | Disenchant Yield | Recycle Ratio |
+| :--- | :---: | :---: | :---: |
+| **Minor / Standard Drop (`🍺`)** | 15% | **+8%** | 53% |
+| **Lesser Magic Item (`🪄`)** | 25% | **+12%** | 48% |
+| **Greater Magic Item (`✨`)** | 50% | **+25%** | 50% |
+| **Epic Magic Item (`💫`)** | 100% | **+50%** | 50% |
+
+#### 🛡️ Essence Protection Rule
+- **Single Subtraction Vector:** Claiming a crafted reward in the `ESSENCE CRAFTING!` modal is the **ONLY** event permitted to subtract or consume Essence Core progress.
+- **Zero-Loss Deconstructing:** Closing or deconstructing a draft choice discards the draft choices while preserving current Essence 100% intact.
+
 
 ## 🔎 GM Tricks
 
