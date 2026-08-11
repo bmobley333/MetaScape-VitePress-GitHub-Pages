@@ -44,7 +44,7 @@ The five Attribute✅ (Atr) emojis🙂 can be used both following their key word
 
 Monster stats place the emojis before key numbers or number sets as in:
 
-4 Orc Guards (Heavy Leather, Scimitars, Bucklers) 🚩14, 👣10, ⚔️18/12(2), 🛡️16/2, ❤️12 – [💪18/🏃12/👁️10/✨10/🫀12] (Poisoned blades Magic✨ or Weakened).
+4 Orc Guards (Heavy Leather, Scimitars, Bucklers) 🚩14, 👣10, ⚔️18/12, 🛡️16/2, ❤️12 – [💪18/🏃12/👁️10/✨10/🫀12] (Poisoned blades Magic✨ or Weakened).
 
 | Sorted by Term📖 |  |  | Sorted by Emoji🙂 |  |
 | --- | --- | --- | --- | --- |
@@ -126,7 +126,7 @@ Monster stats place the emojis before key numbers or number sets as in:
 
 Example Monster Stats:
 
-4 Orc Guards (Heavy Leather, Scimitars, Bucklers) 🚩14, 👣10, ⚔️18/12(2), 🛡️16/2, ❤️12 – [💪18/🏃12/👁️10/✨10/🫀12] (Poisoned blades Magic✨ or Weakened).
+4 Orc Guards (Heavy Leather, Scimitars, Bucklers) 🚩14, 👣10, ⚔️18/12, 🛡️16/2, ❤️12 – [💪18/🏃12/👁️10/✨10/🫀12] (Poisoned blades Magic✨ or Weakened).
 
 ### 📝 Definitions
 
@@ -168,7 +168,7 @@ Equipment – Another word for Gear🧰 (non-magical).
 
 Ext Rng (Extended/Long Range) – A greater range (at disadvantage) that a weapon, ability, or item can reach.
 
-Fatigue – A Minimal amount of Wnds🩸 a PC suffers IF HIT by a monster regardless of PC’s AR🧥 roll.
+Fatigue – A minimal amount of Wnds🩸 a PC suffers IF HIT by a monster regardless of PC’s AR🧥 roll. Default monster Fatigue equals the monster Dmg💥 ten’s digit + 1 (e.g., Dmg 1–9 = 1, 10–19 = 2, 20–29 = 3, 30–39 = 4, etc.). Monsters or GMs can add special ability rules for huge or giant monsters (like dragons or elites) to modify this default rule.
 
 Focus Die – A resource die (d4–d12) that can be spent to boost a roll, stepping down when used and stepping up on Flood triggers.
 
@@ -1034,7 +1034,7 @@ Brawl🥊 – Covers all natural attacks such as punch, kick, tackle, grab, thr
 
 Martial Arts🥋 – An advanced form Brawl🥊 provided through Martial Arts Powers🔥.
 
-Improvised (Melee) - An improvised melee weapon (chair, board, candelobra, torch, etc.) all fit into this category.
+Improvised (Melee) - An improvised melee weapon (chair, board, candelabra, torch, etc.) all fit into this category.
 
 Throw Object – Applies to all logical thrown projectiles such as a rock, mug, or other improvised items.
 
@@ -1182,7 +1182,7 @@ If Defense Fails → Player Armor AR🧥: Roll armor die (d4–d12) and subtract
 
 Note the Block🧱die is never rolled in lieu of armor as the Block defense MISSED. Thus the blow has hit the character’s AR🧥.
 
-Monsters also list a Fatigue Wnds🩸. If your AR🧥 results in less Wnds🩸 than the Fatigue Wnds🩸, the character suffers the indicated Fatigue Wnds🩸instead. Fatigue Wnds🩸do NOT trigger Afflictions if the AR🧥roll would have stopped ALL of the Dmg💥.
+Monsters inflict Fatigue Wnds🩸 by default based on Dmg💥 (ten's digit + 1: Dmg 1–9 = 1, 10–19 = 2, 20–29 = 3, etc.; huge/giant monsters or elites may modify this). If your AR🧥 results in less Wnds🩸 than this Fatigue value, the character suffers the Fatigue Wnds🩸 instead. Fatigue Wnds🩸 do NOT trigger Afflictions if the AR🧥 roll would have stopped ALL of the Dmg💥.
 
 Apply Wnd🩸: Add to your total Wnd🩸.
 
@@ -1956,7 +1956,7 @@ Atk⚔️: 10-24.
 
 Dmg💥: 5-20+.
 
-Ftg: Fatigue — minimum Wnd🩸 caused regardless of player AR🧥.
+Ftg: Fatigue — default minimum Wnd🩸 caused on hit regardless of player AR🧥 (calculated as Dmg💥 ten’s digit + 1: Dmg 1–9 = 1, 10–19 = 2, 20–29 = 3; elites/giants may override).
 
 Def: 10-24.
 
