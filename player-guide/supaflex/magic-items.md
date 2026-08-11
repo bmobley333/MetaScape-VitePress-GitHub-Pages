@@ -199,7 +199,7 @@ Dynamic magical treasures indexed from the master databases.
 | 1-Enc | F | **Volcanic Shard of Reth’Vash 3** | After you Heal ally from 0 or less Vit❤️ to 1+, make 1 Brawl Opportunity Atk |
 | 1-Enc | A | **Whisper [Weapon]** | On Atk; Whisper target positions at Mind👁️ to detect Invisible monsters |
 
-## **🌀 Artifact Magic Items**
+## **💫 Epic Magic Items**
 
 | Usage | Action | Name | Effect |
 | --- | --- | --- | --- |

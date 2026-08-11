@@ -55,9 +55,9 @@ Monster stats place the emojis before key numbers or number sets as in:
 | AR🧥 | 🧥 |  | 🔥 | Power🔥 |
 | Armor🧥 | 🧥 |  | ✅ | Atr✅ |
 | Art🎨 | 🎨 |  | ✒️ | Writing & Communication✒️ |
-| Artifact💫 (Magic Item) | 💫 |  | ❤️ | Vit❤️ |
+| Epic💫 (Magic Item) | 💫 |  | ❤️ | Vit❤️ |
 | Atr✅ | ✅ |  | ⭐ | Level⭐ |
-| Block🧱 | 🛡️ |  | 💫 | Artifact💫 (Magic Item) |
+| Block🧱 | 🛡️ |  | 💫 | Epic💫 (Magic Item) |
 | Camp Gear🏕️ | 🏕️ |  | 🌟 | Tremendous🌟 |
 | Clothing & Personal👕 | 👕 |  | 🍀 | Luck🍀 |
 | Combat ⚔️ | ⚔️ |  | 🍺 | Minor🍺(Magic Item) |
@@ -188,7 +188,7 @@ Lvl⭐ (Level) – A character’s level, equal to their total AP🧩.
 
 M/H/S (Melee, Hurled, Shot) – Shorthand for weapon types.
 
-Magic Item✨ – Magical items categorized as Minor🍺, Lesser🪄, Greater🪬, or Artifact💫.
+Magic Item✨ – Magical items categorized as Minor🍺, Lesser🪄, Greater🪬, or Epic💫.
 
 Block Cap🧱 – The maximum monster damage a melee weapon or shield can block.
 
@@ -1342,29 +1342,29 @@ How often an ability (Power🔥 or Magic Item✨) can be used:
 | --- | --- | --- |
 | 1-Rnd | Refreshes every round on Initiative (Nish🚩). | Bread-and-butter attacks, basic spells, and minor item triggers. |
 | 1-Enc / 2-Enc / 3-Enc | Refreshes immediately when combat resolves (Max 3-Enc). | Battlefield setups, stances, defensive triggers, utility resets. |
-| 1-⚡ (1-Charge / 5 Sparks) | Consumes 1 full Charge (5 Sparks, ⚡). Usable max 1 time per encounter (1-⚡ implies 1-Enc). | High-impact burst, combos, or area control. Earned dynamically via Sparks in combat or roleplaying. |
+| 1-⚡ (1-Spark / 5 Charges) | Consumes 1 full Spark (5 Charges, ⚡). Usable max 1 time per encounter (1-⚡ implies 1-Enc). | High-impact burst, combos, or area control. Earned dynamically via Charges in combat or roleplaying. |
 | 1-Luck (Chit) | Consumes 1 Luck chit (🍀). | Cinematic interrupts, heroic saves, clutch auto-defenses. |
 
 #### ⚡ Charge Generation & Spark Rules
 
-- **5 Sparks = 1 Charge:** It ALWAYS takes 5 Sparks (✨) to build 1 Charge (⚡). All Charge abilities indicate this in the Usage column as **1-⚡** (representing 1 Charge). There are no 2-⚡ or 3-⚡ costs.
-- **Spark Events (✨):** Building a Charge occurs via Sparks earned in gameplay:
-  - **Tremendous or Critical Rolls:** Gain +1 Spark (✨) for every natural 20 or natural 1 on the base d20 die of a typical ability roll.
-  - **Exploding Die Events:** Gain +1 Spark (✨) per exploding die roll (if a die explodes 4 times in a row, gain 4 Sparks). Applies to ANY ability roll (Skill, Attack, Defense, Focus, etc.).
-- **Charged State (+1 to All Rolls):** A character holding 1 Charge (5 Sparks) is "Charged." While Charged, they gain a flat +1 bonus to ALL Ability Rolls, Defenses, and Damage rolls until they spend their Charge (⚡) or the encounter ends.
+- **5 Charges = 1 Spark:** It ALWAYS takes 5 Charges (⚡) to build 1 Spark (the filled lightning bolt icon ⚡). All Spark abilities indicate this in the Usage column as **1-⚡** (representing 1 Spark). There are no 2-⚡ or 3-⚡ costs.
+- **Charge Generation Events:** Building a Spark occurs via Charges earned in gameplay:
+  - **Tremendous or Critical Rolls:** Gain +1 Charge for every natural 20 or natural 1 on the base d20 die of a typical ability roll.
+  - **Exploding Die Events:** Gain +1 Charge per exploding die roll (if a die explodes 4 times in a row, gain 4 Charges). Applies to ANY ability roll (Skill, Attack, Defense, Focus, etc.).
+- **Sparked State (+1 to All Rolls):** A character holding a full Spark (5 Charges) is "Fully Sparked" (or has "A Full Spark"). While Sparked, they gain a flat +1 bonus to ALL Ability Rolls, Defenses, and Damage rolls until they spend their Spark (⚡) or the encounter ends.
 - **Encounter Transition & Zeroing Out:**
-  - If a character forms a Charge (5 Sparks) in an encounter, then at the end of that encounter their Sparks zero out (reset to 0).
-  - Otherwise, if they end an encounter with fewer than 5 Sparks (<5 Sparks), their Sparks carry over into the next encounter. (Characters are continuously transitioning between encounter types, whether combat or roleplaying).
+  - If a character reaches a full Spark (5 Charges) in an encounter, then at the end of that encounter their Charges zero out (reset to 0).
+  - Otherwise, if they end an encounter with fewer than 5 Charges (<5 Charges), their Charges carry over into the next encounter. (Characters are continuously transitioning between encounter types, whether combat or roleplaying).
 
 > [!NOTE]
 > **Elimination of Daily Hoarding (X-Day)**
-> High-tier daily powers are converted into Charge powers (1-⚡) or 1-Luck powers. Players no longer hoard powerful abilities for boss fights that never come; they earn them dynamically in every fight through tactical play and dice momentum.
+> High-tier daily powers are converted into Spark powers (1-⚡) or 1-Luck powers. Players no longer hoard powerful abilities for boss fights that never come; they earn them dynamically in every fight through tactical play and dice momentum.
 
 #### 🧠 Game Theory & Psychology ("My Game Theory")
 
-- **Built-in Delay:** Requires 5 Sparks to gain a Charge, introducing natural tactical delay for high-impact abilities.
+- **Built-in Delay:** Requires 5 Charges to gain a Spark, introducing natural tactical delay for high-impact abilities.
 - **Dopamine Rewards:** Gives immediate positive feedback (dopamine hit) anytime a player rolls a Tremendous (nat 20), Critical (nat 1), or Exploding die.
-- **Pavlovian Random Anticipation:** Because a player could gain multiple Sparks in a single round from exploding dice, players never know exactly when a full Charge (⚡) will hit, driving engagement.
+- **Pavlovian Random Anticipation:** Because a player could gain multiple Charges in a single round from exploding dice, players never know exactly when a full Spark (⚡) will hit, driving engagement.
 - **Active Play Incentive:** Directly rewards active participation in encounters (taking actions, making rolls, and Focusing to trigger exploding dice).
 
 
@@ -1519,7 +1519,7 @@ If an Affliction triggers upon PC Wounds🩸, do note that Fatigue Wnds🩸 does
 When activating any Power🔥 or Magic Item✨, a player may spend 1 Luck chit (🍀) from their pool to apply a dynamic "Rule of 1" modification (+1 / -1) to that activation.
 
 Permitted "Rule of 1" Modifications (Pick One per Luck Chit):
-* **+1 Spark (✨):** Immediately gain +1 Spark toward your Charge gauge (Limit: Max 2 converted per round).
+* **+1 Charge:** Immediately gain +1 Charge toward your Spark gauge (Limit: Max 2 converted per round).
 * **-1 Action Budget:** Compress action cost by 1 step (AM → A → M → P → F). (e.g., Activate an Attack (A) power as a Partial (P) action).
 * **+1 Target:** Add +1 target to the power or magic item's effect. (e.g., Strike 2 adjacent foes with a single-target melee/spell power).
 * **+1 Die Tier:** Increase damage or healing die by 1 die step (d4 → d6 → d8 → d10 → d12).
@@ -1528,7 +1528,7 @@ Permitted "Rule of 1" Modifications (Pick One per Luck Chit):
 
 Play & Integration Rules:
 * **Limit:** Maximum 1 Luck Twist (🍀) per power/item activation (cannot stack multiple Luck chits on the exact same roll/activation).
-* **No Direct 1-⚡ Bypass:** Luck chits CANNOT be spent to directly activate 1-⚡ Powers or Magic Items. They only build toward the 5-Spark Charge requirement via Option 1 (+1 Spark).
+* **No Direct 1-⚡ Bypass:** Luck chits CANNOT be spent to directly activate 1-⚡ Powers or Magic Items. They only build toward the 5-Charge Spark requirement via Option 1 (+1 Charge).
 * **Instant Adjudication:** No character sheet editing required. Simply announce: "I'm burning a Luck chit 🍀 for a +1 Target / -1 Action Budget Twist!"
 * **Magic Item Parity:** Applies 100% identically to both Powers (🔥) and Magic Items (✨).
 
