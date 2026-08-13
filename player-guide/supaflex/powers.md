@@ -256,7 +256,7 @@ Select one of the many sub-sets of powers such as Class👤, Race🧬, Combat St
 | Combat | 1-⚡ | F | **Gnome Luck🍀** | Reroll one failed roll |
 | Combat | 1-⚡ | F | **Goblin Glee** | After a crit; gain 1 Luck🍀 chit |
 | Combat | 1-⚡ | A | **Gravitational Wells** | 3×3 sq glyph. [Atk(✨)]^Dodge to leap out; If cross -> [Gravity Str(💪)]^💪 or pulled prone MR(0) as an infliction |
-| Combat | 2-Enc | A | **GraVit❤️y Warp** | Foes in AOE suffer MR👣-2; Magic✨ |
+| Combat | 2-Enc | A | **Gravity Warp** | Foes in AOE suffer MR👣-2; Magic✨ |
 | Combat | 1-Enc | P | **Grimy Grin** | Mind👁️ Intimidate or target looses next Move Action |
 | Combat | 1-⚡ | P | **Group Huddle** | All allies nearby gain +1 to next roll |
 | Combat | 1-⚡ | A | **Growth Hormone** | Target grows [=(✨)] inches; melee, Might, AR all at Adv |
@@ -443,7 +443,7 @@ Select one of the many sub-sets of powers such as Class👤, Race🧬, Combat St
 | Combat | 1-🍀 | P | **Pocket Luck🍀** | Add +4 to 1 roll |
 | Combat | 2-Enc | A | **Poison Ivy** | Acidic poison: [2d8] Wnds per round |
 | Combat | 1-Enc | M | **Polarize Armor** | One ally in 3sq wearing iron; AR🧥+2 for 1 rnd |
-| Combat | 1-Enc | A | **Polymorph Minor🍺** | Change form of 1 object; Magic✨ |
+| Combat | 1-Enc | A | **Polymorph Minor** | Change form of 1 object; Magic✨ |
 | Combat | 1-⚡ | M | **Portal Step** | Open door; teleport anywhere in sight; no roll |
 | Combat | 2-Enc | A | **Portal Ward** | Glyph is max 1sq wide; without password triggers 1r [Atk/Dmg(✨+2)/(✨+2)] explosion. Glyph is hidden [Stealth(✨)]^👁️. |
 | Combat | 2-Enc | A | **Power Punch** | Punch [Atk/Dmg(💪-1)/(💪+2)] |

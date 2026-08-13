@@ -4,50 +4,10 @@ Master indexed gear equipment directory.
 
 | Category | Item Name | Cost |
 | --- | --- | --- |
-| SciFi | **AirVault** | 3g |
-| SciFi | **Camera** | 2g |
-| SciFi | **Communicator** | 1g |
-| SciFi | **D-Crawler** | 15g |
-| SciFi | **D-Pack** | 4g |
-| SciFi | **DataSleeve** | 12g |
-| SciFi | **DeCipher** | 6g |
-| SciFi | **Disguise Pack** | 5g |
-| SciFi | **Energy Clips** | 1g |
-| SciFi | **EnviroCube** | 8g |
-| SciFi | **EnviroSleeve** | 4g |
-| SciFi | **EnviroTent** | 6g |
-| SciFi | **First Aid Pack** | 2g |
-| SciFi | **FusionSplicer** | 5g |
-| SciFi | **GlowTorch** | 1g |
-| SciFi | **Grappling Gun** | 3g |
-| SciFi | **HealGel** | 1g |
-| SciFi | **HoistMaster** | 2g |
-| SciFi | **HoloCaster** | 8g |
-| SciFi | **Hover Drone** | 10g |
-| SciFi | **Hover Drone Remote** | 3g |
-| SciFi | **ImageScanner** | 4g |
-| SciFi | **ImageWrap** | 10g |
-| SciFi | **ImageWrap Image** | 1g |
-| SciFi | **Micro Hover Bug** | 8g |
-| SciFi | **Miniflare Gun** | 1g |
-| SciFi | **Miniflare Gun Flares** | 5s |
-| SciFi | **MiniScub Cartridge** | 5s |
-| SciFi | **MiniScuba** | 2g |
-| SciFi | **NanoShear** | 4g |
-| SciFi | **OrbitLink** | 8g |
-| SciFi | **Personal Scanner** | 5g |
-| SciFi | **PlasmaCore** | 10g |
-| SciFi | **PlasmaTorch** | 5g |
-| SciFi | **Power Pack** | 4g |
-| SciFi | **PowerTap** | 5g |
-| SciFi | **Q-Bond Cable** | 1g |
-| SciFi | **Q-Bond Harness** | 2g |
-| SciFi | **QuantumChef** | 18g |
-| SciFi | **Visor X Starlight Enhancement** | 2g |
-| SciFi | **VisorX** | 3g |
-| SciFi | **VisorX Infrared Enhancement** | 2g |
 | ⚕️ Medical & Healing Supplies | **Bandages (roll)** | 2s |
+| ⚕️ Medical & Healing Supplies | **First Aid Pack** | 2g |
 | ⚕️ Medical & Healing Supplies | **Healer’s Kit (bandages, herbs)** | 3g |
+| ⚕️ Medical & Healing Supplies | **HealGel** | 1g |
 | ⚕️ Medical & Healing Supplies | **Lock (simple)** | 1g |
 | ⚕️ Medical & Healing Supplies | **Lockpicks (set)** | 3g |
 | ⚕️ Medical & Healing Supplies | **Manacles** | 1g |
@@ -56,11 +16,13 @@ Master indexed gear equipment directory.
 | ⚕️ Medical & Healing Supplies | **Splints (wooden)** | 2s |
 | ✒️ Writing & Communication | **Chalk (10 sticks)** | 1s |
 | ✒️ Writing & Communication | **Charcoal (writing, 5 sticks)** | 1s |
+| ✒️ Writing & Communication | **Communicator** | 1g |
 | ✒️ Writing & Communication | **Dice/Playing Cards** | 4s |
 | ✒️ Writing & Communication | **Horn (wooden)** | 5s |
 | ✒️ Writing & Communication | **Ink (small vial)** | 1g |
 | ✒️ Writing & Communication | **Journal/Notebook** | 2g |
 | ✒️ Writing & Communication | **Mirror (polished steel)** | 5s |
+| ✒️ Writing & Communication | **OrbitLink** | 8g |
 | ✒️ Writing & Communication | **Quill & Parchment (10 sheets)** | 5s |
 | ✒️ Writing & Communication | **Signal Whistle** | 3s |
 | 🎵 Entertainment & Instruments | **Bell (small)** | 4s |
@@ -72,6 +34,7 @@ Master indexed gear equipment directory.
 | 🏕️ Camp Gear | **Bedroll** | 5s |
 | 🏕️ Camp Gear | **Blanket (wool)** | 4s |
 | 🏕️ Camp Gear | **Candle (dozen)** | 1s |
+| 🏕️ Camp Gear | **EnviroTent** | 6g |
 | 🏕️ Camp Gear | **Firewood Bundle** | 1s |
 | 🏕️ Camp Gear | **Lantern (hooded)** | 8s |
 | 🏕️ Camp Gear | **Oil Flask (lamp fuel)** | 2s |
@@ -93,24 +56,58 @@ Master indexed gear equipment directory.
 | 👕 Clothing & Personal | **Cloak (Winter, Warm)** | 8s |
 | 👕 Clothing & Personal | **Clothes (Common)** | 5s |
 | 👕 Clothing & Personal | **Clothes (Fine)** | 2g |
+| 👕 Clothing & Personal | **Disguise Pack** | 5g |
+| 👕 Clothing & Personal | **EnviroSleeve** | 4g |
 | 👕 Clothing & Personal | **Gloves (leather)** | 4s |
 | 👕 Clothing & Personal | **Hood** | 3s |
+| 👕 Clothing & Personal | **ImageWrap** | 10g |
+| 👕 Clothing & Personal | **ImageWrap Image** | 1g |
 | 👕 Clothing & Personal | **Perfume (small vial)** | 2g |
 | 👕 Clothing & Personal | **Sandals** | 2s |
 | 👕 Clothing & Personal | **Scarf of Warmth (non-magical wool)** | 4s |
 | 👕 Clothing & Personal | **Soap (bar)** | 1s |
+| 👕 Clothing & Personal | **Visor X Starlight Enhancement** | 2g |
+| 👕 Clothing & Personal | **VisorX** | 3g |
+| 👕 Clothing & Personal | **VisorX Infrared Enhancement** | 2g |
+| 🛠️ Tools & Equipment | **AirVault** | 3g |
+| 🛠️ Tools & Equipment | **Camera** | 2g |
 | 🛠️ Tools & Equipment | **Chisel (iron)** | 4s |
 | 🛠️ Tools & Equipment | **Climbing Spikes (set)** | 6s |
 | 🛠️ Tools & Equipment | **Cooking Pot (iron)** | 6s |
 | 🛠️ Tools & Equipment | **Crowbar** | 5s |
+| 🛠️ Tools & Equipment | **D-Crawler** | 15g |
+| 🛠️ Tools & Equipment | **DeCipher** | 6g |
+| 🛠️ Tools & Equipment | **Energy Clips** | 1g |
+| 🛠️ Tools & Equipment | **EnviroCube** | 8g |
 | 🛠️ Tools & Equipment | **Funnel (metal)** | 2s |
+| 🛠️ Tools & Equipment | **FusionSplicer** | 5g |
+| 🛠️ Tools & Equipment | **GlowTorch** | 1g |
+| 🛠️ Tools & Equipment | **Grappling Gun** | 3g |
 | 🛠️ Tools & Equipment | **Grappling Hook** | 8s |
 | 🛠️ Tools & Equipment | **Hammer (small)** | 4s |
 | 🛠️ Tools & Equipment | **Hammer (wooden, tent)** | 2s |
+| 🛠️ Tools & Equipment | **HoistMaster** | 2g |
+| 🛠️ Tools & Equipment | **HoloCaster** | 8g |
+| 🛠️ Tools & Equipment | **Hover Drone** | 10g |
+| 🛠️ Tools & Equipment | **Hover Drone Remote** | 3g |
+| 🛠️ Tools & Equipment | **ImageScanner** | 4g |
 | 🛠️ Tools & Equipment | **Mallet (wood)** | 2s |
+| 🛠️ Tools & Equipment | **Micro Hover Bug** | 8g |
+| 🛠️ Tools & Equipment | **Miniflare Gun** | 1g |
+| 🛠️ Tools & Equipment | **Miniflare Gun Flares** | 5s |
+| 🛠️ Tools & Equipment | **MiniScub Cartridge** | 5s |
+| 🛠️ Tools & Equipment | **MiniScuba** | 2g |
 | 🛠️ Tools & Equipment | **Nails (25)** | 1s |
+| 🛠️ Tools & Equipment | **NanoShear** | 4g |
 | 🛠️ Tools & Equipment | **Net (10 ft)** | 8s |
+| 🛠️ Tools & Equipment | **Personal Scanner** | 5g |
 | 🛠️ Tools & Equipment | **Pickaxe** | 7s |
+| 🛠️ Tools & Equipment | **PlasmaCore** | 10g |
+| 🛠️ Tools & Equipment | **PlasmaTorch** | 5g |
+| 🛠️ Tools & Equipment | **Power Pack** | 4g |
+| 🛠️ Tools & Equipment | **PowerTap** | 5g |
+| 🛠️ Tools & Equipment | **Q-Bond Cable** | 1g |
+| 🛠️ Tools & Equipment | **Q-Bond Harness** | 2g |
 | 🛠️ Tools & Equipment | **Rope (50 ft hemp)** | 5s |
 | 🛠️ Tools & Equipment | **Rope (50 ft silk)** | 2g |
 | 🛠️ Tools & Equipment | **Saw (hand)** | 6s |
@@ -124,6 +121,7 @@ Master indexed gear equipment directory.
 | 🥖 Food & Drink | **Dried Meat (1 lb)** | 4s |
 | 🥖 Food & Drink | **Hardtack Biscuits (1 lb)** | 2s |
 | 🥖 Food & Drink | **Honey Jar** | 6s |
+| 🥖 Food & Drink | **QuantumChef** | 18g |
 | 🥖 Food & Drink | **Rations (1 day)** | 5s |
 | 🥖 Food & Drink | **Rations (1 week)** | 3g |
 | 🥖 Food & Drink | **Wine (bottle)** | 1g |
@@ -132,6 +130,8 @@ Master indexed gear equipment directory.
 | 🧺 Containers | **Basket (woven)** | 1s |
 | 🧺 Containers | **Bucket (wood)** | 2s |
 | 🧺 Containers | **Case (Map Case, leather)** | 1g |
+| 🧺 Containers | **D-Pack** | 4g |
+| 🧺 Containers | **DataSleeve** | 12g |
 | 🧺 Containers | **Flask (metal)** | 5s |
 | 🧺 Containers | **Jug (clay)** | 1s |
 | 🧺 Containers | **Pouch (small)** | 2s |
