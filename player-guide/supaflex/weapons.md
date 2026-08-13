@@ -51,8 +51,8 @@ Master indexed weapons directory.
 | **Gas-Beetle** | Hurled | 🏃 8 | None | None | 🏃 | 2g |
 | **Geomantic Staff** | Melee | 💪 10 | 20 | None | 💪 | 5g |
 | **Giant Maul** | Melee | 💪 12 | 24 | 💪 | 💪S | 10g |
-| **Glaive** | Melee | 💪 6 | 12 | 💪 | 💪 | 1g |
 | **Glaive** | Melee | 💪 10 | 20 | 💪 | 💪 | 6g |
+| **Glaive** | Melee | 💪 6 | 12 | 💪 | 💪 | 1g |
 | **Grasp-Glove** | Melee | 💪 8 | 16 | None | 💪 | 4g |
 | **Great Axe** | Melee | 💪 8 | 16 | 💪 | 💪 | 4g |
 | **Grenade Launcher, Underbarrel** | Shot | 👁️ 12 | None | None | 👁️ | 6g |
