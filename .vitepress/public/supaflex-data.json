@@ -15766,8 +15766,8 @@
       "max_block": null,
       "cost": "12g",
       "created_at": "2026-08-13T21:26:27.294759+00:00",
-      "atk": "👁️S",
-      "dmg": "👁️S",
+      "atk": "👁️",
+      "dmg": "👁️",
       "genres": [
         "SciFi"
       ],
@@ -16168,8 +16168,8 @@
       "max_block": null,
       "cost": "10g",
       "created_at": "2026-08-13T21:26:27.294759+00:00",
-      "atk": "👁️S",
-      "dmg": "👁️S",
+      "atk": "👁️",
+      "dmg": "👁️",
       "genres": [
         "Modern",
         "SciFi"
@@ -16220,7 +16220,7 @@
       "cost": "9g",
       "created_at": "2026-08-13T21:26:27.294759+00:00",
       "atk": "💪, 🏃",
-      "dmg": "💪S, 🏃S",
+      "dmg": "💪, 🏃",
       "genres": [
         "Medieval",
         "Modern",
@@ -16255,7 +16255,7 @@
       "cost": "8g",
       "created_at": "2026-08-13T21:26:27.294759+00:00",
       "atk": "💪",
-      "dmg": "💪S",
+      "dmg": "💪",
       "genres": [
         "Medieval",
         "Modern",
@@ -16392,24 +16392,6 @@
       "cost": "10g",
       "created_at": "2026-08-13T21:26:27.294759+00:00",
       "atk": "💪",
-      "dmg": "💪S",
-      "genres": [
-        "Medieval",
-        "Modern",
-        "SciFi"
-      ],
-      "notes": null,
-      "pic": null
-    },
-    {
-      "id": 49,
-      "name": "Glaive",
-      "type": "Melee",
-      "requirement": "💪 6",
-      "max_block": "12",
-      "cost": "1g",
-      "created_at": "2026-08-13T21:26:27.294759+00:00",
-      "atk": "💪",
       "dmg": "💪",
       "genres": [
         "Medieval",
@@ -16431,6 +16413,24 @@
       "dmg": "💪",
       "genres": [
         "All"
+      ],
+      "notes": null,
+      "pic": null
+    },
+    {
+      "id": 49,
+      "name": "Glaive",
+      "type": "Melee",
+      "requirement": "💪 6",
+      "max_block": "12",
+      "cost": "1g",
+      "created_at": "2026-08-13T21:26:27.294759+00:00",
+      "atk": "💪",
+      "dmg": "💪",
+      "genres": [
+        "Medieval",
+        "Modern",
+        "SciFi"
       ],
       "notes": null,
       "pic": null
@@ -16809,8 +16809,8 @@
       "max_block": null,
       "cost": "14g",
       "created_at": "2026-08-13T21:26:27.294759+00:00",
-      "atk": "👁️S",
-      "dmg": "👁️S",
+      "atk": "👁️",
+      "dmg": "👁️",
       "genres": [
         "Modern",
         "SciFi"
@@ -17014,8 +17014,8 @@
       "max_block": null,
       "cost": "14g",
       "created_at": "2026-08-13T21:26:27.294759+00:00",
-      "atk": "👁️S",
-      "dmg": "👁️S",
+      "atk": "👁️",
+      "dmg": "👁️",
       "genres": [
         "SciFi"
       ],
@@ -17078,8 +17078,8 @@
       "max_block": null,
       "cost": "15g",
       "created_at": "2026-08-13T21:26:27.294759+00:00",
-      "atk": "👁️S",
-      "dmg": "👁️S",
+      "atk": "👁️",
+      "dmg": "👁️",
       "genres": [
         "Modern",
         "SciFi"
@@ -17095,8 +17095,8 @@
       "max_block": null,
       "cost": "14g",
       "created_at": "2026-08-13T21:26:27.294759+00:00",
-      "atk": "👁️S",
-      "dmg": "👁️S",
+      "atk": "👁️",
+      "dmg": "👁️",
       "genres": [
         "Modern",
         "SciFi"
@@ -17217,8 +17217,8 @@
       "max_block": null,
       "cost": "16g",
       "created_at": "2026-08-13T21:26:27.294759+00:00",
-      "atk": "👁️S",
-      "dmg": "👁️S",
+      "atk": "👁️",
+      "dmg": "👁️",
       "genres": [
         "SciFi"
       ],
@@ -17268,8 +17268,8 @@
       "max_block": "S",
       "cost": "4g",
       "created_at": "2026-08-13T21:26:27.294759+00:00",
-      "atk": "💪S",
-      "dmg": "💪S",
+      "atk": "💪",
+      "dmg": "💪",
       "genres": [
         "Medieval",
         "Modern",
@@ -17339,8 +17339,8 @@
       "max_block": "16",
       "cost": "15g",
       "created_at": "2026-08-13T21:26:27.389133+00:00",
-      "atk": "💪, 👁️S",
-      "dmg": "💪, 👁️S",
+      "atk": "💪, 👁️",
+      "dmg": "💪, 👁️",
       "genres": [
         "Modern",
         "SciFi"
@@ -17392,7 +17392,7 @@
       "cost": "10g",
       "created_at": "2026-08-13T21:26:27.389133+00:00",
       "atk": "💪",
-      "dmg": "💪S",
+      "dmg": "💪",
       "genres": [
         "Medieval",
         "Modern",
@@ -17425,8 +17425,8 @@
       "max_block": null,
       "cost": "9g",
       "created_at": "2026-08-13T21:26:27.389133+00:00",
-      "atk": "👁️S",
-      "dmg": "👁️S",
+      "atk": "👁️",
+      "dmg": "👁️",
       "genres": [
         "Modern",
         "SciFi"
@@ -17723,7 +17723,7 @@
       "cost": "8g",
       "created_at": "2026-08-13T21:26:27.389133+00:00",
       "atk": "👁️",
-      "dmg": "👁️S",
+      "dmg": "👁️",
       "genres": [
         "Medieval",
         "Modern",
@@ -17865,8 +17865,8 @@
       "max_block": "S",
       "cost": "4g",
       "created_at": "2026-08-13T21:26:27.389133+00:00",
-      "atk": "💪S",
-      "dmg": "💪S",
+      "atk": "💪",
+      "dmg": "💪",
       "genres": [
         "Medieval",
         "Modern",
@@ -17938,7 +17938,7 @@
       "cost": "8g",
       "created_at": "2026-08-13T21:26:27.389133+00:00",
       "atk": "💪",
-      "dmg": "💪S",
+      "dmg": "💪",
       "genres": [
         "Medieval",
         "Modern",
