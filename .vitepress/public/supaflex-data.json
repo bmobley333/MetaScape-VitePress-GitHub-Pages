@@ -44,7 +44,9 @@
       "effect": "Heal self 2❤️",
       "created_at": "2026-08-13T21:26:29.251053+00:00",
       "genres": [
-        "All"
+        "Medieval",
+        "Modern",
+        "SciFi"
       ],
       "notes": null,
       "category": "Class",
@@ -190,7 +192,9 @@
       "effect": "Next roll Roll+2",
       "created_at": "2026-08-13T21:26:29.251053+00:00",
       "genres": [
-        "All"
+        "Medieval",
+        "Modern",
+        "SciFi"
       ],
       "notes": null,
       "category": "Race",
@@ -228,7 +232,9 @@
       "effect": "Call on clan spirits; allies in 2sq Nish🚩+1 for Encounter",
       "created_at": "2026-08-13T21:26:29.251053+00:00",
       "genres": [
-        "All"
+        "Medieval",
+        "Modern",
+        "SciFi"
       ],
       "notes": null,
       "category": "Class",
@@ -242,7 +248,9 @@
       "effect": "Next Mind👁️ roll with Advantage",
       "created_at": "2026-08-13T21:26:29.251053+00:00",
       "genres": [
-        "All"
+        "Medieval",
+        "Modern",
+        "SciFi"
       ],
       "notes": null,
       "category": "Race",
@@ -436,7 +444,9 @@
       "effect": "Move MR👣; Might💪 or target falls Prone; d4 Dmg💥",
       "created_at": "2026-08-13T21:26:29.251053+00:00",
       "genres": [
-        "All"
+        "Medieval",
+        "Modern",
+        "SciFi"
       ],
       "notes": null,
       "category": "Class",
@@ -510,7 +520,9 @@
       "effect": "Make 2 unarmed Atk⚔️; suffer d4 self-Dmg💥❤️",
       "created_at": "2026-08-13T21:26:29.251053+00:00",
       "genres": [
-        "All"
+        "Medieval",
+        "Modern",
+        "SciFi"
       ],
       "notes": null,
       "category": "Class",
@@ -572,7 +584,9 @@
       "effect": "Allies within 3sq Nish🚩+2 this rnd",
       "created_at": "2026-08-13T21:26:29.251053+00:00",
       "genres": [
-        "All"
+        "Medieval",
+        "Modern",
+        "SciFi"
       ],
       "notes": null,
       "category": "Class",
@@ -634,7 +648,9 @@
       "effect": "AR🧥+1 for 1 rnd",
       "created_at": "2026-08-13T21:26:29.251053+00:00",
       "genres": [
-        "All"
+        "Medieval",
+        "Modern",
+        "SciFi"
       ],
       "notes": null,
       "category": "Class",
@@ -648,7 +664,9 @@
       "effect": "If reduced to 0 Vit❤️; stay conscious until end of rnd",
       "created_at": "2026-08-13T21:26:29.251053+00:00",
       "genres": [
-        "All"
+        "Medieval",
+        "Modern",
+        "SciFi"
       ],
       "notes": null,
       "category": "Class",
@@ -662,7 +680,9 @@
       "effect": "Atk with shield (use Def as Atk); on hit, d4 Dmg💥 and Might💪 or target Stunned",
       "created_at": "2026-08-13T21:26:29.251053+00:00",
       "genres": [
-        "All"
+        "Medieval",
+        "Modern",
+        "SciFi"
       ],
       "notes": null,
       "category": "Class",
@@ -748,7 +768,9 @@
       "effect": "Fight normally in darkness; Atk rolls no penalty for encounter",
       "created_at": "2026-08-13T21:26:29.251053+00:00",
       "genres": [
-        "All"
+        "Medieval",
+        "Modern",
+        "SciFi"
       ],
       "notes": null,
       "category": "Class",
@@ -762,7 +784,9 @@
       "effect": "Create bright light (3sq); foes in light Resist✨ or Blind 1 rnd",
       "created_at": "2026-08-13T21:26:29.251053+00:00",
       "genres": [
-        "All"
+        "Medieval",
+        "Modern",
+        "SciFi"
       ],
       "notes": null,
       "category": "Class",
@@ -836,7 +860,9 @@
       "effect": "On hit; Dmg💥+1 and next Nish🚩+2",
       "created_at": "2026-08-13T21:26:29.251053+00:00",
       "genres": [
-        "All"
+        "Medieval",
+        "Modern",
+        "SciFi"
       ],
       "notes": null,
       "category": "Race",
@@ -910,7 +936,9 @@
       "effect": "When reduced to 0 Vit❤️; set to 1 Vit❤️ instead",
       "created_at": "2026-08-13T21:26:29.251053+00:00",
       "genres": [
-        "All"
+        "Medieval",
+        "Modern",
+        "SciFi"
       ],
       "notes": null,
       "category": "Race",
@@ -1020,7 +1048,9 @@
       "effect": "Resist✨+2 for 1 rnd",
       "created_at": "2026-08-13T21:26:29.251053+00:00",
       "genres": [
-        "All"
+        "Medieval",
+        "Modern",
+        "SciFi"
       ],
       "notes": null,
       "category": "Race",
@@ -1034,7 +1064,9 @@
       "effect": "Call on ally memory; reroll 1 failed roll (self or ally)",
       "created_at": "2026-08-13T21:26:29.251053+00:00",
       "genres": [
-        "All"
+        "Medieval",
+        "Modern",
+        "SciFi"
       ],
       "notes": null,
       "category": "Class",
@@ -1048,7 +1080,9 @@
       "effect": "Move MR👣-2; AR🧥+2 for Encounter",
       "created_at": "2026-08-13T21:26:29.251053+00:00",
       "genres": [
-        "All"
+        "Medieval",
+        "Modern",
+        "SciFi"
       ],
       "notes": null,
       "category": "Race",
@@ -1086,7 +1120,9 @@
       "effect": "On hit; make 1 extra Atk⚔️ with off-hand weapon",
       "created_at": "2026-08-13T21:26:29.343213+00:00",
       "genres": [
-        "All"
+        "Medieval",
+        "Modern",
+        "SciFi"
       ],
       "notes": null,
       "category": "Class",
@@ -1124,7 +1160,9 @@
       "effect": "Mind👁️ Socail roll with Advantage",
       "created_at": "2026-08-13T21:26:29.343213+00:00",
       "genres": [
-        "All"
+        "Medieval",
+        "Modern",
+        "SciFi"
       ],
       "notes": null,
       "category": "Class",
@@ -1222,7 +1260,9 @@
       "effect": "Motion🏃 climb rolls with Advantage",
       "created_at": "2026-08-13T21:26:29.343213+00:00",
       "genres": [
-        "All"
+        "Medieval",
+        "Modern",
+        "SciFi"
       ],
       "notes": null,
       "category": "Race",
@@ -1272,7 +1312,9 @@
       "effect": "Move double MR👣; Melee Atk; Dmg💥+3",
       "created_at": "2026-08-13T21:26:29.343213+00:00",
       "genres": [
-        "All"
+        "Medieval",
+        "Modern",
+        "SciFi"
       ],
       "notes": null,
       "category": "Class",
@@ -1358,7 +1400,9 @@
       "effect": "Summon implacement ballista for encounter user can shoot javelins Mind👁️ Atk, Dmg d10💥; Def-3 while using",
       "created_at": "2026-08-13T21:26:29.343213+00:00",
       "genres": [
-        "All"
+        "Medieval",
+        "Modern",
+        "SciFi"
       ],
       "notes": null,
       "category": "Race",
@@ -1444,7 +1488,9 @@
       "effect": "Quick fire; Ranged Atk⚔️, Dmg💥-1",
       "created_at": "2026-08-13T21:26:29.343213+00:00",
       "genres": [
-        "All"
+        "Medieval",
+        "Modern",
+        "SciFi"
       ],
       "notes": null,
       "category": "Class",
@@ -1518,7 +1564,9 @@
       "effect": "Power channels through Spear; Atk+3 and extra d4 Dmg💥 burning",
       "created_at": "2026-08-13T21:26:29.343213+00:00",
       "genres": [
-        "All"
+        "Medieval",
+        "Modern",
+        "SciFi"
       ],
       "notes": null,
       "category": "Race",
@@ -1532,7 +1580,9 @@
       "effect": "All foes in 2sq Mind👁️ or Weakened 1 rnd",
       "created_at": "2026-08-13T21:26:29.343213+00:00",
       "genres": [
-        "All"
+        "Medieval",
+        "Modern",
+        "SciFi"
       ],
       "notes": null,
       "category": "Race",
@@ -1654,7 +1704,9 @@
       "effect": "All allies in 3sq gain AR🧥+1 for 1 Enc",
       "created_at": "2026-08-13T21:26:29.343213+00:00",
       "genres": [
-        "All"
+        "Medieval",
+        "Modern",
+        "SciFi"
       ],
       "notes": null,
       "category": "Class",
@@ -1812,7 +1864,9 @@
       "effect": "On successful Atk; Motion🏃 or target drops weapon",
       "created_at": "2026-08-13T21:26:29.343213+00:00",
       "genres": [
-        "All"
+        "Medieval",
+        "Modern",
+        "SciFi"
       ],
       "notes": null,
       "category": "Class",
@@ -1922,7 +1976,9 @@
       "effect": "Grab 2 adjacent foes; Might💪 Brawl Atk & Dmg💥 on both",
       "created_at": "2026-08-13T21:26:29.343213+00:00",
       "genres": [
-        "All"
+        "Medieval",
+        "Modern",
+        "SciFi"
       ],
       "notes": null,
       "category": "Class",
@@ -2116,7 +2172,9 @@
       "effect": "On miss; ghostly strike deals d4 Dmg💥 anyway",
       "created_at": "2026-08-13T21:26:29.343213+00:00",
       "genres": [
-        "All"
+        "Medieval",
+        "Modern",
+        "SciFi"
       ],
       "notes": null,
       "category": "Race",
@@ -2346,7 +2404,9 @@
       "effect": "Invisible for 1 rnd",
       "created_at": "2026-08-13T21:26:29.436163+00:00",
       "genres": [
-        "All"
+        "Medieval",
+        "Modern",
+        "SciFi"
       ],
       "notes": null,
       "category": "Class",
@@ -2384,7 +2444,9 @@
       "effect": "While flying this rnd, move up to MR👣 and ignore difficult terrain",
       "created_at": "2026-08-13T21:26:29.436163+00:00",
       "genres": [
-        "All"
+        "Medieval",
+        "Modern",
+        "SciFi"
       ],
       "notes": null,
       "category": "Class",
@@ -2722,7 +2784,9 @@
       "effect": "Adjacent allies gain Def+1 for Encounter",
       "created_at": "2026-08-13T21:26:29.436163+00:00",
       "genres": [
-        "All"
+        "Medieval",
+        "Modern",
+        "SciFi"
       ],
       "notes": null,
       "category": "Class",
@@ -2736,7 +2800,9 @@
       "effect": "Touch weapon; Dmg💥+1 for Encounter",
       "created_at": "2026-08-13T21:26:29.436163+00:00",
       "genres": [
-        "All"
+        "Medieval",
+        "Modern",
+        "SciFi"
       ],
       "notes": null,
       "category": "Race",
@@ -2810,7 +2876,9 @@
       "effect": "Your next Atk⚔️ or Skill🎓 roll has Advantage",
       "created_at": "2026-08-13T21:26:29.436163+00:00",
       "genres": [
-        "All"
+        "Medieval",
+        "Modern",
+        "SciFi"
       ],
       "notes": null,
       "category": "Class",
@@ -2884,7 +2952,9 @@
       "effect": "Cast glamour; Mind👁️ or target is Stunned 1 rnd",
       "created_at": "2026-08-13T21:26:29.436163+00:00",
       "genres": [
-        "All"
+        "Medieval",
+        "Modern",
+        "SciFi"
       ],
       "notes": null,
       "category": "Class",
@@ -2922,7 +2992,9 @@
       "effect": "Enemies within 4sq Def-1 while Raven is visible",
       "created_at": "2026-08-13T21:26:29.436163+00:00",
       "genres": [
-        "All"
+        "Medieval",
+        "Modern",
+        "SciFi"
       ],
       "notes": null,
       "category": "Class",
@@ -3104,7 +3176,9 @@
       "effect": "On hit; normal Dmg💥 and Motion🏃 or target MR👣 halved 1 rnd",
       "created_at": "2026-08-13T21:26:29.436163+00:00",
       "genres": [
-        "All"
+        "Medieval",
+        "Modern",
+        "SciFi"
       ],
       "notes": null,
       "category": "Class",
@@ -3178,7 +3252,9 @@
       "effect": "Heal 1d4+1 Vit❤️",
       "created_at": "2026-08-13T21:26:29.436163+00:00",
       "genres": [
-        "All"
+        "Medieval",
+        "Modern",
+        "SciFi"
       ],
       "notes": null,
       "category": "Class",
@@ -3420,7 +3496,9 @@
       "effect": "Take 1 Dmg💥; negate next d6 Dmg💥 you would take",
       "created_at": "2026-08-13T21:26:29.524874+00:00",
       "genres": [
-        "All"
+        "Medieval",
+        "Modern",
+        "SciFi"
       ],
       "notes": null,
       "category": "Class",
@@ -3434,7 +3512,9 @@
       "effect": "Create 1d4 illusory allies; Mind👁️ or foes believe for Encounter",
       "created_at": "2026-08-13T21:26:29.524874+00:00",
       "genres": [
-        "All"
+        "Medieval",
+        "Modern",
+        "SciFi"
       ],
       "notes": null,
       "category": "Class",
@@ -3472,7 +3552,9 @@
       "effect": "Wield random object; Atk⚔️ and Dmg💥 equals Might💪",
       "created_at": "2026-08-13T21:26:29.524874+00:00",
       "genres": [
-        "All"
+        "Medieval",
+        "Modern",
+        "SciFi"
       ],
       "notes": null,
       "category": "Class",
@@ -3618,7 +3700,9 @@
       "effect": "Heal self 2 Vit❤️",
       "created_at": "2026-08-13T21:26:29.524874+00:00",
       "genres": [
-        "All"
+        "Medieval",
+        "Modern",
+        "SciFi"
       ],
       "notes": null,
       "category": "Class",
@@ -3704,7 +3788,9 @@
       "effect": "AR🧥+2 vs all Atks while in Giant form for encounter",
       "created_at": "2026-08-13T21:26:29.524874+00:00",
       "genres": [
-        "All"
+        "Medieval",
+        "Modern",
+        "SciFi"
       ],
       "notes": null,
       "category": "Class",
@@ -3742,7 +3828,9 @@
       "effect": "Summon Keeth; allies in 3sq Nish🚩+2 for Encounter",
       "created_at": "2026-08-13T21:26:29.524874+00:00",
       "genres": [
-        "All"
+        "Medieval",
+        "Modern",
+        "SciFi"
       ],
       "notes": null,
       "category": "Class",
@@ -3888,7 +3976,9 @@
       "effect": "Jump up to 5sq; using Might💪Brawl as \"Landing\" Atk & Dmg💥",
       "created_at": "2026-08-13T21:26:29.524874+00:00",
       "genres": [
-        "All"
+        "Medieval",
+        "Modern",
+        "SciFi"
       ],
       "notes": null,
       "category": "Class",
@@ -3926,7 +4016,9 @@
       "effect": "Each different Weapon has Advantage with next Attack, lasts for encounter",
       "created_at": "2026-08-13T21:26:29.524874+00:00",
       "genres": [
-        "All"
+        "Medieval",
+        "Modern",
+        "SciFi"
       ],
       "notes": null,
       "category": "Race",
@@ -3976,7 +4068,9 @@
       "effect": "Reroll one failed Heal roll",
       "created_at": "2026-08-13T21:26:29.524874+00:00",
       "genres": [
-        "All"
+        "Medieval",
+        "Modern",
+        "SciFi"
       ],
       "notes": null,
       "category": "Class",
@@ -4050,7 +4144,9 @@
       "effect": "Allies in 2sq Resist✨+1 for Encounter",
       "created_at": "2026-08-13T21:26:29.524874+00:00",
       "genres": [
-        "All"
+        "Medieval",
+        "Modern",
+        "SciFi"
       ],
       "notes": null,
       "category": "Race",
@@ -4424,7 +4520,9 @@
       "effect": "Mind👁️ or target attacks ally this rnd",
       "created_at": "2026-08-13T21:26:29.621594+00:00",
       "genres": [
-        "All"
+        "Medieval",
+        "Modern",
+        "SciFi"
       ],
       "notes": null,
       "category": "Class",
@@ -4462,7 +4560,9 @@
       "effect": "Create illusory ally; foes may waste Atks on it",
       "created_at": "2026-08-13T21:26:29.621594+00:00",
       "genres": [
-        "All"
+        "Medieval",
+        "Modern",
+        "SciFi"
       ],
       "notes": null,
       "category": "Class",
@@ -4500,7 +4600,9 @@
       "effect": "Flash aggression; nearby foes Mind👁️ or flee 1sq",
       "created_at": "2026-08-13T21:26:29.621594+00:00",
       "genres": [
-        "All"
+        "Medieval",
+        "Modern",
+        "SciFi"
       ],
       "notes": null,
       "category": "Class",
@@ -4586,7 +4688,9 @@
       "effect": "Ignore terrain and climb at MR👣+2 this rnd",
       "created_at": "2026-08-13T21:26:29.621594+00:00",
       "genres": [
-        "All"
+        "Medieval",
+        "Modern",
+        "SciFi"
       ],
       "notes": null,
       "category": "Class",
@@ -4780,7 +4884,9 @@
       "effect": "Dodge🏃+1",
       "created_at": "2026-08-13T21:26:29.621594+00:00",
       "genres": [
-        "All"
+        "Medieval",
+        "Modern",
+        "SciFi"
       ],
       "notes": null,
       "category": "Class",
@@ -4866,7 +4972,9 @@
       "effect": "Insult foe; Mind👁️ or target focuses Atk on you this rnd",
       "created_at": "2026-08-13T21:26:29.621594+00:00",
       "genres": [
-        "All"
+        "Medieval",
+        "Modern",
+        "SciFi"
       ],
       "notes": null,
       "category": "Class",
@@ -4940,7 +5048,9 @@
       "effect": "On successful Dodge🏃; make 1 immediate counter-Atk⚔️ at Disadvantage",
       "created_at": "2026-08-13T21:26:29.621594+00:00",
       "genres": [
-        "All"
+        "Medieval",
+        "Modern",
+        "SciFi"
       ],
       "notes": null,
       "category": "Class",
@@ -5158,7 +5268,9 @@
       "effect": "Intimidate foe; Mind👁️ or target suffers Atk-2 for 1 rnd",
       "created_at": "2026-08-13T21:26:29.621594+00:00",
       "genres": [
-        "All"
+        "Medieval",
+        "Modern",
+        "SciFi"
       ],
       "notes": null,
       "category": "Class",
@@ -5172,7 +5284,9 @@
       "effect": "On being insulted; immediate counter-Insult, Mind👁️ or foe Atk-2",
       "created_at": "2026-08-13T21:26:29.72558+00:00",
       "genres": [
-        "All"
+        "Medieval",
+        "Modern",
+        "SciFi"
       ],
       "notes": null,
       "category": "Class",
@@ -5210,7 +5324,9 @@
       "effect": "Mind👁️ or target is Weakened 1 rnd",
       "created_at": "2026-08-13T21:26:29.72558+00:00",
       "genres": [
-        "All"
+        "Medieval",
+        "Modern",
+        "SciFi"
       ],
       "notes": null,
       "category": "Class",
@@ -5476,7 +5592,9 @@
       "effect": "Summon Jim; foes in 2sq distracted👁️ this rnd, then Jim flees",
       "created_at": "2026-08-13T21:26:29.72558+00:00",
       "genres": [
-        "All"
+        "Medieval",
+        "Modern",
+        "SciFi"
       ],
       "notes": null,
       "category": "Class",
@@ -5490,7 +5608,9 @@
       "effect": "All allies Nish🚩+2 for 1 rnd",
       "created_at": "2026-08-13T21:26:29.72558+00:00",
       "genres": [
-        "All"
+        "Medieval",
+        "Modern",
+        "SciFi"
       ],
       "notes": null,
       "category": "Class",
@@ -5600,7 +5720,9 @@
       "effect": "Activate aura for 1 rnd; adjacent allies Heal 1 Vit❤️ at start of their next turn",
       "created_at": "2026-08-13T21:26:29.72558+00:00",
       "genres": [
-        "All"
+        "Medieval",
+        "Modern",
+        "SciFi"
       ],
       "notes": null,
       "category": "Class",
@@ -5614,7 +5736,9 @@
       "effect": "On hit; add +d6 radiant (Magic✨) Dmg💥",
       "created_at": "2026-08-13T21:26:29.72558+00:00",
       "genres": [
-        "All"
+        "Medieval",
+        "Modern",
+        "SciFi"
       ],
       "notes": null,
       "category": "Class",
@@ -5652,7 +5776,9 @@
       "effect": "Heal self 1d4",
       "created_at": "2026-08-13T21:26:29.72558+00:00",
       "genres": [
-        "All"
+        "Medieval",
+        "Modern",
+        "SciFi"
       ],
       "notes": null,
       "category": "Class",
@@ -5750,7 +5876,9 @@
       "effect": "Ride Keeth; fly MR👣 this rnd",
       "created_at": "2026-08-13T21:26:29.72558+00:00",
       "genres": [
-        "All"
+        "Medieval",
+        "Modern",
+        "SciFi"
       ],
       "notes": null,
       "category": "Class",
@@ -5776,7 +5904,9 @@
       "effect": "Spot hidden exits, ambushes, or unusual behavior👁️",
       "created_at": "2026-08-13T21:26:29.72558+00:00",
       "genres": [
-        "All"
+        "Medieval",
+        "Modern",
+        "SciFi"
       ],
       "notes": null,
       "category": "Class",
@@ -5874,7 +6004,9 @@
       "effect": "Resist with Advantage vs disease, poison, undead effects for 1 Enc",
       "created_at": "2026-08-13T21:26:29.72558+00:00",
       "genres": [
-        "All"
+        "Medieval",
+        "Modern",
+        "SciFi"
       ],
       "notes": null,
       "category": "Class",
@@ -5960,7 +6092,9 @@
       "effect": "Mind👁️ vs foes or allies in 3sq Advantaged on Atk for 1 rnd",
       "created_at": "2026-08-13T21:26:29.72558+00:00",
       "genres": [
-        "All"
+        "Medieval",
+        "Modern",
+        "SciFi"
       ],
       "notes": null,
       "category": "Class",
@@ -5974,7 +6108,9 @@
       "effect": "Might💪Brawl  to Grab Atk and Dmg💥 & hurl target up d6sq",
       "created_at": "2026-08-13T21:26:29.72558+00:00",
       "genres": [
-        "All"
+        "Medieval",
+        "Modern",
+        "SciFi"
       ],
       "notes": null,
       "category": "Class",
@@ -6060,7 +6196,9 @@
       "effect": "Inscribe glowing rune on self; AR🧥+2 for 1 rnd",
       "created_at": "2026-08-13T21:26:29.72558+00:00",
       "genres": [
-        "All"
+        "Medieval",
+        "Modern",
+        "SciFi"
       ],
       "notes": null,
       "category": "Race",
@@ -6086,7 +6224,9 @@
       "effect": "Immune to being Disarmed this encounter",
       "created_at": "2026-08-13T21:26:29.72558+00:00",
       "genres": [
-        "All"
+        "Medieval",
+        "Modern",
+        "SciFi"
       ],
       "notes": null,
       "category": "Race",
@@ -6208,7 +6348,9 @@
       "effect": "When reduced to ngative Vit❤️; Heal 1 Vit❤️",
       "created_at": "2026-08-13T21:26:29.821451+00:00",
       "genres": [
-        "All"
+        "Medieval",
+        "Modern",
+        "SciFi"
       ],
       "notes": null,
       "category": "Class",
@@ -6354,7 +6496,9 @@
       "effect": "Fly up to 8sq as swarm of ravens; Melee Atk foes in origin sq for d4 Dmg💥",
       "created_at": "2026-08-13T21:26:29.821451+00:00",
       "genres": [
-        "All"
+        "Medieval",
+        "Modern",
+        "SciFi"
       ],
       "notes": null,
       "category": "Class",
@@ -6392,7 +6536,9 @@
       "effect": "Transform into Pixie (10” 2Lbs) or Giant (11’ 1000Lbs) form for Encounter; replace Atr & Powers with that form, on an seperate speced out Character Sheet. Basically 3 characters in one.",
       "created_at": "2026-08-13T21:26:29.821451+00:00",
       "genres": [
-        "All"
+        "Medieval",
+        "Modern",
+        "SciFi"
       ],
       "notes": null,
       "category": "Class",
@@ -6430,7 +6576,9 @@
       "effect": "Move through foes in 3sq; Might💪 or each is knocked Prone",
       "created_at": "2026-08-13T21:26:29.821451+00:00",
       "genres": [
-        "All"
+        "Medieval",
+        "Modern",
+        "SciFi"
       ],
       "notes": null,
       "category": "Class",
@@ -6480,7 +6628,9 @@
       "effect": "Adjacent ally’s AR🧥+1 this rnd",
       "created_at": "2026-08-13T21:26:29.821451+00:00",
       "genres": [
-        "All"
+        "Medieval",
+        "Modern",
+        "SciFi"
       ],
       "notes": null,
       "category": "Race",
@@ -6518,7 +6668,9 @@
       "effect": "Move double MR👣; Atk with shield's Def; Dmg💥 uses shield's d(Block🛡️)+2",
       "created_at": "2026-08-13T21:26:29.821451+00:00",
       "genres": [
-        "All"
+        "Medieval",
+        "Modern",
+        "SciFi"
       ],
       "notes": null,
       "category": "Class",
@@ -6664,7 +6816,9 @@
       "effect": "On hit with unarmed; Might💪 or target is Stunned",
       "created_at": "2026-08-13T21:26:29.821451+00:00",
       "genres": [
-        "All"
+        "Medieval",
+        "Modern",
+        "SciFi"
       ],
       "notes": null,
       "category": "Class",
@@ -6762,7 +6916,9 @@
       "effect": "Create 3x3sq zone; foes inside suffer Disadvantage on Atk & Dodge🏃 this rnd",
       "created_at": "2026-08-13T21:26:29.821451+00:00",
       "genres": [
-        "All"
+        "Medieval",
+        "Modern",
+        "SciFi"
       ],
       "notes": null,
       "category": "Class",
@@ -6836,7 +6992,9 @@
       "effect": "Magic✨ Atk (AOE 2sqR); d4 radiant Dmg💥",
       "created_at": "2026-08-13T21:26:29.821451+00:00",
       "genres": [
-        "All"
+        "Medieval",
+        "Modern",
+        "SciFi"
       ],
       "notes": null,
       "category": "Class",
@@ -6850,7 +7008,9 @@
       "effect": "Rally up to 2 allies in 3sq; each gains Vit❤️+1",
       "created_at": "2026-08-13T21:26:29.821451+00:00",
       "genres": [
-        "All"
+        "Medieval",
+        "Modern",
+        "SciFi"
       ],
       "notes": null,
       "category": "Class",
@@ -6864,7 +7024,9 @@
       "effect": "Once/day, Revive ally at ≤0 Vit❤️ to 1 Vit❤️",
       "created_at": "2026-08-13T21:26:29.821451+00:00",
       "genres": [
-        "All"
+        "Medieval",
+        "Modern",
+        "SciFi"
       ],
       "notes": null,
       "category": "Class",
@@ -6914,7 +7076,9 @@
       "effect": "Mind👁️ (GM🔎 set Dif) or target obeys false order",
       "created_at": "2026-08-13T21:26:29.821451+00:00",
       "genres": [
-        "All"
+        "Medieval",
+        "Modern",
+        "SciFi"
       ],
       "notes": null,
       "category": "Class",
@@ -7084,7 +7248,9 @@
       "effect": "Harden body like granite; AR🧥+2 and immune to poison/disease for Encounter",
       "created_at": "2026-08-13T21:26:29.821451+00:00",
       "genres": [
-        "All"
+        "Medieval",
+        "Modern",
+        "SciFi"
       ],
       "notes": null,
       "category": "Class",
@@ -7206,7 +7372,9 @@
       "effect": "Def+1 for 1 rnd",
       "created_at": "2026-08-13T21:26:29.821451+00:00",
       "genres": [
-        "All"
+        "Medieval",
+        "Modern",
+        "SciFi"
       ],
       "notes": null,
       "category": "Class",
@@ -7232,7 +7400,9 @@
       "effect": "Spot danger👁️; Nish🚩+2 on next roll",
       "created_at": "2026-08-13T21:26:29.912709+00:00",
       "genres": [
-        "All"
+        "Medieval",
+        "Modern",
+        "SciFi"
       ],
       "notes": null,
       "category": "Class",
@@ -7342,7 +7512,9 @@
       "effect": "Teleport up to 6sq into sunlight",
       "created_at": "2026-08-13T21:26:29.912709+00:00",
       "genres": [
-        "All"
+        "Medieval",
+        "Modern",
+        "SciFi"
       ],
       "notes": null,
       "category": "Class",
@@ -7356,7 +7528,9 @@
       "effect": "Emit bright light 3sq / dim 6sq for 1 Enc; vs Undead in bright light PCs Atk with Advantage",
       "created_at": "2026-08-13T21:26:29.912709+00:00",
       "genres": [
-        "All"
+        "Medieval",
+        "Modern",
+        "SciFi"
       ],
       "notes": null,
       "category": "Class",
@@ -7502,7 +7676,9 @@
       "effect": "Mind👁️ or targets within 2sq must focus Atks on you",
       "created_at": "2026-08-13T21:26:29.912709+00:00",
       "genres": [
-        "All"
+        "Medieval",
+        "Modern",
+        "SciFi"
       ],
       "notes": null,
       "category": "Class",
@@ -7672,7 +7848,9 @@
       "effect": "Fire mounted siege weapon; Dmg💥+2",
       "created_at": "2026-08-13T21:26:29.912709+00:00",
       "genres": [
-        "All"
+        "Medieval",
+        "Modern",
+        "SciFi"
       ],
       "notes": null,
       "category": "Race",
@@ -7686,7 +7864,9 @@
       "effect": "If operating Warmachine; Mind👁️ to grant allies Nish🚩+2 this rnd",
       "created_at": "2026-08-13T21:26:29.912709+00:00",
       "genres": [
-        "All"
+        "Medieval",
+        "Modern",
+        "SciFi"
       ],
       "notes": null,
       "category": "Class",
@@ -7748,7 +7928,9 @@
       "effect": "If hidden; Atk with Advantage",
       "created_at": "2026-08-13T21:26:29.912709+00:00",
       "genres": [
-        "All"
+        "Medieval",
+        "Modern",
+        "SciFi"
       ],
       "notes": null,
       "category": "Class",
@@ -7762,7 +7944,9 @@
       "effect": "Can wield massive objects as improvised weapons (Dmg💥+2) for encounter",
       "created_at": "2026-08-13T21:26:29.912709+00:00",
       "genres": [
-        "All"
+        "Medieval",
+        "Modern",
+        "SciFi"
       ],
       "notes": null,
       "category": "Class",
@@ -7800,7 +7984,9 @@
       "effect": "MR👣 in a straight line, ignoring most terrain, traps, Block🛡️s, etc.",
       "created_at": "2026-08-13T21:26:29.912709+00:00",
       "genres": [
-        "All"
+        "Medieval",
+        "Modern",
+        "SciFi"
       ],
       "notes": null,
       "category": "Class",
@@ -7862,7 +8048,9 @@
       "effect": "Disguise as another small creature; Mind👁️vs observers that have a reason to disbelieve",
       "created_at": "2026-08-13T21:26:29.912709+00:00",
       "genres": [
-        "All"
+        "Medieval",
+        "Modern",
+        "SciFi"
       ],
       "notes": null,
       "category": "Class",
@@ -7900,7 +8088,9 @@
       "effect": "Reroll 1 failed Mind👁️ or Magic✨ roll",
       "created_at": "2026-08-13T21:26:29.912709+00:00",
       "genres": [
-        "All"
+        "Medieval",
+        "Modern",
+        "SciFi"
       ],
       "notes": null,
       "category": "Class",
@@ -7914,7 +8104,9 @@
       "effect": "Move through foes; All foes \"touched\" (no atk) Magic✨or allys get Atk+2, & Def+2",
       "created_at": "2026-08-13T21:26:29.912709+00:00",
       "genres": [
-        "All"
+        "Medieval",
+        "Modern",
+        "SciFi"
       ],
       "notes": null,
       "category": "Class",
@@ -7928,7 +8120,9 @@
       "effect": "Raise 1sq wall of stone; provides cover",
       "created_at": "2026-08-13T21:26:29.912709+00:00",
       "genres": [
-        "All"
+        "Medieval",
+        "Modern",
+        "SciFi"
       ],
       "notes": null,
       "category": "Race",
@@ -8074,7 +8268,9 @@
       "effect": "Gain Advantage on 1 Dodge🏃 roll this rnd.",
       "created_at": "2026-08-13T21:26:29.912709+00:00",
       "genres": [
-        "All"
+        "Medieval",
+        "Modern",
+        "SciFi"
       ],
       "notes": null,
       "category": "Class",
@@ -8088,7 +8284,9 @@
       "effect": "Detect illusions & glamours with Advantage for encounter",
       "created_at": "2026-08-13T21:26:29.912709+00:00",
       "genres": [
-        "All"
+        "Medieval",
+        "Modern",
+        "SciFi"
       ],
       "notes": null,
       "category": "Class",
@@ -8198,7 +8396,9 @@
       "effect": "Reroll 1 failed Might💪 or Motion🏃 roll",
       "created_at": "2026-08-13T21:26:29.990524+00:00",
       "genres": [
-        "All"
+        "Medieval",
+        "Modern",
+        "SciFi"
       ],
       "notes": null,
       "category": "Class",
@@ -8572,7 +8772,9 @@
       "effect": "When ally is hit; choose: ally AR🧥+d4 or next Dmg💥+d4",
       "created_at": "2026-08-13T21:26:29.990524+00:00",
       "genres": [
-        "All"
+        "Medieval",
+        "Modern",
+        "SciFi"
       ],
       "notes": null,
       "category": "Class",
@@ -8666,7 +8868,9 @@
       "effect": "Magic✨ Atk (AOE 3sqR) vs undead; d8 radiant Dmg💥 and Weakened 1 rnd; Non-undead in AOE Heal+1 Vit❤️",
       "created_at": "2026-08-13T21:26:28.340218+00:00",
       "genres": [
-        "All"
+        "Medieval",
+        "Modern",
+        "SciFi"
       ],
       "notes": null,
       "pic": null,
@@ -8712,7 +8916,9 @@
       "effect": "After you succeed a Resist✨ from an foe; Magic✨ Atk & Dmg💥 vs foe and Mind👁️ to Weaken for 1 rnd.",
       "created_at": "2026-08-13T21:26:28.340218+00:00",
       "genres": [
-        "All"
+        "Medieval",
+        "Modern",
+        "SciFi"
       ],
       "notes": null,
       "pic": null,
@@ -8786,7 +8992,9 @@
       "effect": "While painted; Nish🚩+1 for encounter",
       "created_at": "2026-08-13T21:26:28.340218+00:00",
       "genres": [
-        "All"
+        "Medieval",
+        "Modern",
+        "SciFi"
       ],
       "notes": null,
       "pic": null,
@@ -8800,7 +9008,9 @@
       "effect": "Apply herbal dusts; Heal 1 Vit❤️ to adjacent ally",
       "created_at": "2026-08-13T21:26:28.340218+00:00",
       "genres": [
-        "All"
+        "Medieval",
+        "Modern",
+        "SciFi"
       ],
       "notes": null,
       "pic": null,
@@ -8924,7 +9134,9 @@
       "effect": "On hit; Magic✨ force Dmg💥+1; once per Enc, also push target 1sq.",
       "created_at": "2026-08-13T21:26:28.340218+00:00",
       "genres": [
-        "All"
+        "Medieval",
+        "Modern",
+        "SciFi"
       ],
       "notes": null,
       "pic": null,
@@ -9049,7 +9261,9 @@
       "effect": "Activate focus; Atk⚔️+1 and Def+1 for 1 rnd.",
       "created_at": "2026-08-13T21:26:28.340218+00:00",
       "genres": [
-        "All"
+        "Medieval",
+        "Modern",
+        "SciFi"
       ],
       "notes": null,
       "pic": null,
@@ -9079,7 +9293,9 @@
       "effect": "Activate stance; Resist push/pull; AR🧥+1 for 1 rnd.",
       "created_at": "2026-08-13T21:26:28.340218+00:00",
       "genres": [
-        "All"
+        "Medieval",
+        "Modern",
+        "SciFi"
       ],
       "notes": null,
       "pic": null,
@@ -9189,7 +9405,9 @@
       "effect": "Mind👁️ and Magic✨ rolls with Advantage 1 rnd",
       "created_at": "2026-08-13T21:26:28.340218+00:00",
       "genres": [
-        "All"
+        "Medieval",
+        "Modern",
+        "SciFi"
       ],
       "notes": null,
       "pic": null,
@@ -9283,7 +9501,9 @@
       "effect": "Advantage on Mind👁️ Sleight of Hand checks",
       "created_at": "2026-08-13T21:26:28.340218+00:00",
       "genres": [
-        "All"
+        "Medieval",
+        "Modern",
+        "SciFi"
       ],
       "notes": null,
       "pic": null,
@@ -9297,7 +9517,9 @@
       "effect": "Al iron objects in 3sqR pulled to cloak at Magic✨",
       "created_at": "2026-08-13T21:26:28.340218+00:00",
       "genres": [
-        "All"
+        "Medieval",
+        "Modern",
+        "SciFi"
       ],
       "notes": null,
       "pic": null,
@@ -9327,7 +9549,9 @@
       "effect": "Vanish in burst of feathers; teleport 3sq and become Invisible 1 rnd",
       "created_at": "2026-08-13T21:26:28.340218+00:00",
       "genres": [
-        "All"
+        "Medieval",
+        "Modern",
+        "SciFi"
       ],
       "notes": null,
       "pic": null,
@@ -9405,7 +9629,9 @@
       "effect": "Make 1 Atk⚔️ this rnd with Advantage (one strike only)",
       "created_at": "2026-08-13T21:26:28.340218+00:00",
       "genres": [
-        "All"
+        "Medieval",
+        "Modern",
+        "SciFi"
       ],
       "notes": null,
       "pic": null,
@@ -9435,7 +9661,9 @@
       "effect": "Make 1 Ranged Atk⚔️; ignoring cover and any Atk Disadvantage",
       "created_at": "2026-08-13T21:26:28.340218+00:00",
       "genres": [
-        "All"
+        "Medieval",
+        "Modern",
+        "SciFi"
       ],
       "notes": null,
       "pic": null,
@@ -9723,7 +9951,9 @@
       "effect": "Activate; AR🧥+1 and all worn movement is noiseless for 1 Enc",
       "created_at": "2026-08-13T21:26:28.340218+00:00",
       "genres": [
-        "All"
+        "Medieval",
+        "Modern",
+        "SciFi"
       ],
       "notes": null,
       "pic": null,
@@ -10087,7 +10317,9 @@
       "effect": "When Healing; Heal+1 Vit❤️ or gain AR🧥+1 for 1 rnd",
       "created_at": "2026-08-13T21:26:28.340218+00:00",
       "genres": [
-        "All"
+        "Medieval",
+        "Modern",
+        "SciFi"
       ],
       "notes": null,
       "pic": null,
@@ -10367,7 +10599,9 @@
       "effect": "Resist✨+1 vs fearfor encounter",
       "created_at": "2026-08-13T21:26:28.441265+00:00",
       "genres": [
-        "All"
+        "Medieval",
+        "Modern",
+        "SciFi"
       ],
       "notes": null,
       "pic": null,
@@ -10397,7 +10631,9 @@
       "effect": "Next roll has Advantage",
       "created_at": "2026-08-13T21:26:28.441265+00:00",
       "genres": [
-        "All"
+        "Medieval",
+        "Modern",
+        "SciFi"
       ],
       "notes": null,
       "pic": null,
@@ -10411,7 +10647,9 @@
       "effect": "AR🧥+1; may use Featherfall once as Free action",
       "created_at": "2026-08-13T21:26:28.441265+00:00",
       "genres": [
-        "All"
+        "Medieval",
+        "Modern",
+        "SciFi"
       ],
       "notes": null,
       "pic": null,
@@ -10425,7 +10663,9 @@
       "effect": "On hit; target Resist✨ or Stunned 1 rnd",
       "created_at": "2026-08-13T21:26:28.441265+00:00",
       "genres": [
-        "All"
+        "Medieval",
+        "Modern",
+        "SciFi"
       ],
       "notes": null,
       "pic": null,
@@ -10439,7 +10679,9 @@
       "effect": "Speak & Hearas if you are Keeth; Also revives Keeth from death or loss",
       "created_at": "2026-08-13T21:26:28.441265+00:00",
       "genres": [
-        "All"
+        "Medieval",
+        "Modern",
+        "SciFi"
       ],
       "notes": null,
       "pic": null,
@@ -10453,7 +10695,9 @@
       "effect": "Summon Keeth as (Nymph Sized) mount; fly MR👣; for Encounter",
       "created_at": "2026-08-13T21:26:28.441265+00:00",
       "genres": [
-        "All"
+        "Medieval",
+        "Modern",
+        "SciFi"
       ],
       "notes": null,
       "pic": null,
@@ -10483,7 +10727,9 @@
       "effect": "Can split one knife into 2 knives (new knives last for encounter)",
       "created_at": "2026-08-13T21:26:28.441265+00:00",
       "genres": [
-        "All"
+        "Medieval",
+        "Modern",
+        "SciFi"
       ],
       "notes": null,
       "pic": null,
@@ -10577,7 +10823,9 @@
       "effect": "On use; reroll 1 failed Atk⚔️, Skill🎓, or Power⚡ roll",
       "created_at": "2026-08-13T21:26:28.441265+00:00",
       "genres": [
-        "All"
+        "Medieval",
+        "Modern",
+        "SciFi"
       ],
       "notes": null,
       "pic": null,
@@ -10591,7 +10839,9 @@
       "effect": "For 1 rnd; melee Atk⚔️+1 & Dmg💥+1; vs larger foes, first melee Atk has Advantage",
       "created_at": "2026-08-13T21:26:28.441265+00:00",
       "genres": [
-        "All"
+        "Medieval",
+        "Modern",
+        "SciFi"
       ],
       "notes": null,
       "pic": null,
@@ -10637,7 +10887,9 @@
       "effect": "Target in metal armor; If Magic✨Atk hits target is leVit❤️ated up to 20', then dropped",
       "created_at": "2026-08-13T21:26:28.441265+00:00",
       "genres": [
-        "All"
+        "Medieval",
+        "Modern",
+        "SciFi"
       ],
       "notes": null,
       "pic": null,
@@ -10729,7 +10981,9 @@
       "effect": "On use; Gain Advantage on 1 Mind👁️ roll this rnd.",
       "created_at": "2026-08-13T21:26:28.441265+00:00",
       "genres": [
-        "All"
+        "Medieval",
+        "Modern",
+        "SciFi"
       ],
       "notes": null,
       "pic": null,
@@ -11317,7 +11571,9 @@
       "effect": "Atk+2 this rnd but Dmg💥-1",
       "created_at": "2026-08-13T21:26:28.441265+00:00",
       "genres": [
-        "All"
+        "Medieval",
+        "Modern",
+        "SciFi"
       ],
       "notes": null,
       "pic": null,
@@ -11378,7 +11634,9 @@
       "effect": "Drink; Heal self 1 Vit❤️",
       "created_at": "2026-08-13T21:26:28.441265+00:00",
       "genres": [
-        "All"
+        "Medieval",
+        "Modern",
+        "SciFi"
       ],
       "notes": null,
       "pic": null,
@@ -11631,7 +11889,9 @@
       "effect": "Create 3x3sq smoke cloud; all Stealth rolls in area with Advantage",
       "created_at": "2026-08-13T21:26:28.441265+00:00",
       "genres": [
-        "All"
+        "Medieval",
+        "Modern",
+        "SciFi"
       ],
       "notes": null,
       "pic": null,
@@ -11645,7 +11905,9 @@
       "effect": "Throw 1 bomb; create 3x3sq smoke cloud; foes inside suffer Disadvantage on Atk & Dodge🏃 for 1 rnd",
       "created_at": "2026-08-13T21:26:28.441265+00:00",
       "genres": [
-        "All"
+        "Medieval",
+        "Modern",
+        "SciFi"
       ],
       "notes": null,
       "pic": null,
@@ -11755,7 +12017,9 @@
       "effect": "On hit; Might💪pushes target 1sq. If ally has or will likely Atk target this rnd, both Dmg💥+1",
       "created_at": "2026-08-13T21:26:28.538529+00:00",
       "genres": [
-        "All"
+        "Medieval",
+        "Modern",
+        "SciFi"
       ],
       "notes": null,
       "pic": null,
@@ -11800,7 +12064,9 @@
       "effect": "When grappled; grappler suffers d4 Dmg💥",
       "created_at": "2026-08-13T21:26:28.538529+00:00",
       "genres": [
-        "All"
+        "Medieval",
+        "Modern",
+        "SciFi"
       ],
       "notes": null,
       "pic": null,
@@ -12086,7 +12352,9 @@
       "effect": "On capture (Brawl Atk with at least 1 Wound); foe is Immobilized until Might💪 check succeeds",
       "created_at": "2026-08-13T21:26:28.538529+00:00",
       "genres": [
-        "All"
+        "Medieval",
+        "Modern",
+        "SciFi"
       ],
       "notes": null,
       "pic": null,
@@ -12164,7 +12432,9 @@
       "effect": "On use; Heal self 1 Vit❤️ and emit light 2sq for 1 Enc",
       "created_at": "2026-08-13T21:26:28.538529+00:00",
       "genres": [
-        "All"
+        "Medieval",
+        "Modern",
+        "SciFi"
       ],
       "notes": null,
       "pic": null,
@@ -12193,7 +12463,9 @@
       "effect": "Block🛡️+2 for 1 rnd",
       "created_at": "2026-08-13T21:26:28.538529+00:00",
       "genres": [
-        "All"
+        "Medieval",
+        "Modern",
+        "SciFi"
       ],
       "notes": null,
       "pic": null,
@@ -12351,7 +12623,9 @@
       "effect": "While held: AR🧥+1 and Def+1 for encounter",
       "created_at": "2026-08-13T21:26:28.538529+00:00",
       "genres": [
-        "All"
+        "Medieval",
+        "Modern",
+        "SciFi"
       ],
       "notes": null,
       "pic": null,
@@ -12365,7 +12639,9 @@
       "effect": "Activate rune; AR🧥+3 for 1 rnd",
       "created_at": "2026-08-13T21:26:28.538529+00:00",
       "genres": [
-        "All"
+        "Medieval",
+        "Modern",
+        "SciFi"
       ],
       "notes": null,
       "pic": null,
@@ -12379,7 +12655,9 @@
       "effect": "Scatter glamor powder; 1sqR foes Mind👁️ or Distracted 1 rnd",
       "created_at": "2026-08-13T21:26:28.538529+00:00",
       "genres": [
-        "All"
+        "Medieval",
+        "Modern",
+        "SciFi"
       ],
       "notes": null,
       "pic": null,
@@ -12409,7 +12687,9 @@
       "effect": "Throw 2sq; Magic✨ Atk vs undead; d4 Dmg and Weakened 1 rnd",
       "created_at": "2026-08-13T21:26:28.538529+00:00",
       "genres": [
-        "All"
+        "Medieval",
+        "Modern",
+        "SciFi"
       ],
       "notes": null,
       "pic": null,
@@ -12471,7 +12751,9 @@
       "effect": "Healing Powers and healing received are +1",
       "created_at": "2026-08-13T21:26:28.538529+00:00",
       "genres": [
-        "All"
+        "Medieval",
+        "Modern",
+        "SciFi"
       ],
       "notes": null,
       "pic": null,
@@ -12485,7 +12767,9 @@
       "effect": "Teleport up to 6sq to visible shadow",
       "created_at": "2026-08-13T21:26:28.538529+00:00",
       "genres": [
-        "All"
+        "Medieval",
+        "Modern",
+        "SciFi"
       ],
       "notes": null,
       "pic": null,
@@ -12499,7 +12783,9 @@
       "effect": "After you Heal ally from 0 or less Vit❤️ to 1+, make 1 Brawl Opportunity Atk",
       "created_at": "2026-08-13T21:26:28.538529+00:00",
       "genres": [
-        "All"
+        "Medieval",
+        "Modern",
+        "SciFi"
       ],
       "notes": null,
       "pic": null,
@@ -12559,7 +12845,9 @@
       "effect": "After sharpening weapon: next Atk+1",
       "created_at": "2026-08-13T21:26:28.538529+00:00",
       "genres": [
-        "All"
+        "Medieval",
+        "Modern",
+        "SciFi"
       ],
       "notes": null,
       "pic": null,
@@ -12573,7 +12861,9 @@
       "effect": "On use; next Atk⚔️ with sharpened weapon Dmg💥+1.",
       "created_at": "2026-08-13T21:26:28.538529+00:00",
       "genres": [
-        "All"
+        "Medieval",
+        "Modern",
+        "SciFi"
       ],
       "notes": null,
       "pic": null,
@@ -12838,7 +13128,9 @@
       "source": "DB",
       "created_at": "2026-08-13T21:26:30.190833+00:00",
       "genres": [
-        "All"
+        "Medieval",
+        "Modern",
+        "SciFi"
       ]
     },
     {
@@ -12851,7 +13143,9 @@
       "source": "DB",
       "created_at": "2026-08-13T21:26:30.190833+00:00",
       "genres": [
-        "All"
+        "Medieval",
+        "Modern",
+        "SciFi"
       ]
     },
     {
@@ -13025,7 +13319,9 @@
       "source": "DB",
       "created_at": "2026-08-13T21:26:30.190833+00:00",
       "genres": [
-        "All"
+        "Medieval",
+        "Modern",
+        "SciFi"
       ]
     },
     {
@@ -13157,7 +13453,9 @@
       "source": "DB",
       "created_at": "2026-08-13T21:26:30.190833+00:00",
       "genres": [
-        "All"
+        "Medieval",
+        "Modern",
+        "SciFi"
       ]
     },
     {
@@ -13172,7 +13470,9 @@
       "source": "DB",
       "created_at": "2026-08-13T21:26:30.190833+00:00",
       "genres": [
-        "All"
+        "Medieval",
+        "Modern",
+        "SciFi"
       ]
     },
     {
@@ -13185,7 +13485,9 @@
       "source": "DB",
       "created_at": "2026-08-13T21:26:30.190833+00:00",
       "genres": [
-        "All"
+        "Medieval",
+        "Modern",
+        "SciFi"
       ]
     },
     {
@@ -13705,7 +14007,9 @@
       "source": "DB",
       "created_at": "2026-08-13T21:26:30.190833+00:00",
       "genres": [
-        "All"
+        "Medieval",
+        "Modern",
+        "SciFi"
       ]
     },
     {
@@ -13757,7 +14061,9 @@
       "source": "DB",
       "created_at": "2026-08-13T21:26:30.190833+00:00",
       "genres": [
-        "All"
+        "Medieval",
+        "Modern",
+        "SciFi"
       ]
     },
     {
@@ -13772,7 +14078,9 @@
       "source": "DB",
       "created_at": "2026-08-13T21:26:30.190833+00:00",
       "genres": [
-        "All"
+        "Medieval",
+        "Modern",
+        "SciFi"
       ]
     },
     {
@@ -13787,7 +14095,9 @@
       "source": "DB",
       "created_at": "2026-08-13T21:26:30.190833+00:00",
       "genres": [
-        "All"
+        "Medieval",
+        "Modern",
+        "SciFi"
       ]
     },
     {
@@ -14642,7 +14952,9 @@
       "atk": "💪",
       "dmg": "💪",
       "genres": [
-        "All"
+        "Medieval",
+        "Modern",
+        "SciFi"
       ],
       "notes": null,
       "pic": null
@@ -14852,7 +15164,9 @@
       "atk": "💪-1d",
       "dmg": "💪",
       "genres": [
-        "All"
+        "Medieval",
+        "Modern",
+        "SciFi"
       ],
       "notes": null,
       "pic": null
@@ -15111,7 +15425,9 @@
       "atk": "💪",
       "dmg": "💪",
       "genres": [
-        "All"
+        "Medieval",
+        "Modern",
+        "SciFi"
       ],
       "notes": null,
       "pic": null
@@ -15867,7 +16183,9 @@
       "atk": "🏃",
       "dmg": "💪-1d",
       "genres": [
-        "All"
+        "Medieval",
+        "Modern",
+        "SciFi"
       ],
       "notes": null,
       "pic": null
@@ -17296,7 +17614,9 @@
       "cost": "2s",
       "created_at": "2026-08-13T21:26:28.020141+00:00",
       "genres": [
-        "All"
+        "Medieval",
+        "Modern",
+        "SciFi"
       ],
       "action": "F",
       "usage": "1-Rnd",
@@ -17325,7 +17645,9 @@
       "cost": "3g",
       "created_at": "2026-08-13T21:26:28.020141+00:00",
       "genres": [
-        "All"
+        "Medieval",
+        "Modern",
+        "SciFi"
       ],
       "action": "F",
       "usage": "1-Rnd",
@@ -17355,7 +17677,9 @@
       "cost": "1g",
       "created_at": "2026-08-13T21:26:28.020141+00:00",
       "genres": [
-        "All"
+        "Medieval",
+        "Modern",
+        "SciFi"
       ],
       "action": "F",
       "usage": "1-Rnd",
@@ -17369,7 +17693,9 @@
       "cost": "3g",
       "created_at": "2026-08-13T21:26:28.020141+00:00",
       "genres": [
-        "All"
+        "Medieval",
+        "Modern",
+        "SciFi"
       ],
       "action": "F",
       "usage": "1-Rnd",
@@ -17383,7 +17709,9 @@
       "cost": "1g",
       "created_at": "2026-08-13T21:26:28.020141+00:00",
       "genres": [
-        "All"
+        "Medieval",
+        "Modern",
+        "SciFi"
       ],
       "action": "F",
       "usage": "1-Rnd",
@@ -17397,7 +17725,9 @@
       "cost": "1g",
       "created_at": "2026-08-13T21:26:28.020141+00:00",
       "genres": [
-        "All"
+        "Medieval",
+        "Modern",
+        "SciFi"
       ],
       "action": "F",
       "usage": "1-Rnd",
@@ -17411,7 +17741,9 @@
       "cost": "5s",
       "created_at": "2026-08-13T21:26:28.020141+00:00",
       "genres": [
-        "All"
+        "Medieval",
+        "Modern",
+        "SciFi"
       ],
       "action": "F",
       "usage": "1-Rnd",
@@ -17425,7 +17757,9 @@
       "cost": "2s",
       "created_at": "2026-08-13T21:26:28.020141+00:00",
       "genres": [
-        "All"
+        "Medieval",
+        "Modern",
+        "SciFi"
       ],
       "action": "F",
       "usage": "1-Rnd",
@@ -17439,7 +17773,9 @@
       "cost": "1s",
       "created_at": "2026-08-13T21:26:28.020141+00:00",
       "genres": [
-        "All"
+        "Medieval",
+        "Modern",
+        "SciFi"
       ],
       "action": "F",
       "usage": "1-Rnd",
@@ -17453,7 +17789,9 @@
       "cost": "1s",
       "created_at": "2026-08-13T21:26:28.020141+00:00",
       "genres": [
-        "All"
+        "Medieval",
+        "Modern",
+        "SciFi"
       ],
       "action": "F",
       "usage": "1-Rnd",
@@ -17482,7 +17820,9 @@
       "cost": "4s",
       "created_at": "2026-08-13T21:26:28.020141+00:00",
       "genres": [
-        "All"
+        "Medieval",
+        "Modern",
+        "SciFi"
       ],
       "action": "F",
       "usage": "1-Rnd",
@@ -17496,7 +17836,9 @@
       "cost": "5s",
       "created_at": "2026-08-13T21:26:28.020141+00:00",
       "genres": [
-        "All"
+        "Medieval",
+        "Modern",
+        "SciFi"
       ],
       "action": "F",
       "usage": "1-Rnd",
@@ -17510,7 +17852,9 @@
       "cost": "1g",
       "created_at": "2026-08-13T21:26:28.020141+00:00",
       "genres": [
-        "All"
+        "Medieval",
+        "Modern",
+        "SciFi"
       ],
       "action": "F",
       "usage": "1-Rnd",
@@ -17524,7 +17868,9 @@
       "cost": "2g",
       "created_at": "2026-08-13T21:26:28.020141+00:00",
       "genres": [
-        "All"
+        "Medieval",
+        "Modern",
+        "SciFi"
       ],
       "action": "F",
       "usage": "1-Rnd",
@@ -17538,7 +17884,9 @@
       "cost": "5s",
       "created_at": "2026-08-13T21:26:28.020141+00:00",
       "genres": [
-        "All"
+        "Medieval",
+        "Modern",
+        "SciFi"
       ],
       "action": "F",
       "usage": "1-Rnd",
@@ -17566,7 +17914,9 @@
       "cost": "5s",
       "created_at": "2026-08-13T21:26:28.020141+00:00",
       "genres": [
-        "All"
+        "Medieval",
+        "Modern",
+        "SciFi"
       ],
       "action": "F",
       "usage": "1-Rnd",
@@ -17580,7 +17930,9 @@
       "cost": "3s",
       "created_at": "2026-08-13T21:26:28.020141+00:00",
       "genres": [
-        "All"
+        "Medieval",
+        "Modern",
+        "SciFi"
       ],
       "action": "F",
       "usage": "1-Rnd",
@@ -17594,7 +17946,9 @@
       "cost": "4s",
       "created_at": "2026-08-13T21:26:28.020141+00:00",
       "genres": [
-        "All"
+        "Medieval",
+        "Modern",
+        "SciFi"
       ],
       "action": "F",
       "usage": "1-Rnd",
@@ -17608,7 +17962,9 @@
       "cost": "2s",
       "created_at": "2026-08-13T21:26:28.020141+00:00",
       "genres": [
-        "All"
+        "Medieval",
+        "Modern",
+        "SciFi"
       ],
       "action": "F",
       "usage": "1-Rnd",
@@ -17622,7 +17978,9 @@
       "cost": "1g",
       "created_at": "2026-08-13T21:26:28.020141+00:00",
       "genres": [
-        "All"
+        "Medieval",
+        "Modern",
+        "SciFi"
       ],
       "action": "F",
       "usage": "1-Rnd",
@@ -17636,7 +17994,9 @@
       "cost": "3g",
       "created_at": "2026-08-13T21:26:28.020141+00:00",
       "genres": [
-        "All"
+        "Medieval",
+        "Modern",
+        "SciFi"
       ],
       "action": "F",
       "usage": "1-Rnd",
@@ -17650,7 +18010,9 @@
       "cost": "5g",
       "created_at": "2026-08-13T21:26:28.020141+00:00",
       "genres": [
-        "All"
+        "Medieval",
+        "Modern",
+        "SciFi"
       ],
       "action": "F",
       "usage": "1-Rnd",
@@ -17664,7 +18026,9 @@
       "cost": "3s",
       "created_at": "2026-08-13T21:26:28.020141+00:00",
       "genres": [
-        "All"
+        "Medieval",
+        "Modern",
+        "SciFi"
       ],
       "action": "F",
       "usage": "1-Rnd",
@@ -17678,7 +18042,9 @@
       "cost": "5s",
       "created_at": "2026-08-13T21:26:28.020141+00:00",
       "genres": [
-        "All"
+        "Medieval",
+        "Modern",
+        "SciFi"
       ],
       "action": "F",
       "usage": "1-Rnd",
@@ -17692,7 +18058,9 @@
       "cost": "4s",
       "created_at": "2026-08-13T21:26:28.020141+00:00",
       "genres": [
-        "All"
+        "Medieval",
+        "Modern",
+        "SciFi"
       ],
       "action": "F",
       "usage": "1-Rnd",
@@ -17706,7 +18074,9 @@
       "cost": "1s",
       "created_at": "2026-08-13T21:26:28.020141+00:00",
       "genres": [
-        "All"
+        "Medieval",
+        "Modern",
+        "SciFi"
       ],
       "action": "F",
       "usage": "1-Rnd",
@@ -17735,7 +18105,9 @@
       "cost": "1s",
       "created_at": "2026-08-13T21:26:28.020141+00:00",
       "genres": [
-        "All"
+        "Medieval",
+        "Modern",
+        "SciFi"
       ],
       "action": "F",
       "usage": "1-Rnd",
@@ -17749,7 +18121,9 @@
       "cost": "8s",
       "created_at": "2026-08-13T21:26:28.020141+00:00",
       "genres": [
-        "All"
+        "Medieval",
+        "Modern",
+        "SciFi"
       ],
       "action": "F",
       "usage": "1-Rnd",
@@ -17763,7 +18137,9 @@
       "cost": "2s",
       "created_at": "2026-08-13T21:26:28.020141+00:00",
       "genres": [
-        "All"
+        "Medieval",
+        "Modern",
+        "SciFi"
       ],
       "action": "F",
       "usage": "1-Rnd",
@@ -17777,7 +18153,9 @@
       "cost": "6s",
       "created_at": "2026-08-13T21:26:28.020141+00:00",
       "genres": [
-        "All"
+        "Medieval",
+        "Modern",
+        "SciFi"
       ],
       "action": "F",
       "usage": "1-Rnd",
@@ -17791,7 +18169,9 @@
       "cost": "2g",
       "created_at": "2026-08-13T21:26:28.020141+00:00",
       "genres": [
-        "All"
+        "Medieval",
+        "Modern",
+        "SciFi"
       ],
       "action": "F",
       "usage": "1-Rnd",
@@ -17805,7 +18185,9 @@
       "cost": "1s",
       "created_at": "2026-08-13T21:26:28.020141+00:00",
       "genres": [
-        "All"
+        "Medieval",
+        "Modern",
+        "SciFi"
       ],
       "action": "F",
       "usage": "1-Rnd",
@@ -17819,7 +18201,9 @@
       "cost": "3s",
       "created_at": "2026-08-13T21:26:28.020141+00:00",
       "genres": [
-        "All"
+        "Medieval",
+        "Modern",
+        "SciFi"
       ],
       "action": "F",
       "usage": "1-Rnd",
@@ -17833,7 +18217,9 @@
       "cost": "2s",
       "created_at": "2026-08-13T21:26:28.020141+00:00",
       "genres": [
-        "All"
+        "Medieval",
+        "Modern",
+        "SciFi"
       ],
       "action": "F",
       "usage": "1-Rnd",
@@ -17847,7 +18233,9 @@
       "cost": "2g",
       "created_at": "2026-08-13T21:26:28.020141+00:00",
       "genres": [
-        "All"
+        "Medieval",
+        "Modern",
+        "SciFi"
       ],
       "action": "F",
       "usage": "1-Rnd",
@@ -17861,7 +18249,9 @@
       "cost": "20g",
       "created_at": "2026-08-13T21:26:28.020141+00:00",
       "genres": [
-        "All"
+        "Medieval",
+        "Modern",
+        "SciFi"
       ],
       "action": "F",
       "usage": "1-Rnd",
@@ -17875,7 +18265,9 @@
       "cost": "5s",
       "created_at": "2026-08-13T21:26:28.020141+00:00",
       "genres": [
-        "All"
+        "Medieval",
+        "Modern",
+        "SciFi"
       ],
       "action": "F",
       "usage": "1-Rnd",
@@ -17889,7 +18281,9 @@
       "cost": "75g",
       "created_at": "2026-08-13T21:26:28.020141+00:00",
       "genres": [
-        "All"
+        "Medieval",
+        "Modern",
+        "SciFi"
       ],
       "action": "F",
       "usage": "1-Rnd",
@@ -17903,7 +18297,9 @@
       "cost": "8g",
       "created_at": "2026-08-13T21:26:28.020141+00:00",
       "genres": [
-        "All"
+        "Medieval",
+        "Modern",
+        "SciFi"
       ],
       "action": "F",
       "usage": "1-Rnd",
@@ -17917,7 +18313,9 @@
       "cost": "5g",
       "created_at": "2026-08-13T21:26:28.020141+00:00",
       "genres": [
-        "All"
+        "Medieval",
+        "Modern",
+        "SciFi"
       ],
       "action": "F",
       "usage": "1-Rnd",
@@ -17931,7 +18329,9 @@
       "cost": "3g",
       "created_at": "2026-08-13T21:26:28.020141+00:00",
       "genres": [
-        "All"
+        "Medieval",
+        "Modern",
+        "SciFi"
       ],
       "action": "F",
       "usage": "1-Rnd",
@@ -17945,7 +18345,9 @@
       "cost": "35g",
       "created_at": "2026-08-13T21:26:28.020141+00:00",
       "genres": [
-        "All"
+        "Medieval",
+        "Modern",
+        "SciFi"
       ],
       "action": "F",
       "usage": "1-Rnd",
@@ -17959,7 +18361,9 @@
       "cost": "2s",
       "created_at": "2026-08-13T21:26:28.020141+00:00",
       "genres": [
-        "All"
+        "Medieval",
+        "Modern",
+        "SciFi"
       ],
       "action": "F",
       "usage": "1-Rnd",
@@ -17973,7 +18377,9 @@
       "cost": "6s",
       "created_at": "2026-08-13T21:26:28.020141+00:00",
       "genres": [
-        "All"
+        "Medieval",
+        "Modern",
+        "SciFi"
       ],
       "action": "F",
       "usage": "1-Rnd",
@@ -17987,7 +18393,9 @@
       "cost": "8s",
       "created_at": "2026-08-13T21:26:28.020141+00:00",
       "genres": [
-        "All"
+        "Medieval",
+        "Modern",
+        "SciFi"
       ],
       "action": "F",
       "usage": "1-Rnd",
@@ -18001,7 +18409,9 @@
       "cost": "5s",
       "created_at": "2026-08-13T21:26:28.020141+00:00",
       "genres": [
-        "All"
+        "Medieval",
+        "Modern",
+        "SciFi"
       ],
       "action": "F",
       "usage": "1-Rnd",
@@ -18015,7 +18425,9 @@
       "cost": "2g",
       "created_at": "2026-08-13T21:26:28.020141+00:00",
       "genres": [
-        "All"
+        "Medieval",
+        "Modern",
+        "SciFi"
       ],
       "action": "F",
       "usage": "1-Rnd",
@@ -18057,7 +18469,9 @@
       "cost": "4s",
       "created_at": "2026-08-13T21:26:28.020141+00:00",
       "genres": [
-        "All"
+        "Medieval",
+        "Modern",
+        "SciFi"
       ],
       "action": "F",
       "usage": "1-Rnd",
@@ -18071,7 +18485,9 @@
       "cost": "3s",
       "created_at": "2026-08-13T21:26:28.020141+00:00",
       "genres": [
-        "All"
+        "Medieval",
+        "Modern",
+        "SciFi"
       ],
       "action": "F",
       "usage": "1-Rnd",
@@ -18113,7 +18529,9 @@
       "cost": "2g",
       "created_at": "2026-08-13T21:26:28.020141+00:00",
       "genres": [
-        "All"
+        "Medieval",
+        "Modern",
+        "SciFi"
       ],
       "action": "F",
       "usage": "1-Rnd",
@@ -18127,7 +18545,9 @@
       "cost": "2s",
       "created_at": "2026-08-13T21:26:28.020141+00:00",
       "genres": [
-        "All"
+        "Medieval",
+        "Modern",
+        "SciFi"
       ],
       "action": "F",
       "usage": "1-Rnd",
@@ -18141,7 +18561,9 @@
       "cost": "4s",
       "created_at": "2026-08-13T21:26:28.020141+00:00",
       "genres": [
-        "All"
+        "Medieval",
+        "Modern",
+        "SciFi"
       ],
       "action": "F",
       "usage": "1-Rnd",
@@ -18155,7 +18577,9 @@
       "cost": "1s",
       "created_at": "2026-08-13T21:26:28.020141+00:00",
       "genres": [
-        "All"
+        "Medieval",
+        "Modern",
+        "SciFi"
       ],
       "action": "F",
       "usage": "1-Rnd",
@@ -18214,7 +18638,9 @@
       "cost": "4s",
       "created_at": "2026-08-13T21:26:28.086535+00:00",
       "genres": [
-        "All"
+        "Medieval",
+        "Modern",
+        "SciFi"
       ],
       "action": "F",
       "usage": "1-Rnd",
@@ -18228,7 +18654,9 @@
       "cost": "5s",
       "created_at": "2026-08-13T21:26:28.086535+00:00",
       "genres": [
-        "All"
+        "Medieval",
+        "Modern",
+        "SciFi"
       ],
       "action": "F",
       "usage": "1-Rnd",
@@ -18242,7 +18670,9 @@
       "cost": "4s",
       "created_at": "2026-08-13T21:26:28.086535+00:00",
       "genres": [
-        "All"
+        "Medieval",
+        "Modern",
+        "SciFi"
       ],
       "action": "F",
       "usage": "1-Rnd",
@@ -18256,7 +18686,9 @@
       "cost": "2s",
       "created_at": "2026-08-13T21:26:28.086535+00:00",
       "genres": [
-        "All"
+        "Medieval",
+        "Modern",
+        "SciFi"
       ],
       "action": "F",
       "usage": "1-Rnd",
@@ -18270,7 +18702,9 @@
       "cost": "6s",
       "created_at": "2026-08-13T21:26:28.086535+00:00",
       "genres": [
-        "All"
+        "Medieval",
+        "Modern",
+        "SciFi"
       ],
       "action": "F",
       "usage": "1-Rnd",
@@ -18298,7 +18732,9 @@
       "cost": "5s",
       "created_at": "2026-08-13T21:26:28.086535+00:00",
       "genres": [
-        "All"
+        "Medieval",
+        "Modern",
+        "SciFi"
       ],
       "action": "F",
       "usage": "1-Rnd",
@@ -18312,7 +18748,9 @@
       "cost": "3g",
       "created_at": "2026-08-13T21:26:28.086535+00:00",
       "genres": [
-        "All"
+        "Medieval",
+        "Modern",
+        "SciFi"
       ],
       "action": "F",
       "usage": "1-Rnd",
@@ -18326,7 +18764,9 @@
       "cost": "1g",
       "created_at": "2026-08-13T21:26:28.086535+00:00",
       "genres": [
-        "All"
+        "Medieval",
+        "Modern",
+        "SciFi"
       ],
       "action": "F",
       "usage": "1-Rnd",
@@ -18340,7 +18780,9 @@
       "cost": "5s",
       "created_at": "2026-08-13T21:26:28.086535+00:00",
       "genres": [
-        "All"
+        "Medieval",
+        "Modern",
+        "SciFi"
       ],
       "action": "F",
       "usage": "1-Rnd",
@@ -18354,7 +18796,9 @@
       "cost": "6s",
       "created_at": "2026-08-13T21:26:28.086535+00:00",
       "genres": [
-        "All"
+        "Medieval",
+        "Modern",
+        "SciFi"
       ],
       "action": "F",
       "usage": "1-Rnd",
@@ -18368,7 +18812,9 @@
       "cost": "1s",
       "created_at": "2026-08-13T21:26:28.086535+00:00",
       "genres": [
-        "All"
+        "Medieval",
+        "Modern",
+        "SciFi"
       ],
       "action": "F",
       "usage": "1-Rnd",
@@ -18382,7 +18828,9 @@
       "cost": "2s",
       "created_at": "2026-08-13T21:26:28.086535+00:00",
       "genres": [
-        "All"
+        "Medieval",
+        "Modern",
+        "SciFi"
       ],
       "action": "F",
       "usage": "1-Rnd",
@@ -18396,7 +18844,9 @@
       "cost": "1g",
       "created_at": "2026-08-13T21:26:28.086535+00:00",
       "genres": [
-        "All"
+        "Medieval",
+        "Modern",
+        "SciFi"
       ],
       "action": "F",
       "usage": "1-Rnd",
@@ -18438,7 +18888,9 @@
       "cost": "5s",
       "created_at": "2026-08-13T21:26:28.086535+00:00",
       "genres": [
-        "All"
+        "Medieval",
+        "Modern",
+        "SciFi"
       ],
       "action": "F",
       "usage": "1-Rnd",
@@ -18452,7 +18904,9 @@
       "cost": "1s",
       "created_at": "2026-08-13T21:26:28.086535+00:00",
       "genres": [
-        "All"
+        "Medieval",
+        "Modern",
+        "SciFi"
       ],
       "action": "F",
       "usage": "1-Rnd",
@@ -18466,7 +18920,9 @@
       "cost": "2s",
       "created_at": "2026-08-13T21:26:28.086535+00:00",
       "genres": [
-        "All"
+        "Medieval",
+        "Modern",
+        "SciFi"
       ],
       "action": "F",
       "usage": "1-Rnd",
@@ -18480,7 +18936,9 @@
       "cost": "1s",
       "created_at": "2026-08-13T21:26:28.086535+00:00",
       "genres": [
-        "All"
+        "Medieval",
+        "Modern",
+        "SciFi"
       ],
       "action": "F",
       "usage": "1-Rnd",
@@ -18494,7 +18952,9 @@
       "cost": "4s",
       "created_at": "2026-08-13T21:26:28.086535+00:00",
       "genres": [
-        "All"
+        "Medieval",
+        "Modern",
+        "SciFi"
       ],
       "action": "F",
       "usage": "1-Rnd",
@@ -18508,7 +18968,9 @@
       "cost": "3s",
       "created_at": "2026-08-13T21:26:28.086535+00:00",
       "genres": [
-        "All"
+        "Medieval",
+        "Modern",
+        "SciFi"
       ],
       "action": "F",
       "usage": "1-Rnd",
@@ -18550,7 +19012,9 @@
       "cost": "4s",
       "created_at": "2026-08-13T21:26:28.020141+00:00",
       "genres": [
-        "All"
+        "Medieval",
+        "Modern",
+        "SciFi"
       ],
       "action": "F",
       "usage": "1-Rnd",
@@ -18564,7 +19028,9 @@
       "cost": "6s",
       "created_at": "2026-08-13T21:26:28.020141+00:00",
       "genres": [
-        "All"
+        "Medieval",
+        "Modern",
+        "SciFi"
       ],
       "action": "F",
       "usage": "1-Rnd",
@@ -18578,7 +19044,9 @@
       "cost": "6s",
       "created_at": "2026-08-13T21:26:28.020141+00:00",
       "genres": [
-        "All"
+        "Medieval",
+        "Modern",
+        "SciFi"
       ],
       "action": "F",
       "usage": "1-Rnd",
@@ -18592,7 +19060,9 @@
       "cost": "5s",
       "created_at": "2026-08-13T21:26:28.020141+00:00",
       "genres": [
-        "All"
+        "Medieval",
+        "Modern",
+        "SciFi"
       ],
       "action": "F",
       "usage": "1-Rnd",
@@ -18664,7 +19134,9 @@
       "cost": "2s",
       "created_at": "2026-08-13T21:26:28.020141+00:00",
       "genres": [
-        "All"
+        "Medieval",
+        "Modern",
+        "SciFi"
       ],
       "action": "F",
       "usage": "1-Rnd",
@@ -18722,7 +19194,9 @@
       "cost": "8s",
       "created_at": "2026-08-13T21:26:28.086535+00:00",
       "genres": [
-        "All"
+        "Medieval",
+        "Modern",
+        "SciFi"
       ],
       "action": "F",
       "usage": "1-Rnd",
@@ -18736,7 +19210,9 @@
       "cost": "4s",
       "created_at": "2026-08-13T21:26:28.086535+00:00",
       "genres": [
-        "All"
+        "Medieval",
+        "Modern",
+        "SciFi"
       ],
       "action": "F",
       "usage": "1-Rnd",
@@ -18750,7 +19226,9 @@
       "cost": "2s",
       "created_at": "2026-08-13T21:26:28.086535+00:00",
       "genres": [
-        "All"
+        "Medieval",
+        "Modern",
+        "SciFi"
       ],
       "action": "F",
       "usage": "1-Rnd",
@@ -18835,7 +19313,9 @@
       "cost": "2s",
       "created_at": "2026-08-13T21:26:28.086535+00:00",
       "genres": [
-        "All"
+        "Medieval",
+        "Modern",
+        "SciFi"
       ],
       "action": "F",
       "usage": "1-Rnd",
@@ -18923,7 +19403,9 @@
       "cost": "1s",
       "created_at": "2026-08-13T21:26:28.086535+00:00",
       "genres": [
-        "All"
+        "Medieval",
+        "Modern",
+        "SciFi"
       ],
       "action": "F",
       "usage": "1-Rnd",
@@ -18952,7 +19434,9 @@
       "cost": "8s",
       "created_at": "2026-08-13T21:26:28.086535+00:00",
       "genres": [
-        "All"
+        "Medieval",
+        "Modern",
+        "SciFi"
       ],
       "action": "F",
       "usage": "1-Rnd",
@@ -18980,7 +19464,9 @@
       "cost": "7s",
       "created_at": "2026-08-13T21:26:28.086535+00:00",
       "genres": [
-        "All"
+        "Medieval",
+        "Modern",
+        "SciFi"
       ],
       "action": "F",
       "usage": "1-Rnd",
@@ -19079,7 +19565,9 @@
       "cost": "5s",
       "created_at": "2026-08-13T21:26:28.086535+00:00",
       "genres": [
-        "All"
+        "Medieval",
+        "Modern",
+        "SciFi"
       ],
       "action": "F",
       "usage": "1-Rnd",
@@ -19093,7 +19581,9 @@
       "cost": "2g",
       "created_at": "2026-08-13T21:26:28.086535+00:00",
       "genres": [
-        "All"
+        "Medieval",
+        "Modern",
+        "SciFi"
       ],
       "action": "F",
       "usage": "1-Rnd",
@@ -19107,7 +19597,9 @@
       "cost": "6s",
       "created_at": "2026-08-13T21:26:28.086535+00:00",
       "genres": [
-        "All"
+        "Medieval",
+        "Modern",
+        "SciFi"
       ],
       "action": "F",
       "usage": "1-Rnd",
@@ -19121,7 +19613,9 @@
       "cost": "6s",
       "created_at": "2026-08-13T21:26:28.086535+00:00",
       "genres": [
-        "All"
+        "Medieval",
+        "Modern",
+        "SciFi"
       ],
       "action": "F",
       "usage": "1-Rnd",
@@ -19135,7 +19629,9 @@
       "cost": "4s",
       "created_at": "2026-08-13T21:26:28.086535+00:00",
       "genres": [
-        "All"
+        "Medieval",
+        "Modern",
+        "SciFi"
       ],
       "action": "F",
       "usage": "1-Rnd",
@@ -19149,7 +19645,9 @@
       "cost": "4s",
       "created_at": "2026-08-13T21:26:28.086535+00:00",
       "genres": [
-        "All"
+        "Medieval",
+        "Modern",
+        "SciFi"
       ],
       "action": "F",
       "usage": "1-Rnd",
@@ -19163,7 +19661,9 @@
       "cost": "1s",
       "created_at": "2026-08-13T21:26:28.086535+00:00",
       "genres": [
-        "All"
+        "Medieval",
+        "Modern",
+        "SciFi"
       ],
       "action": "F",
       "usage": "1-Rnd",
@@ -19177,7 +19677,9 @@
       "cost": "2s",
       "created_at": "2026-08-13T21:26:28.086535+00:00",
       "genres": [
-        "All"
+        "Medieval",
+        "Modern",
+        "SciFi"
       ],
       "action": "F",
       "usage": "1-Rnd",
