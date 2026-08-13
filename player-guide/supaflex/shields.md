@@ -4,9 +4,9 @@ Master indexed shields directory.
 
 | Shield | Requirement | Max Block | MR | Description | Cost |
 | --- | --- | --- | --- | --- | --- |
-| **Heater Shield** | 💪 6 | 🛡️20 | 👣-1 |  | 3g |
-| **Kite Shield** | 💪 8 | 🛡️24 | 👣-2 |  | 4g |
-| **Power Shield** | 💪 6 | 🛡️20 | 👣-1 |  |  |
-| **Round Shield** | 💪 4 | 🛡️16 | 👣0 |  | 2g |
-| **Siege Wall Shield** | 💪 12 | 🛡️S | 👣-4 |  | 10g |
-| **Tower Shield** | 💪 10 | 🛡️28 | 👣-3 |  | 8g |
+| **Heater Shield** | 💪 6 | 🛡️16 | 👣-1 |  | 3g |
+| **Kite Shield** | 💪 8 | 🛡️20 | 👣-2 |  | 4g |
+| **Power Shield** | 💪 6 | 🛡️16 | 👣-1 |  |  |
+| **Round Shield** | 💪 4 | 🛡️12 | 👣0 |  | 2g |
+| **Siege Wall Shield** | 💪 12 | 🛡️28 | 👣-4 |  | 10g |
+| **Tower Shield** | 💪 10 | 🛡️24 | 👣-3 |  | 8g |
