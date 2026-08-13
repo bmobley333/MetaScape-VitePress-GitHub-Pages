@@ -188,7 +188,6 @@ Select one of the many sub-sets of powers such as Class👤, Race🧬, Combat St
 | Combat | 1-Enc | P | **Displace Group** | Willing targets (including caster) vanish and reappear at chosen square within [=(✨)] sq. Group arrives adjacent; facing unchanged. |
 | Combat | 1-Enc | P | **Displace Group** | Willing targets (including caster) vanish and reappear at chosen square within [=(✨)] sq. Group arrives adjacent; facing unchanged. |
 | Combat | 1-Rnd | P | **Dissolution** | Store/Retrived a held non-living item in Wraith space |
-| Combat | 1-Rnd | P | **Dissolution** | Store/Retrived a held non-living item in Wraith space |
 | Combat | 1-Enc | P | **Distract & Draw** | Create brief diversion; nearest foe Mind👁️ or looks away; your next Stealth🏃 this rnd gains Advantage |
 | Combat | 2-Enc | P | **Door Hand** | Open or close any portal: [Door Hand(✨)]^Dif |
 | Combat | 2-Enc | P | **Door Hand** | Open or close any portal: [Door Hand(✨)]^Dif |
@@ -565,7 +564,6 @@ Select one of the many sub-sets of powers such as Class👤, Race🧬, Combat St
 | Combat | 1-Enc | A | **Rally Soul** | Resist✨ check vs fastest foe → Nish🚩-2 |
 | Combat | 1-Enc | A | **Rallying Shout** | Allies MR👣+1 for Encounter |
 | Combat | 1-⚡ | F | **Ranger Luck** | Survival: your (starvation, exposure, thirst, etc.) all have Adv |
-| Combat | 1-⚡ | F | **Ranger Luck** | Survival: your (starvation, exposure, thirst, etc.) all have Adv |
 | Combat | 1-Enc | P | **Ranger’s Mark** | Mark target; all allies deal +1 Dmg💥 vs that foe |
 | Combat | 2-Enc | M | **Rapid Reflexes** | Target's 🏃, all 🏃 skills, and Dodge gain Adv |
 | Combat | 2-Enc | M | **Rapid Reflexes** | Target's 🏃, all 🏃 skills, and Dodge gain Adv |
@@ -592,7 +590,6 @@ Select one of the many sub-sets of powers such as Class👤, Race🧬, Combat St
 | Combat | 1-⚡ | A | **Revive** | Restore ally from >= Vit❤️0 to full Vit❤️ |
 | Combat | 1-Rnd | M | **Rhythm Step** | Target's Stealth; MR👣+2 this rnd |
 | Combat | 2-Enc | P | **Ricochet Trick** | On hit with thrown knife; magnetic knife Opporunity Atk to 1 extra target |
-| Combat | 1-⚡ | AM | **Rift Tear** | Interconnected rifts (6 ft high); items/beings/weapon fire pass through. Cluster max 1000 ft. |
 | Combat | 1-⚡ | AM | **Rift Tear** | Interconnected rifts (6 ft high); items/beings/weapon fire pass through. Cluster max 1000 ft. |
 | Combat | 1-Enc | P | **Riot Instigator** | Mind👁️ vs foes or allies in 3sq Advantaged on Atk for 1 rnd |
 | Combat | 1-Enc | P | **Rip & Throw** | Might💪Brawl  to Grab Atk and Dmg💥 & hurl target up d6sq |
@@ -780,7 +777,6 @@ Select one of the many sub-sets of powers such as Class👤, Race🧬, Combat St
 | Combat | 2-Enc | P | **Tough Skin** | Skin becomes leathery to rocky: +[=(💪-1)] AR🧥 or similar (per Ver). |
 | Combat | 1-Enc | M | **Towering Stride** | MR👣 in a straight line, ignoring most terrain, traps, Block🛡️s, etc. |
 | Combat | 2-Enc | A | **Transportal** | Summons 2 portals within range. Willing: auto. Unwilling: [Sk(✨)]^✨ or relocated. Break Melee chance at [Sk(✨)]^Atk. |
-| Combat | 2-Enc | A | **Transportal** | Summons 2 portals within range. Willing: auto. Unwilling: [Sk(✨)]^✨ or relocated. Break Melee chance at [Sk(✨)]^Atk. |
 | Combat | 1-⚡ | P | **Trash Shield** | AR🧥+1 for Encounter |
 | Combat | 1-Enc | A | **Tremor Stomp** | Might💪 or nearby foes fall Prone |
 | Combat | 1-Enc | P | **Tribal Bond** | Allies Nish🚩+1 for Encounter |
@@ -833,7 +829,6 @@ Select one of the many sub-sets of powers such as Class👤, Race🧬, Combat St
 | Combat | 2-Enc | P | **Void Field** | Thin gray Sorce armor: effective vs physical, energy, Sorce. Some Versions grant immunity to certain Sorce abilities. No effect vs Sorce Energy Bolt. |
 | Combat | 3-Enc | P | **Void Healing** | Heal living target (including self): restore [Heal(✨)] Vit❤️. Wounds slide normally. |
 | Combat | 1-⚡ | A | **Void Pulses** | 1 target; auto-hit target for [Dmg(✨)] |
-| Combat | 2-Enc | M | **Void Step** | Teleport up to 5 sq in any direction within sight, OR  [Sk(✨)]^Atk to phase so Attack passes through caster with no effect |
 | Combat | 2-Enc | M | **Void Step** | Teleport up to 5 sq in any direction within sight, OR  [Sk(✨)]^Atk to phase so Attack passes through caster with no effect |
 | Combat | 2-Enc | P | **Void Strike** | [Atk/Dmg(✨)/(✨)] and [Sk(✨)]^🫀 or target displaced up to 3 sq (caster choice; not in air). |
 | Combat | 1-⚡ | A | **Void Vanquish** | [Sk(✨)]^✨ -> Vanquishes to the void, When return have 1/2 Vit, Max of 1 Vanquished |
