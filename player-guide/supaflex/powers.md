@@ -36,6 +36,7 @@ Select one of the many sub-sets of powers such as Class👤, Race🧬, Combat St
 | Combat | 1-⚡ | A | **Ancestral Bow** | Bow auto-hits; normal Dmg💥 |
 | Combat | 1-Enc | F | **Ancestral Echo** | Call dwarven spirits; next roll Roll+2 |
 | Combat | 1-⚡ | F | **Ancestral Guard** | Call on clan spirits; allies in 2sq Nish🚩+1 for Encounter |
+| Combat | 1-⚡ | F | **Ancestral Guard** | Call on clan spirits; allies in 2sq Nish🚩+1 for Encounter |
 | Combat | 1-⚡ | P | **Ancestral Whisper** | Next Mind👁️ roll with Advantage |
 | Combat | 1-Enc | A | **Animal Empathy** | Calm or befriend 1 beast; Mind👁️ animal handling roll |
 | Combat | 2-Enc | M | **Apparition** | Extends caster's hans through a Rift for Atk/Casting/Grabbing or other purposes |
@@ -98,7 +99,6 @@ Select one of the many sub-sets of powers such as Class👤, Race🧬, Combat St
 | Combat | 1-⚡ | A | **Blood Strike** | Each Blade hit on same target: [Atk/Dmg(💪)/(💪)] causes +5 cummulative Wnd bonus and regenerate caster 1st Deg wound by # of hits (i.e. 1, 2, 3...) |
 | Combat | 1-⚡ | P | **Bloodbond** | Caster must have caused bite Dmg: Any new target wounds regenerate cast for 1/2 value |
 | Combat | 1-⚡ | P | **Bloodmarked Defiance** | When reduced to 0 Vit❤️; set to 1 Vit❤️ instead |
-| Combat | Each different Weapon has Advantage with next Attack, lasts for encounter | Bloodmarked Human (Cursed Spartan) - Legion’s Might⚡ (1-⚡, F) ➡ Each different Weapon has Advantage with next Attack, lasts for encounter | **Bloodmarked Human** | 2026-07-19T02:53:26.371223+00:00 |
 | Combat | 2-Enc | A | **Blow** | Kinetic fist [Atk/Dmg(✨)/(✨)]; on hit target may be knocked back [Shove(✨)]^💪. |
 | Combat | 2-Enc | A | **Blow** | Kinetic fist [Atk/Dmg(✨)/(✨)]; on hit target may be knocked back [Shove(✨)]^💪. |
 | Combat | 1-⚡ | P | **Body Heal** | Self-heal: concentrate on wounded area; restore [Heal(🫀)] Vit❤️ (or per Ver). |
@@ -111,14 +111,12 @@ Select one of the many sub-sets of powers such as Class👤, Race🧬, Combat St
 | Combat | 1-Enc | F | **Bronze Discipline** | Reroll one failed Might💪 roll |
 | Combat | 1-Enc | P | **Bronze Resolve** | Resist✨+2 for 1 rnd |
 | Combat | 1-⚡ | F | **Brotherhood of the Garbage Can Gods** | Call on ally memory; reroll 1 failed roll (self or ally) |
-| Combat | Can wield massive objects as improvised weapons (Dmg💥+2) for encounter | Giant Form - Titan’s Grip⚡ (1-⚡, P) ➡ Can wield massive objects as improvised weapons (Dmg💥+2) for encounter | **Brute Force** | 2026-07-19T02:53:35.116869+00:00 |
 | Combat | 1-Enc | M | **Burdened March** | Move MR👣-2; AR🧥+2 for Encounter |
 | Combat | 2-Enc | P | **Camouflage** | Advantage on 1 Motion🏃 stealth roll outdoors |
 | Combat | 1-⚡ | AM | **Carnivorous Plants** | 6' tall, MR(4),  [Atk/Dmg(✨)/(✨)], [Dod/AR(✨-1)/(✨-1)] Vit[=(✨)]. If hit -> [Held(💪)]^💪 Affliction |
 | Combat | 1-Enc | P | **Chain Punk Fury** | On hit; make 1 extra Atk⚔️ with off-hand weapon |
 | Combat | 1-⚡ | A | **Chain Strikes** | Make 3 Atk & Dmg💥 vs same foe |
 | Combat | 1-⚡ | A | **Chaos Surge** | Random elemental effect (as per GM🔎); usually Magic✨ Atk |
-| Combat | Gain Advantage on 1 Dodge🏃 roll this rnd. | Psionic Sentinel - Uncanny Dodge (Mental Reflex)⚡ (1-Enc, P) ➡ Gain Advantage on 1 Dodge🏃 roll this rnd. | **Charlie (Steilgar)** | 2026-07-18T15:14:47.023782+00:00 |
 | Combat | 1-Enc | P | **Charm Veil** | Mind👁️ Socail roll with Advantage |
 | Combat | 1-Enc | P | **Cheerful Bluff** | Mind👁️ social roll with Advantage. |
 | Combat | 1-Enc | P | **Chill Vibes** | Allies regain 1 Vit❤️ when resting neAR🧥you |
@@ -166,7 +164,6 @@ Select one of the many sub-sets of powers such as Class👤, Race🧬, Combat St
 | Combat | 1-Enc | M | **Dark Form** | Dire Wolf: MR(12), [Jumps(🏃+2)], bite [Atk/Dmg(💪)/(💪)]; if hit, latched and shakes/tears for auto hit in future rounds unless [Str(💪-2)]^💪. |
 | Combat | 2-Enc | A | **Dark Surge** | Caster and 1 ally gain Advantage to Atk/Dmg OR Dod/AR. |
 | Combat | 1-⚡ | P | **Dawn’s Aegis** | All allies in 3sq gain AR🧥+1 for 1 Enc |
-| Combat | Predict weather for 1 day; no roll | Weird Powers - Weather Sense⚡ (1-⚡, A) ➡ Predict weather for 1 day; no roll | **DB** | 2026-07-18T15:14:47.023782+00:00 |
 | Combat | 3-Enc | A | **Deadeye Shot** | Blast of sound; Magic✨ to push back foes |
 | Combat | 1-⚡ | F | **Death Blow** | After dealing body Dmg💥: [Death Blow(👁️)]^🫀; success = target dead (PCs to −10 Vit❤️). |
 | Combat | 1-⚡ | A | **Death Ray** | Ray of Sorce energy: [Resist(✨+2)]^🫀 or living target dies (crumbles). Living only. |
@@ -205,7 +202,6 @@ Select one of the many sub-sets of powers such as Class👤, Race🧬, Combat St
 | Combat | 1-Enc | A | **Duet** | Ally’s next action has Advantage if acting with you |
 | Combat | 1-Enc | P | **Dungeoneer’s Sense** | GM🔎 reveals 1 hidden feature when you succeed Mind👁️ perception |
 | Combat | 1-Enc | A | **Dusk Howl** | Foes in 2sq Mind👁️ or flee 1 rnd |
-| Combat | Allies in 2sq Resist✨+1 for Encounter | Dwarf (Blackaxe Clan) - Loyal Heart⚡ (1-⚡, F) ➡ Allies in 2sq Resist✨+1 for Encounter | **Dwarf** | 2026-07-19T02:53:24.968692+00:00 |
 | Combat | 2-Enc | F | **Earth Infused** | Vs elemental or metal (fire/plasma, cold, electrical, metal, earth, stone), AR has Adv |
 | Combat | 2-Enc | F | **Earth Infused** | Vs elemental or metal (fire/plasma, cold, electrical, metal, earth, stone), AR has Adv |
 | Combat | 2-Enc | F | **Earth Infused** | Vs elemental or metal (fire/plasma, cold, electrical, metal, earth, stone), AR has Adv |
@@ -244,7 +240,6 @@ Select one of the many sub-sets of powers such as Class👤, Race🧬, Combat St
 | Combat | 1-Enc | P | **Explosive Shards** | On wound: explodes for [Dmg(✨)] additional wounds. |
 | Combat | 1-Enc | P | **Explosive Shards** | On wound: explodes for [Dmg(✨)] additional wounds. |
 | Combat | 1-Enc | A | **Fade Into Dust** | Invisible for 1 rnd |
-| Combat | Fly MR👣; Hover in place | Fairy (Sunblessed Fey) - Winged Flight⚡ (1-Enc, M) ➡ Fly MR👣; Hover in place | **Fairy** | 2026-07-18T15:14:47.023782+00:00 |
 | Combat | 1-Enc | M | **Feather Step** | Motion🏃 actions (e.g. silence, balance, acrobatics,etc) at Advantage |
 | Combat | 1-⚡ | AM | **Feral Rally** | Allies in AoE: +[=(👁️-1)] to melee Atk/Dmg; Foes in AoE: [Intimidation(💪)]^👁️ or demoralized (flee or ½ Atk and ½ Dmg) as affliction |
 | Combat | 1-Enc | M | **Fey Flight** | While flying this rnd, move up to MR👣 and ignore difficult terrain |
@@ -255,7 +250,6 @@ Select one of the many sub-sets of powers such as Class👤, Race🧬, Combat St
 | Combat | 1-Enc | M | **Fey Step** | Teleport up to 12sq to visible location |
 | Combat | 1-Enc | F | **Fey Whisper** | Communicate with beasts in 3sq |
 | Combat | 1-⚡ | F | **Feytongue** | Mind👁️ speak any language for encounter |
-| Combat | Spot danger👁️; Nish🚩+2 on next roll | Punk Fighter - Street Instincts⚡ (1-Enc, F) ➡ Spot danger👁️; Nish🚩+2 on next roll | **Fighter – Punk Archetype** | 2026-07-19T02:53:49.930038+00:00 |
 | Combat | 1-Enc | P | **Filch** | Motion🏃to steal 1 small item unnoticed |
 | Combat | 1-Enc | F | **Fill The Red Pool** | Spend 1st Deg Wounds to fill the Red Pool (1:2 ratio). Pool may add to melee Atk Result (turn miss to a hit) or increase melee Wnds |
 | Combat | 1-Enc | F | **Fill The Red Pool** | Spend 1st Deg Wounds to fill the Red Pool (1:2 ratio). Pool may add to melee Atk Result (turn miss to a hit) or increase melee Wnds |
@@ -310,7 +304,6 @@ Select one of the many sub-sets of powers such as Class👤, Race🧬, Combat St
 | Combat | 1-Enc | F | **Guard Swap** | Swap weapon or stance; no P cost |
 | Combat | 1-Rnd | M | **Guarded Step** | Move up to 3sq; attempt Block🧱 with weapon to aid ally |
 | Combat | 1-Enc | P | **Guard’s Pragmatism** | Choose Atk⚔️+1 or Def+1 for this rnd. |
-| Combat | Call on clan spirits; allies in 2sq Nish🚩+1 for Encounter | Shield Warrior - Ancestral Guard⚡ (1-⚡, F) ➡ Call on clan spirits; allies in 2sq Nish🚩+1 for Encounter | **Gutrek** | 2026-07-19T02:53:37.948311+00:00 |
 | Combat | 1-Enc | P | **Halfling Courage** | Resist✨ with Advantage vs fear/charm |
 | Combat | 2-Enc | A | **Hallucination** | All minds in range see false images: [Hallucination(✨)]^Dif (WP+Adj). Persists while concentrating; targets may [Awareness(👁️)]^Dif each rnd to break. |
 | Combat | 1-Enc | A | **Hamstring Strike** | On hit; normal Dmg💥 and Motion🏃 or target MR👣 halved 1 rnd |
@@ -340,9 +333,7 @@ Select one of the many sub-sets of powers such as Class👤, Race🧬, Combat St
 | Combat | 1-⚡ | F | **Holo-Clone** | Projects 1 AI holo-duplicate, [Looks Real(👁️)]^👁️ for those who try to determine real caster. |
 | Combat | 1-⚡ | F | **Holo-Clone** | Projects 1 AI holo-duplicate, [Looks Real(👁️)]^👁️ for those who try to determine real caster. |
 | Combat | 1-Enc | A | **Howl Pack** | Allies in 3sq Atk+1 for Encounter |
-| Combat | After you succeed a Resist✨ vs a mental effect; Make Mind👁️ to Weaken the Attacker for 1 rnd. | Human (Aethelgard Bloodline) - Veiled Mind⚡ (1-⚡, F) ➡ After you succeed a Resist✨ vs a mental effect; Make Mind👁️ to Weaken the Attacker for 1 rnd. | **Human** | 2026-07-18T15:14:47.023782+00:00 |
 | Combat | 1-Luck | F | **Human Grit** | Reroll one failed Ability Roll. |
-| Combat | Allies in earshot gain Nish🚩+1 this rnd | Phantom Tainville - Whispered Signal⚡ (1-Enc, F) ➡ Allies in earshot gain Nish🚩+1 this rnd | **Human Thief Assassin** | 2026-07-18T15:14:47.023782+00:00 |
 | Combat | 1-Enc | P | **Hunt Instinct** | Tracking/Scout with Advantage |
 | Combat | 2-Enc | A | **Hurl** | Throw hurled weapon with mind: [Atk/Dmg(✨)/(✨)] at range; weapon and target in range |
 | Combat | 2-Enc | A | **Hurl** | Throw hurled weapon with mind: [Atk/Dmg(✨)/(✨)] at range; weapon and target in range |
@@ -351,7 +342,6 @@ Select one of the many sub-sets of powers such as Class👤, Race🧬, Combat St
 | Combat | 1-Enc | A | **Hypnotic Performance** | Mind👁️ or target is Stunned 1 rnd |
 | Combat | 1-Rnd | P | **Ice Shield** | AR🧥+2 for 1 rnd |
 | Combat | 1-Enc | P | **Ignore the Pain** | Take 1 Dmg💥; negate next d6 Dmg💥 you would take |
-| Combat | Detect illusions & glamours with Advantage for encounter | Pixie Form - Unseen Observer⚡ (1-⚡, F) ➡ Detect illusions & glamours with Advantage for encounter | **Illusions & Shadows** | 2026-07-19T02:53:33.70288+00:00 |
 | Combat | 1-⚡ | A | **Illusory Army** | Create 1d4 illusory allies; Mind👁️ or foes believe for Encounter |
 | Combat | 1-Enc | A | **Illusory Terrain** | Create illusory hazard/cover in 3x3sq; Mind👁️ or foes believe |
 | Combat | 1-⚡ | P | **Immortal Stance** | Bond to surface; +[=(✨)] to Str vs move, +AR and resist explosion/heat/cold. Mind/poison not resisted. |
@@ -377,7 +367,6 @@ Select one of the many sub-sets of powers such as Class👤, Race🧬, Combat St
 | Combat | 1-⚡ | F | **Iron Will** | Remove 1 condition (Stunned or Weakened). |
 | Combat | 2-Enc | A | **Jerk** | Seize and throw object (or small foe): [Wrench(✨)]^💪 to break free if held; [Atk/Dmg(✨)/(✨)] to target hit |
 | Combat | 2-Enc | A | **Jerk** | Seize and throw object (or small foe): [Wrench(✨)]^💪 to break free if held; [Atk/Dmg(✨)/(✨)] to target hit |
-| Combat | Mind👁️ checks to detect scams, danger, or cheats at Advantage | : Magnetic Wizard - Streetwise Eye⚡ (1-Enc, F) ➡ Mind👁️ checks to detect scams, danger, or cheats at Advantage | **Jesse** | 2026-07-18T15:14:47.023782+00:00 |
 | Combat | 1-⚡ | P | **Juggernaut** | AR🧥+2 vs all Atks while in Giant form for encounter |
 | Combat | 2-Enc | P | **Jump** | Greatly enhanced jump/leap: [Athletics(🏃)] for distance; MR or jump Dif improved. |
 | Combat | 1-Enc | P | **Keen Sight** | Spot hidden foes or objects; Mind👁️ with Advantage |
@@ -397,6 +386,7 @@ Select one of the many sub-sets of powers such as Class👤, Race🧬, Combat St
 | Combat | 1-Enc | AM | **Leaping Strike** | Leap up to double MR👣; Dmg💥+2 |
 | Combat | 1-⚡ | F | **Legendary Encore** | Target (self or ally) reroll one failed roll |
 | Combat | 1-⚡ | F | **Legion’s Might** | Each different Weapon has Advantage with next Attack, lasts for encounter |
+| Combat | 1-⚡ | F | **Legion’s Might** | Each different Weapon has Advantage with next Attack, lasts for encounter |
 | Combat | 2-Enc | A | **Levitate Other** | Disk lifts target vertically; [Levitate(✨)]^🏃 to resist. Target may hop off; move disk at MR each rnd. |
 | Combat | 2-Enc | P | **Levitate Self** | Psionic disk under user: vertical (and slight horizontal) movement. Attacks from below: +AR from disk. |
 | Combat | 2-Enc | P | **Levitate Self** | Psionic disk under user: vertical (and slight horizontal) movement. Attacks from below: +AR from disk. |
@@ -409,6 +399,7 @@ Select one of the many sub-sets of powers such as Class👤, Race🧬, Combat St
 | Combat | 1-⚡ | A | **Lorekeeper’s Recall** | Declare 1 statement; GM🔎 confirms yes or no; no roll |
 | Combat | 1-Enc | P | **Lotus Focus** | Gain Adv on next Atk⚔️ roll |
 | Combat | 1-Enc | F | **Lotus Mantra** | Rally allies; nearby gain Nish🚩+1 this rnd |
+| Combat | 1-⚡ | F | **Loyal Heart** | Allies in 2sq Resist✨+1 for Encounter |
 | Combat | 1-⚡ | F | **Loyal Heart** | Allies in 2sq Resist✨+1 for Encounter |
 | Combat | 1-Luck | P | **Lucky Block🛡️** | Block🧱 as if max roll, on 1 Atk |
 | Combat | 1-Luck | P | **Lucky Dodge** | Avoid 1 incoming Atk |
@@ -487,7 +478,6 @@ Select one of the many sub-sets of powers such as Class👤, Race🧬, Combat St
 | Combat | 2-Enc | F | **Neurotoxin Stun** | On hit: [Sk(✨)]^🫀 or paralized |
 | Combat | 1-Rnd | P | **Nimble Form** | Dodge🏃+1 |
 | Combat | 1-Enc | M | **Nimble Step** | Ignore rough terrain and all MR👣 impairments this rnd |
-| Combat | Mind👁️ or target is Charmed 1 rnd (does suggestive bidding if not extreme) | Nymph (Thryndralis Trickster) - Veil of Beauty⚡ (1-Enc, A) ➡ Mind👁️ or target is Charmed 1 rnd (does suggestive bidding if not extreme) | **Nymph** | 2026-07-18T15:14:47.023782+00:00 |
 | Combat | 2-Enc | A | **Oathbound Fury** | If your Wounds ≥ half Vit❤️; Atk+2 this rnd |
 | Combat | 1-Enc | A | **Object Reading** | Touch item; Magic✨ to learn brief history |
 | Combat | 1-Rnd | M | **Object Recall** | Recall to hand; 1 thrown knife; or iron item in range |
@@ -518,7 +508,6 @@ Select one of the many sub-sets of powers such as Class👤, Race🧬, Combat St
 | Combat | 2-Enc | M | **Phantom Step** | Move MR👣; you do not provoke opportunity Atks this rnd. |
 | Combat | 2-Enc | A | **Phasing Thrust** | If [Atk(💪)] hits, skip AR; causes [Wnds(💪-1)] - no AR |
 | Combat | 2-Enc | A | **Phasing Thrust** | If [Atk(💪)] hits, skip AR; causes [Wnds(💪-1)] - no AR |
-| Combat | Once/day, Revive ally at ≤0 Vit❤️ to 1 Vit❤️ | Sun-Devoted Healer-Protector - Solara’s Vow⚡ (1-⚡, F) ➡ Once/day, Revive ally at ≤0 Vit❤️ to 1 Vit❤️ | **Phill (Solen)** | 2026-07-19T02:53:55.779525+00:00 |
 | Combat | 1-Enc | P | **Pick Lock** | Pick Lock with Advantage |
 | Combat | 1-⚡ | A | **Piercing Aether** | Vs heavy armor [Atk/Dmg(💪)/(💪+2)]; Vs or non-combat target (wall, pillar, door, etc.) [Atk/Dmg(💪+2)/(💪+3)] |
 | Combat | 1-⚡ | A | **Piercing Aether** | Vs heavy armor [Atk/Dmg(💪)/(💪+2)]; Vs or non-combat target (wall, pillar, door, etc.) [Atk/Dmg(💪+2)/(💪+3)] |
@@ -630,6 +619,7 @@ Select one of the many sub-sets of powers such as Class👤, Race🧬, Combat St
 | Combat | 1-⚡ | A | **Searing Vortex** | MR(3) 1 sq vortex; [Atk/Dmg(✨)/(✨)]  can [Suck(✨)]^💪 in one adjacent target per round |
 | Combat | 2-Enc | A | **Second Wind** | Self heal 2 Vit❤️ |
 | Combat | 1-Enc | F | **Self-Healing Essence** | When reduced to ngative Vit❤️; Heal 1 Vit❤️ |
+| Combat | 1-Enc | F | **Self-Healing Essence** | When reduced to ngative Vit❤️; Heal 1 Vit❤️ |
 | Combat | 1-Luck | F | **Serendipity** | Provides object, clue, or NPC (as per GM🔎) |
 | Combat | 1-Enc | P | **Set Ambush** | Choose a square; first Atk⚔️ you or ally makes into that square this rnd gains Advantage |
 | Combat | 1-⚡ | A | **Sever Thought** | On hit; Mind👁️ or target cannot use Magic✨ Powers⚡ for 1 rnd. |
@@ -693,11 +683,11 @@ Select one of the many sub-sets of powers such as Class👤, Race🧬, Combat St
 | Combat | 1-Enc | A | **Solar Burst** | Magic✨ Atk (AOE 2sqR); d4 radiant Dmg💥 |
 | Combat | 1-Enc | P | **Solar Rally** | Rally up to 2 allies in 3sq; each gains Vit❤️+1 |
 | Combat | 1-⚡ | F | **Solara’s Vow** | Once/day, Revive ally at ≤0 Vit❤️ to 1 Vit❤️ |
+| Combat | 1-⚡ | F | **Solara’s Vow** | Once/day, Revive ally at ≤0 Vit❤️ to 1 Vit❤️ |
 | Combat | 1-Enc | A | **Song of Serenity** | Mind👁️ or target is Pacified |
 | Combat | 1-Rnd | A | **Sonic Dagger** | Magic✨ Atk d✨ Dmg💥 |
 | Combat | 2-Enc | A | **Sonic Pulse** | Blast of sound; Mind👁️ or foes pushed back d4sq |
 | Combat | 1-Enc | A | **Sound Mimicry** | Mind👁️ (GM🔎 set Dif) or target obeys false order |
-| Combat | Effect | TableName - Name⚡ (Usage, Action) ➡ Effect | **Source** | 2026-07-18T15:14:47.023782+00:00 |
 | Combat | 1-Enc | A | **SpearCircle** | Atk all adjacent foes with spear |
 | Combat | 2-Enc | P | **Speed** | Accelerate muscle movement and reaction: MR(+2) or similar; [Nish(🏃)] improved. |
 | Combat | 1-Enc | A | **Spider Armor** | Runs to target MR(8); +[=(✨-1)] to AR |
@@ -727,7 +717,9 @@ Select one of the many sub-sets of powers such as Class👤, Race🧬, Combat St
 | Combat | 1-Rnd | P | **Stonewall** | Def+1 for 1 rnd |
 | Combat | 2-Enc | P | **Storm Call** | Crack of thunder; Magic✨ or target is Frightened 1 rnd |
 | Combat | 1-Enc | F | **Street Instincts** | Spot danger👁️; Nish🚩+2 on next roll |
+| Combat | 1-Enc | F | **Street Instincts** | Spot danger👁️; Nish🚩+2 on next roll |
 | Combat | 1-⚡ | F | **Street Show** | Perform in downtime; earn 1d6 Silver or gain Minor🍺 for 1 day |
+| Combat | 1-Enc | F | **Streetwise Eye** | Mind👁️ checks to detect scams, danger, or cheats at Advantage |
 | Combat | 1-Enc | F | **Streetwise Eye** | Mind👁️ checks to detect scams, danger, or cheats at Advantage |
 | Combat | 2-Enc | P | **Strength Surge** | One roll: [Strength(💪+2)] for pull/restrain (not weapon or body Dmg unless GM allows). |
 | Combat | 2-Enc | P | **Strength Surge** | One roll: [Strength(💪+2)] for pull/restrain (not weapon or body Dmg unless GM allows). |
@@ -782,6 +774,7 @@ Select one of the many sub-sets of powers such as Class👤, Race🧬, Combat St
 | Combat | 1-Enc | P | **Tinker Trap** | Place small trap; Magic✨ or target suffers Magic✨ Dmg💥 |
 | Combat | 1-Enc | P | **Tiny Terror** | If hidden; Atk with Advantage |
 | Combat | 1-⚡ | P | **Titan’s Grip** | Can wield massive objects as improvised weapons (Dmg💥+2) for encounter |
+| Combat | 1-⚡ | P | **Titan’s Grip** | Can wield massive objects as improvised weapons (Dmg💥+2) for encounter |
 | Combat | 1-Enc | A | **Tornado Spin** | Summon whirlwind; Magic✨ Atk pushes adjacent foes away |
 | Combat | 2-Enc | P | **Tough Skin** | Skin becomes leathery to rocky: +[=(💪-1)] AR🧥 or similar (per Ver). |
 | Combat | 2-Enc | P | **Tough Skin** | Skin becomes leathery to rocky: +[=(💪-1)] AR🧥 or similar (per Ver). |
@@ -790,10 +783,8 @@ Select one of the many sub-sets of powers such as Class👤, Race🧬, Combat St
 | Combat | 2-Enc | A | **Transportal** | Summons 2 portals within range. Willing: auto. Unwilling: [Sk(✨)]^✨ or relocated. Break Melee chance at [Sk(✨)]^Atk. |
 | Combat | 1-⚡ | P | **Trash Shield** | AR🧥+1 for Encounter |
 | Combat | 1-Enc | A | **Tremor Stomp** | Might💪 or nearby foes fall Prone |
-| Combat | Teleport between visible shadows | Shadowfist Healer-Monk - Umbral Form⚡ (2-Enc, M) ➡ Teleport between visible shadows | **Trevor** | 2026-07-18T15:14:47.023782+00:00 |
 | Combat | 1-Enc | P | **Tribal Bond** | Allies Nish🚩+1 for Encounter |
 | Combat | 1-Enc | P | **Trick of Light** | Disguise as another small creature; Mind👁️vs observers that have a reason to disbelieve |
-| Combat | When reduced to ngative Vit❤️; Heal 1 Vit❤️ | Nymph Form - Self-Healing Essence⚡ (1-Enc, F) ➡ When reduced to ngative Vit❤️; Heal 1 Vit❤️ | **Trickster** | 2026-07-19T02:53:32.172702+00:00 |
 | Combat | 1-Enc | P | **Trickster Blink** | Teleport up to 3sq |
 | Combat | 1-Enc | M | **Trickster's Glide** | Move through foes; All foes "touched" (no atk) Magic✨or allys get Atk+2, & Def+2 |
 | Combat | 1-Enc | P | **Trickster’s Feint** | 1 free reroll |
@@ -806,16 +797,21 @@ Select one of the many sub-sets of powers such as Class👤, Race🧬, Combat St
 | Combat | 1-Enc | A | **Twin Threat** | Make Atk with main-hand; if miss, immediately Atk with off-hand |
 | Combat | 1-Enc | F | **Umbral Counter** | On successful Def; make 1 opportunity attack |
 | Combat | 2-Enc | M | **Umbral Form** | Teleport between visible shadows |
+| Combat | 2-Enc | M | **Umbral Form** | Teleport between visible shadows |
 | Combat | 1-Enc | F | **Umbral Heritage** | Motion🏃 Stealth with Advantage in dim light or darkness |
 | Combat | 1-Enc | M | **Umbral Step—Short** | Teleport 12sq to visible shadow |
 | Combat | 1-⚡ | A | **Unbending Steel** | On hit; target Atk⚔️ rolls Dis for 1 rnd |
 | Combat | 1-Enc | P | **Uncanny Dodge** | Gain Advantage on 1 Defense roll this rnd |
 | Combat | 1-Enc | P | **Uncanny Dodge (Mental Reflex)** | Gain Advantage on 1 Dodge🏃 roll this rnd. |
+| Combat | 1-Enc | P | **Uncanny Dodge (Mental Reflex)** | Gain Advantage on 1 Dodge🏃 roll this rnd. |
+| Combat | 1-⚡ | F | **Unseen Observer** | Detect illusions & glamours with Advantage for encounter |
 | Combat | 1-⚡ | F | **Unseen Observer** | Detect illusions & glamours with Advantage for encounter |
 | Combat | 1-Enc | F | **Unyielding Rage** | Heal [Sk(🫀-2)] 1st Deg Wnds; all sqs cost MR(1) unless extreme terrain: Immune to Fear/Stun/Slow/Paralysis/Hold/Poisons/Disease |
 | Combat | 2-Enc | A | **Vampiric** | Drain Vit from victim to self: [Resist(✨)]^✨ for Wnds & Healing of [Drain(✨-1)] Ignores armor. No effect on non-living. |
 | Combat | 1-Enc | F | **Vanish** | If unseen; become hidden; you may immediately move up to d4 sq toward a visible shadow |
 | Combat | 1-Enc | A | **Veil of Beauty** | Mind👁️ or target is Charmed 1 rnd (does suggestive bidding if not extreme) |
+| Combat | 1-Enc | A | **Veil of Beauty** | Mind👁️ or target is Charmed 1 rnd (does suggestive bidding if not extreme) |
+| Combat | 1-⚡ | F | **Veiled Mind** | After you succeed a Resist✨ vs a mental effect; Make Mind👁️ to Weaken the Attacker for 1 rnd. |
 | Combat | 1-⚡ | F | **Veiled Mind** | After you succeed a Resist✨ vs a mental effect; Make Mind👁️ to Weaken the Attacker for 1 rnd. |
 | Combat | 1-⚡ | A | **Vengeance Claw** | Tight radius AoE: [Atk/Dmg(💪)/(💪)] vs all foes who attacked you (previous or this rnd). |
 | Combat | 1-⚡ | A | **Vengeance Claw** | Tight radius AoE: [Atk/Dmg(💪)/(💪)] vs all foes who attacked you (previous or this rnd). |
@@ -852,13 +848,16 @@ Select one of the many sub-sets of powers such as Class👤, Race🧬, Combat St
 | Combat | 1-Enc | P | **Weapon Control** | On successful Atk; Motion🏃 disarms target |
 | Combat | 2-Enc | P | **Weapon Mastery** | If you attacked last rnd with same weapon; Atk+2 and Dmg💥+2 this rnd |
 | Combat | 1-⚡ | A | **Weather Sense** | Predict weather for 1 day; no roll |
+| Combat | 1-⚡ | A | **Weather Sense** | Predict weather for 1 day; no roll |
 | Combat | 2-Enc | A | **Weighted Throw** | If you are unseen to Target; Hurl dagger at Advantage |
 | Combat | 1-⚡ | A | **Whirling Dance** | Make separate Atk & Dmg💥 rolls vs 2 adjacent foes |
 | Combat | 1-Enc | A | **Whirlwind Strike** | Atk all foes adjacent to you |
 | Combat | 1-Enc | F | **Whispered Signal** | Allies in earshot gain Nish🚩+1 this rnd |
+| Combat | 1-Enc | F | **Whispered Signal** | Allies in earshot gain Nish🚩+1 this rnd |
 | Combat | 1-Enc | A | **Whizbang** | Launch spark/popper; Magic✨ Atk & Dmg💥+1 |
 | Combat | 1-Rnd | P | **Wholeness of Body** | Restore 2 Vit❤️ to yourself |
 | Combat | 1-Luck | A | **Wild Gambit** | Your next roll has Advantage |
+| Combat | 1-Enc | M | **Winged Flight** | Fly MR👣; Hover in place |
 | Combat | 1-Enc | M | **Winged Flight** | Fly MR👣; Hover in place |
 | Combat | 1-Rnd | M | **Woodland Step** | Stealth in natural terrain at MR👣+2; 1 rnd |
 | Combat | 1-Enc | P | **You Look Kinda Nice When You’re in Danger** | When ally is hit; choose: ally AR🧥+d4 or next Dmg💥+d4 |
