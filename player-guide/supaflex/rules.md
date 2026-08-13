@@ -30,6 +30,8 @@ outline: 2
 
 📇 Character Card 2-Row Layout Standard – Character selection cards (`UnifiedLaunchHubModal.tsx`) MUST enforce a 2-column flexbox grid layout (`flex items-center justify-between gap-3`), placing Name and Badges in the left column (Rows 1 & 2) and the `Active Hero` badge and Edit/Delete buttons in the right column (Rows 1 & 2) to eliminate vertical overlapping.
 
+🔄 Standardized Usage Options – All usage dropdowns, database entries, and ability definitions across SupaFlex enforce this exact 9-option list and order: `1`, `2`, `3`, `1-⚡`, `1-🍀`, `1-Enc`, `2-Enc`, `3-Enc`, `1-Rnd`.
+
 
 
 ## 🙂Emojis

@@ -209,7 +209,7 @@ Select one of the many sub-sets of powers such as Class👤, Race🧬, Combat St
 | Combat | 1-Enc | M | **Fey Flight** | While flying this rnd, move up to MR👣 and ignore difficult terrain |
 | Combat | 1-⚡ | P | **Fey Glamour** | Target Resist✨ or Charmed for 1 rnd |
 | Combat | 1-Enc | F | **Fey Grace** | Gain Nish🚩+2 this rnd |
-| Combat | 1-Luck | F | **Fey Luck** | Reroll one failed Dodge🏃 roll |
+| Combat | 1-🍀 | F | **Fey Luck** | Reroll one failed Dodge🏃 roll |
 | Combat | 1-⚡ | P | **Fey Resilience** | Resist✨ with Advantage vs charm/fearfor Encounter |
 | Combat | 1-Enc | M | **Fey Step** | Teleport up to 12sq to visible location |
 | Combat | 1-Enc | F | **Fey Whisper** | Communicate with beasts in 3sq |
@@ -237,7 +237,7 @@ Select one of the many sub-sets of powers such as Class👤, Race🧬, Combat St
 | Combat | 1-⚡ | P | **Forge-Bound Shout** | Adjacent allies gain Def+1 for Encounter |
 | Combat | 1-Enc | P | **Forge-Touched** | Touch weapon; Dmg💥+1 for Encounter |
 | Combat | 1-Enc | M | **Formation Rally** | Move to ally; that ally heals 1 Vit❤️ |
-| Combat | 1-Luck | F | **Fortunate Timing** | take turn immediately even if before your Nish🚩 |
+| Combat | 1-🍀 | F | **Fortunate Timing** | take turn immediately even if before your Nish🚩 |
 | Combat | 1-Enc | A | **Frost Nova** | Magic✨ Atk & cold Dmg💥 to all adjacent foes ; foes Weakened 1 rnd |
 | Combat | 1-Enc | AM | **Furious Charge** | Move double MR👣, Atk, and Dmg💥+2 |
 | Combat | 1-⚡ | A | **Fury Blast** | Tight radius AoE: all [Knockback(✨)]^💪 (feet = success); if 10+ ft → prone & Wnds = ft/10. |
@@ -285,7 +285,7 @@ Select one of the many sub-sets of powers such as Class👤, Race🧬, Combat St
 | Combat | 1-Enc | P | **Holo-Cloak** | Invisible (visible light only); silenced. [Stealth(🏃+1)]^👁️ only if opponent actively scanning or has hidden/special vision. |
 | Combat | 1-⚡ | F | **Holo-Clone** | Projects 1 AI holo-duplicate, [Looks Real(👁️)]^👁️ for those who try to determine real caster. |
 | Combat | 1-Enc | A | **Howl Pack** | Allies in 3sq Atk+1 for Encounter |
-| Combat | 1-Luck | F | **Human Grit** | Reroll one failed Ability Roll. |
+| Combat | 1-🍀 | F | **Human Grit** | Reroll one failed Ability Roll. |
 | Combat | 1-Enc | P | **Hunt Instinct** | Tracking/Scout with Advantage |
 | Combat | 2-Enc | A | **Hurl** | Throw hurled weapon with mind: [Atk/Dmg(✨)/(✨)] at range; weapon and target in range |
 | Combat | 1-Enc | P | **Hurl King** | Draw and throw 1 hurled weapon as second Atk/Dmg💥 |
@@ -300,7 +300,7 @@ Select one of the many sub-sets of powers such as Class👤, Race🧬, Combat St
 | Combat | 1-Enc | M | **Increased Stamina** | Target's: Moxie Atr and Skills gain *1.5; Abosbs 5 Wnds per hit |
 | Combat | 1-Enc | A | **Inferno Blow** | [Atk/Dmg(💪)/(💪+1)] on main target, up to two adjacent targets [Atk/Dmg(💪+2)/(💪-1)] |
 | Combat | 2-Enc | F | **Insect Swarm** | Small Radius swarm MR 2. In/entering swarm on caster's Nish: [Sk(✨)]^🫀 or suffer [Sk(✨-1)] Wnds |
-| Combat | 1-Luck | P | **Inspire Ally** | Ally’s next roll has Advantage |
+| Combat | 1-🍀 | P | **Inspire Ally** | Ally’s next roll has Advantage |
 | Combat | 1-⚡ | A | **Inspiring Anthem** | Ally rerolls a failed check |
 | Combat | 1-Enc | A | **Inspiring Tune** | Allies next rolls have Advantage |
 | Combat | 3-Enc | A | **Integrated Targeting** | Either [Atk/Dmg(👁️)/(👁️)] all Marked targets with pistol; OR may mark [d2+2] targets. |
@@ -319,14 +319,14 @@ Select one of the many sub-sets of powers such as Class👤, Race🧬, Combat St
 | Combat | 1-Enc | P | **Keen Sight** | Spot hidden foes or objects; Mind👁️ with Advantage |
 | Combat | 1-⚡ | A | **Keeth’s Cry** | Summon Keeth; allies in 3sq Nish🚩+2 for Encounter |
 | Combat | 1-Enc | AM | **Ki Centering** | Spend 1 rnd in focus (no other actions); regain 1 Luck🍀 |
-| Combat | 1-Luck | F | **Ki Focus** | Spend 1 Luck🍀; Roll+2 |
+| Combat | 1-🍀 | F | **Ki Focus** | Spend 1 Luck🍀; Roll+2 |
 | Combat | 2-Enc | F | **Ki Surge** | For 1 rnd, choose: Atk+2, Dod+2, or Resist✨+2 |
 | Combat | 2-Enc | A | **Knee Breaker** | On hit; normal Dmg💥 and Might💪 or target Immobilized |
 | Combat | 1-Enc | A | **Knife Barrage** | Throw 3 knives; each at full Atk and Dmg-2💥 |
 | Combat | 1-⚡ | F | **Knife Savant** | Thrown knives Atk+1 for encounter |
 | Combat | 1-Enc | A | **Knife Swarm** | Recall all thrown knives in range; make 1 Atk with each against nearby foes |
 | Combat | 2-Enc | P | **Landing** | Cushion of mental force: [Landing(✨)] reduces falling distance (feet) by roll; remaining fall uses normal AR🧥. |
-| Combat | 1-Luck | F | **Last Chance** | If reduced to negative Vit❤️; stay at 1 Vit❤️ instead |
+| Combat | 1-🍀 | F | **Last Chance** | If reduced to negative Vit❤️; stay at 1 Vit❤️ instead |
 | Combat | 1-⚡ | A | **Last Stand** | If reduced to negative Vit❤️; act normally until end of rnd |
 | Combat | 1-⚡ | A | **Lava Pool** | Create hazard; foes entering sq Magic✨ Save or d✨ fire Dmg💥 |
 | Combat | 1-Enc | P | **Leap of the Colossus** | Jump up to 5sq; using Might💪Brawl as "Landing" Atk & Dmg💥 |
@@ -337,16 +337,16 @@ Select one of the many sub-sets of powers such as Class👤, Race🧬, Combat St
 | Combat | 2-Enc | P | **Levitate Self** | Psionic disk under user: vertical (and slight horizontal) movement. Attacks from below: +AR from disk. |
 | Combat | 2-Enc | M | **Life Drain** | Tight radius AoE: [Life Drain(✨)]^✨ → 5 Wnd/rnd cummulative. Per target wounded per round, caster regenerates 1 1st Deg wound. |
 | Combat | 1-Rnd | A | **Lightning Jolt** | Magic✨ Atk ranged d✨ lightning Dmg💥 |
-| Combat | 1-Luck | F | **Light’s Mercy** | Reroll one failed Heal roll |
+| Combat | 1-🍀 | F | **Light’s Mercy** | Reroll one failed Heal roll |
 | Combat | 1-Enc | M | **Linebreaker** | Move MR👣 through foes; each must Block🧱 (Might💪) or fall Prone |
 | Combat | 1-⚡ | A | **Lorekeeper’s Recall** | Declare 1 statement; GM🔎 confirms yes or no; no roll |
 | Combat | 1-Enc | P | **Lotus Focus** | Gain Adv on next Atk⚔️ roll |
 | Combat | 1-Enc | F | **Lotus Mantra** | Rally allies; nearby gain Nish🚩+1 this rnd |
 | Combat | 1-⚡ | F | **Loyal Heart** | Allies in 2sq Resist✨+1 for Encounter |
-| Combat | 1-Luck | P | **Lucky Block🛡️** | Block🧱 as if max roll, on 1 Atk |
-| Combat | 1-Luck | P | **Lucky Dodge** | Avoid 1 incoming Atk |
+| Combat | 1-🍀 | P | **Lucky Block🛡️** | Block🧱 as if max roll, on 1 Atk |
+| Combat | 1-🍀 | P | **Lucky Dodge** | Avoid 1 incoming Atk |
 | Combat | 1-Enc | P | **Lucky Jinx** | Next roll vs Target has Advantage |
-| Combat | 1-Luck | F | **Lucky Strike** | On successful Atk; Dmg💥+5 |
+| Combat | 1-🍀 | F | **Lucky Strike** | On successful Atk; Dmg💥+5 |
 | Combat | 1-Enc | A | **Lullaby** | Mind👁️ or target is Asleep |
 | Combat | 1-Rnd | P | **Lupine Agility** | Substitute for Parkour, Acrobatics, Jump, Climb, or Balance; [Agility(🏃+2)]. |
 | Combat | 1-Enc | M | **Lycanthropy** | Transform into: Dire Wolf: MR(12), [Jumps(🏃+2)], bite [Atk/Dmg(💪)/(💪+1)]; if hit -> Bite can Latch for [Dmg(💪)] each round. |
@@ -440,7 +440,7 @@ Select one of the many sub-sets of powers such as Class👤, Race🧬, Combat St
 | Combat | 1-Enc | P | **Pixie’s Laughter** | Mind👁️ or target is Weakened 1 rnd |
 | Combat | 1-⚡ | A | **Plasma Breath** | AoE 1×short distance: [Atk/Dmg(✨)/(✨+1)] |
 | Combat | 2-Enc | M | **Plasma Ignite** | Plasma Gauntlets [Atk/Dmg(💪)/(💪+2)] |
-| Combat | 1-Luck | P | **Pocket Luck🍀** | Add +4 to 1 roll |
+| Combat | 1-🍀 | P | **Pocket Luck🍀** | Add +4 to 1 roll |
 | Combat | 2-Enc | A | **Poison Ivy** | Acidic poison: [2d8] Wnds per round |
 | Combat | 1-Enc | M | **Polarize Armor** | One ally in 3sq wearing iron; AR🧥+2 for 1 rnd |
 | Combat | 1-Enc | A | **Polymorph Minor🍺** | Change form of 1 object; Magic✨ |
@@ -519,7 +519,7 @@ Select one of the many sub-sets of powers such as Class👤, Race🧬, Combat St
 | Combat | 1-⚡ | A | **Searing Vortex** | MR(3) 1 sq vortex; [Atk/Dmg(✨)/(✨)]  can [Suck(✨)]^💪 in one adjacent target per round |
 | Combat | 2-Enc | A | **Second Wind** | Self heal 2 Vit❤️ |
 | Combat | 1-Enc | F | **Self-Healing Essence** | When reduced to ngative Vit❤️; Heal 1 Vit❤️ |
-| Combat | 1-Luck | F | **Serendipity** | Provides object, clue, or NPC (as per GM🔎) |
+| Combat | 1-🍀 | F | **Serendipity** | Provides object, clue, or NPC (as per GM🔎) |
 | Combat | 1-Enc | P | **Set Ambush** | Choose a square; first Atk⚔️ you or ally makes into that square this rnd gains Advantage |
 | Combat | 1-⚡ | A | **Sever Thought** | On hit; Mind👁️ or target cannot use Magic✨ Powers⚡ for 1 rnd. |
 | Combat | 1-⚡ | M | **Shadow Beast** | Summon shadow beast: Night Raven: MR(18) fly, [Dod/AR(✨+2)/(✨-1)], [Vit(✨-1)], [Stealth(✨+2)]). |
@@ -707,7 +707,7 @@ Select one of the many sub-sets of powers such as Class👤, Race🧬, Combat St
 | Combat | 1-Enc | F | **Whispered Signal** | Allies in earshot gain Nish🚩+1 this rnd |
 | Combat | 1-Enc | A | **Whizbang** | Launch spark/popper; Magic✨ Atk & Dmg💥+1 |
 | Combat | 1-Rnd | P | **Wholeness of Body** | Restore 2 Vit❤️ to yourself |
-| Combat | 1-Luck | A | **Wild Gambit** | Your next roll has Advantage |
+| Combat | 1-🍀 | A | **Wild Gambit** | Your next roll has Advantage |
 | Combat | 1-Enc | M | **Winged Flight** | Fly MR👣; Hover in place |
 | Combat | 1-Rnd | M | **Woodland Step** | Stealth in natural terrain at MR👣+2; 1 rnd |
 | Combat | 1-Enc | P | **You Look Kinda Nice When You’re in Danger** | When ally is hit; choose: ally AR🧥+d4 or next Dmg💥+d4 |

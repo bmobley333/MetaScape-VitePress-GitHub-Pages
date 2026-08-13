@@ -2417,7 +2417,7 @@
     {
       "id": 232,
       "name": "Fey Luck",
-      "usage": "1-Luck",
+      "usage": "1-🍀",
       "action": "F",
       "effect": "Reroll one failed Dodge🏃 roll",
       "created_at": "2026-08-13T21:26:29.436163+00:00",
@@ -2757,7 +2757,7 @@
     {
       "id": 261,
       "name": "Fortunate Timing",
-      "usage": "1-Luck",
+      "usage": "1-🍀",
       "action": "F",
       "effect": "take turn immediately even if before your Nish🚩",
       "created_at": "2026-08-13T21:26:29.436163+00:00",
@@ -3343,7 +3343,7 @@
     {
       "id": 320,
       "name": "Human Grit",
-      "usage": "1-Luck",
+      "usage": "1-🍀",
       "action": "F",
       "effect": "Reroll one failed Ability Roll.",
       "created_at": "2026-08-13T21:26:29.524874+00:00",
@@ -3529,7 +3529,7 @@
     {
       "id": 339,
       "name": "Inspire Ally",
-      "usage": "1-Luck",
+      "usage": "1-🍀",
       "action": "P",
       "effect": "Ally’s next roll has Advantage",
       "created_at": "2026-08-13T21:26:29.524874+00:00",
@@ -3763,7 +3763,7 @@
     {
       "id": 359,
       "name": "Ki Focus",
-      "usage": "1-Luck",
+      "usage": "1-🍀",
       "action": "F",
       "effect": "Spend 1 Luck🍀; Roll+2",
       "created_at": "2026-08-13T21:26:29.524874+00:00",
@@ -3847,7 +3847,7 @@
     {
       "id": 366,
       "name": "Last Chance",
-      "usage": "1-Luck",
+      "usage": "1-🍀",
       "action": "F",
       "effect": "If reduced to negative Vit❤️; stay at 1 Vit❤️ instead",
       "created_at": "2026-08-13T21:26:29.524874+00:00",
@@ -3971,7 +3971,7 @@
     {
       "id": 381,
       "name": "Light’s Mercy",
-      "usage": "1-Luck",
+      "usage": "1-🍀",
       "action": "F",
       "effect": "Reroll one failed Heal roll",
       "created_at": "2026-08-13T21:26:29.524874+00:00",
@@ -4059,7 +4059,7 @@
     {
       "id": 388,
       "name": "Lucky Block🛡️",
-      "usage": "1-Luck",
+      "usage": "1-🍀",
       "action": "P",
       "effect": "Block🧱 as if max roll, on 1 Atk",
       "created_at": "2026-08-13T21:26:29.524874+00:00",
@@ -4071,7 +4071,7 @@
     {
       "id": 389,
       "name": "Lucky Dodge",
-      "usage": "1-Luck",
+      "usage": "1-🍀",
       "action": "P",
       "effect": "Avoid 1 incoming Atk",
       "created_at": "2026-08-13T21:26:29.524874+00:00",
@@ -4095,7 +4095,7 @@
     {
       "id": 391,
       "name": "Lucky Strike",
-      "usage": "1-Luck",
+      "usage": "1-🍀",
       "action": "F",
       "effect": "On successful Atk; Dmg💥+5",
       "created_at": "2026-08-13T21:26:29.524874+00:00",
@@ -5243,7 +5243,7 @@
     {
       "id": 508,
       "name": "Pocket Luck🍀",
-      "usage": "1-Luck",
+      "usage": "1-🍀",
       "action": "P",
       "effect": "Add +4 to 1 roll",
       "created_at": "2026-08-13T21:26:29.72558+00:00",
@@ -6217,7 +6217,7 @@
     {
       "id": 605,
       "name": "Serendipity",
-      "usage": "1-Luck",
+      "usage": "1-🍀",
       "action": "F",
       "effect": "Provides object, clue, or NPC (as per GM🔎)",
       "created_at": "2026-08-13T21:26:29.821451+00:00",
@@ -8531,7 +8531,7 @@
     {
       "id": 839,
       "name": "Wild Gambit",
-      "usage": "1-Luck",
+      "usage": "1-🍀",
       "action": "A",
       "effect": "Your next roll has Advantage",
       "created_at": "2026-08-13T21:26:29.990524+00:00",
