@@ -14,7 +14,7 @@ Master indexed weapons directory.
 | **Bio-Forge Gauntlet** | Melee | 💪 8 | 16 | 💪 | 💪 | 5g |
 | **Bio-Spitter** | Shot | 👁️ 8 | None | 👁️ | 👁️ | 6g |
 | **Bio-Vine Whip** | Melee | 💪 6 | None | 💪 | 💪 | 3g |
-| **Blaster Cannon** | Shot | 👁️S | None | 👁️ | 👁️ | 12g |
+| **Blaster Cannon** | Shot | 👁️12 | None | 👁️ | 👁️ | 12g |
 | **Blaster Carbine** | Shot | 👁️ 10 | None | 👁️ | 👁️ | 5g |
 | **Blaster Pistol** | Shot | 👁️ 6 | None | 👁️ | 👁️ | 3g |
 | **Blaster Rifle** | Shot | 👁️ 10 | None | 👁️ | 👁️ | 6g |
@@ -37,7 +37,7 @@ Master indexed weapons directory.
 | **Crystal Thrower** | Shot | 👁️ 10 | None | 👁️ | 👁️ | 10g |
 | **Cyber Talons** | Melee | 💪 6 | 12 | 💪 | 💪 | 4g |
 | **Dagger** | Melee, Hurled | 💪 4, 🏃 4 | 8 | 💪, 🏃 | 💪, 💪 | 5s |
-| **Disk Cannon** | Shot | 👁️S | None | 👁️ | 👁️ | 10g |
+| **Disk Cannon** | Shot | 👁️12 | None | 👁️ | 👁️ | 10g |
 | **Disk Pistol** | Shot | 👁️ 6 | None | 👁️ | 👁️ | 3g |
 | **Disk Rifle** | Shot | 👁️ 10 | None | 👁️ | 👁️ | 7g |
 | **Dragon Slayer Spear** | Melee, Hurled | 💪 12, 🏃 12 | 24 | 💪, 🏃 | 💪, 🏃 | 9g |
@@ -74,7 +74,7 @@ Master indexed weapons directory.
 | **Mace (Heavy)** | Melee | 💪 8 | 16 | 💪 | 💪 | 3g |
 | **Magazine Bow** | Shot | 👁️ 8 | None | 👁️ | 👁️ | 4g |
 | **Microgrenade Launcher** | Shot | 👁️ 12 | None | 👁️ | 👁️ | 10g |
-| **Missile Launcher** | Shot | 👁️S | None | 👁️ | 👁️ | 14g |
+| **Missile Launcher** | Shot | 👁️12 | None | 👁️ | 👁️ | 14g |
 | **Morningstar** | Melee | 💪 10 | 20 | 💪 | 💪 | 5g |
 | **Nano-Blade** | Melee, Hurled | 💪 6, 🏃 6 | 12 | 💪, 🏃 | 💪, 🏃 | 5g |
 | **Needler** | Shot | 👁️ 6 | None | 👁️ | 👁️ | 4g |
@@ -86,31 +86,31 @@ Master indexed weapons directory.
 | **Plasma Gauntlets** | Melee | 💪 8 | 16 | 💪 | 💪 | 5g |
 | **Plasma Sword** | Melee | 💪 8 | 16 | 💪 | 💪 | 7g |
 | **Polearm** | Melee | 💪 8 | 16 | 💪 | 💪 | 4g |
-| **Pulse Laser Cannon** | Shot | 👁️S | None | 👁️ | 👁️ | 14g |
+| **Pulse Laser Cannon** | Shot | 👁️12 | None | 👁️ | 👁️ | 14g |
 | **Pulse Laser Carbine** | Shot | 👁️ 8 | None | 👁️ | 👁️ | 7g |
 | **Pulse Laser Pistol** | Shot | 👁️ 6 | None | 👁️ | 👁️ | 4g |
 | **Pulse Laser Rifle** | Shot | 👁️ 10 | None | 👁️ | 👁️ | 8g |
-| **Quad Launcher** | Shot | 👁️S | None | 👁️ | 👁️ | 15g |
-| **Quad-Disk Cannon** | Shot | 👁️S | None | 👁️ | 👁️ | 14g |
+| **Quad Launcher** | Shot | 👁️12 | None | 👁️ | 👁️ | 15g |
+| **Quad-Disk Cannon** | Shot | 👁️12 | None | 👁️ | 👁️ | 14g |
 | **Quarterstaff** | Melee | 💪 4 | 8 | 💪 | 💪 | 1g |
 | **Rage Axe** | Melee | 💪 12 | 24 | 💪 | 💪 | 6g |
 | **Red Whip** | Melee | 💪 6 | None | 💪 | 💪 | 3g |
 | **Reinforced Bite** | Melee | 💪 6 | None | 💪 | 💪 | 0s |
 | **Return-Sickle** | Hurled | 🏃 6 | None | 🏃 | 🏃 | 3g |
 | **Rift Blade** | Melee | 💪 8 | 16 | 💪 | 💪 | 7g |
-| **Rotary Plasma Gun** | Shot | 👁️S | None | 👁️ | 👁️ | 16g |
+| **Rotary Plasma Gun** | Shot | 👁️12 | None | 👁️ | 👁️ | 16g |
 | **Scimitar** | Melee | 💪 6 | 12 | 💪 | 💪 | 3g |
 | **Seeker Rifle** | Shot | 👁️ 10 | None | 👁️ | 👁️ | 9g |
-| **Serrated Maul** | Melee | 💪S | S | 💪 | 💪 | 4g |
+| **Serrated Maul** | Melee | 💪12 | 28 | 💪 | 💪 | 4g |
 | **Shadow Orb** | Shot | 👁️ 8 | None | 👁️ | 👁️ | 4g |
 | **Short Sword** | Melee | 💪 4 | 8 | 💪 | 💪 | 1g |
 | **Shoulder-Blades** | Melee | 💪 6 | None | 💪 | 💪 | 3g |
-| **Shredder Cannon** | Melee, Shot | 💪 8, 👁️S | 16 | 💪, 👁️ | 💪, 👁️ | 15g |
+| **Shredder Cannon** | Melee, Shot | 💪 8, 👁️12 | 16 | 💪, 👁️ | 💪, 👁️ | 15g |
 | **Sickle** | Melee | 💪 4 | 8 | 💪 | 💪 | 1g |
 | **Siege Fist** | Melee | 💪 8 | 16 | 💪 | 💪 | 8g |
 | **Siege Hammer** | Melee | 💪 12 | 24 | 💪 | 💪 | 10g |
 | **Silenced Plasma Pistol** | Shot | 👁️ 6 | None | 👁️ | 👁️ | 5g |
-| **Sonic Disrupter** | Shot | 👁️S | None | 👁️ | 👁️ | 9g |
+| **Sonic Disrupter** | Shot | 👁️12 | None | 👁️ | 👁️ | 9g |
 | **Sonic Sword** | Melee | 💪 8 | 16 | 💪 | 💪 | 6g |
 | **Spear** | Melee, Hurled | 💪 6, 🏃 6 | 12 | 💪, 🏃 | 💪, 🏃 | 2g |
 | **Spore Blaster** | Shot | 👁️ 8 | None | 👁️ | 👁️ | 6g |
@@ -135,7 +135,7 @@ Master indexed weapons directory.
 | **Venom Tail** | Melee | 💪 8 | 16 | 💪 | 💪 | 5g |
 | **Void Sphere** | Hurled | 🏃 8 | None | 🏃 | 🏃 | 8g |
 | **Void Staff** | Melee | 💪 8 | 16 | 💪 | 💪 | 6g |
-| **War-Crescent** | Melee | 💪S | S | 💪 | 💪 | 4g |
+| **War-Crescent** | Melee | 💪12 | 28 | 💪 | 💪 | 4g |
 | **Warhammer** | Melee | 💪 8 | 16 | 💪 | 💪 | 5g |
 | **WarPick** | Melee | 💪 6 | 12 | 💪 | 💪 | 2g |
 | **Warrior Claws** | Melee | 💪 6 | 12 | 💪 | 💪 | 3g |
