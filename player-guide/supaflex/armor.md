@@ -11,8 +11,6 @@ Master indexed armor directory.
 | **Archaic Partial L** | 💪 6 | 🧥6 | 👣11 | 1g |
 | **Artisan Plate** | 💪 12 | 🧥12 | 👣8 | 8g |
 | **Artisan Ring-Mail** | 💪 8 | 🧥8 | 👣10 | 3g |
-| **asdf** | 💪 4 | 🧥4 | 👣8 | 1g |
-| **asdf** | 💪 12 | 🧥12 | 👣5 | 1g |
 | **Assault Armor** | 💪 10 | 🧥10 | 👣9 | 4g |
 | **Banded Armor** | 💪 10 | 🧥10 | 👣9 | 5g |
 | **Bio-Tech** | 💪 8 | 🧥8 | 👣10 | 4g |
