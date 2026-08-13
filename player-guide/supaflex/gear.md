@@ -4,6 +4,48 @@ Master indexed gear equipment directory.
 
 | Category | Item Name | Cost |
 | --- | --- | --- |
+| SciFi | **AirVault** |  |
+| SciFi | **Camera** |  |
+| SciFi | **Communicator** |  |
+| SciFi | **D-Crawler** |  |
+| SciFi | **D-Pack** |  |
+| SciFi | **DataSleeve** |  |
+| SciFi | **DeCipher** |  |
+| SciFi | **Disguise Pack** |  |
+| SciFi | **Energy Clips** |  |
+| SciFi | **EnviroCube** |  |
+| SciFi | **EnviroSleeve** |  |
+| SciFi | **EnviroTent** |  |
+| SciFi | **First Aid Pack** |  |
+| SciFi | **FusionSplicer** |  |
+| SciFi | **GlowTorch** |  |
+| SciFi | **Grappling Gun** |  |
+| SciFi | **HealGel** |  |
+| SciFi | **HoistMaster** |  |
+| SciFi | **HoloCaster** |  |
+| SciFi | **Hover Drone** |  |
+| SciFi | **Hover Drone Remote** |  |
+| SciFi | **ImageScanner** |  |
+| SciFi | **ImageWrap** |  |
+| SciFi | **ImageWrap Image** |  |
+| SciFi | **Micro Hover Bug** |  |
+| SciFi | **Miniflare Gun** |  |
+| SciFi | **Miniflare Gun Flares** |  |
+| SciFi | **MiniScub Cartridge** |  |
+| SciFi | **MiniScuba** |  |
+| SciFi | **NanoShear** |  |
+| SciFi | **OrbitLink** |  |
+| SciFi | **Personal Scanner** |  |
+| SciFi | **PlasmaCore** |  |
+| SciFi | **PlasmaTorch** |  |
+| SciFi | **Power Pack** |  |
+| SciFi | **PowerTap** |  |
+| SciFi | **Q-Bond Cable** |  |
+| SciFi | **Q-Bond Harness** |  |
+| SciFi | **QuantumChef** |  |
+| SciFi | **Visor X Starlight Enhancement** |  |
+| SciFi | **VisorX** |  |
+| SciFi | **VisorX Infrared Enhancement** |  |
 | ⚕️ Medical & Healing Supplies | **Bandages (roll)** | 2s |
 | ⚕️ Medical & Healing Supplies | **Healer’s Kit (bandages, herbs)** | 3g |
 | ⚕️ Medical & Healing Supplies | **Lock (simple)** | 1g |

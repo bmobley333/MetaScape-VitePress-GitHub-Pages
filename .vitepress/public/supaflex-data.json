@@ -16482,6 +16482,613 @@
       "usage": "1-Rnd",
       "notes": null,
       "pic": null
+    },
+    {
+      "id": 93,
+      "category": "SciFi",
+      "name": "AirVault",
+      "cost": "",
+      "created_at": "2026-08-13T20:37:27.175114+00:00",
+      "genres": [
+        "SciFi"
+      ],
+      "action": "F",
+      "usage": "1-Rnd",
+      "notes": "D-Stores air/gas; auto-refills from atmosphere holds 10x10x10 ft volume in a 1in canister",
+      "pic": "https://drive.google.com/file/d/1omZjYxykdigNXI53YbbgFJWkZmQj_86x/view?usp=drive_link"
+    },
+    {
+      "id": 95,
+      "category": "SciFi",
+      "name": "Camera",
+      "cost": "",
+      "created_at": "2026-08-13T20:37:27.175114+00:00",
+      "genres": [
+        "SciFi"
+      ],
+      "action": "F",
+      "usage": "1-Rnd",
+      "notes": "Records audio and visual in 360°. Hovers or follows user (MR 12); programmable via DataSleeve.",
+      "pic": "https://drive.google.com/file/d/1i3ACIeiNFBHTB6OoT5XKWuJUuNC9batg/view?usp=drive_link"
+    },
+    {
+      "id": 96,
+      "category": "SciFi",
+      "name": "Communicator",
+      "cost": "",
+      "created_at": "2026-08-13T20:37:27.175114+00:00",
+      "genres": [
+        "Modern",
+        "SciFi"
+      ],
+      "action": "P",
+      "usage": "1-Rnd",
+      "notes": "Text, audio, and audiovisual comms; ~200 miles including low-orbit. Open or Selective transceiver.",
+      "pic": "https://drive.google.com/file/d/1v7Af8Kty4maebSyMsuoveKViSXMOMLH8/view?usp=drive_link"
+    },
+    {
+      "id": 98,
+      "category": "SciFi",
+      "name": "D-Crawler",
+      "cost": "",
+      "created_at": "2026-08-13T20:37:27.175114+00:00",
+      "genres": [
+        "Modern",
+        "SciFi"
+      ],
+      "action": "P",
+      "usage": "1-Rnd",
+      "notes": "MR 8 transport; 500 Enc capacity. 1x1x1 sq interior; sealed compartment break Dif(20).",
+      "pic": "https://drive.google.com/file/d/188HXcbUwVgQLV3jOjwvmALDEyjsZaa5J/view?usp=drive_link"
+    },
+    {
+      "id": 101,
+      "category": "SciFi",
+      "name": "D-Pack",
+      "cost": "",
+      "created_at": "2026-08-13T20:37:27.175114+00:00",
+      "genres": [
+        "SciFi"
+      ],
+      "action": "F",
+      "usage": "1-Rnd",
+      "notes": "Small plasteel backpack; D-Store 4'x3'; attaches via 2 Q-Bond strips.",
+      "pic": "https://drive.google.com/file/d/1RW0fYbO4yjunvKVthKNe6BGjpax-XlSl/view?usp=drive_link"
+    },
+    {
+      "id": 97,
+      "category": "SciFi",
+      "name": "DataSleeve",
+      "cost": "",
+      "created_at": "2026-08-13T20:37:27.175114+00:00",
+      "genres": [
+        "SciFi"
+      ],
+      "action": "F",
+      "usage": "1-Rnd",
+      "notes": "Compact AI computer bracer; processes at [AI(✨)].",
+      "pic": "https://drive.google.com/file/d/1vG1L9ponth1rO84ne3cAL2qiou80KVUU/view?usp=drive_link"
+    },
+    {
+      "id": 99,
+      "category": "SciFi",
+      "name": "DeCipher",
+      "cost": "",
+      "created_at": "2026-08-13T20:37:27.175114+00:00",
+      "genres": [
+        "Modern",
+        "SciFi"
+      ],
+      "action": "P",
+      "usage": "2-Enc",
+      "notes": "Security bypass: hack locks, find codes, override safeguards; [Hacking(✨+1)].",
+      "pic": "https://drive.google.com/file/d/1pU_9LA9F3Zsw1Ar5_ohA4Zo-TC5JWbY3/view?usp=drive_link"
+    },
+    {
+      "id": 100,
+      "category": "SciFi",
+      "name": "Disguise Pack",
+      "cost": "",
+      "created_at": "2026-08-13T20:37:27.175114+00:00",
+      "genres": [
+        "SciFi"
+      ],
+      "action": "P",
+      "usage": "1-Enc",
+      "notes": "Alters appearance (cosmetics, morphskin, biodyes); [Disguise(✨+2)]. Stability 12 hr.",
+      "pic": "https://drive.google.com/file/d/1Je5QjIhDofwSpbF_CaARgWq0CCDmqtj8/view?usp=drive_link"
+    },
+    {
+      "id": 102,
+      "category": "SciFi",
+      "name": "Energy Clips",
+      "cost": "",
+      "created_at": "2026-08-13T20:37:27.175114+00:00",
+      "genres": [
+        "SciFi"
+      ],
+      "action": "F",
+      "usage": "1-Rnd",
+      "notes": "Replenishes 1 surge/min when not fully charged; does not transfer to weapon capacitors.",
+      "pic": "https://drive.google.com/file/d/1E1z1xYDoqMMDXFa0eNVxyyUMk33z0Epl/view?usp=drive_link"
+    },
+    {
+      "id": 103,
+      "category": "SciFi",
+      "name": "EnviroCube",
+      "cost": "",
+      "created_at": "2026-08-13T20:37:27.175114+00:00",
+      "genres": [
+        "SciFi"
+      ],
+      "action": "P",
+      "usage": "1-Enc",
+      "notes": "Generates 2x2 sq area airtight cube; [Str(✨+4)] vs air/gas motion. -200°F to 300°F; with AirVault 24 hr air.",
+      "pic": "https://drive.google.com/file/d/1N6qp1-4_EEtvH1OdjnU5mds9wCYZjLe1/view?usp=drive_link"
+    },
+    {
+      "id": 104,
+      "category": "SciFi",
+      "name": "EnviroSleeve",
+      "cost": "",
+      "created_at": "2026-08-13T20:37:27.175114+00:00",
+      "genres": [
+        "SciFi"
+      ],
+      "action": "F",
+      "usage": "1-Rnd",
+      "notes": "One-person sleeping bag; stasis and heating/cooling -200°F to 300°F; 24 hr air, auto-refill; 1-day water.",
+      "pic": "https://drive.google.com/file/d/1AbSrDgNMnrP2M-qqBQ2ZDUDYvzfKvTyq/view?usp=drive_link"
+    },
+    {
+      "id": 105,
+      "category": "SciFi",
+      "name": "EnviroTent",
+      "cost": "",
+      "created_at": "2026-08-13T20:37:27.175114+00:00",
+      "genres": [
+        "Modern",
+        "SciFi"
+      ],
+      "action": "P",
+      "usage": "1-Enc",
+      "notes": "2x2 by 6 ft tall shelter; 3 occupants; 7-day air/water/nutrients; -300°F to 400°F; long range emergency transponder.",
+      "pic": "https://drive.google.com/file/d/1AXF7vuwTYUQx1_BJnhS40Hk8S5zcwM3z/view?usp=drive_link"
+    },
+    {
+      "id": 106,
+      "category": "SciFi",
+      "name": "First Aid Pack",
+      "cost": "",
+      "created_at": "2026-08-13T20:37:27.175114+00:00",
+      "genres": [
+        "Modern",
+        "SciFi"
+      ],
+      "action": "P",
+      "usage": "2-Enc",
+      "notes": "[Heals(✨-2)] 1st Deg Wnds if new; stops bleeding.",
+      "pic": "https://drive.google.com/file/d/1uj5U9Wcxok8hl9_vdgkt5ivj6jI1I-M-/view?usp=drive_link"
+    },
+    {
+      "id": 107,
+      "category": "SciFi",
+      "name": "FusionSplicer",
+      "cost": "",
+      "created_at": "2026-08-13T20:37:27.175114+00:00",
+      "genres": [
+        "SciFi"
+      ],
+      "action": "P",
+      "usage": "2-Enc",
+      "notes": "[Welds(✨)] nearly any substance; strips, splices, coats wires; repairs cloth/armor with stronger-than-original bonds.",
+      "pic": "https://drive.google.com/file/d/1CpRO0HedaSQ97Sra0y7KWd21f-U0f7ok/view?usp=drive_link"
+    },
+    {
+      "id": 108,
+      "category": "SciFi",
+      "name": "GlowTorch",
+      "cost": "",
+      "created_at": "2026-08-13T20:37:27.175114+00:00",
+      "genres": [
+        "SciFi"
+      ],
+      "action": "P",
+      "usage": "1-Rnd",
+      "notes": "90° cone of light up to 20 squares; infrared, visible, or both. Mounts via Q-Bond pad.",
+      "pic": "https://drive.google.com/file/d/19mzigPILooLEqARCbMdnwUozP3UmuknB/view?usp=drive_link"
+    },
+    {
+      "id": 109,
+      "category": "SciFi",
+      "name": "Grappling Gun",
+      "cost": "",
+      "created_at": "2026-08-13T20:37:27.175114+00:00",
+      "genres": [
+        "Medieval",
+        "Modern",
+        "SciFi"
+      ],
+      "action": "M",
+      "usage": "2-Enc",
+      "notes": "Fires grappling hook; 100 ft Q-Bond cable supports 1000 lbs.",
+      "pic": "https://drive.google.com/file/d/1oppDgMBm0rEn4xLt9JKFNgbmg5SzheI0/view?usp=drive_link"
+    },
+    {
+      "id": 110,
+      "category": "SciFi",
+      "name": "HealGel",
+      "cost": "",
+      "created_at": "2026-08-13T20:37:27.175114+00:00",
+      "genres": [
+        "Medieval",
+        "Modern",
+        "SciFi"
+      ],
+      "action": "P",
+      "usage": "1-Enc",
+      "notes": "Heals 1st Deg  [Heals(✨/4)]; immediate tissue regeneration.",
+      "pic": "https://drive.google.com/file/d/11fyEKf6Mjvpk_v6mvK3OVDSmr2DwfNBs/view?usp=drive_link"
+    },
+    {
+      "id": 111,
+      "category": "SciFi",
+      "name": "HoistMaster",
+      "cost": "",
+      "created_at": "2026-08-13T20:37:27.175114+00:00",
+      "genres": [
+        "Modern",
+        "SciFi"
+      ],
+      "action": "M",
+      "usage": "2-Enc",
+      "notes": "Winch for Grappling Gun; hoist/lower at 20 ft/Rnd.",
+      "pic": "https://drive.google.com/file/d/1hhvMJoJTiz-xh0SQdm3dsToi_g4WYqvr/view?usp=drive_link"
+    },
+    {
+      "id": 112,
+      "category": "SciFi",
+      "name": "HoloCaster",
+      "cost": "",
+      "created_at": "2026-08-13T20:37:27.175114+00:00",
+      "genres": [
+        "SciFi"
+      ],
+      "action": "P",
+      "usage": "2-Enc",
+      "notes": "Projects duplicate image up to medium range; mimics wearer; attacks pass through image thus attacker realizes fake",
+      "pic": "https://drive.google.com/file/d/1zaMJUwAEjD-WB2ij-8Um3Q4SOwln-o8e/view?usp=drive_link"
+    },
+    {
+      "id": 113,
+      "category": "SciFi",
+      "name": "Hover Drone",
+      "cost": "",
+      "created_at": "2026-08-13T20:37:27.175114+00:00",
+      "genres": [
+        "SciFi"
+      ],
+      "action": "P",
+      "usage": "1-Rnd",
+      "notes": "Verbal command: hover, follow, or pattern; max medium range. Carries 50 Enc; MR(10), MR(*.5) if carrying. [Dod/AR(✨)/(✨)] Vit[=(✨-1)].",
+      "pic": "https://drive.google.com/file/d/1Ce6ahR1P61wnNoqKGqK968xGw2DZ-qhX/view?usp=drive_link"
+    },
+    {
+      "id": 114,
+      "category": "SciFi",
+      "name": "Hover Drone Remote",
+      "cost": "",
+      "created_at": "2026-08-13T20:37:27.175114+00:00",
+      "genres": [
+        "SciFi"
+      ],
+      "action": "P",
+      "usage": "1-Rnd",
+      "notes": "Controls drone remotely up to 200 Sqs; live audio-visual feed.",
+      "pic": "https://drive.google.com/file/d/1QNUClW8DLybvhd1cG04QH5bg4L813ND5/view?usp=drive_link"
+    },
+    {
+      "id": 115,
+      "category": "SciFi",
+      "name": "ImageScanner",
+      "cost": "",
+      "created_at": "2026-08-13T20:37:27.175114+00:00",
+      "genres": [
+        "SciFi"
+      ],
+      "action": "P",
+      "usage": "2-Enc",
+      "notes": "Records holographic image for ImageWrap; In close range, front/back/side; stores 10 images.",
+      "pic": "https://drive.google.com/file/d/1Z6XHsnfUk7XYv5cfqJdAGBUzkOkRFrCl/view?usp=drive_link"
+    },
+    {
+      "id": 116,
+      "category": "SciFi",
+      "name": "ImageWrap",
+      "cost": "",
+      "created_at": "2026-08-13T20:37:27.175114+00:00",
+      "genres": [
+        "SciFi"
+      ],
+      "action": "P",
+      "usage": "2-Enc",
+      "notes": "Holographic disguise around user; [Disguise(✨)]^👁️. Stores 2 images.",
+      "pic": "https://drive.google.com/file/d/1Flx1qzrUgZ-S1Eu7kJYiEzjko3H1ijEs/view?usp=drive_link"
+    },
+    {
+      "id": 117,
+      "category": "SciFi",
+      "name": "ImageWrap Image",
+      "cost": "",
+      "created_at": "2026-08-13T20:37:27.175114+00:00",
+      "genres": [
+        "SciFi"
+      ],
+      "action": "F",
+      "usage": "1-Rnd",
+      "notes": "Holographic profile for ImageWrap or similar.",
+      "pic": "https://drive.google.com/file/d/1vferlGGx7Mz0qlTU7M7d-1dYqjTjj7Sx/view?usp=drive_link"
+    },
+    {
+      "id": 94,
+      "category": "SciFi",
+      "name": "Micro Hover Bug",
+      "cost": "",
+      "created_at": "2026-08-13T20:37:27.175114+00:00",
+      "genres": [
+        "SciFi"
+      ],
+      "action": "P",
+      "usage": "1-⚡",
+      "notes": "Hovers or follows target (MR 12); programmable via DataSleeve.",
+      "pic": "https://drive.google.com/file/d/1dQ2JS8wwTuCNW51ixDqXyZi6La0RZbYJ/view?usp=drive_link"
+    },
+    {
+      "id": 118,
+      "category": "SciFi",
+      "name": "Miniflare Gun",
+      "cost": "",
+      "created_at": "2026-08-13T20:37:27.175114+00:00",
+      "genres": [
+        "Modern",
+        "SciFi"
+      ],
+      "action": "P",
+      "usage": "3-Enc",
+      "notes": "Fires signal flare (1000 ft); set to illuminate, tracer, and/or whistle.",
+      "pic": "https://drive.google.com/file/d/1J1-zT_SCGajD_oUWVeWzvp7iFM_QkoUC/view?usp=drive_link"
+    },
+    {
+      "id": 119,
+      "category": "SciFi",
+      "name": "Miniflare Gun Flares",
+      "cost": "",
+      "created_at": "2026-08-13T20:37:27.175114+00:00",
+      "genres": [
+        "Modern",
+        "SciFi"
+      ],
+      "action": "F",
+      "usage": "1-Enc",
+      "notes": "Ammo for Miniflare Gun or similar.",
+      "pic": "https://drive.google.com/file/d/12uw0de370ZD-Nhv6mjA1wy5JPAyfAslh/view?usp=drive_link"
+    },
+    {
+      "id": 121,
+      "category": "SciFi",
+      "name": "MiniScub Cartridge",
+      "cost": "",
+      "created_at": "2026-08-13T20:37:27.175114+00:00",
+      "genres": [
+        "Modern",
+        "SciFi"
+      ],
+      "action": "F",
+      "usage": "1-Enc",
+      "notes": "1 hour compressed air for MiniScuba or similar.",
+      "pic": "https://drive.google.com/file/d/1jrr5ysaune2AUlEnPTXxboM8HJ35QF7O/view?usp=drive_link"
+    },
+    {
+      "id": 120,
+      "category": "SciFi",
+      "name": "MiniScuba",
+      "cost": "",
+      "created_at": "2026-08-13T20:37:27.175114+00:00",
+      "genres": [
+        "Modern",
+        "SciFi"
+      ],
+      "action": "M",
+      "usage": "1-Rnd",
+      "notes": "Mouthpiece + cartridge; 1 hr air; cartridge auto-fills when not in use.",
+      "pic": "https://drive.google.com/file/d/16cox1H4dsolWjYMxAzFVzV5Mdwk_lqSk/view?usp=drive_link"
+    },
+    {
+      "id": 122,
+      "category": "SciFi",
+      "name": "NanoShear",
+      "cost": "",
+      "created_at": "2026-08-13T20:37:27.175114+00:00",
+      "genres": [
+        "Modern",
+        "SciFi"
+      ],
+      "action": "P",
+      "usage": "2-Enc",
+      "notes": "Precision cut or engrave up to 6 in; rating 40. Auto-cut or programmed patterns.",
+      "pic": "https://drive.google.com/file/d/1u_-22dCiod0rYOCVehOcx-mV04qwZAkm/view?usp=drive_link"
+    },
+    {
+      "id": 123,
+      "category": "SciFi",
+      "name": "OrbitLink",
+      "cost": "",
+      "created_at": "2026-08-13T20:37:27.175114+00:00",
+      "genres": [
+        "SciFi"
+      ],
+      "action": "F",
+      "usage": "1-Rnd",
+      "notes": "Increases communication range to planetary and orbital.",
+      "pic": "https://drive.google.com/file/d/1oMUoTKW_1EER1kbjIJTFqIy6FJRqcPTO/view?usp=drive_link"
+    },
+    {
+      "id": 124,
+      "category": "SciFi",
+      "name": "Personal Scanner",
+      "cost": "",
+      "created_at": "2026-08-13T20:37:27.175114+00:00",
+      "genres": [
+        "SciFi"
+      ],
+      "action": "M",
+      "usage": "2-Enc",
+      "notes": "Handheld scanner medium range; [Scanning(✨+1)]. Pose question to GM; answer limited to 1 word.",
+      "pic": "https://drive.google.com/file/d/1bMn7n4unEBRfGe5J7jm5v5zyHUZf6V-d/view?usp=drive_link"
+    },
+    {
+      "id": 125,
+      "category": "SciFi",
+      "name": "PlasmaCore",
+      "cost": "",
+      "created_at": "2026-08-13T20:37:27.175114+00:00",
+      "genres": [
+        "SciFi"
+      ],
+      "action": "F",
+      "usage": "1-Rnd",
+      "notes": "Backpack plasma generator; supplies weapons via connector.",
+      "pic": "https://drive.google.com/file/d/1IpcXZDreuaP1qNRgisi-FlTI0rMfh7db/view?usp=drive_link"
+    },
+    {
+      "id": 126,
+      "category": "SciFi",
+      "name": "PlasmaTorch",
+      "cost": "",
+      "created_at": "2026-08-13T20:37:27.175114+00:00",
+      "genres": [
+        "SciFi"
+      ],
+      "action": "P",
+      "usage": "2-Enc",
+      "notes": "Plasma cutter/welder; [Cut or Weld(✨+2)] up to12 in depth; cuts steel and bulkheads.",
+      "pic": "https://drive.google.com/file/d/1ji0SMygiW82sB_YBsq8NX8B2hZmCgFOo/view?usp=drive_link"
+    },
+    {
+      "id": 127,
+      "category": "SciFi",
+      "name": "Power Pack",
+      "cost": "",
+      "created_at": "2026-08-13T20:37:27.175114+00:00",
+      "genres": [
+        "SciFi"
+      ],
+      "action": "F",
+      "usage": "1-Rnd",
+      "notes": "Cold fusion power source; supplies srg to weapons (srg ≥ Dmg); 1 cable per 10 surge.",
+      "pic": "https://drive.google.com/file/d/1Gbq3dxfNA8H09B47ZSSkXF7XfXA61K8f/view?usp=drive_link"
+    },
+    {
+      "id": 128,
+      "category": "SciFi",
+      "name": "PowerTap",
+      "cost": "",
+      "created_at": "2026-08-13T20:37:27.175114+00:00",
+      "genres": [
+        "Modern",
+        "SciFi"
+      ],
+      "action": "P",
+      "usage": "2-Enc",
+      "notes": "Monitor/siphon energy [Srg(✨*.25)]. Holds 100 srg",
+      "pic": "https://drive.google.com/file/d/1_bkmvMEGMJOw5iZDNJ4S_1l3iIblJCQD/view?usp=drive_link"
+    },
+    {
+      "id": 129,
+      "category": "SciFi",
+      "name": "Q-Bond Cable",
+      "cost": "",
+      "created_at": "2026-08-13T20:37:27.175114+00:00",
+      "genres": [
+        "SciFi"
+      ],
+      "action": "M",
+      "usage": "2-Enc",
+      "notes": "100 ft [Str(✨+4)] cable; Q-Bond ends affix to surfaces; controlled from spool.",
+      "pic": "https://drive.google.com/file/d/16ozkCvOaGB5jDzv9aLRkPPejtPqy4Vou/view?usp=drive_link"
+    },
+    {
+      "id": 130,
+      "category": "SciFi",
+      "name": "Q-Bond Harness",
+      "cost": "",
+      "created_at": "2026-08-13T20:37:27.175114+00:00",
+      "genres": [
+        "SciFi"
+      ],
+      "action": "F",
+      "usage": "1-Rnd",
+      "notes": "Utility harness; AI prevents accidental drop; unauthorized removal [Str(✨)]^💪.",
+      "pic": "https://drive.google.com/file/d/11HS49ckyDcK2BRYrxzo-f3mectp-pylk/view?usp=drive_link"
+    },
+    {
+      "id": 131,
+      "category": "SciFi",
+      "name": "QuantumChef",
+      "cost": "",
+      "created_at": "2026-08-13T20:37:27.175114+00:00",
+      "genres": [
+        "SciFi"
+      ],
+      "action": "P",
+      "usage": "1-⚡",
+      "notes": "One-inch cube expands to tech-plates, utensils, thermal cups; atomic heating/cooling; stores up to week's food and water",
+      "pic": "https://drive.google.com/file/d/1U6UzTHn59is2WYf_Z5NJyCeYni6EtZT6/view?usp=drive_link"
+    },
+    {
+      "id": 134,
+      "category": "SciFi",
+      "name": "Visor X Starlight Enhancement",
+      "cost": "",
+      "created_at": "2026-08-13T20:37:27.175114+00:00",
+      "genres": [
+        "Modern",
+        "SciFi"
+      ],
+      "action": "F",
+      "usage": "1-Rnd",
+      "notes": "Adds starlight vision with diod light source to VisorX.",
+      "pic": "https://drive.google.com/file/d/1ICn2X_A6bwHS95DEy89GNVtHFb_B95Mh/view?usp=drive_link"
+    },
+    {
+      "id": 132,
+      "category": "SciFi",
+      "name": "VisorX",
+      "cost": "",
+      "created_at": "2026-08-13T20:37:27.175114+00:00",
+      "genres": [
+        "Modern",
+        "SciFi"
+      ],
+      "action": "F",
+      "usage": "1-Rnd",
+      "notes": "Enhanced [Vision(👁️+1)]; autotint, magnification; Q-Bond secured.",
+      "pic": "https://drive.google.com/file/d/1UpHdHbC8Amuo3FxlfauD0ZefbsoaYxWM/view?usp=drive_link"
+    },
+    {
+      "id": 133,
+      "category": "SciFi",
+      "name": "VisorX Infrared Enhancement",
+      "cost": "",
+      "created_at": "2026-08-13T20:37:27.175114+00:00",
+      "genres": [
+        "Modern",
+        "SciFi"
+      ],
+      "action": "F",
+      "usage": "1-Rnd",
+      "notes": "Adds infrared vision to VisorX.",
+      "pic": "https://drive.google.com/file/d/1pNu-ZiqJKZRgf0UJ7X4WFWyPmSPIg1A0/view?usp=drive_link"
     }
   ],
   "monsters": [
