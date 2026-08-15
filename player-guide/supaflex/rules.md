@@ -1338,7 +1338,7 @@ Example: An ability that heals the user 1 Vit❤️ as a 1-Enc, P action would h
 
 SupaFlex separates a character's total power collection from their active, in-combat battle repertoire to eliminate decision paralysis and encourage diverse tactical builds:
 
-* **Power Codex (Vault of Knowledge):** Every power learned, drafted, or acquired is permanently recorded in the character's Power Codex without capacity limits.
+* **Power Vault (Archive of Knowledge):** Every power learned, drafted, or acquired is permanently recorded in the character's Power Vault without capacity limits.
 * **Ready Matrix (Active Tactical Loadout):** Prior to encounters or during Short/Day Rests, characters ready a bounded tactical loadout based on their level Tier.
 * **Support & Passive Powers (0 Slots):** Passives, crafting proficiencies, and utility support abilities cost **0 Ready Slots** and remain **Always Active** on the character sheet.
 
@@ -1363,7 +1363,7 @@ Tactical slots draw from a flexible pool with category caps to prevent single-ac
 #### ⚡ Tactical Pivot (In-Combat Re-Equip)
 
 * **Trigger & Cost:** Once per encounter ($1\text{-Enc}$), a character may spend **1 Free Action (F) + 1 Spark** (5 Charges $\ge 5\⚡$) to execute a **Tactical Pivot**.
-* **Effect:** Swap 1 un-readied tactical power from the Power Codex directly into the active Ready Matrix, replacing an existing active tactical slot.
+* **Effect:** Swap 1 un-readied tactical power from the Power Vault directly into the active Ready Matrix, replacing an existing active tactical slot.
 * **Strategic Utility:** Allows adaptable tactical shifts mid-battle (e.g., swapping a fire strike for cold damage against a flame golem, or pulling out emergency mobility).
 
 ### 🔄 Usage & The Charge Engine (⚡)
