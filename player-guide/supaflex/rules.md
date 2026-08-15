@@ -1564,6 +1564,61 @@ Junk is intentionally silly or useless — adds levity.
 
 Magic Items roll on the proper table:
 
+## ⚙️ Equipment, Loadout Slots, Hardware & Relics
+
+SupaFlex eliminates weight math, bulk values, and movement rate penalties. A character’s effectiveness is bounded not by what they can carry, but by their active **Loadout Capacity**.
+
+```
+                                  [ ALL EQUIPMENT ]
+                                          │
+               ┌──────────────────────────┴──────────────────────────┐
+               ▼                                                     ▼
+         MUNDANE UTILITY                                     TACTICAL BANDWIDTH
+    (0 Slots • Gear Drawer)                               (1–4 Slots • Live Sheet)
+            [ GEAR ]                                             [ LOADOUT ]
+                                                                     │
+                                          ┌──────────────────────────┴──────────────────────────┐
+                                          ▼                                                     ▼
+                                 UNPURCHASABLE LOOT                                    STORE / CRAFTED
+                                      [ RELICS ]                                         [ HARDWARE ]
+                                          │                                                   │
+                                          └─────────────────────┬─────────────────────────────┘
+                                                                ▼
+                                                        [ THE VAULT ]
+                                                  (Inactive Storage Pool)
+                                                                │
+                                                                ▼
+                                                     [ LOADOUT MANAGER ]
+                                                (Equip 1–4 Slots to Live Sheet)
+```
+
+### 1. The Vault vs. The Active Loadout
+* **The Vault:** An unlimited repository of every weapon, tool, relic, and tech device you own, safely stored at your base, starship, or quarters.
+* **The Active Loadout:** The combat-ready gear wired, holstered, or attuned on your person. Every character begins with **3 Loadout Slots** (0 AP) and can unlock up to 15 slots using Adventure Points (AP).
+
+### 2. Taxonomy & Slot Costs
+* **Mundane Gear (0 Slots):** Utility items providing narrative permissions (50ft rope, flashlight, comms, rations, basic lockpicks). Stored in the top-row **Gear Drawer** without consuming Loadout Slots.
+* **Minor Items (Minor🍺 • 1 Slot):** Localized tactical utility or single combat activations (e.g. Stun Baton, Nano-Plasma Cutter, Wand of Sparks).
+* **Lesser Items (Lesser🪄 • 2 Slots):** Substantial encounter-altering mobility, mitigation, or automated utility (e.g. Personal Deflector Shield, AeroJet Thrusters, Boots of Speed).
+* **Greater Items (Greater🪬 • 3 Slots):** Multi-target, high-damage, or encounter-defining systems (e.g. Optical Camouflage Shroud, Heavy Combat Drone, Flaming Greatsword).
+* **Epic Items (Epic💫 • 4 Slots):** Relics and reality-bending prototypes that occupy the majority of your neural and physical bandwidth (e.g. Dimensional Void Bag, Orbital Target Painter, Orb of Storms).
+
+### 3. Multi-Genre Parity Matrix
+
+| Tier & Slot Cost | High Fantasy | Modern / Delta Green | Cyberpunk | Space Opera / Sci-Fi |
+| :--- | :--- | :--- | :--- | :--- |
+| **Mundane (0 Slots)** | Rope, Torch, Flint | Phone, Zip-ties, Flashlight | Credstick, Multi-tool | Comms Beacon, Rebreather |
+| **Minor🍺 (1 Slot)** | Wand of Sparks [A] | Taser [A], Night-Vision [P] | Plasma Torch [A], Smart-Lens [P] | Mag-Boots [M], Stim-Injector [F] |
+| **Lesser🪄 (2 Slots)** | Boots of Speed [M] | Kevlar Tactical Rig [P] | Optical Camo [M], Reflex Boost [F] | Personal Deflector [P], Jetpack [M] |
+| **Greater🪬 (3 Slots)** | Flaming Greatsword [A] | Mil-Spec Exosuit [P] | Heavy Assault Drone [A] | Combat Hunter Drone [A] |
+| **Epic💫 (4 Slots)** | Orb of Storms [A] | Prototype Railgun [A] | Neural Matrix Core [F] | Dimensional Shifter [M] |
+
+### 4. Master Techniques & Signature Devices
+* **🔥 Loadout Burn (Master Technique • 5 AP):** As a Free Action [F], a character with this Master Technique can push any active slotted Relic or Hardware item to output its maximum/Epic💫 effect for 1 round. At the end of the round, the item's core melts into inert slag and is destroyed, immediately freeing its Loadout Slots mid-combat. *(Does not apply to flat consumables with usage `1`, `2`, or `3`).*
+* **🖨️ Omni-Fab (Minor🍺 • 1 Slot Hardware):** Usage: `3-Enc`, Action: `[P]`. Materializes any mundane utility tool or standard field supply on the fly. The materialized item dissolves at the end of the encounter. Cost: 150s.
+
+---
+
 ## 📊 System Tables & Catalogs
 
 

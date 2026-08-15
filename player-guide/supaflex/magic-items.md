@@ -1,9 +1,9 @@
-# ✨ Magic Items Catalog
+# ⚡ Loadout: Relics & Hardware Catalog
 
-Dynamic magical treasures indexed from the master databases.
+Dynamic magical relics and store-bought hardware indexed from the master databases.
 
 
-## **🍺 Minor Magic Items**
+## **🍺 Minor Relics (Loot Drops)**
 
 | Usage | Action | Name | Effect |
 | --- | --- | --- | --- |
@@ -85,7 +85,7 @@ Dynamic magical treasures indexed from the master databases.
 | 1-Enc | P | **Zither Pick** | Strum; Heal d✨ to 1 ally |
 | 1-Enc | M | **Zoom Charm** | Target's next ranged Atk with Advantage |
 
-## **🪄 Lesser Magic Items**
+## **🪄 Lesser Relics (Loot Drops)**
 
 | Usage | Action | Name | Effect |
 | --- | --- | --- | --- |
@@ -168,7 +168,7 @@ Dynamic magical treasures indexed from the master databases.
 | 2-Enc | A | **Wand of Fire Bolts** | Magic✨ Atk for d✨+1 fire Dmg💥; Magic✨or target burns d4 Dmg💥/rnd |
 | 3-Enc | P | **Willstone** | When held: [Domination(👁️)]^🫀; Perm Men(*2) while on person. |
 
-## **🪬 Greater Magic Items**
+## **🪬 Greater Relics (Loot Drops)**
 
 | Usage | Action | Name | Effect |
 | --- | --- | --- | --- |
@@ -286,3 +286,37 @@ Dynamic magical treasures indexed from the master databases.
 | 1-Enc | P | **Volcanic Shard of Reth’Vash 2** | Teleport up to 6sq to visible shadow |
 | 1-Enc | F | **Volcanic Shard of Reth’Vash 3** | After you Heal ally from 0 or less Vit❤️ to 1+, make 1 Brawl Opportunity Atk |
 | 1-Enc | A | **Whisper [Weapon]** | On Atk; Whisper target positions at Mind👁️ to detect Invisible monsters |
+
+## **⚙️ Hardware (Store & Tech Devices)**
+
+| Usage | Action | Cost | Name | Effect |
+| --- | --- | --- | --- | --- |
+| 1-Rnd | P | 1g | **Communicator** | Text, audio, and audiovisual comms; ~200 miles including low-orbit. Open or Selective transceiver. |
+| 1-Rnd | P | 15g | **D-Crawler** | MR 8 transport; capacity. 1x1x1 sq interior; sealed compartment break (20). |
+| 2-Enc | P | 6g | **DeCipher** | Security bypass: hack locks, find codes, override safeguards. |
+| 1-Enc | P | 5g | **Disguise Pack** | Alters appearance (cosmetics, morphskin, biodyes). Stability 12 hr. |
+| 1-Enc | P | 8g | **EnviroCube** | Generates 2x2 sq area airtight cube; vs air/gas motion. -200°F to 300°F; with AirVault 24 hr air. |
+| 1-Enc | P | 6g | **EnviroTent** | 2x2 by 6 ft tall shelter; 3 occupants; 7-day air/water/nutrients; -300°F to 400°F; long range emergency transponder. |
+| 2-Enc | P | 2g | **First Aid Pack** | 1st Deg Wnds if new; stops bleeding. |
+| 2-Enc | P | 5g | **FusionSplicer** | nearly any substance; strips, splices, coats wires; repairs cloth/armor with stronger-than-original bonds. |
+| 1-Rnd | P | 1g | **GlowTorch** | 90° cone of light up to 20 squares; infrared, visible, or both. Mounts via Q-Bond pad. |
+| 2-Enc | M | 3g | **Grappling Gun** | Fires grappling hook; 100 ft Q-Bond cable supports 1000 lbs. |
+| 1-Enc | P | 1g | **HealGel** | Heals 1st Deg; immediate tissue regeneration. |
+| 2-Enc | M | 2g | **HoistMaster** | Winch for Grappling Gun; hoist/lower at 20 ft/Rnd. |
+| 2-Enc | P | 8g | **HoloCaster** | Projects duplicate image up to medium range; mimics wearer; attacks pass through image thus attacker realizes fake |
+| 1-Rnd | P | 10g | **Hover Drone** | Verbal command: hover, follow, or pattern; max medium range. Carries; MR(10), MR(*.5) if carrying. [Dod/AR(✨)/(✨)] Vit[=(✨-1)]. |
+| 1-Rnd | P | 3g | **Hover Drone Remote** | Controls drone remotely up to 200 Sqs; live audio-visual feed. |
+| 2-Enc | P | 4g | **ImageScanner** | Records holographic image for ImageWrap; In close range, front/back/side; stores 10 images. |
+| 2-Enc | P | 10g | **ImageWrap** | Holographic disguise around user; ^👁️. Stores 2 images. |
+| 1-⚡ | P | 8g | **Micro Hover Bug** | Hovers or follows target (MR 12); programmable via DataSleeve. |
+| 3-Enc | P | 1g | **Miniflare Gun** | Fires signal flare (1000 ft); set to illuminate, tracer, and/or whistle. |
+| 1-Enc | F | 5s | **Miniflare Gun Flares** | Ammo for Miniflare Gun or similar. |
+| 1-Enc | F | 5s | **MiniScub Cartridge** | 1 hour compressed air for MiniScuba or similar. |
+| 1-Rnd | M | 2g | **MiniScuba** | Mouthpiece + cartridge; 1 hr air; cartridge auto-fills when not in use. |
+| 2-Enc | P | 4g | **NanoShear** | Precision cut or engrave up to 6 in; rating 40. Auto-cut or programmed patterns. |
+| 3-Enc | P | 150s | **Omni-Fab** | Materializes any mundane utility tool or standard field supply on the fly. Item dissolves at end of encounter. |
+| 2-Enc | M | 5g | **Personal Scanner** | Handheld scanner medium range. Pose question to GM; answer limited to 1 word. |
+| 2-Enc | P | 5g | **PlasmaTorch** | Plasma cutter/welder; up to12 in depth; cuts steel and bulkheads. |
+| 2-Enc | P | 5g | **PowerTap** | Monitor/siphon energy. Holds 100 srg |
+| 2-Enc | M | 1g | **Q-Bond Cable** | 100 ft cable; Q-Bond ends affix to surfaces; controlled from spool. |
+| 1-⚡ | P | 18g | **QuantumChef** | One-inch cube expands to tech-plates, utensils, thermal cups; atomic heating/cooling; stores up to week's food and water |
