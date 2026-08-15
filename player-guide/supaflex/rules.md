@@ -1334,7 +1334,37 @@ Often these are self-evident and do not need explanation.
 
 Example: An ability that heals the user 1 Vit❤️ as a 1-Enc, P action would have a duration of instant (heals immediately) and an implied range of “self.”
 
-Additional guidance is below:
+### ⚡ The Ready Matrix: Loadout & Power Codex Architecture (Model B)
+
+SupaFlex separates a character's total power collection from their active, in-combat battle repertoire to eliminate decision paralysis and encourage diverse tactical builds:
+
+* **Power Codex (Vault of Knowledge):** Every power learned, drafted, or acquired is permanently recorded in the character's Power Codex without capacity limits.
+* **Ready Matrix (Active Tactical Loadout):** Prior to encounters or during Short/Day Rests, characters ready a bounded tactical loadout based on their level Tier.
+* **Contextual & Passive Powers (0 Slots):** Passives, crafting proficiencies, and non-combat contextual abilities cost **0 Ready Slots** and remain **Always Active** on the character sheet.
+
+#### Ready Matrix Capacity & Category Ceiling Schedule
+
+Tactical slots draw from a flexible pool with category caps to prevent single-action mono-builds:
+
+| Tier | Level Bracket | Total Tactical Slots | Max Primary Arsenal (⚔️) | Max Mobility & Defense (⚡) | Mandatory Floor |
+| :---: | :---: | :---: | :---: | :---: | :---: |
+| **Tier 1** | Lvl 1–4 | **4 Slots** | 3 Max | 3 Max | Min 1 per category |
+| **Tier 2** | Lvl 5–9 | **5 Slots** | 4 Max | 4 Max | Min 1 per category |
+| **Tier 3** | Lvl 10–14 | **6 Slots** | 4 Max | 4 Max | Min 2 per category |
+| **Tier 4** | Lvl 15–19 | **7 Slots** | 5 Max | 5 Max | Min 2 per category |
+| **Tier 5** | Lvl 20+ | **8 Slots** | 5 Max | 5 Max | Min 3 per category |
+
+#### The Three Functional Power Channels
+
+1. ⚔️ **Primary Arsenal (`primary_arsenal`):** Direct offensive attacks, combat combos, spell strikes, and crowd control (Action `A` or `AM`).
+2. ⚡ **Mobility & Defense (`mobility_defense`):** Movement boosts, gap-closers, dodges, guards, defensive reactions, and counters (Action `M` or reactive defenses).
+3. 🛡️ **Contextual & Passives (`contextual_passive`):** Non-combat utilities, downtime crafting, social tricks, and passive bonuses (0 Slots / Always Active).
+
+#### ⚡ Tactical Pivot (In-Combat Re-Equip)
+
+* **Trigger & Cost:** Once per encounter ($1\text{-Enc}$), a character may spend **1 Free Action (F) + 1 Spark** (5 Charges $\ge 5\⚡$) to execute a **Tactical Pivot**.
+* **Effect:** Swap 1 un-readied tactical power from the Power Codex directly into the active Ready Matrix, replacing an existing active tactical slot.
+* **Strategic Utility:** Allows adaptable tactical shifts mid-battle (e.g., swapping a fire strike for cold damage against a flame golem, or pulling out emergency mobility).
 
 ### 🔄 Usage & The Charge Engine (⚡)
 
