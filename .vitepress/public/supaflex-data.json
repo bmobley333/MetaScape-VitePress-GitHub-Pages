@@ -16013,7 +16013,7 @@
         "Negotiate👁️",
         "Persuade👁️",
         "Charm👁️",
-        "Intimidate👁️",
+        "Intimidate🫀",
         "Fast Talk👁️",
         "Languages👁️"
       ],
@@ -16069,7 +16069,7 @@
         "Brewing👁️",
         "Underground Lore👁️",
         "Repair Gear💪",
-        "Poison Save✨"
+        "Poison Save🫀"
       ],
       "source": "DB",
       "created_at": "2026-08-13T21:26:30.190833+00:00",
@@ -16148,8 +16148,8 @@
       "id": 20,
       "name": "Guard Skills",
       "skills": [
-        "Intimidation👁️",
-        "Interrogate👁️",
+        "Intimidation🫀",
+        "Interrogate🫀",
         "Repair Weapons/Armor💪",
         "Danger Sense👁️"
       ],
@@ -16215,7 +16215,7 @@
       "id": 24,
       "name": "Intimidation & Presence",
       "skills": [
-        "Threaten Convincingly👁️",
+        "Threaten Convincingly🫀",
         "Taunt Foes👁️",
         "Inspire Allies👁️",
         "Lead Rebellious Groups👁️",
@@ -16236,7 +16236,7 @@
         "Awareness👁️",
         "Mountaineering🏃",
         "Healing Arts👁️",
-        "Endure Pain/Fear✨"
+        "Endure Pain/Fear🫀"
       ],
       "source": "DB",
       "created_at": "2026-08-13T21:26:30.190833+00:00",
@@ -16354,10 +16354,10 @@
       "skills": [
         "Hunt🏃",
         "Ambush🏃",
-        "Intimidation👁️",
+        "Intimidation🫀",
         "Crafting💪",
         "Endure Weather🫀",
-        "Weather Save✨"
+        "Weather Save🫀"
       ],
       "source": "DB",
       "created_at": "2026-08-13T21:26:30.190833+00:00",
@@ -16465,7 +16465,7 @@
         "Orders👁️",
         "Repair System💪",
         "Comtech👁️",
-        "Dominate👁️",
+        "Dominate🫀",
         "Ship Power✨",
         "Social Status👁️"
       ],
@@ -16635,7 +16635,7 @@
         "Scanners👁️",
         "Sensors👁️",
         "Damage Control💪",
-        "Interrogate👁️",
+        "Interrogate🫀",
         "Vehicle Gunner👁️",
         "Danger Sense👁️",
         "Fearless🫀",
@@ -16701,7 +16701,7 @@
         "Counter Security👁️",
         "Detect Lie👁️",
         "Fast talk👁️",
-        "Interrogate👁️",
+        "Interrogate🫀",
         "Theft🏃",
         "Danger Sense👁️",
         "Expert Runner🏃",
