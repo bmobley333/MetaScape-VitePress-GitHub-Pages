@@ -1340,13 +1340,13 @@ SupaFlex separates a character's total power collection from their active, in-co
 
 * **Power Codex (Vault of Knowledge):** Every power learned, drafted, or acquired is permanently recorded in the character's Power Codex without capacity limits.
 * **Ready Matrix (Active Tactical Loadout):** Prior to encounters or during Short/Day Rests, characters ready a bounded tactical loadout based on their level Tier.
-* **Contextual & Passive Powers (0 Slots):** Passives, crafting proficiencies, and non-combat contextual abilities cost **0 Ready Slots** and remain **Always Active** on the character sheet.
+* **Support & Passive Powers (0 Slots):** Passives, crafting proficiencies, and utility support abilities cost **0 Ready Slots** and remain **Always Active** on the character sheet.
 
 #### Ready Matrix Capacity & Category Ceiling Schedule
 
 Tactical slots draw from a flexible pool with category caps to prevent single-action mono-builds:
 
-| Tier | Level Bracket | Total Tactical Slots | Max Primary Arsenal (⚔️) | Max Mobility & Defense (👣) | Mandatory Floor |
+| Tier | Level Bracket | Total Tactical Slots | Max Primary / Arsenal (⚔️) | Max Mobility & Defense (👣) | Mandatory Floor |
 | :---: | :---: | :---: | :---: | :---: | :---: |
 | **Tier 1** | Lvl 1–4 | **4 Slots** | 3 Max | 3 Max | Min 1 per category |
 | **Tier 2** | Lvl 5–9 | **5 Slots** | 4 Max | 4 Max | Min 1 per category |
@@ -1356,9 +1356,9 @@ Tactical slots draw from a flexible pool with category caps to prevent single-ac
 
 #### The Three Functional Power Channels
 
-1. ⚔️ **Primary Arsenal (`primary_arsenal`):** Direct offensive attacks, combat combos, spell strikes, and crowd control (Action `A` or `AM`).
+1. ⚔️ **Primary / Arsenal (`primary_arsenal`):** Direct offensive attacks, major standard heals, combat combos, spell strikes, and crowd control (Action `A` or `AM`).
 2. 👣 **Mobility & Defense (`mobility_defense`):** Movement boosts, gap-closers, dodges, guards, defensive reactions, and counters (Action `M` or reactive defenses).
-3. 🎓 **Contextual & Passives (`contextual_passive`):** Non-combat utilities, downtime crafting, social tricks, and passive bonuses (0 Slots / Always Active).
+3. 🎓 **Support & Passives (`support_passive`):** Non-combat utilities, downtime crafting, social tricks, team buffs, and passive bonuses (0 Slots / Always Active).
 
 #### ⚡ Tactical Pivot (In-Combat Re-Equip)
 
