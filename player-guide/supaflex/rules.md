@@ -1346,7 +1346,7 @@ SupaFlex separates a character's total power collection from their active, in-co
 
 Tactical slots draw from a flexible pool with category caps to prevent single-action mono-builds:
 
-| Tier | Level Bracket | Total Tactical Slots | Max Primary Arsenal (⚔️) | Max Mobility & Defense (⚡) | Mandatory Floor |
+| Tier | Level Bracket | Total Tactical Slots | Max Primary Arsenal (⚔️) | Max Mobility & Defense (👣) | Mandatory Floor |
 | :---: | :---: | :---: | :---: | :---: | :---: |
 | **Tier 1** | Lvl 1–4 | **4 Slots** | 3 Max | 3 Max | Min 1 per category |
 | **Tier 2** | Lvl 5–9 | **5 Slots** | 4 Max | 4 Max | Min 1 per category |
@@ -1357,8 +1357,8 @@ Tactical slots draw from a flexible pool with category caps to prevent single-ac
 #### The Three Functional Power Channels
 
 1. ⚔️ **Primary Arsenal (`primary_arsenal`):** Direct offensive attacks, combat combos, spell strikes, and crowd control (Action `A` or `AM`).
-2. ⚡ **Mobility & Defense (`mobility_defense`):** Movement boosts, gap-closers, dodges, guards, defensive reactions, and counters (Action `M` or reactive defenses).
-3. 🛡️ **Contextual & Passives (`contextual_passive`):** Non-combat utilities, downtime crafting, social tricks, and passive bonuses (0 Slots / Always Active).
+2. 👣 **Mobility & Defense (`mobility_defense`):** Movement boosts, gap-closers, dodges, guards, defensive reactions, and counters (Action `M` or reactive defenses).
+3. 🎓 **Contextual & Passives (`contextual_passive`):** Non-combat utilities, downtime crafting, social tricks, and passive bonuses (0 Slots / Always Active).
 
 #### ⚡ Tactical Pivot (In-Combat Re-Equip)
 
