@@ -15,7 +15,7 @@
       "notes": "Accelerated Healing is an advanced ability that empowers the character to significantly enhance the regenerative capabilities of an ally. By accelerating the body's natural healing processes, this ability ensures that the ally can recover from injuries much faster, maintaining their combat effectiveness even in prolonged battles. The character's intervention allows the hive’s warriors to endure and thrive, even under intense pressure.\nWhen Accelerated Healing is activated, the target's wounds begin to heal at an accelerated rate, visibly knitting together before the eyes of onlookers. A soft, greenish glow suffuses the injured areas, with tiny, sparkling motes of bio-energy swirling around the wounds, mending tissue and restoring vitality with every passing second. The sensation is warm and soothing, as if a gentle wave of energy is washing over the target, steadily erasing the pain and fatigue that once threatened to overwhelm them. The aura of rapid regeneration not only provides physical restoration but also a psychological boost, as the target feels their strength returning with each heartbeat.\nWith Accelerated Healing, the character ensures that the hive’s warriors remain resilient and capable, able to recover quickly from the rigors of battle and continue fighting with renewed strength.",
       "category": "Class",
       "table": "Unique - Bio Engineer",
-      "ready": "primary_arsenal"
+      "ready": "mobility_defense"
     },
     {
       "id": 2,
@@ -32,7 +32,7 @@
       "notes": "Acrobatics Roll is crafted from durable materials, designed for reliable use in the field.",
       "category": "Class",
       "table": "Warrior - Ranger",
-      "ready": "support_passive"
+      "ready": "mobility_defense"
     },
     {
       "id": 3,
@@ -168,7 +168,7 @@
       "notes": "Afterimage Step is crafted from durable materials, designed for reliable use in the field.",
       "category": "Class",
       "table": "Monk",
-      "ready": "support_passive"
+      "ready": "mobility_defense"
     },
     {
       "id": 14,
@@ -389,7 +389,7 @@
       "notes": "Apply Poison is crafted from durable materials, designed for reliable use in the field.",
       "category": "Class",
       "table": "Thief - Assassin",
-      "ready": "mobility_defense"
+      "ready": "primary_arsenal"
     },
     {
       "id": 29,
@@ -593,7 +593,7 @@
       "notes": "Aura of Warding is crafted from durable materials, designed for reliable use in the field.",
       "category": "Class",
       "table": "Healer",
-      "ready": "support_passive"
+      "ready": "mobility_defense"
     },
     {
       "id": 41,
@@ -644,7 +644,7 @@
       "notes": "Backstab is crafted from durable materials, designed for reliable use in the field.",
       "category": "Class",
       "table": "Thief - Assassin",
-      "ready": "support_passive"
+      "ready": "primary_arsenal"
     },
     {
       "id": 44,
@@ -678,7 +678,7 @@
       "notes": "Balance Ward is crafted from durable materials, designed for reliable use in the field.",
       "category": "Class",
       "table": "Monk",
-      "ready": "support_passive"
+      "ready": "mobility_defense"
     },
     {
       "id": 46,
@@ -814,7 +814,7 @@
       "notes": "Berserker Rage is crafted from durable materials, designed for reliable use in the field.",
       "category": "Class",
       "table": "Warrior",
-      "ready": "support_passive"
+      "ready": "primary_arsenal"
     },
     {
       "id": 54,
@@ -864,7 +864,7 @@
       "notes": "Bio-Weapon is a versatile and formidable ability that enhances the character's Bio-Forge Gauntlet, allowing it to morph into one of three specialized bio-weapons: a bio-blade, a bio-spear, or a bio-club. Each weapon form is tailored for a specific type of damage—slashing, piercing, or blunt—providing the character with the flexibility to adapt to a wide range of combat scenarios. The ability to switch between these forms makes the Bio-Weapon an essential tool in the character’s arsenal, turning the gauntlet into a lethal and adaptable extension of their combat prowess.\nWhen the Bio-Weapon is activated, the Bio-Forge Gauntlet undergoes a rapid transformation, the organic material flowing and reshaping itself with a fluid, almost sentient motion. As the gauntlet morphs, a soft, bioluminescent glow emanates from the surface, illuminating the process. The bio-blade extends into a sleek, razor-sharp edge, designed for swift and precise slashing attacks. The bio-spear elongates into a narrow, pointed form, capable of piercing through the toughest armor with deadly accuracy. The bio-club thickens and hardens, its surface becoming knotted and reinforced, ready to deliver bone-crushing blunt force trauma. Each weapon form pulses with a life-like energy, its surface subtly shifting as though it is alive, and the weapon hums faintly as it prepares for combat.\nThe Bio-Forge Gauntlet becomes a critical asset, its power and lethality increasing with the character's growing mastery.",
       "category": "Class",
       "table": "Unique - Bio Engineer",
-      "ready": "support_passive"
+      "ready": "primary_arsenal"
     },
     {
       "id": 58,
@@ -881,7 +881,7 @@
       "notes": "Blackaxe Formation is engineered with high-durability composite materials for reliable field operations.",
       "category": "Class",
       "table": "Warrior - Shield",
-      "ready": "support_passive"
+      "ready": "mobility_defense"
     },
     {
       "id": 59,
@@ -898,7 +898,7 @@
       "notes": "Blackaxe Oath is engineered with high-durability composite materials for reliable field operations.",
       "category": "Class",
       "table": "Warrior - Shield",
-      "ready": "support_passive"
+      "ready": "mobility_defense"
     },
     {
       "id": 60,
@@ -1000,7 +1000,7 @@
       "notes": "Blazing Trail is a devastating ability that allows the character to weaponize their movements, leaving a searing path of fire in their wake. As the character moves across the battlefield, the ground beneath them ignites, creating a wall of flames that scorches any enemies who dare to follow. This fiery trail not only inflicts significant damage equivalent to a Flame Lance but also serves as a strategic tool, creating barriers that hinder enemy movement and protect allies.\nVisually, Blazing Trail transforms the battlefield into a blazing inferno, with the character at its epicenter. As they dash forward, the ground erupts in flames, leaving behind a trail of flickering, crackling fire that grows in intensity with every step. The heat distorts the air, and the flames roar as they consume everything in their path, creating an impenetrable barrier of fire that forces enemies to think twice before pursuing. The sight of the character surrounded by this fiery trail is a fearsome display of raw power, as they turn even their retreat into a deadly offensive maneuver.\nWith Blazing Trail, the character becomes a relentless force, turning even a retreat into a devastating offensive maneuver that leaves a path of destruction in their wake.",
       "category": "Class",
       "table": "Warrior - Inferno Vanguard",
-      "ready": "support_passive"
+      "ready": "primary_arsenal"
     },
     {
       "id": 71,
@@ -1119,7 +1119,7 @@
       "notes": "Blood Fury is crafted from durable materials, designed for reliable use in the field.",
       "category": "Race",
       "table": "Orc",
-      "ready": "support_passive"
+      "ready": "primary_arsenal"
     },
     {
       "id": 79,
@@ -1255,7 +1255,7 @@
       "notes": "Bloodmarked Defiance is engineered with high-durability composite materials for reliable field operations.",
       "category": "Race",
       "table": "Human - Bloodmarked",
-      "ready": "support_passive"
+      "ready": "mobility_defense"
     },
     {
       "id": 87,
@@ -1408,7 +1408,7 @@
       "notes": "Bronze Resolve is engineered with high-durability composite materials for reliable field operations.",
       "category": "Race",
       "table": "Human - Bloodmarked",
-      "ready": "support_passive"
+      "ready": "mobility_defense"
     },
     {
       "id": 98,
@@ -1629,7 +1629,7 @@
       "notes": "Circus Survivor is crafted from durable materials, designed for reliable use in the field.",
       "category": "Class",
       "table": "Mage - Magnetic",
-      "ready": "primary_arsenal"
+      "ready": "mobility_defense"
     },
     {
       "id": 111,
@@ -1918,7 +1918,7 @@
       "notes": "Cover Ally is crafted from durable materials, designed for reliable use in the field.",
       "category": "Combat Style",
       "table": "Weapon & Shield",
-      "ready": "support_passive"
+      "ready": "mobility_defense"
     },
     {
       "id": 129,
@@ -1935,7 +1935,7 @@
       "notes": "Crane Stance is crafted from durable materials, designed for reliable use in the field.",
       "category": "Class",
       "table": "Monk",
-      "ready": "support_passive"
+      "ready": "mobility_defense"
     },
     {
       "id": 130,
@@ -2054,7 +2054,7 @@
       "notes": "Cursebound Defiance is crafted from durable materials, designed for reliable use in the field.",
       "category": "Class",
       "table": "Warrior - Cursed Spartan",
-      "ready": "primary_arsenal"
+      "ready": "mobility_defense"
     },
     {
       "id": 138,
@@ -2071,7 +2071,7 @@
       "notes": "Cursebrand Surge is crafted from durable materials, designed for reliable use in the field.",
       "category": "Class",
       "table": "Warrior - Cursed Spartan",
-      "ready": "support_passive"
+      "ready": "primary_arsenal"
     },
     {
       "id": 139,
@@ -2122,7 +2122,7 @@
       "notes": "Cutting Words is crafted from durable materials, designed for reliable use in the field.",
       "category": "Class",
       "table": "Bard",
-      "ready": "support_passive"
+      "ready": "primary_arsenal"
     },
     {
       "id": 142,
@@ -2137,7 +2137,7 @@
       "notes": "Cyber Helm is a tactical enhancement for the character, providing a sealed helmet equipped with cutting-edge technology to significantly enhance battlefield awareness and combat efficiency. Upon activation, the Cyber Helm provides the character with real-time data, including enemy positions, ally status, and potential threats, improving strategic decision-making and offering vital protection in hazardous environments. This ability ensures that the character operates with superior intelligence and precision in any combat scenario.\nWhen the Cyber Helm is activated, a sleek, sealed helmet materializes around the character’s head, accompanied by a digital interface overlaying their vision. The helmet's exterior is streamlined and futuristic, with faint, pulsating lights indicating the active systems within. The Tactical HUD projects critical information directly into the character's line of sight, while the helmet’s systems enhance communication and targeting capabilities, ensuring the character can engage foes with pinpoint accuracy. As the Cyber Helm’s capabilities evolve, it seamlessly integrates with AI and neural interfaces, further boosting the character’s combat effectiveness.\nAt its most advanced, the Cyber Helm elevates the character to a level of tactical superiority, turning them into an unmatched force of precision and efficiency on the battlefield.",
       "category": "Class",
       "table": "Warrior - Inferno Vanguard",
-      "ready": "primary_arsenal"
+      "ready": "support_passive"
     },
     {
       "id": 144,
@@ -2152,7 +2152,7 @@
       "notes": "Cyber Servos is a powerful enhancement that upgrades the skeletal joints of the character, vastly improving their reflexes, agility, and overall physical capabilities. When activated, this ability enhances the character's speed and precision, allowing them to move with lightning-fast reflexes and outmaneuver opponents with ease. Cyber Servos turn the character into a swift and elusive combatant, capable of reacting to threats with unparalleled agility.\nUpon activation, Cyber Servos create a subtle yet noticeable mechanical whirring as the character's joints and limbs are fortified by the advanced cybernetic systems. The character’s movements become a blur of speed, with their reflexes sharpened to a razor's edge, enabling them to dodge incoming attacks, close the distance on enemies, or reposition themselves for maximum advantage. As the character's mastery of Cyber Servos grows, these enhancements become even more pronounced, making the character a nearly untouchable presence on the battlefield.\nAt its zenith, Cyber Servos transform the character into a being of unmatched speed and precision, dominating the battlefield with fluid, unstoppable motion.",
       "category": "Class",
       "table": "Warrior - Inferno Vanguard",
-      "ready": "support_passive"
+      "ready": "mobility_defense"
     },
     {
       "id": 145,
@@ -2216,7 +2216,7 @@
       "notes": "Dance of Light & Shadow is crafted from durable materials, designed for reliable use in the field.",
       "category": "Race",
       "table": "Nymph",
-      "ready": "primary_arsenal"
+      "ready": "mobility_defense"
     },
     {
       "id": 149,
@@ -2267,7 +2267,7 @@
       "notes": "Dawn’s Aegis is a radiant shield that emits a soft, protective glow, enveloping allies in a warm aura that enhances their resilience against incoming threats.",
       "category": "Class",
       "table": "Healer - Sun-Devoted",
-      "ready": "support_passive"
+      "ready": "mobility_defense"
     },
     {
       "id": 152,
@@ -2301,7 +2301,7 @@
       "notes": "This feat enables the user to focus mental energy through a physical blow. The energy is then channeled into the target, crushing tissue, causing massive damage, and resulting in death.\n*Death blow* can be activated after the psychosomaticist has struck a damaging blow. The psychosomaticist then makes a *skill* roll against the victim’s FR. If the roll succeeds, the target is dead. PCs who are victims of this attack are reduced to \\-10 Vit.",
       "category": "Class",
       "table": "Psychosomatics",
-      "ready": "support_passive"
+      "ready": "primary_arsenal"
     },
     {
       "id": 154,
@@ -2318,7 +2318,7 @@
       "notes": "This power shoots a ray of pure *Sorce* energy, engulfing and draining a victim’s life energy. If Sk^Best(Def,Resist Sorce) succeeds, the victim dies and crumbles to dust as its life energies are completely annihilated. This ability only works on living targets.",
       "category": "Class",
       "table": "Mage - Void Magic",
-      "ready": "mobility_defense"
+      "ready": "primary_arsenal"
     },
     {
       "id": 156,
@@ -2352,7 +2352,7 @@
       "notes": "Defensive Flourish is crafted from durable materials, designed for reliable use in the field.",
       "category": "Combat Style",
       "table": "Single Weapon",
-      "ready": "support_passive"
+      "ready": "mobility_defense"
     },
     {
       "id": 158,
@@ -2369,7 +2369,7 @@
       "notes": "Defensive Stance is crafted from durable materials, designed for reliable use in the field.",
       "category": "Class",
       "table": "Psionics - Sentinel",
-      "ready": "support_passive"
+      "ready": "mobility_defense"
     },
     {
       "id": 159,
@@ -2505,7 +2505,7 @@
       "notes": "Disarm Strike is a combat maneuver that combines striking force with a precise, calculated motion to either knock an opponent off balance or cause them to drop their weapon.",
       "category": "Combat Style",
       "table": "Martial Arts",
-      "ready": "support_passive"
+      "ready": "primary_arsenal"
     },
     {
       "id": 168,
@@ -2930,7 +2930,7 @@
       "notes": "Echoing Whispers is a haunting communication ability unique to the character, allowing them to project their voice across distances in the form of eerie, ghostly tones that bypass physical barriers and resonate directly in the ears of their intended recipients. This ability is perfect for delivering cryptic warnings, issuing commands, or conversing in a way that underscores the character's otherworldly nature. The sound of their voice is a chilling blend of multiple tones, creating an unsettling echo that lingers in the air and strikes fear into the hearts of those who hear it.\nWhen the character activates Echoing Whispers, their voice takes on an ethereal quality, as though it is being carried by the winds of the void. The words they speak resonate directly in the ears of their chosen recipients, bypassing walls, doors, and even the vacuum of space. The recipients hear the voice as if it character right next to them, a spectral whisper that is impossible to ignore. The tone is unsettling, a chorus of overlapping voices that seem to come from all directions at once, creating a disorienting and unnerving experience. To anyone else, the words are incomprehensible, lost in the echoes of the void, but to the intended recipients, the message is clear and impossible to forget.\nEchoing Whispers allows the character to communicate with an eerie, otherworldly presence, ensuring that their words are heard and remembered by those they choose to speak to, no matter the distance or obstacles in their way.",
       "category": "Class",
       "table": "Mage - Void Magic",
-      "ready": "mobility_defense"
+      "ready": "support_passive"
     },
     {
       "id": 201,
@@ -2964,7 +2964,7 @@
       "notes": "Eclipse Veil is a powerful ability that allows the character to shroud the battlefield in an oppressive darkness, drastically reducing the brightness of all light sources, both natural and arcane. This veil of darkness creates a foreboding atmosphere, disorienting enemies and amplifying their fears. Within this dim environment, the character becomes nearly invisible, moving stealthily among their foes and striking fear into their hearts with every wound inflicted. The oppressive darkness not only enhances the character's stealth but also has a profound psychological impact on enemies within its area of effect.\nAs the character casts Eclipse Veil, the light around them dims, and shadows stretch and twist unnaturally. The battlefield becomes a realm of fear, where every shadow hides a potential threat. Enemies within the veil find their vision impaired and their nerves frayed, making them more vulnerable to the character’s attacks. Every wound inflicted by the character within the veil forces their enemies to confront their deepest fears, leaving them paralyzed or fleeing in terror. This ability can be cast while in certain Dark Forms, allowing the character to fully capitalize on the veil’s effects while maintaining their monstrous presence.\nEclipse Veil turns the battlefield into the character’s domain, where they can control the flow of combat with fear and darkness. This ability ensures that the character remains a deadly and elusive predator, striking from the shadows and leaving their enemies in a state of constant dread.",
       "category": "Class",
       "table": "Warrior - Lifestealer",
-      "ready": "primary_arsenal"
+      "ready": "mobility_defense"
     },
     {
       "id": 205,
@@ -3015,7 +3015,7 @@
       "notes": "Elemental Armor is a suit of protective gear that shimmers with a faint, otherworldly glow, as if woven from the very essence of the elements it defends against. The armor feels light yet unyielding, as though it is not merely worn but fused with the wearer's will.",
       "category": "Class",
       "table": "Mage - Elemental",
-      "ready": "support_passive"
+      "ready": "mobility_defense"
     },
     {
       "id": 208,
@@ -3032,7 +3032,7 @@
       "notes": "Elemental Burst is a surge of raw elemental power that crackles in the air, leaving behind a lingering trace of heat, cold, or electricity. It is as if the very fabric of reality is momentarily twisted by the force of the burst.",
       "category": "Class",
       "table": "Mage - Elemental",
-      "ready": "support_passive"
+      "ready": "primary_arsenal"
     },
     {
       "id": 209,
@@ -3233,7 +3233,7 @@
       "notes": "Fade Into Dust is engineered with high-durability composite materials for reliable field operations.",
       "category": "Class",
       "table": "Form - Pixie",
-      "ready": "primary_arsenal"
+      "ready": "mobility_defense"
     },
     {
       "id": 227,
@@ -3301,7 +3301,7 @@
       "notes": "Fey Glamour is crafted from durable materials, designed for reliable use in the field.",
       "category": "Race",
       "table": "Fairy",
-      "ready": "mobility_defense"
+      "ready": "primary_arsenal"
     },
     {
       "id": 231,
@@ -3657,7 +3657,7 @@
       "notes": "Flutter Dance is a swift, evasive movement that mimics the agile flight of a bird, allowing the user to maneuver with grace while momentarily evading enemy attacks.",
       "category": "Race",
       "table": "Fairy",
-      "ready": "primary_arsenal"
+      "ready": "mobility_defense"
     },
     {
       "id": 253,
@@ -3776,7 +3776,7 @@
       "notes": "Forge-Touched is a mark of craftsmanship and power, where the weapon is imbued with a subtle, enduring glow. The touch of the user seems to awaken something within the weapon, making it feel more alive and responsive in battle.",
       "category": "Race",
       "table": "Dwarf - Blackaxe Clan",
-      "ready": "support_passive"
+      "ready": "primary_arsenal"
     },
     {
       "id": 260,
@@ -3963,7 +3963,7 @@
       "notes": "Ghosting Run is crafted from durable materials, designed for reliable use in the field.",
       "category": "Class",
       "table": "Thief - Assassin",
-      "ready": "primary_arsenal"
+      "ready": "mobility_defense"
     },
     {
       "id": 273,
@@ -4671,7 +4671,7 @@
       "notes": "Hurl King is crafted from durable materials, designed for reliable use in the field.",
       "category": "Combat Style",
       "table": "Single Weapon",
-      "ready": "support_passive"
+      "ready": "primary_arsenal"
     },
     {
       "id": 326,
@@ -4722,7 +4722,7 @@
       "notes": "Ignore the Pain is engineered with high-durability composite materials for reliable field operations.",
       "category": "Class",
       "table": "Warrior - Shield",
-      "ready": "support_passive"
+      "ready": "mobility_defense"
     },
     {
       "id": 329,
@@ -4790,7 +4790,7 @@
       "notes": "Improvised Arsenal is engineered with high-durability composite materials for reliable field operations.",
       "category": "Class",
       "table": "Warrior - Punk",
-      "ready": "support_passive"
+      "ready": "primary_arsenal"
     },
     {
       "id": 333,
@@ -4891,7 +4891,7 @@
       "notes": "Inspiring Anthem is crafted from durable materials, designed for reliable use in the field.",
       "category": "Class",
       "table": "Healer",
-      "ready": "primary_arsenal"
+      "ready": "support_passive"
     },
     {
       "id": 341,
@@ -4974,7 +4974,7 @@
       "notes": "Iron Bulwark is crafted from durable materials, designed for reliable use in the field.",
       "category": "Combat Style",
       "table": "Weapon & Shield",
-      "ready": "support_passive"
+      "ready": "mobility_defense"
     },
     {
       "id": 346,
@@ -5008,7 +5008,7 @@
       "notes": "Iron Fist is crafted from durable materials, designed for reliable use in the field.",
       "category": "Combat Style",
       "table": "Martial Arts",
-      "ready": "support_passive"
+      "ready": "primary_arsenal"
     },
     {
       "id": 348,
@@ -5042,7 +5042,7 @@
       "notes": "Iron Hide is crafted from durable materials, designed for reliable use in the field.",
       "category": "Race",
       "table": "Dwarf",
-      "ready": "support_passive"
+      "ready": "mobility_defense"
     },
     {
       "id": 350,
@@ -5076,7 +5076,7 @@
       "notes": "Iron Will is crafted from durable materials, designed for reliable use in the field.",
       "category": "Class",
       "table": "Psionics - Sentinel",
-      "ready": "primary_arsenal"
+      "ready": "mobility_defense"
     },
     {
       "id": 352,
@@ -5110,7 +5110,7 @@
       "notes": "Juggernaut is engineered with high-durability composite materials for reliable field operations.",
       "category": "Class",
       "table": "Form - Giant",
-      "ready": "support_passive"
+      "ready": "mobility_defense"
     },
     {
       "id": 355,
@@ -5127,7 +5127,7 @@
       "notes": "This enhancement gives the psychosomaticist greatly enhanced jumping and leaping abilities.",
       "category": "Class",
       "table": "Psychosomatics",
-      "ready": "support_passive"
+      "ready": "mobility_defense"
     },
     {
       "id": 356,
@@ -5178,7 +5178,7 @@
       "notes": "Ki Centering is crafted from durable materials, designed for reliable use in the field.",
       "category": "Class",
       "table": "Monk",
-      "ready": "primary_arsenal"
+      "ready": "support_passive"
     },
     {
       "id": 359,
@@ -5212,7 +5212,7 @@
       "notes": "Ki Surge is crafted from durable materials, designed for reliable use in the field.",
       "category": "Class",
       "table": "Monk",
-      "ready": "primary_arsenal"
+      "ready": "mobility_defense"
     },
     {
       "id": 361,
@@ -5297,7 +5297,7 @@
       "notes": "Landing creates a cushion of mental force which will slow a fall and absorb damage. This may be used to affect the indicated number of targets in range (including the psionicist).\nThe psionicist must make a *skill* roll to reduce the target’s falling distance (in feet) by the amount rolled. If there is any falling damage left, the normal falling rules still apply (i.e., an AR check is still allowed).\nIf the ONLY target is the Psionicist, then the action cost is always Act(\\~).",
       "category": "Class",
       "table": "Psionics",
-      "ready": "support_passive"
+      "ready": "mobility_defense"
     },
     {
       "id": 366,
@@ -5314,7 +5314,7 @@
       "notes": "Last Chance is crafted from durable materials, designed for reliable use in the field.",
       "category": "Luck",
       "table": "Luck",
-      "ready": "support_passive"
+      "ready": "mobility_defense"
     },
     {
       "id": 367,
@@ -5365,7 +5365,7 @@
       "notes": "Leap of the Colossus is engineered with high-durability composite materials for reliable field operations.",
       "category": "Class",
       "table": "Form - Giant",
-      "ready": "support_passive"
+      "ready": "primary_arsenal"
     },
     {
       "id": 370,
@@ -5688,7 +5688,7 @@
       "notes": "Lupine Agility grants the character unparalleled acrobatic prowess, enhancing their reflexes, balance, and coordination to superhuman levels. This ability allows the character to navigate their environment with effortless grace, whether leaping across rooftops, scaling sheer walls, or dodging enemy attacks with lightning-fast movements. Lupine Agility makes the character a master of movement, able to traverse any terrain with fluid precision.\nWhen Lupine Agility is activated, the character moves with an elegance that is almost otherworldly. Their body becomes a blur as they dash through obstacles, each motion perfectly controlled and balanced. To onlookers, the character seems to defy gravity, their movements a seamless dance of agility and power. The air swirls around them as they leap from one point to another, their landings as soft and silent as a shadow. The character's heightened senses pick up every detail of their surroundings, allowing them to react with uncanny speed to any threat or opportunity.\nIn the midst of battle, Lupine Agility turns the character into a swift and elusive predator, their movements too fast and too fluid to be easily tracked or targeted. This ability not only enhances their combat effectiveness but also reinforces their role as a deadly and unpredictable force, capable of striking from any angle and evading danger with ease.",
       "category": "Class",
       "table": "Warrior - Bloodfang Berserker",
-      "ready": "support_passive"
+      "ready": "mobility_defense"
     },
     {
       "id": 395,
@@ -5925,7 +5925,7 @@
       "notes": "Master of Disguise is a set of intricately crafted garments that shift and mold to the wearer's form, their fabric appearing to ripple and change as if alive.",
       "category": "Class",
       "table": "Trickster",
-      "ready": "support_passive"
+      "ready": "mobility_defense"
     },
     {
       "id": 412,
@@ -5976,7 +5976,7 @@
       "notes": "Meditation is a simple, unadorned pendant made of smooth, polished stone that emits a calming aura, helping the wearer find focus and clarity in moments of turmoil.",
       "category": "Class",
       "table": "Monk",
-      "ready": "primary_arsenal"
+      "ready": "support_passive"
     },
     {
       "id": 415,
@@ -6010,7 +6010,7 @@
       "notes": "Mesmerise is a powerful Shadow Magic ability that allows the character to exert control over a target through dark hypnotic influence. When activated, the character's eyes emit a supernatural glow that draws the victim's gaze into a shadowy abyss, compelling them to listen and obey. This ability induces a trance-like state in the target, rendering them highly susceptible to the character's commands. The target becomes a puppet to the character’s will, unable to resist the overwhelming mental force.\nAs the character locks eyes with their target, a deep, shadowy glow emanates from their gaze, pulling the victim into a hypnotic trance. The victim’s eyes glaze over as they fall under the character’s spell, their mind bending to the character’s will. The character can then issue commands, ranging from simple orders to complex instructions, depending on the level of the ability. The victim, unable to resist, carries out these commands with unquestioning obedience, becoming an unwitting tool in the character’s hands. Whether compelling the target to reveal secrets, hold still for an attack, or even protect the character, Mesmerise is a versatile and dangerous tool for manipulation and control.\nMesmerise showcases the character’s mastery over the minds of others, allowing them to turn enemies into allies or puppets with a single, hypnotic gaze. This ability ensures that the character can manipulate the battlefield to their advantage, using their enemies’ own minds against them.",
       "category": "Class",
       "table": "Warrior - Lifestealer",
-      "ready": "primary_arsenal"
+      "ready": "support_passive"
     },
     {
       "id": 417,
@@ -6248,7 +6248,7 @@
       "notes": "Molten Core is an advanced enhancement for the character’s Thermite Grenades, designed to significantly increase the destructive power of each explosive. When activated, this ability channels additional energy into the thermite, causing it to adhere to the target on impact. This results in an exceptionally intense burn that not only causes an initial explosion but also continues to inflict damage over time. The thermite’s relentless burn can melt through armor, flesh, and fortifications, making it an extremely effective tool for sustained damage on the battlefield.\nVisually, when Molten Core is activated, the thermite within the grenade glows with a bright, molten orange hue, radiating intense heat. Upon detonation, the thermite splashes onto the target, clinging to surfaces and burning with a fierce, unyielding flame. The effect is a terrifying spectacle, with the target engulfed in flames that continue to eat away at them, reducing metal and stone to molten slag, while the intense heat distorts the air around it. This lingering burn serves as a constant threat, ensuring that the target remains vulnerable as the damage persists, making each Molten Core-enhanced grenade a long-lasting weapon of devastation.\nAs the character’s mastery of Molten Core advances, each grenade becomes a blazing engine of unstoppable destruction, melting everything in its path.",
       "category": "Class",
       "table": "Warrior - Inferno Vanguard",
-      "ready": "support_passive"
+      "ready": "primary_arsenal"
     },
     {
       "id": 435,
@@ -6282,7 +6282,7 @@
       "notes": "Monkey Stance is a set of lightweight, form-fitting armor that enhances the user's agility, designed to be worn by those who rely on speed and reflexes in combat.",
       "category": "Class",
       "table": "Monk",
-      "ready": "support_passive"
+      "ready": "mobility_defense"
     },
     {
       "id": 437,
@@ -6401,7 +6401,7 @@
       "notes": "Mystic Sight is a pair of ornate goggles with lenses that shimmer like liquid mercury, allowing the wearer to perceive the unseen and detect the faintest traces of danger lurking in the shadows.",
       "category": "Class",
       "table": "Healer",
-      "ready": "primary_arsenal"
+      "ready": "support_passive"
     },
     {
       "id": 447,
@@ -6484,7 +6484,7 @@
       "notes": "Necro Skin is a terrifying ability that allows the character to infuse their flesh with potent necrotic energy, turning their skin into a deadly defensive weapon. Any physical contact with the character's skin initiates a sinister transfer of this energy, forcing the target to save or contract a severe necrotic curse. The infection rapidly deteriorates the target's flesh, causing excruciating pain and ongoing damage each round for a set duration. This ability not only enhances the character’s defensive capabilities but also instills fear in their enemies, knowing that even a touch can lead to a slow, agonizing demise.\nAs Necro Skin takes effect, the character’s skin darkens and takes on an eerie, mottled appearance, as if imbued with death itself. Any foe who dares to strike the character with bare flesh or light armor feels the necrotic energy seeping into their body, causing immediate and severe pain. The necrosis spreads quickly, weakening the victim as their flesh deteriorates and their vitality drains away. This curse lingers, causing ongoing damage and potentially incapacitating the victim over time. Necro Skin turns the character into a walking plague, their very touch a death sentence for those foolish enough to engage them in close combat.\nNecro Skin underscores the character’s lethal nature, turning their body into a weapon that inflicts pain and suffering on any who dare to strike them. This ability ensures that the character remains a formidable force on the battlefield, capable of turning the tide of combat with a single touch.",
       "category": "Class",
       "table": "Warrior - Lifestealer",
-      "ready": "primary_arsenal"
+      "ready": "mobility_defense"
     },
     {
       "id": 454,
@@ -6518,7 +6518,7 @@
       "notes": "Necrotic Fortitude is an ability that reflects the character's undead-like nature, granting them a host of resistances and immunities that set them apart from living beings. This ability renders the wraith impervious to poison, disease, extreme temperatures, and even the vacuum of space. The character no longer requires food, water, or air to survive, allowing them to exist indefinitely without sustenance. In addition, Necrotic Fortitude prevents the character from bleeding and ensures that once they are dead, they can only be revived through arcane means, not by typical or advanced scientific methods.\nWhen Necrotic Fortitude is active, the character exudes an aura of deathly calm, their body seemingly untouched by the elements or the passage of time. Their skin takes on a pallor that hints at their undead nature, and their movements are slow and deliberate, as though they are conserving their energy for the moment when it is needed most. To those around them, the character appears as a being that is no longer tethered to the mortal plane, a wraith that has transcended the need for physical sustenance and is impervious to the dangers that would kill a living being. The character's wounds, if they occur, do not bleed, and their lifeless form does not slump or fall, instead remaining eerily still as if they are simply waiting for the right moment to strike again.\nNecrotic Fortitude underscores the character's detachment from the mortal world, granting them a resilience that is both terrifying and awe-inspiring, as they endure where others would fall.",
       "category": "Class",
       "table": "Mage - Void Magic",
-      "ready": "primary_arsenal"
+      "ready": "mobility_defense"
     },
     {
       "id": 457,
@@ -6569,7 +6569,7 @@
       "notes": "Neon Mirage is a sleek, wrist-mounted device that projects a lifelike holographic image, creating the illusion of a duplicate to confuse and mislead enemies.",
       "category": "Class",
       "table": "Trickster",
-      "ready": "primary_arsenal"
+      "ready": "mobility_defense"
     },
     {
       "id": 461,
@@ -6654,7 +6654,7 @@
       "notes": "Object Reading is crafted from durable materials, designed for reliable use in the field.",
       "category": "Class",
       "table": "Psionics",
-      "ready": "primary_arsenal"
+      "ready": "support_passive"
     },
     {
       "id": 467,
@@ -6688,7 +6688,7 @@
       "notes": "Obsidian Skin is crafted from durable materials, designed for reliable use in the field.",
       "category": "Race",
       "table": "Half-Orc",
-      "ready": "support_passive"
+      "ready": "mobility_defense"
     },
     {
       "id": 469,
@@ -6705,7 +6705,7 @@
       "notes": "Off-Hand Feint is crafted from durable materials, designed for reliable use in the field.",
       "category": "Combat Style",
       "table": "Dual Wield",
-      "ready": "support_passive"
+      "ready": "primary_arsenal"
     },
     {
       "id": 470,
@@ -6739,7 +6739,7 @@
       "notes": "Orc Resilience is crafted from durable materials, designed for reliable use in the field.",
       "category": "Race",
       "table": "Orc",
-      "ready": "primary_arsenal"
+      "ready": "mobility_defense"
     },
     {
       "id": 472,
@@ -6858,7 +6858,7 @@
       "notes": "Paired Precision is crafted from durable materials, designed for reliable use in the field.",
       "category": "Combat Style",
       "table": "Dual Wield",
-      "ready": "support_passive"
+      "ready": "primary_arsenal"
     },
     {
       "id": 479,
@@ -6892,7 +6892,7 @@
       "notes": "Panda Stance is crafted from durable materials, designed for reliable use in the field.",
       "category": "Class",
       "table": "Monk",
-      "ready": "support_passive"
+      "ready": "mobility_defense"
     },
     {
       "id": 481,
@@ -7009,7 +7009,7 @@
       "notes": "Phantom Glide is an ethereal movement ability that allows the character to move with near-silent grace, traversing delicate surfaces such as water, oil, or snow without leaving a trace. This ability allows the wraith to glide effortlessly across the battlefield, avoiding detection and maintaining perfect balance even in the most precarious situations. However, the character's movement is limited to a slow, steady pace, as they cannot jump or run while using Phantom Glide, and they are vulnerable to strong winds and concussive forces.\nWhen the character activates Phantom Glide, their movements become almost imperceptible, as though they are floating just above the ground. Their feet leave no ripples on the surface of water, no marks on the snow, and no sound in the air. They move with the grace of a ghost, slipping through the battlefield like a wraith, unseen and unheard. However, this graceful movement comes at a cost, as the character cannot move quickly or make sudden movements. They must remain steady and controlled, as any attempt to jump or run would break the illusion of their ghostly glide. Despite this limitation, Phantom Glide grants the character an unparalleled ability to move through the world with an otherworldly grace that few can match.\nPhantom Glide transforms the character into a spectral figure, moving through the battlefield with the silent grace of a ghost, untouchable by the physical world but vulnerable to the forces that would disrupt their delicate balance.",
       "category": "Class",
       "table": "Mage - Void Magic",
-      "ready": "support_passive"
+      "ready": "mobility_defense"
     },
     {
       "id": 491,
@@ -7043,7 +7043,7 @@
       "notes": "Phantom Step is crafted from durable materials, designed for reliable use in the field.",
       "category": "Class",
       "table": "Psionics - Sentinel",
-      "ready": "primary_arsenal"
+      "ready": "mobility_defense"
     },
     {
       "id": 493,
@@ -7145,7 +7145,7 @@
       "notes": "Piercing Retort is engineered with high-durability composite materials for reliable field operations.",
       "category": "Class",
       "table": "Warrior - Punk",
-      "ready": "primary_arsenal"
+      "ready": "support_passive"
     },
     {
       "id": 502,
@@ -7362,7 +7362,7 @@
       "notes": "Precision Cut is crafted from durable materials, designed for reliable use in the field.",
       "category": "Combat Style",
       "table": "Single Weapon",
-      "ready": "support_passive"
+      "ready": "primary_arsenal"
     },
     {
       "id": 517,
@@ -7428,7 +7428,7 @@
       "notes": "Pressure Chain is crafted from durable materials, designed for reliable use in the field.",
       "category": "Class",
       "table": "Monk",
-      "ready": "primary_arsenal"
+      "ready": "mobility_defense"
     },
     {
       "id": 524,
@@ -7598,7 +7598,7 @@
       "notes": "Purging Breath is a radiant, cleansing force that flows from the user's lungs, carrying the warmth of a summer breeze and the clarity of a mountain stream. It is said to wash away even the most stubborn ailments, leaving the recipient refreshed and renewed.",
       "category": "Class",
       "table": "Monk",
-      "ready": "primary_arsenal"
+      "ready": "mobility_defense"
     },
     {
       "id": 534,
@@ -7832,7 +7832,7 @@
       "notes": "Rally Soul is crafted from durable materials, designed for reliable use in the field.",
       "category": "Class",
       "table": "Healer",
-      "ready": "mobility_defense"
+      "ready": "support_passive"
     },
     {
       "id": 550,
@@ -7883,7 +7883,7 @@
       "notes": "Ranger’s Mark is crafted from durable materials, designed for reliable use in the field.",
       "category": "Class",
       "table": "Warrior - Ranger",
-      "ready": "support_passive"
+      "ready": "primary_arsenal"
     },
     {
       "id": 553,
@@ -8036,7 +8036,7 @@
       "notes": "Relentless Flow is crafted from durable materials, designed for reliable use in the field.",
       "category": "Combat Style",
       "table": "Single Weapon",
-      "ready": "support_passive"
+      "ready": "primary_arsenal"
     },
     {
       "id": 565,
@@ -8087,7 +8087,7 @@
       "notes": "Individuals with this enhancement are able to mentally strengthen their body’s tissues to minimize the effects of cold.\nWhen using this discipline, users receive a bonus to their FR when resisting cold. Cold based wounds are also reduced.",
       "category": "Class",
       "table": "Psychosomatics",
-      "ready": "support_passive"
+      "ready": "mobility_defense"
     },
     {
       "id": 570,
@@ -8104,7 +8104,7 @@
       "notes": "Resist Corruption is engineered with high-durability composite materials for reliable field operations.",
       "category": "Class",
       "table": "Healer - Sun-Devoted",
-      "ready": "support_passive"
+      "ready": "mobility_defense"
     },
     {
       "id": 571,
@@ -8121,7 +8121,7 @@
       "notes": "Individuals with this enhancement are able to mentally strengthen their body’s tissues to minimize the effects of heat.\nWhen using this discipline, users receive a bonus to their FR when resisting heat. heat based wounds (fire, plasma, lava, etc.) are also reduced.",
       "category": "Class",
       "table": "Psychosomatics",
-      "ready": "support_passive"
+      "ready": "mobility_defense"
     },
     {
       "id": 573,
@@ -8155,7 +8155,7 @@
       "notes": "Revive is crafted from durable materials, designed for reliable use in the field.",
       "category": "Class",
       "table": "Healer",
-      "ready": "primary_arsenal"
+      "ready": "mobility_defense"
     },
     {
       "id": 576,
@@ -8240,7 +8240,7 @@
       "notes": "Rip & Throw is engineered with high-durability composite materials for reliable field operations.",
       "category": "Class",
       "table": "Form - Giant",
-      "ready": "support_passive"
+      "ready": "primary_arsenal"
     },
     {
       "id": 581,
@@ -8342,7 +8342,7 @@
       "notes": "Rune Carve is crafted from durable materials, designed for reliable use in the field.",
       "category": "Race",
       "table": "Dwarf",
-      "ready": "primary_arsenal"
+      "ready": "mobility_defense"
     },
     {
       "id": 589,
@@ -8920,7 +8920,7 @@
       "notes": "Shield Interpose is crafted from durable materials, designed for reliable use in the field.",
       "category": "Class",
       "table": "Warrior - Cursed Spartan",
-      "ready": "support_passive"
+      "ready": "mobility_defense"
     },
     {
       "id": 630,
@@ -9156,7 +9156,7 @@
       "notes": "Silent Takedown is crafted from durable materials, designed for reliable use in the field.",
       "category": "Class",
       "table": "Thief - Assassin",
-      "ready": "mobility_defense"
+      "ready": "primary_arsenal"
     },
     {
       "id": 647,
@@ -9241,7 +9241,7 @@
       "notes": "Slip Through is crafted from durable materials, designed for reliable use in the field.",
       "category": "Class",
       "table": "Thief - Assassin",
-      "ready": "primary_arsenal"
+      "ready": "mobility_defense"
     },
     {
       "id": 653,
@@ -9258,7 +9258,7 @@
       "notes": "Slow Breath (Restorative) is crafted from durable materials, designed for reliable use in the field.",
       "category": "Class",
       "table": "Monk",
-      "ready": "support_passive"
+      "ready": "mobility_defense"
     },
     {
       "id": 654,
@@ -9762,7 +9762,7 @@
       "notes": "Stone Form is engineered with high-durability composite materials for reliable field operations.",
       "category": "Class",
       "table": "Warrior - Shield",
-      "ready": "primary_arsenal"
+      "ready": "mobility_defense"
     },
     {
       "id": 690,
@@ -9864,7 +9864,7 @@
       "notes": "Stonefang Resolve is crafted from durable materials, designed for reliable use in the field.",
       "category": "Race",
       "table": "Half-Orc",
-      "ready": "primary_arsenal"
+      "ready": "mobility_defense"
     },
     {
       "id": 696,
@@ -9915,7 +9915,7 @@
       "notes": "Stoneform Skin is a natural adaptation that provides the wearer with an additional layer of protection, resembling the hardened exterior of a rocky formation.",
       "category": "Race",
       "table": "Mage - Geomancer",
-      "ready": "support_passive"
+      "ready": "mobility_defense"
     },
     {
       "id": 699,
@@ -10237,7 +10237,7 @@
       "notes": "Symbiotic Boost is an advanced bioengineering ability employed by the character, allowing them to summon and apply specially configured bio-animals, known as symbiotes, to enhance the physical or mental attributes of an ally. Each symbiote is uniquely designed to provide specific boosts, significantly improving the ally’s combat effectiveness, cognitive abilities, or overall resilience. This ability transforms an ordinary ally into a formidable force on the battlefield, tailored to meet the immediate demands of combat or strategy.\nWhen Symbiotic Boost is activated, the character summons a symbiote from within their Bio-Forge. The symbiote emerges as a small, pulsating creature, its form varying depending on the enhancement it provides. A tube-like symbiote slithers over major joints, doubling the target’s strength, while a slug-like symbiote crawls over the eyes and ears, enhancing awareness and granting starlight vision. A body-frame symbiote encases the target, boosting fortitude and doubling all saves and resistances. A spider-like symbiote attaches to the skull, sharpening mental faculties and enhancing intelligence and willpower. Each symbiote clings tightly to its host, its organic texture warm and slightly pliable, merging seamlessly with the target’s physiology to deliver its enhancements.\nSymbiotic Boost is an essential tool for the character to empower their allies, providing critical enhancements that can turn the tide of battle and ensure victory for the hive.",
       "category": "Class",
       "table": "Unique - Bio Engineer",
-      "ready": "primary_arsenal"
+      "ready": "support_passive"
     },
     {
       "id": 724,
@@ -10368,7 +10368,7 @@
       "notes": "Techno-Babble is crafted from durable materials, designed for reliable use in the field.",
       "category": "Class",
       "table": "Trickster",
-      "ready": "primary_arsenal"
+      "ready": "support_passive"
     },
     {
       "id": 735,
@@ -10553,7 +10553,7 @@
       "notes": "Thoughtweave is a potent psychic ability that allows the character to subtly manipulate the thoughts and emotions of their targets, guiding decisions and actions toward the caster's desired outcomes. This ability is particularly effective for influencing others without direct confrontation, making it invaluable for subterfuge and psychological warfare.\nWhen the character activates Thoughtweave, a subtle shift occurs in the air, almost imperceptible but palpably charged with intent. Those targeted feel a gentle tug at the edges of their thoughts, as if a warm, soothing voice is whispering in the back of their mind. The character’s eyes may narrow in concentration, their gaze piercing as they weave their mental tapestry. To onlookers, there is nothing overtly visible, yet the atmosphere seems to thicken with unspoken influence, as the character’s will subtly nudges and shapes the thoughts of those around them. The targets might feel a sudden clarity, a compelling urge to act in a way that feels entirely natural, unaware of the invisible strings guiding their decisions.\nThoughtweave turns the character into a master manipulator, bending the minds of others with a delicate touch, steering them toward actions that serve the caster’s hidden agenda.",
       "category": "Class",
       "table": "Warrior - Aetherblade",
-      "ready": "primary_arsenal"
+      "ready": "support_passive"
     },
     {
       "id": 751,
@@ -10689,7 +10689,7 @@
       "notes": "Titan’s Grip is engineered with high-durability composite materials for reliable field operations.",
       "category": "Class",
       "table": "Form - Giant",
-      "ready": "support_passive"
+      "ready": "primary_arsenal"
     },
     {
       "id": 760,
@@ -10723,7 +10723,7 @@
       "notes": "This discipline transforms the user’s skin into a tough, leathery to rocky sheath,*.*",
       "category": "Class",
       "table": "Psychosomatics",
-      "ready": "support_passive"
+      "ready": "mobility_defense"
     },
     {
       "id": 763,
@@ -10842,7 +10842,7 @@
       "notes": "Trickster Blink is crafted from durable materials, designed for reliable use in the field.",
       "category": "Race",
       "table": "Gnome",
-      "ready": "support_passive"
+      "ready": "mobility_defense"
     },
     {
       "id": 771,
@@ -10893,7 +10893,7 @@
       "notes": "Trickster's Glide is engineered with high-durability composite materials for reliable field operations.",
       "category": "Class",
       "table": "Form - Nymph",
-      "ready": "primary_arsenal"
+      "ready": "mobility_defense"
     },
     {
       "id": 773,
@@ -10927,7 +10927,7 @@
       "notes": "Turtle Stance is crafted from durable materials, designed for reliable use in the field.",
       "category": "Class",
       "table": "Monk",
-      "ready": "support_passive"
+      "ready": "mobility_defense"
     },
     {
       "id": 775,
@@ -11148,7 +11148,7 @@
       "notes": "Unyielding Rage empowers the character with an incredible surge of resilience, granting them immunity to various control effects such as stuns, fears, and slows, while also significantly boosting their healing capabilities. This ability reflects the character's indomitable spirit, allowing them to push through adversity and continue fighting with relentless ferocity, no matter the odds.\nWhen Unyielding Rage is activated, the character becomes enveloped in a palpable aura of raw power. Their wounds begin to close almost instantly, skin knitting together with supernatural speed as a faint, red glow pulses from within. Their eyes blaze with unyielding determination, and their movements become more deliberate, unstoppable. The very air around them seems to crackle with energy, and those nearby can feel the heat of their fury. To onlookers, the character appears as an unstoppable juggernaut, moving through the battlefield with a singular purpose, shrugging off blows that would fell lesser warriors.\nAt its peak, Unyielding Rage transforms the character into a near-invincible force, capable of enduring even the most brutal assaults without faltering. This ability, when combined with their lycanthropic powers, ensures that the character remains a relentless and fearsome presence on the battlefield, unbreakable and unstoppable.",
       "category": "Class",
       "table": "Warrior - Bloodfang Berserker",
-      "ready": "primary_arsenal"
+      "ready": "mobility_defense"
     },
     {
       "id": 791,
@@ -11216,7 +11216,7 @@
       "notes": "Veiled Mind is crafted from durable materials, designed for reliable use in the field.",
       "category": "Race",
       "table": "Human - Bloodmarked",
-      "ready": "primary_arsenal"
+      "ready": "support_passive"
     },
     {
       "id": 797,
@@ -11352,7 +11352,7 @@
       "notes": "Vitals Strike is crafted from durable materials, designed for reliable use in the field.",
       "category": "Class",
       "table": "Thief - Assassin",
-      "ready": "mobility_defense"
+      "ready": "primary_arsenal"
     },
     {
       "id": 812,
@@ -11420,7 +11420,7 @@
       "notes": "Void Step is a versatile ability that allows the character to harness the power of the void to traverse short distances instantaneously. By stepping into a rift, the character can teleport across the battlefield, gaining a tactical advantage or evading incoming threats. This ability makes the character difficult to pin down, adding an element of unpredictability to their movements in combat.\nAs the character activates Void Step, a dark rift opens beneath their feet, swirling with void energy. In the blink of an eye, the character steps into the rift, their form dissolving into shadow before reappearing at their chosen destination. The rift closes behind them with a soft whoosh, leaving only a faint ripple in the air where they once stood. To those watching, the character seems to vanish and reappear as if by magic, their movements fluid and impossible to predict. The character’s presence on the battlefield becomes a blur of dark energy, a ghostly figure that flickers in and out of existence, making them nearly impossible to catch or corner.\nVoid Step turns the character into a master of evasion and tactical positioning, allowing them to move through the battlefield with the fluidity of a shadow and the precision of a predator.",
       "category": "Class",
       "table": "Mage - Void Magic",
-      "ready": "primary_arsenal"
+      "ready": "mobility_defense"
     },
     {
       "id": 818,
@@ -11437,7 +11437,7 @@
       "notes": "Void Strike is a powerful technique that allows the character to use their Rift Blade to open small void rifts, teleporting struck targets short distances. This ability provides unparalleled battle management, enabling the character to reposition enemies strategically on the battlefield, avoiding repeat attacks and creating opportunities for devastating follow-ups.\nWhen Void Strike is unleashed, the Rift Blade slices through the air, creating a shimmering rift where the blade makes contact. This rift pulses with void energy, and within an instant, the target is enveloped in a burst of shadowy tendrils, vanishing from their original location. The void rift briefly flickers, showing glimpses of the target’s new location before sealing shut with a resonant snap. To onlookers, it appears as though the character has bent space itself, displacing their foe with a mere flick of their wrist, leaving their enemy disoriented and vulnerable.\nVoid Strike demonstrates the character's mastery over the fabric of reality, using the Rift Blade not only to damage but to control the battlefield, placing their enemies exactly where they want them.",
       "category": "Class",
       "table": "Mage - Void Magic",
-      "ready": "support_passive"
+      "ready": "primary_arsenal"
     },
     {
       "id": 819,
@@ -11624,7 +11624,7 @@
       "notes": "Weapon Mastery is crafted from durable materials, designed for reliable use in the field.",
       "category": "Combat Style",
       "table": "Single Weapon",
-      "ready": "support_passive"
+      "ready": "primary_arsenal"
     },
     {
       "id": 830,
@@ -11743,7 +11743,7 @@
       "notes": "Wholeness of Body is crafted from durable materials, designed for reliable use in the field.",
       "category": "Class",
       "table": "Monk",
-      "ready": "support_passive"
+      "ready": "mobility_defense"
     },
     {
       "id": 839,
