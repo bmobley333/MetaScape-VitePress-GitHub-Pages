@@ -1357,7 +1357,7 @@
       "notes": "Breath Control is crafted from durable materials, designed for reliable use in the field.",
       "category": "Class",
       "table": "Martial Artist - Blade Saint",
-      "ready": "support_passive"
+      "ready": "mobility_defense"
     },
     {
       "id": 95,
@@ -1374,7 +1374,7 @@
       "notes": "Breath of Stillness is crafted from durable materials, designed for reliable use in the field.",
       "category": "Class",
       "table": "Monk",
-      "ready": "support_passive"
+      "ready": "mobility_defense"
     },
     {
       "id": 96,
@@ -1697,7 +1697,7 @@
       "notes": "Cloak of Darkness is crafted from durable materials, designed for reliable use in the field.",
       "category": "Class",
       "table": "Monk",
-      "ready": "support_passive"
+      "ready": "mobility_defense"
     },
     {
       "id": 115,
@@ -1952,7 +1952,7 @@
       "notes": "Cross Guard Riposte is crafted from durable materials, designed for reliable use in the field.",
       "category": "Combat Style",
       "table": "Dual Wield",
-      "ready": "mobility_defense"
+      "ready": "primary_arsenal"
     },
     {
       "id": 131,
@@ -2437,7 +2437,7 @@
       "notes": "Diamond Skin is a powerful defensive ability that transforms the character’s flesh into an almost indestructible diamond-like substance, providing unmatched protection in combat. This transformation makes the character’s skin nearly impervious to physical damage, allowing them to endure even the most brutal attacks. The nano-elementals within the character’s blood work swiftly to restructure their cellular makeup, creating a gleaming, crystalline armor that shields them from harm and grants them immunity to fire, heat, and plasma-based attacks. With Diamond Skin, the character becomes an unstoppable force, capable of withstanding immense damage while continuing to pose a deadly threat to their enemies.\nAs the character’s skin hardens into this diamond-like armor, their appearance becomes both awe-inspiring and terrifying. Their body gleams with a crystalline sheen, reflecting light in dazzling patterns, while their movements, though slightly slowed by the added weight, remain powerful and deliberate. The diamond skin is impenetrable, deflecting blades, bullets, and fire alike, making the character an almost invincible presence on the battlefield. However, this formidable defense comes at the cost of reduced mobility, and the character must choose between this ultimate defense and the versatility of their other forms.\nDiamond Skin embodies the character’s resilience, turning them into an indomitable force that can withstand even the fiercest assaults. This ability ensures that when the character chooses to stand their ground, they can do so with the confidence that their enemies will find it nearly impossible to bring them down.",
       "category": "Class",
       "table": "Warrior - Lifestealer",
-      "ready": "support_passive"
+      "ready": "mobility_defense"
     },
     {
       "id": 164,
@@ -2709,7 +2709,7 @@
       "notes": "Driving Attack is crafted from durable materials, designed for reliable use in the field.",
       "category": "Combat Style",
       "table": "Single Weapon",
-      "ready": "support_passive"
+      "ready": "primary_arsenal"
     },
     {
       "id": 185,
@@ -2794,7 +2794,7 @@
       "notes": "Earth Infused is a powerful defensive ability that allows the character to fortify their body with the essence of the earth, significantly enhancing their resistance against elemental and metallic attacks. By channeling the raw power of earth and stone, the character creates a protective barrier that mitigates damage from fire, plasma, cold, electrical, and metal-based attacks, while providing heightened defense against earth and stone-based forces.\nWhen Earth Infused is activated, the character’s body becomes enveloped in a dense, earthen aura. The ground beneath them rumbles softly as stones, soil, and minerals rise and adhere to their form, creating a rugged, almost armor-like exterior. The air around the character thickens with the scent of freshly turned earth, and a deep, resonant hum echoes as the barrier solidifies. The aura itself glows faintly with a warm, amber light, pulsating gently with the rhythm of the earth's heartbeat. Those who witness this transformation see the character take on the unyielding aspect of the mountains, a living embodiment of the earth’s might and resilience.\nWith Earth Infused, the character becomes a bastion of resilience, their connection to the earth serving as both their shield and their strength, ensuring they stand firm against even the most formidable assaults.",
       "category": "Class",
       "table": "Mage - Geomancer",
-      "ready": "support_passive"
+      "ready": "mobility_defense"
     },
     {
       "id": 192,
@@ -3742,7 +3742,7 @@
       "notes": "Forge Spark is a glowing ember that clings to the weapon it touches, casting flickering shadows and a warm, golden light. It seems to pulse with a life of its own, as if the weapon is imbued with the very spirit of the forge.",
       "category": "Race",
       "table": "Dwarf",
-      "ready": "support_passive"
+      "ready": "primary_arsenal"
     },
     {
       "id": 258,
@@ -4571,7 +4571,7 @@
       "notes": "The Holo-Cloak is a personal cloaking device that renders the character invisible to most sensors and visual detection. This high-tech device bends light and electronic signals around the character, creating the illusion of empty space where they stand, making it a powerful tool for stealth and infiltration missions.\nWhen the Holo-Cloak is activated, a shimmering field of energy envelops the character, distorting the light and making them appear to dissolve into thin air. As the character moves, the cloak adjusts, maintaining their invisibility and silencing any sounds they make. The faint distortion left behind is nearly impossible to detect unless someone is actively searching for it, allowing the character to move undetected through even the most heavily guarded areas.\nWith the Holo-Cloak, the character becomes a shadow, unseen and unheard, capable of infiltrating enemy territory and completing their mission with perfect stealth.",
       "category": "Class",
       "table": "Starborn Ranger",
-      "ready": "support_passive"
+      "ready": "mobility_defense"
     },
     {
       "id": 317,
@@ -5450,7 +5450,7 @@
       "notes": "This power creates a psionic disk beneath the user, which may lift the psionicist and anything carried vertically (up or down) as well as a slight horizontal drift. Unlike Levitate Other, Levitate Self’s energy disk is also battle hardened such that attacks from below gain an AR bonus due to the psionic disk acting as a shield.",
       "category": "Class",
       "table": "Psionics",
-      "ready": "support_passive"
+      "ready": "mobility_defense"
     },
     {
       "id": 377,
@@ -5942,7 +5942,7 @@
       "notes": "Master's Riposte is a finely balanced weapon with a reinforced hilt and a blade that seems to shimmer with latent energy, allowing the wielder to strike with deadly precision when an opponent falters.",
       "category": "Combat Style",
       "table": "Single Weapon",
-      "ready": "support_passive"
+      "ready": "primary_arsenal"
     },
     {
       "id": 413,
@@ -8801,7 +8801,7 @@
       "notes": "Shadow Veil is crafted from durable materials, designed for reliable use in the field.",
       "category": "Class",
       "table": "Trickster",
-      "ready": "support_passive"
+      "ready": "mobility_defense"
     },
     {
       "id": 623,
@@ -8971,7 +8971,7 @@
       "notes": "Shield Riposte is crafted from durable materials, designed for reliable use in the field.",
       "category": "Combat Style",
       "table": "Weapon & Shield",
-      "ready": "mobility_defense"
+      "ready": "primary_arsenal"
     },
     {
       "id": 633,
@@ -8988,7 +8988,7 @@
       "notes": "Shield Rush is engineered with high-durability composite materials for reliable field operations.",
       "category": "Class",
       "table": "Warrior - Shield",
-      "ready": "mobility_defense"
+      "ready": "primary_arsenal"
     },
     {
       "id": 634,
@@ -9898,7 +9898,7 @@
       "notes": "Stoneform is crafted from durable materials, designed for reliable use in the field.",
       "category": "Race",
       "table": "Dwarf",
-      "ready": "support_passive"
+      "ready": "mobility_defense"
     },
     {
       "id": 698,
