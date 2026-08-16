@@ -1647,6 +1647,27 @@ SupaFlex eliminates weight math, bulk values, and movement rate penalties. A cha
 * **🔥 Loadout Burn (Master Technique • 5 AP):** As a Free Action [F], a character with this Master Technique can push any active slotted Relic or Hardware item to output its maximum/Epic💫 effect for 1 round. At the end of the round, the item's core melts into inert slag and is destroyed, immediately freeing its Loadout Slots mid-combat. *(Does not apply to flat consumables with usage `1`, `2`, or `3`).*
 * **🖨️ Omni-Fab (Minor🍺 • 1 Slot Hardware):** Usage: `3-Enc`, Action: `[P]`. Materializes any mundane utility tool or standard field supply on the fly. The materialized item dissolves at the end of the encounter. Cost: 150s.
 
+## 💎 Chaos Gauntlet & Chaos Gems
+
+The **Chaos Gauntlet** is an arcane or hyper-tech harness capable of focusing volatile Chaos Gems. It features **six Chaos Gem slots**:
+* 👑 **Wrist "Mega Slot" (1 Slot):** The primary focal conduit of the gauntlet.
+* 🖐️ **Finger Slots (5 Slots):** Thumb, Index, Middle, Ring, and Pinky conduits.
+
+### 📜 Core Rules & Invariants
+1. **Gem Socketing & Custody:** Chaos Gems are volatile, attuned crystallizations that **cannot be carried loosely** in pockets, backpacks, or pouches. They may only exist when socketed directly into a Chaos Gauntlet's slots.
+2. **Permanent Destruction on Removal:** Sockets form an irrevocable metaphysical fusion upon insertion. **Removing a gem from a Chaos Gauntlet immediately shatters and destroys it.**
+3. **Usage & Destruction at Zero:**
+   * Chaos Gems start with **3 uses** (usage values: `3`, `2`, `1`).
+   * When a gem reaches **0 uses**, its energy matrix collapses and the gem is **permanently destroyed**.
+4. **Action Economy & Rate of Use:**
+   * Activating a Chaos Gem is a **Free Action (`F`)**.
+   * **Only 1 Chaos Gem may be used per combat round** without explicit GM approval.
+5. **Wrist Mega Slot & Spark Synergy:**
+   * The **Wrist Mega Slot Gem** operates like any standard gem, but with a unique empowered resonance: it can **ALSO be activated by spending a Spark (`⚡`)** instead of deducting from the gem's remaining usage count, preserving its durability.
+
+> [!TIP]
+> **Single Source of Truth Catalog:** All 97 canonized Chaos Gems are maintained in the Supabase database. Browse the interactive catalog or manage your hero's gauntlet directly within the SupaFlex Character Sheet.
+
 ---
 
 ## 📊 System Tables & Catalogs
