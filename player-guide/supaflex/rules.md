@@ -1295,6 +1295,9 @@ Range:
 * General Guidance — Touch/Melee (≤1 sq), Short (≤6 sq), Medium (≤12 sq), Long (≤24 sq), Extreme (≥25 sq).
 * Disadvantage Extension — GM “may” allow a single range extension at disadvantage.
 
+⚡ Tactical Swap:
+* Tactical Swap — Spend 1 Luck chit (🍀) as a Free action (F) during combat to swap out an active Power or Loadout item with another known selection from your Codex/Vault.
+
 The Luck Twist (Rule of 1):
 * Overview — When activating any Power or Magic Item, you can spend 1 Luck chit (🍀) to apply one instant "Rule of 1" boost (Limit: Max 1 Luck Twist per activation).
 * Power 1 Charge Cost — Reduced Meta cost (e.g. 1-⚡ → works!).
@@ -1360,10 +1363,10 @@ Tactical slots draw from a flexible pool with category caps to prevent single-ac
 2. 👣 **Mobility & Defense (`mobility_defense`):** Movement boosts, gap-closers, dodges, guards, defensive reactions, and counters (Action `M` or reactive defenses).
 3. 🎓 **Support & Passives (`support_passive`):** Non-combat utilities, downtime crafting, social tricks, team buffs, and passive bonuses (0 Slots / Always Active).
 
-#### ⚡ Tactical Pivot (In-Combat Re-Equip)
+#### ⚡ Tactical Swap (In-Combat Re-Equip)
 
-* **Trigger & Cost:** Once per encounter ($1\text{-Enc}$), a character may spend **1 Free Action (F) + 1 Spark** (5 Charges $\ge 5\⚡$) to execute a **Tactical Pivot**.
-* **Effect:** Swap 1 un-readied tactical power from the Power Vault directly into the active Ready Matrix, replacing an existing active tactical slot.
+* **Trigger & Cost:** Spend **1 Free Action (F)** + **1 Luck chit (🍀)** to execute a **Tactical Swap**.
+* **Effect:** Swap 1 un-readied tactical power or loadout item from the Power Vault / Inventory directly into the active Ready Matrix / Loadout, replacing an existing active slot.
 * **Strategic Utility:** Allows adaptable tactical shifts mid-battle (e.g., swapping a fire strike for cold damage against a flame golem, or pulling out emergency mobility).
 
 ### 🔄 Usage & The Charge Engine (⚡)
