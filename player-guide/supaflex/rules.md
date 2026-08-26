@@ -79,6 +79,7 @@ Monster stats place the emojis before key numbers or number sets as in:
 | Junk🗑️ | 🗑️ |  | 👣 | MR👣 |
 | Lesser🪄 (Magic Item) | 🪄 |  | 💪 | Might💪 |
 | Level⭐ | ⭐ |  | 💰 | Money💰 |
+| Loadout💍 (Relics & Hardware) | 💍 |  | 💍 | Loadout💍 (Relics & Hardware) |
 | Luck🍀 | 🍀 |  | 📅 | Days📅 |
 | Magic Item✨ | ✨ |  | 📜 | Notes📜 |
 | Magic✨ | ✨ |  | 🔷 | Actions🔷 |
@@ -579,13 +580,19 @@ Vit❤️: 10 + 1d(Moxie🫀) (e.g., Moxie d8 = 5+1d8 = 6 to 13).
 
 Only during creation, a 1d(Moxie🫀) roll of 1 may be re-rolled one time, in hopes of a better result.
 
-🎓 1 Starting Skill Set
+⭐ Starting AP🧩 (8 AP at Level 1)
 
-Skilled in 1 Skill Set🎓 from the Skill Set Table.
+Your character is 1st Level⭐ (record 1 for Level⭐) and begins with **8 Starting AP🧩** to shape their initial capabilities.
 
-⚔️ Starting Weapon
+A standard, balanced character build typically spends these 8 AP across the following areas:
 
-Skilled in 1 specific Wpn⚔️.
+🎓 1 Skill Set (2 AP)
+
+Skilled in 1 Skill Set🎓 (2 AP) from the Skill Set catalog.
+
+⚔️ 1 Weapon (1 AP)
+
+Skilled in 1 specific Weapon⚔️ (1 AP).
 
 Melee Atk/Dmg💥 uses Might💪.
 
@@ -593,9 +600,9 @@ Hurled Atk/Dmg💥 uses Motion🏃.
 
 Shot Atk/Dmg💥 uses Mind👁️.
 
-🛡️ Starting Armor
+🛡️ 1 Armor (1 AP)
 
-Skilled in 1 specific armor.
+Skilled in 1 specific Armor🧥 (1 AP).
 
 Block (Def)🛡️ is Might💪.
 
@@ -603,9 +610,11 @@ Dodge🏃 (Def) is Motion🏃.
 
 Record the armor’s MR👣.
 
-🔥 3 Powers
+🔥 3 Powers (3 AP)
 
-A good approach is taking one each of these:
+Learn 3 starting Powers🔥 (1 AP each = 3 AP total).
+
+A recommended approach is taking one each of these:
 
 1 A-action Power🔥 usable at least 1-Enc for encounter impact.
 
@@ -613,19 +622,17 @@ A good approach is taking one each of these:
 
 1 1-Day Power🔥 for that big WOW factor.
 
-⭐ 1st Level
+🧩 1 Flexible AP (1 AP)
 
-Your character is 1st Level⭐ (record 1 for Level⭐) and thus has 1 AP🧩.
+Spend your remaining 1 Starting AP🧩 on a flexible upgrade of your choice, such as:
 
-A good place to spend 1 AP🧩 is one of:
+A Shield🛡️ (1 AP — record the shield’s MR👣)
 
-Nish🚩 Skill (Motion🏃)
+A 2nd Weapon⚔️ (1 AP)
 
-Death Check Skill (Moxie🫀)
+Nish🚩 Skill (Motion🏃) or Death Check Skill (Moxie🫀) (1 AP)
 
-A 2nd Weapon⚔️
-
-A Shield🛡️ (record the shield’s MR👣)
++2 Max Vit❤️ (1 AP)
 
 💰 Starting Money
 
