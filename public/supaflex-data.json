@@ -21927,7 +21927,7 @@
   ],
   "skills": [
     {
-      "id": 318,
+      "id": 473,
       "name": "Acrobatics",
       "attribute": "🏃",
       "skillset": [
@@ -21943,10 +21943,10 @@
       "table_group": "General",
       "is_guildspace_locked": false,
       "notes": "",
-      "created_at": "2026-08-28T20:50:50.576144+00:00"
+      "created_at": "2026-08-28T20:59:32.56794+00:00"
     },
     {
-      "id": 319,
+      "id": 474,
       "name": "Ambidexterity",
       "attribute": "🏃",
       "skillset": [
@@ -21961,10 +21961,10 @@
       "table_group": "General",
       "is_guildspace_locked": false,
       "notes": "",
-      "created_at": "2026-08-28T20:50:50.576144+00:00"
+      "created_at": "2026-08-28T20:59:32.56794+00:00"
     },
     {
-      "id": 320,
+      "id": 475,
       "name": "Ambush",
       "attribute": "🏃",
       "skillset": [
@@ -21978,13 +21978,14 @@
       "table_group": "General",
       "is_guildspace_locked": false,
       "notes": "",
-      "created_at": "2026-08-28T20:50:50.576144+00:00"
+      "created_at": "2026-08-28T20:59:32.56794+00:00"
     },
     {
-      "id": 321,
-      "name": "Animal Training",
+      "id": 476,
+      "name": "Animal Handling",
       "attribute": "👁️",
       "skillset": [
+        "Druidic",
         "Husbandry"
       ],
       "genres": [
@@ -21996,28 +21997,10 @@
       "table_group": "General",
       "is_guildspace_locked": false,
       "notes": "",
-      "created_at": "2026-08-28T20:50:50.576144+00:00"
+      "created_at": "2026-08-28T20:59:32.56794+00:00"
     },
     {
-      "id": 322,
-      "name": "Apply Potions And Substances",
-      "attribute": "✨",
-      "skillset": [
-        "Alchemy"
-      ],
-      "genres": [
-        "Medieval",
-        "Modern",
-        "SciFi"
-      ],
-      "discipline": "General",
-      "table_group": "General",
-      "is_guildspace_locked": false,
-      "notes": "",
-      "created_at": "2026-08-28T20:50:50.576144+00:00"
-    },
-    {
-      "id": 323,
+      "id": 477,
       "name": "Appraise",
       "attribute": "👁️",
       "skillset": [
@@ -22032,10 +22015,10 @@
       "table_group": "General",
       "is_guildspace_locked": false,
       "notes": "",
-      "created_at": "2026-08-28T20:50:50.576144+00:00"
+      "created_at": "2026-08-28T20:59:32.56794+00:00"
     },
     {
-      "id": 324,
+      "id": 478,
       "name": "Artistry",
       "attribute": "👁️",
       "skillset": [
@@ -22048,10 +22031,10 @@
       "table_group": "General",
       "is_guildspace_locked": false,
       "notes": "",
-      "created_at": "2026-08-28T20:50:50.576144+00:00"
+      "created_at": "2026-08-28T20:59:32.56794+00:00"
     },
     {
-      "id": 325,
+      "id": 479,
       "name": "Assess Stonework",
       "attribute": "👁️",
       "skillset": [
@@ -22066,10 +22049,10 @@
       "table_group": "General",
       "is_guildspace_locked": false,
       "notes": "",
-      "created_at": "2026-08-28T20:50:50.576144+00:00"
+      "created_at": "2026-08-28T20:59:32.56794+00:00"
     },
     {
-      "id": 326,
+      "id": 480,
       "name": "Astrogation",
       "attribute": "👁️",
       "skillset": [
@@ -22084,15 +22067,17 @@
       "table_group": "General",
       "is_guildspace_locked": false,
       "notes": "",
-      "created_at": "2026-08-28T20:50:50.576144+00:00"
+      "created_at": "2026-08-28T20:59:32.56794+00:00"
     },
     {
-      "id": 327,
+      "id": 481,
       "name": "Awareness",
       "attribute": "👁️",
       "skillset": [
         "Awareness",
-        "Iron Lotus Discipline"
+        "Iron Lotus Discipline",
+        "Streetwise",
+        "Streetwise Survival"
       ],
       "genres": [
         "Medieval",
@@ -22103,10 +22088,10 @@
       "table_group": "General",
       "is_guildspace_locked": false,
       "notes": "",
-      "created_at": "2026-08-28T20:50:50.576144+00:00"
+      "created_at": "2026-08-28T20:59:32.56794+00:00"
     },
     {
-      "id": 328,
+      "id": 482,
       "name": "Backstab",
       "attribute": "💪",
       "skillset": [
@@ -22121,10 +22106,10 @@
       "table_group": "General",
       "is_guildspace_locked": false,
       "notes": "",
-      "created_at": "2026-08-28T20:50:50.576144+00:00"
+      "created_at": "2026-08-28T20:59:32.56794+00:00"
     },
     {
-      "id": 329,
+      "id": 483,
       "name": "Balance",
       "attribute": "🏃",
       "skillset": [
@@ -22140,29 +22125,10 @@
       "table_group": "General",
       "is_guildspace_locked": false,
       "notes": "",
-      "created_at": "2026-08-28T20:50:50.576144+00:00"
+      "created_at": "2026-08-28T20:59:32.56794+00:00"
     },
     {
-      "id": 330,
-      "name": "Befriend Animal",
-      "attribute": "👁️",
-      "skillset": [
-        "Drudic",
-        "Husbandry"
-      ],
-      "genres": [
-        "Medieval",
-        "Modern",
-        "SciFi"
-      ],
-      "discipline": "General",
-      "table_group": "General",
-      "is_guildspace_locked": false,
-      "notes": "",
-      "created_at": "2026-08-28T20:50:50.576144+00:00"
-    },
-    {
-      "id": 331,
+      "id": 484,
       "name": "Blend Into Crowds",
       "attribute": "🏃",
       "skillset": [
@@ -22180,10 +22146,10 @@
       "table_group": "General",
       "is_guildspace_locked": false,
       "notes": "",
-      "created_at": "2026-08-28T20:50:50.576144+00:00"
+      "created_at": "2026-08-28T20:59:32.56794+00:00"
     },
     {
-      "id": 332,
+      "id": 485,
       "name": "Brewing",
       "attribute": "👁️",
       "skillset": [
@@ -22196,28 +22162,10 @@
       "table_group": "General",
       "is_guildspace_locked": false,
       "notes": "",
-      "created_at": "2026-08-28T20:50:50.576144+00:00"
+      "created_at": "2026-08-28T20:59:32.56794+00:00"
     },
     {
-      "id": 333,
-      "name": "Build Shelter",
-      "attribute": "💪",
-      "skillset": [
-        "Survival"
-      ],
-      "genres": [
-        "Medieval",
-        "Modern",
-        "SciFi"
-      ],
-      "discipline": "General",
-      "table_group": "General",
-      "is_guildspace_locked": false,
-      "notes": "",
-      "created_at": "2026-08-28T20:50:50.576144+00:00"
-    },
-    {
-      "id": 334,
+      "id": 486,
       "name": "Carpentry",
       "attribute": "💪",
       "skillset": [
@@ -22232,10 +22180,10 @@
       "table_group": "General",
       "is_guildspace_locked": false,
       "notes": "",
-      "created_at": "2026-08-28T20:50:50.576144+00:00"
+      "created_at": "2026-08-28T20:59:32.56794+00:00"
     },
     {
-      "id": 335,
+      "id": 487,
       "name": "Catch Object",
       "attribute": "🏃",
       "skillset": [
@@ -22249,10 +22197,10 @@
       "table_group": "General",
       "is_guildspace_locked": false,
       "notes": "",
-      "created_at": "2026-08-28T20:50:50.576144+00:00"
+      "created_at": "2026-08-28T20:59:32.56794+00:00"
     },
     {
-      "id": 336,
+      "id": 488,
       "name": "Charm",
       "attribute": "👁️",
       "skillset": [
@@ -22267,10 +22215,10 @@
       "table_group": "General",
       "is_guildspace_locked": false,
       "notes": "",
-      "created_at": "2026-08-28T20:50:50.576144+00:00"
+      "created_at": "2026-08-28T20:59:32.56794+00:00"
     },
     {
-      "id": 337,
+      "id": 489,
       "name": "Climbing",
       "attribute": "🏃",
       "skillset": [
@@ -22294,10 +22242,10 @@
       "table_group": "General",
       "is_guildspace_locked": false,
       "notes": "",
-      "created_at": "2026-08-28T20:50:50.576144+00:00"
+      "created_at": "2026-08-28T20:59:32.56794+00:00"
     },
     {
-      "id": 338,
+      "id": 490,
       "name": "Cloak",
       "attribute": "👁️",
       "skillset": [
@@ -22312,10 +22260,10 @@
       "table_group": "General",
       "is_guildspace_locked": false,
       "notes": "",
-      "created_at": "2026-08-28T20:50:50.576144+00:00"
+      "created_at": "2026-08-28T20:59:32.56794+00:00"
     },
     {
-      "id": 339,
+      "id": 491,
       "name": "Common Sense",
       "attribute": "👁️",
       "skillset": [
@@ -22330,10 +22278,10 @@
       "table_group": "General",
       "is_guildspace_locked": false,
       "notes": "",
-      "created_at": "2026-08-28T20:50:50.576144+00:00"
+      "created_at": "2026-08-28T20:59:32.56794+00:00"
     },
     {
-      "id": 340,
+      "id": 492,
       "name": "Community Lore",
       "attribute": "👁️",
       "skillset": [
@@ -22346,10 +22294,10 @@
       "table_group": "General",
       "is_guildspace_locked": false,
       "notes": "",
-      "created_at": "2026-08-28T20:50:50.576144+00:00"
+      "created_at": "2026-08-28T20:59:32.56794+00:00"
     },
     {
-      "id": 341,
+      "id": 493,
       "name": "Computer",
       "attribute": "👁️",
       "skillset": [
@@ -22370,10 +22318,10 @@
       "table_group": "General",
       "is_guildspace_locked": false,
       "notes": "",
-      "created_at": "2026-08-28T20:50:50.576144+00:00"
+      "created_at": "2026-08-28T20:59:32.56794+00:00"
     },
     {
-      "id": 342,
+      "id": 494,
       "name": "Comtech",
       "attribute": "👁️",
       "skillset": [
@@ -22391,10 +22339,10 @@
       "table_group": "General",
       "is_guildspace_locked": false,
       "notes": "",
-      "created_at": "2026-08-28T20:50:50.576144+00:00"
+      "created_at": "2026-08-28T20:59:32.56794+00:00"
     },
     {
-      "id": 343,
+      "id": 495,
       "name": "Cooking",
       "attribute": "👁️",
       "skillset": [
@@ -22407,10 +22355,10 @@
       "table_group": "General",
       "is_guildspace_locked": false,
       "notes": "",
-      "created_at": "2026-08-28T20:50:50.576144+00:00"
+      "created_at": "2026-08-28T20:59:32.56794+00:00"
     },
     {
-      "id": 344,
+      "id": 496,
       "name": "Counter Security",
       "attribute": "👁️",
       "skillset": [
@@ -22428,10 +22376,10 @@
       "table_group": "General",
       "is_guildspace_locked": false,
       "notes": "",
-      "created_at": "2026-08-28T20:50:50.576144+00:00"
+      "created_at": "2026-08-28T20:59:32.56794+00:00"
     },
     {
-      "id": 345,
+      "id": 497,
       "name": "Crafting",
       "attribute": "💪",
       "skillset": [
@@ -22444,10 +22392,10 @@
       "table_group": "General",
       "is_guildspace_locked": false,
       "notes": "",
-      "created_at": "2026-08-28T20:50:50.576144+00:00"
+      "created_at": "2026-08-28T20:59:32.56794+00:00"
     },
     {
-      "id": 346,
+      "id": 498,
       "name": "Create Distractions",
       "attribute": "👁️",
       "skillset": [
@@ -22463,10 +22411,10 @@
       "table_group": "General",
       "is_guildspace_locked": false,
       "notes": "",
-      "created_at": "2026-08-28T20:50:50.576144+00:00"
+      "created_at": "2026-08-28T20:59:32.56794+00:00"
     },
     {
-      "id": 347,
+      "id": 499,
       "name": "Cure Disease",
       "attribute": "👁️",
       "skillset": [
@@ -22482,10 +22430,10 @@
       "table_group": "General",
       "is_guildspace_locked": false,
       "notes": "",
-      "created_at": "2026-08-28T20:50:50.576144+00:00"
+      "created_at": "2026-08-28T20:59:32.56794+00:00"
     },
     {
-      "id": 348,
+      "id": 500,
       "name": "Cure Poison",
       "attribute": "👁️",
       "skillset": [
@@ -22501,10 +22449,10 @@
       "table_group": "General",
       "is_guildspace_locked": false,
       "notes": "",
-      "created_at": "2026-08-28T20:50:50.576144+00:00"
+      "created_at": "2026-08-28T20:59:32.56794+00:00"
     },
     {
-      "id": 349,
+      "id": 501,
       "name": "Damage Control",
       "attribute": "💪",
       "skillset": [
@@ -22520,10 +22468,10 @@
       "table_group": "General",
       "is_guildspace_locked": false,
       "notes": "",
-      "created_at": "2026-08-28T20:50:50.576144+00:00"
+      "created_at": "2026-08-28T20:59:32.56794+00:00"
     },
     {
-      "id": 350,
+      "id": 502,
       "name": "Danger Sense",
       "attribute": "👁️",
       "skillset": [
@@ -22543,10 +22491,10 @@
       "table_group": "General",
       "is_guildspace_locked": false,
       "notes": "",
-      "created_at": "2026-08-28T20:50:50.576144+00:00"
+      "created_at": "2026-08-28T20:59:32.56794+00:00"
     },
     {
-      "id": 351,
+      "id": 503,
       "name": "Detect Enchantments",
       "attribute": "✨",
       "skillset": [
@@ -22561,10 +22509,10 @@
       "table_group": "General",
       "is_guildspace_locked": false,
       "notes": "",
-      "created_at": "2026-08-28T20:50:50.576144+00:00"
+      "created_at": "2026-08-28T20:59:32.56794+00:00"
     },
     {
-      "id": 352,
+      "id": 504,
       "name": "Detect Lie",
       "attribute": "👁️",
       "skillset": [
@@ -22582,10 +22530,10 @@
       "table_group": "General",
       "is_guildspace_locked": false,
       "notes": "",
-      "created_at": "2026-08-28T20:50:50.576144+00:00"
+      "created_at": "2026-08-28T20:59:32.56794+00:00"
     },
     {
-      "id": 353,
+      "id": 505,
       "name": "Detect Metal",
       "attribute": "👁️",
       "skillset": [
@@ -22600,10 +22548,10 @@
       "table_group": "General",
       "is_guildspace_locked": false,
       "notes": "",
-      "created_at": "2026-08-28T20:50:50.576144+00:00"
+      "created_at": "2026-08-28T20:59:32.56794+00:00"
     },
     {
-      "id": 354,
+      "id": 506,
       "name": "Detect/Remove Traps",
       "attribute": "🏃",
       "skillset": [
@@ -22622,10 +22570,10 @@
       "table_group": "General",
       "is_guildspace_locked": false,
       "notes": "",
-      "created_at": "2026-08-28T20:50:50.576144+00:00"
+      "created_at": "2026-08-28T20:59:32.56794+00:00"
     },
     {
-      "id": 355,
+      "id": 507,
       "name": "Direction Sense",
       "attribute": "👁️",
       "skillset": [
@@ -22640,10 +22588,10 @@
       "table_group": "General",
       "is_guildspace_locked": false,
       "notes": "",
-      "created_at": "2026-08-28T20:50:50.576144+00:00"
+      "created_at": "2026-08-28T20:59:32.56794+00:00"
     },
     {
-      "id": 356,
+      "id": 508,
       "name": "Disguise",
       "attribute": "👁️",
       "skillset": [
@@ -22660,10 +22608,10 @@
       "table_group": "General",
       "is_guildspace_locked": false,
       "notes": "",
-      "created_at": "2026-08-28T20:50:50.576144+00:00"
+      "created_at": "2026-08-28T20:59:32.56794+00:00"
     },
     {
-      "id": 357,
+      "id": 509,
       "name": "Dominate",
       "attribute": "🫀",
       "skillset": [
@@ -22677,10 +22625,10 @@
       "table_group": "General",
       "is_guildspace_locked": false,
       "notes": "",
-      "created_at": "2026-08-28T20:50:50.576144+00:00"
+      "created_at": "2026-08-28T20:59:32.56794+00:00"
     },
     {
-      "id": 358,
+      "id": 510,
       "name": "Drive Vehicle",
       "attribute": "🏃",
       "skillset": [
@@ -22695,10 +22643,10 @@
       "table_group": "General",
       "is_guildspace_locked": false,
       "notes": "",
-      "created_at": "2026-08-28T20:50:50.576144+00:00"
+      "created_at": "2026-08-28T20:59:32.56794+00:00"
     },
     {
-      "id": 359,
+      "id": 511,
       "name": "Empathy",
       "attribute": "👁️",
       "skillset": [
@@ -22715,10 +22663,10 @@
       "table_group": "General",
       "is_guildspace_locked": false,
       "notes": "",
-      "created_at": "2026-08-28T20:50:50.576144+00:00"
+      "created_at": "2026-08-28T20:59:32.56794+00:00"
     },
     {
-      "id": 360,
+      "id": 512,
       "name": "Enhanced Hearing",
       "attribute": "👁️",
       "skillset": [
@@ -22735,10 +22683,10 @@
       "table_group": "General",
       "is_guildspace_locked": false,
       "notes": "",
-      "created_at": "2026-08-28T20:50:50.576144+00:00"
+      "created_at": "2026-08-28T20:59:32.56794+00:00"
     },
     {
-      "id": 361,
+      "id": 513,
       "name": "Enhanced Touch",
       "attribute": "👁️",
       "skillset": [
@@ -22753,11 +22701,11 @@
       "table_group": "General",
       "is_guildspace_locked": false,
       "notes": "",
-      "created_at": "2026-08-28T20:50:50.576144+00:00"
+      "created_at": "2026-08-28T20:59:32.56794+00:00"
     },
     {
-      "id": 362,
-      "name": "Escape Bonds",
+      "id": 514,
+      "name": "Escape Artist",
       "attribute": "🏃",
       "skillset": [
         "Agility"
@@ -22771,11 +22719,11 @@
       "table_group": "General",
       "is_guildspace_locked": false,
       "notes": "",
-      "created_at": "2026-08-28T20:50:50.576144+00:00"
+      "created_at": "2026-08-28T20:59:32.56794+00:00"
     },
     {
-      "id": 363,
-      "name": "Escape Pursuit",
+      "id": 515,
+      "name": "Evasion",
       "attribute": "🏃",
       "skillset": [
         "Streetwise",
@@ -22790,10 +22738,10 @@
       "table_group": "General",
       "is_guildspace_locked": false,
       "notes": "",
-      "created_at": "2026-08-28T20:50:50.576144+00:00"
+      "created_at": "2026-08-28T20:59:32.56794+00:00"
     },
     {
-      "id": 364,
+      "id": 516,
       "name": "Expert Runner",
       "attribute": "🏃",
       "skillset": [
@@ -22809,10 +22757,10 @@
       "table_group": "General",
       "is_guildspace_locked": false,
       "notes": "",
-      "created_at": "2026-08-28T20:50:50.576144+00:00"
+      "created_at": "2026-08-28T20:59:32.56794+00:00"
     },
     {
-      "id": 365,
+      "id": 517,
       "name": "Falling",
       "attribute": "✨",
       "skillset": [
@@ -22830,10 +22778,10 @@
       "table_group": "General",
       "is_guildspace_locked": false,
       "notes": "",
-      "created_at": "2026-08-28T20:50:50.576144+00:00"
+      "created_at": "2026-08-28T20:59:32.56794+00:00"
     },
     {
-      "id": 366,
+      "id": 518,
       "name": "Fast Talk",
       "attribute": "👁️",
       "skillset": [
@@ -22852,10 +22800,10 @@
       "table_group": "General",
       "is_guildspace_locked": false,
       "notes": "",
-      "created_at": "2026-08-28T20:50:50.576144+00:00"
+      "created_at": "2026-08-28T20:59:32.56794+00:00"
     },
     {
-      "id": 367,
+      "id": 519,
       "name": "Feats Of Strength",
       "attribute": "💪",
       "skillset": [
@@ -22870,46 +22818,10 @@
       "table_group": "General",
       "is_guildspace_locked": false,
       "notes": "",
-      "created_at": "2026-08-28T20:50:50.576144+00:00"
+      "created_at": "2026-08-28T20:59:32.56794+00:00"
     },
     {
-      "id": 368,
-      "name": "Find Route",
-      "attribute": "🏃",
-      "skillset": [
-        "Mountaineering"
-      ],
-      "genres": [
-        "Medieval",
-        "Modern",
-        "SciFi"
-      ],
-      "discipline": "General",
-      "table_group": "General",
-      "is_guildspace_locked": false,
-      "notes": "",
-      "created_at": "2026-08-28T20:50:50.576144+00:00"
-    },
-    {
-      "id": 369,
-      "name": "Find Water",
-      "attribute": "👁️",
-      "skillset": [
-        "Survival"
-      ],
-      "genres": [
-        "Medieval",
-        "Modern",
-        "SciFi"
-      ],
-      "discipline": "General",
-      "table_group": "General",
-      "is_guildspace_locked": false,
-      "notes": "",
-      "created_at": "2026-08-28T20:50:50.576144+00:00"
-    },
-    {
-      "id": 370,
+      "id": 520,
       "name": "Fishing",
       "attribute": "🏃",
       "skillset": [
@@ -22925,11 +22837,11 @@
       "table_group": "General",
       "is_guildspace_locked": false,
       "notes": "",
-      "created_at": "2026-08-28T20:50:50.576144+00:00"
+      "created_at": "2026-08-28T20:59:32.56794+00:00"
     },
     {
-      "id": 371,
-      "name": "Flettcher",
+      "id": 521,
+      "name": "Fletching",
       "attribute": "💪",
       "skillset": [
         "Elven Skills"
@@ -22941,10 +22853,10 @@
       "table_group": "General",
       "is_guildspace_locked": false,
       "notes": "",
-      "created_at": "2026-08-28T20:50:50.576144+00:00"
+      "created_at": "2026-08-28T20:59:32.56794+00:00"
     },
     {
-      "id": 372,
+      "id": 522,
       "name": "Forage",
       "attribute": "🏃",
       "skillset": [
@@ -22959,10 +22871,10 @@
       "table_group": "General",
       "is_guildspace_locked": false,
       "notes": "",
-      "created_at": "2026-08-28T20:50:50.576144+00:00"
+      "created_at": "2026-08-28T20:59:32.56794+00:00"
     },
     {
-      "id": 373,
+      "id": 523,
       "name": "Forest Lore",
       "attribute": "👁️",
       "skillset": [
@@ -22975,10 +22887,10 @@
       "table_group": "General",
       "is_guildspace_locked": false,
       "notes": "",
-      "created_at": "2026-08-28T20:50:50.576144+00:00"
+      "created_at": "2026-08-28T20:59:32.56794+00:00"
     },
     {
-      "id": 374,
+      "id": 524,
       "name": "Gambling",
       "attribute": "👁️",
       "skillset": [
@@ -22995,10 +22907,10 @@
       "table_group": "General",
       "is_guildspace_locked": false,
       "notes": "",
-      "created_at": "2026-08-28T20:50:50.576144+00:00"
+      "created_at": "2026-08-28T20:59:32.56794+00:00"
     },
     {
-      "id": 375,
+      "id": 525,
       "name": "General Knowledge",
       "attribute": "👁️",
       "skillset": [
@@ -23013,10 +22925,10 @@
       "table_group": "General",
       "is_guildspace_locked": false,
       "notes": "",
-      "created_at": "2026-08-28T20:50:50.576144+00:00"
+      "created_at": "2026-08-28T20:59:32.56794+00:00"
     },
     {
-      "id": 376,
+      "id": 526,
       "name": "Guard Drills",
       "attribute": "🏃",
       "skillset": [
@@ -23031,17 +22943,19 @@
       "table_group": "General",
       "is_guildspace_locked": false,
       "notes": "",
-      "created_at": "2026-08-28T20:50:50.576144+00:00"
+      "created_at": "2026-08-28T20:59:32.56794+00:00"
     },
     {
-      "id": 377,
-      "name": "Haggle",
+      "id": 527,
+      "name": "Gunnery",
       "attribute": "👁️",
       "skillset": [
-        "Mercantile"
+        "Ship Office Fighter Pilot",
+        "Ship Office Helm",
+        "Ship Office Tactical",
+        "Vehicle Driver"
       ],
       "genres": [
-        "Medieval",
         "Modern",
         "SciFi"
       ],
@@ -23049,10 +22963,10 @@
       "table_group": "General",
       "is_guildspace_locked": false,
       "notes": "",
-      "created_at": "2026-08-28T20:50:50.576144+00:00"
+      "created_at": "2026-08-28T20:59:32.56794+00:00"
     },
     {
-      "id": 378,
+      "id": 528,
       "name": "Healing Arts",
       "attribute": "👁️",
       "skillset": [
@@ -23072,10 +22986,10 @@
       "table_group": "General",
       "is_guildspace_locked": false,
       "notes": "",
-      "created_at": "2026-08-28T20:50:50.576144+00:00"
+      "created_at": "2026-08-28T20:59:32.56794+00:00"
     },
     {
-      "id": 379,
+      "id": 529,
       "name": "Herbalism",
       "attribute": "👁️",
       "skillset": [
@@ -23090,10 +23004,10 @@
       "table_group": "General",
       "is_guildspace_locked": false,
       "notes": "",
-      "created_at": "2026-08-28T20:50:50.576144+00:00"
+      "created_at": "2026-08-28T20:59:32.56794+00:00"
     },
     {
-      "id": 380,
+      "id": 530,
       "name": "Hidden Routes",
       "attribute": "👁️",
       "skillset": [
@@ -23109,10 +23023,10 @@
       "table_group": "General",
       "is_guildspace_locked": false,
       "notes": "",
-      "created_at": "2026-08-28T20:50:50.576144+00:00"
+      "created_at": "2026-08-28T20:59:32.56794+00:00"
     },
     {
-      "id": 381,
+      "id": 531,
       "name": "History",
       "attribute": "👁️",
       "skillset": [
@@ -23127,10 +23041,10 @@
       "table_group": "General",
       "is_guildspace_locked": false,
       "notes": "",
-      "created_at": "2026-08-28T20:50:50.576144+00:00"
+      "created_at": "2026-08-28T20:59:32.56794+00:00"
     },
     {
-      "id": 382,
+      "id": 532,
       "name": "Hunt",
       "attribute": "🏃",
       "skillset": [
@@ -23146,10 +23060,10 @@
       "table_group": "General",
       "is_guildspace_locked": false,
       "notes": "",
-      "created_at": "2026-08-28T20:50:50.576144+00:00"
+      "created_at": "2026-08-28T20:59:32.56794+00:00"
     },
     {
-      "id": 383,
+      "id": 533,
       "name": "ID Magic Item",
       "attribute": "✨",
       "skillset": [
@@ -23165,10 +23079,10 @@
       "table_group": "General",
       "is_guildspace_locked": false,
       "notes": "",
-      "created_at": "2026-08-28T20:50:50.576144+00:00"
+      "created_at": "2026-08-28T20:59:32.56794+00:00"
     },
     {
-      "id": 384,
+      "id": 534,
       "name": "ID Monster",
       "attribute": "✨",
       "skillset": [
@@ -23184,15 +23098,15 @@
       "table_group": "General",
       "is_guildspace_locked": false,
       "notes": "",
-      "created_at": "2026-08-28T20:50:50.576144+00:00"
+      "created_at": "2026-08-28T20:59:32.56794+00:00"
     },
     {
-      "id": 385,
+      "id": 535,
       "name": "ID Plants",
       "attribute": "👁️",
       "skillset": [
         "Alchemy",
-        "Drudic",
+        "Druidic",
         "Survival"
       ],
       "genres": [
@@ -23204,10 +23118,10 @@
       "table_group": "General",
       "is_guildspace_locked": false,
       "notes": "",
-      "created_at": "2026-08-28T20:50:50.576144+00:00"
+      "created_at": "2026-08-28T20:59:32.56794+00:00"
     },
     {
-      "id": 386,
+      "id": 536,
       "name": "ID Runes",
       "attribute": "✨",
       "skillset": [
@@ -23222,10 +23136,10 @@
       "table_group": "General",
       "is_guildspace_locked": false,
       "notes": "",
-      "created_at": "2026-08-28T20:50:50.576144+00:00"
+      "created_at": "2026-08-28T20:59:32.56794+00:00"
     },
     {
-      "id": 387,
+      "id": 537,
       "name": "ID Spells",
       "attribute": "✨",
       "skillset": [
@@ -23240,10 +23154,10 @@
       "table_group": "General",
       "is_guildspace_locked": false,
       "notes": "",
-      "created_at": "2026-08-28T20:50:50.576144+00:00"
+      "created_at": "2026-08-28T20:59:32.56794+00:00"
     },
     {
-      "id": 388,
+      "id": 538,
       "name": "ID Threats",
       "attribute": "👁️",
       "skillset": [
@@ -23259,10 +23173,10 @@
       "table_group": "General",
       "is_guildspace_locked": false,
       "notes": "",
-      "created_at": "2026-08-28T20:50:50.576144+00:00"
+      "created_at": "2026-08-28T20:59:32.56794+00:00"
     },
     {
-      "id": 389,
+      "id": 539,
       "name": "ID Weather",
       "attribute": "👁️",
       "skillset": [
@@ -23277,10 +23191,10 @@
       "table_group": "General",
       "is_guildspace_locked": false,
       "notes": "",
-      "created_at": "2026-08-28T20:50:50.576144+00:00"
+      "created_at": "2026-08-28T20:59:32.56794+00:00"
     },
     {
-      "id": 390,
+      "id": 540,
       "name": "Inspiration",
       "attribute": "👁️",
       "skillset": [
@@ -23296,10 +23210,10 @@
       "table_group": "General",
       "is_guildspace_locked": false,
       "notes": "",
-      "created_at": "2026-08-28T20:50:50.576144+00:00"
+      "created_at": "2026-08-28T20:59:32.56794+00:00"
     },
     {
-      "id": 391,
+      "id": 541,
       "name": "Interrogate",
       "attribute": "🫀",
       "skillset": [
@@ -23316,15 +23230,16 @@
       "table_group": "General",
       "is_guildspace_locked": false,
       "notes": "",
-      "created_at": "2026-08-28T20:50:50.576144+00:00"
+      "created_at": "2026-08-28T20:59:32.56794+00:00"
     },
     {
-      "id": 392,
+      "id": 542,
       "name": "Intimidation",
       "attribute": "🫀",
       "skillset": [
         "Diplomacy",
         "Guard Skills",
+        "Intimidation & Presence",
         "Orc Skills"
       ],
       "genres": [
@@ -23336,11 +23251,11 @@
       "table_group": "General",
       "is_guildspace_locked": false,
       "notes": "",
-      "created_at": "2026-08-28T20:50:50.576144+00:00"
+      "created_at": "2026-08-28T20:59:32.56794+00:00"
     },
     {
-      "id": 393,
-      "name": "Inventer",
+      "id": 543,
+      "name": "Invention",
       "attribute": "👁️",
       "skillset": [
         "Gnomish Skills"
@@ -23352,10 +23267,10 @@
       "table_group": "General",
       "is_guildspace_locked": false,
       "notes": "",
-      "created_at": "2026-08-28T20:50:50.576144+00:00"
+      "created_at": "2026-08-28T20:59:32.56794+00:00"
     },
     {
-      "id": 394,
+      "id": 544,
       "name": "Languages",
       "attribute": "👁️",
       "skillset": [
@@ -23373,14 +23288,16 @@
       "table_group": "General",
       "is_guildspace_locked": false,
       "notes": "",
-      "created_at": "2026-08-28T20:50:50.576144+00:00"
+      "created_at": "2026-08-28T20:59:32.56794+00:00"
     },
     {
-      "id": 395,
-      "name": "Lead Rebellious Groups",
+      "id": 545,
+      "name": "Leadership",
       "attribute": "👁️",
       "skillset": [
-        "Intimidation & Presence"
+        "Intimidation & Presence",
+        "Ship Office Captain",
+        "Ship Office Tactical"
       ],
       "genres": [
         "Medieval",
@@ -23391,10 +23308,10 @@
       "table_group": "General",
       "is_guildspace_locked": false,
       "notes": "",
-      "created_at": "2026-08-28T20:50:50.576144+00:00"
+      "created_at": "2026-08-28T20:59:32.56794+00:00"
     },
     {
-      "id": 396,
+      "id": 546,
       "name": "Leatherwork",
       "attribute": "💪",
       "skillset": [
@@ -23409,10 +23326,10 @@
       "table_group": "General",
       "is_guildspace_locked": false,
       "notes": "",
-      "created_at": "2026-08-28T20:50:50.576144+00:00"
+      "created_at": "2026-08-28T20:59:32.56794+00:00"
     },
     {
-      "id": 397,
+      "id": 547,
       "name": "Light Sleeper",
       "attribute": "👁️",
       "skillset": [
@@ -23428,10 +23345,10 @@
       "table_group": "General",
       "is_guildspace_locked": false,
       "notes": "",
-      "created_at": "2026-08-28T20:50:50.576144+00:00"
+      "created_at": "2026-08-28T20:59:32.56794+00:00"
     },
     {
-      "id": 398,
+      "id": 548,
       "name": "Lore",
       "attribute": "👁️",
       "skillset": [
@@ -23446,10 +23363,10 @@
       "table_group": "General",
       "is_guildspace_locked": false,
       "notes": "",
-      "created_at": "2026-08-28T20:50:50.576144+00:00"
+      "created_at": "2026-08-28T20:59:32.56794+00:00"
     },
     {
-      "id": 399,
+      "id": 549,
       "name": "Metal Manipulation",
       "attribute": "💪",
       "skillset": [
@@ -23464,10 +23381,10 @@
       "table_group": "General",
       "is_guildspace_locked": false,
       "notes": "",
-      "created_at": "2026-08-28T20:50:50.576144+00:00"
+      "created_at": "2026-08-28T20:59:32.56794+00:00"
     },
     {
-      "id": 400,
+      "id": 550,
       "name": "Mining",
       "attribute": "💪",
       "skillset": [
@@ -23480,10 +23397,10 @@
       "table_group": "General",
       "is_guildspace_locked": false,
       "notes": "",
-      "created_at": "2026-08-28T20:50:50.576144+00:00"
+      "created_at": "2026-08-28T20:59:32.56794+00:00"
     },
     {
-      "id": 401,
+      "id": 551,
       "name": "Mix",
       "attribute": "👁️",
       "skillset": [
@@ -23498,10 +23415,10 @@
       "table_group": "General",
       "is_guildspace_locked": false,
       "notes": "",
-      "created_at": "2026-08-28T20:50:50.576144+00:00"
+      "created_at": "2026-08-28T20:59:32.56794+00:00"
     },
     {
-      "id": 402,
+      "id": 552,
       "name": "Mountaineering",
       "attribute": "🏃",
       "skillset": [
@@ -23516,52 +23433,18 @@
       "table_group": "General",
       "is_guildspace_locked": false,
       "notes": "",
-      "created_at": "2026-08-28T20:50:50.576144+00:00"
+      "created_at": "2026-08-28T20:59:32.56794+00:00"
     },
     {
-      "id": 403,
-      "name": "Music",
-      "attribute": "👁️",
-      "skillset": [
-        "Bardic"
-      ],
-      "genres": [
-        "Medieval",
-        "Modern",
-        "SciFi"
-      ],
-      "discipline": "General",
-      "table_group": "General",
-      "is_guildspace_locked": false,
-      "notes": "",
-      "created_at": "2026-08-28T20:50:50.576144+00:00"
-    },
-    {
-      "id": 404,
-      "name": "Navigate Cityscapes",
-      "attribute": "🏃",
-      "skillset": [
-        "Urban Survival",
-        "Urban Survival🎓"
-      ],
-      "genres": [
-        "Medieval",
-        "Modern",
-        "SciFi"
-      ],
-      "discipline": "General",
-      "table_group": "General",
-      "is_guildspace_locked": false,
-      "notes": "",
-      "created_at": "2026-08-28T20:50:50.576144+00:00"
-    },
-    {
-      "id": 405,
+      "id": 553,
       "name": "Navigation",
       "attribute": "👁️",
       "skillset": [
+        "Mountaineering",
         "Sailing",
         "Ship Office Astrogation",
+        "Urban Survival",
+        "Urban Survival🎓",
         "Vehicle Driver"
       ],
       "genres": [
@@ -23573,14 +23456,15 @@
       "table_group": "General",
       "is_guildspace_locked": false,
       "notes": "",
-      "created_at": "2026-08-28T20:50:50.576144+00:00"
+      "created_at": "2026-08-28T20:59:32.56794+00:00"
     },
     {
-      "id": 406,
-      "name": "Negotiate",
+      "id": 554,
+      "name": "Negotiation",
       "attribute": "👁️",
       "skillset": [
-        "Diplomacy"
+        "Diplomacy",
+        "Mercantile"
       ],
       "genres": [
         "Medieval",
@@ -23591,28 +23475,10 @@
       "table_group": "General",
       "is_guildspace_locked": false,
       "notes": "",
-      "created_at": "2026-08-28T20:50:50.576144+00:00"
+      "created_at": "2026-08-28T20:59:32.56794+00:00"
     },
     {
-      "id": 407,
-      "name": "Orders",
-      "attribute": "👁️",
-      "skillset": [
-        "Ship Office Captain",
-        "Ship Office Tactical"
-      ],
-      "genres": [
-        "Modern",
-        "SciFi"
-      ],
-      "discipline": "General",
-      "table_group": "General",
-      "is_guildspace_locked": false,
-      "notes": "",
-      "created_at": "2026-08-28T20:50:50.576144+00:00"
-    },
-    {
-      "id": 408,
+      "id": 555,
       "name": "Parkour",
       "attribute": "🏃",
       "skillset": [],
@@ -23625,28 +23491,10 @@
       "table_group": "General",
       "is_guildspace_locked": false,
       "notes": "",
-      "created_at": "2026-08-28T20:50:50.576144+00:00"
+      "created_at": "2026-08-28T20:59:32.56794+00:00"
     },
     {
-      "id": 409,
-      "name": "Perception",
-      "attribute": "👁️",
-      "skillset": [
-        "Awareness"
-      ],
-      "genres": [
-        "Medieval",
-        "Modern",
-        "SciFi"
-      ],
-      "discipline": "General",
-      "table_group": "General",
-      "is_guildspace_locked": false,
-      "notes": "",
-      "created_at": "2026-08-28T20:50:50.576144+00:00"
-    },
-    {
-      "id": 410,
+      "id": 556,
       "name": "Performance",
       "attribute": "👁️",
       "skillset": [
@@ -23661,13 +23509,14 @@
       "table_group": "General",
       "is_guildspace_locked": false,
       "notes": "",
-      "created_at": "2026-08-28T20:50:50.576144+00:00"
+      "created_at": "2026-08-28T20:59:32.56794+00:00"
     },
     {
-      "id": 411,
-      "name": "Persuade",
+      "id": 557,
+      "name": "Persuasion",
       "attribute": "👁️",
       "skillset": [
+        "Bardic",
         "Diplomacy"
       ],
       "genres": [
@@ -23679,28 +23528,10 @@
       "table_group": "General",
       "is_guildspace_locked": false,
       "notes": "",
-      "created_at": "2026-08-28T20:50:50.576144+00:00"
+      "created_at": "2026-08-28T20:59:32.56794+00:00"
     },
     {
-      "id": 412,
-      "name": "Persuasion",
-      "attribute": "👁️",
-      "skillset": [
-        "Bardic"
-      ],
-      "genres": [
-        "Medieval",
-        "Modern",
-        "SciFi"
-      ],
-      "discipline": "General",
-      "table_group": "General",
-      "is_guildspace_locked": false,
-      "notes": "",
-      "created_at": "2026-08-28T20:50:50.576144+00:00"
-    },
-    {
-      "id": 413,
+      "id": 558,
       "name": "Pick Locks",
       "attribute": "🏃",
       "skillset": [
@@ -23716,10 +23547,10 @@
       "table_group": "General",
       "is_guildspace_locked": false,
       "notes": "",
-      "created_at": "2026-08-28T20:50:50.576144+00:00"
+      "created_at": "2026-08-28T20:59:32.56794+00:00"
     },
     {
-      "id": 414,
+      "id": 559,
       "name": "Pickpockets",
       "attribute": "🏃",
       "skillset": [
@@ -23736,45 +23567,10 @@
       "table_group": "General",
       "is_guildspace_locked": false,
       "notes": "",
-      "created_at": "2026-08-28T20:50:50.576144+00:00"
+      "created_at": "2026-08-28T20:59:32.56794+00:00"
     },
     {
-      "id": 415,
-      "name": "Pilot Small Craft",
-      "attribute": "🏃",
-      "skillset": [
-        "Ship Office Fighter Pilot"
-      ],
-      "genres": [
-        "Modern",
-        "SciFi"
-      ],
-      "discipline": "General",
-      "table_group": "General",
-      "is_guildspace_locked": false,
-      "notes": "",
-      "created_at": "2026-08-28T20:50:50.576144+00:00"
-    },
-    {
-      "id": 416,
-      "name": "Pilot Starship",
-      "attribute": "🏃",
-      "skillset": [
-        "Ship Office Astrogation",
-        "Ship Office Helm"
-      ],
-      "genres": [
-        "Modern",
-        "SciFi"
-      ],
-      "discipline": "General",
-      "table_group": "General",
-      "is_guildspace_locked": false,
-      "notes": "",
-      "created_at": "2026-08-28T20:50:50.576144+00:00"
-    },
-    {
-      "id": 417,
+      "id": 560,
       "name": "Poison Use",
       "attribute": "👁️",
       "skillset": [
@@ -23791,10 +23587,10 @@
       "table_group": "General",
       "is_guildspace_locked": false,
       "notes": "",
-      "created_at": "2026-08-28T20:50:50.576144+00:00"
+      "created_at": "2026-08-28T20:59:32.56794+00:00"
     },
     {
-      "id": 418,
+      "id": 561,
       "name": "Politics",
       "attribute": "👁️",
       "skillset": [
@@ -23809,10 +23605,48 @@
       "table_group": "General",
       "is_guildspace_locked": false,
       "notes": "",
-      "created_at": "2026-08-28T20:50:50.576144+00:00"
+      "created_at": "2026-08-28T20:59:32.56794+00:00"
     },
     {
-      "id": 419,
+      "id": 562,
+      "name": "Potion Administration",
+      "attribute": "✨",
+      "skillset": [
+        "Alchemy"
+      ],
+      "genres": [
+        "Medieval",
+        "Modern",
+        "SciFi"
+      ],
+      "discipline": "General",
+      "table_group": "General",
+      "is_guildspace_locked": false,
+      "notes": "",
+      "created_at": "2026-08-28T20:59:32.56794+00:00"
+    },
+    {
+      "id": 563,
+      "name": "Power Management",
+      "attribute": "✨",
+      "skillset": [
+        "Ship Office Captain",
+        "Ship Office Engineering",
+        "Ship Office Fighter Pilot",
+        "Ship Office Helm"
+      ],
+      "genres": [
+        "Modern",
+        "SciFi"
+      ],
+      "discipline": "General",
+      "table_group": "General",
+      "is_guildspace_locked": false,
+      "notes": "",
+      "created_at": "2026-08-28T20:59:32.56794+00:00"
+    },
+    {
+      "id": 564,
       "name": "Raise Shields",
       "attribute": "💪",
       "skillset": [
@@ -23829,49 +23663,14 @@
       "table_group": "General",
       "is_guildspace_locked": false,
       "notes": "",
-      "created_at": "2026-08-28T20:50:50.576144+00:00"
+      "created_at": "2026-08-28T20:59:32.56794+00:00"
     },
     {
-      "id": 420,
+      "id": 565,
       "name": "Read Intent",
       "attribute": "👁️",
       "skillset": [
-        "Awareness"
-      ],
-      "genres": [
-        "Medieval",
-        "Modern",
-        "SciFi"
-      ],
-      "discipline": "General",
-      "table_group": "General",
-      "is_guildspace_locked": false,
-      "notes": "",
-      "created_at": "2026-08-28T20:50:50.576144+00:00"
-    },
-    {
-      "id": 421,
-      "name": "Read Surface Thoughts",
-      "attribute": "✨",
-      "skillset": [
-        "Mental Discipline"
-      ],
-      "genres": [
-        "Medieval",
-        "Modern",
-        "SciFi"
-      ],
-      "discipline": "General",
-      "table_group": "General",
-      "is_guildspace_locked": false,
-      "notes": "",
-      "created_at": "2026-08-28T20:50:50.576144+00:00"
-    },
-    {
-      "id": 422,
-      "name": "Recognize Manipulation",
-      "attribute": "👁️",
-      "skillset": [
+        "Awareness",
         "Intimidation & Presence"
       ],
       "genres": [
@@ -23883,10 +23682,10 @@
       "table_group": "General",
       "is_guildspace_locked": false,
       "notes": "",
-      "created_at": "2026-08-28T20:50:50.576144+00:00"
+      "created_at": "2026-08-28T20:59:32.56794+00:00"
     },
     {
-      "id": 423,
+      "id": 566,
       "name": "Religion",
       "attribute": "👁️",
       "skillset": [
@@ -23901,10 +23700,10 @@
       "table_group": "General",
       "is_guildspace_locked": false,
       "notes": "",
-      "created_at": "2026-08-28T20:50:50.576144+00:00"
+      "created_at": "2026-08-28T20:59:32.56794+00:00"
     },
     {
-      "id": 424,
+      "id": 567,
       "name": "Repair Armor/Weapons",
       "attribute": "💪",
       "skillset": [
@@ -23922,10 +23721,10 @@
       "table_group": "General",
       "is_guildspace_locked": false,
       "notes": "",
-      "created_at": "2026-08-28T20:50:50.576144+00:00"
+      "created_at": "2026-08-28T20:59:32.56794+00:00"
     },
     {
-      "id": 425,
+      "id": 568,
       "name": "Repair ATM/Cyber",
       "attribute": "💪",
       "skillset": [
@@ -23939,10 +23738,10 @@
       "table_group": "General",
       "is_guildspace_locked": false,
       "notes": "",
-      "created_at": "2026-08-28T20:50:50.576144+00:00"
+      "created_at": "2026-08-28T20:59:32.56794+00:00"
     },
     {
-      "id": 426,
+      "id": 569,
       "name": "Repair Computer",
       "attribute": "💪",
       "skillset": [
@@ -23956,10 +23755,10 @@
       "table_group": "General",
       "is_guildspace_locked": false,
       "notes": "",
-      "created_at": "2026-08-28T20:50:50.576144+00:00"
+      "created_at": "2026-08-28T20:59:32.56794+00:00"
     },
     {
-      "id": 427,
+      "id": 570,
       "name": "Repair Gear",
       "attribute": "💪",
       "skillset": [
@@ -23978,28 +23777,10 @@
       "table_group": "General",
       "is_guildspace_locked": false,
       "notes": "",
-      "created_at": "2026-08-28T20:50:50.576144+00:00"
+      "created_at": "2026-08-28T20:59:32.56794+00:00"
     },
     {
-      "id": 428,
-      "name": "Repair Hull",
-      "attribute": "💪",
-      "skillset": [
-        "Ship Office Engineering",
-        "Vehicle Driver"
-      ],
-      "genres": [
-        "Modern",
-        "SciFi"
-      ],
-      "discipline": "General",
-      "table_group": "General",
-      "is_guildspace_locked": false,
-      "notes": "",
-      "created_at": "2026-08-28T20:50:50.576144+00:00"
-    },
-    {
-      "id": 429,
+      "id": 571,
       "name": "Repair Station",
       "attribute": "💪",
       "skillset": [
@@ -24020,10 +23801,10 @@
       "table_group": "General",
       "is_guildspace_locked": false,
       "notes": "",
-      "created_at": "2026-08-28T20:50:50.576144+00:00"
+      "created_at": "2026-08-28T20:59:32.56794+00:00"
     },
     {
-      "id": 430,
+      "id": 572,
       "name": "Resist Charm",
       "attribute": "✨",
       "skillset": [
@@ -24036,10 +23817,10 @@
       "table_group": "General",
       "is_guildspace_locked": false,
       "notes": "",
-      "created_at": "2026-08-28T20:50:50.576144+00:00"
+      "created_at": "2026-08-28T20:59:32.56794+00:00"
     },
     {
-      "id": 431,
+      "id": 573,
       "name": "Resist Disease",
       "attribute": "🫀",
       "skillset": [
@@ -24055,10 +23836,10 @@
       "table_group": "General",
       "is_guildspace_locked": false,
       "notes": "",
-      "created_at": "2026-08-28T20:50:50.576144+00:00"
+      "created_at": "2026-08-28T20:59:32.56794+00:00"
     },
     {
-      "id": 432,
+      "id": 574,
       "name": "Resist Illusions",
       "attribute": "✨",
       "skillset": [
@@ -24071,10 +23852,10 @@
       "table_group": "General",
       "is_guildspace_locked": false,
       "notes": "",
-      "created_at": "2026-08-28T20:50:50.576144+00:00"
+      "created_at": "2026-08-28T20:59:32.56794+00:00"
     },
     {
-      "id": 433,
+      "id": 575,
       "name": "Resist Mental",
       "attribute": "✨",
       "skillset": [
@@ -24089,10 +23870,10 @@
       "table_group": "General",
       "is_guildspace_locked": false,
       "notes": "",
-      "created_at": "2026-08-28T20:50:50.576144+00:00"
+      "created_at": "2026-08-28T20:59:32.56794+00:00"
     },
     {
-      "id": 434,
+      "id": 576,
       "name": "Resist Pain/Fear",
       "attribute": "🫀",
       "skillset": [
@@ -24110,10 +23891,10 @@
       "table_group": "General",
       "is_guildspace_locked": false,
       "notes": "",
-      "created_at": "2026-08-28T20:50:50.576144+00:00"
+      "created_at": "2026-08-28T20:59:32.56794+00:00"
     },
     {
-      "id": 435,
+      "id": 577,
       "name": "Resist Poison",
       "attribute": "🫀",
       "skillset": [
@@ -24130,14 +23911,14 @@
       "table_group": "General",
       "is_guildspace_locked": false,
       "notes": "",
-      "created_at": "2026-08-28T20:50:50.576144+00:00"
+      "created_at": "2026-08-28T20:59:32.56794+00:00"
     },
     {
-      "id": 436,
+      "id": 578,
       "name": "Resist Weather",
       "attribute": "🫀",
       "skillset": [
-        "Drudic",
+        "Druidic",
         "Mountaineering",
         "Orc Skills",
         "Survival"
@@ -24151,11 +23932,11 @@
       "table_group": "General",
       "is_guildspace_locked": false,
       "notes": "",
-      "created_at": "2026-08-28T20:50:50.576144+00:00"
+      "created_at": "2026-08-28T20:59:32.56794+00:00"
     },
     {
-      "id": 437,
-      "name": "Ridding",
+      "id": 579,
+      "name": "Riding",
       "attribute": "🏃",
       "skillset": [
         "Husbandry"
@@ -24169,10 +23950,10 @@
       "table_group": "General",
       "is_guildspace_locked": false,
       "notes": "",
-      "created_at": "2026-08-28T20:50:50.576144+00:00"
+      "created_at": "2026-08-28T20:59:32.56794+00:00"
     },
     {
-      "id": 438,
+      "id": 580,
       "name": "Rune-Engraving",
       "attribute": "✨",
       "skillset": [
@@ -24188,10 +23969,10 @@
       "table_group": "General",
       "is_guildspace_locked": false,
       "notes": "",
-      "created_at": "2026-08-28T20:50:50.576144+00:00"
+      "created_at": "2026-08-28T20:59:32.56794+00:00"
     },
     {
-      "id": 439,
+      "id": 581,
       "name": "Sailing",
       "attribute": "👁️",
       "skillset": [
@@ -24206,10 +23987,10 @@
       "table_group": "General",
       "is_guildspace_locked": false,
       "notes": "",
-      "created_at": "2026-08-28T20:50:50.576144+00:00"
+      "created_at": "2026-08-28T20:59:32.56794+00:00"
     },
     {
-      "id": 440,
+      "id": 582,
       "name": "Scanners/Sensors",
       "attribute": "👁️",
       "skillset": [
@@ -24232,10 +24013,10 @@
       "table_group": "General",
       "is_guildspace_locked": false,
       "notes": "",
-      "created_at": "2026-08-28T20:50:50.576144+00:00"
+      "created_at": "2026-08-28T20:59:32.56794+00:00"
     },
     {
-      "id": 441,
+      "id": 583,
       "name": "Scavenging",
       "attribute": "👁️",
       "skillset": [
@@ -24248,67 +24029,10 @@
       "table_group": "General",
       "is_guildspace_locked": false,
       "notes": "",
-      "created_at": "2026-08-28T20:50:50.576144+00:00"
+      "created_at": "2026-08-28T20:59:32.56794+00:00"
     },
     {
-      "id": 442,
-      "name": "Send 3 Words",
-      "attribute": "✨",
-      "skillset": [
-        "Mental Discipline"
-      ],
-      "genres": [
-        "Medieval",
-        "Modern",
-        "SciFi"
-      ],
-      "discipline": "General",
-      "table_group": "General",
-      "is_guildspace_locked": false,
-      "notes": "",
-      "created_at": "2026-08-28T20:50:50.576144+00:00"
-    },
-    {
-      "id": 443,
-      "name": "Ship Gunner",
-      "attribute": "👁️",
-      "skillset": [
-        "Ship Office Fighter Pilot",
-        "Ship Office Helm",
-        "Ship Office Tactical"
-      ],
-      "genres": [
-        "Modern",
-        "SciFi"
-      ],
-      "discipline": "General",
-      "table_group": "General",
-      "is_guildspace_locked": false,
-      "notes": "",
-      "created_at": "2026-08-28T20:50:50.576144+00:00"
-    },
-    {
-      "id": 444,
-      "name": "Ship Power",
-      "attribute": "✨",
-      "skillset": [
-        "Ship Office Captain",
-        "Ship Office Engineering",
-        "Ship Office Fighter Pilot",
-        "Ship Office Helm"
-      ],
-      "genres": [
-        "Modern",
-        "SciFi"
-      ],
-      "discipline": "General",
-      "table_group": "General",
-      "is_guildspace_locked": false,
-      "notes": "",
-      "created_at": "2026-08-28T20:50:50.576144+00:00"
-    },
-    {
-      "id": 445,
+      "id": 584,
       "name": "Siege Weaponry",
       "attribute": "👁️",
       "skillset": [
@@ -24324,62 +24048,10 @@
       "table_group": "General",
       "is_guildspace_locked": false,
       "notes": "",
-      "created_at": "2026-08-28T20:50:50.576144+00:00"
+      "created_at": "2026-08-28T20:59:32.56794+00:00"
     },
     {
-      "id": 446,
-      "name": "Silent Kills",
-      "attribute": "💪",
-      "skillset": [
-        "Assassin"
-      ],
-      "genres": [
-        "Medieval",
-        "Modern",
-        "SciFi"
-      ],
-      "discipline": "General",
-      "table_group": "General",
-      "is_guildspace_locked": false,
-      "notes": "",
-      "created_at": "2026-08-28T20:50:50.576144+00:00"
-    },
-    {
-      "id": 447,
-      "name": "Situational Analysis",
-      "attribute": "👁️",
-      "skillset": [
-        "Awareness"
-      ],
-      "genres": [
-        "Medieval",
-        "Modern",
-        "SciFi"
-      ],
-      "discipline": "General",
-      "table_group": "General",
-      "is_guildspace_locked": false,
-      "notes": "",
-      "created_at": "2026-08-28T20:50:50.576144+00:00"
-    },
-    {
-      "id": 448,
-      "name": "Small Illusions",
-      "attribute": "✨",
-      "skillset": [
-        "Gnomish Skills"
-      ],
-      "genres": [
-        "Medieval"
-      ],
-      "discipline": "General",
-      "table_group": "General",
-      "is_guildspace_locked": false,
-      "notes": "",
-      "created_at": "2026-08-28T20:50:50.576144+00:00"
-    },
-    {
-      "id": 449,
+      "id": 585,
       "name": "Social Status",
       "attribute": "👁️",
       "skillset": [
@@ -24394,10 +24066,10 @@
       "table_group": "General",
       "is_guildspace_locked": false,
       "notes": "",
-      "created_at": "2026-08-28T20:50:50.576144+00:00"
+      "created_at": "2026-08-28T20:59:32.56794+00:00"
     },
     {
-      "id": 450,
+      "id": 586,
       "name": "Solve Puzzles",
       "attribute": "👁️",
       "skillset": [
@@ -24410,18 +24082,18 @@
       "table_group": "General",
       "is_guildspace_locked": false,
       "notes": "",
-      "created_at": "2026-08-28T20:50:50.576144+00:00"
+      "created_at": "2026-08-28T20:59:32.56794+00:00"
     },
     {
-      "id": 451,
-      "name": "Spot Unusual Activity",
-      "attribute": "👁️",
+      "id": 587,
+      "name": "Starship Piloting",
+      "attribute": "🏃",
       "skillset": [
-        "Streetwise",
-        "Streetwise Survival"
+        "Ship Office Astrogation",
+        "Ship Office Fighter Pilot",
+        "Ship Office Helm"
       ],
       "genres": [
-        "Medieval",
         "Modern",
         "SciFi"
       ],
@@ -24429,10 +24101,10 @@
       "table_group": "General",
       "is_guildspace_locked": false,
       "notes": "",
-      "created_at": "2026-08-28T20:50:50.576144+00:00"
+      "created_at": "2026-08-28T20:59:32.56794+00:00"
     },
     {
-      "id": 452,
+      "id": 588,
       "name": "Stealth",
       "attribute": "🏃",
       "skillset": [
@@ -24455,29 +24127,10 @@
       "table_group": "General",
       "is_guildspace_locked": false,
       "notes": "",
-      "created_at": "2026-08-28T20:50:50.576144+00:00"
+      "created_at": "2026-08-28T20:59:32.56794+00:00"
     },
     {
-      "id": 453,
-      "name": "Stone/Metal Weakness",
-      "attribute": "👁️",
-      "skillset": [
-        "Engineering & Siegecraft",
-        "Siegecraft"
-      ],
-      "genres": [
-        "Medieval",
-        "Modern",
-        "SciFi"
-      ],
-      "discipline": "General",
-      "table_group": "General",
-      "is_guildspace_locked": false,
-      "notes": "",
-      "created_at": "2026-08-28T20:50:50.576144+00:00"
-    },
-    {
-      "id": 454,
+      "id": 589,
       "name": "Stonecraft",
       "attribute": "💪",
       "skillset": [
@@ -24490,10 +24143,10 @@
       "table_group": "General",
       "is_guildspace_locked": false,
       "notes": "",
-      "created_at": "2026-08-28T20:50:50.576144+00:00"
+      "created_at": "2026-08-28T20:59:32.56794+00:00"
     },
     {
-      "id": 455,
+      "id": 590,
       "name": "Streetwise",
       "attribute": "👁️",
       "skillset": [
@@ -24510,31 +24163,15 @@
       "table_group": "General",
       "is_guildspace_locked": false,
       "notes": "",
-      "created_at": "2026-08-28T20:50:50.576144+00:00"
+      "created_at": "2026-08-28T20:59:32.56794+00:00"
     },
     {
-      "id": 456,
-      "name": "Structural Damage",
-      "attribute": "💪",
+      "id": 591,
+      "name": "Structural Weakness",
+      "attribute": "👁️",
       "skillset": [
-        "Ship Office Engineering"
-      ],
-      "genres": [
-        "Modern",
-        "SciFi"
-      ],
-      "discipline": "General",
-      "table_group": "General",
-      "is_guildspace_locked": false,
-      "notes": "",
-      "created_at": "2026-08-28T20:50:50.576144+00:00"
-    },
-    {
-      "id": 457,
-      "name": "Survival",
-      "attribute": "🫀",
-      "skillset": [
-        "Spec Survivalist"
+        "Engineering & Siegecraft",
+        "Siegecraft"
       ],
       "genres": [
         "Medieval",
@@ -24545,10 +24182,29 @@
       "table_group": "General",
       "is_guildspace_locked": false,
       "notes": "",
-      "created_at": "2026-08-28T20:50:50.576144+00:00"
+      "created_at": "2026-08-28T20:59:32.56794+00:00"
     },
     {
-      "id": 458,
+      "id": 592,
+      "name": "Survival",
+      "attribute": "🫀",
+      "skillset": [
+        "Spec Survivalist",
+        "Survival"
+      ],
+      "genres": [
+        "Medieval",
+        "Modern",
+        "SciFi"
+      ],
+      "discipline": "General",
+      "table_group": "General",
+      "is_guildspace_locked": false,
+      "notes": "",
+      "created_at": "2026-08-28T20:59:32.56794+00:00"
+    },
+    {
+      "id": 593,
       "name": "Swimming",
       "attribute": "🏃",
       "skillset": [
@@ -24565,10 +24221,10 @@
       "table_group": "General",
       "is_guildspace_locked": false,
       "notes": "",
-      "created_at": "2026-08-28T20:50:50.576144+00:00"
+      "created_at": "2026-08-28T20:59:32.56794+00:00"
     },
     {
-      "id": 459,
+      "id": 594,
       "name": "Tactics",
       "attribute": "👁️",
       "skillset": [
@@ -24587,14 +24243,14 @@
       "table_group": "General",
       "is_guildspace_locked": false,
       "notes": "",
-      "created_at": "2026-08-28T20:50:50.576144+00:00"
+      "created_at": "2026-08-28T20:59:32.56794+00:00"
     },
     {
-      "id": 460,
+      "id": 595,
       "name": "Talk To Animal",
       "attribute": "✨",
       "skillset": [
-        "Drudic",
+        "Druidic",
         "Husbandry"
       ],
       "genres": [
@@ -24606,14 +24262,14 @@
       "table_group": "General",
       "is_guildspace_locked": false,
       "notes": "",
-      "created_at": "2026-08-28T20:50:50.576144+00:00"
+      "created_at": "2026-08-28T20:59:32.56794+00:00"
     },
     {
-      "id": 461,
+      "id": 596,
       "name": "Talk To Plants",
       "attribute": "✨",
       "skillset": [
-        "Drudic"
+        "Druidic"
       ],
       "genres": [
         "Medieval",
@@ -24624,10 +24280,10 @@
       "table_group": "General",
       "is_guildspace_locked": false,
       "notes": "",
-      "created_at": "2026-08-28T20:50:50.576144+00:00"
+      "created_at": "2026-08-28T20:59:32.56794+00:00"
     },
     {
-      "id": 462,
+      "id": 597,
       "name": "Taunt",
       "attribute": "👁️",
       "skillset": [
@@ -24642,10 +24298,28 @@
       "table_group": "General",
       "is_guildspace_locked": false,
       "notes": "",
-      "created_at": "2026-08-28T20:50:50.576144+00:00"
+      "created_at": "2026-08-28T20:59:32.56794+00:00"
     },
     {
-      "id": 463,
+      "id": 598,
+      "name": "Telepathy",
+      "attribute": "✨",
+      "skillset": [
+        "Mental Discipline"
+      ],
+      "genres": [
+        "Medieval",
+        "Modern",
+        "SciFi"
+      ],
+      "discipline": "General",
+      "table_group": "General",
+      "is_guildspace_locked": false,
+      "notes": "",
+      "created_at": "2026-08-28T20:59:32.56794+00:00"
+    },
+    {
+      "id": 599,
       "name": "Theft",
       "attribute": "🏃",
       "skillset": [
@@ -24661,28 +24335,10 @@
       "table_group": "General",
       "is_guildspace_locked": false,
       "notes": "",
-      "created_at": "2026-08-28T20:50:50.576144+00:00"
+      "created_at": "2026-08-28T20:59:32.56794+00:00"
     },
     {
-      "id": 464,
-      "name": "Threaten Convincingly",
-      "attribute": "🫀",
-      "skillset": [
-        "Intimidation & Presence"
-      ],
-      "genres": [
-        "Medieval",
-        "Modern",
-        "SciFi"
-      ],
-      "discipline": "General",
-      "table_group": "General",
-      "is_guildspace_locked": false,
-      "notes": "",
-      "created_at": "2026-08-28T20:50:50.576144+00:00"
-    },
-    {
-      "id": 465,
+      "id": 600,
       "name": "Tight Grip",
       "attribute": "💪",
       "skillset": [
@@ -24696,28 +24352,10 @@
       "table_group": "General",
       "is_guildspace_locked": false,
       "notes": "",
-      "created_at": "2026-08-28T20:50:50.576144+00:00"
+      "created_at": "2026-08-28T20:59:32.56794+00:00"
     },
     {
-      "id": 466,
-      "name": "Trac/Rep Beam",
-      "attribute": "💪",
-      "skillset": [
-        "Ship Office Engineering",
-        "Ship Office Tech"
-      ],
-      "genres": [
-        "Modern",
-        "SciFi"
-      ],
-      "discipline": "General",
-      "table_group": "General",
-      "is_guildspace_locked": false,
-      "notes": "",
-      "created_at": "2026-08-28T20:50:50.576144+00:00"
-    },
-    {
-      "id": 467,
+      "id": 601,
       "name": "Tracking",
       "attribute": "🏃",
       "skillset": [
@@ -24734,10 +24372,28 @@
       "table_group": "General",
       "is_guildspace_locked": false,
       "notes": "",
-      "created_at": "2026-08-28T20:50:50.576144+00:00"
+      "created_at": "2026-08-28T20:59:32.56794+00:00"
     },
     {
-      "id": 468,
+      "id": 602,
+      "name": "Tractor/Repulsor Beam",
+      "attribute": "💪",
+      "skillset": [
+        "Ship Office Engineering",
+        "Ship Office Tech"
+      ],
+      "genres": [
+        "Modern",
+        "SciFi"
+      ],
+      "discipline": "General",
+      "table_group": "General",
+      "is_guildspace_locked": false,
+      "notes": "",
+      "created_at": "2026-08-28T20:59:32.56794+00:00"
+    },
+    {
+      "id": 603,
       "name": "Transporter",
       "attribute": "👁️",
       "skillset": [
@@ -24753,10 +24409,10 @@
       "table_group": "General",
       "is_guildspace_locked": false,
       "notes": "",
-      "created_at": "2026-08-28T20:50:50.576144+00:00"
+      "created_at": "2026-08-28T20:59:32.56794+00:00"
     },
     {
-      "id": 469,
+      "id": 604,
       "name": "Underground Lore",
       "attribute": "👁️",
       "skillset": [
@@ -24769,45 +24425,10 @@
       "table_group": "General",
       "is_guildspace_locked": false,
       "notes": "",
-      "created_at": "2026-08-28T20:50:50.576144+00:00"
+      "created_at": "2026-08-28T20:59:32.56794+00:00"
     },
     {
-      "id": 470,
-      "name": "Vehicle Gunner",
-      "attribute": "👁️",
-      "skillset": [
-        "Ship Office Tactical",
-        "Vehicle Driver"
-      ],
-      "genres": [
-        "Modern",
-        "SciFi"
-      ],
-      "discipline": "General",
-      "table_group": "General",
-      "is_guildspace_locked": false,
-      "notes": "",
-      "created_at": "2026-08-28T20:50:50.576144+00:00"
-    },
-    {
-      "id": 471,
-      "name": "Vehicle Power",
-      "attribute": "✨",
-      "skillset": [
-        "Ship Office Engineering"
-      ],
-      "genres": [
-        "Modern",
-        "SciFi"
-      ],
-      "discipline": "General",
-      "table_group": "General",
-      "is_guildspace_locked": false,
-      "notes": "",
-      "created_at": "2026-08-28T20:50:50.576144+00:00"
-    },
-    {
-      "id": 472,
+      "id": 605,
       "name": "Zero-Gravity",
       "attribute": "🏃",
       "skillset": [
@@ -24822,7 +24443,7 @@
       "table_group": "General",
       "is_guildspace_locked": false,
       "notes": "",
-      "created_at": "2026-08-28T20:50:50.576144+00:00"
+      "created_at": "2026-08-28T20:59:32.56794+00:00"
     }
   ],
   "weapons": [
