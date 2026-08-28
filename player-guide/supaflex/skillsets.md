@@ -88,6 +88,7 @@ Master indexed skill sets and atomic skills directory.
 | **Mountaineering** | 🏃 | General | Iron Lotus Discipline |  |
 | **Navigation** | 👁️ | General | Mountaineering, Sailing, Ship Office Astrogation, Urban Survival, Urban Survival🎓, Vehicle Driver |  |
 | **Negotiation** | 👁️ | General | Diplomacy, Mercantile |  |
+| **Nish** | 🏃 | Universal | Agility, Athletics | Specialized kinetic movement, acrobatics, agility, and rapid relocation. |
 | **Parkour** | 🏃 | General |  |  |
 | **Performance** | 👁️ | General | Bardic |  |
 | **Persuasion** | 👁️ | General | Bardic, Diplomacy |  |
@@ -106,9 +107,10 @@ Master indexed skill sets and atomic skills directory.
 | **Repair Gear** | 💪 | General | Dwarven Skills, Engineering & Siegecraft, Gnomish Skills, Ship Office Scientist, Siegecraft |  |
 | **Repair Station** | 💪 | General | Ship Office Astrogation, Ship Office Captain, Ship Office Communications, Ship Office Fighter Pilot, Ship Office Helm, Ship Office Medic, Ship Office Tech |  |
 | **Resist Charm** | ✨ | General | Elven Skills |  |
+| **Resist Death** | 🫀 | Universal | Iron Lotus Discipline, Spec Survivalist | Defying mortal trauma, stabilizing critical injuries, and death saving throws. |
 | **Resist Disease** | 🫀 | General | Goblin Skills, Ship Office Medic |  |
-| **Resist Illusions** | ✨ | General | Gnomish Skills |  |
-| **Resist Mental** | ✨ | General | Mental Discipline |  |
+| **Resist Illusions** | 👁️ | General | Gnomish Skills |  |
+| **Resist Mental** | 👁️ | General | Mental Discipline |  |
 | **Resist Pain/Fear** | 🫀 | General | Halfling Skills, Iron Lotus Discipline, Ship Office Fighter Pilot, Ship Office Tactical |  |
 | **Resist Poison** | 🫀 | General | Dwarven Skills, Spec Spy, Spec Thief |  |
 | **Resist Weather** | 🫀 | General | Druidic, Mountaineering, Orc Skills, Survival |  |
@@ -146,13 +148,13 @@ Master indexed skill sets and atomic skills directory.
 
 | Skill Set | Member Skills |
 | --- | --- |
-| **Agility** | ✨ Falling, 🏃 Acrobatics, 🏃 Balance, 🏃 Climbing, 🏃 Escape Artist |
+| **Agility** | ✨ Falling, 🏃 Acrobatics, 🏃 Balance, 🏃 Climbing, 🏃 Escape Artist, 🏃 Nish |
 | **Alchemy** | ✨ Potion Administration, 👁️ ID Plants, 👁️ Mix |
 | **Arcana** | ✨ Detect Enchantments, ✨ ID Magic Item, ✨ ID Monster, ✨ ID Runes, ✨ ID Spells |
 | **Assassin** | 👁️ Poison Use, 👁️ Tactics, 💪 Backstab |
 | **Assassination** | 👁️ Poison Use, 👁️ Tactics |
 | **Assassination🎓** | 👁️ Poison Use, 👁️ Tactics |
-| **Athletics** | 🏃 Acrobatics, 🏃 Climbing, 🏃 Swimming, 💪 Feats Of Strength |
+| **Athletics** | 🏃 Acrobatics, 🏃 Climbing, 🏃 Nish, 🏃 Swimming, 💪 Feats Of Strength |
 | **Awareness** | 👁️ Awareness, 👁️ Detect Lie, 👁️ Read Intent |
 | **Bardic** | 👁️ Inspiration, 👁️ Performance, 👁️ Persuasion |
 | **Crafting** | 💪 Carpentry, 💪 Leatherwork, 💪 Repair Armor/Weapons |
@@ -162,18 +164,18 @@ Master indexed skill sets and atomic skills directory.
 | **Dwarven Skills** | 👁️ Brewing, 👁️ Underground Lore, 💪 Mining, 💪 Repair Gear, 💪 Stonecraft, 🫀 Resist Poison |
 | **Elven Skills** | ✨ Resist Charm, 🏃 Stealth, 🏃 Tracking, 👁️ Artistry, 👁️ Forest Lore, 💪 Fletching |
 | **Engineering & Siegecraft** | ✨ Rune-Engraving, 👁️ Siege Weaponry, 👁️ Structural Weakness, 💪 Repair Gear |
-| **Gnomish Skills** | ✨ Resist Illusions, 👁️ Invention, 👁️ Solve Puzzles, 💪 Repair Gear |
+| **Gnomish Skills** | 👁️ Invention, 👁️ Resist Illusions, 👁️ Solve Puzzles, 💪 Repair Gear |
 | **Goblin Skills** | 🏃 Ambush, 🏃 Detect/Remove Traps, 🏃 Stealth, 👁️ Scavenging, 🫀 Resist Disease |
 | **Guard Skills** | 👁️ Danger Sense, 💪 Repair Armor/Weapons, 🫀 Interrogate, 🫀 Intimidation |
 | **Halfling Skills** | 🏃 Stealth, 👁️ Community Lore, 👁️ Cooking, 🫀 Resist Pain/Fear |
 | **Healing Arts** | 👁️ Cure Disease, 👁️ Cure Poison, 👁️ Healing Arts, 👁️ Herbalism |
 | **Husbandry** | ✨ Talk To Animal, 🏃 Riding, 👁️ Animal Handling |
 | **Intimidation & Presence** | 👁️ Inspiration, 👁️ Leadership, 👁️ Read Intent, 👁️ Taunt, 🫀 Intimidation |
-| **Iron Lotus Discipline** | 🏃 Mountaineering, 👁️ Awareness, 👁️ Healing Arts, 🫀 Resist Pain/Fear |
+| **Iron Lotus Discipline** | 🏃 Mountaineering, 👁️ Awareness, 👁️ Healing Arts, 🫀 Resist Death, 🫀 Resist Pain/Fear |
 | **Magnetism** | ✨ Falling, 👁️ Detect Metal, 👁️ Streetwise, 💪 Metal Manipulation |
 | **Martial Prowess** | 🏃 Guard Drills, 👁️ Tactics |
 | **Medicine** | 👁️ Cure Disease, 👁️ Cure Poison, 👁️ Healing Arts |
-| **Mental Discipline** | ✨ Resist Mental, ✨ Telepathy, 👁️ Empathy |
+| **Mental Discipline** | ✨ Telepathy, 👁️ Empathy, 👁️ Resist Mental |
 | **Mercantile** | 👁️ Appraise, 👁️ Fast Talk, 👁️ Gambling, 👁️ Negotiation |
 | **Mountaineering** | ✨ Falling, 🏃 Climbing, 👁️ Danger Sense, 👁️ Navigation, 🫀 Resist Weather |
 | **Orc Skills** | 🏃 Ambush, 🏃 Hunt, 💪 Crafting, 🫀 Intimidation, 🫀 Resist Weather |
@@ -194,7 +196,7 @@ Master indexed skill sets and atomic skills directory.
 | **Ship Office Tech** | 👁️ Cloak, 👁️ Computer, 👁️ Comtech, 👁️ Counter Security, 👁️ Scanners/Sensors, 👁️ Transporter, 💪 Raise Shields, 💪 Repair Station, 💪 Tractor/Repulsor Beam |
 | **Siegecraft** | ✨ Rune-Engraving, 👁️ Siege Weaponry, 👁️ Structural Weakness, 💪 Repair Gear |
 | **Spec Spy** | 🏃 Climbing, 🏃 Expert Runner, 🏃 Stealth, 🏃 Theft, 👁️ Computer, 👁️ Counter Security, 👁️ Danger Sense, 👁️ Detect Lie, 👁️ Disguise, 👁️ Enhanced Hearing, 👁️ Fast Talk, 👁️ Languages, 👁️ Light Sleeper, 🫀 Interrogate, 🫀 Resist Poison |
-| **Spec Survivalist** | ✨ Falling, 🏃 Climbing, 🏃 Swimming, 🏃 Tracking, 👁️ Danger Sense, 👁️ Healing Arts, 🫀 Survival |
+| **Spec Survivalist** | ✨ Falling, 🏃 Climbing, 🏃 Swimming, 🏃 Tracking, 👁️ Danger Sense, 👁️ Healing Arts, 🫀 Resist Death, 🫀 Survival |
 | **Spec Thief** | 🏃 Ambidexterity, 🏃 Climbing, 🏃 Expert Runner, 🏃 Stealth, 🏃 Theft, 👁️ Counter Security, 👁️ Danger Sense, 👁️ Detect Lie, 👁️ Disguise, 👁️ Enhanced Hearing, 👁️ Fast Talk, 👁️ Gambling, 👁️ Light Sleeper, 🫀 Resist Poison |
 | **Streetwise** | 🏃 Blend Into Crowds, 🏃 Evasion, 👁️ Awareness, 👁️ Create Distractions, 👁️ ID Threats |
 | **Streetwise Survival** | 🏃 Blend Into Crowds, 🏃 Evasion, 👁️ Awareness, 👁️ Create Distractions, 👁️ ID Threats |
