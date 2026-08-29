@@ -12,10 +12,10 @@ Dynamic magical relics and store-bought hardware indexed from the master databas
 | 1-⚡ | M | **Ash-and-Blood WarPaint** | While painted; Nish🚩+1 for encounter. |
 | 2-Enc | P | **Ash-Herb Pouch** | Apply herbal dusts; Heal 1 Vit to adjacent ally. |
 | 1-Enc | P | **Candle Spark** | Create small flame; ignite torches or campfires. |
-| 1-⚡ | F | **Charm Bands** | Mind👁 and Magic✨ rolls with Advantage 1 rnd. |
+| 1-⚡ | F | **Charm Bands** | Mind👁️ and Magic✨ rolls with Advantage 1 rnd. |
 | 1-Enc | P | **Charm of Balance** | Motion🏃 roll with Advantage to stay upright. |
-| 1-Enc | F | **Circus Cloak - Hidden Pockets** | Advantage on Mind👁 Sleight of Hand checks. |
-| 1-Enc | P | **Cyber X-Ray Eye** | 👁+ or skill to penetrate substance for viewing; requires existing cyber eye. |
+| 1-Enc | F | **Circus Cloak - Hidden Pockets** | Advantage on Mind👁️ Sleight of Hand checks. |
+| 1-Enc | P | **Cyber X-Ray Eye** | 👁️+ or skill to penetrate substance for viewing; requires existing cyber eye. |
 | 1-⚡ | P | **D-Sizer** | Shrink or un-shrink eligible metal item (weapon or device no larger than Destron armor) to pawn size. |
 | 1-Enc | P | **Ember Pin** | Ignite small flame on touch. |
 | 1-Enc | P | **Feather Charm** | Magic✨ to negate fall distance in ft. |
@@ -35,7 +35,7 @@ Dynamic magical relics and store-bought hardware indexed from the master databas
 | 1-Rnd | M | **Knife of Infinite Cloning** | Can split one knife into 2 knives (new knives last for encounter). |
 | 1-⚡ | P | **Lantern Bead** | Throw; hovering light for Encounter. |
 | 1-⚡ | F | **Lucky Coin** | Reroll one failed roll. |
-| 1 | P | **Mindstone Charm** | On use; Gain Advantage on 1 Mind👁 roll this rnd. |
+| 1 | P | **Mindstone Charm** | On use; Gain Advantage on 1 Mind👁️ roll this rnd. |
 | 1-Enc | A | **Mist Bottle** | Create fog in 2x2sq; obscure vision, for Encounter. |
 | 1-Enc | P | **Morphling** | Pick Lock(✨+2)^Dif to pick any keyed lock; Clone(✨+2) to duplicate sample (fingerprint, eye, etc.). |
 | 1-⚡ | P | **Pocket Lantern** | Create floating Lantern that follows you for Encounter. |
@@ -58,7 +58,7 @@ Dynamic magical relics and store-bought hardware indexed from the master databas
 | 1-Enc | M | **Stim ⚔️ Action** | Provides an extra (Attack Action). |
 | 1-Enc | M | **Stim ✋ Action** | Provides an extra ✋(Partial Action). |
 | 1-Enc | P | **Stim 🏃 Buff** | Skills(🏃+2). |
-| 1-Enc | P | **Stim 👁️ Buff** | Skills(👁+2). |
+| 1-Enc | P | **Stim 👁️ Buff** | Skills(👁️+2). |
 | 1-Enc | M | **Stim 👣 Action** | Provides an extra 👣(Move Action). |
 | 1-Enc | P | **Stim 💪 Buff** | Skills(💪+2). |
 | 1-Enc | P | **Stim 🫀 Buff** | Skills(🫀+2). |
@@ -67,10 +67,10 @@ Dynamic magical relics and store-bought hardware indexed from the master databas
 | 1-⚡ | P | **Stone Beetle** | Wind-up bug; follows you for 30 minutes, marking route with feint green glow. |
 | 1 | P | **Sunpetal Brooch** | On use; Heal self 1 Vit and emit light 2sq for 1 Enc. |
 | 2-Enc | M | **Temporal Spray** | Spray Atk 🏃 on opponent; Allies gan Adv vs all of target's time-sensitive stats (Dod, Blk, Atk, etc.). |
-| 1-⚡ | A | **Tonic of Clarity** | Drink; Mind👁+1 for Encounter. |
+| 1-⚡ | A | **Tonic of Clarity** | Drink; Mind👁️+1 for Encounter. |
 | 1-⚡ | A | **Tonic of Vigor** | Drink; Might💪+1 for Encounter. |
 | 1-⚡ | P | **Torch Seed** | Thow against wall or surface; sprouts flaming torch for Encounter. |
-| 1-Enc | P | **Trickster’s Satchel** | Scatter glamor powder; 1sqR foes Mind👁 or Distracted 1 rnd. |
+| 1-Enc | P | **Trickster’s Satchel** | Scatter glamor powder; 1sqR foes Mind👁️ or Distracted 1 rnd. |
 | 1 | A | **Vial of Sacred Dust** | Throw 2sq; Magic✨ Atk vs undead; d4 Dmg and Weakened 1 rnd. |
 | 1-⚡ | M | **Vine Cord** | Extend up to 100ft vine-rope; can lift up to 250Lb individuals/items. |
 | 1-⚡ | P | **Water Skin of Plenty** | Pproduces 1 day's fresh water for 1 person. |
@@ -81,7 +81,7 @@ Dynamic magical relics and store-bought hardware indexed from the master databas
 | 3 | F | **Wooden Charm** | Break to gain Magic✨Resist✨+2 for encounter. |
 | 1-Enc | M | **Zephyr Feather** | MR👣+2 this rnd. |
 | 1-Enc | P | **Zinc Dust** | Sprinkle; totally instantly corrodes 1 normal metal object. |
-| 1-Enc | M | **Zircon Lens** | Peer through; Mind👁+2 to spot hidden doors/traps/monsters. |
+| 1-Enc | M | **Zircon Lens** | Peer through; Mind👁️+2 to spot hidden doors/traps/monsters. |
 | 1-Enc | P | **Zither Pick** | Strum; Heal d✨ to 1 ally. |
 | 1-Enc | M | **Zoom Charm** | Target's next ranged Atk with Advantage. |
 
@@ -89,7 +89,7 @@ Dynamic magical relics and store-bought hardware indexed from the master databas
 
 | Usage | Action | Name | Effect |
 | --- | --- | --- | --- |
-| 1-Enc | P | **Amulet of Insight** | Mind👁 Perception+2 for Encounter. |
+| 1-Enc | P | **Amulet of Insight** | Mind👁️ Perception+2 for Encounter. |
 | 1-⚡ | A | **Amulet of Sparks** | Magic✨ Atk for d✨+5 Dmg. |
 | 1-Enc | P | **Apron of Endless Pockets** | Find 1 small tool/snack. |
 | 1-Rnd | P | **Backpack of Holding** | Store much more gear; retrieve instantly. |
@@ -111,9 +111,9 @@ Dynamic magical relics and store-bought hardware indexed from the master databas
 | 1-Rnd | F | **Cyber-Legs, Strength** | Leg Leg Str(💪+2), Kick Dmg 💪+1; Perm Max MR lesser of (8, or MR(-1)) heat/crushing AR(+3). |
 | 3-Enc | F | **CyberGuards** | AR(+2)^Blunt/Crush/Fall; stacks with OstealSteel for AR(+3). |
 | 3-Enc | A | **D-Carbine** | Rng Medium; Atk/Dmg 👁️; transforms into hazard on impact. |
-| 1-Enc | A | **Decohesion Gun** | Atk/Dmg(👁)/(✨+1) once hit, target is auto hit (justDmg); Wounds do nothing untill >🫀 then target implodes. |
+| 1-Enc | A | **Decohesion Gun** | Atk/Dmg(👁️)/(✨+1) once hit, target is auto hit (justDmg); Wounds do nothing untill >🫀 then target implodes. |
 | 1-Enc | P | **Dice of Fortune** | Roll d10 on 10 gain 1 Luck🍀 chit. |
-| 1-⚡ | P | **EnviroShield** | 4" force shield: 👁+^environmental/Explosions (poison, radiation, etc.); penalty MR(-2) & Agi(*0.5). |
+| 1-⚡ | P | **EnviroShield** | 4" force shield: 👁️+^environmental/Explosions (poison, radiation, etc.); penalty MR(-2) & Agi(*0.5). |
 | 1-⚡ | P | **Feather of Falling** | Fall first 100 ft safely. |
 | 1-Enc | A | **Flute of Frenzy** | Up to 3 Targets; Magic✨ or dance uncontrollably. |
 | 1-Enc | P | **Golden Sunstone** | When Healing; Heal+1 Vit or gain AR+1 for 1 rnd. |
@@ -127,10 +127,10 @@ Dynamic magical relics and store-bought hardware indexed from the master databas
 | 1-Enc | A | **Magnetic Resonance Bracer** | Rng Short; target in metal armor; Atk ✨ = target levitated and dropped for fall Dmg. |
 | 1-Enc | A | **Marbles of Mischief** | Scatter marbles in 3x3sq; AoE MR👣-2; bag auto refills. |
 | 1-⚡ | F | **Mirror Shard of Foresight** | Glimpse future; next Roll+2. |
-| 3-Enc | P | **Moon Crown** | Cone 90° Rng Medium long; 👁+^🫀 or blind for 1 Rnd. |
-| 3-Enc | P | **MorphNet** | Sk() Image Scanner until cumulative ^100; max 5 stored images; when active Disguise(👁+3)^Awa to fool onlookers. |
+| 3-Enc | P | **Moon Crown** | Cone 90° Rng Medium long; 👁️+^🫀 or blind for 1 Rnd. |
+| 3-Enc | P | **MorphNet** | Sk() Image Scanner until cumulative ^100; max 5 stored images; when active Disguise(👁️+3)^Awa to fool onlookers. |
 | 1-⚡ | P | **Mug of Endless Tea** | Drink; Resist✨+2 on next roll this encounter. |
-| 1-⚡ | F | **Neon Sunglasses** | Mind👁 Intimidation+2. |
+| 1-⚡ | F | **Neon Sunglasses** | Mind👁️ Intimidation+2. |
 | 1-⚡ | P | **Orb \- Luck** | Restores d5 Luck chits, not past max. |
 | 2-Enc | A | **Orb of Frost** | Magic✨ Atk for d✨ cold Dmg and Magic✨or target is frozen. |
 | 1-Rnd | F | **OstealSteel** | AR(+2)^Blunt; Str(✨+3) to break/sever limb. |
@@ -148,7 +148,7 @@ Dynamic magical relics and store-bought hardware indexed from the master databas
 | 1-Enc | A | **Rapier of Impure Alloy** | Atk+2 this rnd but Dmg-1. |
 | 1-⚡ | F | **Red Dot Scope** | This weapon's Shot Atk(*1.5); doubles range; will stack with Dmg abilities (not with Atks). |
 | 1-⚡ | F | **Scarf of Warmth** | Resist✨+2 & AR+2 vs cold for Encounter. |
-| 2-Enc | P | **Scout Swarm** | Scouts Stealth = Stealth(🏃)^Awa; MR(5) max short to Rng Medium from host; 👁+^Dif vs hidden/invisible life. |
+| 2-Enc | P | **Scout Swarm** | Scouts Stealth = Stealth(🏃)^Awa; MR(5) max short to Rng Medium from host; 👁️+^Dif vs hidden/invisible life. |
 | 1-Rnd | F | **ShadowBand** | Radius of full daylight (any size up to 3r); no light beyond radius; no shadows within. |
 | 1-Enc | M | **Shoes of Silence** | Motion🏃 Stealth with Advantage. |
 | 2-Enc | M | **SlingGauntlets** | 15 sq (75 ft) strand; Q-Bond 💪+; reel at MR 15; Acrobatics(🏃+1). |
@@ -166,19 +166,19 @@ Dynamic magical relics and store-bought hardware indexed from the master databas
 | 1-Enc | P | **Umbrella of Defiance** | Block at Max roll, all ranged Atks for 1 rnd. |
 | 1-⚡ | P | **Wall of Thune** | wide, tall wall high x Rng Short wide wall; non-destructive; 💪+4^Str to move; Sk2 = AR(💪+6), Vit=(🫀-1). |
 | 2-Enc | A | **Wand of Fire Bolts** | Magic✨ Atk for d✨+1 fire Dmg; Magic✨or target burns d4 Dmg/rnd. |
-| 3-Enc | P | **Willstone** | When held: Domination(👁)^🫀; Perm Men(*2) while on person. |
+| 3-Enc | P | **Willstone** | When held: Domination(👁️)^🫀; Perm Men(*2) while on person. |
 
 ## **🪬 Greater Relics (Loot Drops)**
 
 | Usage | Action | Name | Effect |
 | --- | --- | --- | --- |
-| 1-Enc | P | **[Armor] of Serenity** | Mind👁 Persuasion+2. |
+| 1-Enc | P | **[Armor] of Serenity** | Mind👁️ Persuasion+2. |
 | 1-Enc | M | **[Weapon] of Echoes** | Dmg+2 if the 2H20 rolls doubles, for encounter. |
 | 1-Enc | A | **[Weapon] of Glimmer** | Create illusion; Magic✨. |
 | 2-Enc | M | **AeroJet Thruster** | Atmospheric flight: 100 ft/Rnd vertical, MR(24) horizontal; 1 hr on Nova-Cores, recharges 1 min flight per 10 min. |
 | 1-Enc | A | **Amulet of Dawn’s Radiance** | Magic✨ Atk (AOE 3sqR) vs undead; d8 radiant Dmg and Weakened 1 rnd; Non-undead in AOE Heal+1 Vit. |
 | 1-⚡ | A | **Amulet of Healing** | Heal Self 2d4. |
-| 1-Enc | F | **Amulet of Psionic Reflection** | After you succeed a Resist✨ from an foe; Magic✨ Atk & Dmg vs foe and Mind👁 to Weaken for 1 rnd. |
+| 1-Enc | F | **Amulet of Psionic Reflection** | After you succeed a Resist✨ from an foe; Magic✨ Atk & Dmg vs foe and Mind👁️ to Weaken for 1 rnd. |
 | 1-Enc | F | **Ankh of the Undying** | If bearer is dropped to 0 or less, auto-revive to 1. |
 | 1-⚡ | P | **Banner of Eternity** | Allies Nish🚩+2 while carried for encounter. |
 | 1-Enc | P | **Bell of Guidance** | Allies Roll+1 next roll. |
@@ -216,7 +216,7 @@ Dynamic magical relics and store-bought hardware indexed from the master databas
 | 1-⚡ | P | **Ember [Armor]** | If you are melee hit; Magic✨or attacker takes d✨-2 fire Dmg; for Encounter. |
 | 1-Enc | A | **Ember [Weapon]** | On miss; all adjacent squares ignite Motion🏃 or d4 burn Dmg. |
 | 1-⚡ | P | **Fat Frog Idol** | Restore 1 Luck🍀 chit. |
-| 1-⚡ | P | **Fine Slik Shirt** | Mind👁 Social+2 for encounter. |
+| 1-⚡ | P | **Fine Slik Shirt** | Mind👁️ Social+2 for encounter. |
 | 1-Enc | A | **Flamebrand [Weapon]** | On hit; Dmg+1 fire and Magic✨ or target burns for d4 Dmg. |
 | 1-Enc | A | **Frostfang [Weapon]** | On hit; Dmg+1 cold and Magic✨ or target is frozen. |
 | 1-⚡ | P | **Frostmantle [Armor]** | Immune to cold Dmg for Encounter. |
@@ -243,20 +243,20 @@ Dynamic magical relics and store-bought hardware indexed from the master databas
 | 1-Enc | P | **Lantern of Truth** | Reveal hidden things nearby; Magic✨. |
 | 1-Enc | P | **Longsword of the Street Rebel** | For 1 rnd; melee Atk+1 & Dmg+1; vs larger foes, first melee Atk has Advantage. |
 | 1-Rnd | F | **Mask of Eternity** | Ignore aging; narrative effect only. |
-| 1-Enc | P | **Mask of Whispers** | Mind👁+2 for 1 rnd. |
-| 1-⚡ | P | **Mech Core** | Deploy 10' Mech; MR(8), Blaster Rifle Atk 👁Dmg 👁+1, Power claw Atk/Dmg(✨-1)/(✨+2), Dod/AR(✨-1)/(✨+1) Vit =(✨+1). |
+| 1-Enc | P | **Mask of Whispers** | Mind👁️+2 for 1 rnd. |
+| 1-⚡ | P | **Mech Core** | Deploy 10' Mech; MR(8), Blaster Rifle Atk 👁️Dmg 👁️+1, Power claw Atk/Dmg(✨-1)/(✨+2), Dod/AR(✨-1)/(✨+1) Vit =(✨+1). |
 | 1-Enc | P | **Medallion of Calm** | Remove Weakened. |
 | 1-⚡ | P | **Mirror [Shield]** | Magic✨ to reflect 1 spell back at caster. |
 | 1-⚡ | P | **Mirror of the Other You** | Identical self steps out for 1 rnd. |
-| 2-Enc | P | **Mohawk Helm** | Mind👁 Intimidation+2 for 1 rnd. |
-| 1-Enc | F | **Neon [Weapon]** | Mind👁 Intimidation+2. |
+| 2-Enc | P | **Mohawk Helm** | Mind👁️ Intimidation+2 for 1 rnd. |
+| 1-Enc | F | **Neon [Weapon]** | Mind👁️ Intimidation+2. |
 | 1-⚡ | P | **Neon Skateboard** | While riding MR👣+1 for Encounter. |
 | 1-⚡ | P | **Orb of Echo Memory** | Replay 1 past scene vividly. |
 | 1-⚡ | P | **Orb of Worlds** | Peer into another plane; ask one yes/no question. |
 | 1-⚡ | A | **Phoenix [Weapon]** | On crit; No crit effect and Heal self d✨. |
 | 1-Enc | P | **Q-Bond 2 Boots** | 💪+^Dif to bond to any surface including ceiling; penalty MR(*0.5). |
 | 1-Enc | P | **Quantum Gate** | Rng Long; 👁️^Dif to link with active Quantum Gate within 1000 ft. |
-| 2-Enc | P | **Quantum Leap** | Teleport to stored location (max 3); max jump 100 miles; transport another at cost of 3 Uses; 👁+^Dif for complex jump. |
+| 2-Enc | P | **Quantum Leap** | Teleport to stored location (max 3); max jump 100 miles; transport another at cost of 3 Uses; 👁️+^Dif for complex jump. |
 | 1-⚡ | P | **Radiant [Weapon]** | Glows with Everlight (20 sq light with no shadows). |
 | 1-Enc | P | **Ring of the Serpent** | Poison aura; all foes in 3sqR Rolls-2 vs Resist✨. |
 | 1-Enc | A | **Ring of Two Stars** | Magic✨ Atk for d12 Dmg vs 2 targets. |
@@ -285,7 +285,7 @@ Dynamic magical relics and store-bought hardware indexed from the master databas
 | 1-Rnd | P | **Volcanic Shard of Reth’Vash 1** | Healing Powers and healing received are +1. |
 | 1-Enc | P | **Volcanic Shard of Reth’Vash 2** | Teleport up to 6sq to visible shadow. |
 | 1-Enc | F | **Volcanic Shard of Reth’Vash 3** | After you Heal ally from 0 or less Vit to 1+, make 1 Brawl Opportunity Atk. |
-| 1-Enc | A | **Whisper [Weapon]** | On Atk; Whisper target positions at Mind👁 to detect Invisible monsters. |
+| 1-Enc | A | **Whisper [Weapon]** | On Atk; Whisper target positions at Mind👁️ to detect Invisible monsters. |
 
 ## **⚙️ Hardware (Store & Tech Devices)**
 
@@ -307,7 +307,7 @@ Dynamic magical relics and store-bought hardware indexed from the master databas
 | 1-Rnd | P | 10g | **Hover Drone** | Hover micro-drone; follows or pattern; Rng Medium; 👣 10. 👣5 if carrying; Def/AR ✨; Vit ✨ |
 | 1-Rnd | P | 3g | **Hover Drone Remote** | Hover micro-drone; follows or pattern; Rng Medium; 👣 10. |
 | 2-Enc | P | 4g | **ImageScanner** | Rng Short; records 3D holographic target. |
-| 2-Enc | P | 10g | **ImageWrap** | Holographic disguise around user; ^👁. Stores 2 images. |
+| 2-Enc | P | 10g | **ImageWrap** | Holographic disguise around user; ^👁️. Stores 2 images. |
 | 1-⚡ | P | 8g | **Micro Hover Bug** | Hovers or follows target (MR 12); programmable via DataSleeve. |
 | 3-Enc | P | 1g | **Miniflare Gun** | Fires signal flare (1000 ft); set to illuminate, tracer, and/or whistle. |
 | 1-Enc | F | 5s | **Miniflare Gun Flares** | Ammo for Miniflare Gun or similar. |

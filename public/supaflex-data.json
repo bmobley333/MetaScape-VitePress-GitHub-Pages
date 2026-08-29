@@ -145,7 +145,7 @@
       "name": "Aether Leap",
       "usage": "2-Enc",
       "action": "M",
-      "effect": "Leap(🏃+2); Leave a psionic afterimage Believe Imgage(👁)^👁.",
+      "effect": "Leap(🏃+2); Leave a psionic afterimage Believe Imgage(👁️)^👁️.",
       "created_at": "2026-08-13T21:26:29.251053+00:00",
       "genres": [
         "Medieval",
@@ -385,7 +385,7 @@
       "name": "Ancestral Whisper",
       "usage": "1-⚡",
       "action": "P",
-      "effect": "Next Mind👁 roll with Advantage.",
+      "effect": "Next Mind👁️ roll with Advantage.",
       "created_at": "2026-08-13T21:26:29.251053+00:00",
       "genres": [
         "Medieval",
@@ -405,7 +405,7 @@
       "name": "Animal Empathy",
       "usage": "1-Enc",
       "action": "A",
-      "effect": "Calm or befriend 1 beast; Mind👁 animal handling roll.",
+      "effect": "Calm or befriend 1 beast; Mind👁️ animal handling roll.",
       "created_at": "2026-08-13T21:26:29.251053+00:00",
       "genres": [
         "Medieval",
@@ -585,7 +585,7 @@
       "name": "Assassinate",
       "usage": "3-Enc",
       "action": "A",
-      "effect": "Sniper Shot Atk/Dmg(👁+2)/(👁+3); Req: must qualify.",
+      "effect": "Sniper Shot Atk/Dmg(👁️+2)/(👁️+3); Req: must qualify.",
       "created_at": "2026-08-13T21:26:29.251053+00:00",
       "genres": [
         "Medieval",
@@ -665,7 +665,7 @@
       "name": "Aura of Charm",
       "usage": "1-Enc",
       "action": "A",
-      "effect": "Mind👁 charms target.",
+      "effect": "Mind👁️ charms target.",
       "created_at": "2026-08-13T21:26:29.251053+00:00",
       "genres": [
         "Medieval",
@@ -805,7 +805,7 @@
       "name": "Bardic Bluff",
       "usage": "1-Enc",
       "action": "P",
-      "effect": "Mind👁 social roll with Advantage.",
+      "effect": "Mind👁️ social roll with Advantage.",
       "created_at": "2026-08-13T21:26:29.251053+00:00",
       "genres": [
         "Medieval",
@@ -865,7 +865,7 @@
       "name": "Battle Rhythm",
       "usage": "1-Enc",
       "action": "P",
-      "effect": "Mind👁; ally Nish🚩+2.",
+      "effect": "Mind👁️; ally Nish🚩+2.",
       "created_at": "2026-08-13T21:26:29.251053+00:00",
       "genres": [
         "Medieval",
@@ -1104,7 +1104,7 @@
       "name": "Blade of Thought Technique",
       "usage": "1-Enc",
       "action": "A",
-      "effect": "If you hit with melee; +d👁 Dmg and push target 1sq.",
+      "effect": "If you hit with melee; +d👁️ Dmg and push target 1sq.",
       "created_at": "2026-08-13T21:26:29.251053+00:00",
       "genres": [
         "Medieval",
@@ -1284,7 +1284,7 @@
       "name": "Blood Frenzy",
       "usage": "1-⚡",
       "action": "A",
-      "effect": "MR(+2), 2 melee Atks per Rnd, Atk/Dmg(💪-1)/(💪+1); To Break Frenzy(👁)^(50-5 per round) or continue Frenzy.",
+      "effect": "MR(+2), 2 melee Atks per Rnd, Atk/Dmg(💪-1)/(💪+1); To Break Frenzy(👁️)^(50-5 per round) or continue Frenzy.",
       "created_at": "2026-08-13T21:26:29.251053+00:00",
       "genres": [
         "Medieval",
@@ -1524,7 +1524,7 @@
       "name": "Bond of the Glade",
       "usage": "1-Enc",
       "action": "F",
-      "effect": "Mind👁Sense nearby illusions, glamours, or nature magic.",
+      "effect": "Mind👁️Sense nearby illusions, glamours, or nature magic.",
       "created_at": "2026-08-13T21:26:29.251053+00:00",
       "genres": [
         "Medieval",
@@ -1804,7 +1804,7 @@
       "name": "Charm Veil",
       "usage": "1-Enc",
       "action": "P",
-      "effect": "Mind👁 Socail roll with Advantage.",
+      "effect": "Mind👁️ Socail roll with Advantage.",
       "created_at": "2026-08-13T21:26:29.343213+00:00",
       "genres": [
         "Medieval",
@@ -1824,7 +1824,7 @@
       "name": "Cheerful Bluff",
       "usage": "1-Enc",
       "action": "P",
-      "effect": "Mind👁 social roll with Advantage.",
+      "effect": "Mind👁️ social roll with Advantage.",
       "created_at": "2026-08-13T21:26:29.343213+00:00",
       "genres": [
         "Medieval",
@@ -1884,7 +1884,7 @@
       "name": "Circus Charisma",
       "usage": "1-Enc",
       "action": "P",
-      "effect": "Mind👁 Diplomacy & Performance with Advantage.",
+      "effect": "Mind👁️ Diplomacy & Performance with Advantage.",
       "created_at": "2026-08-13T21:26:29.343213+00:00",
       "genres": [
         "Medieval",
@@ -1924,7 +1924,7 @@
       "name": "Clear the Mind",
       "usage": "1-Enc",
       "action": "P",
-      "effect": "Remove Disadvantage from your next Mind👁 roll this rnd.",
+      "effect": "Remove Disadvantage from your next Mind👁️ roll this rnd.",
       "created_at": "2026-08-13T21:26:29.343213+00:00",
       "genres": [
         "Medieval",
@@ -2004,7 +2004,7 @@
       "name": "Clockwork Ally",
       "usage": "1-Enc",
       "action": "A",
-      "effect": "Summon small construct Golem; All Atr are at Mind👁, for 1 rnd.",
+      "effect": "Summon small construct Golem; All Atr are at Mind👁️, for 1 rnd.",
       "created_at": "2026-08-13T21:26:29.343213+00:00",
       "genres": [
         "Medieval",
@@ -2184,7 +2184,7 @@
       "name": "Construct Siege Weapon",
       "usage": "1-Enc",
       "action": "A",
-      "effect": "Summon implacement ballista for encounter user can shoot javelins Mind👁 Atk, Dmg d10; Def-3 while using.",
+      "effect": "Summon implacement ballista for encounter user can shoot javelins Mind👁️ Atk, Dmg d10; Def-3 while using.",
       "created_at": "2026-08-13T21:26:29.343213+00:00",
       "genres": [
         "Medieval",
@@ -2464,7 +2464,7 @@
       "name": "Curseflare",
       "usage": "1-Enc",
       "action": "P",
-      "effect": "All foes in 2sq Mind👁 or Weakened 1 rnd.",
+      "effect": "All foes in 2sq Mind👁️ or Weakened 1 rnd.",
       "created_at": "2026-08-13T21:26:29.343213+00:00",
       "genres": [
         "Medieval",
@@ -2504,7 +2504,7 @@
       "name": "Cyber Helm",
       "usage": "1-Enc",
       "action": "A",
-      "effect": "Sealed with air supply; 👁+2; Nish+10.",
+      "effect": "Sealed with air supply; 👁️+2; Nish+10.",
       "created_at": "2026-08-13T21:26:29.343213+00:00",
       "genres": [
         "SciFi"
@@ -2540,7 +2540,7 @@
       "name": "Cyber Vision",
       "usage": "1-⚡",
       "action": "F",
-      "effect": "Vision(👁+2.5); A Shot Atk/Dmg(👁+2)/(👁); Shot Rng increased.",
+      "effect": "Vision(👁️+2.5); A Shot Atk/Dmg(👁️+2)/(👁️); Shot Rng increased.",
       "created_at": "2026-08-13T21:26:29.343213+00:00",
       "genres": [
         "SciFi"
@@ -2596,7 +2596,7 @@
       "name": "Dance of Light & Shadow",
       "usage": "1-Enc",
       "action": "AM",
-      "effect": "Move double MR👣; Mind👁 or nearby foes Weakened 1 rnd.",
+      "effect": "Move double MR👣; Mind👁️ or nearby foes Weakened 1 rnd.",
       "created_at": "2026-08-13T21:26:29.343213+00:00",
       "genres": [
         "Medieval",
@@ -2696,7 +2696,7 @@
       "name": "Death Blow",
       "usage": "1-⚡",
       "action": "F",
-      "effect": "After dealing body Dmg: Death Blow(👁)^🫀; success = target dead (PCs to −10 Vit).",
+      "effect": "After dealing body Dmg: Death Blow(👁️)^🫀; success = target dead (PCs to −10 Vit).",
       "created_at": "2026-08-13T21:26:29.343213+00:00",
       "genres": [
         "Medieval",
@@ -3036,7 +3036,7 @@
       "name": "Distract & Draw",
       "usage": "1-Enc",
       "action": "P",
-      "effect": "Create brief diversion; nearest foe Mind👁 or looks away; your next Stealth🏃 this rnd gains Advantage.",
+      "effect": "Create brief diversion; nearest foe Mind👁️ or looks away; your next Stealth🏃 this rnd gains Advantage.",
       "created_at": "2026-08-13T21:26:29.343213+00:00",
       "genres": [
         "Medieval",
@@ -3076,7 +3076,7 @@
       "name": "Doppelgänger Bluff",
       "usage": "1-⚡",
       "action": "A",
-      "effect": "Impersonate someone nearby; Mind👁 disguise roll.",
+      "effect": "Impersonate someone nearby; Mind👁️ disguise roll.",
       "created_at": "2026-08-13T21:26:29.343213+00:00",
       "genres": [
         "Medieval",
@@ -3236,7 +3236,7 @@
       "name": "Dungeoneer’s Sense",
       "usage": "1-Enc",
       "action": "P",
-      "effect": "GM reveals 1 hidden feature when you succeed Mind👁 perception.",
+      "effect": "GM reveals 1 hidden feature when you succeed Mind👁️ perception.",
       "created_at": "2026-08-13T21:26:29.343213+00:00",
       "genres": [
         "Medieval",
@@ -3256,7 +3256,7 @@
       "name": "Dusk Howl",
       "usage": "1-Enc",
       "action": "A",
-      "effect": "Foes in 2sq Mind👁 or flee 1 rnd.",
+      "effect": "Foes in 2sq Mind👁️ or flee 1 rnd.",
       "created_at": "2026-08-13T21:26:29.343213+00:00",
       "genres": [
         "Medieval",
@@ -3476,7 +3476,7 @@
       "name": "Eclipse Veil",
       "usage": "1-⚡",
       "action": "F",
-      "effect": "4×4 AoE. Within veil: caster's Stealth has Advantage; if caster wounds target, Intimidation(👁)^👁 or succumb to fear.",
+      "effect": "4×4 AoE. Within veil: caster's Stealth has Advantage; if caster wounds target, Intimidation(👁️)^👁️ or succumb to fear.",
       "created_at": "2026-08-13T21:26:29.436163+00:00",
       "genres": [
         "Medieval",
@@ -3596,7 +3596,7 @@
       "name": "Elven Resilience",
       "usage": "1-Rnd",
       "action": "P",
-      "effect": "Immune to sleep/charm and most Mind👁 Saves✨ for 1 rnd.",
+      "effect": "Immune to sleep/charm and most Mind👁️ Saves✨ for 1 rnd.",
       "created_at": "2026-08-13T21:26:29.436163+00:00",
       "genres": [
         "Medieval",
@@ -3713,7 +3713,7 @@
       "name": "Entangling Shot",
       "usage": "2-Enc",
       "action": "A",
-      "effect": "If Atk 👁+1 hits -> no Dmg but all in short to Rng Medium (or 1 target) encased in self-repairing vine cage at Cage Str(💪)^💪.",
+      "effect": "If Atk 👁️+1 hits -> no Dmg but all in short to Rng Medium (or 1 target) encased in self-repairing vine cage at Cage Str(💪)^💪.",
       "created_at": "2026-08-13T21:26:29.436163+00:00",
       "genres": [
         "Medieval",
@@ -3833,7 +3833,7 @@
       "name": "Feral Rally",
       "usage": "1-⚡",
       "action": "AM",
-      "effect": "Allies in AoE: +=(👁-1) to melee Atk/Dmg; Foes in AoE: Intimidation(💪)^👁 or demoralized (flee or ½ Atk and ½ Dmg) as affliction.",
+      "effect": "Allies in AoE: +=(👁️-1) to melee Atk/Dmg; Foes in AoE: Intimidation(💪)^👁️ or demoralized (flee or ½ Atk and ½ Dmg) as affliction.",
       "created_at": "2026-08-13T21:26:29.436163+00:00",
       "genres": [
         "Medieval",
@@ -3993,7 +3993,7 @@
       "name": "Feytongue",
       "usage": "1-⚡",
       "action": "F",
-      "effect": "Mind👁 speak any language for encounter.",
+      "effect": "Mind👁️ speak any language for encounter.",
       "created_at": "2026-08-13T21:26:29.436163+00:00",
       "genres": [
         "Medieval",
@@ -4572,7 +4572,7 @@
       "name": "Gambler’s Luck🍀",
       "usage": "1-⚡",
       "action": "P",
-      "effect": "Reroll 1 failed Mind👁 or Motion🏃 roll.",
+      "effect": "Reroll 1 failed Mind👁️ or Motion🏃 roll.",
       "created_at": "2026-08-13T21:26:29.436163+00:00",
       "genres": [
         "Medieval",
@@ -4592,7 +4592,7 @@
       "name": "Gaze of Terror",
       "usage": "1-Enc",
       "action": "M",
-      "effect": "1 target: Intimidation(💪)^👁 or frozen with terror (auto-hit, but additional Save if wounded).",
+      "effect": "1 target: Intimidation(💪)^👁️ or frozen with terror (auto-hit, but additional Save if wounded).",
       "created_at": "2026-08-13T21:26:29.436163+00:00",
       "genres": [
         "Medieval",
@@ -4672,7 +4672,7 @@
       "name": "Glamour Assault",
       "usage": "1-Enc",
       "action": "M",
-      "effect": "Cast glamour; Mind👁 or target is Stunned 1 rnd.",
+      "effect": "Cast glamour; Mind👁️ or target is Stunned 1 rnd.",
       "created_at": "2026-08-13T21:26:29.436163+00:00",
       "genres": [
         "Medieval",
@@ -4712,7 +4712,7 @@
       "name": "Glamour Veil",
       "usage": "1-Enc",
       "action": "P",
-      "effect": "appear+more beautifu; Appropriate Mind👁+2.",
+      "effect": "appear+more beautifu; Appropriate Mind👁️+2.",
       "created_at": "2026-08-13T21:26:29.436163+00:00",
       "genres": [
         "Medieval",
@@ -4872,7 +4872,7 @@
       "name": "Grimy Grin",
       "usage": "1-Enc",
       "action": "P",
-      "effect": "Mind👁 Intimidate or target looses next Move Action.",
+      "effect": "Mind👁️ Intimidate or target looses next Move Action.",
       "created_at": "2026-08-13T21:26:29.436163+00:00",
       "genres": [
         "Medieval",
@@ -5011,7 +5011,7 @@
       "name": "Hallucination",
       "usage": "2-Enc",
       "action": "A",
-      "effect": "All minds in range see false images: Hallucination(✨)^Dif (WP+Adj). Persists while concentrating; targets may 👁+^Dif each rnd to break.",
+      "effect": "All minds in range see false images: Hallucination(✨)^Dif (WP+Adj). Persists while concentrating; targets may 👁️+^Dif each rnd to break.",
       "created_at": "2026-08-13T21:26:29.436163+00:00",
       "genres": [
         "Medieval",
@@ -5191,7 +5191,7 @@
       "name": "Hearing Boost",
       "usage": "1-Rnd",
       "action": "P",
-      "effect": "Enhance hearing: Awareness (hearing) at bonus =(👁-1) or similar. Cannot stack with Super Hearing.",
+      "effect": "Enhance hearing: Awareness (hearing) at bonus =(👁️-1) or similar. Cannot stack with Super Hearing.",
       "created_at": "2026-08-13T21:26:29.524874+00:00",
       "genres": [
         "Medieval",
@@ -5370,7 +5370,7 @@
       "name": "Holo-Cloak",
       "usage": "1-Enc",
       "action": "P",
-      "effect": "Invisible (visible light only); silenced. Stealth(🏃+1)^👁 only if opponent actively scanning or has hidden/special vision.",
+      "effect": "Invisible (visible light only); silenced. Stealth(🏃+1)^👁️ only if opponent actively scanning or has hidden/special vision.",
       "created_at": "2026-08-13T21:26:29.524874+00:00",
       "genres": [
         "SciFi"
@@ -5388,7 +5388,7 @@
       "name": "Holo-Clone",
       "usage": "1-⚡",
       "action": "F",
-      "effect": "Projects 1 AI holo-duplicate, Looks Real(👁)^👁 for those who try to determine real caster.",
+      "effect": "Projects 1 AI holo-duplicate, Looks Real(👁️)^👁️ for those who try to determine real caster.",
       "created_at": "2026-08-13T21:26:29.524874+00:00",
       "genres": [
         "SciFi"
@@ -5506,7 +5506,7 @@
       "name": "Hypnotic Performance",
       "usage": "1-Enc",
       "action": "A",
-      "effect": "Mind👁 or target is Stunned 1 rnd.",
+      "effect": "Mind👁️ or target is Stunned 1 rnd.",
       "created_at": "2026-08-13T21:26:29.524874+00:00",
       "genres": [
         "Medieval",
@@ -5566,7 +5566,7 @@
       "name": "Illusory Army",
       "usage": "1-⚡",
       "action": "A",
-      "effect": "Create 1d4 illusory allies; Mind👁 or foes believe for Encounter.",
+      "effect": "Create 1d4 illusory allies; Mind👁️ or foes believe for Encounter.",
       "created_at": "2026-08-13T21:26:29.524874+00:00",
       "genres": [
         "Medieval",
@@ -5586,7 +5586,7 @@
       "name": "Illusory Terrain",
       "usage": "1-Enc",
       "action": "A",
-      "effect": "Create illusory hazard/cover in 3x3sq; Mind👁 or foes believe.",
+      "effect": "Create illusory hazard/cover in 3x3sq; Mind👁️ or foes believe.",
       "created_at": "2026-08-13T21:26:29.524874+00:00",
       "genres": [
         "Medieval",
@@ -5785,7 +5785,7 @@
       "name": "Integrated Targeting",
       "usage": "3-Enc",
       "action": "A",
-      "effect": "Either Atk/Dmg 👁 all Marked targets with pistol; OR may mark d2+2 targets.",
+      "effect": "Either Atk/Dmg 👁️ all Marked targets with pistol; OR may mark d2+2 targets.",
       "created_at": "2026-08-13T21:26:29.524874+00:00",
       "genres": [
         "SciFi"
@@ -5803,7 +5803,7 @@
       "name": "Iron Bind",
       "usage": "1-Enc",
       "action": "A",
-      "effect": "Clamp foe in metal geAR+; Mind👁 or target is Immobilized.",
+      "effect": "Clamp foe in metal geAR+; Mind👁️ or target is Immobilized.",
       "created_at": "2026-08-13T21:26:29.524874+00:00",
       "genres": [
         "Medieval",
@@ -6043,7 +6043,7 @@
       "name": "Keen Sight",
       "usage": "1-Enc",
       "action": "P",
-      "effect": "Spot hidden foes or objects; Mind👁 with Advantage.",
+      "effect": "Spot hidden foes or objects; Mind👁️ with Advantage.",
       "created_at": "2026-08-13T21:26:29.524874+00:00",
       "genres": [
         "Medieval",
@@ -6663,7 +6663,7 @@
       "name": "Lullaby",
       "usage": "1-Enc",
       "action": "A",
-      "effect": "Mind👁 or target is Asleep.",
+      "effect": "Mind👁️ or target is Asleep.",
       "created_at": "2026-08-13T21:26:29.524874+00:00",
       "genres": [
         "Medieval",
@@ -6863,7 +6863,7 @@
       "name": "Magnetic Slide",
       "usage": "1-Rnd",
       "action": "AM",
-      "effect": "Mind👁slide up to 6 sq 1 foes held iron item or iron wearing foe.",
+      "effect": "Mind👁️slide up to 6 sq 1 foes held iron item or iron wearing foe.",
       "created_at": "2026-08-13T21:26:29.621594+00:00",
       "genres": [
         "Medieval",
@@ -6903,7 +6903,7 @@
       "name": "Mantis Targeter",
       "usage": "1-⚡",
       "action": "A",
-      "effect": "Flies MR(3); shot weapons only: shot weapon gains Atk/Dmg(👁+1)/(👁).",
+      "effect": "Flies MR(3); shot weapons only: shot weapon gains Atk/Dmg(👁️+1)/(👁️).",
       "created_at": "2026-08-13T21:26:29.621594+00:00",
       "genres": [
         "Modern",
@@ -6962,7 +6962,7 @@
       "name": "Master of Disguise",
       "usage": "1-⚡",
       "action": "A",
-      "effect": "appear+as another person; Mind👁 disguise roll.",
+      "effect": "appear+as another person; Mind👁️ disguise roll.",
       "created_at": "2026-08-13T21:26:29.621594+00:00",
       "genres": [
         "Medieval",
@@ -7062,7 +7062,7 @@
       "name": "Mesmerise",
       "usage": "2-Enc",
       "action": "AM",
-      "effect": "Persuasion(✨)^👁; or order \"Reveal Secrets\" (one question, one sentence). Target must see and hear caster.",
+      "effect": "Persuasion(✨)^👁️; or order \"Reveal Secrets\" (one question, one sentence). Target must see and hear caster.",
       "created_at": "2026-08-13T21:26:29.621594+00:00",
       "genres": [
         "Medieval",
@@ -7122,7 +7122,7 @@
       "name": "Mind Lance",
       "usage": "1-⚡",
       "action": "A",
-      "effect": "6sq rng; Save👁 or d👁 Wnds and Save👁 or target is Weakened for 1 rnd.",
+      "effect": "6sq rng; Save👁️ or d👁️ Wnds and Save👁️ or target is Weakened for 1 rnd.",
       "created_at": "2026-08-13T21:26:29.621594+00:00",
       "genres": [
         "Medieval",
@@ -7182,7 +7182,7 @@
       "name": "Mind Twist",
       "usage": "1-Enc",
       "action": "A",
-      "effect": "Mind👁 or target attacks ally this rnd.",
+      "effect": "Mind👁️ or target attacks ally this rnd.",
       "created_at": "2026-08-13T21:26:29.621594+00:00",
       "genres": [
         "Medieval",
@@ -7222,7 +7222,7 @@
       "name": "Minor🍺 Illusion",
       "usage": "1-Enc",
       "action": "A",
-      "effect": "Create sound/image in 1sq; Mind👁 or target disbelieves.",
+      "effect": "Create sound/image in 1sq; Mind👁️ or target disbelieves.",
       "created_at": "2026-08-13T21:26:29.621594+00:00",
       "genres": [
         "Medieval",
@@ -7302,7 +7302,7 @@
       "name": "Mohawk Menace",
       "usage": "1-Rnd",
       "action": "A",
-      "effect": "Flash aggression; nearby foes Mind👁 or flee 1sq.",
+      "effect": "Flash aggression; nearby foes Mind👁️ or flee 1sq.",
       "created_at": "2026-08-13T21:26:29.621594+00:00",
       "genres": [
         "Medieval",
@@ -7522,7 +7522,7 @@
       "name": "Mystic Sight",
       "usage": "1-Enc",
       "action": "A",
-      "effect": "Spot hidden foes/traps; Mind👁 perception roll.",
+      "effect": "Spot hidden foes/traps; Mind👁️ perception roll.",
       "created_at": "2026-08-13T21:26:29.621594+00:00",
       "genres": [
         "Medieval",
@@ -7720,7 +7720,7 @@
       "name": "Neon Mirage",
       "usage": "2-Enc",
       "action": "A",
-      "effect": "Create illusory double; Mind👁.",
+      "effect": "Create illusory double; Mind👁️.",
       "created_at": "2026-08-13T21:26:29.621594+00:00",
       "genres": [
         "Medieval",
@@ -7900,7 +7900,7 @@
       "name": "Oops, Shouldn’t Have Said That…",
       "usage": "1-Enc",
       "action": "P",
-      "effect": "Insult foe; Mind👁 or target focuses Atk on you this rnd.",
+      "effect": "Insult foe; Mind👁️ or target focuses Atk on you this rnd.",
       "created_at": "2026-08-13T21:26:29.621594+00:00",
       "genres": [
         "Medieval",
@@ -7940,7 +7940,7 @@
       "name": "Orderly Bearing",
       "usage": "1-Enc",
       "action": "P",
-      "effect": "Social Persuasion👁 at Advantage with lawful authorities.",
+      "effect": "Social Persuasion👁️ at Advantage with lawful authorities.",
       "created_at": "2026-08-13T21:26:29.621594+00:00",
       "genres": [
         "Medieval",
@@ -8378,7 +8378,7 @@
       "name": "Piercing Presence",
       "usage": "1-Enc",
       "action": "P",
-      "effect": "Intimidate foe; Mind👁 or target suffers Atk-2 for 1 rnd.",
+      "effect": "Intimidate foe; Mind👁️ or target suffers Atk-2 for 1 rnd.",
       "created_at": "2026-08-13T21:26:29.621594+00:00",
       "genres": [
         "Medieval",
@@ -8398,7 +8398,7 @@
       "name": "Piercing Retort",
       "usage": "1-Enc",
       "action": "F",
-      "effect": "On being insulted; immediate counter-Insult, Mind👁 or foe Atk-2.",
+      "effect": "On being insulted; immediate counter-Insult, Mind👁️ or foe Atk-2.",
       "created_at": "2026-08-13T21:26:29.72558+00:00",
       "genres": [
         "Medieval",
@@ -8438,7 +8438,7 @@
       "name": "Pitfall",
       "usage": "2-Enc",
       "action": "AM",
-      "effect": "1×short distance pit, Rng Medium deep. Stealth(✨) hidden; Trap(✨)^👁 or fall in; escape Climb(🏃)^🏃.",
+      "effect": "1×short distance pit, Rng Medium deep. Stealth(✨) hidden; Trap(✨)^👁️ or fall in; escape Climb(🏃)^🏃.",
       "created_at": "2026-08-13T21:26:29.72558+00:00",
       "genres": [
         "Medieval",
@@ -8458,7 +8458,7 @@
       "name": "Pixie’s Laughter",
       "usage": "1-Enc",
       "action": "P",
-      "effect": "Mind👁 or target is Weakened 1 rnd.",
+      "effect": "Mind👁️ or target is Weakened 1 rnd.",
       "created_at": "2026-08-13T21:26:29.72558+00:00",
       "genres": [
         "Medieval",
@@ -8614,7 +8614,7 @@
       "name": "Portal Ward",
       "usage": "2-Enc",
       "action": "A",
-      "effect": "Glyph is max 1sq wide; without password triggers 1r Atk/Dmg ✨+2 explosion. Glyph is hidden Stealth(✨)^👁.",
+      "effect": "Glyph is max 1sq wide; without password triggers 1r Atk/Dmg ✨+2 explosion. Glyph is hidden Stealth(✨)^👁️.",
       "created_at": "2026-08-13T21:26:29.72558+00:00",
       "genres": [
         "Medieval",
@@ -8674,7 +8674,7 @@
       "name": "Precision Targeting",
       "usage": "1-⚡",
       "action": "A",
-      "effect": "Rnd 2+A; Atk/Dmg(👁+1)/(👁); Wnds = (new Wnds + all previous Wnds) from this ability on same target.",
+      "effect": "Rnd 2+A; Atk/Dmg(👁️+1)/(👁️); Wnds = (new Wnds + all previous Wnds) from this ability on same target.",
       "created_at": "2026-08-13T21:26:29.72558+00:00",
       "genres": [
         "SciFi"
@@ -8832,7 +8832,7 @@
       "name": "Psionic Blade",
       "usage": "1-Enc",
       "action": "A",
-      "effect": "On hit; Magic✨ force Dmg+1 and Mind👁 or target is Weakened for 1 rnd.",
+      "effect": "On hit; Magic✨ force Dmg+1 and Mind👁️ or target is Weakened for 1 rnd.",
       "created_at": "2026-08-13T21:26:29.72558+00:00",
       "genres": [
         "Medieval",
@@ -8892,7 +8892,7 @@
       "name": "Psst! Look at that Weird Cat!",
       "usage": "1-Rnd",
       "action": "P",
-      "effect": "Summon Jim; foes in 2sq distracted👁 this rnd, then Jim flees.",
+      "effect": "Summon Jim; foes in 2sq distracted👁️ this rnd, then Jim flees.",
       "created_at": "2026-08-13T21:26:29.72558+00:00",
       "genres": [
         "Medieval",
@@ -8972,7 +8972,7 @@
       "name": "Puzzle Insight",
       "usage": "1-Enc",
       "action": "P",
-      "effect": "Mind👁+2 to solve/spot solution.",
+      "effect": "Mind👁️+2 to solve/spot solution.",
       "created_at": "2026-08-13T21:26:29.72558+00:00",
       "genres": [
         "Medieval",
@@ -9368,7 +9368,7 @@
       "name": "Rebel’s Awareness",
       "usage": "1-Enc",
       "action": "P",
-      "effect": "Spot hidden exits, ambushes, or unusual behavior👁.",
+      "effect": "Spot hidden exits, ambushes, or unusual behavior👁️.",
       "created_at": "2026-08-13T21:26:29.72558+00:00",
       "genres": [
         "Medieval",
@@ -9668,7 +9668,7 @@
       "name": "Riot Instigator",
       "usage": "1-Enc",
       "action": "P",
-      "effect": "Mind👁 vs foes or allies in 3sq Advantaged on Atk for 1 rnd.",
+      "effect": "Mind👁️ vs foes or allies in 3sq Advantaged on Atk for 1 rnd.",
       "created_at": "2026-08-13T21:26:29.72558+00:00",
       "genres": [
         "Medieval",
@@ -9888,7 +9888,7 @@
       "name": "Sabotage",
       "usage": "1-Enc",
       "action": "P",
-      "effect": "Disable 1 object (lock, rope, or gear); Mind👁.",
+      "effect": "Disable 1 object (lock, rope, or gear); Mind👁️.",
       "created_at": "2026-08-13T21:26:29.72558+00:00",
       "genres": [
         "Medieval",
@@ -10128,7 +10128,7 @@
       "name": "Sever Thought",
       "usage": "1-⚡",
       "action": "A",
-      "effect": "On hit; Mind👁 or target cannot use Magic✨ Powers for 1 rnd.",
+      "effect": "On hit; Mind👁️ or target cannot use Magic✨ Powers for 1 rnd.",
       "created_at": "2026-08-13T21:26:29.821451+00:00",
       "genres": [
         "Medieval",
@@ -10248,7 +10248,7 @@
       "name": "Shadow Mantle",
       "usage": "2-Enc",
       "action": "P",
-      "effect": "One opponent: Sk(👁)^🫀 or must choose a different target than you.",
+      "effect": "One opponent: Sk(👁️)^🫀 or must choose a different target than you.",
       "created_at": "2026-08-13T21:26:29.821451+00:00",
       "genres": [
         "Medieval",
@@ -10328,7 +10328,7 @@
       "name": "Shadow Trance",
       "usage": "1-Rnd",
       "action": "P",
-      "effect": "Immune to sleep/charm and most Mind👁 Saves✨ for 1 rnd.",
+      "effect": "Immune to sleep/charm and most Mind👁️ Saves✨ for 1 rnd.",
       "created_at": "2026-08-13T21:26:29.821451+00:00",
       "genres": [
         "Medieval",
@@ -10866,7 +10866,7 @@
       "name": "Slip Through",
       "usage": "1-Enc",
       "action": "M",
-      "effect": "Move through 1 enemy’s square; that foe Mind👁 or cannot Opp Atk you this move.",
+      "effect": "Move through 1 enemy’s square; that foe Mind👁️ or cannot Opp Atk you this move.",
       "created_at": "2026-08-13T21:26:29.821451+00:00",
       "genres": [
         "Medieval",
@@ -11141,7 +11141,7 @@
       "name": "Song of Serenity",
       "usage": "1-Enc",
       "action": "A",
-      "effect": "Mind👁 or target is Pacified.",
+      "effect": "Mind👁️ or target is Pacified.",
       "created_at": "2026-08-13T21:26:29.821451+00:00",
       "genres": [
         "Medieval",
@@ -11181,7 +11181,7 @@
       "name": "Sonic Pulse",
       "usage": "2-Enc",
       "action": "A",
-      "effect": "Blast of sound; Mind👁 or foes pushed back d4sq.",
+      "effect": "Blast of sound; Mind👁️ or foes pushed back d4sq.",
       "created_at": "2026-08-13T21:26:29.821451+00:00",
       "genres": [
         "Medieval",
@@ -11201,7 +11201,7 @@
       "name": "Sound Mimicry",
       "usage": "1-Enc",
       "action": "A",
-      "effect": "Mind👁 (GM set Dif) or target obeys false order.",
+      "effect": "Mind👁️ (GM set Dif) or target obeys false order.",
       "created_at": "2026-08-13T21:26:29.821451+00:00",
       "genres": [
         "Medieval",
@@ -11340,7 +11340,7 @@
       "name": "Spore Cloud",
       "usage": "2-Enc",
       "action": "A",
-      "effect": "tight radius. Sk(✨)^👁 or cannot see in/through; if inside and blind: Sk(👁)^👁 or all actions random direction.",
+      "effect": "tight radius. Sk(✨)^👁️ or cannot see in/through; if inside and blind: Sk(👁️)^👁️ or all actions random direction.",
       "created_at": "2026-08-13T21:26:29.821451+00:00",
       "genres": [
         "Medieval",
@@ -11720,7 +11720,7 @@
       "name": "Street Instincts",
       "usage": "1-Enc",
       "action": "F",
-      "effect": "Spot danger👁; Nish🚩+2 on next roll.",
+      "effect": "Spot danger👁️; Nish🚩+2 on next roll.",
       "created_at": "2026-08-13T21:26:29.912709+00:00",
       "genres": [
         "Medieval",
@@ -11760,7 +11760,7 @@
       "name": "Streetwise Eye",
       "usage": "1-Enc",
       "action": "F",
-      "effect": "Mind👁 checks to detect scams, danger, or cheats at Advantage.",
+      "effect": "Mind👁️ checks to detect scams, danger, or cheats at Advantage.",
       "created_at": "2026-08-13T21:26:29.912709+00:00",
       "genres": [
         "Medieval",
@@ -11820,7 +11820,7 @@
       "name": "Stun",
       "usage": "2-Enc",
       "action": "F",
-      "effect": "On body attack hit: Stun(👁)^🫀; success = target stunned (no actions) for rounds. Save each rnd.",
+      "effect": "On body attack hit: Stun(👁️)^🫀; success = target stunned (no actions) for rounds. Save each rnd.",
       "created_at": "2026-08-13T21:26:29.912709+00:00",
       "genres": [
         "Medieval",
@@ -11840,7 +11840,7 @@
       "name": "Stunning Palm",
       "usage": "1-Enc",
       "action": "A",
-      "effect": "On unarmed hit; Dmg-2 and Mind👁 or target is Stunned for 1 rnd.",
+      "effect": "On unarmed hit; Dmg-2 and Mind👁️ or target is Stunned for 1 rnd.",
       "created_at": "2026-08-13T21:26:29.912709+00:00",
       "genres": [
         "Medieval",
@@ -12098,7 +12098,7 @@
       "name": "Tactical Retreat",
       "usage": "2-Enc",
       "action": "M",
-      "effect": "Break melee Sk(👁)^👁; Stealth(🏃) at 10; decoy Stealth(👁)^👁, Dur 3. MR to escape.",
+      "effect": "Break melee Sk(👁️)^👁️; Stealth(🏃) at 10; decoy Stealth(👁️)^👁️, Dur 3. MR to escape.",
       "created_at": "2026-08-13T21:26:29.912709+00:00",
       "genres": [
         "SciFi"
@@ -12136,7 +12136,7 @@
       "name": "Target Lock",
       "usage": "1-⚡",
       "action": "M",
-      "effect": "Per rnd 1 drone: Atk 👁^Dod to target lock (no Dmg). Ranger tech auto-hits locked; allies gain Atk(+5).",
+      "effect": "Per rnd 1 drone: Atk 👁️^Dod to target lock (no Dmg). Ranger tech auto-hits locked; allies gain Atk(+5).",
       "created_at": "2026-08-13T21:26:29.912709+00:00",
       "genres": [
         "SciFi"
@@ -12154,7 +12154,7 @@
       "name": "Taunt of Stone",
       "usage": "2-Enc",
       "action": "A",
-      "effect": "Mind👁 or targets within 2sq must focus Atks on you.",
+      "effect": "Mind👁️ or targets within 2sq must focus Atks on you.",
       "created_at": "2026-08-13T21:26:29.912709+00:00",
       "genres": [
         "Medieval",
@@ -12174,7 +12174,7 @@
       "name": "Taunting Shout",
       "usage": "1-Enc",
       "action": "P",
-      "effect": "Mind👁 or target focuses Atks on you.",
+      "effect": "Mind👁️ or target focuses Atks on you.",
       "created_at": "2026-08-13T21:26:29.912709+00:00",
       "genres": [
         "Medieval",
@@ -12194,7 +12194,7 @@
       "name": "Techno-Babble",
       "usage": "1-⚡",
       "action": "A",
-      "effect": "Convince with jargon; Mind👁 persuasion.",
+      "effect": "Convince with jargon; Mind👁️ persuasion.",
       "created_at": "2026-08-13T21:26:29.912709+00:00",
       "genres": [
         "Medieval",
@@ -12214,7 +12214,7 @@
       "name": "Telekinetic Crush",
       "usage": "1-Enc",
       "action": "A",
-      "effect": "Mind👁 for d👁Dmg and Save👁 or target is Immobilized for 1 rnd.",
+      "effect": "Mind👁️ for d👁️Dmg and Save👁️ or target is Immobilized for 1 rnd.",
       "created_at": "2026-08-13T21:26:29.912709+00:00",
       "genres": [
         "Medieval",
@@ -12314,7 +12314,7 @@
       "name": "Terrain Mastery",
       "usage": "1-Enc",
       "action": "P",
-      "effect": "+2 to Motion🏃 & Mind👁 rolls in familiar terrain (forest, desert, etc.).",
+      "effect": "+2 to Motion🏃 & Mind👁️ rolls in familiar terrain (forest, desert, etc.).",
       "created_at": "2026-08-13T21:26:29.912709+00:00",
       "genres": [
         "Medieval",
@@ -12412,7 +12412,7 @@
       "name": "Thoughtweave",
       "usage": "2-Enc",
       "action": "A",
-      "effect": "1 target: subtle thought/emotion influence; Persuasion(👁)^👁.",
+      "effect": "1 target: subtle thought/emotion influence; Persuasion(👁️)^👁️.",
       "created_at": "2026-08-13T21:26:29.912709+00:00",
       "genres": [
         "Medieval",
@@ -12452,7 +12452,7 @@
       "name": "Thunder Barge Pilot",
       "usage": "1-Enc",
       "action": "M",
-      "effect": "If operating Warmachine; Mind👁 to grant allies Nish🚩+2 this rnd.",
+      "effect": "If operating Warmachine; Mind👁️ to grant allies Nish🚩+2 this rnd.",
       "created_at": "2026-08-13T21:26:29.912709+00:00",
       "genres": [
         "Medieval",
@@ -12732,7 +12732,7 @@
       "name": "Trick of Light",
       "usage": "1-Enc",
       "action": "P",
-      "effect": "Disguise as another small creature; Mind👁vs observers that have a reason to disbelieve.",
+      "effect": "Disguise as another small creature; Mind👁️vs observers that have a reason to disbelieve.",
       "created_at": "2026-08-13T21:26:29.912709+00:00",
       "genres": [
         "Medieval",
@@ -12792,7 +12792,7 @@
       "name": "Trickster’s Gambit",
       "usage": "1-Enc",
       "action": "P",
-      "effect": "Reroll 1 failed Mind👁 or Magic✨ roll.",
+      "effect": "Reroll 1 failed Mind👁️ or Magic✨ roll.",
       "created_at": "2026-08-13T21:26:29.912709+00:00",
       "genres": [
         "Medieval",
@@ -13172,7 +13172,7 @@
       "name": "Veil of Beauty",
       "usage": "1-Enc",
       "action": "A",
-      "effect": "Mind👁 or target is Charmed 1 rnd (does suggestive bidding if not extreme).",
+      "effect": "Mind👁️ or target is Charmed 1 rnd (does suggestive bidding if not extreme).",
       "created_at": "2026-08-13T21:26:29.912709+00:00",
       "genres": [
         "Medieval",
@@ -13192,7 +13192,7 @@
       "name": "Veiled Mind",
       "usage": "1-⚡",
       "action": "F",
-      "effect": "After you succeed a Resist✨ vs a mental effect; Make Mind👁 to Weaken the Attacker for 1 rnd.",
+      "effect": "After you succeed a Resist✨ vs a mental effect; Make Mind👁️ to Weaken the Attacker for 1 rnd.",
       "created_at": "2026-08-13T21:26:29.912709+00:00",
       "genres": [
         "Medieval",
@@ -13312,7 +13312,7 @@
       "name": "Vision Boost",
       "usage": "2-Enc",
       "action": "P",
-      "effect": "Improve optic efficiency: telescopic sight; 👁+ for vision improved.",
+      "effect": "Improve optic efficiency: telescopic sight; 👁️+ for vision improved.",
       "created_at": "2026-08-13T21:26:29.990524+00:00",
       "genres": [
         "Medieval",
@@ -13572,7 +13572,7 @@
       "name": "WarCry",
       "usage": "1-⚡",
       "action": "A",
-      "effect": "Mind👁 or foes hesitate/flee 1 rnd.",
+      "effect": "Mind👁️ or foes hesitate/flee 1 rnd.",
       "created_at": "2026-08-13T21:26:29.990524+00:00",
       "genres": [
         "Medieval",
@@ -13920,7 +13920,7 @@
       "category": "✨ Greater",
       "action": "P",
       "usage": "1-Enc",
-      "effect": "Mind👁 Persuasion+2.",
+      "effect": "Mind👁️ Persuasion+2.",
       "notes": "[Armor] of Serenity is engineered with high-durability composite materials for reliable field operations.",
       "pic": null,
       "created_at": "2026-08-13T21:26:28.340218+00:00",
@@ -14051,7 +14051,7 @@
       "category": "🪄 Lesser",
       "action": "P",
       "usage": "1-Enc",
-      "effect": "Mind👁 Perception+2 for Encounter.",
+      "effect": "Mind👁️ Perception+2 for Encounter.",
       "notes": "Amulet of Insight is engineered with high-durability composite materials for reliable field operations.",
       "pic": null,
       "created_at": "2026-08-13T21:26:28.340218+00:00",
@@ -14070,7 +14070,7 @@
       "category": "✨ Greater",
       "action": "F",
       "usage": "1-Enc",
-      "effect": "After you succeed a Resist✨ from an foe; Magic✨ Atk & Dmg vs foe and Mind👁 to Weaken for 1 rnd.",
+      "effect": "After you succeed a Resist✨ from an foe; Magic✨ Atk & Dmg vs foe and Mind👁️ to Weaken for 1 rnd.",
       "notes": "Amulet of Psionic Reflection is engineered with high-durability composite materials for reliable field operations.",
       "pic": null,
       "created_at": "2026-08-13T21:26:28.340218+00:00",
@@ -14652,7 +14652,7 @@
       "category": "🍺 Minor",
       "action": "F",
       "usage": "1-⚡",
-      "effect": "Mind👁 and Magic✨ rolls with Advantage 1 rnd.",
+      "effect": "Mind👁️ and Magic✨ rolls with Advantage 1 rnd.",
       "notes": "Charm Bands is engineered with high-durability composite materials for reliable field operations.",
       "pic": null,
       "created_at": "2026-08-13T21:26:28.340218+00:00",
@@ -14766,7 +14766,7 @@
       "category": "🍺 Minor",
       "action": "F",
       "usage": "1-Enc",
-      "effect": "Advantage on Mind👁 Sleight of Hand checks.",
+      "effect": "Advantage on Mind👁️ Sleight of Hand checks.",
       "notes": "Circus Cloak - Hidden Pockets is engineered with high-durability composite materials for reliable field operations.",
       "pic": null,
       "created_at": "2026-08-13T21:26:28.340218+00:00",
@@ -15087,7 +15087,7 @@
       "category": "🍺 Minor",
       "action": "P",
       "usage": "1-Enc",
-      "effect": "👁+ or skill to penetrate substance for viewing; requires existing cyber eye.",
+      "effect": "👁️+ or skill to penetrate substance for viewing; requires existing cyber eye.",
       "notes": "The Cyber X-Ray Eye is an advanced cybernetic implant designed to enhance an existing cyber eye, providing the user with the ability to see through various layers of material. This implant allows the user to penetrate surfaces, revealing hidden objects, spaces or things behind them. The depth of vision depends on the material’s density, with greater clarity through lighter substances such as cloth or thin walls, and more resistance when attempting to see through denser materials like stone or metal. This implant is particularly valuable for reconnaissance, security, and tactical operations, offering the wearer a significant advantage in environments where unseen obstacles or threats may lurk.\nVisually, the Cyber X-Ray Eye is a marvel of sleek, futuristic design, seamlessly integrated with the user’s existing cyber eye. When activated, the eye emits a faint, bluish glow that intensifies as the X-ray vision engages, casting a subtle light across the surface being scanned. The surrounding area may appear slightly distorted, as if the air itself is rippling in response to the eye’s penetrating gaze. As the user focuses, the glow sharpens into a precise beam, illuminating hidden details beneath layers of material. The experience of using the Cyber X-Ray Eye is akin to peeling back the layers of reality, revealing a hidden world that exists just out of sight. The sensation is both thrilling and empowering, giving the user a sense of omniscience as they uncover secrets that would otherwise remain concealed.\nUnlock the unseen with the Cyber X-Ray Eye, and gain the power to see beyond the surface, revealing hidden truths and gaining the ultimate advantage in any situation.\nEffects\n\\-- Cyber implant requiring existing cyber eye.\n\\-- X-ray vision with Sk() open-ended roll based on material density",
       "pic": "https://drive.google.com/file/d/1SMxm8DUCjTtGuMojq8BmEg283D6R0Ga-/view?usp=drive_link",
       "created_at": "2026-08-13T21:26:28.340218+00:00",
@@ -15227,7 +15227,7 @@
       "category": "🪄 Lesser",
       "action": "A",
       "usage": "1-Enc",
-      "effect": "Atk/Dmg(👁)/(✨+1) once hit, target is auto hit (justDmg); Wounds do nothing untill >🫀 then target implodes.",
+      "effect": "Atk/Dmg(👁️)/(✨+1) once hit, target is auto hit (justDmg); Wounds do nothing untill >🫀 then target implodes.",
       "notes": "The Decohesion Gun is a specialized energy weapon designed for precise and relentless elimination of high-armor, high-vitality targets. Unlike standard blaster carbines, the Decohesion Gun operates by firing a continuous stream of energy at a single target, requiring the wielder to maintain aim until the accumulated damage surpasses the target’s armor and vitality. Once this threshold is breached, the target undergoes a catastrophic mini implosion, effectively disintegrating in a gruesome spectacle reminiscent of a bug splatting against a windshield. This weapon is particularly effective against heavily armored foes, allowing for a tactical approach that gradually wears down even the toughest defenses. However, if the target manages to evade the beam or move out of range, the entire process must be restarted.\nThe Decohesion Gun features a distinctive design, with its most notable characteristic being the small radio dish-like tip at the end of the barrel. This dish gives the weapon a deceptively benign appearance, almost resembling a scanning or listening device rather than a deadly weapon. The gun’s body is sleek and angular, with a matte black finish that absorbs light, adding to its stealthy nature. When fired, the Decohesion Gun emits a high-pitched whine, accompanied by a faint, jittery sensation that can be felt by the user and the target alike. Despite these minor sensory cues, the target remains largely unaware of the impending danger until the moment of implosion, making the Decohesion Gun a preferred tool for stealthy assassinations or tactical eliminations in the heat of battle.\nUnleash the Decohesion Gun, the ultimate weapon for those who seek to dismantle their enemies with precision and subtlety, leaving nothing but a splattered memory in their wake.\nEffects\n\\-- A carbine that cannot multi-atk, but continuous attack on 1 target until total Dmg \\> target's AR+Vit.\n\\-- Causes mini implosion, \"splatting\" the target.\n\\-- Once hit, auto-hits (if target in Rng and LoS) just Dmg() each Rnd\n\\-- Target suffers no discomfort until implosion.\n\\-- Useful as stealth weapon.",
       "pic": "https://drive.google.com/file/d/1vu62M7lZ7i4qHUPBZMPYEpUiu60bWjSj/view?usp=drive_link",
       "created_at": "2026-08-13T21:26:28.340218+00:00",
@@ -15378,7 +15378,7 @@
       "category": "🪄 Lesser",
       "action": "P",
       "usage": "1-⚡",
-      "effect": "4\" force shield: 👁+^environmental/Explosions (poison, radiation, etc.); penalty MR(-2) & Agi(*0.5).",
+      "effect": "4\" force shield: 👁️+^environmental/Explosions (poison, radiation, etc.); penalty MR(-2) & Agi(*0.5).",
       "notes": "The EnviroShield is a highly advanced belt pack that, when activated, envelops the wearer in a four-inch thick, skin-tight force shield. This protective barrier is designed to block nearly all environmental hazards, including poison, toxins, diseases, radiation, and even the vacuum of space, providing the wearer with unparalleled protection in the most hostile environments. The shield also automatically seals over any bleeding wounds, stopping the bleeding with remarkable efficiency. Additionally, the EnviroShield comes equipped with a canister of compressed air. The canister automatically refills when exposed to breathable air, ensuring that the shield is always ready for the next use. However, while the shield is effective against environmental threats and small physical elements like sand and water, it does not protect against larger physical impacts or most energy weapons, making it less suitable for combat scenarios.\nVisually, the EnviroShield is an unassuming belt pack that belies its extraordinary capabilities. The pack is sleek and compact, with a durable casing that houses the shield's advanced technology. When activated, the shield materializes instantly, creating a translucent, slightly shimmering barrier that clings closely to the wearer’s body, giving them a slightly ethereal appearance. The shield’s surface ripples gently with each movement, a visual cue that it is actively protecting the wearer from environmental dangers. The air inside remains fresh and breathable, with the canister quietly regulating airflow. The EnviroShield’s design is both functional and elegant, offering a seamless blend of form and function that ensures the wearer can operate in extreme conditions without hindrance.\nEquip yourself with the EnviroShield and step fearlessly into the harshest environments, knowing that no matter the threat, you are wrapped in a cocoon of impenetrable protection.\nEffects\n\\-- Belt pack creates 4\" thick, skin-tight force shield.\n\\-- Auto seals bleeding\n\\-- Stops extreme temps (-200°F to 200°F)\n\\-- Vulnerable (no effect) vs typical physical attacks and energy weapons.\n\\-- While Active; MR() & Agi() penalties",
       "pic": "https://drive.google.com/file/d/1vUTa9z0wsS7T3wtLuLa7E2GYYh8P0QoA/view?usp=drive_link",
       "created_at": "2026-08-13T21:26:28.340218+00:00",
@@ -15454,7 +15454,7 @@
       "category": "✨ Greater",
       "action": "P",
       "usage": "1-⚡",
-      "effect": "Mind👁 Social+2 for encounter.",
+      "effect": "Mind👁️ Social+2 for encounter.",
       "notes": "Fine Slik Shirt is engineered with high-durability composite materials for reliable field operations.",
       "pic": null,
       "created_at": "2026-08-13T21:26:28.340218+00:00",
@@ -16473,7 +16473,7 @@
       "category": "✨ Greater",
       "action": "P",
       "usage": "1-Enc",
-      "effect": "Mind👁+2 for 1 rnd.",
+      "effect": "Mind👁️+2 for 1 rnd.",
       "notes": "Mask of Whispers is engineered with high-durability composite materials for reliable field operations.",
       "pic": null,
       "created_at": "2026-08-13T21:26:28.441265+00:00",
@@ -16490,7 +16490,7 @@
       "category": "✨ Greater",
       "action": "P",
       "usage": "1-⚡",
-      "effect": "Deploy 10' Mech; MR(8), Blaster Rifle Atk 👁Dmg 👁+1, Power claw Atk/Dmg(✨-1)/(✨+2), Dod/AR(✨-1)/(✨+1) Vit =(✨+1).",
+      "effect": "Deploy 10' Mech; MR(8), Blaster Rifle Atk 👁️Dmg 👁️+1, Power claw Atk/Dmg(✨-1)/(✨+2), Dod/AR(✨-1)/(✨+1) Vit =(✨+1).",
       "notes": "The Mech Core is a deceptively small but incredibly powerful piece of technology designed to transform the battlefield in an instant. Resembling a softball-sized sphere, this device is unassuming at first glance, its surface smooth and metallic with subtle patterns etched across it. However, when dropped or thrown, the Mech Core activates upon impact, triggering a dimensional transporter that rapidly expands the sphere into a towering 10-foot-tall mechanized warrior. This imposing Mech is equipped with a dual laser rifle on one arm, capable of delivering precise, high-powered energy blasts, while the other arm features a large mechanical claw, perfect for gripping, crushing, or engaging in close-quarters melee combat. The Mech’s formidable presence and weaponry make it a devastating asset in any conflict, able to turn the tide of battle with its sheer power and versatility.\nVisually, the transformation from sphere to Mech is a sight to behold. The Mech Core starts as a small, innocuous object, but the moment it makes contact with the ground, it rapidly unfolds and expands, its surface splitting and reconfiguring as the towering Mech takes shape. The transition is smooth yet forceful, with the Mech emerging fully formed in a matter of seconds. The dual laser rifle gleams with a faint glow, while the mechanical claw flexes menacingly, ready for action. The Mech’s design is both functional and intimidating, with a robust frame that suggests durability and a sleek, modern aesthetic that highlights its advanced technology. When activated, the Mech stands as a silent character, its sensors scanning the environment as it prepares to engage any threats with deadly efficiency.\nDeploy the Mech Core and watch as your enemies cower before the might of your personal mechanized titan, ready to crush all who stand in your way with unmatched power and precision.\nEffects\n\\-- Softball-sized sphere; activates on impact.\n\\-- Transforms into a 10' tall Mech.\n\\-- One arm: dual laser rifle, other: mechanical claw.\n\\-- If Destroyed, will return to ball, but must be repaired before next use, if only damaged, will auto-repair in 1 day",
       "pic": "https://drive.google.com/file/d/1ka4woh6h4IWHkhA3TqZ2a3uJkn8HUvHq/view?usp=drive_link",
       "created_at": "2026-08-13T21:26:28.441265+00:00",
@@ -16528,7 +16528,7 @@
       "category": "🍺 Minor",
       "action": "P",
       "usage": "1",
-      "effect": "On use; Gain Advantage on 1 Mind👁 roll this rnd.",
+      "effect": "On use; Gain Advantage on 1 Mind👁️ roll this rnd.",
       "notes": "Mindstone Charm is engineered with high-durability composite materials for reliable field operations.",
       "pic": null,
       "created_at": "2026-08-13T21:26:28.441265+00:00",
@@ -16623,7 +16623,7 @@
       "category": "✨ Greater",
       "action": "P",
       "usage": "2-Enc",
-      "effect": "Mind👁 Intimidation+2 for 1 rnd.",
+      "effect": "Mind👁️ Intimidation+2 for 1 rnd.",
       "notes": "Mohawk Helm is engineered with high-durability composite materials for reliable field operations.",
       "pic": null,
       "created_at": "2026-08-13T21:26:28.441265+00:00",
@@ -16642,7 +16642,7 @@
       "category": "🪄 Lesser",
       "action": "P",
       "usage": "3-Enc",
-      "effect": "Cone 90° Rng Medium long; 👁+^🫀 or blind for 1 Rnd.",
+      "effect": "Cone 90° Rng Medium long; 👁️+^🫀 or blind for 1 Rnd.",
       "notes": "The Moon Crown is an exquisite and powerful artifact, designed to radiate a stunning, heaven-like light that can illuminate vast distances. This tiara, delicate yet imposing, emits a light so intense that it resembles the brilliance of a sunrise, casting a 90-degree cone of illumination that stretches for miles in front of the wearer. When activated, the light is not just for show; in combat, it becomes a potent tool of disorientation. Any being that perceives the light within the visible spectrum must succeed in resisting its blinding effect, or else be rendered temporarily sightless for the remainder of the round. This effect covers a large area of effect, making the Moon Crown an ideal choice for disrupting enemy formations and gaining a tactical advantage. However, the blinding effect only lasts for one round, as the affected beings' eyes quickly adjust to the intense brightness.\nThe Moon Crown is a beautifully crafted piece of jewelry, its design reminiscent of ancient regal tiaras, with a silver-like sheen that reflects light even in its dormant state. When activated, the crown glows magnificently, with the light emanating from it in a powerful, radiant beam that seems almost divine. The light is both awe-inspiring and formidable, creating a sharp contrast between the wearer and the surrounding darkness. The tiara itself is lightweight and elegant, fitting comfortably on the wearer’s head, yet its presence commands attention. The glow from the Moon Crown not only lights up the environment but also creates an ethereal aura around the wearer, making them appear almost otherworldly, bathed in celestial light.\nHarness the brilliance of the Moon Crown and blind your enemies with the light of a new dawn, turning the tide of battle in your favor with a simple command.\nEffects\n\\-- Crown emits bright light, 90° cone, visible for miles.\n\\-- Non-blinding light lasts 4 hrs if still, 10 mins if moving, 10 Rnds in combat.",
       "pic": "https://drive.google.com/file/d/1RN12ANPjwy7rBCn2uExxbZPDBeW5JFGq/view?usp=drive_link",
       "created_at": "2026-08-13T21:26:28.441265+00:00",
@@ -16678,7 +16678,7 @@
       "category": "🪄 Lesser",
       "action": "P",
       "usage": "3-Enc",
-      "effect": "Sk() Image Scanner until cumulative ^100; max 5 stored images; when active Disguise(👁+3)^Awa to fool onlookers.",
+      "effect": "Sk() Image Scanner until cumulative ^100; max 5 stored images; when active Disguise(👁️+3)^Awa to fool onlookers.",
       "notes": "The MorphNet is an advanced and highly coveted piece of equipment, far surpassing the capabilities of standard disguise tools like the ImageWrap. This device, resembling a fishnet muscle shirt, is designed to stretch and conform to the body of nearly any user, from a human to a massive character. However, the true power of the MorphNet lies in its ability to molecularly transform the wearer’s outward appearance to perfectly mimic another being. By deploying a small, drone-like probe housed in a case attached to the shirt, the MorphNet can perform a thorough scan of a nearby target, capturing every detail of their physical form. Once the scan is complete, the MorphNet stretches over the wearer’s body like a hair net, seamlessly altering their appearance down to the finest details—growing wings, changing eye color, and even modifying vocal cords to match the target's tone and pitch. While the transformation is primarily skin-deep, it is incredibly convincing, allowing the user to pass as their target with near-perfect accuracy.\nVisually, the MorphNet appears unassuming, resembling a simple, flexible fishnet shirt with a small, discreet case attached near the bottom. The case, when opened, releases the probe, a sleek, almost insect-like drone that silently glides through the air to perform its scan. The probe's movements are graceful and precise, circling the target in a series of 360-degree loops as it collects the necessary data. Once the transformation is activated, the MorphNet shimmers briefly as it stretches over the wearer’s body, the mesh-like structure seeming to dissolve as the wearer’s form begins to shift and change. The transformation is smooth and fluid, with each alteration appearing completely natural. The MorphNet’s technology is so advanced that the final result is indistinguishable from the real thing, making it a masterful tool for deception, infiltration, or escape.\nDisguise yourself with unmatched precision using the MorphNet, where every detail of your target's appearance becomes your own, turning you into the perfect impostor in any situation.\nEffects\n\\-- Fishnet muscle shirt; stretches to fit nearly anyone and molecularly transforms user’s outer body to mimic scanned target.\n\\-- Includes Scanner Rng(10)\n\\-- Modifies outward appearance (wings, fangs, etc.); changes are skin deep \\- \\-- maintains total mass.\n\\-- Vocal cords also modified; tone and pitch match target.",
       "pic": "https://drive.google.com/file/d/1vnxCPwogx_K2-oXJFjD6pxSKVKTh6ZmR/view?usp=drive_link",
       "created_at": "2026-08-13T21:26:28.441265+00:00",
@@ -16716,7 +16716,7 @@
       "category": "✨ Greater",
       "action": "F",
       "usage": "1-Enc",
-      "effect": "Mind👁 Intimidation+2.",
+      "effect": "Mind👁️ Intimidation+2.",
       "notes": "Neon [Weapon] is engineered with high-durability composite materials for reliable field operations.",
       "pic": null,
       "created_at": "2026-08-13T21:26:28.441265+00:00",
@@ -16754,7 +16754,7 @@
       "category": "🪄 Lesser",
       "action": "F",
       "usage": "1-⚡",
-      "effect": "Mind👁 Intimidation+2.",
+      "effect": "Mind👁️ Intimidation+2.",
       "notes": "Neon Sunglasses is engineered with high-durability composite materials for reliable field operations.",
       "pic": null,
       "created_at": "2026-08-13T21:26:28.441265+00:00",
@@ -17103,7 +17103,7 @@
       "category": "✨ Greater",
       "action": "P",
       "usage": "2-Enc",
-      "effect": "Teleport to stored location (max 3); max jump 100 miles; transport another at cost of 3 Uses; 👁+^Dif for complex jump.",
+      "effect": "Teleport to stored location (max 3); max jump 100 miles; transport another at cost of 3 Uses; 👁️+^Dif for complex jump.",
       "notes": "The Quantum Leap is an advanced belt designed to enable instantaneous transportation over vast distances, making it an invaluable tool for those who need to move quickly and discreetly. Worn around the user’s waist, this belt features a “lock” button that, when pressed, stores the exact position of the user’s feet in memory. The Quantum Leap can store up to three distinct locations, allowing the wearer to choose and erase any previous position as needed. When activated, the belt transports the user, along with any carried objects, up to 100 miles to the exact foot position previously locked, making it possible to reach distant locations such as a ship in low orbit. The technology is so precise that even locking onto a moving platform, like a vehicle or a strong person’s shoulders, allows for later teleportation back to that location—provided it remains within range.\nVisually, the Quantum Leap belt is sleek and unassuming, with a design that blends functionality and subtlety. The belt itself is made from a durable, flexible material, with the “lock” button integrated seamlessly into the buckle. A small display on the buckle indicates the number of stored locations and remaining uses, giving the user clear feedback at a glance. When activated, the belt emits a soft, shimmering light, and the user vanishes from their current location, only to reappear at the locked destination in the blink of an eye. The belt’s technology is highly advanced, utilizing neutrinos for teleportation, and can perform up to three transports before needing a recharge. However, the Quantum Leap cannot transport another Quantum Belt, and if enough neutrino charges are expended, the belt can be used to transport one additional individual.\nHarness the power of the Quantum Leap and move with unparalleled speed and precision, traveling across vast distances in an instant and arriving exactly where you need to be, no matter the obstacles in your way.\nEffects\n\\-- Belt locks foot position in memory as a potential future Quantum Leap(teleportation) destination\n\\-- Transports user and carried objects to stored location within range\n\\-- Cannot transport another Quantum Belt.",
       "pic": "https://drive.google.com/file/d/17RDFTJCr1hO3FOWgv-0PscfvfAZZfp5B/view?usp=drive_link",
       "created_at": "2026-08-13T21:26:28.441265+00:00",
@@ -17402,7 +17402,7 @@
       "category": "🪄 Lesser",
       "action": "P",
       "usage": "2-Enc",
-      "effect": "Scouts Stealth = Stealth(🏃)^Awa; MR(5) max short to Rng Medium from host; 👁+^Dif vs hidden/invisible life.",
+      "effect": "Scouts Stealth = Stealth(🏃)^Awa; MR(5) max short to Rng Medium from host; 👁️+^Dif vs hidden/invisible life.",
       "notes": "The Scout Swarm is a remarkable and discreet surveillance tool, consisting of a colony of approximately 1,000 tiny, translucent creatures, each only a few millimeters across. When released, the swarm spreads out to cover a wide area, scouting up to a maximum number of squares around the user. These tiny scouts are difficult to detect, their near-invisible bodies blending seamlessly with the environment. The swarm's primary function is to locate sentient life within their scouting range and telepathically report the location and rough size of the individual(s) back to the user. This makes them an invaluable asset for gathering intelligence or maintaining vigilance in potentially dangerous situations.\nVisually, the Scout Swarm is nearly imperceptible, appearing as a faint, shimmering cloud when viewed in large numbers. Individually, the scouts are translucent and almost ghost-like, their small size and pale color rendering them nearly invisible to the naked eye. When deployed, the swarm moves with eerie coordination, spreading out to cover the designated area swiftly and efficiently. The telepathic link they maintain with the user is subtle but reliable, providing a continuous stream of information about any sentient beings they encounter. However, the swarm is vulnerable to area-of-effect attacks and environmental hazards, and their presence is often unwelcome in more civilized settings due to their unsettling appearance and the potential for mass destruction.\nHarness the power of the Scout Swarm for unparalleled surveillance and detection, ensuring you are always aware of your surroundings, even in the most hidden and unexpected places—but be mindful of their fragility and the reactions they may provoke in more public spaces.\nEffects\n\\-- Colony of \\~1000 tiny, translucent scout insects; hard to detect Sk()^Awa.\n\\-- Reports sentient life location & size telepathically to user.\n\\-- Permanent vigil for Event if host moves ≤ MR3; lost if faster.\n\\-- Vulnerable to AOE and hazards; shunned in civil settings.\n\\-- If slain, remaining scouts procreate; new generation hatches in 2 days.\n\\-- Excellent for 360-degree surveillance; detects hidden/invisible life Sk()^.",
       "pic": "https://drive.google.com/file/d/1-Ryiv-yKbR_Fn7ZHnOAL8GT-R_ZD8ISt/view?usp=drive_link",
       "created_at": "2026-08-13T21:26:28.441265+00:00",
@@ -18027,7 +18027,7 @@
       "category": "🍺 Minor",
       "action": "P",
       "usage": "1-Enc",
-      "effect": "Skills(👁+2).",
+      "effect": "Skills(👁️+2).",
       "notes": "The Stim \\- Atr Buff is a specialized stimulant designed to temporarily enhance one of the user’s key attributes, providing a significant boost in performance for a short duration. Upon injection, the stim amplifies the chosen attribute—whether it be Agility, Arcane, Awareness, Fortitude, Mental, Social, Strength, Luck, or Vitality—by enhancing the user's skill checks related to that attribute. While the effects are potent, they are focused solely on improving skill rolls and do not influence other aspects of the attribute, such as increasing maximum vitality or movement rate. Multiple stims can be used simultaneously to boost different attributes, but no single attribute can benefit from more than one stim at a time.\nVisually, the Stim \\- Atr Buff comes in a sleek, compact injector, with a series of colored indicators corresponding to the different attributes it can enhance. The liquid inside the stim glows with a vibrant hue, changing color depending on the attribute selected by the user. The injector is designed for quick application, allowing the user to choose their desired attribute and administer the stim with ease, even in the midst of action. Upon injection, the user feels a surge of capability in the chosen area, whether it’s the sharp focus of Awareness, the enhanced reflexes of Agility, or the fortified resilience of Fortitude. The effects last just long enough to provide a critical advantage in challenging situations, before gradually fading as the stim's energy is expended.\nMaximize your potential with the Stim \\- Atr Buff, where the power to enhance your most crucial attributes is just a choice away, ensuring you’re always at your best when it matters most.\nEffects\n\\-- Stim with grants Atr(Bns) to chosen Atr from list.\n\\- Agility\n\\- Arcane\n\\- Awareness\n\\- Fortitude\n\\- Mental\n\\- Social\n\\- Strength\n\\- Luck\n\\- Vitality\n\\-- Multiple stims can be used simultaneously on separate attributes",
       "pic": "https://drive.google.com/file/d/1iqPvm0SIApZlBGz-YAjYtNALag-VD2NK/view?usp=drive_link",
       "created_at": "2026-08-13T21:26:28.538529+00:00",
@@ -18425,7 +18425,7 @@
       "category": "🍺 Minor",
       "action": "A",
       "usage": "1-⚡",
-      "effect": "Drink; Mind👁+1 for Encounter.",
+      "effect": "Drink; Mind👁️+1 for Encounter.",
       "notes": "Tonic of Clarity is engineered with high-durability composite materials for reliable field operations.",
       "pic": null,
       "created_at": "2026-08-13T21:26:28.538529+00:00",
@@ -18520,7 +18520,7 @@
       "category": "🍺 Minor",
       "action": "P",
       "usage": "1-Enc",
-      "effect": "Scatter glamor powder; 1sqR foes Mind👁 or Distracted 1 rnd.",
+      "effect": "Scatter glamor powder; 1sqR foes Mind👁️ or Distracted 1 rnd.",
       "notes": "Trickster’s Satchel is engineered with high-durability composite materials for reliable field operations.",
       "pic": null,
       "created_at": "2026-08-13T21:26:28.538529+00:00",
@@ -18784,7 +18784,7 @@
       "category": "✨ Greater",
       "action": "A",
       "usage": "1-Enc",
-      "effect": "On Atk; Whisper target positions at Mind👁 to detect Invisible monsters.",
+      "effect": "On Atk; Whisper target positions at Mind👁️ to detect Invisible monsters.",
       "notes": "Whisper [Weapon] is engineered with high-durability composite materials for reliable field operations.",
       "pic": null,
       "created_at": "2026-08-13T21:26:28.538529+00:00",
@@ -18822,7 +18822,7 @@
       "category": "🪄 Lesser",
       "action": "P",
       "usage": "3-Enc",
-      "effect": "When held: Domination(👁)^🫀; Perm Men(*2) while on person.",
+      "effect": "When held: Domination(👁️)^🫀; Perm Men(*2) while on person.",
       "notes": "The Willstone is a powerful artifact known for its ability to fortify the mental resilience of its bearer. When carried as part of one's gear, the Willstone enhances the user’s Mental attribute, making it an invaluable tool for resisting mental assaults and maintaining focus in the most trying circumstances. Additionally, when the stone is held in hand, it grants the user a formidable Domination skill, allowing them to exert their will over others with exceptional potency. This combination of passive and active abilities makes the Willstone a sought-after item for those who need to strengthen their mind and impose their will in critical moments.\nVisually, the Willstone is a smooth, polished gem with a deep, translucent hue that seems to pulse with an inner light. Its surface is cool to the touch, radiating a subtle energy that hints at the power contained within. When held, the stone’s glow intensifies slightly, as if responding to the user’s intent. The stone fits comfortably in the palm, its weight providing a reassuring presence. When carried, it can be easily integrated into gear, whether worn as an amulet, set into a piece of armor, or simply kept in a pocket, where it continuously bolsters the bearer’s mental fortitude.\nHarness the power of the Willstone to double your mental resilience and command those around you with unparalleled dominance, making it an essential tool for those who must remain unyielding in both mind and spirit.\nEffects\n\\-- Men(Bns) when carried\n\\-- Domination() when held.",
       "pic": "https://drive.google.com/file/d/12O_HXlXC7njxLgZTPDygpnV_20saKeDV/view?usp=drive_link",
       "created_at": "2026-08-13T21:26:28.538529+00:00",
@@ -18917,7 +18917,7 @@
       "category": "🍺 Minor",
       "action": "M",
       "usage": "1-Enc",
-      "effect": "Peer through; Mind👁+2 to spot hidden doors/traps/monsters.",
+      "effect": "Peer through; Mind👁️+2 to spot hidden doors/traps/monsters.",
       "notes": "Zircon Lens is engineered with high-durability composite materials for reliable field operations.",
       "pic": null,
       "created_at": "2026-08-13T21:26:28.538529+00:00",
@@ -19288,7 +19288,7 @@
       "category": "🍺 Minor",
       "action": "P",
       "usage": "2-Enc",
-      "effect": "Holographic disguise around user; ^👁. Stores 2 images.",
+      "effect": "Holographic disguise around user; ^👁️. Stores 2 images.",
       "cost": "10g",
       "notes": "Holographic disguise around user; ^👁️. Stores 2 images.",
       "pic": "https://drive.google.com/file/d/1Flx1qzrUgZ-S1Eu7kJYiEzjko3H1ijEs/view?usp=drive_link",
