@@ -1554,6 +1554,9 @@ On Monster Nish🚩, PCs who caused afflictions to that monster roll again (Skil
 
 If an Affliction triggers upon PC Wounds🩸, do note that Fatigue Wnds🩸 does NOT count as a trigger as the wounds🩸 are Fatigue only bruising/tiring no skin contact or piercing is implied. But if the PC’s AR roll did not stop all the actual DMG, then part of the Fatigue Wnds🩸did touch and pierce skin, so the affliction does apply.
 
+### 🎲 Universal Roll Required Doctrine
+In SupaFlex, rarely if ever does a target (friend, foe, or PC) simply have an unavoidable negative effect or damage applied passively without an active check or saving throw. Hostile effects, conditions, and area attacks should almost ALWAYS involve an active roll (e.g. `Save ✨ or Dmg ✨`, `Save 🫀 or Poisoned`, `Atk 👁️ Dmg d8`).
+
 ## 🍀 Luck
 
 #### 🍀 The Luck Twist (Rule of 1)
