@@ -6,141 +6,141 @@ Master indexed skill sets and atomic skills directory.
 
 | Skill | Stat | Discipline | Skill Sets | Notes |
 | --- | --- | --- | --- | --- |
-| **Acrobatics** | 🏃 | General | Agility, Athletics |  |
-| **Ambidexterity** | 🏃 | General | Spec Thief |  |
+| **Acrobatics** | 🏃 | Physical | Agility, Athletics |  |
+| **Ambidexterity** | 🏃 | Martial | Spec Thief |  |
 | **Ambush** | 🏃 | General | Goblin Skills, Orc Skills |  |
 | **Animal Handling** | 👁️ | General | Druidic, Husbandry |  |
 | **Appraise** | 👁️ | General | Mercantile |  |
 | **Artistry** | 👁️ | General | Elven Skills |  |
 | **Assess Stonework** | 👁️ | General | Dungeoneering |  |
-| **Astrogation** | 👁️ | General | Ship Office Astrogation, Ship Office Helm |  |
+| **Astrogation** | 👁️ | Tech | Ship Office Astrogation, Ship Office Helm |  |
 | **Awareness** | 👁️ | General | Awareness, Iron Lotus Discipline, Streetwise, Streetwise Survival |  |
 | **Backstab** | 💪 | General | Assassin |  |
-| **Balance** | 🏃 | General | Agility, Ship Office Engineering |  |
+| **Balance** | 🏃 | Tech | Agility, Ship Office Engineering |  |
 | **Blend Into Crowds** | 🏃 | General | Streetwise, Streetwise Survival, Urban Survival, Urban Survival🎓 |  |
 | **Brewing** | 👁️ | General | Dwarven Skills |  |
 | **Carpentry** | 💪 | General | Crafting |  |
-| **Catch Object** | 🏃 | General | Ship Office Engineering |  |
+| **Catch Object** | 🏃 | Tech | Ship Office Engineering |  |
 | **Charm** | 👁️ | General | Diplomacy |  |
-| **Climbing** | 🏃 | General | Agility, Athletics, Dungeoneering, Mountaineering, Scout, Spec Spy, Spec Survivalist, Spec Thief, Thievery, Thievery🎓 |  |
-| **Cloak** | 👁️ | General | Ship Office Tactical, Ship Office Tech |  |
-| **Common Sense** | 👁️ | General | Ship Office Medic, Ship Office Scientist |  |
+| **Climbing** | 🏃 | Physical | Agility, Athletics, Dungeoneering, Mountaineering, Scout, Spec Spy, Spec Survivalist, Spec Thief, Thievery, Thievery🎓 |  |
+| **Cloak** | 👁️ | Martial | Ship Office Tactical, Ship Office Tech |  |
+| **Common Sense** | 👁️ | Universal | Ship Office Medic, Ship Office Scientist |  |
 | **Community Lore** | 👁️ | General | Halfling Skills |  |
-| **Computer** | 👁️ | General | Ship Office Astrogation, Ship Office Communications, Ship Office Medic, Ship Office Programmer, Ship Office Scientist, Ship Office Tech, Spec Spy |  |
-| **Comtech** | 👁️ | General | Ship Office Captain, Ship Office Communications, Ship Office Programmer, Ship Office Tech |  |
+| **Computer** | 👁️ | Tech | Ship Office Astrogation, Ship Office Communications, Ship Office Medic, Ship Office Programmer, Ship Office Scientist, Ship Office Tech, Spec Spy |  |
+| **Comtech** | 👁️ | Universal | Ship Office Captain, Ship Office Communications, Ship Office Programmer, Ship Office Tech |  |
 | **Cooking** | 👁️ | General | Halfling Skills |  |
-| **Counter Security** | 👁️ | General | Ship Office Programmer, Ship Office Tech, Spec Spy, Spec Thief |  |
+| **Counter Security** | 👁️ | Tech | Ship Office Programmer, Ship Office Tech, Spec Spy, Spec Thief |  |
 | **Crafting** | 💪 | General | Orc Skills |  |
 | **Create Distractions** | 👁️ | General | Streetwise, Streetwise Survival |  |
 | **Cure Disease** | 👁️ | General | Healing Arts, Medicine |  |
 | **Cure Poison** | 👁️ | General | Healing Arts, Medicine |  |
-| **Damage Control** | 💪 | General | Ship Office Engineering, Ship Office Tactical, Vehicle Driver |  |
-| **Danger Sense** | 👁️ | General | Guard Skills, Mountaineering, Ship Office Tactical, Spec Spy, Spec Survivalist, Spec Thief |  |
+| **Damage Control** | 💪 | Tech | Ship Office Engineering, Ship Office Tactical, Vehicle Driver |  |
+| **Danger Sense** | 👁️ | Tech | Guard Skills, Mountaineering, Ship Office Tactical, Spec Spy, Spec Survivalist, Spec Thief |  |
 | **Detect Enchantments** | ✨ | General | Arcana |  |
-| **Detect Lie** | 👁️ | General | Awareness, Ship Office Communications, Spec Spy, Spec Thief |  |
+| **Detect Lie** | 👁️ | Tech | Awareness, Ship Office Communications, Spec Spy, Spec Thief |  |
 | **Detect Metal** | 👁️ | General | Magnetism |  |
-| **Detect/Remove Traps** | 🏃 | General | Dungeoneering, Goblin Skills, Scout, Thievery, Thievery🎓 |  |
+| **Detect/Remove Traps** | 🏃 | Covert | Dungeoneering, Goblin Skills, Scout, Thievery, Thievery🎓 |  |
 | **Direction Sense** | 👁️ | General | Dungeoneering |  |
-| **Disguise** | 👁️ | General | Rogue, Spec Spy, Spec Thief |  |
-| **Dominate** | 🫀 | General | Ship Office Captain |  |
-| **Drive Vehicle** | 🏃 | General | Ship Office Helm, Vehicle Driver |  |
-| **Empathy** | 👁️ | General | Mental Discipline, Ship Office Communications, Ship Office Medic |  |
-| **Enhanced Hearing** | 👁️ | General | Ship Office Communications, Spec Spy, Spec Thief |  |
-| **Enhanced Touch** | 👁️ | General | Ship Office Engineering, Ship Office Medic |  |
+| **Disguise** | 👁️ | Covert | Rogue, Spec Spy, Spec Thief |  |
+| **Dominate** | 🫀 | Universal | Ship Office Captain |  |
+| **Drive Vehicle** | 🏃 | Tech | Ship Office Helm, Vehicle Driver |  |
+| **Empathy** | 👁️ | Tech | Mental Discipline, Ship Office Communications, Ship Office Medic |  |
+| **Enhanced Hearing** | 👁️ | Tech | Ship Office Communications, Spec Spy, Spec Thief |  |
+| **Enhanced Touch** | 👁️ | Tech | Ship Office Engineering, Ship Office Medic |  |
 | **Escape Artist** | 🏃 | General | Agility |  |
 | **Evasion** | 🏃 | General | Streetwise, Streetwise Survival |  |
-| **Expert Runner** | 🏃 | General | Spec Spy, Spec Thief |  |
-| **Falling** | ✨ | General | Agility, Magnetism, Mountaineering, Spec Survivalist |  |
-| **Fast Talk** | 👁️ | General | Diplomacy, Mercantile, Ship Office Communications, Spec Spy, Spec Thief |  |
+| **Expert Runner** | 🏃 | Covert | Spec Spy, Spec Thief |  |
+| **Falling** | ✨ | Physical | Agility, Magnetism, Mountaineering, Spec Survivalist |  |
+| **Fast Talk** | 👁️ | Tech | Diplomacy, Mercantile, Ship Office Communications, Spec Spy, Spec Thief |  |
 | **Feats Of Strength** | 💪 | General | Athletics |  |
 | **Fishing** | 🏃 | General | Sailing, Scout |  |
 | **Fletching** | 💪 | General | Elven Skills |  |
 | **Forage** | 🏃 | General | Scout |  |
 | **Forest Lore** | 👁️ | General | Elven Skills |  |
 | **Gambling** | 👁️ | General | Mercantile, Rogue, Spec Thief |  |
-| **General Knowledge** | 👁️ | General | Ship Office Medic, Ship Office Scientist |  |
+| **General Knowledge** | 👁️ | Medical | Ship Office Medic, Ship Office Scientist |  |
 | **Guard Drills** | 🏃 | General | Martial Prowess |  |
-| **Gunnery** | 👁️ | General | Ship Office Fighter Pilot, Ship Office Helm, Ship Office Tactical, Vehicle Driver |  |
-| **Healing Arts** | 👁️ | General | Healing Arts, Iron Lotus Discipline, Medicine, Ship Office Medic, Ship Office Scientist, Spec Survivalist |  |
-| **Herbalism** | 👁️ | General | Healing Arts |  |
+| **Gunnery** | 👁️ | Martial | Ship Office Fighter Pilot, Ship Office Helm, Ship Office Tactical, Vehicle Driver |  |
+| **Healing Arts** | 👁️ | Medical | Healing Arts, Iron Lotus Discipline, Medicine, Ship Office Medic, Ship Office Scientist, Spec Survivalist |  |
+| **Herbalism** | 👁️ | Medical | Healing Arts |  |
 | **Hidden Routes** | 👁️ | General | Urban Survival, Urban Survival🎓 |  |
 | **History** | 👁️ | General | Scholar |  |
 | **Hunt** | 🏃 | General | Orc Skills, Survival |  |
 | **ID Magic Item** | ✨ | General | Arcana, Scholar |  |
 | **ID Monster** | ✨ | General | Arcana, Scholar |  |
 | **ID Plants** | 👁️ | General | Alchemy, Druidic, Survival |  |
-| **ID Runes** | ✨ | General | Arcana |  |
+| **ID Runes** | ✨ | Physical | Arcana |  |
 | **ID Spells** | ✨ | General | Arcana |  |
 | **ID Threats** | 👁️ | General | Streetwise, Streetwise Survival |  |
 | **ID Weather** | 👁️ | General | Sailing |  |
 | **Inspiration** | 👁️ | General | Bardic, Intimidation & Presence |  |
-| **Interrogate** | 🫀 | General | Guard Skills, Ship Office Tactical, Spec Spy |  |
+| **Interrogate** | 🫀 | Covert | Guard Skills, Ship Office Tactical, Spec Spy |  |
 | **Intimidation** | 🫀 | General | Diplomacy, Guard Skills, Intimidation & Presence, Orc Skills |  |
 | **Invention** | 👁️ | General | Gnomish Skills |  |
 | **Languages** | 👁️ | General | Diplomacy, Rogue, Ship Office Communications, Spec Spy |  |
 | **Leadership** | 👁️ | General | Intimidation & Presence, Ship Office Captain, Ship Office Tactical |  |
 | **Leatherwork** | 💪 | General | Crafting |  |
-| **Light Sleeper** | 👁️ | General | Spec Spy, Spec Thief |  |
+| **Light Sleeper** | 👁️ | Covert | Spec Spy, Spec Thief |  |
 | **Lore** | 👁️ | General | Scholar |  |
 | **Metal Manipulation** | 💪 | General | Magnetism |  |
 | **Mining** | 💪 | General | Dwarven Skills |  |
 | **Mix** | 👁️ | General | Alchemy |  |
 | **Mountaineering** | 🏃 | General | Iron Lotus Discipline |  |
-| **Navigation** | 👁️ | General | Mountaineering, Sailing, Ship Office Astrogation, Urban Survival, Urban Survival🎓, Vehicle Driver |  |
+| **Navigation** | 👁️ | Tech | Mountaineering, Sailing, Ship Office Astrogation, Urban Survival, Urban Survival🎓, Vehicle Driver |  |
 | **Negotiation** | 👁️ | General | Diplomacy, Mercantile |  |
-| **Nish** | 🏃 | Universal | Agility, Athletics | Specialized kinetic movement, acrobatics, agility, and rapid relocation. |
-| **Parkour** | 🏃 | General |  |  |
+| **Nish** | 🏃 | General | Agility, Athletics | Specialized kinetic movement, acrobatics, agility, and rapid relocation. |
+| **Parkour** | 🏃 | Physical |  |  |
 | **Performance** | 👁️ | General | Bardic |  |
 | **Persuasion** | 👁️ | General | Bardic, Diplomacy |  |
 | **Pick Locks** | 🏃 | General | Thievery, Thievery🎓 |  |
-| **Pickpockets** | 🏃 | General | Rogue, Thievery, Thievery🎓 |  |
+| **Pickpockets** | 🏃 | Covert | Rogue, Thievery, Thievery🎓 |  |
 | **Poison Use** | 👁️ | General | Assassin, Assassination, Assassination🎓 |  |
 | **Politics** | 👁️ | General | Scholar |  |
 | **Potion Administration** | ✨ | General | Alchemy |  |
 | **Power Management** | ✨ | General | Ship Office Captain, Ship Office Engineering, Ship Office Fighter Pilot, Ship Office Helm |  |
-| **Raise Shields** | 💪 | General | Ship Office Fighter Pilot, Ship Office Helm, Ship Office Tactical, Ship Office Tech |  |
+| **Raise Shields** | 💪 | Tech | Ship Office Fighter Pilot, Ship Office Helm, Ship Office Tactical, Ship Office Tech |  |
 | **Read Intent** | 👁️ | General | Awareness, Intimidation & Presence |  |
 | **Religion** | 👁️ | General | Scholar |  |
-| **Repair Armor/Weapons** | 💪 | General | Crafting, Guard Skills, Ship Office Engineering, Ship Office Tactical |  |
-| **Repair ATM/Cyber** | 💪 | General | Ship Office Engineering |  |
-| **Repair Computer** | 💪 | General | Ship Office Programmer |  |
-| **Repair Gear** | 💪 | General | Dwarven Skills, Engineering & Siegecraft, Gnomish Skills, Ship Office Scientist, Siegecraft |  |
-| **Repair Station** | 💪 | General | Ship Office Astrogation, Ship Office Captain, Ship Office Communications, Ship Office Fighter Pilot, Ship Office Helm, Ship Office Medic, Ship Office Tech |  |
+| **Repair Armor/Weapons** | 💪 | Martial | Crafting, Guard Skills, Ship Office Engineering, Ship Office Tactical |  |
+| **Repair ATM/Cyber** | 💪 | Tech | Ship Office Engineering |  |
+| **Repair Computer** | 💪 | Tech | Ship Office Programmer |  |
+| **Repair Gear** | 💪 | Tech | Dwarven Skills, Engineering & Siegecraft, Gnomish Skills, Ship Office Scientist, Siegecraft |  |
+| **Repair Station** | 💪 | Tech | Ship Office Astrogation, Ship Office Captain, Ship Office Communications, Ship Office Fighter Pilot, Ship Office Helm, Ship Office Medic, Ship Office Tech |  |
 | **Resist Charm** | ✨ | General | Elven Skills |  |
-| **Resist Death** | 🫀 | Universal | Iron Lotus Discipline, Spec Survivalist | Defying mortal trauma, stabilizing critical injuries, and death saving throws. |
-| **Resist Disease** | 🫀 | General | Goblin Skills, Ship Office Medic |  |
+| **Resist Death** | 🫀 | General | Iron Lotus Discipline, Spec Survivalist | Defying mortal trauma, stabilizing critical injuries, and death saving throws. |
+| **Resist Disease** | 🫀 | Medical | Goblin Skills, Ship Office Medic |  |
 | **Resist Illusions** | 👁️ | General | Gnomish Skills |  |
 | **Resist Mental** | 👁️ | General | Mental Discipline |  |
 | **Resist Pain/Fear** | 🫀 | General | Halfling Skills, Iron Lotus Discipline, Ship Office Fighter Pilot, Ship Office Tactical |  |
-| **Resist Poison** | 🫀 | General | Dwarven Skills, Spec Spy, Spec Thief |  |
+| **Resist Poison** | 🫀 | Covert | Dwarven Skills, Spec Spy, Spec Thief |  |
 | **Resist Weather** | 🫀 | General | Druidic, Mountaineering, Orc Skills, Survival |  |
 | **Riding** | 🏃 | General | Husbandry |  |
-| **Rune-Engraving** | ✨ | General | Engineering & Siegecraft, Siegecraft |  |
+| **Rune-Engraving** | ✨ | Physical | Engineering & Siegecraft, Siegecraft |  |
 | **Sailing** | 👁️ | General | Sailing |  |
 | **Scanners/Sensors** | 👁️ | General | Ship Office Astrogation, Ship Office Communications, Ship Office Fighter Pilot, Ship Office Helm, Ship Office Medic, Ship Office Programmer, Ship Office Scientist, Ship Office Tactical, Ship Office Tech |  |
 | **Scavenging** | 👁️ | General | Goblin Skills |  |
-| **Siege Weaponry** | 👁️ | General | Engineering & Siegecraft, Siegecraft |  |
-| **Social Status** | 👁️ | General | Ship Office Captain, Ship Office Medic |  |
+| **Siege Weaponry** | 👁️ | Martial | Engineering & Siegecraft, Siegecraft |  |
+| **Social Status** | 👁️ | Universal | Ship Office Captain, Ship Office Medic |  |
 | **Solve Puzzles** | 👁️ | General | Gnomish Skills |  |
-| **Starship Piloting** | 🏃 | General | Ship Office Astrogation, Ship Office Fighter Pilot, Ship Office Helm |  |
-| **Stealth** | 🏃 | General | Elven Skills, Goblin Skills, Halfling Skills, Rogue, Scout, Spec Spy, Spec Thief, Thievery, Thievery🎓 |  |
+| **Starship Piloting** | 🏃 | Tech | Ship Office Astrogation, Ship Office Fighter Pilot, Ship Office Helm |  |
+| **Stealth** | 🏃 | Covert | Elven Skills, Goblin Skills, Halfling Skills, Rogue, Scout, Spec Spy, Spec Thief, Thievery, Thievery🎓 |  |
 | **Stonecraft** | 💪 | General | Dwarven Skills |  |
 | **Streetwise** | 👁️ | General | Magnetism, Urban Survival, Urban Survival🎓 |  |
 | **Structural Weakness** | 👁️ | General | Engineering & Siegecraft, Siegecraft |  |
-| **Survival** | 🫀 | General | Spec Survivalist, Survival |  |
-| **Swimming** | 🏃 | General | Athletics, Sailing, Spec Survivalist |  |
-| **Tactics** | 👁️ | General | Assassin, Assassination, Assassination🎓, Martial Prowess, Ship Office Tactical |  |
+| **Survival** | 🫀 | Physical | Spec Survivalist, Survival |  |
+| **Swimming** | 🏃 | Physical | Athletics, Sailing, Spec Survivalist |  |
+| **Tactics** | 👁️ | Martial | Assassin, Assassination, Assassination🎓, Martial Prowess, Ship Office Tactical |  |
 | **Talk To Animal** | ✨ | General | Druidic, Husbandry |  |
 | **Talk To Plants** | ✨ | General | Druidic |  |
 | **Taunt** | 👁️ | General | Intimidation & Presence |  |
 | **Telepathy** | ✨ | General | Mental Discipline |  |
-| **Theft** | 🏃 | General | Spec Spy, Spec Thief |  |
-| **Tight Grip** | 💪 | General | Ship Office Engineering |  |
-| **Tracking** | 🏃 | General | Elven Skills, Scout, Spec Survivalist |  |
-| **Tractor/Repulsor Beam** | 💪 | General | Ship Office Engineering, Ship Office Tech |  |
-| **Transporter** | 👁️ | General | Ship Office Engineering, Ship Office Scientist, Ship Office Tech |  |
+| **Theft** | 🏃 | Covert | Spec Spy, Spec Thief |  |
+| **Tight Grip** | 💪 | Tech | Ship Office Engineering |  |
+| **Tracking** | 🏃 | Physical | Elven Skills, Scout, Spec Survivalist |  |
+| **Tractor/Repulsor Beam** | 💪 | Tech | Ship Office Engineering, Ship Office Tech |  |
+| **Transporter** | 👁️ | Tech | Ship Office Engineering, Ship Office Scientist, Ship Office Tech |  |
 | **Underground Lore** | 👁️ | General | Dwarven Skills |  |
-| **Zero-Gravity** | 🏃 | General | Ship Office Engineering, Ship Office Tactical |  |
+| **Zero-Gravity** | 🏃 | Tech | Ship Office Engineering, Ship Office Tactical |  |
 
 ---
 
