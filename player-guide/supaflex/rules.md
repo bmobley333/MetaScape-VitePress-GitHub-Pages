@@ -54,6 +54,11 @@ The complete SupaFlex game system is structured into a unified, visual hierarchy
      ▼           ▼           ▼                ▼      ▼       ▼       ▼        ▼
   [ ⚙️ GEAR ]  [ 🧿 EXOTICS ] [ 💍 ARTIFACTS ] [ ATR ] [SKILL] [SKILLSET][RULES][POWERS]
   (Mundane)   (Store/Tech)   (Loot/Relic)       (✅)    (🎓)      (🎓)    (📜)    (🔥)
+     │           │           │
+     └───────────┼───────────┘
+                 ▼
+ [ ⚔️ WEAPONS • 🧥 ARMOR • 🛡️ SHIELDS ]
+ (Typically Gear; Exotic & Artifact versions exist)
                                                                  ▲
  ┌───────────────────────────────────────────────────────────────┴────────────────────────┐
  │                               [ 🧬 TRAIT (0 AP / FREE) ]                               │
@@ -67,18 +72,23 @@ The complete SupaFlex game system is structured into a unified, visual hierarchy
    * **🧰 Equipment (All Physical Items):** The master parent category encompassing everything a character carries, wears, or utilizes. Subdivided into **⚙️ Gear** (mundane items), **🧿 Exotics** (high-tier commercial/black-market items), and **💍 Artifacts** (priceless, find-only treasure).
    * **🧠 Abilities (All Non-Physical Features):** The master parent category encompassing innate character features. Subdivided into **✅ Attributes**, **🎓 Skills**, **🎓 Skill Sets**, **📜 Rules**, and **🔥 Powers**.
 
-2. **🎭 Kits (Logical Element Collections):**
+2. **⚔️ Weapons, 🧥 Armor, and 🛡️ Shields as Equipment:**
+   * Weapons, Armor, and Shields are all **Equipment (`🧰`)**.
+   * They are typically considered mundane **Gear (`⚙️`)** (0 Loadout slots), but high-tier, specialized, or enchanted versions exist as **Exotics (`🧿`)** or **Artifacts (`💍`)** (1–4 Loadout slots).
+   * **Default Gear Possession Rule:** When a character learns or becomes skilled in a new weapon, armor, or shield (via starting Kit or AP advancement), the default system rule is that they are assumed to possess that physical item as standard mundane Gear (`⚙️`) (although a GM may determine otherwise depending upon the group's playstyle and narrative context).
+
+3. **🎭 Kits (Logical Element Collections):**
    * A Kit is a curated collection of Elements defining a cohesive character concept (e.g. Race Kits, Class Kits, Faction Kits, Archetype Kits).
    * **No Nested Kits:** A Kit contains only Elements and cannot directly contain another Kit (because a Kit is not an Element). However, a Kit may contain a Rule (`📜`) that grants access to other Kits.
    * **Starting Kits:** Every character starts with 2 Learned Kits: **Race Kit (`🎭`)** and **Class Kit (`🎭`)**.
    * **Learning New Kits:** Beyond starting kits, additional Kits may be learned for **4 AP WITH GM Approval**.
 
-3. **🧬 Traits (0 AP / Free Elements):**
+4. **🧬 Traits (0 AP / Free Elements):**
    * A Trait is an orthogonal status meaning the element costs **0 AP (Free)** to gain.
    * Any Element (Rules, Gear, Skills, Skill Sets, Weapons, Armor, Shields, Powers, Exotics, Artifacts) can be a Trait, but **NONE** of them are *always* Traits.
    * *Rules as Traits vs. Learned Rules:* Some Rules are 0 AP Traits (e.g. inherent racial features), while other Rules are learned for standard AP costs like powers or skills.
 
-4. **📜 Character Sheet "Rules" Card vs. Global Game Rules:**
+5. **📜 Character Sheet "Rules" Card vs. Global Game Rules:**
    * **Character Sheet "Rules" Card:** Represents the specific special rules, passive mechanics, and boons possessed by that character.
    * **Global SoT / Web Rules:** The macro rules engine of SupaFlex (found on the official website and in this SoT document). Context clearly differentiates between these two uses.
 
@@ -202,7 +212,7 @@ Adv (Advantage) – Gain an extra d20 during an ability roll.
 
 AP🧩 (Adventure Point) – Earned resource spent to advance, learn new powers🔥, or improve stats.
 
-AR🧥 (Armor Rating) – Represents how much damage armor can absorb. Defense is always Dod/AR or Blk/AR; armor is the AR part.
+AR🧥 (Armor Rating) / Armor🧥 – Equipment🧰 worn to absorb damage. Defense is always Dod/AR or Blk/AR; armor is the AR part. Standard armor is mundane Gear⚙️ (0 loadout slots); high-tier, specialized, or enchanted suits exist as Exotics🧿 or Artifacts💍. When learned, characters are assumed to possess the item as Gear⚙️ by default.
 
 Artifact💍 (formerly Relic) – Exceptionally rare, unique, or priceless items—such as ancient relics, alien monoliths, or divine masterworks—that exist outside the standard economy and cannot be normally purchased or manufactured. Governed by the same Loadout limits, activation costs, and rules balance as powers.
 
@@ -215,6 +225,8 @@ Block Cap🧱 – The maximum monster damage a melee weapon or shield can block
 Critical💀 – A natural 1 on any d20 in an ability roll.
 
 Day – A day in the character’s life (a day in the player’s life is a Session).
+
+Default Gear Possession Rule – When a character learns or becomes skilled in a new Weapon⚔️, Armor🧥, or Shield🛡️, the system defaults to assuming they possess the physical item as standard mundane Gear⚙️ (unless the GM determines otherwise based on campaign tone, starting situation, or narrative context).
 
 Dod (Dodge) / Blk (Block) – The avoidance value an opponent must roll against to land a successful attack. Defense 🛡️ is the category (Dod/AR or Blk/AR).
 
@@ -230,7 +242,7 @@ Element(s)🌟 – The universal parent category encompassing every physical it
 
 Enc (Encounter) – The series of rounds that make up a combat event.
 
-Equipment🧰 – The universal parent category encompassing every physical item, tool, weapon, armor piece, supply, or object a character can carry, wear, or utilize. Acts as the master inventory container; all items in the game are Equipment (subdivided into Gear⚙️, Exotics🧿, and Artifacts💍).
+Equipment🧰 – The universal parent category encompassing every physical item, tool, weapon, armor piece, shield, supply, or object a character can carry, wear, or utilize. Acts as the master inventory container; all items in the game are Equipment (subdivided into Gear⚙️, Exotics🧿, and Artifacts💍). Weapons⚔️, Armor🧥, and Shields🛡️ are all Equipment.
 
 Exotic🧿 (formerly Hardware) – High-tier, specialized, or advanced equipment potent enough to rival innate character abilities, but established and regulated enough to carry a commercial or black-market price tag. Governed by the same Loadout limits, activation costs, and rules balance as powers.
 
@@ -242,7 +254,7 @@ Focus Die – A resource die (d4–d12) that can be spent to boost a roll, step
 
 g / gp (Gold Piece) – A gold coin; 100 silver (s) = 1 gold (g).
 
-Gear⚙️ – Standard, mundane physical items readily available in the world's economy that operate within baseline mundane rules (everyday weapons, armor, tools, and adventuring supplies). Does not consume Loadout slots or compete with innate character abilities.
+Gear⚙️ – Standard, mundane physical items readily available in the world's economy that operate within baseline mundane rules (everyday weapons⚔️, armor🧥, shields🛡️, tools, and adventuring supplies). Does not consume Loadout slots or compete with innate character abilities. When a character learns a weapon, armor, or shield, the default rule is that they possess it as Gear⚙️.
 
 GM (Game Master) – The person running the game and story.
 
@@ -298,6 +310,8 @@ S, Sh (Shot) – Ranged weapons that are not thrown (bows, crossbows, blowguns,
 
 s / sp (Silver Piece) – A silver coin; 100s = 1g.
 
+Shields🛡️ – Equipment🧰 held in the off-hand to block incoming attacks up to a Block Cap. Baseline shields are mundane Gear⚙️; high-tech or enchanted shields exist as Exotics🧿 or Artifacts💍. When learned, characters are assumed to possess the shield as Gear⚙️ by default.
+
 Skill🎓 – An ability roll using #d20 + d(Atr) + Bonus, usually vs. a GM-set difficulty. Not supernatural; does not alter the world’s rules.
 
 Skill Set🎓 – A logical collection of related skills (e.g., Thievery includes climb, pick locks, stealth).
@@ -314,7 +328,7 @@ Vit❤️ (Vitality) – The amount of wounds a character or monster can sustai
 
 Wnd🩸 (Wounds) – Damage sustained after AR🧥 or other reduction is applied.
 
-Wpn⚔️ (Weapon) – A held weapon such as a sword
+Wpn⚔️ (Weapon) – Equipment🧰 wielded to strike or shoot targets in combat. Standard weapons are mundane Gear⚙️ (0 loadout slots); high-tier or enchanted weapons exist as Exotics🧿 or Artifacts💍. When learned, characters are assumed to possess the weapon as Gear⚙️ by default.
 
 ### 🎲 Die Mechanics
 
@@ -648,7 +662,7 @@ Only during creation, a 1d(Moxie🫀) roll of 1 may be re-rolled one time, in ho
 
 ⭐ Starting AP🧩 (8 AP at Level 1)
 
-Your character is 1st Level⭐ (record 1 for Level⭐) and begins with **8 Starting AP🧩** to shape their initial capabilities. In-Kit elements cost 1 AP (2 AP for Skill Sets) without requiring GM approval.
+Your character is 1st Level⭐ (record 1 for Level⭐) and begins with **8 Starting AP🧩** to shape their initial capabilities. In-Kit elements cost 1 AP (2 AP for Skill Sets) without requiring GM approval. *(Default Gear Possession Rule: When a character learns a weapon, armor, or shield, it is assumed they possess that physical item as standard mundane Gear⚙️ by default.)*
 
 A standard, balanced character build typically spends these 8 AP across the following areas:
 
@@ -658,7 +672,7 @@ Skilled in 1 Skill Set🎓 (2 AP) from the Skill Set catalog.
 
 ⚔️ 1 Weapon (1 AP)
 
-Skilled in 1 specific Weapon⚔️ (1 AP).
+Skilled in 1 specific Weapon⚔️ (1 AP). *(Assumed owned as Gear⚙️).*
 
 Melee Atk/Dmg💥 uses Might💪.
 
@@ -668,7 +682,7 @@ Shot Atk/Dmg💥 uses Mind👁️.
 
 🛡️ 1 Armor (1 AP)
 
-Skilled in 1 specific Armor🧥 (1 AP).
+Skilled in 1 specific Armor🧥 (1 AP). *(Assumed owned as Gear⚙️).*
 
 Block (Def)🛡️ is Might💪.
 
@@ -692,9 +706,9 @@ A recommended approach is taking one each of these:
 
 Spend your remaining 1 Starting AP🧩 on a flexible upgrade of your choice, such as:
 
-A Shield🛡️ (1 AP — record the shield’s MR👣)
+A Shield🛡️ (1 AP — record the shield’s MR👣; assumed owned as Gear⚙️)
 
-A 2nd Weapon⚔️ (1 AP)
+A 2nd Weapon⚔️ (1 AP; assumed owned as Gear⚙️)
 
 Nish🚩 Skill (Motion🏃) or Death Check Skill (Moxie🫀) (1 AP)
 
@@ -809,6 +823,7 @@ Spend your accumulated AP🧩 across 3 structured tiers of progression:
 * **Learning New Kits (4 AP + GM Approval):** Beyond the starting Race and Class Kits, characters may learn an entire new Kit for **4 AP WITH GM Approval**.
 * **🧬 Traits (0 AP Free):** Elements designated as Traits cost **0 AP** to gain.
 * **📜 Rules Acquisition:** Some Rules are 0 AP Traits (e.g. racial traits), while other Rules may be learned for standard AP costs (1 AP In-Kit, 2 AP Out-of-Kit with GM approval).
+* **⚔️ Default Gear Possession:** When a character learns a new Weapon, Armor, or Shield (via starting Kit or AP spending), the default assumption is that they possess that physical item as standard mundane Gear (`⚙️`) (unless the GM determines otherwise based on campaign context).
 * **Unmet Item Requirements (+1 AP Surcharge & Refund Engine):** Becoming skilled in a Weapon, Armor, or Shield whose attribute requirements you do not yet meet costs an additional **+1 AP** (2 AP In-Kit, 3 AP Out-of-Kit). The item's stats are temporarily downscaled to your current attribute and auto-improve (0 AP) as your attribute advances. The extra AP is fully refunded once you meet the requirement and/or acquire the parent Kit.
 
 ##### The 1-AP Augment System (Advancement Without Version Trees)
@@ -1027,6 +1042,7 @@ A character can become skilled in any Weapon⚔️ whose attribute requirements 
 2. **Stat Downscaling:** All of that weapon's stats (Damage die, Block Cap) are pulled **DOWN** to the character's current active attribute die/number.
 3. **Auto-Improvement (0 AP):** Anytime the character's relevant attribute advances, the weapon's stats automatically improve to the higher value (up to the weapon's native maximum) for **0 AP**.
 4. **AP Refund Engine:** The extra AP (+1 for unmet requirements, and/or +1 for out-of-kit acquisition) is **fully refunded** to the character's available AP pool as soon as the character meets the attribute requirement and/or acquires the parent Kit.
+5. **Default Gear Possession:** When a weapon is learned, the character is assumed to possess that physical weapon as standard mundane Gear (`⚙️`) by default (unless the GM determines otherwise based on campaign tone or narrative circumstances).
 
 ### Uplifting Damage
 
@@ -1172,6 +1188,7 @@ A character can become skilled in any Armor🧥 or Shield🛡️ whose attribute
 2. **Stat Downscaling:** All of that item's stats (Armor AR die, Shield Block Cap, Shield Block die) are pulled **DOWN** to match the character's current active attribute number.
 3. **Auto-Improvement (0 AP):** Anytime the character's relevant attribute advances, the armor's or shield's stats automatically scale up to the higher value (up to the item's native baseline maximum) for **0 AP**.
 4. **AP Refund Engine:** The extra AP surcharge (+1 for unmet requirements, and/or +1 for out-of-kit acquisition) is **fully refunded** to the character's available AP pool as soon as the character meets the attribute requirement and/or acquires the parent Kit.
+5. **Default Gear Possession:** When armor or a shield is learned, the character is assumed to possess that physical item as standard mundane Gear (`⚙️`) by default (unless the GM determines otherwise based on campaign tone or narrative circumstances).
 
 ### 🛡️ Shields
 
