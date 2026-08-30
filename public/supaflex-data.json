@@ -27721,9 +27721,7 @@
     {
       "id": 308,
       "name": "Adaptable Spirit",
-      "type": "trait",
       "effect": "Learn 1 extra skill without skill point restrictions.",
-      "flaw_points": 0,
       "stat_hook": null,
       "genres": [
         "Medieval",
@@ -27739,9 +27737,7 @@
     {
       "id": 320,
       "name": "Arcane Volatility",
-      "type": "quirk",
-      "effect": "Whenever you roll a natural 1 on a Magic check, trigger a minor chaotic surge. [Flaw: +1 AP]",
-      "flaw_points": 1,
+      "effect": "Whenever you roll a natural 1 on a Magic check, trigger a minor chaotic surge.",
       "stat_hook": null,
       "genres": [
         "Medieval",
@@ -27751,15 +27747,13 @@
       "discipline": "Universal",
       "kit": "Handicap",
       "is_guildspace_locked": false,
-      "notes": "Flaw: Grants +1 AP (up to +5 Flaw AP cap).",
+      "notes": "Handicap / tactical rule exception.",
       "created_at": "2026-08-29T16:13:07.426059+00:00"
     },
     {
       "id": 318,
       "name": "Code of Honor",
-      "type": "quirk",
-      "effect": "Bound by strict chivalry. Must accept honorable surrenders and never strike a helpless foe. [Flaw: +1 AP]",
-      "flaw_points": 1,
+      "effect": "Bound by strict chivalry. Must accept honorable surrenders and never strike a helpless foe.",
       "stat_hook": null,
       "genres": [
         "Medieval",
@@ -27769,15 +27763,13 @@
       "discipline": "Universal",
       "kit": "Handicap",
       "is_guildspace_locked": false,
-      "notes": "Flaw: Grants +1 AP (up to +5 Flaw AP cap).",
+      "notes": "Handicap / tactical rule exception.",
       "created_at": "2026-08-29T16:13:07.305713+00:00"
     },
     {
       "id": 314,
       "name": "Fortune's Child",
-      "type": "quirk",
       "effect": "Destiny smiles upon you; your Max Luck pool is increased by +1.",
-      "flaw_points": 0,
       "stat_hook": {
         "type": "flat_bonus",
         "value": 1,
@@ -27797,9 +27789,7 @@
     {
       "id": 317,
       "name": "Glass Cannon",
-      "type": "quirk",
-      "effect": "Fragile physiology. Max Vitality is permanently reduced by 3. [Flaw: +2 AP]",
-      "flaw_points": 2,
+      "effect": "Fragile physiology. Max Vitality is permanently reduced by 3.",
       "stat_hook": {
         "type": "flat_bonus",
         "value": -3,
@@ -27813,15 +27803,13 @@
       "discipline": "Universal",
       "kit": "Handicap",
       "is_guildspace_locked": false,
-      "notes": "Flaw: Grants +2 AP and reduces Max Vitality by 3.",
+      "notes": "Derived stat hook: Reduces Max Vitality by 3.",
       "created_at": "2026-08-29T16:13:07.24249+00:00"
     },
     {
       "id": 311,
       "name": "Impossible Robes",
-      "type": "quirk",
       "effect": "Base Armor Rating (AR) is dynamically derived from your Mind die rating (d4→4, d6→6, d8→8, d10→10, d12→12).",
-      "flaw_points": 0,
       "stat_hook": {
         "type": "mind_die",
         "target": "ar"
@@ -27840,9 +27828,7 @@
     {
       "id": 304,
       "name": "Keen Senses",
-      "type": "trait",
       "effect": "Gain advantage on perception and awareness checks.",
-      "flaw_points": 0,
       "stat_hook": null,
       "genres": [
         "Medieval",
@@ -27858,9 +27844,7 @@
     {
       "id": 319,
       "name": "Limping Gait",
-      "type": "quirk",
-      "effect": "Injured leg or heavy frame. Base Movement Rate is reduced by 1. [Flaw: +1 AP]",
-      "flaw_points": 1,
+      "effect": "Injured leg or heavy frame. Base Movement Rate is reduced by 1.",
       "stat_hook": {
         "type": "flat_bonus",
         "value": -1,
@@ -27874,15 +27858,13 @@
       "discipline": "Universal",
       "kit": "Handicap",
       "is_guildspace_locked": false,
-      "notes": "Flaw: Grants +1 AP and reduces Movement Rate by 1.",
+      "notes": "Handicap / tactical rule exception.",
       "created_at": "2026-08-29T16:13:07.366223+00:00"
     },
     {
       "id": 305,
       "name": "Nature Attunement",
-      "type": "trait",
       "effect": "Ignore movement penalties in natural wilderness terrain.",
-      "flaw_points": 0,
       "stat_hook": null,
       "genres": [
         "Medieval",
@@ -27898,9 +27880,7 @@
     {
       "id": 316,
       "name": "One-Eyed",
-      "type": "quirk",
-      "effect": "Depth perception handicap. Take a penalty on ranged shot attacks. [Flaw: +1 AP]",
-      "flaw_points": 1,
+      "effect": "Depth perception handicap. Take a penalty on ranged shot attacks.",
       "stat_hook": null,
       "genres": [
         "Medieval",
@@ -27910,15 +27890,13 @@
       "discipline": "Universal",
       "kit": "Handicap",
       "is_guildspace_locked": false,
-      "notes": "Flaw: Grants +1 AP (up to +5 Flaw AP cap).",
+      "notes": "Handicap / tactical rule exception.",
       "created_at": "2026-08-29T16:13:07.179943+00:00"
     },
     {
       "id": 310,
       "name": "Pixie Gliding",
-      "type": "trait",
       "effect": "Slowly glide safely down from any fall height without taking impact damage.",
-      "flaw_points": 0,
       "stat_hook": null,
       "genres": [
         "Medieval",
@@ -27934,9 +27912,7 @@
     {
       "id": 307,
       "name": "Poison Resistance",
-      "type": "trait",
       "effect": "Resist poison, toxins, and alcohol effects with +1d bonus.",
-      "flaw_points": 0,
       "stat_hook": null,
       "genres": [
         "Medieval",
@@ -27952,9 +27928,7 @@
     {
       "id": 309,
       "name": "Relentless Stamina",
-      "type": "trait",
       "effect": "When reduced to 0 Vit, immediately stay at 1 Vit once per encounter.",
-      "flaw_points": 0,
       "stat_hook": null,
       "genres": [
         "Medieval",
@@ -27970,9 +27944,7 @@
     {
       "id": 306,
       "name": "Stonecunning",
-      "type": "trait",
       "effect": "Notice architectural oddities, stonework traps, and subterranean depth instinctively.",
-      "flaw_points": 0,
       "stat_hook": null,
       "genres": [
         "Medieval",
@@ -27988,9 +27960,7 @@
     {
       "id": 313,
       "name": "Swift Step",
-      "type": "trait",
       "effect": "Innate agility grants +1 Movement Rate (Armored and Shielded).",
-      "flaw_points": 0,
       "stat_hook": {
         "type": "flat_bonus",
         "value": 1,
@@ -28010,9 +27980,7 @@
     {
       "id": 312,
       "name": "Tough Hide",
-      "type": "trait",
       "effect": "Natural thick skin or chitin provides +1 Natural AR bonus.",
-      "flaw_points": 0,
       "stat_hook": {
         "type": "flat_bonus",
         "value": 1,
@@ -28032,9 +28000,7 @@
     {
       "id": 315,
       "name": "Vanish on Death",
-      "type": "quirk",
       "effect": "Upon death, your physical body dissolves cleanly into radiant mist or stardust.",
-      "flaw_points": 0,
       "stat_hook": null,
       "genres": [
         "Medieval",
@@ -28052,9 +28018,7 @@
     {
       "id": 308,
       "name": "Adaptable Spirit",
-      "type": "trait",
       "effect": "Learn 1 extra skill without skill point restrictions.",
-      "flaw_points": 0,
       "stat_hook": null,
       "genres": [
         "Medieval",
@@ -28070,9 +28034,7 @@
     {
       "id": 320,
       "name": "Arcane Volatility",
-      "type": "quirk",
-      "effect": "Whenever you roll a natural 1 on a Magic check, trigger a minor chaotic surge. [Flaw: +1 AP]",
-      "flaw_points": 1,
+      "effect": "Whenever you roll a natural 1 on a Magic check, trigger a minor chaotic surge.",
       "stat_hook": null,
       "genres": [
         "Medieval",
@@ -28082,15 +28044,13 @@
       "discipline": "Universal",
       "kit": "Handicap",
       "is_guildspace_locked": false,
-      "notes": "Flaw: Grants +1 AP (up to +5 Flaw AP cap).",
+      "notes": "Handicap / tactical rule exception.",
       "created_at": "2026-08-29T16:13:07.426059+00:00"
     },
     {
       "id": 318,
       "name": "Code of Honor",
-      "type": "quirk",
-      "effect": "Bound by strict chivalry. Must accept honorable surrenders and never strike a helpless foe. [Flaw: +1 AP]",
-      "flaw_points": 1,
+      "effect": "Bound by strict chivalry. Must accept honorable surrenders and never strike a helpless foe.",
       "stat_hook": null,
       "genres": [
         "Medieval",
@@ -28100,15 +28060,13 @@
       "discipline": "Universal",
       "kit": "Handicap",
       "is_guildspace_locked": false,
-      "notes": "Flaw: Grants +1 AP (up to +5 Flaw AP cap).",
+      "notes": "Handicap / tactical rule exception.",
       "created_at": "2026-08-29T16:13:07.305713+00:00"
     },
     {
       "id": 314,
       "name": "Fortune's Child",
-      "type": "quirk",
       "effect": "Destiny smiles upon you; your Max Luck pool is increased by +1.",
-      "flaw_points": 0,
       "stat_hook": {
         "type": "flat_bonus",
         "value": 1,
@@ -28128,9 +28086,7 @@
     {
       "id": 317,
       "name": "Glass Cannon",
-      "type": "quirk",
-      "effect": "Fragile physiology. Max Vitality is permanently reduced by 3. [Flaw: +2 AP]",
-      "flaw_points": 2,
+      "effect": "Fragile physiology. Max Vitality is permanently reduced by 3.",
       "stat_hook": {
         "type": "flat_bonus",
         "value": -3,
@@ -28144,15 +28100,13 @@
       "discipline": "Universal",
       "kit": "Handicap",
       "is_guildspace_locked": false,
-      "notes": "Flaw: Grants +2 AP and reduces Max Vitality by 3.",
+      "notes": "Derived stat hook: Reduces Max Vitality by 3.",
       "created_at": "2026-08-29T16:13:07.24249+00:00"
     },
     {
       "id": 311,
       "name": "Impossible Robes",
-      "type": "quirk",
       "effect": "Base Armor Rating (AR) is dynamically derived from your Mind die rating (d4→4, d6→6, d8→8, d10→10, d12→12).",
-      "flaw_points": 0,
       "stat_hook": {
         "type": "mind_die",
         "target": "ar"
@@ -28171,9 +28125,7 @@
     {
       "id": 304,
       "name": "Keen Senses",
-      "type": "trait",
       "effect": "Gain advantage on perception and awareness checks.",
-      "flaw_points": 0,
       "stat_hook": null,
       "genres": [
         "Medieval",
@@ -28189,9 +28141,7 @@
     {
       "id": 319,
       "name": "Limping Gait",
-      "type": "quirk",
-      "effect": "Injured leg or heavy frame. Base Movement Rate is reduced by 1. [Flaw: +1 AP]",
-      "flaw_points": 1,
+      "effect": "Injured leg or heavy frame. Base Movement Rate is reduced by 1.",
       "stat_hook": {
         "type": "flat_bonus",
         "value": -1,
@@ -28205,15 +28155,13 @@
       "discipline": "Universal",
       "kit": "Handicap",
       "is_guildspace_locked": false,
-      "notes": "Flaw: Grants +1 AP and reduces Movement Rate by 1.",
+      "notes": "Handicap / tactical rule exception.",
       "created_at": "2026-08-29T16:13:07.366223+00:00"
     },
     {
       "id": 305,
       "name": "Nature Attunement",
-      "type": "trait",
       "effect": "Ignore movement penalties in natural wilderness terrain.",
-      "flaw_points": 0,
       "stat_hook": null,
       "genres": [
         "Medieval",
@@ -28229,9 +28177,7 @@
     {
       "id": 316,
       "name": "One-Eyed",
-      "type": "quirk",
-      "effect": "Depth perception handicap. Take a penalty on ranged shot attacks. [Flaw: +1 AP]",
-      "flaw_points": 1,
+      "effect": "Depth perception handicap. Take a penalty on ranged shot attacks.",
       "stat_hook": null,
       "genres": [
         "Medieval",
@@ -28241,15 +28187,13 @@
       "discipline": "Universal",
       "kit": "Handicap",
       "is_guildspace_locked": false,
-      "notes": "Flaw: Grants +1 AP (up to +5 Flaw AP cap).",
+      "notes": "Handicap / tactical rule exception.",
       "created_at": "2026-08-29T16:13:07.179943+00:00"
     },
     {
       "id": 310,
       "name": "Pixie Gliding",
-      "type": "trait",
       "effect": "Slowly glide safely down from any fall height without taking impact damage.",
-      "flaw_points": 0,
       "stat_hook": null,
       "genres": [
         "Medieval",
@@ -28265,9 +28209,7 @@
     {
       "id": 307,
       "name": "Poison Resistance",
-      "type": "trait",
       "effect": "Resist poison, toxins, and alcohol effects with +1d bonus.",
-      "flaw_points": 0,
       "stat_hook": null,
       "genres": [
         "Medieval",
@@ -28283,9 +28225,7 @@
     {
       "id": 309,
       "name": "Relentless Stamina",
-      "type": "trait",
       "effect": "When reduced to 0 Vit, immediately stay at 1 Vit once per encounter.",
-      "flaw_points": 0,
       "stat_hook": null,
       "genres": [
         "Medieval",
@@ -28301,9 +28241,7 @@
     {
       "id": 306,
       "name": "Stonecunning",
-      "type": "trait",
       "effect": "Notice architectural oddities, stonework traps, and subterranean depth instinctively.",
-      "flaw_points": 0,
       "stat_hook": null,
       "genres": [
         "Medieval",
@@ -28319,9 +28257,7 @@
     {
       "id": 313,
       "name": "Swift Step",
-      "type": "trait",
       "effect": "Innate agility grants +1 Movement Rate (Armored and Shielded).",
-      "flaw_points": 0,
       "stat_hook": {
         "type": "flat_bonus",
         "value": 1,
@@ -28341,9 +28277,7 @@
     {
       "id": 312,
       "name": "Tough Hide",
-      "type": "trait",
       "effect": "Natural thick skin or chitin provides +1 Natural AR bonus.",
-      "flaw_points": 0,
       "stat_hook": {
         "type": "flat_bonus",
         "value": 1,
@@ -28363,9 +28297,7 @@
     {
       "id": 315,
       "name": "Vanish on Death",
-      "type": "quirk",
       "effect": "Upon death, your physical body dissolves cleanly into radiant mist or stardust.",
-      "flaw_points": 0,
       "stat_hook": null,
       "genres": [
         "Medieval",

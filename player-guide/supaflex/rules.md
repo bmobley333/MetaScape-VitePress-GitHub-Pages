@@ -50,10 +50,10 @@ The complete SupaFlex game system is structured into a unified, visual hierarchy
                  ▼                                               ▼
          [ 🧰 EQUIPMENT ]                                [ 🧠 ABILITIES ]
       (All Physical Items)                         (All Non-Physical Features)
-     ┌───────────┼───────────┐                ┌──────┬───────┼───────┬────────┐
-     ▼           ▼           ▼                ▼      ▼       ▼       ▼        ▼
-  [ ⚙️ GEAR ]  [ 🧿 EXOTICS ] [ 💍 ARTIFACTS ] [ ATR ] [SKILL] [SKILLSET][RULES][POWERS]
-  (Mundane)   (Store/Tech)   (Loot/Relic)       (✅)    (🎓)      (🎓)    (📜)    (🔥)
+     ┌───────────┼───────────┐                ┌──────┬───────┼───────┬─────────┬────────┐
+     ▼           ▼           ▼                ▼      ▼       ▼       ▼         ▼        ▼
+  [ ⚙️ GEAR ]  [ 🧿 EXOTICS ] [ 💍 ARTIFACTS ] [ ATR ] [SKILL] [SKILLSET][SPEC RULES][POWERS]
+  (Mundane)   (Store/Tech)   (Loot/Relic)       (✅)    (🎓)      (🎓)      (📜)     (🔥)
      │           │           │
      └───────────┼───────────┘
                  ▼
@@ -70,7 +70,7 @@ The complete SupaFlex game system is structured into a unified, visual hierarchy
 
 1. **🌟 Elements = 🧰 Equipment + 🧠 Abilities:**
    * **🧰 Equipment (All Physical Items):** The master parent category encompassing everything a character carries, wears, or utilizes. Subdivided into **⚙️ Gear** (mundane items), **🧿 Exotics** (high-tier commercial/black-market items), and **💍 Artifacts** (priceless, find-only treasure).
-   * **🧠 Abilities (All Non-Physical Features):** The master parent category encompassing innate character features. Subdivided into **✅ Attributes**, **🎓 Skills**, **🎓 Skill Sets**, **📜 Rules**, and **🔥 Powers**.
+   * **🧠 Abilities (All Non-Physical Features):** The master parent category encompassing innate character features. Subdivided into **✅ Attributes**, **🎓 Skills**, **🎓 Skill Sets**, **📜 Spec Rules**, and **🔥 Powers**.
 
 2. **⚔️ Weapons, 🧥 Armor, and 🛡️ Shields as Equipment:**
    * Weapons, Armor, and Shields are all **Equipment (`🧰`)**.
@@ -79,18 +79,20 @@ The complete SupaFlex game system is structured into a unified, visual hierarchy
 
 3. **🎭 Kits (Logical Element Collections):**
    * A Kit is a curated collection of Elements defining a cohesive character concept (e.g. Race Kits, Class Kits, Faction Kits, Archetype Kits).
-   * **No Nested Kits:** A Kit contains only Elements and cannot directly contain another Kit (because a Kit is not an Element). However, a Kit may contain a Rule (`📜`) that grants access to other Kits.
+   * **No Nested Kits:** A Kit contains only Elements and cannot directly contain another Kit (because a Kit is not an Element). However, a Kit may contain a Spec Rule (`📜`) that grants access to other Kits.
    * **Starting Kits:** Every character starts with 2 Learned Kits: **Race Kit (`🎭`)** and **Class Kit (`🎭`)**.
    * **Learning New Kits:** Beyond starting kits, additional Kits may be learned for **4 AP WITH GM Approval**.
 
-4. **🧬 Traits (0 AP / Free Elements):**
-   * A Trait is an orthogonal status meaning the element costs **0 AP (Free)** to gain.
-   * Any Element (Rules, Gear, Skills, Skill Sets, Weapons, Armor, Shields, Powers, Exotics, Artifacts) can be a Trait, but **NONE** of them are *always* Traits.
-   * *Rules as Traits vs. Learned Rules:* Some Rules are 0 AP Traits (e.g. inherent racial features), while other Rules are learned for standard AP costs like powers or skills.
+4. **🧬 Traits (0 AP / Free Elements & Auto-Taken Invariant):**
+   * The word **Trait** is **ENTIRELY reserved** to designate an orthogonal status meaning the element costs **0 AP (Free)** to gain.
+   * Any Element (Spec Rules, Gear, Skills, Skill Sets, Weapons, Armor, Shields, Powers, Exotics, Artifacts) can be a Trait, but **NONE** of them are *always* Traits.
+   * **Auto-Taken & Removal Protection:** All Traits are auto-taken upon gaining or selecting a Kit, and **may not be removed without GM approval**.
+   * *Spec Rules as Traits vs. Learned Spec Rules:* Some Spec Rules are 0 AP Traits (e.g. inherent racial physiology), while other Spec Rules are learned for standard AP costs like powers or skills.
 
-5. **📜 Character Sheet "Rules" Card vs. Global Game Rules:**
-   * **Character Sheet "Rules" Card:** Represents the specific special rules, passive mechanics, and boons possessed by that character.
-   * **Global SoT / Web Rules:** The macro rules engine of SupaFlex (found on the official website and in this SoT document). Context clearly differentiates between these two uses.
+5. **📜 System Rules vs. 📜 Spec Rules Distinction:**
+   * **Global System Rules (`📜`):** The macro game engine, core resolution mechanics, combat economy, and overarching rules of SupaFlex (found in this `.md` document and on the official website / VitePress Player Guide).
+   * **Spec Rules (`📜`):** Specific, modular rules, physiological features, tactical boons, and mechanical rule exceptions queried from the `spec_rules` database table and listed on the Character Sheet in the **Spec Rules** card. ("Spec" remains nuanced: could mean *specialization* or *specific*).
+   * **No Quirks or Flaws:** There are **NO quirks, flaws, or flaw points** in SupaFlex. There are only unified Spec Rules, Equipment, and Abilities.
 
 ---
 
@@ -202,7 +204,7 @@ Example Monster Stats:
 
 This section serves as both the abbreviation reference and the full word definition area for the system. Each entry begins with the common abbreviation (if any), followed by the full term in parentheses. All entries are alphabetized for quick reference.
 
-Abilities🧠 – All non-physical features of a character: Attributes✅, Skills🎓, Skill Sets🎓, Rules📜, and Powers🔥.
+Abilities🧠 – All non-physical features of a character: Attributes✅, Skills🎓, Skill Sets🎓, Spec Rules📜, and Powers🔥.
 
 Ability Roll – Roll #d20 + d(Atr) + Bonus versus a difficulty to determine success or failure. The number of d20 is specified by skilled/unskilled, advantage/disadvantage.
 
@@ -302,7 +304,7 @@ Rng🎯 (Ranged) – Weapon group that includes all abilities with notable rang
 
 Rnd (Round) – A single turn in combat in which every monster and every PC performs their AMP actions.
 
-Rules📜 – Special rules, passives, and mechanical boons on the Character Sheet's "Rules" card. Some Rules are 0 AP traits, while other Rules may be learned for AP like most other elements. Distinct from the macro game engine rules on the website and SoT.
+Rules📜 – The global game system rules, core mechanics, combat economy, and resolution engine documented in this manual and on the official website.
 
 Session – A day in the player’s life, referring to one game session.
 
@@ -316,9 +318,11 @@ Skill🎓 – An ability roll using #d20 + d(Atr) + Bonus, usually vs. a GM-set
 
 Skill Set🎓 – A logical collection of related skills (e.g., Thievery includes climb, pick locks, stealth).
 
+Spec Rules📜 (Specific / Specialization Rules) – Modular specific rules, physiological boons, tactical modifications, and rules exceptions queried from the spec_rules database table and listed on the Character Sheet in the "Spec Rules" card.
+
 Stats – All recorded values: Atr, Vit, MR, Def, Atk, Block Cap, Actions, Usage, etc.
 
-Trait(s)🧬 – AP FREE (0 AP) elements that the character simply gains. Any element (Rules, Gear, Skills, Skill Sets, Weapons, Armor, Shields, Powers, Exotics, and Artifacts) may be a trait, but NONE of them are always traits.
+Trait(s)🧬 – AP FREE (0 AP) elements that the character gains. The word "Trait" is ENTIRELY reserved to designate a 0 AP element. Any element (Spec Rules, Gear, Skills, Skill Sets, Weapons, Armor, Shields, Powers, Exotics, and Artifacts) may be a Trait, but NONE of them are always Traits. All Traits are auto-taken upon gaining/selecting a Kit and may not be removed without GM approval.
 
 Tremendous🌟 – A natural 20 on any d20 in an ability roll.
 
