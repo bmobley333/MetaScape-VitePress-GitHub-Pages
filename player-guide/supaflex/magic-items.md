@@ -1,9 +1,9 @@
-# ⚡ Loadout: Relics & Hardware Catalog
+# ⚡ Loadout: Artifacts & Exotics Catalog
 
-Dynamic magical relics and store-bought hardware indexed from the master databases.
+Dynamic magical artifacts and store-bought exotics indexed from the master databases.
 
 
-## **🍺 Minor Relics (Loot Drops)**
+## **🍺 Minor Artifacts (Loot Drops)**
 
 | Usage | Action | Name | Effect |
 | --- | --- | --- | --- |
@@ -85,7 +85,7 @@ Dynamic magical relics and store-bought hardware indexed from the master databas
 | 1-Enc | P | **Zither Pick** | Strum; Heal d✨ to 1 ally. |
 | 1-Enc | M | **Zoom Charm** | Target's next ranged Atk with Advantage. |
 
-## **🪄 Lesser Relics (Loot Drops)**
+## **🪄 Lesser Artifacts (Loot Drops)**
 
 | Usage | Action | Name | Effect |
 | --- | --- | --- | --- |
@@ -168,7 +168,7 @@ Dynamic magical relics and store-bought hardware indexed from the master databas
 | 2-Enc | A | **Wand of Fire Bolts** | Magic✨ Atk for d✨+1 fire Dmg; Magic✨or target burns d4 Dmg/rnd. |
 | 3-Enc | P | **Willstone** | When held: Domination(👁️)^🫀; Perm Men(*2) while on person. |
 
-## **🪬 Greater Relics (Loot Drops)**
+## **🪬 Greater Artifacts (Loot Drops)**
 
 | Usage | Action | Name | Effect |
 | --- | --- | --- | --- |
@@ -287,7 +287,7 @@ Dynamic magical relics and store-bought hardware indexed from the master databas
 | 1-Enc | F | **Volcanic Shard of Reth’Vash 3** | After you Heal ally from 0 or less Vit to 1+, make 1 Brawl Opportunity Atk. |
 | 1-Enc | A | **Whisper [Weapon]** | On Atk; Whisper target positions at Mind👁️ to detect Invisible monsters. |
 
-## **⚙️ Hardware (Store & Tech Devices)**
+## **🧿 Exotics (Store & Tech Devices)**
 
 | Usage | Action | Cost | Name | Effect |
 | --- | --- | --- | --- | --- |
