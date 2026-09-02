@@ -32,66 +32,66 @@ outline: 2
 
 🔄 Standardized Usage Options – All usage dropdowns, database entries, and ability definitions across SupaFlex enforce this exact 9-option list and order: `1`, `2`, `3`, `1-⚡`, `1-🍀`, `1-Enc`, `2-Enc`, `3-Enc`, `1-Rnd`.
 
+## 🏛️ System Taxonomy: Paths, Kits, Elements, Equipment & Abilities
 
-
-## 🏛️ System Taxonomy: Elements, Equipment, Abilities, Kits & Traits
-
-The complete SupaFlex game system is structured into a unified, visual hierarchy:
+The complete SupaFlex game system is structured around the **Trinity of Mechanics**:
+1. **Ownership (What you Know & Possess):** Intangible character capabilities (**Paths 🧭**) are unlocked with AP; tangible hardware packages (**Kits 🎒**) are purchased with Currency (Gold / Silver) or found as treasure.
+2. **Execution (What you Do in Combat):** Governed by the 4-channel Action Economy ($1\text{ Attack [A]} + 1\text{ Move [M]} + 1\text{ Power [P]} + \text{Unlimited Free [F]}$) with **Auto-Readied Powers** on the active Power Card.
+3. **Capacity (What you Attune / Integrate Simultaneously):** Exceptional items—both Magic Relics (**Artifacts 💍**) and Cyberware/Biotech/Tech (**Exotics 🧿**)—draw from a single, shared **Loadout Capacity Pool** (Base 4 Loadout Slots at Level 1).
 
 ```text
-                                  [ 🎭 KITS ]
-                  (Logical Collections of Elements: Race, Class, etc.)
-                                         │
-                                         ▼
                                   [ 🌟 ELEMENTS ]
                    (All Physical Items & Non-Physical Features)
                                          │
                  ┌───────────────────────┴───────────────────────┐
                  ▼                                               ▼
-         [ 🧰 EQUIPMENT ]                                [ 🧠 ABILITIES ]
-      (All Physical Items)                         (All Non-Physical Features)
-     ┌───────────┼───────────┐                ┌──────┬───────┼───────┬─────────┬────────┐
-     ▼           ▼           ▼                ▼      ▼       ▼       ▼         ▼        ▼
-  [ ⚙️ GEAR ]  [ 🧿 EXOTICS ] [ 💍 ARTIFACTS ] [ ATR ] [SKILL] [SKILLSET][SPEC RULES][POWERS]
-  (Mundane)   (Store/Tech)   (Loot/Relic)       (✅)    (🎓)      (🎓)      (📜)     (🔥)
-     │           │           │
-     └───────────┼───────────┘
-                 ▼
- [ ⚔️ WEAPONS • 🧥 ARMOR • 🛡️ SHIELDS ]
- (Typically Gear; Exotic & Artifact versions exist)
-                                                                 ▲
- ┌───────────────────────────────────────────────────────────────┴────────────────────────┐
- │                               [ 🧬 TRAIT (0 AP / FREE) ]                               │
- │ (Orthogonal Property: Any Element can be a Trait; 0 AP cost; no Element is always a Trait) │
- └────────────────────────────────────────────────────────────────────────────────────────┘
+         [ 🧭 PATHS (AP) ]                               [ 🎒 KITS (g/s) ]
+   (Intangible Capability Suites)                  (Tangible Hardware Suites)
+                 │                                               │
+                 ▼                                               ▼
+         [ 🧠 ABILITIES ]                                [ 🧰 EQUIPMENT ]
+   ┌──────┬───────┼───────┬─────────┬────────┐     ┌───────────┼───────────┐
+   ▼      ▼       ▼       ▼         ▼        ▼     ▼           ▼           ▼
+ [ ATR ] [SKILL] [SKILLSET][SPEC RULES][POWERS]  [ ⚙️ GEAR ]  [ 🧿 EXOTICS ] [ 💍 ARTIFACTS ]
+  (✅)    (🎓)      (🎓)      (📜)     (🔥)      (Mundane)   (Store/Tech)   (Loot/Relic)
+                                                    (0 Slots)   (1–4 Slots)    (1–4 Slots)
+                                                       │           │           │
+                                                       └───────────┼───────────┘
+                                                                   ▼
+                                                   [ ⚔️ WEAPONS • 🧥 ARMOR • 🛡️ SHIELDS ]
+                                                   (Typically Gear; Exotic & Artifact versions exist)
+                                                                   ▲
+ ┌─────────────────────────────────────────────────────────────────┴────────────────────────┐
+ │                              [ 🧬 {Trait} (0 AP Starting Grant) ]                        │
+ │           [ {Free} (Hardware components included in purchased Equipment Kits) ]          │
+ └──────────────────────────────────────────────────────────────────────────────────────────┘
 ```
 
 ### 🔑 Architectural Pillars & Hierarchy Rules
 
-1. **🌟 Elements = 🧰 Equipment + 🧠 Abilities:**
-   * **🧰 Equipment (All Physical Items):** The master parent category encompassing everything a character carries, wears, or utilizes. Subdivided into **⚙️ Gear** (mundane items), **🧿 Exotics** (high-tier commercial/black-market items), and **💍 Artifacts** (priceless, find-only treasure).
-   * **🧠 Abilities (All Non-Physical Features):** The master parent category encompassing innate character features. Subdivided into **✅ Attributes**, **🎓 Skills**, **🎓 Skill Sets**, **📜 Spec Rules**, and **🔥 Powers**.
+1. **🌟 Elements = 🧠 Abilities + 🧰 Equipment:**
+   * **🧠 Abilities (Intangible Features):** Unlocked via AP and packaged into **Paths (`🧭`)**. Subdivided into **✅ Attributes**, **🎓 Skills**, **🎓 Skill Sets**, **📜 Spec Rules**, and **🔥 Powers**.
+   * **🧰 Equipment (Physical Items):** Purchased with Gold / Silver or found as treasure, packaged into **Kits (`🎒`)**. Subdivided into **⚙️ Gear** (mundane, 0 slots), **🧿 Exotics** (commercial/black-market advanced tech, 1–4 slots), and **💍 Artifacts** (priceless magic relics, 1–4 slots).
 
-2. **⚔️ Weapons, 🧥 Armor, and 🛡️ Shields as Equipment:**
+2. **🧭 Paths vs. 🎒 Kits Taxonomy:**
+   * **Paths (`🧭`):** Intangible character identity and capability suites (Race Paths, Class Paths, Discipline Paths, Specialization Paths). Unlocked via AP and character creation. Hallmark starting traits use curly-brace notation: `{Trait}` indicating 0 AP starting grants.
+   * **Kits (`🎒`):** Tangible manufactured equipment and hardware suites (Powered Armor Suites, Trauma Kits, Field Toolkits, Infiltration Packs). Purchased with Gold / Silver ($g / s$) or acquired as treasure. Included hardware components use the `{Free}` tag.
+   * **Starting Paths:** Every character starts with 2 Learned Paths: **Race Path (`🧭`)** and **Class Path (`🧭`)**.
+   * **Learning New Paths:** Beyond starting paths, additional Paths may be learned for **4 AP WITH GM Approval**.
+
+3. **⚔️ Weapons, 🧥 Armor, and 🛡️ Shields as Equipment:**
    * Weapons, Armor, and Shields are all **Equipment (`🧰`)**.
    * They are typically considered mundane **Gear (`⚙️`)** (0 Loadout slots), but high-tier, specialized, or enchanted versions exist as **Exotics (`🧿`)** or **Artifacts (`💍`)** (1–4 Loadout slots).
-   * **Default Gear Possession Rule:** When a character learns or becomes skilled in a new weapon, armor, or shield (via starting Kit or AP advancement), the default system rule is that they are assumed to possess that physical item as standard mundane Gear (`⚙️`) (although a GM may determine otherwise depending upon the group's playstyle and narrative context).
+   * **Default Gear Possession Rule:** When a character learns or becomes skilled in a new weapon, armor, or shield (via starting Path or AP advancement), the default system rule is that they are assumed to possess that physical item as standard mundane Gear (`⚙️`) (unless the GM determines otherwise based on campaign tone and narrative context).
 
-3. **🎭 Kits (Logical Element Collections):**
-   * A Kit is a curated collection of Elements defining a cohesive character concept (e.g. Race Kits, Class Kits, Faction Kits, Archetype Kits).
-   * **No Nested Kits:** A Kit contains only Elements and cannot directly contain another Kit (because a Kit is not an Element). However, a Kit may contain a Spec Rule (`📜`) that grants access to other Kits.
-   * **Starting Kits:** Every character starts with 2 Learned Kits: **Race Kit (`🎭`)** and **Class Kit (`🎭`)**.
-   * **Learning New Kits:** Beyond starting kits, additional Kits may be learned for **4 AP WITH GM Approval**.
-
-4. **🧬 Traits (0 AP / Free Elements & Auto-Taken Invariant):**
-   * The word **Trait** is **ENTIRELY reserved** to designate an orthogonal status meaning the element costs **0 AP (Free)** to gain.
-   * Any Element (Spec Rules, Gear, Skills, Skill Sets, Weapons, Armor, Shields, Powers, Exotics, Artifacts) can be a Trait, but **NONE** of them are *always* Traits.
-   * **Auto-Taken & Removal Protection:** All Traits are auto-taken upon gaining or selecting a Kit, and **may not be removed without GM approval**.
-   * *Spec Rules as Traits vs. Learned Spec Rules:* Some Spec Rules are 0 AP Traits (e.g. inherent racial physiology), while other Spec Rules are learned for standard AP costs like powers or skills.
+4. **🧬 Traits ({Trait} / 0 AP Free Grants):**
+   * The word **Trait** (and `{Trait}` notation) is **ENTIRELY reserved** to designate an orthogonal status meaning the element costs **0 AP (Free)** to gain as a starting grant.
+   * Any Element can be a Trait, but **NONE** of them are *always* Traits.
+   * **Auto-Taken & Removal Protection:** All Traits are auto-taken upon selecting a Path, and **may not be removed without GM approval**.
 
 5. **📜 System Rules vs. 📜 Spec Rules Distinction:**
    * **Global System Rules (`📜`):** The macro game engine, core resolution mechanics, combat economy, and overarching rules of SupaFlex (found in this `.md` document and on the official website / VitePress Player Guide).
-   * **Spec Rules (`📜`):** Specific, modular rules, physiological features, tactical boons, and mechanical rule exceptions queried from the `spec_rules` database table and listed on the Character Sheet in the **Spec Rules** card. ("Spec" remains nuanced: could mean *specialization* or *specific*).
+   * **Spec Rules (`📜`):** Specific, modular rules, physiological features, tactical boons, and mechanical rule exceptions queried from the `spec_rules` database table and listed on the Character Sheet in the **Spec Rules** card.
    * **No Quirks or Flaws:** There are **NO quirks, flaws, or flaw points** in SupaFlex. There are only unified Spec Rules, Equipment, and Abilities.
 
 ---
@@ -120,13 +120,13 @@ Monster stats place the emojis before key numbers or number sets as in:
 | AR🧥 | 🧥 |  | ⚕️ | Medical & Healing Supplies⚕️ |
 | Armor🧥 | 🧥 |  | 🔥 | Power🔥 |
 | Art🎨 | 🎨 |  | ✅ | Atr✅ |
-| Artifacts💍 | 💍 |  | ✒️ | Writing & Communication✒️ |
+| Artifacts💍 (1–4 Slots) | 💍 |  | ✒️ | Writing & Communication✒️ |
 | Atr✅ | ✅ |  | ❤️ | Vit❤️ |
 | Block🧱 | 🛡️ |  | ⭐ | Level⭐ |
-| Camp Gear🏕️ | 🏕️ |  | 💫 | Epic💫 (Artifact / Magic Item) |
+| Camp Gear🏕️ | 🏕️ |  | 💫 | Epic💫 (4 Slots • Exotic / Artifact) |
 | Clothing & Personal👕 | 👕 |  | 🌟 | Tremendous🌟 |
 | Combat ⚔️ | ⚔️ |  | 🍀 | Luck🍀 |
-| Containers🧺 | 🧺 |  | 🍺 | Minor🍺 (Exotic / Artifact) |
+| Containers🧺 | 🧺 |  | 🍺 | Minor🍺 (1 Slot • Exotic / Artifact) |
 | Critical💀 | 💀 |  | 🙂 | Emoji🙂 |
 | Days📅 | 📅 |  | 📖 | Term📖 |
 | Dmg💥 | 💥 |  | 🎨 | Art🎨 |
@@ -135,52 +135,55 @@ Monster stats place the emojis before key numbers or number sets as in:
 | Elements🌟 | 🌟 |  | 🎵 | Entertainment & Instruments🎵 |
 | Emoji🙂 | 🙂 |  | 🏃 | Motion🏃 |
 | Entertainment & Instruments🎵 | 🎵 |  | 🏕️ | Camp Gear🏕️ |
-| Epic💫 (Artifact / Magic Item) | 💫 |  | 🐉 | Monster 🐉 |
+| Epic💫 (4 Slots) | 💫 |  | 🐉 | Monster 🐉 |
 | Equipment🧰 | 🧰 |  | 🐴 | Travel & Animals🐴 |
-| Exotics🧿 | 🧿 |  | 👁️ | Mind👁️ |
+| Exotics🧿 (1–4 Slots) | 🧿 |  | 👁️ | Mind👁️ |
 | Food & Drink🥖 | 🥖 |  | 👕 | Clothing & Personal👕 |
-| Gear⚙️ | ⚙️ |  | 👣 | MR👣 |
+| Gear⚙️ (0 Slots) | ⚙️ |  | 👣 | MR👣 |
 | GM🔎 | 🔎 |  | 💪 | Might💪 |
-| Greater🪬 (Exotic / Artifact) | 🪬 |  | 💰 | Money💰 |
-| Hazard💀 | 💀 |  | 💍 | Artifacts💍 / Loadout💍 |
+| Greater🪬 (3 Slots) | 🪬 |  | 💰 | Money💰 |
+| Hazard💀 | 💀 |  | 💍 | Artifacts💍 / Loadout Slots💍 |
 | Junk🗑️ | 🗑️ |  | 🧿 | Exotics🧿 |
-| Kits🎭 | 🎭 |  | ⚙️ | Gear⚙️ |
-| Lesser🪄 (Exotic / Artifact) | 🪄 |  | 🧰 | Equipment🧰 |
+| Kits🎒 (Hardware Suites) | 🎒 |  | ⚙️ | Gear⚙️ |
+| Lesser🪄 (2 Slots) | 🪄 |  | 🧰 | Equipment🧰 |
 | Level⭐ | ⭐ |  | 📅 | Days📅 |
-| Loadout💍 | 💍 |  | 📜 | Rules📜 / Notes📜 |
+| Loadout Slots💍 | 💍 |  | 📜 | Rules📜 / Notes📜 |
 | Luck🍀 | 🍀 |  | 🔷 | Actions🔷 |
-| Magic Item✨ | ✨ |  | 🔎 | GM🔎 |
-| Magic✨ | ✨ |  | 🪄 | Lesser🪄 (Exotic / Artifact) |
+| Magic Item✨ (Exotic / Artifact) | ✨ |  | 🔎 | GM🔎 |
+| Magic✨ | ✨ |  | 🪄 | Lesser🪄 (2 Slots • Exotic / Artifact) |
 | Martial Arts🥋 | 🥋 |  | 🗑️ | Junk🗑️ |
 | Medical & Healing Supplies⚕️ | ⚕️ |  | 🗡️ | Single Weapon🗡️ |
 | Might💪 | 💪 |  | 🥋 | Martial Arts🥋 |
 | Mind👁️ | 👁️ |  | 🥖 | Food & Drink🥖 |
-| Minor🍺 (Exotic / Artifact) | 🍺 |  | 🧩 | AP🧩 |
+| Minor🍺 (1 Slot) | 🍺 |  | 🧩 | AP🧩 |
 | Money💰 | 💰 |  | 🫀 | Moxie🫀 |
 | Monster 🐉 | 🐉 |  | 🧬 | Traits🧬 / Racial🧬 |
 | Motion🏃 | 🏃 |  | 🧺 | Containers🧺 |
 | Moxie🫀 | 🫀 |  | 🚩 | Nish🚩 |
-| MR👣 | 👣 |  | 🪬 | Greater🪬 (Exotic / Artifact) |
+| MR👣 | 👣 |  | 🪬 | Greater🪬 (3 Slots • Exotic / Artifact) |
 | Natural Weapons🥊 | 🥊 |  | 🛠️ | Tools & Equipment🛠️ |
 | Nish🚩 | 🚩 |  | 🩸 | Wnd🩸 |
 | Notes📜 | 📜 |  | 🧥 | AR🧥 / Armor🧥 |
-| Power🔥 | 🔥 |  | 🛡️ | Weapon & Shield🛡️ / Shields🛡️ / Block🧱 |
-| Racial 🧬 | 🧬 |  | 🥊 | Natural Weapons🥊 / Unarmed🥊 |
-| Range🎯 | 🎯 |  | 💀 | Affliction💀 / Critical💀 / Hazard💀 |
-| Resist✨ | ✨ |  | 🎓 | Skill Set🎓 / Skill🎓 |
-| Rules📜 | 📜 |  | ⚔️ | Combat⚔️ / Dual Wield⚔️ / Weapon⚔️ |
-| Save✨ | ✨ |  | ✨ | Magic Item✨ / Magic✨ / Save✨ / Resist✨ |
-| Shields🛡️ | 🛡️ |  | 🎭 | Kits🎭 |
-| Single Weapon🗡️ | 🗡️ |  | 🧬 | Traits🧬 |
+| Paths🧭 (Capability Suites) | 🧭 |  | 🛡️ | Weapon & Shield🛡️ / Shields🛡️ / Block🧱 |
+| Power Card🔥 | 🔥 |  | 🥊 | Natural Weapons🥊 / Unarmed🥊 |
+| Power🔥 | 🔥 |  | 💀 | Affliction💀 / Critical💀 / Hazard💀 |
+| Racial 🧬 | 🧬 |  | 🎓 | Skill Set🎓 / Skill🎓 |
+| Range🎯 | 🎯 |  | ⚔️ | Combat⚔️ / Dual Wield⚔️ / Weapon⚔️ |
+| Resist✨ | ✨ |  | ✨ | Magic Item✨ / Magic✨ / Save✨ / Resist✨ |
+| Rules📜 | 📜 |  | 🎒 | Kits🎒 (Hardware Suites) |
+| Save✨ | ✨ |  | 🧭 | Paths🧭 (Capability Suites) |
+| Shields🛡️ | 🛡️ |  | 🧬 | Traits🧬 |
+| Single Weapon🗡️ | 🗡️ |  |  |  |
 | Skill Set🎓 | 🎓 |  |  |  |
 | Skill🎓 | 🎓 |  |  |  |
 | Term📖 | 📖 |  |  |  |
 | Tools & Equipment🛠️ | 🛠️ |  |  |  |
-| Traits🧬 | 🧬 |  |  |  |
+| Traits🧬 ({Trait}) | 🧬 |  |  |  |
 | Travel & Animals🐴 | 🐴 |  |  |  |
 | Tremendous🌟 | 🌟 |  |  |  |
 | Unarmed 🥊 | 🥊 |  |  |  |
 | Usage🔄 | 🔄 |  |  |  |
+| Vault📦 | 📦 |  |  |  |
 | Vit❤️ | ❤️ |  |  |  |
 | Weapon & Shield🛡️ | 🛡️ |  |  |  |
 | Weapon⚔️ | ⚔️ |  |  |  |
@@ -204,23 +207,25 @@ Example Monster Stats:
 
 This section serves as both the abbreviation reference and the full word definition area for the system. Each entry begins with the common abbreviation (if any), followed by the full term in parentheses. All entries are alphabetized for quick reference.
 
-Abilities🧠 – All non-physical features of a character: Attributes✅, Skills🎓, Skill Sets🎓, Spec Rules📜, and Powers🔥.
+Abilities🧠 – All non-physical features of a character: Attributes✅, Skills🎓, Skill Sets🎓, Spec Rules📜, and Powers🔥 (unlocked via AP and organized into Paths🧭).
 
 Ability Roll – Roll #d20 + d(Atr) + Bonus versus a difficulty to determine success or failure. The number of d20 is specified by skilled/unskilled, advantage/disadvantage.
 
-Action🔷 (A, M, P, F) – MetaScape uses the AMP (Attack, Move, Partial) action system that also includes Free actions.
+Action🔷 (A, M, P, F, AM) – MetaScape uses the 4-channel AMP action system (Attack, Move, Power, plus Unlimited Free actions and hybrid AM).
 
 Adv (Advantage) – Gain an extra d20 during an ability roll.
 
-AP🧩 (Adventure Point) – Earned resource spent to advance, learn new powers🔥, or improve stats.
+AP🧩 (Adventure Point) – Earned progression currency spent to unlock Paths🧭, learn new abilities🧠, expand Loadout Slots💍, or improve stats.
 
-AR🧥 (Armor Rating) / Armor🧥 – Equipment🧰 worn to absorb damage. Defense is always Dod/AR or Blk/AR; armor is the AR part. Standard armor is mundane Gear⚙️ (0 loadout slots); high-tier, specialized, or enchanted suits exist as Exotics🧿 or Artifacts💍. When learned, characters are assumed to possess the item as Gear⚙️ by default.
+AR🧥 (Armor Rating) / Armor🧥 – Equipment🧰 worn to absorb damage. Defense is always Dod/AR or Blk/AR; armor is the AR part. Standard armor is mundane Gear⚙️ (0 loadout slots); high-tier, specialized, or enchanted suits exist as Exotics🧿 or Artifacts💍 (1–4 loadout slots). When learned, characters are assumed to possess the item as Gear⚙️ by default.
 
-Artifact💍 (formerly Relic) – Exceptionally rare, unique, or priceless items—such as ancient relics, alien monoliths, or divine masterworks—that exist outside the standard economy and cannot be normally purchased or manufactured. Governed by the same Loadout limits, activation costs, and rules balance as powers.
+Artifact💍 (Magic Relics) – Exceptionally rare, unique, or priceless magical items—such as ancient relics, alien monoliths, or divine masterworks—that exist outside the standard economy and cannot be normally purchased or manufactured. Slotted into the shared Loadout Capacity Pool based on tier: 🍺 Minor (1 Slot), 🪄 Lesser (2 Slots), 🪬 Greater (3 Slots), 💫 Epic (4 Slots). Inactive artifacts reside in the Vault📦.
 
 Atk (Attack) – Any offensive roll or strike made with a weapon, power🔥, or ability.
 
 Atr✅ (Attribute) – The five core attributes: Might💪, Motion🏃, Mind👁️, Magic✨, and Moxie🫀.
+
+Auto-Readied Powers – All learned powers are immediately active and readied on the character's Power Card without requiring categorization into rigid ready-slot buckets.
 
 Block Cap🧱 – The maximum monster damage a melee weapon or shield can block.
 
@@ -242,97 +247,111 @@ Effect – The outcome of using an ability, exotic, artifact, or magic item.
 
 Element(s)🌟 – The universal parent category encompassing every physical item and non-physical feature in the game (ALL Equipment🧰 and ALL Abilities🧠).
 
-Enc (Encounter) – The series of rounds that make up a combat event.
+Enc (Encounter) – The series of rounds that make up a combat event or distinct roleplaying scene.
 
-Equipment🧰 – The universal parent category encompassing every physical item, tool, weapon, armor piece, shield, supply, or object a character can carry, wear, or utilize. Acts as the master inventory container; all items in the game are Equipment (subdivided into Gear⚙️, Exotics🧿, and Artifacts💍). Weapons⚔️, Armor🧥, and Shields🛡️ are all Equipment.
+Equipment🧰 – The universal parent category encompassing every physical item, tool, weapon, armor piece, shield, supply, or object a character can carry, wear, or utilize. Subdivided into Gear⚙️ (0 slots), Exotics🧿 (1–4 slots), and Artifacts💍 (1–4 slots).
 
-Exotic🧿 (formerly Hardware) – High-tier, specialized, or advanced equipment potent enough to rival innate character abilities, but established and regulated enough to carry a commercial or black-market price tag. Governed by the same Loadout limits, activation costs, and rules balance as powers.
+Exclusive Stacking Master Rule – A character may benefit from only the single highest value or best effect of a given power or modifier at any time (bonuses, damage amplifiers, and movement replacements do not stack unless an ability explicitly states otherwise).
+
+Exotic🧿 (Advanced Tech / Cyberware / Biotech) – High-tier, specialized, or advanced equipment potent enough to rival innate character abilities, carrying a commercial or black-market price tag. Slotted into the shared Loadout Capacity Pool based on tier: 🍺 Minor (1 Slot), 🪄 Lesser (2 Slots), 🪬 Greater (3 Slots), 💫 Epic (4 Slots). Inactive exotics reside in the Vault📦.
 
 Ext Rng (Extended/Long Range) – A greater range (at disadvantage) that a weapon, ability, or item can reach.
 
-Fatigue – A minimal amount of Wnds🩸 a PC suffers IF HIT by a monster regardless of PC’s AR🧥 roll. Default monster Fatigue equals the monster Dmg💥 ten’s digit + 1 (e.g., Dmg 1–9 = 1, 10–19 = 2, 20–29 = 3, 30–39 = 4, etc.). Monsters or GMs can add special ability rules for huge or giant monsters (like dragons or elites) to modify this default rule.
+Fatigue – A minimal amount of Wnds🩸 a PC suffers IF HIT by a monster regardless of PC’s AR🧥 roll. Default monster Fatigue equals the monster Dmg💥 ten’s digit + 1 (e.g., Dmg 1–9 = 1, 10–19 = 2, 20–29 = 3, 30–39 = 4, etc.).
 
-Focus Die – A resource die (d4–d12) that can be spent to boost a roll, stepping down when used and stepping up on Flood triggers.
+Focus Die – A core resource die (d4–d12) that can be spent once per roll after seeing the result, stepping down when used ($d12 \rightarrow d10 \rightarrow d8 \rightarrow d6 \rightarrow d4 \rightarrow \text{Exhausted}$) and stepping up on Flood triggers.
 
-g / gp (Gold Piece) – A gold coin; 100 silver (s) = 1 gold (g).
+g / gp (Gold Piece) – Primary gold currency; 100 silver (s) = 1 gold (g).
 
-Gear⚙️ – Standard, mundane physical items readily available in the world's economy that operate within baseline mundane rules (everyday weapons⚔️, armor🧥, shields🛡️, tools, and adventuring supplies). Does not consume Loadout slots or compete with innate character abilities. When a character learns a weapon, armor, or shield, the default rule is that they possess it as Gear⚙️.
+Gear⚙️ – Standard, mundane physical items readily available in the world's economy that operate within baseline mundane rules (weapons⚔️, armor🧥, shields🛡️, tools, adventuring supplies). Consumes 0 Loadout Slots.
 
 GM (Game Master) – The person running the game and story.
 
-GM Intensity Die – A single d20 used by the GM for fast intensity or NPC vs NPC rolls.
+GM Intensity Die – A single d20 used by the GM for fast intensity or snap environmental adjudication.
 
 Hit – When an attack successfully lands.
 
 H, Hu (Hurled) – Physically thrown weapons (daggers, axes, javelins, etc.).
 
-Kit(s)🎭 – A logical collection of elements to define some character concept such as Race Kits, Class Kits, etc. The elements of a kit may or may not be traits (0 AP). A Kit cannot directly contain another Kit as Kits only contain elements and a Kit is not an element. However, a Kit may contain a rule that provides access to other kits.
+Kit(s)🎒 – Tangible manufactured equipment and hardware suites (Armor suites, Toolkits, Survival packs, Cyberware). Purchased with Gold / Silver ($g / s$) or acquired as treasure. Included items carry the `{Free}` tag.
 
-Lvl⭐ (Level) – A character’s level, equal to their total AP🧩.
+Level⭐ (Lvl) – A character’s level, equal to their total earned AP🧩.
+
+Loadout Slots💍 – The universal capacity pool (Base 4 Slots at Level 1) governing how many Exotics🧿 and Artifacts💍 a character can actively attune or integrate simultaneously. Expands via the uncapped $+2\text{ Slots}$ per $k\text{ AP}$ schedule.
+
+Luck🍀 – Metacurrency chits spent for full roll rerolls (pure variance mitigation). A roll may use Focus OR Luck, but never both.
 
 M/H/S (Melee, Hurled, Shot) – Shorthand for weapon types.
 
-Magic Item✨ – Magical items categorized as Minor🍺, Lesser🪄, Greater🪬, or Epic💫 (synonymous with magical Exotics and Artifacts).
+Magic Item✨ – Magical items categorized as Minor🍺 (1 Slot), Lesser🪄 (2 Slots), Greater🪬 (3 Slots), or Epic💫 (4 Slots) (synonymous with magical Exotics and Artifacts).
 
-Mgt💪 (Might💪) – Attribute✅ for brute force, melee weapons Atk⚔️ and Dmg💥, armor size (Strength Saves), block Def, shields, physical strength, lifting
+Mgt💪 (Might💪) – Attribute✅ for brute force, melee weapons Atk⚔️ and Dmg💥, armor size, block Def, shields, physical strength.
 
-Mot🏃 (Motion🏃) – Attribute✅ for agility, Nish🚩, movement, hurled weapons Atk⚔️ and Dmg💥 (Reflex Saves), dodge, athletics, dexterity, balance, reflexes, sneaking, acrobatics
+Mot🏃 (Motion🏃) – Attribute✅ for agility, Nish🚩, movement, hurled weapons Atk⚔️ and Dmg💥, dodge, athletics, dexterity, balance, sneaking.
 
-Mnd👁️ (Mind👁️ ) – Attribute✅ for logic, knowledge, shot weapons Atk⚔️ and Dmg💥, awareness (Mental Saves), intelligence, personality, wit, charm, persuade, reason, cunning, and mental presence. Governs insight👁️, deception, intimidation, persuasion
+Mnd👁️ (Mind👁️ ) – Attribute✅ for logic, knowledge, shot weapons Atk⚔️ and Dmg💥, awareness, intelligence, persuasion, deception.
 
-Mag✨ ( Magic✨ ) – Attribute✅ for super-natural abilities, Gear, Tech, Cyber (Arcane Saves). Governs spellcasting, channeling Powers🔥and using magical items
+Mag✨ (Magic✨) – Attribute✅ for supernatural abilities, arcane channeling, powers, and mystical device operation.
 
-Mox🫀 (Moxie🫀) – Attribute✅ for stamina, grit, vitality (Stamina Saves, Death Checks). Governs Vit❤️, death checks, unconscious checks, and most bodily resistance checks
+Mox🫀 (Moxie🫀) – Attribute✅ for stamina, grit, vitality, death checks, and physical endurance.
 
-M, Me (Melee) – Weapons swung or stabbed in close combat (swords, daggers, fists, etc.).
+M, Me (Melee) – Weapons swung or stabbed in close combat.
 
 MR👣 (Movement Rate) – The number of squares a character or monster can move in one round.
 
 Nish🚩 (Initiative) – Determines turn order in combat.
 
-Opp Atk (Opportunity Attack) – An F action attack using only the weapon in hand (no powers or magic item enhancements).
+Opp Atk (Opportunity Attack) – An F action basic reaction attack using only the weapon in hand.
+
+Path(s)🧭 – Intangible character capability and identity suites (Race Paths, Class Paths, Discipline Paths, Specialization Paths). Unlocked via AP and character creation. Hallmark starting traits carry the `{Trait}` (0 AP) tag.
 
 PC (Player Character) – A player-controlled character.
 
 Player – A person running a character (not the GM).
 
-Power🔥 – An ability that must be learned with AP🧩, has defined usage/action/effect, and modifies rules.
+Power Card🔥 – The active character sheet card titled "Powers" displaying all learned, auto-readied powers.
 
-Rng🎯 (Range) – The distance a weapon, ability, or magic item can cover.
+Power🔥 – An ability learned with AP🧩 that operates within the 4-channel Action Economy ($\text{A}, \text{M}, \text{P}, \text{F}$) and defined usage frequencies.
 
-Rng🎯 (Ranged) – Weapon group that includes all abilities with notable ranges (i.e. hurled and shot weapons⚔️, Powers🔥 with ranges, etc.)
+Powers-Known Progressive Soft Tax – Escalating AP surcharge applied to total powers learned (Powers 1–6 = 1 AP base; 7–9 = 2 AP; 10–14 = 3 AP; 15+ = 4 AP).
 
-Rnd (Round) – A single turn in combat in which every monster and every PC performs their AMP actions.
+Rng🎯 (Range) – Distance categorized into 5 bands: Touch/Melee (≤1 sq), Short (≤6 sq), Medium (≤12 sq), Long (≤24 sq), Extreme (≥25 sq).
 
-Rules📜 – The global game system rules, core mechanics, combat economy, and resolution engine documented in this manual and on the official website.
+Rnd (Round) – A single turn in combat where every participant performs their actions.
+
+Rules📜 – The global game system rules, core mechanics, combat economy, and resolution engine.
+
+s / sp (Silver Piece) – Silver currency; 100s = 1g.
 
 Session – A day in the player’s life, referring to one game session.
 
-S, Sh (Shot) – Ranged weapons that are not thrown (bows, crossbows, blowguns, etc.).
+S, Sh (Shot) – Ranged weapons that are not thrown (bows, crossbows, firearms).
 
-s / sp (Silver Piece) – A silver coin; 100s = 1g.
+Shields🛡️ – Equipment🧰 held in the off-hand to block incoming attacks up to a Block Cap. Standard shields are Gear⚙️ (0 slots); enchanted/high-tech shields are Exotics🧿 or Artifacts💍 (1–4 slots).
 
-Shields🛡️ – Equipment🧰 held in the off-hand to block incoming attacks up to a Block Cap. Baseline shields are mundane Gear⚙️; high-tech or enchanted shields exist as Exotics🧿 or Artifacts💍. When learned, characters are assumed to possess the shield as Gear⚙️ by default.
+Single Die Rule (Single-Explode Capped) – Any single-die resolution roll (Damage `Dmg` and Armor Rating `AR`) explodes once, capped on max face (cannot chain further).
 
-Skill🎓 – An ability roll using #d20 + d(Atr) + Bonus, usually vs. a GM-set difficulty. Not supernatural; does not alter the world’s rules.
+Skill🎓 – An ability check using #d20 + d(Atr) + Bonus vs. Difficulty.
 
-Skill Set🎓 – A logical collection of related skills (e.g., Thievery includes climb, pick locks, stealth).
+Skill Set🎓 – A logical collection of related skills learned for 2 AP.
 
-Spec Rules📜 (Specific / Specialization Rules) – Modular specific rules, physiological boons, tactical modifications, and rules exceptions queried from the spec_rules database table and listed on the Character Sheet in the "Spec Rules" card.
+Spec Rules📜 – Modular specific rules, physiological boons, tactical modifications, and rules exceptions queried from the `spec_rules` database table.
 
-Stats – All recorded values: Atr, Vit, MR, Def, Atk, Block Cap, Actions, Usage, etc.
+Stats – All recorded values: Atr, Vit, MR, Def, Atk, Block Cap, Actions, Usage, Loadout Slots, etc.
 
-Trait(s)🧬 – AP FREE (0 AP) elements that the character gains. The word "Trait" is ENTIRELY reserved to designate a 0 AP element. Any element (Spec Rules, Gear, Skills, Skill Sets, Weapons, Armor, Shields, Powers, Exotics, and Artifacts) may be a Trait, but NONE of them are always Traits. All Traits are auto-taken upon gaining/selecting a Kit and may not be removed without GM approval.
+Trait(s)🧬 ({Trait}) – AP FREE (0 AP) starting elements granted by Paths. The `{Trait}` notation is ENTIRELY reserved to designate a 0 AP starting grant. Auto-taken and may not be removed without GM approval.
 
 Tremendous🌟 – A natural 20 on any d20 in an ability roll.
 
-Usage🔄 – The frequency an ability can be used (e.g., 1-Enc = once per encounter).
+Usage🔄 – Standardized 9-option list for ability frequency: `1`, `2`, `3`, `1-⚡`, `1-🍀`, `1-Enc`, `2-Enc`, `3-Enc`, `1-Rnd`.
 
-Vit❤️ (Vitality) – The amount of wounds a character or monster can sustain before death (monsters) or death checks (characters).
+Vault📦 – The unlimited repository for inactive Exotics🧿 and Artifacts💍. Items in the Vault can be swapped into active Loadout Slots during a 5-minute out-of-combat breather.
 
-Wnd🩸 (Wounds) – Damage sustained after AR🧥 or other reduction is applied.
+Vit❤️ (Vitality) – The amount of wounds a character or monster can sustain before death checks or death.
 
-Wpn⚔️ (Weapon) – Equipment🧰 wielded to strike or shoot targets in combat. Standard weapons are mundane Gear⚙️ (0 loadout slots); high-tier or enchanted weapons exist as Exotics🧿 or Artifacts💍. When learned, characters are assumed to possess the weapon as Gear⚙️ by default.
+Wnd🩸 (Wounds) – Damage sustained after AR🧥 reduction is applied.
+
+Wpn⚔️ (Weapon) – Equipment🧰 wielded to strike or shoot. Standard weapons are Gear⚙️ (0 slots); high-tier or enchanted weapons are Exotics🧿 or Artifacts💍 (1–4 slots).
 
 ### 🎲 Die Mechanics
 
@@ -561,7 +580,7 @@ How Attributes Work:
 
 Attribute dice are rolled in Ability Rolls: #d20 + d(Atr) + Bonus vs Dif .
 
-Attribute die values may improve through advancement, starting at d4, d4, d6, d8, d8, with a maximum of d8, d8, d8, d10, d12.
+Attribute die values start at **1x d4, 2x d6, 2x d8** across the five attributes at Level 1, improving through tier-gated AP advancement up to a hard maximum array of **1x d6, 1x d8, 1x d10, 2x d12** at Level 100.
 
 Attribute checks always use the die size tied to the relevant Attribute.
 
@@ -579,67 +598,61 @@ All abilities and items show their governing Atr: Might💪, Motion🏃, Mind�
 <!-- @popover:focus.basics -->
 ::: details ⚡ Quick Reference: Focus Die Rules
 
-Focus Roll
-* Focus Roll — Once per roll, after seeing the initial roll result, roll your current Focus Die (exploding) and add the result directly to your total.
-* Step-Down Rule — Focus Die drops (d12 ➔ d10 ➔ d8 ➔ d6 ➔ d4 ➔ Exhausted) if the initial focus die roll is not 1 or its Max #. Thus a d6 Focus will remain d6 if it rolls 1 or 6, otherwise becomes a d4 Focus.
+Focus Roll:
+* Spend Timing — Once per roll, after seeing the initial roll result, roll your current Focus Die and add the result directly to your total.
+* Explosion Type — Comparison rolls (Skill, Attack, Defense) explode freely on max face; Single-die rolls (Damage, Armor) single-explode capped.
+* Step-Down Rule — Spending your Focus Die steps it down one size on the ladder (d12 ➔ d10 ➔ d8 ➔ d6 ➔ d4 ➔ Exhausted).
 
 Requirement:
-* Eligible Rolls — Any ability roll, Damage, AR, and other rolls as GM allows.
-* Usage Limit — Limit 1 Focus per roll.
+* Eligible Rolls — Any ability roll, Damage, AR, and other checks as GM allows.
+* Usage Limit — Limit 1 Focus spend per roll.
+* Strict Exclusivity — A roll may use Focus OR Luck, but NEVER BOTH.
 
 Refilling Focus (The Flood):
 * Start of Combat — Step up +1 at the beginning of an encounter.
 * End of Combat — Step up +1 upon resolving an encounter.
-* Short Rest — Step up +1 when taking a short rest between combats.
+* Short Rest — Step up +1 when taking a short rest opportunity between combats.
 * Full Round Action — Spend an entire combat round taking no other actions to "Flood" (+1 step up).
 * Full Rest — A full night's sleep completely restores your Focus Die to its maximum ceiling size.
 
 :::
 <!-- /popover:focus.basics -->
 
-Focus is a core PC resource represented by a single die on the same d4→d6→d8→d10→d12 step ladder as attributes.
+Focus is a core PC resource represented by a single die on the same $d4 \rightarrow d6 \rightarrow d8 \rightarrow d10 \rightarrow d12$ step ladder as attributes.
 
 The Spend: Once per roll, after seeing the result, a player may roll their current Focus Die and add it to the total.
 
-Exploding Focus Die: All Focus Die rolls explode freely and indefinitely whenever they roll their maximum face (regardless of roll type — Skill, Attack, Defense, Damage, or Armor).
+Explosion Rules on Spend:
+* Comparison Rolls (Skill, Attack, Defense vs. Difficulty/Target): The Focus Die explodes **freely and indefinitely** whenever it rolls its maximum face.
+* Single Die Rolls (Damage, Armor): The Focus Die follows the **Single Die Rule (single-explode capped)** — it rerolls once on max face and adds, but that reroll cannot trigger further explosions.
 
-The Step-Down & Preservation Rule: When a player spends their Focus Die, if the first roll of the Focus Die is 1 or Max (e.g., rolling a 1 or 6 on a d6), the Focus Die remains unchanged at its current size. Otherwise (rolling any number between 2 and Max-1), the Focus Die steps down one size on the ladder (d12 → d10 → d8 → d6 → d4 → Exhausted).
+The Step-Down Rule: When a player spends their Focus Die, the Focus Die steps down one size on the ladder ($d12 \rightarrow d10 \rightarrow d8 \rightarrow d6 \rightarrow d4 \rightarrow \text{Exhausted}$).
 
 The Flood (Refill): When a Flood event triggers, the Focus Die steps up one size (up to its purchased maximum).
 
 Flood Triggers (+1 step up):
-
-Start of combat.
-
-End of combat.
-
-Taking a short rest opportunity between combats.
-
-Spending a full round doing nothing but "Flooding" (forgoing all actions).
+* Start of combat.
+* End of combat.
+* Taking a short rest opportunity between combats.
+* Spending a full round doing nothing but "Flooding" (forgoing all actions).
 
 Full Rest: A full night's sleep resets the Focus Die to its purchased maximum.
 
-Focus & Luck: Players can freely use both Focus and Luck on the same roll.
-
-Luck: Redo the whole roll (pure variance mitigation).
-
-Focus: Add to the roll already made (deliberate agency/boost).
+Focus vs. Luck (Strict Mutual Exclusivity): A player may use **Focus OR Luck** on a single roll, but **NEVER BOTH**.
+* **Luck (🍀):** Redo the whole roll (pure variance mitigation).
+* **Focus (🔮):** Add to the roll already made (deliberate agency/boost).
 
 ## 🧾 Character Creation
 
 Concept First: Any idea works — punk knight, techno-bard, gargoyle hero, soda rogue, etc.
 
-Concept
+### 🧭 Starting Paths & 🧬 {Trait} Grants
 
-Concept first: any character idea works.
+Every character begins with two Learned Paths:
+1. **🧬 Race Path (`🧭`):** Defines species traits, biology, and innate racial rules (0 AP {Trait} grants).
+2. **⚔️ Class Path (`🧭`):** Defines starting archetype, core skillset options, proficient weapons, armor, and starting powers.
 
-### 🎭 Starting Kits & 🧬 Traits
-
-Every character begins with two Learned Kits:
-1. **🧬 Race Kit (`🎭`):** Defines species traits, biology, and innate racial rules (0 AP Traits).
-2. **⚔️ Class Kit (`🎭`):** Defines starting archetype, core skillset options, proficient weapons, armor, and starting powers.
-
-**🧬 Starting Traits (0 AP Free):**
+**🧬 Starting Traits ({Trait} / 0 AP Free):**
 * Player Name: Your real name.
 * Character Name: The name of your character.
 * Race / Class: The species and archetype you are playing.
@@ -652,11 +665,11 @@ Every character begins with two Learned Kits:
 
 ✅ Starting Atr
 
-Assign 2x d4, 2x d6, 1x d8 across Might💪, Motion🏃, Mind👁️, Magic✨, and Moxie🫀.
+Assign **1x d4, 2x d6, 2x d8** across Might💪, Motion🏃, Mind👁️, Magic✨, and Moxie🫀.
 
 🔮 Starting Focus Die
 
-Character starts with a Focus Die sized at d4 (purchasable upgrades gated by level, see Advancement).
+Character starts with a Focus Die sized at **d4** (purchasable upgrades gated by level, see Advancement).
 
 ❤️ Starting Vit
 
@@ -664,9 +677,13 @@ Vit❤️: 10 + 1d(Moxie🫀) (e.g., Moxie d8 = 5+1d8 = 6 to 13).
 
 Only during creation, a 1d(Moxie🫀) roll of 1 may be re-rolled one time, in hopes of a better result.
 
+💍 Starting Loadout Capacity
+
+Every character begins with **4 Loadout Slots** (0 AP) to attune/integrate 🍺 Minor (1), 🪄 Lesser (2), 🪬 Greater (3), or 💫 Epic (4) Exotics🧿 and Artifacts💍.
+
 ⭐ Starting AP🧩 (8 AP at Level 1)
 
-Your character is 1st Level⭐ (record 1 for Level⭐) and begins with **8 Starting AP🧩** to shape their initial capabilities. In-Kit elements cost 1 AP (2 AP for Skill Sets) without requiring GM approval. *(Default Gear Possession Rule: When a character learns a weapon, armor, or shield, it is assumed they possess that physical item as standard mundane Gear⚙️ by default.)*
+Your character is 1st Level⭐ (record 1 for Level⭐) and begins with **8 Starting AP🧩** to shape their initial capabilities. In-Path elements cost 1 AP (2 AP for Skill Sets) without requiring GM approval. *(Default Gear Possession Rule: When a character learns a weapon, armor, or shield, it is assumed they possess that physical item as standard mundane Gear⚙️ by default.)*
 
 A standard, balanced character build typically spends these 8 AP across the following areas:
 
@@ -696,7 +713,7 @@ Record the armor’s MR👣.
 
 🔥 3 Powers (3 AP)
 
-Learn 3 starting Powers🔥 (1 AP each = 3 AP total).
+Learn 3 starting Powers🔥 (1 AP each = 3 AP total; auto-readied on your Power Card).
 
 A recommended approach is taking one each of these:
 
@@ -720,7 +737,7 @@ Nish🚩 Skill (Motion🏃) or Death Check Skill (Moxie🫀) (1 AP)
 
 💰 Starting Money
 
-Start with 1 Gold (1g) + 1d100 Silver (s).
+Start with 1 Gold (1g) + 1d100 Silver (s) ($100s = 1g$).
 
 🧰 Starting Gear
 
@@ -732,7 +749,7 @@ Starting gear is free; GM🔎 may also grant quirky items.
 
 🍺 Starting Minor Magic Item
 
-Begin with one randomly rolled Minor🍺 Magic Item✨ from the general or personal table.
+Begin with one randomly rolled Minor🍺 Magic Item✨ (1 Loadout Slot) from the general or personal table.
 
 🍀 Starting Luck
 
@@ -748,17 +765,18 @@ Gain 2 AP per Level
 Free Level Advancement
 * Manage Vitality - Free Max Vit Roll (Roll & keep higher)
 
-Spend AP to Improve Abilities (1–2 AP):
-* Manage Skills — Learn Skill Set (2 AP) | Learn Skill (1 AP)
-* Manage Weapons — Learn Weapon (1 AP)
-* Manage Armor — Learn Armor (1 AP)
-* Manage Shields — Learn Shield (1 AP)
+Spend AP to Learn & Improve Elements (1–4 AP):
+* In-Path Elements — Learn Weapon/Armor/Shield/Skill/Power/Rule (1 AP) | Learn Skill Set (2 AP)
+* Out-of-Path Elements — Out-of-Path +1 AP Surcharge with GM Approval (2 AP single, 3 AP Skill Set)
+* Unmet Item Requirements — Learn Weapon/Armor/Shield below requirements (+1 AP surcharge, downscaled stats, auto-improves 0 AP, refunded when met)
+* Learn New Path — Learn additional Path (4 AP + GM Approval)
 * Manage Vitality — Gain +2 Max Vit (1 AP)
-* Manage Powers — Learn Power (1 AP) | Upgrade Power (1 AP)
+* Upgrade Power — Apply 1-AP Augment (1 AP)
 
-Special AP Expenditures (2–8 AP):
+Special AP Expenditures (1–8 AP):
 * Manage Attributes — Step-Up Attribute Die (2–8 AP) | Respec Attributes (1 AP)
 * Upgrade Focus Die — Step-Up Focus Die (2–8 AP)
+* Expand Loadout Capacity — Purchase +2 Loadout Slots (Escalating $k$ AP schedule)
 * Gain Capstone Ability — Learn Heroic Capstone (5–8 AP)
 
 :::
@@ -784,16 +802,17 @@ Free Level Advancement
 • Manage Vitality - Free Max Vit Roll (Roll & keep higher)
 
 Spend AP to Learn & Improve Elements (1–4 AP):
-• In-Kit Elements — Learn Weapon/Armor/Shield/Skill/Power/Rule (1 AP) | Learn Skill Set (2 AP)
-• Out-of-Kit Elements — Learn any Element outside known Kits (+1 AP surcharge + GM Approval: 2 AP single, 3 AP Skill Set)
+• In-Path Elements — Learn Weapon/Armor/Shield/Skill/Power/Rule (1 AP) | Learn Skill Set (2 AP)
+• Out-of-Path Elements — Out-of-Path +1 AP Surcharge with GM Approval (2 AP single, 3 AP Skill Set)
 • Unmet Item Requirements — Learn Weapon/Armor/Shield below requirements (+1 AP surcharge, downscaled stats, auto-improves 0 AP, refunded when met)
-• Learn New Kit — Learn additional Kit (4 AP + GM Approval)
+• Learn New Path — Learn additional Path (4 AP + GM Approval)
 • Manage Vitality — Gain +2 Max Vit (1 AP)
 • Upgrade Power — Apply 1-AP Augment (1 AP)
 
-Special AP Expenditures (2–8 AP):
+Special AP Expenditures (1–8 AP):
 • Manage Attributes — Step-Up Attribute Die (2–8 AP) | Respec Attributes (1 AP)
 • Upgrade Focus Die — Step-Up Focus Die (2–8 AP)
+• Expand Loadout Capacity — Purchase +2 Loadout Slots (Escalating $k$ AP schedule)
 • Gain Capstone Ability — Learn Heroic Capstone (5–8 AP)
 <!-- /rule:leveling.advancement_steps -->
 
@@ -821,14 +840,24 @@ Spend your accumulated AP🧩 across 3 structured tiers of progression:
 
 #### Tier 1: Basic Progression & Element Learning (1–4 AP🧩)
 
-##### 🎭 Kit-Based Element Learning & Cross-Kit Surcharges
-* **In-Kit Learning (1 AP / 2 AP):** Any Element within a character's known Kits (Race, Class, or learned Kits) is learned for **1 AP** (or **2 AP** for a Skill Set🎓) with **no GM approval required**.
-* **Out-of-Kit Learning (+1 AP Surcharge + GM Approval):** Any Element outside a character's known Kits may be learned for **Base AP + 1 AP** (e.g., **2 AP** for a single weapon, armor, shield, skill, power, or rule; **3 AP** for a Skill Set🎓) **WITH GM Approval**.
-* **Learning New Kits (4 AP + GM Approval):** Beyond the starting Race and Class Kits, characters may learn an entire new Kit for **4 AP WITH GM Approval**.
-* **🧬 Traits (0 AP Free):** Elements designated as Traits cost **0 AP** to gain.
-* **📜 Rules Acquisition:** Some Rules are 0 AP Traits (e.g. racial traits), while other Rules may be learned for standard AP costs (1 AP In-Kit, 2 AP Out-of-Kit with GM approval).
-* **⚔️ Default Gear Possession:** When a character learns a new Weapon, Armor, or Shield (via starting Kit or AP spending), the default assumption is that they possess that physical item as standard mundane Gear (`⚙️`) (unless the GM determines otherwise based on campaign context).
-* **Unmet Item Requirements (+1 AP Surcharge & Refund Engine):** Becoming skilled in a Weapon, Armor, or Shield whose attribute requirements you do not yet meet costs an additional **+1 AP** (2 AP In-Kit, 3 AP Out-of-Kit). The item's stats are temporarily downscaled to your current attribute and auto-improve (0 AP) as your attribute advances. The extra AP is fully refunded once you meet the requirement and/or acquire the parent Kit.
+##### 🧭 Path-Based Element Learning & Cross-Path Surcharges
+* **In-Path Learning (1 AP / 2 AP):** Any Element within a character's known Paths (Race, Class, or learned Paths) is learned for **1 AP** (or **2 AP** for a Skill Set🎓) with **no GM approval required**.
+* **Out-of-Path Learning (+1 AP Surcharge + GM Approval):** Any Element outside a character's known Paths may be learned for **Base AP + 1 AP** (e.g., **2 AP** for a single weapon, armor, shield, skill, power, or rule; **3 AP** for a Skill Set🎓) **WITH GM Approval**.
+* **Learning New Paths (4 AP + GM Approval):** Beyond the starting Race and Class Paths, characters may learn an entire new Path for **4 AP WITH GM Approval**.
+* **🧬 Traits ({Trait} / 0 AP Free):** Elements designated as Traits cost **0 AP** to gain.
+* **📜 Rules Acquisition:** Some Rules are 0 AP Traits (e.g. racial traits), while other Rules may be learned for standard AP costs (1 AP In-Path, 2 AP Out-of-Path with GM approval).
+* **⚔️ Default Gear Possession:** When a character learns a new Weapon, Armor, or Shield (via starting Path or AP spending), the default assumption is that they possess that physical item as standard mundane Gear (`⚙️`) (unless the GM determines otherwise based on campaign context).
+* **Unmet Item Requirements (+1 AP Surcharge & Refund Engine):** Becoming skilled in a Weapon, Armor, or Shield whose attribute requirements you do not yet meet costs an additional **+1 AP** (2 AP In-Path, 3 AP Out-of-Path). The item's stats are temporarily downscaled to your current attribute and auto-improve (0 AP) as your attribute advances. The extra AP is fully refunded once you meet the requirement and/or acquire the parent Path.
+
+##### Powers-Known Progressive AP Soft Tax
+To prevent high-level characters from hoarding endless batteries of cheap 1-Encounter powers, an escalating soft tax applies to total powers learned:
+
+| Total Powers Known | AP Surcharge per Additional Power | Effective Cost (1 AP Base) |
+| :--- | :---: | :---: |
+| **Powers 1–6 (Base Threshold)** | $+0\text{ AP}$ | **1 AP** |
+| **Powers 7–9 (Tier 1 Scaling)** | $+1\text{ AP}$ | **2 AP** |
+| **Powers 10–14 (Tier 2 Scaling)** | $+2\text{ AP}$ | **3 AP** |
+| **Powers 15+ (Tier 3 Scaling)** | $+3\text{ AP}$ | **4 AP** |
 
 ##### The 1-AP Augment System (Advancement Without Version Trees)
 
@@ -841,36 +870,34 @@ Character advancement relies on Horizontal Augments without rigid hierarchical v
 
 | Category | AP🧩 Options |
 | --- | --- |
-| **In-Kit Elements🎭** | • Learn 1 In-Kit Weapon, Armor, Shield, Skill🎓, Power🔥, or Rule📜 — **1 AP**<br>• Learn 1 In-Kit Skill Set🎓 — **2 AP** |
-| **Out-of-Kit Elements🌟** | • Learn 1 Out-of-Kit Weapon, Armor, Shield, Skill🎓, Power🔥, or Rule📜 *(GM Approval)* — **2 AP**<br>• Learn 1 Out-of-Kit Skill Set🎓 *(GM Approval)* — **3 AP** |
-| **Unmet Requirement Items🧰** | • Learn Weapon/Armor/Shield without meeting requirements *(Stats downscale, auto-improve 0 AP, AP refunded when met)* — **+1 AP Surcharge** (2 AP In-Kit / 3 AP Out-of-Kit) |
-| **New Kits🎭** | • Learn 1 new complete Kit *(GM Approval)* — **4 AP** |
+| **In-Path Elements🧭** | • Learn 1 In-Path Weapon, Armor, Shield, Skill🎓, Power🔥, or Rule📜 — **1 AP**<br>• Learn 1 In-Path Skill Set🎓 — **2 AP** |
+| **Out-of-Path Elements🌟** | • Learn 1 Out-of-Path Weapon, Armor, Shield, Skill🎓, Power🔥, or Rule📜 *(GM Approval)* — **2 AP** (+1 AP Surcharge)<br>• Learn 1 Out-of-Path Skill Set🎓 *(GM Approval)* — **3 AP** (+1 AP Surcharge) |
+| **Unmet Requirement Items🧰** | • Learn Weapon/Armor/Shield without meeting requirements *(Stats downscale, auto-improve 0 AP, AP refunded when met)* — **+1 AP Surcharge** (2 AP In-Path / 3 AP Out-of-Path) |
+| **New Paths🧭** | • Learn 1 new complete Path *(GM Approval)* — **4 AP** |
 | **Powers🔥 Augments** | • Upgrade an existing Power🔥 along 1 Augment Vector — **1 AP**<br>• Randomly roll one Power🔥. If duplicate $\rightarrow$ gain **1 Free Augment Token** — **1 AP** |
 | **Vit❤️** | • Gain +2 Vit❤️ — **1 AP** |
 | **Atr✅** | • Reshuffle (swap some/all of your Atr✅ dice) — **1 AP** *(Downtime / Milestone Level-Up Only)* |
 
-#### Tier 2: Vertical Progression & Stat Step-Ups (2–8 AP🧩)
+#### Tier 2: Vertical Progression & Stat Step-Ups (1–8 AP🧩)
 
 ##### Vertical Attribute Die Step-Ups
 
 Attribute upgrades are purchased with AP🧩 and are tier-gated by your level. The maximum array of attribute dice you can have is limited by your tier:
 
 | Tier / Level Milestone | Attribute Die Array Max Available |
-| --- | --- |
-| Level 1 (Starting Array) | 2x d4, 2x d6, 1x d8 |
-| Level 1–9 Max Ceiling | 1x d4, 2x d6, 2x d8 |
-| Level 10 Tier | 1x d4, 1x d6, 3x d8 |
-| Level 25 Tier | 2x d6, 1x d8, 2x d10 |
-| Level 50 Tier | 1x d6, 2x d8, 2x d10 |
-| Level 75 Tier | 1x d6, 1x d8, 2x d10, 1x d12 |
-| Level 100 Tier (Max Cap) | 1x d6, 1x d8, 1x d10, 2x d12 *(Hard cap: Max 2x d12)* |
+| :--- | :--- |
+| **Level 1 (Starting Array)** | $1\times d4,\; 2\times d6,\; 2\times d8$ |
+| **Level 25 Tier** | $2\times d6,\; 3\times d8$ |
+| **Level 50 Tier** | $2\times d6,\; 1\times d8,\; 2\times d10$ |
+| **Level 75 Tier** | $2\times d6,\; 1\times d8,\; 1\times d10,\; 1\times d12$ |
+| **Level 100 Tier (Max Cap)** | $1\times d6,\; 1\times d8,\; 1\times d10,\; 2\times d12$ *(Hard cap: Max $2\times d12$)* |
 
 | Step (per die) | AP Cost (per die) |
 | --- | --- |
-| d4 → d6 | 2 AP |
-| d6 → d8 | 4 AP |
-| d8 → d10 | 6 AP |
-| d10 → d12 | 8 AP |
+| **d4 → d6** | 2 AP |
+| **d6 → d8** | 4 AP |
+| **d8 → d10** | 6 AP |
+| **d10 → d12** | 8 AP |
 
 **Qualitative Attribute Perks (Fixing "Boring Stat Bumps"):**
 * **$d8\text{ Tier Unlocked:}$** Unlock 1 passive utility trait tied to that attribute (e.g., Motion $d8 \rightarrow$ Free Disengage $1\times/\text{encounter}$).
@@ -881,11 +908,28 @@ Attribute upgrades are purchased with AP🧩 and are tier-gated by your level. T
 You can purchase upgrades to your maximum Focus Die ceiling using AP🧩, subject to level gates:
 
 | Focus Max | Level Gate | AP Cost |
-| --- | --- | --- |
-| d4 → d6 | 1+ | 2 AP |
-| d6 → d8 | 15+ | 4 AP |
-| d8 → d10 | 35+ | 6 AP |
-| d10 → d12 | 60+ | 8 AP |
+| :---: | :---: | :---: |
+| **d4 → d6** | Level 1+ | 2 AP |
+| **d6 → d8** | Level 15+ | 4 AP |
+| **d8 → d10** | Level 35+ | 6 AP |
+| **d10 → d12** | Level 60+ | 8 AP |
+
+##### Blake's Uncapped Soft-Slope Loadout Slots AP Schedule
+
+All characters begin with a baseline of **4 Loadout Slots** at Level 1. Capacity can be expanded infinitely with no hard ceiling using the escalating schedule where the $k^{\text{th}}$ expansion costs $k\text{ AP}$:
+
+| Total Loadout Slots | Expansion Step | Additional Slots Gained | AP Cost for This Step | Cumulative AP Invested |
+| :---: | :--- | :---: | :---: | :---: |
+| **4 Slots** | **Baseline (Level 1)** | — | **0 AP** | **0 AP** |
+| **6 Slots** | **Expansion I** | +2 Slots | **1 AP** | **1 AP** |
+| **8 Slots** | **Expansion II** | +2 Slots | **2 AP** | **3 AP** |
+| **10 Slots** | **Expansion III** | +2 Slots | **3 AP** | **6 AP** |
+| **12 Slots** | **Expansion IV** | +2 Slots | **4 AP** | **10 AP** |
+| **14 Slots** | **Expansion V** | +2 Slots | **5 AP** | **15 AP** |
+| **16 Slots** | **Expansion VI** | +2 Slots | **6 AP** | **21 AP** |
+| **18 Slots** | **Expansion VII** | +2 Slots | **7 AP** | **28 AP** |
+| **20 Slots** | **Expansion VIII** | +2 Slots | **8 AP** | **36 AP** |
+| **$4 + (2 \times k)$ Slots** | **Expansion $k$** | +2 Slots | **$k$ AP** | **$\frac{k(k+1)}{2}$ AP** |
 
 #### Tier 3: Heroic Capstones (5–8 AP🧩) — "Saving" Tier
 
@@ -1401,9 +1445,16 @@ Day Rest (sleep/new Day📅): Regain 2d4 Vit❤️, resets all #-Day abilities.
 <!-- @popover:powers.basics -->
 ::: details ⚡ Quick Reference: Powers & Combat Rules
 
-Powers & Magic Items — Identical Rules:
-* Shared Rules Engine — Powers & Magic Items function EXACTLY the same (Magic Items are simply powers granted by item ownership).
-* Equipment Requirement — The ONE exception is Magic Items must be properly held, drawn, or worn to work (e.g. a Magic ring will only work if on a finger).
+Auto-Readied Power Card:
+* Auto-Ready — All learned Powers are immediately active and readied on your character's Power Card. No rigid ready-slot buckets.
+* 4-Channel Action Economy — Round Action Pool = 1 Attack (A) + 1 Move (M) + 1 Power (P) + Unlimited Free (F) actions (and hybrid AM).
+
+Exclusive Stacking Master Rule:
+* Master Invariant — A character may benefit from only the single highest value or best effect of a given power or modifier at any time.
+
+Powers & Magic Items Parity:
+* Shared Rules Engine — Powers & Magic Items function EXACTLY the same (Magic Items are powers granted by item possession).
+* Equipment Requirement — Magic Items must be properly held, drawn, or worn to work and draw from Loadout Slots.
 
 Always Skilled:
 * Skilled Invocation — Powers and Magic Items are ALWAYS considered Skilled (2H20 + Attribute Die).
@@ -1413,83 +1464,56 @@ Syntax Standard:
 * Example — Discordant Chord | A | 1-Rnd → Magic✨ attack vs all Short foes for d4 Dmg.
 
 Range:
-* GM Interpretation — SupaFlex intentionally does not use strict ranges in most cases. Range is up to GM interpretation.
-* General Guidance — Touch/Melee (≤1 sq), Short (≤6 sq), Medium (≤12 sq), Long (≤24 sq), Extreme (≥25 sq).
-* Disadvantage Extension — GM “may” allow a single range extension at disadvantage.
-
-⚡ Tactical Swap:
-* Tactical Swap — Spend 1 Luck chit (🍀) as a Free action (F) during combat to swap out an active Power or Loadout item with another known selection from your Codex/Vault.
+* Guidance — Touch/Melee (≤1 sq), Short (≤6 sq), Medium (≤12 sq), Long (≤24 sq), Extreme (≥25 sq).
+* Disadvantage Extension — GM may allow a single range extension at disadvantage.
 
 The Luck Twist (Rule of 1):
-* Overview — When activating any Power or Magic Item, you can spend 1 Luck chit (🍀) to apply one instant "Rule of 1" boost (Limit: Max 1 Luck Twist per activation).
-* Power 1 Charge Cost — Reduced Meta cost (e.g. 1-⚡ → works!).
-* -1 Action Budget — Compress action cost by 1 step (AM → A, A → M, M → P, or P → F).
-* +1 Target — Strike 1 additional adjacent foe.
-* +1 Die Tier — Step up damage or healing die by +1 die type (d4 → d6 → d8 → d10 → d12).
-* +1 Range Band — Expand range by 1 band (e.g., Short → Medium).
-* +1 Push/Move/Etc. — Add +1 square to any push or move effect.
+* Apply one instant "Rule of 1" boost per Luck chit (Max 1 Luck Twist per activation): -1 Action Budget, +1 Target, +1 Die Tier, +1 Range Band, +1 Push/Move.
 
 :::
 <!-- /popover:powers.basics -->
 
+### 🔥 Powers & The Auto-Readied Power Card Architecture
 
-#### 
+SupaFlex adopts an **Auto-Readied Power Card** architecture. All learned powers are immediately active and available for combat deployment on the character's **Power Card** (the active card titled "Powers" on the character sheet).
 
-🪄 Magic Item Parity
+* **Auto-Ready:** Every power learned through AP advancement or Path grants is instantly accessible. There are no artificial bucket limits (Primary Arsenal, Mobility & Defense, Support/Passive).
+* **Combat Regulation:** Action economy limits ($1\text{ Attack [A]} + 1\text{ Move [M]} + 1\text{ Power [P]} + \text{Unlimited Free [F]}$) and usage frequencies ($1\text{-Rnd}, 1\text{-Enc}, 2\text{-Enc}, 3\text{-Enc}, 1\text{-⚡}, 1\text{-🍀}$) naturally govern tactical deployment during battle.
 
-Magic Items function EXACTLY like Powers🔥 (they are simply powers granted by item ownership). All rules for action budgets (AMP), usage frequencies, Charge costs (1-⚡), and 1-AP augments apply identically to Magic Items.
+#### ⚖️ The Exclusive Stacking Master Rule
+
+To maintain rock-solid mathematical balance and prevent degenerate stacking synergies:
+> **Exclusive Stacking Master Rule:** A character may benefit from only the single highest value or best effect of a given power, buff, or tactical modifier at any time. Identical or overlapping bonuses, damage amplifiers, and movement replacements do not stack unless an ability explicitly states otherwise.
+
+#### 📈 Powers-Known Progressive AP Soft Tax
+
+To prevent high-level characters from hoarding endless batteries of cheap 1-Encounter powers, an escalating soft tax applies to total powers learned:
+
+| Total Powers Known | AP Surcharge per Additional Power | Effective Cost (1 AP Base) |
+| :--- | :---: | :---: |
+| **Powers 1–6 (Base Threshold)** | $+0\text{ AP}$ | **1 AP** |
+| **Powers 7–9 (Tier 1 Scaling)** | $+1\text{ AP}$ | **2 AP** |
+| **Powers 10–14 (Tier 2 Scaling)** | $+2\text{ AP}$ | **3 AP** |
+| **Powers 15+ (Tier 3 Scaling)** | $+3\text{ AP}$ | **4 AP** |
+
+#### 🪄 Magic Item Parity
+
+Magic Items function EXACTLY like Powers🔥 (they are simply powers granted by item ownership). All rules for action budgets (AMP), usage frequencies, Charge costs (1-⚡), and 1-AP augments apply identically to Magic Items. Unlike innate Powers, Magic Items require Loadout Capacity Slots (1–4 slots) to attune and integrate.
 
 #### 📜 System Architecture: Power & Magic Item Grammar
 
 To ensure absolute clarity without rulebook arguments or bloat, every Power🔥 and Magic Item✨ follows a standardized, single-sentence Power Grammar:
 
-Name | Budget (Action / Usage) | 1-Sentence Mechanical Effect
+**Name | Budget (Action / Usage) | 1-Sentence Mechanical Effect**
 
 Example Entries:
+* **Discordant Chord** | A / 1-Rnd → Magic✨ attack vs all Short foes for d4 Dmg.
+* **Cyclone Kick** | A / 1-Enc → 1-⚡ → Motion🏃 attack dealing d8 Dmg and pushing target d4 sq.
+* **Blade Parry** | F / 2-Enc → On hit in Melee: Auto-succeed a weapon Block🛡️ (up to Block Cap).
+* **Bardic Bluff** | P / 1-Enc → Mind👁️ check vs target's Mind👁️ with Advantage (2H20) to deceive or distract.
+* **Frost Pebble (Minor Item)** | A / 1-Enc → Hurled Motion🏃 attack vs Short target for Magic✨ + d4 Cold Dmg.
 
-* Discordant Chord | A / 1-Rnd → Magic✨ attack vs all Short foes for d4 Dmg.
-* Cyclone Kick | A / 1-Enc → 1-⚡ → Motion🏃 attack dealing d8 Dmg and pushing target d4 sq.
-* Blade Parry | F / 2-Enc → On hit in Melee: Auto-succeed a weapon Block🛡️ (up to Block Cap).
-* Bardic Bluff | P / 1-Enc → Mind👁️ check vs target's Mind👁️ with Advantage (2H20) to deceive or distract.
-* Frost Pebble (Minor Item) | A / 1-Enc → Hurled Motion🏃 attack vs Short target for Magic✨ + d4 Cold Dmg.
-
-All abilities have a Usage🔄 , Action🔷 , Duration⏳ , and Range🎯 .
-
-Often these are self-evident and do not need explanation.
-
-Example: An ability that heals the user 1 Vit❤️ as a 1-Enc, P action would have a duration of instant (heals immediately) and an implied range of “self.”
-
-### ⚡ The Ready Matrix: Loadout & Power Codex Architecture (Model B)
-
-SupaFlex separates a character's total power collection from their active, in-combat battle repertoire to eliminate decision paralysis and encourage diverse tactical builds:
-
-* **Power Vault (Archive of Knowledge):** Every power learned, drafted, or acquired is permanently recorded in the character's Power Vault without capacity limits.
-* **Ready Matrix (Active Tactical Loadout):** Prior to encounters or during Short/Day Rests, characters ready a bounded tactical loadout based on their level Tier.
-* **Support & Passive Powers (0 Slots):** Passives, crafting proficiencies, and utility support abilities cost **0 Ready Slots** and remain **Always Active** on the character sheet.
-
-#### Ready Matrix Capacity & Category Ceiling Schedule
-
-Tactical slots draw from a flexible pool with category caps to prevent single-action mono-builds:
-
-| Tier | Level Bracket | Total Tactical Slots | Max Primary / Arsenal (⚔️) | Max Mobility & Defense (👣) | Mandatory Floor |
-| :---: | :---: | :---: | :---: | :---: | :---: |
-| **Tier 1** | Lvl 1–4 | **4 Slots** | 3 Max | 3 Max | Min 1 per category |
-| **Tier 2** | Lvl 5–9 | **5 Slots** | 4 Max | 4 Max | Min 1 per category |
-| **Tier 3** | Lvl 10–14 | **6 Slots** | 4 Max | 4 Max | Min 2 per category |
-| **Tier 4** | Lvl 15–19 | **7 Slots** | 5 Max | 5 Max | Min 2 per category |
-| **Tier 5** | Lvl 20+ | **8 Slots** | 5 Max | 5 Max | Min 3 per category |
-
-#### The Three Functional Power Channels
-
-1. ⚔️ **Primary / Arsenal (`primary_arsenal`):** Direct offensive attacks, major standard heals, combat combos, spell strikes, and crowd control (Action `A` or `AM`).
-2. 👣 **Mobility & Defense (`mobility_defense`):** Movement boosts, gap-closers, dodges, guards, defensive reactions, and counters (Action `M` or reactive defenses).
-3. 🎓 **Support & Passives (`support_passive`):** Non-combat utilities, downtime crafting, social tricks, team buffs, and passive bonuses (0 Slots / Always Active).
-
-#### ⚡ Tactical Swap (In-Combat Re-Equip)
-
-* **Trigger & Cost:** Spend **1 Free Action (F)** + **1 Luck chit (🍀)** to execute a **Tactical Swap**.
-* **Effect:** Swap 1 un-readied tactical power or loadout item from the Power Vault / Inventory directly into the active Ready Matrix / Loadout, replacing an existing active slot.
-* **Strategic Utility:** Allows adaptable tactical shifts mid-battle (e.g., swapping a fire strike for cold damage against a flame golem, or pulling out emergency mobility).
+All abilities have a Usage🔄, Action🔷, Duration⏳, and Range🎯. Often these are self-evident and do not need verbose explanation.
 
 ### 🔄 Usage & The Charge Engine (⚡)
 
@@ -1696,11 +1720,13 @@ Default Use: Reroll entire roll (all dice), keep best (original or reroll).
 
 Cannot reroll partial dice (must reroll all involved dice).
 
-Cannot reroll if a Crititcal💀 occurs.
+Cannot reroll if a Critical💀 occurs.
 
 Cannot use more than once on a particular roll (no “second Luck🍀”).
 
-Luck & Focus: Luck = redo the whole roll (pure variance mitigation); Focus = add to the roll already made (deliberate agency/boost). Players may freely use both Focus and Luck on a single roll.
+Focus vs. Luck (Strict Mutual Exclusivity): A player may use **Focus OR Luck** on a single roll, but **NEVER BOTH**.
+* **Luck (🍀):** Redo the whole roll (pure variance mitigation).
+* **Focus (🔮):** Add to the roll already made (deliberate agency/boost).
 
 Starting Luck🍀: 3 chits.
 
@@ -1708,21 +1734,29 @@ Earning Luck🍀: Awarded for cool, funny, or heroic play (max 5).
 
 Other Uses: May be spent for special learned Luck Powers🔥 (e.g., Lucky Dodge, Inspire Ally, Twist of Fate).
 
-## 💰Treasure
+<!-- @rule:magic_items.basics anchor="#equipment-loadout" -->
+## 🧰 Equipment, Loadout Slots, Exotics & Artifacts {#equipment-loadout}
 
-If the encounter does not list specific treasure, a treasure roll is typical after any major encounter or after any encounter that would warrant treasure. If the encounter was minor, skip the roll or the roll could be 2L100, if it was major it is typical to allow multiple rolls (e.g., each player makes two rolls). GMs will find a treasure balance that works for their campaign.
+<!-- @popover:magic_items.basics -->
+::: details ⚡ Quick Reference: Equipment & Loadout Slots
 
-### 📜 Quick Notes
+Universal Capacity Pool:
+* Base Capacity — Every character starts with 4 Loadout Slots at Level 1.
+* Shared Bandwidth — Both Artifacts (💍 Magic Relics) and Exotics (🧿 Tech/Cyber/Biotech) draw from the same Loadout Capacity Pool.
+* Mundane Gear — Standard gear, weapons, armor, and tools consume 0 Loadout Slots.
 
-Art/Jewelry can be re-flavored (figurines, ivory carvings, crowns, chalices).
+Tier Slot Weights:
+* 🍺 Minor Item — 1 Loadout Slot
+* 🪄 Lesser Item — 2 Loadout Slots
+* 🪬 Greater Item — 3 Loadout Slots
+* 💫 Epic Item — 4 Loadout Slots
 
-Curios/Documents can be pure flavor (maps, books, IOUs) or actual adventure hooks.
+Loadout vs. Vault:
+* Active Loadout — The items actively attuned, wired, or holstered on your person.
+* The Vault — Unlimited inactive storage. Swap items between Vault and active Loadout Slots during a 5-minute out-of-combat breather.
 
-Junk is intentionally silly or useless — adds levity.
-
-Magic Items roll on the proper table:
-
-## 🧰 Equipment, Loadout Slots, Exotics & Artifacts
+:::
+<!-- /popover:magic_items.basics -->
 
 SupaFlex eliminates weight math, bulk values, and movement rate penalties. A character’s effectiveness is bounded not by what they can carry, but by their active **Loadout Capacity**.
 
@@ -1739,6 +1773,7 @@ SupaFlex eliminates weight math, bulk values, and movement rate penalties. A cha
                                          ▼                                                     ▼
                                 UNPURCHASABLE LOOT                                    STORE / CRAFTED
                                   [ 💍 ARTIFACTS ]                                      [ 🧿 EXOTICS ]
+                                 (Magic / Relics)                                     (Tech/Cyber/Bio)
                                          │                                                     │
                                          └─────────────────────┬───────────────────────────────┘
                                                                ▼
@@ -1751,17 +1786,33 @@ SupaFlex eliminates weight math, bulk values, and movement rate penalties. A cha
 ```
 
 ### 1. The Vault vs. The Active Loadout
-* **The Vault:** An unlimited repository of every weapon, tool, artifact, and exotic device you own, safely stored at your base, starship, or quarters.
-* **The Active Loadout:** The combat-ready gear wired, holstered, or attuned on your person. Every character begins with **3 Loadout Slots** (0 AP) and can unlock up to 15 slots using Adventure Points (AP).
+* **The Vault (📦):** An unlimited repository of every weapon, tool, artifact, and exotic device you own, safely stored at your base, camp, starship, or quarters.
+* **The Active Loadout (💍):** The combat-ready gear wired, holstered, or attuned on your person. Every character begins with **4 Loadout Slots** (0 AP) at Level 1 and can expand capacity infinitely using the uncapped soft-slope AP schedule.
+* **Breather Swap:** Characters may freely swap items between their Vault and active Loadout Slots during any **5-minute out-of-combat breather**.
 
 ### 2. Taxonomy & Slot Costs
-* **Mundane Gear (`⚙️` 0 Slots):** Standard utility items providing narrative permissions (50ft rope, flashlight, comms, rations, basic lockpicks). Stored in the top-row **Gear Drawer** without consuming Loadout Slots.
-* **Minor Items (Minor🍺 • 1 Slot):** Localized tactical utility or single combat activations (e.g. Stun Baton, Nano-Plasma Cutter, Wand of Sparks).
-* **Lesser Items (Lesser🪄 • 2 Slots):** Substantial encounter-altering mobility, mitigation, or automated utility (e.g. Personal Deflector Shield, AeroJet Thrusters, Boots of Speed).
-* **Greater Items (Greater🪬 • 3 Slots):** Multi-target, high-damage, or encounter-defining systems (e.g. Optical Camouflage Shroud, Heavy Combat Drone, Flaming Greatsword).
-* **Epic Items (Epic💫 • 4 Slots):** Artifacts and reality-bending prototypes that occupy the majority of your neural and physical bandwidth (e.g. Dimensional Void Bag, Orbital Target Painter, Orb of Storms).
+* **Mundane Gear (`⚙️` 0 Slots):** Standard utility items providing narrative permissions (rope, torch, comms, rations, basic lockpicks). Stored in the top-row **Gear Drawer** without consuming Loadout Slots.
+* **Minor Items (Minor🍺 • 1 Slot):** Localized tactical utility or single combat activations (e.g. Wand of Sparks, Stun Baton, Nano-Plasma Cutter).
+* **Lesser Items (Lesser🪄 • 2 Slots):** Substantial encounter-altering mobility, mitigation, or automated utility (e.g. Boots of Speed, Personal Deflector Shield, AeroJet Thrusters).
+* **Greater Items (Greater🪬 • 3 Slots):** Multi-target, high-damage, or encounter-defining systems (e.g. Flaming Greatsword, Optical Camouflage Shroud, Heavy Combat Drone).
+* **Epic Items (Epic💫 • 4 Slots):** Artifacts and reality-bending prototypes that occupy the majority of your neural and physical bandwidth (e.g. Orb of Storms, Dimensional Void Bag, Orbital Target Painter).
 
-### 3. Multi-Genre Parity Matrix
+### 3. Blake's Uncapped Soft-Slope Loadout Slots AP Schedule
+
+| Total Loadout Slots | Expansion Step | Additional Slots Gained | AP Cost for This Step | Cumulative AP Invested |
+| :---: | :--- | :---: | :---: | :---: |
+| **4 Slots** | **Baseline (Level 1)** | — | **0 AP** | **0 AP** |
+| **6 Slots** | **Expansion I** | +2 Slots | **1 AP** | **1 AP** |
+| **8 Slots** | **Expansion II** | +2 Slots | **2 AP** | **3 AP** |
+| **10 Slots** | **Expansion III** | +2 Slots | **3 AP** | **6 AP** |
+| **12 Slots** | **Expansion IV** | +2 Slots | **4 AP** | **10 AP** |
+| **14 Slots** | **Expansion V** | +2 Slots | **5 AP** | **15 AP** |
+| **16 Slots** | **Expansion VI** | +2 Slots | **6 AP** | **21 AP** |
+| **18 Slots** | **Expansion VII** | +2 Slots | **7 AP** | **28 AP** |
+| **20 Slots** | **Expansion VIII** | +2 Slots | **8 AP** | **36 AP** |
+| **$4 + (2 \times k)$ Slots** | **Expansion $k$** | +2 Slots | **$k$ AP** | **$\frac{k(k+1)}{2}$ AP** |
+
+### 4. Multi-Genre Parity Matrix
 
 | Tier & Slot Cost | High Fantasy | Modern / Delta Green | Cyberpunk | Space Opera / Sci-Fi |
 | :--- | :--- | :--- | :--- | :--- |
@@ -1771,7 +1822,7 @@ SupaFlex eliminates weight math, bulk values, and movement rate penalties. A cha
 | **Greater🪬 (3 Slots)** | Flaming Greatsword [A] | Mil-Spec Exosuit [P] | Heavy Assault Drone [A] | Combat Hunter Drone [A] |
 | **Epic💫 (4 Slots)** | Orb of Storms [A] | Prototype Railgun [A] | Neural Matrix Core [F] | Dimensional Shifter [M] |
 
-### 4. Master Techniques & Signature Devices
+### 5. Master Techniques & Signature Devices
 * **🔥 Loadout Burn (Master Technique • 5 AP):** As a Free Action [F], a character with this Master Technique can push any active slotted Exotic (`🧿`) or Artifact (`💍`) item to output its maximum/Epic💫 effect for 1 round. At the end of the round, the item's core melts into inert slag and is destroyed, immediately freeing its Loadout Slots mid-combat. *(Does not apply to flat consumables with usage `1`, `2`, or `3`).*
 * **🖨️ Omni-Fab (Minor🍺 • 1 Slot Exotic):** Usage: `3-Enc`, Action: `[P]`. Materializes any mundane utility tool or standard field supply on the fly. The materialized item dissolves at the end of the encounter. Cost: 150s.
 
