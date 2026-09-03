@@ -1,9 +1,9 @@
-# ⚡ Exotics Catalog: Spec Gear & Artifacts
+# ⚡ Loadout: Artifacts & Exotics Catalog
 
-Master index of purchasable Spec Gear and legendary treasure Artifacts.
+Dynamic magical artifacts and store-bought exotics indexed from the master databases.
 
 
-## **🍺 Minor Artifacts (Treasure Loot)**
+## **🍺 Minor Artifacts (Loot Drops)**
 
 | Usage | Action | Name | Effect |
 | --- | --- | --- | --- |
@@ -85,7 +85,7 @@ Master index of purchasable Spec Gear and legendary treasure Artifacts.
 | 1-Enc | P | **Zither Pick** | Strum; Heal d✨ to 1 ally. |
 | 1-Enc | M | **Zoom Charm** | Target's next ranged Atk with Advantage. |
 
-## **🪄 Lesser Artifacts (Treasure Loot)**
+## **🪄 Lesser Artifacts (Loot Drops)**
 
 | Usage | Action | Name | Effect |
 | --- | --- | --- | --- |
@@ -168,7 +168,7 @@ Master index of purchasable Spec Gear and legendary treasure Artifacts.
 | 2-Enc | A | **Wand of Fire Bolts** | Magic✨ Atk for d✨+1 fire Dmg; Magic✨or target burns d4 Dmg/rnd. |
 | 3-Enc | P | **Willstone** | When held: Domination(👁️)^🫀; Perm Men(*2) while on person. |
 
-## **🪬 Greater Artifacts (Treasure Loot)**
+## **🪬 Greater Artifacts (Loot Drops)**
 
 | Usage | Action | Name | Effect |
 | --- | --- | --- | --- |
@@ -287,7 +287,7 @@ Master index of purchasable Spec Gear and legendary treasure Artifacts.
 | 1-Enc | F | **Volcanic Shard of Reth’Vash 3** | After you Heal ally from 0 or less Vit to 1+, make 1 Brawl Opportunity Atk. |
 | 1-Enc | A | **Whisper [Weapon]** | On Atk; Whisper target positions at Mind👁️ to detect Invisible monsters. |
 
-## **🧿 Spec Gear (Purchasable Exotics)**
+## **🧿 Exotics (Store & Tech Devices)**
 
 | Usage | Action | Cost | Name | Effect |
 | --- | --- | --- | --- | --- |
