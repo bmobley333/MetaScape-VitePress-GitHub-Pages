@@ -1,6 +1,6 @@
-# 🧿 Exotics: Spec Gear & Artifacts Catalog
+# 🧰 Equipment: Exotics & Artifacts Catalog
 
-Index of purchasable Spec Gear (🚀) and treasure Artifacts (🔮) derived from master functions and equipment.
+Index of purchasable Exotics (🧿) and treasure Artifacts (🔮) derived from master functions and equipment.
 
 
 ## **🔮 🍺 Minor Artifacts (Found Treasure Loot)**
@@ -287,36 +287,36 @@ Index of purchasable Spec Gear (🚀) and treasure Artifacts (🔮) derived from
 | 1-Enc | F | **Volcanic Shard of Reth’Vash 3 Healing** | Volcanic Shard of Reth’Vash 3 | After you Heal ally from 0 or less Vit to 1+, make 1 Brawl Opportunity Atk. |
 | 1-Enc | A | **Whisper [Weapon] Cloak** | Whisper [Weapon] | On Atk; Whisper target positions at Mind👁️ to detect Invisible monsters. |
 
-## **🚀 Spec Gear (Purchasable Exotics)**
+## **🧿 Purchasable Exotics**
 
-| Usage | Action | Cost | Function | Item Source | Effect |
-| --- | --- | --- | --- | --- | --- |
-| 1-Rnd | P | 1g | **Communicator** | Communicator | Encrypted planetary and low-orbit transceiver. |
-| 1-Rnd | P | 15g | **D-Crawler** | D-Crawler | MR 8 transport; capacity. 1x1x1 sq interior; sealed compartment break (20). |
-| 2-Enc | P | 6g | **DeCipher** | DeCipher | Security bypass: hack locks, find codes, override safeguards. |
-| 1-Enc | P | 5g | **Disguise Pack** | Disguise Pack | Alters appearance (cosmetics, morphskin, biodyes). Stability 12 hr. |
-| 1-Enc | P | 8g | **EnviroCube** | EnviroCube | Generates 2x2 sq area airtight cube; vs air/gas motion. -200°F to 300°F; with AirVault 24 hr air. |
-| 1-Enc | P | 6g | **EnviroTent** | EnviroTent | Deploy shelter; supports 3 occupants for 7 days; climate insulated; emergency transponder. |
-| 2-Enc | P | 2g | **First Aid Pack** | First Aid Pack | 1st Deg Wnds if new; stops bleeding. |
-| 2-Enc | P | 5g | **FusionSplicer** | FusionSplicer | Splices wires and repairs armor bonds. |
-| 1-Rnd | P | 1g | **GlowTorch** | GlowTorch | Rng Medium; 90° cone of visible/IR light. |
-| 2-Enc | M | 3g | **Grappling Gun** | Grappling Gun | Fires grappling hook; 100 ft Q-Bond cable supports 1000 lbs. |
-| 1-Enc | P | 1g | **HealGel** | HealGel | Heals 1st Deg; immediate tissue regeneration. |
-| 2-Enc | M | 2g | **HoistMaster** | HoistMaster | Winch for Grappling Gun; hoist/lower at 20 ft/Rnd. |
-| 2-Enc | P | 8g | **HoloCaster** | HoloCaster | Rng Medium; projects duplicate decoy image. |
-| 1-Rnd | P | 10g | **Hover Drone** | Hover Drone | Hover micro-drone; follows or pattern; Rng Medium; 👣 10. 👣5 if carrying; Def/AR ✨; Vit ✨ |
-| 1-Rnd | P | 3g | **Hover Drone Remote** | Hover Drone Remote | Hover micro-drone; follows or pattern; Rng Medium; 👣 10. |
-| 2-Enc | P | 4g | **ImageScanner** | ImageScanner | Rng Short; records 3D holographic target. |
-| 2-Enc | P | 10g | **ImageWrap** | ImageWrap | Holographic disguise around user; ^👁️. Stores 2 images. |
-| 1-⚡ | P | 8g | **Micro Hover Bug** | Micro Hover Bug | Hovers or follows target (MR 12); programmable via DataSleeve. |
-| 3-Enc | P | 1g | **Miniflare Gun** | Miniflare Gun | Fires signal flare (1000 ft); set to illuminate, tracer, and/or whistle. |
-| 1-Enc | F | 5s | **Miniflare Gun Flares** | Miniflare Gun Flares | Ammo for Miniflare Gun or similar. |
-| 1-Enc | F | 5s | **MiniScub Cartridge** | MiniScub Cartridge | 1 hour compressed air for MiniScuba or similar. |
-| 1-Rnd | M | 2g | **MiniScuba** | MiniScuba | Mouthpiece + cartridge; 1 hr air; cartridge auto-fills when not in use. |
-| 2-Enc | P | 4g | **NanoShear** | NanoShear | Precision cut or engrave up to 6 in; rating 40. Auto-cut or programmed patterns. |
-| 3-Enc | P | 150s | **Omni-Fab Flight** | Omni-Fab | Materializes any mundane utility tool or standard field supply on the fly. Item dissolves at end of encounter. |
-| 2-Enc | M | 5g | **Personal Scanner** | Personal Scanner | Handheld scanner Rng Medium. Pose question to GM; answer limited to 1 word. |
-| 2-Enc | P | 5g | **PlasmaTorch** | PlasmaTorch | Plasma cutter/welder; up to12 in depth; cuts steel and bulkheads. |
-| 2-Enc | P | 5g | **PowerTap** | PowerTap | Monitor/siphon energy. Holds 100 srg. |
-| 2-Enc | M | 1g | **Q-Bond Cable** | Q-Bond Cable | 100 ft cable; Q-Bond ends affix to surfaces; controlled from spool. |
-| 1-⚡ | P | 18g | **QuantumChef** | QuantumChef | 1-inch cube expands to cookware and thermal cups; stores 1 week rations. |
+| Cost | Usage | Action | Function | Item Source | Effect |
+| --- | --- | --- | --- | --- |
+| **1g** | 1-Rnd | P | **Communicator** | Communicator | Encrypted planetary and low-orbit transceiver. |
+| **15g** | 1-Rnd | P | **D-Crawler** | D-Crawler | MR 8 transport; capacity. 1x1x1 sq interior; sealed compartment break (20). |
+| **6g** | 2-Enc | P | **DeCipher** | DeCipher | Security bypass: hack locks, find codes, override safeguards. |
+| **5g** | 1-Enc | P | **Disguise Pack** | Disguise Pack | Alters appearance (cosmetics, morphskin, biodyes). Stability 12 hr. |
+| **8g** | 1-Enc | P | **EnviroCube** | EnviroCube | Generates 2x2 sq area airtight cube; vs air/gas motion. -200°F to 300°F; with AirVault 24 hr air. |
+| **6g** | 1-Enc | P | **EnviroTent** | EnviroTent | Deploy shelter; supports 3 occupants for 7 days; climate insulated; emergency transponder. |
+| **2g** | 2-Enc | P | **First Aid Pack** | First Aid Pack | 1st Deg Wnds if new; stops bleeding. |
+| **5g** | 2-Enc | P | **FusionSplicer** | FusionSplicer | Splices wires and repairs armor bonds. |
+| **1g** | 1-Rnd | P | **GlowTorch** | GlowTorch | Rng Medium; 90° cone of visible/IR light. |
+| **3g** | 2-Enc | M | **Grappling Gun** | Grappling Gun | Fires grappling hook; 100 ft Q-Bond cable supports 1000 lbs. |
+| **1g** | 1-Enc | P | **HealGel** | HealGel | Heals 1st Deg; immediate tissue regeneration. |
+| **2g** | 2-Enc | M | **HoistMaster** | HoistMaster | Winch for Grappling Gun; hoist/lower at 20 ft/Rnd. |
+| **8g** | 2-Enc | P | **HoloCaster** | HoloCaster | Rng Medium; projects duplicate decoy image. |
+| **10g** | 1-Rnd | P | **Hover Drone** | Hover Drone | Hover micro-drone; follows or pattern; Rng Medium; 👣 10. 👣5 if carrying; Def/AR ✨; Vit ✨ |
+| **3g** | 1-Rnd | P | **Hover Drone Remote** | Hover Drone Remote | Hover micro-drone; follows or pattern; Rng Medium; 👣 10. |
+| **4g** | 2-Enc | P | **ImageScanner** | ImageScanner | Rng Short; records 3D holographic target. |
+| **10g** | 2-Enc | P | **ImageWrap** | ImageWrap | Holographic disguise around user; ^👁️. Stores 2 images. |
+| **8g** | 1-⚡ | P | **Micro Hover Bug** | Micro Hover Bug | Hovers or follows target (MR 12); programmable via DataSleeve. |
+| **1g** | 3-Enc | P | **Miniflare Gun** | Miniflare Gun | Fires signal flare (1000 ft); set to illuminate, tracer, and/or whistle. |
+| **5s** | 1-Enc | F | **Miniflare Gun Flares** | Miniflare Gun Flares | Ammo for Miniflare Gun or similar. |
+| **5s** | 1-Enc | F | **MiniScub Cartridge** | MiniScub Cartridge | 1 hour compressed air for MiniScuba or similar. |
+| **2g** | 1-Rnd | M | **MiniScuba** | MiniScuba | Mouthpiece + cartridge; 1 hr air; cartridge auto-fills when not in use. |
+| **4g** | 2-Enc | P | **NanoShear** | NanoShear | Precision cut or engrave up to 6 in; rating 40. Auto-cut or programmed patterns. |
+| **150s** | 3-Enc | P | **Omni-Fab Flight** | Omni-Fab | Materializes any mundane utility tool or standard field supply on the fly. Item dissolves at end of encounter. |
+| **5g** | 2-Enc | M | **Personal Scanner** | Personal Scanner | Handheld scanner Rng Medium. Pose question to GM; answer limited to 1 word. |
+| **5g** | 2-Enc | P | **PlasmaTorch** | PlasmaTorch | Plasma cutter/welder; up to12 in depth; cuts steel and bulkheads. |
+| **5g** | 2-Enc | P | **PowerTap** | PowerTap | Monitor/siphon energy. Holds 100 srg. |
+| **1g** | 2-Enc | M | **Q-Bond Cable** | Q-Bond Cable | 100 ft cable; Q-Bond ends affix to surfaces; controlled from spool. |
+| **18g** | 1-⚡ | P | **QuantumChef** | QuantumChef | 1-inch cube expands to cookware and thermal cups; stores 1 week rations. |

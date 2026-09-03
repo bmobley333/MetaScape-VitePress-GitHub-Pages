@@ -52,40 +52,45 @@ The complete SupaFlex game system is structured around the **Trinity of Mechanic
          [ 🧠 ABILITIES ]                                [ 🧰 EQUIPMENT ]
    ┌──────┬───────┼───────┬─────────┐               ┌────────────┼────────────┐
    ▼      ▼       ▼       ▼         ▼               ▼            ▼            ▼
- [ ATR ] [SKILL] [SKILLSET][POWERS] [SPEC RULES]  [ ⚙️ GEAR ]  [ 🧿 EXOTICS ] [ 🔌 MODS ]
-  (✅)    (🎓)      (🎓)    (🔥)       (📜)        (Mundane)   (🚀 Spec / 🔮 Artifacts) (Add-ons)
-                                                    (0 Slots)    (1–4 Slots)        │
-                                                                     │              ▼
-                                                                     └──────► [ 🧿 FUNCTIONS ]
-                                                                              [ 📜 SPEC RULES ]
+ [ ATR ] [SKILL] [SKILLSET][POWERS] [SPEC RULES]  [ ⚙️ GEAR ]  [ 🧿 EXOTICS ] [ 🔮 ARTIFACTS ]
+  (✅)    (🎓)      (🎓)    (🔥)       (📜)        (Mundane)   (Extraordinary)(Relics/Treasure)
+                                                    (0 Slots)    (1–4 Slots)    (1–4 Slots)
+                                                                     │              │
+                                                                     ▼              ▼
+                                                             [ 🧿 FUNCTIONS ]  [ 🔌 MODS ]
+                                                             [ 📜 SPEC RULES ] [ 🎒 KITS ]
 ```
 
-### 🏛️ The 5-Tier Lineage Hierarchy
+### 🏛️ The Equipment Taxonomy & Lineage Hierarchy
 
 | Entity | Contained Sub-Elements | Attributes & Scope |
 | :--- | :--- | :--- |
-| **Kit (`🎒`)** | Gear, Weapons, Armor, Shields, Exotics, Mods, Functions, Spec Rules | Master bundle / assembly. Has overall kit cost (e.g. `45s`, `120g`). |
-| **Exotic (`🧿`)** | Mods, Functions, Spec Rules | Master extraordinary item category. Partitioned into **Spec Gear (`🚀`)** (purchasable with $g/s$) and **Artifacts (`🔮`)** (found treasure loot). |
-| **Mod (`🔌`)** | Functions, Spec Rules | Named modification, hardware attachment, or enchantment (e.g. *Joint Locks*). Cost + belongs to parent Exotic or Kit. |
+| **Equipment (`🧰`)** | Gear, Exotics, Artifacts, Weapons, Armor, Shields, Mods, Kits | Universal parent category for all physical items, merchandise, and treasures. |
+| **Gear (`⚙️`)** | Mundane Tools, Electronics, Supplies, Weapons, Armor, Shields | Baseline physical items (0 Function Slots, no attached Function). Priced in $g / s$. |
+| **Exotic (`🧿`)** | Functions, Spec Rules, Mods | Extraordinary, high-tech, cybernetic, or biotech hardware (1–4 Function Slots). Priced in $g / s$. |
+| **Artifact (`🔮`)** | Functions, Spec Rules, Legendary Powers | Ancient, magical, or alien relics (1–4 Function Slots). Unpurchasable market treasure (Cost = `"Artifact"`). |
+| **Mod (`🔌`)** | Functions, Spec Rules | Named modification, hardware attachment, or enchantment (e.g. *Joint Locks*). Cost + belongs to parent item. |
+| **Kit (`🎒`)** | Gear, Weapons, Armor, Shields, Exotics, Mods, Functions, Spec Rules | Master pre-assembled bundle / hardware suite. Has overall kit cost (e.g. `45s`, `120g`). |
 | **Function (`🧿`)** | *(Actionable Rules Execution)* | Equipment ability nearly identical to a Power (`Action`, `Usage`, `Effect`, `Cost`). Drawn from Function Slots (`🧿`). |
-| **Spec Rule (`📜`)** | *(Passive / Systemic Rule Hook)* | Systemic rule, environmental immunity, or passive trait hook. Cost + belongs to parent Exotic, Mod, or Kit. |
+| **Spec Rule (`📜`)** | *(Passive / Systemic Rule Hook)* | Systemic rule, environmental immunity, or passive trait hook. Cost + belongs to parent item. |
 
 ### 🔑 Architectural Pillars & Hierarchy Rules
 
 1. **🌟 Elements = 🧠 Abilities + 🧰 Equipment:**
    * **🧠 Abilities (Intangible Features):** Unlocked via AP and packaged into **Paths (`🧭`)**. Subdivided into **✅ Attributes**, **🎓 Skills**, **🎓 Skill Sets**, **🔥 Powers**, and **📜 Spec Rules**.
-   * **🧰 Equipment (Physical Items):** Purchased with Gold / Silver or found as treasure, packaged into **Kits (`🎒`)**. Subdivided into **⚙️ Gear** (mundane, 0 slots), **🧿 Exotics** (extraordinary items, 1–4 slots), and **🔌 Mods** (modular attachments and enchantments).
+   * **🧰 Equipment (Physical Items):** Purchased with Gold / Silver or found as treasure. Subdivided into **⚙️ Gear** (mundane, 0 slots), **🧿 Exotics** (extraordinary, 1–4 slots), **🔮 Artifacts** (relics, 1–4 slots, cost = `"Artifact"`), and **🔌 Mods** (modular attachments).
 
-2. **🧭 Paths vs. 🎒 Kits Taxonomy:**
+2. **🧰 The Three Forms of Equipment & Dynamic Auto-Promotion:**
+   * **Gear (`⚙️`):** Mundane physical items readily available in the economy (0 Function Slots, no attached Function, cost in $g/s$).
+   * **Exotic (`🧿`):** Extraordinary items possessing one or more actionable **Functions (`🧿`)** (occupying 1–4 Function Slots, purchasable in $g/s$).
+   * **Artifact (`🔮`):** Legendary or unique relics possessing one or more **Functions (`🧿`)** (occupying 1–4 Function Slots, cost = `"Artifact"`).
+   * **Dynamic Auto-Promotion:** The distinction between Gear and Exotics is fluid and capability-driven: attaching a Function to any piece of Gear immediately elevates it to an **Exotic**; removing all Functions returns it to baseline **Gear**.
+
+3. **🧭 Paths vs. 🎒 Kits Taxonomy:**
    * **Paths (`🧭`):** Intangible character identity and capability suites (Race Paths, Class Paths, Discipline Paths, Specialization Paths). Unlocked via AP and character creation. Hallmark starting traits use curly-brace notation: `{Trait}` indicating 0 AP starting grants.
    * **Kits (`🎒`):** Tangible manufactured equipment and hardware suites (Powered Armor Suites, Survival Kits, Trauma Kits, Field Toolkits). Purchased with Gold / Silver ($g / s$) or acquired as treasure. Included hardware components use the `{Free}` tag.
    * **Starting Paths:** Every character starts with 2 Learned Paths: **Race Path (`🧭`)** and **Class Path (`🧭`)**.
    * **Learning New Paths:** Beyond starting paths, additional Paths may be learned for **4 AP WITH GM Approval**.
-
-3. **🧿 Exotics: Spec Gear (`🚀`) vs. Artifacts (`🔮`):**
-   * **Exotics (`🧿`):** The master category for all extraordinary equipment beyond standard mundane items.
-   * **Spec Gear (`🚀`):** High-tech, military-specification, or commissioned Exotics that can be purchased in markets for Gold or Silver.
-   * **Artifacts (`🔮`):** Rare, unique, or enchanted Exotics discovered as treasure loot that cannot simply be bought in a shop.
 
 4. **⚔️ Weapons, 🧥 Armor, and 🛡️ Shields as Equipment:**
    * Weapons, Armor, and Shields are all **Equipment (`🧰`)**.
@@ -197,7 +202,8 @@ Monster stats place the emojis before key numbers or number sets as in:
 | Single Weapon🗡️ | 🗡️ |
 | Skill Set🎓 | 🎓 |
 | Skill🎓 | 🎓 |
-| Spec Gear🚀 (Purchasable Exotics) | 🚀 |
+| Exotic🧿 (Extraordinary / Functions) | 🧿 |
+| Artifact🔮 (Relics / Found Treasure) | 🔮 |
 | Spec Rules📜 (Specific Rule Hooks) | 📜 |
 | Term📖 | 📖 |
 | Tools & Equipment🛠️ | 🛠️ |
@@ -228,21 +234,21 @@ Example Monster Stats:
 
 ### 📝 Definitions
 
-This section serves as both the abbreviation reference and the full word definition area for the system. Each entry begins with the common abbreviation (if any), followed by the full term in parentheses. All entries are alphabetized for quick reference.
+This section serves as both the abbreviation reference and the full word definition area for the system. Each entry begins with the common abbreviation (if any), followed by the full term in parentheses. All entries are alphabetized for quick reference.
 
-Abilities🧠 – All non-physical features of a character: Attributes✅, Skills🎓, Skill Sets🎓, Spec Rules📜, and Powers🔥 (unlocked via AP and organized into Paths🧭).
+Abilities🧠 – All non-physical features of a character: Attributes✅, Skills🎓, Skill Sets🎓, Spec Rules📜, and Powers🔥 (unlocked via AP and organized into Paths🧭).
 
-Ability Roll – Roll #d20 + d(Atr) + Bonus versus a difficulty to determine success or failure. The number of d20 is specified by skilled/unskilled, advantage/disadvantage.
+Ability Roll – Roll #d20 + d(Atr) + Bonus versus a difficulty to determine success or failure. The number of d20 is specified by skilled/unskilled, advantage/disadvantage.
 
-Action🔷 (A, M, P, F, AM) – MetaScape uses the 4-channel AMP action system (Attack, Move, Power, plus Unlimited Free actions and hybrid AM).
+Action🔷 (A, M, P, F, AM) – MetaScape uses the 4-channel AMP action system (Attack, Move, Power, plus Unlimited Free actions and hybrid AM).
 
-Adv (Advantage) – Gain an extra d20 during an ability roll.
+Adv (Advantage) – Gain an extra d20 during an ability roll.
 
-AP🧩 (Adventure Point) – Earned progression currency spent to unlock Paths🧭, learn new abilities🧠, expand Loadout Slots🔮, or improve stats.
+AP🧩 (Adventure Point) – Earned progression currency spent to unlock Paths🧭, learn new abilities🧠, expand Loadout Slots🔮, or improve stats.
 
-AR🧥 (Armor Rating) / Armor🧥 – Equipment🧰 worn to absorb damage. Defense is always Dod/AR or Blk/AR; armor is the AR part. Standard armor is mundane Gear⚙️ (0 loadout slots); high-tier, specialized, or enchanted suits exist as Exotics🧿 or Artifacts🔮 (1–4 loadout slots). When learned, characters are assumed to possess the item as Gear⚙️ by default.
+AR🧥 (Armor Rating) / Armor🧥 – Equipment🧰 worn to absorb damage. Defense is always Dod/AR or Blk/AR; armor is the AR part. Standard armor is mundane Gear⚙️ (0 loadout slots); high-tier, specialized, or enchanted suits exist as Exotics🧿 or Artifacts🔮 (1–4 loadout slots). When learned, characters are assumed to possess the item as Gear⚙️ by default.
 
-Artifact🔮 (Magic Relics) – Exceptionally rare, unique, or priceless magical items—such as ancient relics, alien monoliths, or divine masterworks—that exist outside the standard economy and cannot be normally purchased or manufactured. Slotted into the shared Loadout Capacity Pool based on tier: 🍺 Minor (1 Slot), 🪄 Lesser (2 Slots), 🪬 Greater (3 Slots), 💫 Epic (4 Slots). Inactive artifacts reside in the Vault📦.
+Artifact🔮 (Magic Relics / Legendary Treasures) – Exceptionally rare, unique, or priceless magical items—such as ancient relics, alien monoliths, or divine masterworks—that exist outside the standard economy, cannot be normally purchased or manufactured, and carry a cost of "Artifact". Possesses one or more actionable Functions🧿 occupying 1–4 Function Slots based on tier: 🍺 Minor (1 Slot), 🪄 Lesser (2 Slots), 🪬 Greater (3 Slots), 💫 Epic (4 Slots). Inactive artifacts reside in the Vault📦.
 
 Atk (Attack) – Any offensive roll or strike made with a weapon, power🔥, or ability.
 
@@ -272,11 +278,11 @@ Element(s)🌟 – The universal parent category encompassing every physical it
 
 Enc (Encounter) – The series of rounds that make up a combat event or distinct roleplaying scene.
 
-Equipment🧰 – The universal parent category encompassing every physical item, tool, weapon, armor piece, shield, supply, or object a character can carry, wear, or utilize. Governed by the 5-Tier Lineage Hierarchy: Kits🎒, Gear⚙️ (0 slots), Exotics🧿 (1–4 slots: 🚀 Spec Gear and 🔮 Artifacts), and Mods🔌.
+Equipment🧰 – The universal parent category encompassing every physical item, tool, weapon, armor piece, shield, supply, or object a character can carry, wear, or utilize. Governed by the Three Forms of Equipment: Gear⚙️ (mundane, 0 slots), Exotics🧿 (extraordinary, 1–4 slots), and Artifacts🔮 (relics, 1–4 slots, cost = "Artifact"), along with Mods🔌 and Kits🎒.
 
 Exclusive Stacking Master Rule – A character may benefit from only the single highest value or best effect of a given power or modifier at any time (bonuses, damage amplifiers, and movement replacements do not stack unless an ability explicitly states otherwise).
 
-Exotic🧿 / Exotics🧿 – Master category for extraordinary equipment beyond mundane gear, granting actionable Functions🧿 or Spec Rules📜. Subdivided into Spec Gear🚀 (purchasable) and Artifacts🔮 (found treasure loot). Readied functions consume Function Slots based on tier: 🍺 Minor (1 Slot), 🪄 Lesser (2 Slots), 🪬 Greater (3 Slots), 💫 Epic (4 Slots).
+Exotic🧿 / Exotics🧿 – Extraordinary, high-tech, cybernetic, or biotech equipment beyond mundane gear, possessing one or more actionable Functions🧿 or Spec Rules📜. Occupies 1–4 Function Slots on the character sheet based on tier (🍺 Minor: 1 Slot, 🪄 Lesser: 2 Slots, 🪬 Greater: 3 Slots, 💫 Epic: 4 Slots) and is purchasable with Gold or Silver ($g/s$).
 
 Ext Rng (Extended/Long Range) – A greater range (at disadvantage) that a weapon, ability, or item can reach.
 
@@ -286,11 +292,11 @@ Focus Die – A core resource die (d4–d12) that can be spent once per roll af
 
 Function Slots🧿 – The universal capacity pool (Base 4 Slots at Level 1) governing how many Functions🧿 a character can actively ready simultaneously. Expands via the uncapped $+2\text{ Slots}$ per $k\text{ AP}$ schedule.
 
-Functions🧿 – Actionable equipment-derived abilities (`Action`, `Usage`, `Effect`, `Cost`) originating from Exotics🧿 or Mods🔌 that occupy Function Slots🧿 on the character sheet. Inactive functions rest in the Vault📦.
+Functions🧿 – Actionable equipment-derived abilities (`Action`, `Usage`, `Effect`, `Cost`) originating from Exotics🧿, Artifacts🔮, or Mods🔌 that occupy Function Slots🧿 on the character sheet. Inactive functions rest in the Vault📦.
 
 g / gp (Gold Piece) – Primary gold currency; 100 silver (s) = 1 gold (g).
 
-Gear⚙️ – Standard, mundane physical items readily available in the world's economy that operate within baseline mundane rules (weapons⚔️, armor🧥, shields🛡️, tools, adventuring supplies). Consumes 0 Function Slots.
+Gear⚙️ – Standard, mundane physical items readily available in the world's economy that operate within baseline mundane rules (weapons⚔️, armor🧥, shields🛡️, tools, adventuring supplies). Consumes 0 Function Slots, has no attached Function, and is priced in Gold or Silver ($g / s$).
 
 GM (Game Master) – The person running the game and story.
 
