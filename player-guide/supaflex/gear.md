@@ -1,6 +1,6 @@
-# 🧰 Gear Catalog
+# 🧰 Equipment Catalog
 
-Master indexed gear equipment directory.
+Master indexed equipment directory.
 
 | Category | Item Name | Cost |
 | --- | --- | --- |
