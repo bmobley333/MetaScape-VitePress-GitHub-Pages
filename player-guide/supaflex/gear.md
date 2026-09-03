@@ -273,6 +273,10 @@ Master indexed equipment directory.
 | Artifact | **Zircon Lens** | Artifact |
 | Artifact | **Zither Pick** | Artifact |
 | Artifact | **Zoom Charm** | Artifact |
+| Medical | **Laser Scalpel** | 45s |
+| Medical | **Poison Antidote (Common)** | 35s |
+| Medical | **Power Syringe** | 30s |
+| Medical | **Vaccine Dose (Common)** | 25s |
 | Spec Gear | **Communicator** | 1g |
 | Spec Gear | **D-Crawler** | 15g |
 | Spec Gear | **DeCipher** | 6g |
@@ -302,6 +306,8 @@ Master indexed equipment directory.
 | Spec Gear | **PowerTap** | 5g |
 | Spec Gear | **Q-Bond Cable** | 1g |
 | Spec Gear | **QuantumChef** | 18g |
+| Storage | **Tech Case (1'x1')** | 50s |
+| Tools & Utility | **Engineering Supplies** | 25s |
 | ⚕️ Medical & Healing Supplies | **Bandages (roll)** | 2s |
 | ⚕️ Medical & Healing Supplies | **Healer’s Kit (bandages, herbs)** | 3g |
 | ⚕️ Medical & Healing Supplies | **Lock (simple)** | 1g |

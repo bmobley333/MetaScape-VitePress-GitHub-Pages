@@ -379,18 +379,43 @@
       "notes": "Modular heavy powered combat suit."
     },
     {
+      "id": "cc181372-733f-4795-b3eb-9c7ed7d3115c",
+      "name": "Engineer Tool Kit",
+      "category": "Tools & Engineering",
+      "description": null,
+      "created_at": "2026-09-03T22:59:33.663252+00:00",
+      "cost": "7g 50s",
+      "genres": [
+        "SciFi",
+        "GuildSpace"
+      ],
+      "notes": "An engineer tool kit comes with all the essential tools an engineer would need to repair anything from a ship to an ATM to a weapon. The kit is contained in a 1’x1' tech case which can be security sealed for protection (Dif 20). A typical engineer’s kit contains a tech wand, a set of wirelocks, a laser cutter, energy flow monitor, and miscellaneous supplies. All devices in the kit have a 10L rating.\n-- {1’x1' tech case, tech wand, wirelocks, laser cutter, energy flow monitor, supplies} all are included as Free"
+    },
+    {
+      "id": "21aa6de7-6754-4746-88cf-456ee0d80a65",
+      "name": "Medikit",
+      "category": "Medical",
+      "description": null,
+      "created_at": "2026-09-03T22:59:33.663252+00:00",
+      "cost": "4g",
+      "genres": [
+        "SciFi",
+        "GuildSpace"
+      ],
+      "notes": "A medikit contains the same items as a first aid kit, plus common poison antidotes, common vaccines, a biometer, two slap packs, one genesis capsule, a laser scalpel and a power syringe (for injecting antidotes and vaccines). All items have a 10L rating which may be combined(cat) with any appropriate skill.\nThe first aid components can be used to heal damage at a -1c adjustment.\n-- {poison antidotes, common vaccines, a biometer, two slap packs, one genesis capsule, a laser scalpel and a power syringe (for injecting antidotes and vaccines)} all are included as Free"
+    },
+    {
       "id": "9129c602-8092-49a4-b798-9a27cc832dec",
       "name": "Survival Kit",
       "category": "Survival",
       "description": null,
       "created_at": "2026-09-03T20:14:29.977879+00:00",
-      "cost": "45s",
+      "cost": "3g",
       "genres": [
-        "Medieval",
-        "Modern",
-        "SciFi"
+        "SciFi",
+        "GuildSpace"
       ],
-      "notes": "Standard wilderness and emergency survival package."
+      "notes": "The standard Guild survival kit contains the following items: a compressor, one illuminator, one first aid kit, one mess kit, one fully loaded miniflare gun, a nutripress, two slap packs, and one survival bag. All items are dimensionally compressed within the bag.\n-- {compressor, one illuminator, one first aid kit, one mess kit, one fully loaded miniflare gun, a nutripress, two slap packs, and one survival bag} all are included as Free"
     }
   ],
   "bundles": [
@@ -407,18 +432,43 @@
       "notes": "Modular heavy powered combat suit."
     },
     {
+      "id": "cc181372-733f-4795-b3eb-9c7ed7d3115c",
+      "name": "Engineer Tool Kit",
+      "category": "Tools & Engineering",
+      "description": null,
+      "created_at": "2026-09-03T22:59:33.663252+00:00",
+      "cost": "7g 50s",
+      "genres": [
+        "SciFi",
+        "GuildSpace"
+      ],
+      "notes": "An engineer tool kit comes with all the essential tools an engineer would need to repair anything from a ship to an ATM to a weapon. The kit is contained in a 1’x1' tech case which can be security sealed for protection (Dif 20). A typical engineer’s kit contains a tech wand, a set of wirelocks, a laser cutter, energy flow monitor, and miscellaneous supplies. All devices in the kit have a 10L rating.\n-- {1’x1' tech case, tech wand, wirelocks, laser cutter, energy flow monitor, supplies} all are included as Free"
+    },
+    {
+      "id": "21aa6de7-6754-4746-88cf-456ee0d80a65",
+      "name": "Medikit",
+      "category": "Medical",
+      "description": null,
+      "created_at": "2026-09-03T22:59:33.663252+00:00",
+      "cost": "4g",
+      "genres": [
+        "SciFi",
+        "GuildSpace"
+      ],
+      "notes": "A medikit contains the same items as a first aid kit, plus common poison antidotes, common vaccines, a biometer, two slap packs, one genesis capsule, a laser scalpel and a power syringe (for injecting antidotes and vaccines). All items have a 10L rating which may be combined(cat) with any appropriate skill.\nThe first aid components can be used to heal damage at a -1c adjustment.\n-- {poison antidotes, common vaccines, a biometer, two slap packs, one genesis capsule, a laser scalpel and a power syringe (for injecting antidotes and vaccines)} all are included as Free"
+    },
+    {
       "id": "9129c602-8092-49a4-b798-9a27cc832dec",
       "name": "Survival Kit",
       "category": "Survival",
       "description": null,
       "created_at": "2026-09-03T20:14:29.977879+00:00",
-      "cost": "45s",
+      "cost": "3g",
       "genres": [
-        "Medieval",
-        "Modern",
-        "SciFi"
+        "SciFi",
+        "GuildSpace"
       ],
-      "notes": "Standard wilderness and emergency survival package."
+      "notes": "The standard Guild survival kit contains the following items: a compressor, one illuminator, one first aid kit, one mess kit, one fully loaded miniflare gun, a nutripress, two slap packs, and one survival bag. All items are dimensionally compressed within the bag.\n-- {compressor, one illuminator, one first aid kit, one mess kit, one fully loaded miniflare gun, a nutripress, two slap packs, and one survival bag} all are included as Free"
     }
   ],
   "powers": [
@@ -23895,6 +23945,23 @@
       "belongs_to": null
     },
     {
+      "id": 434,
+      "category": "Tools & Utility",
+      "name": "Engineering Supplies",
+      "cost": "25s",
+      "created_at": "2026-09-03T22:59:33.663252+00:00",
+      "genres": [
+        "SciFi",
+        "GuildSpace"
+      ],
+      "notes": "Miscellaneous components, conduits, fuses, and connectors for ship, ATM, or weapon field repairs. 10L rating.",
+      "pic": null,
+      "is_guildspace_locked": false,
+      "discipline": "Tech",
+      "path": "Engineering",
+      "belongs_to": "Kit: Engineer Tool Kit {Free}"
+    },
+    {
       "id": 159,
       "category": "Spec Gear",
       "name": "EnviroCube",
@@ -24466,6 +24533,23 @@
       "belongs_to": null
     },
     {
+      "id": 437,
+      "category": "Medical",
+      "name": "Laser Scalpel",
+      "cost": "45s",
+      "created_at": "2026-09-03T22:59:33.663252+00:00",
+      "genres": [
+        "SciFi",
+        "GuildSpace"
+      ],
+      "notes": "High-frequency precision surgical laser scalpel that cuts and cauterizes simultaneously. 10L rating.",
+      "pic": null,
+      "is_guildspace_locked": false,
+      "discipline": "Medical",
+      "path": "Surgery",
+      "belongs_to": "Kit: Medikit {Free}"
+    },
+    {
       "id": 45,
       "category": "⚕️ Medical & Healing Supplies",
       "name": "Lock (simple)",
@@ -24586,7 +24670,7 @@
       "is_guildspace_locked": false,
       "discipline": "Tech",
       "path": "Tech Hardware",
-      "belongs_to": null
+      "belongs_to": "Kit: Survival Kit {Free}"
     },
     {
       "id": 152,
@@ -24881,6 +24965,23 @@
       "belongs_to": null
     },
     {
+      "id": 435,
+      "category": "Medical",
+      "name": "Poison Antidote (Common)",
+      "cost": "35s",
+      "created_at": "2026-09-03T22:59:33.663252+00:00",
+      "genres": [
+        "SciFi",
+        "GuildSpace"
+      ],
+      "notes": "Broad-spectrum synthesized antidote neutralizing common biological toxins and venoms. 10L rating.",
+      "pic": null,
+      "is_guildspace_locked": false,
+      "discipline": "Medical",
+      "path": "First Aid",
+      "belongs_to": "Kit: Medikit {Free}"
+    },
+    {
       "id": 131,
       "category": "🧺 Containers",
       "name": "Pouch (small)",
@@ -24913,6 +25014,23 @@
       "discipline": "Tech",
       "path": null,
       "belongs_to": null
+    },
+    {
+      "id": 438,
+      "category": "Medical",
+      "name": "Power Syringe",
+      "cost": "30s",
+      "created_at": "2026-09-03T22:59:33.663252+00:00",
+      "genres": [
+        "SciFi",
+        "GuildSpace"
+      ],
+      "notes": "Pneumatic micro-injector designed for instant dermal delivery of antidotes, vaccines, and stimulants. 10L rating.",
+      "pic": null,
+      "is_guildspace_locked": false,
+      "discipline": "Medical",
+      "path": "First Aid",
+      "belongs_to": "Kit: Medikit {Free}"
     },
     {
       "id": 137,
@@ -25358,6 +25476,23 @@
       "belongs_to": null
     },
     {
+      "id": 433,
+      "category": "Storage",
+      "name": "Tech Case (1'x1')",
+      "cost": "50s",
+      "created_at": "2026-09-03T22:59:33.663252+00:00",
+      "genres": [
+        "SciFi",
+        "GuildSpace"
+      ],
+      "notes": "A 1’x1' reinforced tech case that can be security sealed for protection (Dif 20). 10L rating.",
+      "pic": null,
+      "is_guildspace_locked": false,
+      "discipline": "Tech",
+      "path": "Engineering",
+      "belongs_to": "Kit: Engineer Tool Kit {Free}"
+    },
+    {
       "id": 73,
       "category": "🏕️ Camp Gear",
       "name": "Tent (2-person)",
@@ -25428,6 +25563,23 @@
       "discipline": "Tech",
       "path": null,
       "belongs_to": null
+    },
+    {
+      "id": 436,
+      "category": "Medical",
+      "name": "Vaccine Dose (Common)",
+      "cost": "25s",
+      "created_at": "2026-09-03T22:59:33.663252+00:00",
+      "genres": [
+        "SciFi",
+        "GuildSpace"
+      ],
+      "notes": "Standard inoculated vaccine dose protecting against prevalent sector pathogens. 10L rating.",
+      "pic": null,
+      "is_guildspace_locked": false,
+      "discipline": "Medical",
+      "path": "First Aid",
+      "belongs_to": "Kit: Medikit {Free}"
     },
     {
       "id": 40,
@@ -26260,6 +26412,23 @@
       "belongs_to": null
     },
     {
+      "id": 434,
+      "category": "Tools & Utility",
+      "name": "Engineering Supplies",
+      "cost": "25s",
+      "created_at": "2026-09-03T22:59:33.663252+00:00",
+      "genres": [
+        "SciFi",
+        "GuildSpace"
+      ],
+      "notes": "Miscellaneous components, conduits, fuses, and connectors for ship, ATM, or weapon field repairs. 10L rating.",
+      "pic": null,
+      "is_guildspace_locked": false,
+      "discipline": "Tech",
+      "path": "Engineering",
+      "belongs_to": "Kit: Engineer Tool Kit {Free}"
+    },
+    {
       "id": 159,
       "category": "Spec Gear",
       "name": "EnviroCube",
@@ -26831,6 +27000,23 @@
       "belongs_to": null
     },
     {
+      "id": 437,
+      "category": "Medical",
+      "name": "Laser Scalpel",
+      "cost": "45s",
+      "created_at": "2026-09-03T22:59:33.663252+00:00",
+      "genres": [
+        "SciFi",
+        "GuildSpace"
+      ],
+      "notes": "High-frequency precision surgical laser scalpel that cuts and cauterizes simultaneously. 10L rating.",
+      "pic": null,
+      "is_guildspace_locked": false,
+      "discipline": "Medical",
+      "path": "Surgery",
+      "belongs_to": "Kit: Medikit {Free}"
+    },
+    {
       "id": 45,
       "category": "⚕️ Medical & Healing Supplies",
       "name": "Lock (simple)",
@@ -26951,7 +27137,7 @@
       "is_guildspace_locked": false,
       "discipline": "Tech",
       "path": "Tech Hardware",
-      "belongs_to": null
+      "belongs_to": "Kit: Survival Kit {Free}"
     },
     {
       "id": 152,
@@ -27246,6 +27432,23 @@
       "belongs_to": null
     },
     {
+      "id": 435,
+      "category": "Medical",
+      "name": "Poison Antidote (Common)",
+      "cost": "35s",
+      "created_at": "2026-09-03T22:59:33.663252+00:00",
+      "genres": [
+        "SciFi",
+        "GuildSpace"
+      ],
+      "notes": "Broad-spectrum synthesized antidote neutralizing common biological toxins and venoms. 10L rating.",
+      "pic": null,
+      "is_guildspace_locked": false,
+      "discipline": "Medical",
+      "path": "First Aid",
+      "belongs_to": "Kit: Medikit {Free}"
+    },
+    {
       "id": 131,
       "category": "🧺 Containers",
       "name": "Pouch (small)",
@@ -27278,6 +27481,23 @@
       "discipline": "Tech",
       "path": null,
       "belongs_to": null
+    },
+    {
+      "id": 438,
+      "category": "Medical",
+      "name": "Power Syringe",
+      "cost": "30s",
+      "created_at": "2026-09-03T22:59:33.663252+00:00",
+      "genres": [
+        "SciFi",
+        "GuildSpace"
+      ],
+      "notes": "Pneumatic micro-injector designed for instant dermal delivery of antidotes, vaccines, and stimulants. 10L rating.",
+      "pic": null,
+      "is_guildspace_locked": false,
+      "discipline": "Medical",
+      "path": "First Aid",
+      "belongs_to": "Kit: Medikit {Free}"
     },
     {
       "id": 137,
@@ -27723,6 +27943,23 @@
       "belongs_to": null
     },
     {
+      "id": 433,
+      "category": "Storage",
+      "name": "Tech Case (1'x1')",
+      "cost": "50s",
+      "created_at": "2026-09-03T22:59:33.663252+00:00",
+      "genres": [
+        "SciFi",
+        "GuildSpace"
+      ],
+      "notes": "A 1’x1' reinforced tech case that can be security sealed for protection (Dif 20). 10L rating.",
+      "pic": null,
+      "is_guildspace_locked": false,
+      "discipline": "Tech",
+      "path": "Engineering",
+      "belongs_to": "Kit: Engineer Tool Kit {Free}"
+    },
+    {
       "id": 73,
       "category": "🏕️ Camp Gear",
       "name": "Tent (2-person)",
@@ -27793,6 +28030,23 @@
       "discipline": "Tech",
       "path": null,
       "belongs_to": null
+    },
+    {
+      "id": 436,
+      "category": "Medical",
+      "name": "Vaccine Dose (Common)",
+      "cost": "25s",
+      "created_at": "2026-09-03T22:59:33.663252+00:00",
+      "genres": [
+        "SciFi",
+        "GuildSpace"
+      ],
+      "notes": "Standard inoculated vaccine dose protecting against prevalent sector pathogens. 10L rating.",
+      "pic": null,
+      "is_guildspace_locked": false,
+      "discipline": "Medical",
+      "path": "First Aid",
+      "belongs_to": "Kit: Medikit {Free}"
     },
     {
       "id": 40,
@@ -42193,6 +42447,74 @@
       "belongs_to": null
     },
     {
+      "id": 437,
+      "category": "Medical",
+      "name": "Laser Scalpel",
+      "cost": "45s",
+      "created_at": "2026-09-03T22:59:33.663252+00:00",
+      "genres": [
+        "SciFi",
+        "GuildSpace"
+      ],
+      "notes": "High-frequency precision surgical laser scalpel that cuts and cauterizes simultaneously. 10L rating.",
+      "pic": null,
+      "is_guildspace_locked": false,
+      "discipline": "Medical",
+      "path": "Surgery",
+      "belongs_to": "Kit: Medikit {Free}"
+    },
+    {
+      "id": 435,
+      "category": "Medical",
+      "name": "Poison Antidote (Common)",
+      "cost": "35s",
+      "created_at": "2026-09-03T22:59:33.663252+00:00",
+      "genres": [
+        "SciFi",
+        "GuildSpace"
+      ],
+      "notes": "Broad-spectrum synthesized antidote neutralizing common biological toxins and venoms. 10L rating.",
+      "pic": null,
+      "is_guildspace_locked": false,
+      "discipline": "Medical",
+      "path": "First Aid",
+      "belongs_to": "Kit: Medikit {Free}"
+    },
+    {
+      "id": 438,
+      "category": "Medical",
+      "name": "Power Syringe",
+      "cost": "30s",
+      "created_at": "2026-09-03T22:59:33.663252+00:00",
+      "genres": [
+        "SciFi",
+        "GuildSpace"
+      ],
+      "notes": "Pneumatic micro-injector designed for instant dermal delivery of antidotes, vaccines, and stimulants. 10L rating.",
+      "pic": null,
+      "is_guildspace_locked": false,
+      "discipline": "Medical",
+      "path": "First Aid",
+      "belongs_to": "Kit: Medikit {Free}"
+    },
+    {
+      "id": 436,
+      "category": "Medical",
+      "name": "Vaccine Dose (Common)",
+      "cost": "25s",
+      "created_at": "2026-09-03T22:59:33.663252+00:00",
+      "genres": [
+        "SciFi",
+        "GuildSpace"
+      ],
+      "notes": "Standard inoculated vaccine dose protecting against prevalent sector pathogens. 10L rating.",
+      "pic": null,
+      "is_guildspace_locked": false,
+      "discipline": "Medical",
+      "path": "First Aid",
+      "belongs_to": "Kit: Medikit {Free}"
+    },
+    {
       "id": 141,
       "category": "Spec Gear",
       "name": "Communicator",
@@ -42505,7 +42827,7 @@
       "is_guildspace_locked": false,
       "discipline": "Tech",
       "path": "Tech Hardware",
-      "belongs_to": null
+      "belongs_to": "Kit: Survival Kit {Free}"
     },
     {
       "id": 152,
@@ -42671,6 +42993,40 @@
       "discipline": "Tech",
       "path": "Tech Hardware",
       "belongs_to": null
+    },
+    {
+      "id": 433,
+      "category": "Storage",
+      "name": "Tech Case (1'x1')",
+      "cost": "50s",
+      "created_at": "2026-09-03T22:59:33.663252+00:00",
+      "genres": [
+        "SciFi",
+        "GuildSpace"
+      ],
+      "notes": "A 1’x1' reinforced tech case that can be security sealed for protection (Dif 20). 10L rating.",
+      "pic": null,
+      "is_guildspace_locked": false,
+      "discipline": "Tech",
+      "path": "Engineering",
+      "belongs_to": "Kit: Engineer Tool Kit {Free}"
+    },
+    {
+      "id": 434,
+      "category": "Tools & Utility",
+      "name": "Engineering Supplies",
+      "cost": "25s",
+      "created_at": "2026-09-03T22:59:33.663252+00:00",
+      "genres": [
+        "SciFi",
+        "GuildSpace"
+      ],
+      "notes": "Miscellaneous components, conduits, fuses, and connectors for ship, ATM, or weapon field repairs. 10L rating.",
+      "pic": null,
+      "is_guildspace_locked": false,
+      "discipline": "Tech",
+      "path": "Engineering",
+      "belongs_to": "Kit: Engineer Tool Kit {Free}"
     }
   ],
   "gear": [
@@ -49343,6 +49699,74 @@
       "belongs_to": null
     },
     {
+      "id": 437,
+      "category": "Medical",
+      "name": "Laser Scalpel",
+      "cost": "45s",
+      "created_at": "2026-09-03T22:59:33.663252+00:00",
+      "genres": [
+        "SciFi",
+        "GuildSpace"
+      ],
+      "notes": "High-frequency precision surgical laser scalpel that cuts and cauterizes simultaneously. 10L rating.",
+      "pic": null,
+      "is_guildspace_locked": false,
+      "discipline": "Medical",
+      "path": "Surgery",
+      "belongs_to": "Kit: Medikit {Free}"
+    },
+    {
+      "id": 435,
+      "category": "Medical",
+      "name": "Poison Antidote (Common)",
+      "cost": "35s",
+      "created_at": "2026-09-03T22:59:33.663252+00:00",
+      "genres": [
+        "SciFi",
+        "GuildSpace"
+      ],
+      "notes": "Broad-spectrum synthesized antidote neutralizing common biological toxins and venoms. 10L rating.",
+      "pic": null,
+      "is_guildspace_locked": false,
+      "discipline": "Medical",
+      "path": "First Aid",
+      "belongs_to": "Kit: Medikit {Free}"
+    },
+    {
+      "id": 438,
+      "category": "Medical",
+      "name": "Power Syringe",
+      "cost": "30s",
+      "created_at": "2026-09-03T22:59:33.663252+00:00",
+      "genres": [
+        "SciFi",
+        "GuildSpace"
+      ],
+      "notes": "Pneumatic micro-injector designed for instant dermal delivery of antidotes, vaccines, and stimulants. 10L rating.",
+      "pic": null,
+      "is_guildspace_locked": false,
+      "discipline": "Medical",
+      "path": "First Aid",
+      "belongs_to": "Kit: Medikit {Free}"
+    },
+    {
+      "id": 436,
+      "category": "Medical",
+      "name": "Vaccine Dose (Common)",
+      "cost": "25s",
+      "created_at": "2026-09-03T22:59:33.663252+00:00",
+      "genres": [
+        "SciFi",
+        "GuildSpace"
+      ],
+      "notes": "Standard inoculated vaccine dose protecting against prevalent sector pathogens. 10L rating.",
+      "pic": null,
+      "is_guildspace_locked": false,
+      "discipline": "Medical",
+      "path": "First Aid",
+      "belongs_to": "Kit: Medikit {Free}"
+    },
+    {
       "id": 141,
       "category": "Spec Gear",
       "name": "Communicator",
@@ -49655,7 +50079,7 @@
       "is_guildspace_locked": false,
       "discipline": "Tech",
       "path": "Tech Hardware",
-      "belongs_to": null
+      "belongs_to": "Kit: Survival Kit {Free}"
     },
     {
       "id": 152,
@@ -49821,6 +50245,40 @@
       "discipline": "Tech",
       "path": "Tech Hardware",
       "belongs_to": null
+    },
+    {
+      "id": 433,
+      "category": "Storage",
+      "name": "Tech Case (1'x1')",
+      "cost": "50s",
+      "created_at": "2026-09-03T22:59:33.663252+00:00",
+      "genres": [
+        "SciFi",
+        "GuildSpace"
+      ],
+      "notes": "A 1’x1' reinforced tech case that can be security sealed for protection (Dif 20). 10L rating.",
+      "pic": null,
+      "is_guildspace_locked": false,
+      "discipline": "Tech",
+      "path": "Engineering",
+      "belongs_to": "Kit: Engineer Tool Kit {Free}"
+    },
+    {
+      "id": 434,
+      "category": "Tools & Utility",
+      "name": "Engineering Supplies",
+      "cost": "25s",
+      "created_at": "2026-09-03T22:59:33.663252+00:00",
+      "genres": [
+        "SciFi",
+        "GuildSpace"
+      ],
+      "notes": "Miscellaneous components, conduits, fuses, and connectors for ship, ATM, or weapon field repairs. 10L rating.",
+      "pic": null,
+      "is_guildspace_locked": false,
+      "discipline": "Tech",
+      "path": "Engineering",
+      "belongs_to": "Kit: Engineer Tool Kit {Free}"
     }
   ],
   "monsters": [
