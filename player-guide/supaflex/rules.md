@@ -84,6 +84,18 @@ The complete SupaFlex game system is structured around the **Trinity of Mechanic
    * They are typically considered mundane **Gear (`⚙️`)** (0 Loadout slots), but high-tier, specialized, or enchanted versions exist as **Exotics (`🧿`)** or **Artifacts (`💍`)** (1–4 Loadout slots).
    * **Default Gear Possession Rule:** When a character learns or becomes skilled in a new weapon, armor, or shield (via starting Path or AP advancement), the default system rule is that they are assumed to possess that physical item as standard mundane Gear (`⚙️`) (unless the GM determines otherwise based on campaign tone and narrative context).
 
+### ⚔️ Dual-Role Architecture: Supabase Weapons, Armor & Shields (Abilities vs. Physical Equipment)
+In SupaFlex, the Supabase database tables `weapons`, `armor`, and `shields` fulfill a deliberate **Dual Role** across the application architecture, serving as the single source of truth for both character combat capabilities and physical inventory/commerce:
+1. **The Ability Role (Combat Cards: WeaponsCard, ArmorCard, ShieldCard):**
+   * Entries track martial competence and combat capability unlocked or trained on the character sheet.
+   * Consumes ability fields: `requirement`, `atk` (Attack die), `dmg` (Damage die), `max_block` (Block cap), `ar` (Armor rating), `mr` (Movement Rate modifier), and `sk` (Skilled status).
+   * Governed by AP investment, advancement, and active readiness in combat encounters.
+2. **The Equipment & Commerce Role (Gear Card & Gear Manager Modal):**
+   * Entries track physical merchandise, market commerce, and inventory custody carried by the adventurer.
+   * Consumes equipment & commerce fields: `cost` (Monetary price in gold `g` or silver `s`), `name`, `notes` (Lore, physical description, and special properties), `genres` (Setting availability), `pic` (Visual iconography), and `is_guildspace_locked` (Vault access control).
+   * Governed by monetary transactions via `deductFundsWithChange`, quantity tracking (`qty`), and inventory valuation (`calculateInventoryValue`) inside `simple_gear`.
+   * **Clean Separation:** Purchasing physical weapons, armor, or shields in the **Gear Manager** adds them to the character's gear inventory for ownership tracking; it does not alter or grant combat abilities or skilled ratings in `WeaponsCard`, `ArmorCard`, or `ShieldCard`, preserving strict separation between physical possession and martial training.
+
 4. **🧬 Traits ({Trait} / 0 AP Free Grants):**
    * The word **Trait** (and `{Trait}` notation) is **ENTIRELY reserved** to designate an orthogonal status meaning the element costs **0 AP (Free)** to gain as a starting grant.
    * Any Element can be a Trait, but **NONE** of them are *always* Traits.

@@ -384,7 +384,8 @@
       "is_guildspace_locked": false,
       "discipline": "Universal",
       "stat_hook": null,
-      "notes": null
+      "notes": null,
+      "category": null
     },
     {
       "id": 2,
@@ -402,7 +403,8 @@
       "is_guildspace_locked": false,
       "discipline": "Universal",
       "stat_hook": null,
-      "notes": null
+      "notes": null,
+      "category": null
     },
     {
       "id": 3,
@@ -420,7 +422,8 @@
       "is_guildspace_locked": false,
       "discipline": "Universal",
       "stat_hook": null,
-      "notes": null
+      "notes": null,
+      "category": null
     },
     {
       "id": 5,
@@ -438,7 +441,8 @@
       "is_guildspace_locked": false,
       "discipline": "Universal",
       "stat_hook": null,
-      "notes": null
+      "notes": null,
+      "category": null
     },
     {
       "id": 6,
@@ -456,7 +460,8 @@
       "is_guildspace_locked": false,
       "discipline": "Universal",
       "stat_hook": null,
-      "notes": null
+      "notes": null,
+      "category": null
     },
     {
       "id": 7,
@@ -474,7 +479,8 @@
       "is_guildspace_locked": false,
       "discipline": "Universal",
       "stat_hook": null,
-      "notes": null
+      "notes": null,
+      "category": null
     },
     {
       "id": 9,
@@ -492,7 +498,8 @@
       "is_guildspace_locked": false,
       "discipline": "Universal",
       "stat_hook": null,
-      "notes": null
+      "notes": null,
+      "category": null
     },
     {
       "id": 10,
@@ -510,7 +517,8 @@
       "is_guildspace_locked": false,
       "discipline": "Psionics",
       "stat_hook": null,
-      "notes": null
+      "notes": null,
+      "category": null
     },
     {
       "id": 11,
@@ -528,7 +536,8 @@
       "is_guildspace_locked": false,
       "discipline": "Universal",
       "stat_hook": null,
-      "notes": null
+      "notes": null,
+      "category": null
     },
     {
       "id": 13,
@@ -546,7 +555,8 @@
       "is_guildspace_locked": false,
       "discipline": "Universal",
       "stat_hook": null,
-      "notes": null
+      "notes": null,
+      "category": null
     },
     {
       "id": 14,
@@ -564,7 +574,8 @@
       "is_guildspace_locked": false,
       "discipline": "Universal",
       "stat_hook": null,
-      "notes": null
+      "notes": null,
+      "category": null
     },
     {
       "id": 15,
@@ -582,7 +593,8 @@
       "is_guildspace_locked": false,
       "discipline": "Sorce",
       "stat_hook": null,
-      "notes": null
+      "notes": null,
+      "category": null
     },
     {
       "id": 16,
@@ -600,7 +612,8 @@
       "is_guildspace_locked": false,
       "discipline": "Psionics",
       "stat_hook": null,
-      "notes": null
+      "notes": null,
+      "category": null
     },
     {
       "id": 18,
@@ -618,7 +631,8 @@
       "is_guildspace_locked": false,
       "discipline": "Physical",
       "stat_hook": null,
-      "notes": null
+      "notes": null,
+      "category": null
     },
     {
       "id": 19,
@@ -636,7 +650,8 @@
       "is_guildspace_locked": false,
       "discipline": "Universal",
       "stat_hook": null,
-      "notes": null
+      "notes": null,
+      "category": null
     },
     {
       "id": 20,
@@ -654,7 +669,8 @@
       "is_guildspace_locked": false,
       "discipline": "Universal",
       "stat_hook": null,
-      "notes": null
+      "notes": null,
+      "category": null
     },
     {
       "id": 21,
@@ -672,7 +688,8 @@
       "is_guildspace_locked": false,
       "discipline": "Universal",
       "stat_hook": null,
-      "notes": null
+      "notes": null,
+      "category": null
     },
     {
       "id": 22,
@@ -690,7 +707,8 @@
       "is_guildspace_locked": false,
       "discipline": "Universal",
       "stat_hook": null,
-      "notes": null
+      "notes": null,
+      "category": null
     },
     {
       "id": 23,
@@ -708,7 +726,8 @@
       "is_guildspace_locked": false,
       "discipline": "Universal",
       "stat_hook": null,
-      "notes": null
+      "notes": null,
+      "category": null
     },
     {
       "id": 25,
@@ -726,7 +745,8 @@
       "is_guildspace_locked": false,
       "discipline": "Psionics",
       "stat_hook": null,
-      "notes": null
+      "notes": null,
+      "category": null
     },
     {
       "id": 26,
@@ -744,7 +764,8 @@
       "is_guildspace_locked": false,
       "discipline": "Psionics",
       "stat_hook": null,
-      "notes": null
+      "notes": null,
+      "category": null
     },
     {
       "id": 27,
@@ -762,7 +783,8 @@
       "is_guildspace_locked": false,
       "discipline": "Universal",
       "stat_hook": null,
-      "notes": null
+      "notes": null,
+      "category": null
     },
     {
       "id": 28,
@@ -780,7 +802,8 @@
       "is_guildspace_locked": false,
       "discipline": "Universal",
       "stat_hook": null,
-      "notes": null
+      "notes": null,
+      "category": null
     },
     {
       "id": 29,
@@ -798,7 +821,8 @@
       "is_guildspace_locked": false,
       "discipline": "Sorce",
       "stat_hook": null,
-      "notes": null
+      "notes": null,
+      "category": null
     },
     {
       "id": 30,
@@ -816,7 +840,8 @@
       "is_guildspace_locked": false,
       "discipline": "Universal",
       "stat_hook": null,
-      "notes": null
+      "notes": null,
+      "category": null
     },
     {
       "id": 31,
@@ -834,7 +859,8 @@
       "is_guildspace_locked": false,
       "discipline": "Universal",
       "stat_hook": null,
-      "notes": null
+      "notes": null,
+      "category": null
     },
     {
       "id": 32,
@@ -852,7 +878,8 @@
       "is_guildspace_locked": false,
       "discipline": "Universal",
       "stat_hook": null,
-      "notes": null
+      "notes": null,
+      "category": null
     },
     {
       "id": 33,
@@ -870,7 +897,8 @@
       "is_guildspace_locked": false,
       "discipline": "Universal",
       "stat_hook": null,
-      "notes": null
+      "notes": null,
+      "category": null
     },
     {
       "id": 34,
@@ -888,7 +916,8 @@
       "is_guildspace_locked": false,
       "discipline": "Universal",
       "stat_hook": null,
-      "notes": null
+      "notes": null,
+      "category": null
     },
     {
       "id": 35,
@@ -906,7 +935,8 @@
       "is_guildspace_locked": false,
       "discipline": "Universal",
       "stat_hook": null,
-      "notes": null
+      "notes": null,
+      "category": null
     },
     {
       "id": 36,
@@ -924,7 +954,8 @@
       "is_guildspace_locked": false,
       "discipline": "Universal",
       "stat_hook": null,
-      "notes": null
+      "notes": null,
+      "category": null
     },
     {
       "id": 37,
@@ -942,7 +973,8 @@
       "is_guildspace_locked": false,
       "discipline": "Universal",
       "stat_hook": null,
-      "notes": null
+      "notes": null,
+      "category": null
     },
     {
       "id": 38,
@@ -960,7 +992,8 @@
       "is_guildspace_locked": false,
       "discipline": "Universal",
       "stat_hook": null,
-      "notes": null
+      "notes": null,
+      "category": null
     },
     {
       "id": 39,
@@ -978,7 +1011,8 @@
       "is_guildspace_locked": false,
       "discipline": "Psionics",
       "stat_hook": null,
-      "notes": null
+      "notes": null,
+      "category": null
     },
     {
       "id": 40,
@@ -996,7 +1030,8 @@
       "is_guildspace_locked": false,
       "discipline": "Universal",
       "stat_hook": null,
-      "notes": null
+      "notes": null,
+      "category": null
     },
     {
       "id": 41,
@@ -1014,7 +1049,8 @@
       "is_guildspace_locked": false,
       "discipline": "Universal",
       "stat_hook": null,
-      "notes": null
+      "notes": null,
+      "category": null
     },
     {
       "id": 42,
@@ -1032,7 +1068,8 @@
       "is_guildspace_locked": false,
       "discipline": "Universal",
       "stat_hook": null,
-      "notes": null
+      "notes": null,
+      "category": null
     },
     {
       "id": 43,
@@ -1050,7 +1087,8 @@
       "is_guildspace_locked": false,
       "discipline": "Universal",
       "stat_hook": null,
-      "notes": null
+      "notes": null,
+      "category": null
     },
     {
       "id": 44,
@@ -1068,7 +1106,8 @@
       "is_guildspace_locked": false,
       "discipline": "Universal",
       "stat_hook": null,
-      "notes": null
+      "notes": null,
+      "category": null
     },
     {
       "id": 45,
@@ -1086,7 +1125,8 @@
       "is_guildspace_locked": false,
       "discipline": "Universal",
       "stat_hook": null,
-      "notes": null
+      "notes": null,
+      "category": null
     },
     {
       "id": 46,
@@ -1104,7 +1144,8 @@
       "is_guildspace_locked": false,
       "discipline": "Psionics",
       "stat_hook": null,
-      "notes": null
+      "notes": null,
+      "category": null
     },
     {
       "id": 47,
@@ -1122,7 +1163,8 @@
       "is_guildspace_locked": false,
       "discipline": "Universal",
       "stat_hook": null,
-      "notes": null
+      "notes": null,
+      "category": null
     },
     {
       "id": 48,
@@ -1140,7 +1182,8 @@
       "is_guildspace_locked": false,
       "discipline": "Universal",
       "stat_hook": null,
-      "notes": null
+      "notes": null,
+      "category": null
     },
     {
       "id": 49,
@@ -1158,7 +1201,8 @@
       "is_guildspace_locked": false,
       "discipline": "Psionics",
       "stat_hook": null,
-      "notes": null
+      "notes": null,
+      "category": null
     },
     {
       "id": 50,
@@ -1176,7 +1220,8 @@
       "is_guildspace_locked": false,
       "discipline": "Universal",
       "stat_hook": null,
-      "notes": null
+      "notes": null,
+      "category": null
     },
     {
       "id": 51,
@@ -1194,7 +1239,8 @@
       "is_guildspace_locked": false,
       "discipline": "Universal",
       "stat_hook": null,
-      "notes": null
+      "notes": null,
+      "category": null
     },
     {
       "id": 52,
@@ -1212,7 +1258,8 @@
       "is_guildspace_locked": false,
       "discipline": "Universal",
       "stat_hook": null,
-      "notes": null
+      "notes": null,
+      "category": null
     },
     {
       "id": 53,
@@ -1230,7 +1277,8 @@
       "is_guildspace_locked": false,
       "discipline": "Universal",
       "stat_hook": null,
-      "notes": null
+      "notes": null,
+      "category": null
     },
     {
       "id": 54,
@@ -1248,7 +1296,8 @@
       "is_guildspace_locked": false,
       "discipline": "Sorce",
       "stat_hook": null,
-      "notes": null
+      "notes": null,
+      "category": null
     },
     {
       "id": 55,
@@ -1265,7 +1314,8 @@
       "is_guildspace_locked": false,
       "discipline": "Universal",
       "stat_hook": null,
-      "notes": null
+      "notes": null,
+      "category": null
     },
     {
       "id": 56,
@@ -1283,7 +1333,8 @@
       "is_guildspace_locked": false,
       "discipline": "Universal",
       "stat_hook": null,
-      "notes": null
+      "notes": null,
+      "category": null
     },
     {
       "id": 58,
@@ -1301,7 +1352,8 @@
       "is_guildspace_locked": false,
       "discipline": "Universal",
       "stat_hook": null,
-      "notes": null
+      "notes": null,
+      "category": null
     },
     {
       "id": 59,
@@ -1319,7 +1371,8 @@
       "is_guildspace_locked": false,
       "discipline": "Universal",
       "stat_hook": null,
-      "notes": null
+      "notes": null,
+      "category": null
     },
     {
       "id": 60,
@@ -1337,7 +1390,8 @@
       "is_guildspace_locked": false,
       "discipline": "Universal",
       "stat_hook": null,
-      "notes": null
+      "notes": null,
+      "category": null
     },
     {
       "id": 61,
@@ -1355,7 +1409,8 @@
       "is_guildspace_locked": false,
       "discipline": "Universal",
       "stat_hook": null,
-      "notes": null
+      "notes": null,
+      "category": null
     },
     {
       "id": 64,
@@ -1373,7 +1428,8 @@
       "is_guildspace_locked": false,
       "discipline": "Universal",
       "stat_hook": null,
-      "notes": null
+      "notes": null,
+      "category": null
     },
     {
       "id": 65,
@@ -1391,7 +1447,8 @@
       "is_guildspace_locked": false,
       "discipline": "Martial",
       "stat_hook": null,
-      "notes": null
+      "notes": null,
+      "category": null
     },
     {
       "id": 66,
@@ -1409,7 +1466,8 @@
       "is_guildspace_locked": false,
       "discipline": "Psionics",
       "stat_hook": null,
-      "notes": null
+      "notes": null,
+      "category": null
     },
     {
       "id": 69,
@@ -1427,7 +1485,8 @@
       "is_guildspace_locked": false,
       "discipline": "Universal",
       "stat_hook": null,
-      "notes": null
+      "notes": null,
+      "category": null
     },
     {
       "id": 71,
@@ -1445,7 +1504,8 @@
       "is_guildspace_locked": false,
       "discipline": "Universal",
       "stat_hook": null,
-      "notes": null
+      "notes": null,
+      "category": null
     },
     {
       "id": 72,
@@ -1463,7 +1523,8 @@
       "is_guildspace_locked": false,
       "discipline": "Universal",
       "stat_hook": null,
-      "notes": null
+      "notes": null,
+      "category": null
     },
     {
       "id": 73,
@@ -1481,7 +1542,8 @@
       "is_guildspace_locked": false,
       "discipline": "Universal",
       "stat_hook": null,
-      "notes": null
+      "notes": null,
+      "category": null
     },
     {
       "id": 74,
@@ -1499,7 +1561,8 @@
       "is_guildspace_locked": false,
       "discipline": "Sorce",
       "stat_hook": null,
-      "notes": null
+      "notes": null,
+      "category": null
     },
     {
       "id": 75,
@@ -1517,7 +1580,8 @@
       "is_guildspace_locked": false,
       "discipline": "Martial",
       "stat_hook": null,
-      "notes": null
+      "notes": null,
+      "category": null
     },
     {
       "id": 76,
@@ -1535,7 +1599,8 @@
       "is_guildspace_locked": false,
       "discipline": "Universal",
       "stat_hook": null,
-      "notes": null
+      "notes": null,
+      "category": null
     },
     {
       "id": 78,
@@ -1553,7 +1618,8 @@
       "is_guildspace_locked": false,
       "discipline": "Universal",
       "stat_hook": null,
-      "notes": null
+      "notes": null,
+      "category": null
     },
     {
       "id": 79,
@@ -1571,7 +1637,8 @@
       "is_guildspace_locked": false,
       "discipline": "Universal",
       "stat_hook": null,
-      "notes": null
+      "notes": null,
+      "category": null
     },
     {
       "id": 80,
@@ -1589,7 +1656,8 @@
       "is_guildspace_locked": false,
       "discipline": "Universal",
       "stat_hook": null,
-      "notes": null
+      "notes": null,
+      "category": null
     },
     {
       "id": 81,
@@ -1607,7 +1675,8 @@
       "is_guildspace_locked": false,
       "discipline": "Universal",
       "stat_hook": null,
-      "notes": null
+      "notes": null,
+      "category": null
     },
     {
       "id": 82,
@@ -1625,7 +1694,8 @@
       "is_guildspace_locked": false,
       "discipline": "Universal",
       "stat_hook": null,
-      "notes": null
+      "notes": null,
+      "category": null
     },
     {
       "id": 83,
@@ -1643,7 +1713,8 @@
       "is_guildspace_locked": false,
       "discipline": "Universal",
       "stat_hook": null,
-      "notes": null
+      "notes": null,
+      "category": null
     },
     {
       "id": 84,
@@ -1661,7 +1732,8 @@
       "is_guildspace_locked": false,
       "discipline": "Martial",
       "stat_hook": null,
-      "notes": null
+      "notes": null,
+      "category": null
     },
     {
       "id": 85,
@@ -1679,7 +1751,8 @@
       "is_guildspace_locked": false,
       "discipline": "Universal",
       "stat_hook": null,
-      "notes": null
+      "notes": null,
+      "category": null
     },
     {
       "id": 86,
@@ -1697,7 +1770,8 @@
       "is_guildspace_locked": false,
       "discipline": "Universal",
       "stat_hook": null,
-      "notes": null
+      "notes": null,
+      "category": null
     },
     {
       "id": 87,
@@ -1715,7 +1789,8 @@
       "is_guildspace_locked": false,
       "discipline": "Psionics",
       "stat_hook": null,
-      "notes": null
+      "notes": null,
+      "category": null
     },
     {
       "id": 89,
@@ -1733,7 +1808,8 @@
       "is_guildspace_locked": false,
       "discipline": "Psychosomatics",
       "stat_hook": null,
-      "notes": null
+      "notes": null,
+      "category": null
     },
     {
       "id": 91,
@@ -1751,7 +1827,8 @@
       "is_guildspace_locked": false,
       "discipline": "Psionics",
       "stat_hook": null,
-      "notes": null
+      "notes": null,
+      "category": null
     },
     {
       "id": 92,
@@ -1769,7 +1846,8 @@
       "is_guildspace_locked": false,
       "discipline": "Universal",
       "stat_hook": null,
-      "notes": null
+      "notes": null,
+      "category": null
     },
     {
       "id": 93,
@@ -1787,7 +1865,8 @@
       "is_guildspace_locked": false,
       "discipline": "Universal",
       "stat_hook": null,
-      "notes": null
+      "notes": null,
+      "category": null
     },
     {
       "id": 94,
@@ -1805,7 +1884,8 @@
       "is_guildspace_locked": false,
       "discipline": "Universal",
       "stat_hook": null,
-      "notes": null
+      "notes": null,
+      "category": null
     },
     {
       "id": 95,
@@ -1823,7 +1903,8 @@
       "is_guildspace_locked": false,
       "discipline": "Universal",
       "stat_hook": null,
-      "notes": null
+      "notes": null,
+      "category": null
     },
     {
       "id": 96,
@@ -1841,7 +1922,8 @@
       "is_guildspace_locked": false,
       "discipline": "Universal",
       "stat_hook": null,
-      "notes": null
+      "notes": null,
+      "category": null
     },
     {
       "id": 97,
@@ -1859,7 +1941,8 @@
       "is_guildspace_locked": false,
       "discipline": "Universal",
       "stat_hook": null,
-      "notes": null
+      "notes": null,
+      "category": null
     },
     {
       "id": 98,
@@ -1877,7 +1960,8 @@
       "is_guildspace_locked": false,
       "discipline": "Universal",
       "stat_hook": null,
-      "notes": null
+      "notes": null,
+      "category": null
     },
     {
       "id": 99,
@@ -1895,7 +1979,8 @@
       "is_guildspace_locked": false,
       "discipline": "Universal",
       "stat_hook": null,
-      "notes": null
+      "notes": null,
+      "category": null
     },
     {
       "id": 100,
@@ -1913,7 +1998,8 @@
       "is_guildspace_locked": false,
       "discipline": "Universal",
       "stat_hook": null,
-      "notes": null
+      "notes": null,
+      "category": null
     },
     {
       "id": 101,
@@ -1931,7 +2017,8 @@
       "is_guildspace_locked": false,
       "discipline": "Universal",
       "stat_hook": null,
-      "notes": null
+      "notes": null,
+      "category": null
     },
     {
       "id": 102,
@@ -1949,7 +2036,8 @@
       "is_guildspace_locked": false,
       "discipline": "Universal",
       "stat_hook": null,
-      "notes": null
+      "notes": null,
+      "category": null
     },
     {
       "id": 103,
@@ -1967,7 +2055,8 @@
       "is_guildspace_locked": false,
       "discipline": "Martial",
       "stat_hook": null,
-      "notes": null
+      "notes": null,
+      "category": null
     },
     {
       "id": 104,
@@ -1985,7 +2074,8 @@
       "is_guildspace_locked": false,
       "discipline": "Psionics",
       "stat_hook": null,
-      "notes": null
+      "notes": null,
+      "category": null
     },
     {
       "id": 105,
@@ -2003,7 +2093,8 @@
       "is_guildspace_locked": false,
       "discipline": "Psionics",
       "stat_hook": null,
-      "notes": null
+      "notes": null,
+      "category": null
     },
     {
       "id": 106,
@@ -2021,7 +2112,8 @@
       "is_guildspace_locked": false,
       "discipline": "Psionics",
       "stat_hook": null,
-      "notes": null
+      "notes": null,
+      "category": null
     },
     {
       "id": 107,
@@ -2039,7 +2131,8 @@
       "is_guildspace_locked": false,
       "discipline": "Universal",
       "stat_hook": null,
-      "notes": null
+      "notes": null,
+      "category": null
     },
     {
       "id": 108,
@@ -2057,7 +2150,8 @@
       "is_guildspace_locked": false,
       "discipline": "Sorce",
       "stat_hook": null,
-      "notes": null
+      "notes": null,
+      "category": null
     },
     {
       "id": 109,
@@ -2075,7 +2169,8 @@
       "is_guildspace_locked": false,
       "discipline": "Psionics",
       "stat_hook": null,
-      "notes": null
+      "notes": null,
+      "category": null
     },
     {
       "id": 110,
@@ -2093,7 +2188,8 @@
       "is_guildspace_locked": false,
       "discipline": "Sorce",
       "stat_hook": null,
-      "notes": null
+      "notes": null,
+      "category": null
     },
     {
       "id": 111,
@@ -2111,7 +2207,8 @@
       "is_guildspace_locked": false,
       "discipline": "Psionics",
       "stat_hook": null,
-      "notes": null
+      "notes": null,
+      "category": null
     },
     {
       "id": 112,
@@ -2129,7 +2226,8 @@
       "is_guildspace_locked": false,
       "discipline": "Universal",
       "stat_hook": null,
-      "notes": null
+      "notes": null,
+      "category": null
     },
     {
       "id": 113,
@@ -2147,7 +2245,8 @@
       "is_guildspace_locked": false,
       "discipline": "Universal",
       "stat_hook": null,
-      "notes": null
+      "notes": null,
+      "category": null
     },
     {
       "id": 114,
@@ -2165,7 +2264,8 @@
       "is_guildspace_locked": false,
       "discipline": "Universal",
       "stat_hook": null,
-      "notes": null
+      "notes": null,
+      "category": null
     },
     {
       "id": 115,
@@ -2183,7 +2283,8 @@
       "is_guildspace_locked": false,
       "discipline": "Psionics",
       "stat_hook": null,
-      "notes": null
+      "notes": null,
+      "category": null
     },
     {
       "id": 116,
@@ -2201,7 +2302,8 @@
       "is_guildspace_locked": false,
       "discipline": "Universal",
       "stat_hook": null,
-      "notes": null
+      "notes": null,
+      "category": null
     },
     {
       "id": 117,
@@ -2219,7 +2321,8 @@
       "is_guildspace_locked": false,
       "discipline": "Universal",
       "stat_hook": null,
-      "notes": null
+      "notes": null,
+      "category": null
     },
     {
       "id": 118,
@@ -2237,7 +2340,8 @@
       "is_guildspace_locked": false,
       "discipline": "Universal",
       "stat_hook": null,
-      "notes": null
+      "notes": null,
+      "category": null
     },
     {
       "id": 120,
@@ -2255,7 +2359,8 @@
       "is_guildspace_locked": false,
       "discipline": "Universal",
       "stat_hook": null,
-      "notes": null
+      "notes": null,
+      "category": null
     },
     {
       "id": 121,
@@ -2273,7 +2378,8 @@
       "is_guildspace_locked": false,
       "discipline": "Universal",
       "stat_hook": null,
-      "notes": null
+      "notes": null,
+      "category": null
     },
     {
       "id": 122,
@@ -2291,7 +2397,8 @@
       "is_guildspace_locked": false,
       "discipline": "Universal",
       "stat_hook": null,
-      "notes": null
+      "notes": null,
+      "category": null
     },
     {
       "id": 123,
@@ -2309,7 +2416,8 @@
       "is_guildspace_locked": false,
       "discipline": "Universal",
       "stat_hook": null,
-      "notes": null
+      "notes": null,
+      "category": null
     },
     {
       "id": 124,
@@ -2327,7 +2435,8 @@
       "is_guildspace_locked": false,
       "discipline": "Universal",
       "stat_hook": null,
-      "notes": null
+      "notes": null,
+      "category": null
     },
     {
       "id": 125,
@@ -2345,7 +2454,8 @@
       "is_guildspace_locked": false,
       "discipline": "Psionics",
       "stat_hook": null,
-      "notes": null
+      "notes": null,
+      "category": null
     },
     {
       "id": 126,
@@ -2363,7 +2473,8 @@
       "is_guildspace_locked": false,
       "discipline": "Universal",
       "stat_hook": null,
-      "notes": null
+      "notes": null,
+      "category": null
     },
     {
       "id": 127,
@@ -2381,7 +2492,8 @@
       "is_guildspace_locked": false,
       "discipline": "Sorce",
       "stat_hook": null,
-      "notes": null
+      "notes": null,
+      "category": null
     },
     {
       "id": 128,
@@ -2399,7 +2511,8 @@
       "is_guildspace_locked": false,
       "discipline": "Universal",
       "stat_hook": null,
-      "notes": null
+      "notes": null,
+      "category": null
     },
     {
       "id": 129,
@@ -2417,7 +2530,8 @@
       "is_guildspace_locked": false,
       "discipline": "Universal",
       "stat_hook": null,
-      "notes": null
+      "notes": null,
+      "category": null
     },
     {
       "id": 130,
@@ -2435,7 +2549,8 @@
       "is_guildspace_locked": false,
       "discipline": "Universal",
       "stat_hook": null,
-      "notes": null
+      "notes": null,
+      "category": null
     },
     {
       "id": 131,
@@ -2453,7 +2568,8 @@
       "is_guildspace_locked": false,
       "discipline": "Martial",
       "stat_hook": null,
-      "notes": null
+      "notes": null,
+      "category": null
     },
     {
       "id": 132,
@@ -2471,7 +2587,8 @@
       "is_guildspace_locked": false,
       "discipline": "Universal",
       "stat_hook": null,
-      "notes": null
+      "notes": null,
+      "category": null
     },
     {
       "id": 133,
@@ -2489,7 +2606,8 @@
       "is_guildspace_locked": false,
       "discipline": "Universal",
       "stat_hook": null,
-      "notes": null
+      "notes": null,
+      "category": null
     },
     {
       "id": 134,
@@ -2507,7 +2625,8 @@
       "is_guildspace_locked": false,
       "discipline": "Universal",
       "stat_hook": null,
-      "notes": null
+      "notes": null,
+      "category": null
     },
     {
       "id": 136,
@@ -2525,7 +2644,8 @@
       "is_guildspace_locked": false,
       "discipline": "Sorce",
       "stat_hook": null,
-      "notes": null
+      "notes": null,
+      "category": null
     },
     {
       "id": 137,
@@ -2543,7 +2663,8 @@
       "is_guildspace_locked": false,
       "discipline": "Universal",
       "stat_hook": null,
-      "notes": null
+      "notes": null,
+      "category": null
     },
     {
       "id": 138,
@@ -2561,7 +2682,8 @@
       "is_guildspace_locked": false,
       "discipline": "Universal",
       "stat_hook": null,
-      "notes": null
+      "notes": null,
+      "category": null
     },
     {
       "id": 139,
@@ -2579,7 +2701,8 @@
       "is_guildspace_locked": false,
       "discipline": "Universal",
       "stat_hook": null,
-      "notes": null
+      "notes": null,
+      "category": null
     },
     {
       "id": 140,
@@ -2597,7 +2720,8 @@
       "is_guildspace_locked": false,
       "discipline": "Psionics",
       "stat_hook": null,
-      "notes": null
+      "notes": null,
+      "category": null
     },
     {
       "id": 141,
@@ -2615,7 +2739,8 @@
       "is_guildspace_locked": false,
       "discipline": "Universal",
       "stat_hook": null,
-      "notes": null
+      "notes": null,
+      "category": null
     },
     {
       "id": 142,
@@ -2631,7 +2756,8 @@
       "is_guildspace_locked": false,
       "discipline": "Universal",
       "stat_hook": null,
-      "notes": null
+      "notes": null,
+      "category": null
     },
     {
       "id": 144,
@@ -2647,7 +2773,8 @@
       "is_guildspace_locked": false,
       "discipline": "Universal",
       "stat_hook": null,
-      "notes": null
+      "notes": null,
+      "category": null
     },
     {
       "id": 145,
@@ -2663,7 +2790,8 @@
       "is_guildspace_locked": false,
       "discipline": "Universal",
       "stat_hook": null,
-      "notes": null
+      "notes": null,
+      "category": null
     },
     {
       "id": 146,
@@ -2679,7 +2807,8 @@
       "is_guildspace_locked": false,
       "discipline": "Universal",
       "stat_hook": null,
-      "notes": null
+      "notes": null,
+      "category": null
     },
     {
       "id": 147,
@@ -2697,7 +2826,8 @@
       "is_guildspace_locked": false,
       "discipline": "Universal",
       "stat_hook": null,
-      "notes": null
+      "notes": null,
+      "category": null
     },
     {
       "id": 148,
@@ -2715,7 +2845,8 @@
       "is_guildspace_locked": false,
       "discipline": "Psionics",
       "stat_hook": null,
-      "notes": null
+      "notes": null,
+      "category": null
     },
     {
       "id": 149,
@@ -2733,7 +2864,8 @@
       "is_guildspace_locked": false,
       "discipline": "Universal",
       "stat_hook": null,
-      "notes": null
+      "notes": null,
+      "category": null
     },
     {
       "id": 150,
@@ -2751,7 +2883,8 @@
       "is_guildspace_locked": false,
       "discipline": "Universal",
       "stat_hook": null,
-      "notes": null
+      "notes": null,
+      "category": null
     },
     {
       "id": 151,
@@ -2769,7 +2902,8 @@
       "is_guildspace_locked": false,
       "discipline": "Universal",
       "stat_hook": null,
-      "notes": null
+      "notes": null,
+      "category": null
     },
     {
       "id": 152,
@@ -2787,7 +2921,8 @@
       "is_guildspace_locked": false,
       "discipline": "Sorce",
       "stat_hook": null,
-      "notes": null
+      "notes": null,
+      "category": null
     },
     {
       "id": 153,
@@ -2805,7 +2940,8 @@
       "is_guildspace_locked": false,
       "discipline": "Psychosomatics",
       "stat_hook": null,
-      "notes": null
+      "notes": null,
+      "category": null
     },
     {
       "id": 154,
@@ -2823,7 +2959,8 @@
       "is_guildspace_locked": false,
       "discipline": "Sorce",
       "stat_hook": null,
-      "notes": null
+      "notes": null,
+      "category": null
     },
     {
       "id": 156,
@@ -2841,7 +2978,8 @@
       "is_guildspace_locked": false,
       "discipline": "Universal",
       "stat_hook": null,
-      "notes": null
+      "notes": null,
+      "category": null
     },
     {
       "id": 157,
@@ -2859,7 +2997,8 @@
       "is_guildspace_locked": false,
       "discipline": "Universal",
       "stat_hook": null,
-      "notes": null
+      "notes": null,
+      "category": null
     },
     {
       "id": 158,
@@ -2877,7 +3016,8 @@
       "is_guildspace_locked": false,
       "discipline": "Universal",
       "stat_hook": null,
-      "notes": null
+      "notes": null,
+      "category": null
     },
     {
       "id": 159,
@@ -2895,7 +3035,8 @@
       "is_guildspace_locked": false,
       "discipline": "Universal",
       "stat_hook": null,
-      "notes": null
+      "notes": null,
+      "category": null
     },
     {
       "id": 160,
@@ -2913,7 +3054,8 @@
       "is_guildspace_locked": false,
       "discipline": "Universal",
       "stat_hook": null,
-      "notes": null
+      "notes": null,
+      "category": null
     },
     {
       "id": 161,
@@ -2931,7 +3073,8 @@
       "is_guildspace_locked": false,
       "discipline": "Martial",
       "stat_hook": null,
-      "notes": null
+      "notes": null,
+      "category": null
     },
     {
       "id": 163,
@@ -2949,7 +3092,8 @@
       "is_guildspace_locked": false,
       "discipline": "Universal",
       "stat_hook": null,
-      "notes": null
+      "notes": null,
+      "category": null
     },
     {
       "id": 164,
@@ -2967,7 +3111,8 @@
       "is_guildspace_locked": false,
       "discipline": "Universal",
       "stat_hook": null,
-      "notes": null
+      "notes": null,
+      "category": null
     },
     {
       "id": 165,
@@ -2985,7 +3130,8 @@
       "is_guildspace_locked": false,
       "discipline": "Sorce",
       "stat_hook": null,
-      "notes": null
+      "notes": null,
+      "category": null
     },
     {
       "id": 166,
@@ -3003,7 +3149,8 @@
       "is_guildspace_locked": false,
       "discipline": "Universal",
       "stat_hook": null,
-      "notes": null
+      "notes": null,
+      "category": null
     },
     {
       "id": 167,
@@ -3021,7 +3168,8 @@
       "is_guildspace_locked": false,
       "discipline": "Martial",
       "stat_hook": null,
-      "notes": null
+      "notes": null,
+      "category": null
     },
     {
       "id": 168,
@@ -3039,7 +3187,8 @@
       "is_guildspace_locked": false,
       "discipline": "Sorce",
       "stat_hook": null,
-      "notes": null
+      "notes": null,
+      "category": null
     },
     {
       "id": 169,
@@ -3057,7 +3206,8 @@
       "is_guildspace_locked": false,
       "discipline": "Sorce",
       "stat_hook": null,
-      "notes": null
+      "notes": null,
+      "category": null
     },
     {
       "id": 172,
@@ -3075,7 +3225,8 @@
       "is_guildspace_locked": false,
       "discipline": "Sorce",
       "stat_hook": null,
-      "notes": null
+      "notes": null,
+      "category": null
     },
     {
       "id": 175,
@@ -3093,7 +3244,8 @@
       "is_guildspace_locked": false,
       "discipline": "Universal",
       "stat_hook": null,
-      "notes": null
+      "notes": null,
+      "category": null
     },
     {
       "id": 176,
@@ -3111,7 +3263,8 @@
       "is_guildspace_locked": false,
       "discipline": "Psionics",
       "stat_hook": null,
-      "notes": null
+      "notes": null,
+      "category": null
     },
     {
       "id": 177,
@@ -3129,7 +3282,8 @@
       "is_guildspace_locked": false,
       "discipline": "Sorce",
       "stat_hook": null,
-      "notes": null
+      "notes": null,
+      "category": null
     },
     {
       "id": 179,
@@ -3147,7 +3301,8 @@
       "is_guildspace_locked": false,
       "discipline": "Psionics",
       "stat_hook": null,
-      "notes": null
+      "notes": null,
+      "category": null
     },
     {
       "id": 180,
@@ -3165,7 +3320,8 @@
       "is_guildspace_locked": false,
       "discipline": "Universal",
       "stat_hook": null,
-      "notes": null
+      "notes": null,
+      "category": null
     },
     {
       "id": 181,
@@ -3183,7 +3339,8 @@
       "is_guildspace_locked": false,
       "discipline": "Martial",
       "stat_hook": null,
-      "notes": null
+      "notes": null,
+      "category": null
     },
     {
       "id": 182,
@@ -3201,7 +3358,8 @@
       "is_guildspace_locked": false,
       "discipline": "Martial",
       "stat_hook": null,
-      "notes": null
+      "notes": null,
+      "category": null
     },
     {
       "id": 183,
@@ -3219,7 +3377,8 @@
       "is_guildspace_locked": false,
       "discipline": "Universal",
       "stat_hook": null,
-      "notes": null
+      "notes": null,
+      "category": null
     },
     {
       "id": 184,
@@ -3237,7 +3396,8 @@
       "is_guildspace_locked": false,
       "discipline": "Universal",
       "stat_hook": null,
-      "notes": null
+      "notes": null,
+      "category": null
     },
     {
       "id": 185,
@@ -3255,7 +3415,8 @@
       "is_guildspace_locked": false,
       "discipline": "Universal",
       "stat_hook": null,
-      "notes": null
+      "notes": null,
+      "category": null
     },
     {
       "id": 186,
@@ -3273,7 +3434,8 @@
       "is_guildspace_locked": false,
       "discipline": "Universal",
       "stat_hook": null,
-      "notes": null
+      "notes": null,
+      "category": null
     },
     {
       "id": 187,
@@ -3291,7 +3453,8 @@
       "is_guildspace_locked": false,
       "discipline": "Psionics",
       "stat_hook": null,
-      "notes": null
+      "notes": null,
+      "category": null
     },
     {
       "id": 188,
@@ -3309,7 +3472,8 @@
       "is_guildspace_locked": false,
       "discipline": "Psionics",
       "stat_hook": null,
-      "notes": null
+      "notes": null,
+      "category": null
     },
     {
       "id": 189,
@@ -3327,7 +3491,8 @@
       "is_guildspace_locked": false,
       "discipline": "Psionics",
       "stat_hook": null,
-      "notes": null
+      "notes": null,
+      "category": null
     },
     {
       "id": 192,
@@ -3345,7 +3510,8 @@
       "is_guildspace_locked": false,
       "discipline": "Universal",
       "stat_hook": null,
-      "notes": null
+      "notes": null,
+      "category": null
     },
     {
       "id": 193,
@@ -3363,7 +3529,8 @@
       "is_guildspace_locked": false,
       "discipline": "Universal",
       "stat_hook": null,
-      "notes": null
+      "notes": null,
+      "category": null
     },
     {
       "id": 194,
@@ -3381,7 +3548,8 @@
       "is_guildspace_locked": false,
       "discipline": "Universal",
       "stat_hook": null,
-      "notes": null
+      "notes": null,
+      "category": null
     },
     {
       "id": 195,
@@ -3399,7 +3567,8 @@
       "is_guildspace_locked": false,
       "discipline": "Martial",
       "stat_hook": null,
-      "notes": null
+      "notes": null,
+      "category": null
     },
     {
       "id": 196,
@@ -3417,7 +3586,8 @@
       "is_guildspace_locked": false,
       "discipline": "Martial",
       "stat_hook": null,
-      "notes": null
+      "notes": null,
+      "category": null
     },
     {
       "id": 197,
@@ -3435,7 +3605,8 @@
       "is_guildspace_locked": false,
       "discipline": "Sorce",
       "stat_hook": null,
-      "notes": null
+      "notes": null,
+      "category": null
     },
     {
       "id": 198,
@@ -3453,7 +3624,8 @@
       "is_guildspace_locked": false,
       "discipline": "Martial",
       "stat_hook": null,
-      "notes": null
+      "notes": null,
+      "category": null
     },
     {
       "id": 199,
@@ -3471,7 +3643,8 @@
       "is_guildspace_locked": false,
       "discipline": "Universal",
       "stat_hook": null,
-      "notes": null
+      "notes": null,
+      "category": null
     },
     {
       "id": 201,
@@ -3489,7 +3662,8 @@
       "is_guildspace_locked": false,
       "discipline": "Universal",
       "stat_hook": null,
-      "notes": null
+      "notes": null,
+      "category": null
     },
     {
       "id": 204,
@@ -3507,7 +3681,8 @@
       "is_guildspace_locked": false,
       "discipline": "Universal",
       "stat_hook": null,
-      "notes": null
+      "notes": null,
+      "category": null
     },
     {
       "id": 205,
@@ -3525,7 +3700,8 @@
       "is_guildspace_locked": false,
       "discipline": "Universal",
       "stat_hook": null,
-      "notes": null
+      "notes": null,
+      "category": null
     },
     {
       "id": 206,
@@ -3543,7 +3719,8 @@
       "is_guildspace_locked": false,
       "discipline": "Psychosomatics",
       "stat_hook": null,
-      "notes": null
+      "notes": null,
+      "category": null
     },
     {
       "id": 207,
@@ -3561,7 +3738,8 @@
       "is_guildspace_locked": false,
       "discipline": "Universal",
       "stat_hook": null,
-      "notes": null
+      "notes": null,
+      "category": null
     },
     {
       "id": 208,
@@ -3579,7 +3757,8 @@
       "is_guildspace_locked": false,
       "discipline": "Sorce",
       "stat_hook": null,
-      "notes": null
+      "notes": null,
+      "category": null
     },
     {
       "id": 209,
@@ -3597,7 +3776,8 @@
       "is_guildspace_locked": false,
       "discipline": "Universal",
       "stat_hook": null,
-      "notes": null
+      "notes": null,
+      "category": null
     },
     {
       "id": 211,
@@ -3615,7 +3795,8 @@
       "is_guildspace_locked": false,
       "discipline": "Psionics",
       "stat_hook": null,
-      "notes": null
+      "notes": null,
+      "category": null
     },
     {
       "id": 212,
@@ -3632,7 +3813,8 @@
       "is_guildspace_locked": false,
       "discipline": "Universal",
       "stat_hook": null,
-      "notes": null
+      "notes": null,
+      "category": null
     },
     {
       "id": 213,
@@ -3650,7 +3832,8 @@
       "is_guildspace_locked": false,
       "discipline": "Psionics",
       "stat_hook": null,
-      "notes": null
+      "notes": null,
+      "category": null
     },
     {
       "id": 215,
@@ -3668,7 +3851,8 @@
       "is_guildspace_locked": false,
       "discipline": "Sorce",
       "stat_hook": null,
-      "notes": null
+      "notes": null,
+      "category": null
     },
     {
       "id": 216,
@@ -3686,7 +3870,8 @@
       "is_guildspace_locked": false,
       "discipline": "Universal",
       "stat_hook": null,
-      "notes": null
+      "notes": null,
+      "category": null
     },
     {
       "id": 217,
@@ -3702,7 +3887,8 @@
       "is_guildspace_locked": false,
       "discipline": "Universal",
       "stat_hook": null,
-      "notes": null
+      "notes": null,
+      "category": null
     },
     {
       "id": 220,
@@ -3720,7 +3906,8 @@
       "is_guildspace_locked": false,
       "discipline": "Martial",
       "stat_hook": null,
-      "notes": null
+      "notes": null,
+      "category": null
     },
     {
       "id": 222,
@@ -3738,7 +3925,8 @@
       "is_guildspace_locked": false,
       "discipline": "Universal",
       "stat_hook": null,
-      "notes": null
+      "notes": null,
+      "category": null
     },
     {
       "id": 223,
@@ -3756,7 +3944,8 @@
       "is_guildspace_locked": false,
       "discipline": "Universal",
       "stat_hook": null,
-      "notes": null
+      "notes": null,
+      "category": null
     },
     {
       "id": 224,
@@ -3774,7 +3963,8 @@
       "is_guildspace_locked": false,
       "discipline": "Universal",
       "stat_hook": null,
-      "notes": null
+      "notes": null,
+      "category": null
     },
     {
       "id": 226,
@@ -3792,7 +3982,8 @@
       "is_guildspace_locked": false,
       "discipline": "Universal",
       "stat_hook": null,
-      "notes": null
+      "notes": null,
+      "category": null
     },
     {
       "id": 227,
@@ -3810,7 +4001,8 @@
       "is_guildspace_locked": false,
       "discipline": "Universal",
       "stat_hook": null,
-      "notes": null
+      "notes": null,
+      "category": null
     },
     {
       "id": 228,
@@ -3828,7 +4020,8 @@
       "is_guildspace_locked": false,
       "discipline": "Universal",
       "stat_hook": null,
-      "notes": null
+      "notes": null,
+      "category": null
     },
     {
       "id": 229,
@@ -3846,7 +4039,8 @@
       "is_guildspace_locked": false,
       "discipline": "Universal",
       "stat_hook": null,
-      "notes": null
+      "notes": null,
+      "category": null
     },
     {
       "id": 230,
@@ -3864,7 +4058,8 @@
       "is_guildspace_locked": false,
       "discipline": "Universal",
       "stat_hook": null,
-      "notes": null
+      "notes": null,
+      "category": null
     },
     {
       "id": 231,
@@ -3882,7 +4077,8 @@
       "is_guildspace_locked": false,
       "discipline": "Universal",
       "stat_hook": null,
-      "notes": null
+      "notes": null,
+      "category": null
     },
     {
       "id": 232,
@@ -3900,7 +4096,8 @@
       "is_guildspace_locked": false,
       "discipline": "Universal",
       "stat_hook": null,
-      "notes": null
+      "notes": null,
+      "category": null
     },
     {
       "id": 233,
@@ -3918,7 +4115,8 @@
       "is_guildspace_locked": false,
       "discipline": "Universal",
       "stat_hook": null,
-      "notes": null
+      "notes": null,
+      "category": null
     },
     {
       "id": 234,
@@ -3936,7 +4134,8 @@
       "is_guildspace_locked": false,
       "discipline": "Universal",
       "stat_hook": null,
-      "notes": null
+      "notes": null,
+      "category": null
     },
     {
       "id": 235,
@@ -3954,7 +4153,8 @@
       "is_guildspace_locked": false,
       "discipline": "Universal",
       "stat_hook": null,
-      "notes": null
+      "notes": null,
+      "category": null
     },
     {
       "id": 236,
@@ -3972,7 +4172,8 @@
       "is_guildspace_locked": false,
       "discipline": "Psionics",
       "stat_hook": null,
-      "notes": null
+      "notes": null,
+      "category": null
     },
     {
       "id": 237,
@@ -3990,7 +4191,8 @@
       "is_guildspace_locked": false,
       "discipline": "Universal",
       "stat_hook": null,
-      "notes": null
+      "notes": null,
+      "category": null
     },
     {
       "id": 238,
@@ -4008,7 +4210,8 @@
       "is_guildspace_locked": false,
       "discipline": "Universal",
       "stat_hook": null,
-      "notes": null
+      "notes": null,
+      "category": null
     },
     {
       "id": 240,
@@ -4026,7 +4229,8 @@
       "is_guildspace_locked": false,
       "discipline": "Sorce",
       "stat_hook": null,
-      "notes": null
+      "notes": null,
+      "category": null
     },
     {
       "id": 241,
@@ -4044,7 +4248,8 @@
       "is_guildspace_locked": false,
       "discipline": "Sorce",
       "stat_hook": null,
-      "notes": null
+      "notes": null,
+      "category": null
     },
     {
       "id": 242,
@@ -4061,7 +4266,8 @@
       "is_guildspace_locked": false,
       "discipline": "Universal",
       "stat_hook": null,
-      "notes": null
+      "notes": null,
+      "category": null
     },
     {
       "id": 243,
@@ -4079,7 +4285,8 @@
       "is_guildspace_locked": false,
       "discipline": "Universal",
       "stat_hook": null,
-      "notes": null
+      "notes": null,
+      "category": null
     },
     {
       "id": 244,
@@ -4097,7 +4304,8 @@
       "is_guildspace_locked": false,
       "discipline": "Universal",
       "stat_hook": null,
-      "notes": null
+      "notes": null,
+      "category": null
     },
     {
       "id": 245,
@@ -4115,7 +4323,8 @@
       "is_guildspace_locked": false,
       "discipline": "Sorce",
       "stat_hook": null,
-      "notes": null
+      "notes": null,
+      "category": null
     },
     {
       "id": 246,
@@ -4133,7 +4342,8 @@
       "is_guildspace_locked": false,
       "discipline": "Universal",
       "stat_hook": null,
-      "notes": null
+      "notes": null,
+      "category": null
     },
     {
       "id": 247,
@@ -4151,7 +4361,8 @@
       "is_guildspace_locked": false,
       "discipline": "Universal",
       "stat_hook": null,
-      "notes": null
+      "notes": null,
+      "category": null
     },
     {
       "id": 248,
@@ -4169,7 +4380,8 @@
       "is_guildspace_locked": false,
       "discipline": "Universal",
       "stat_hook": null,
-      "notes": null
+      "notes": null,
+      "category": null
     },
     {
       "id": 249,
@@ -4187,7 +4399,8 @@
       "is_guildspace_locked": false,
       "discipline": "Universal",
       "stat_hook": null,
-      "notes": null
+      "notes": null,
+      "category": null
     },
     {
       "id": 250,
@@ -4205,7 +4418,8 @@
       "is_guildspace_locked": false,
       "discipline": "Martial",
       "stat_hook": null,
-      "notes": null
+      "notes": null,
+      "category": null
     },
     {
       "id": 251,
@@ -4223,7 +4437,8 @@
       "is_guildspace_locked": false,
       "discipline": "Martial",
       "stat_hook": null,
-      "notes": null
+      "notes": null,
+      "category": null
     },
     {
       "id": 252,
@@ -4241,7 +4456,8 @@
       "is_guildspace_locked": false,
       "discipline": "Universal",
       "stat_hook": null,
-      "notes": null
+      "notes": null,
+      "category": null
     },
     {
       "id": 253,
@@ -4259,7 +4475,8 @@
       "is_guildspace_locked": false,
       "discipline": "Universal",
       "stat_hook": null,
-      "notes": null
+      "notes": null,
+      "category": null
     },
     {
       "id": 254,
@@ -4277,7 +4494,8 @@
       "is_guildspace_locked": false,
       "discipline": "Martial",
       "stat_hook": null,
-      "notes": null
+      "notes": null,
+      "category": null
     },
     {
       "id": 255,
@@ -4295,7 +4513,8 @@
       "is_guildspace_locked": false,
       "discipline": "Psionics",
       "stat_hook": null,
-      "notes": null
+      "notes": null,
+      "category": null
     },
     {
       "id": 256,
@@ -4313,7 +4532,8 @@
       "is_guildspace_locked": false,
       "discipline": "Sorce",
       "stat_hook": null,
-      "notes": null
+      "notes": null,
+      "category": null
     },
     {
       "id": 257,
@@ -4331,7 +4551,8 @@
       "is_guildspace_locked": false,
       "discipline": "Universal",
       "stat_hook": null,
-      "notes": null
+      "notes": null,
+      "category": null
     },
     {
       "id": 258,
@@ -4349,7 +4570,8 @@
       "is_guildspace_locked": false,
       "discipline": "Universal",
       "stat_hook": null,
-      "notes": null
+      "notes": null,
+      "category": null
     },
     {
       "id": 259,
@@ -4367,7 +4589,8 @@
       "is_guildspace_locked": false,
       "discipline": "Universal",
       "stat_hook": null,
-      "notes": null
+      "notes": null,
+      "category": null
     },
     {
       "id": 260,
@@ -4385,7 +4608,8 @@
       "is_guildspace_locked": false,
       "discipline": "Universal",
       "stat_hook": null,
-      "notes": null
+      "notes": null,
+      "category": null
     },
     {
       "id": 261,
@@ -4403,7 +4627,8 @@
       "is_guildspace_locked": false,
       "discipline": "Universal",
       "stat_hook": null,
-      "notes": null
+      "notes": null,
+      "category": null
     },
     {
       "id": 262,
@@ -4421,7 +4646,8 @@
       "is_guildspace_locked": false,
       "discipline": "Sorce",
       "stat_hook": null,
-      "notes": null
+      "notes": null,
+      "category": null
     },
     {
       "id": 263,
@@ -4439,7 +4665,8 @@
       "is_guildspace_locked": false,
       "discipline": "Universal",
       "stat_hook": null,
-      "notes": null
+      "notes": null,
+      "category": null
     },
     {
       "id": 264,
@@ -4457,7 +4684,8 @@
       "is_guildspace_locked": false,
       "discipline": "Universal",
       "stat_hook": null,
-      "notes": null
+      "notes": null,
+      "category": null
     },
     {
       "id": 267,
@@ -4475,7 +4703,8 @@
       "is_guildspace_locked": false,
       "discipline": "Universal",
       "stat_hook": null,
-      "notes": null
+      "notes": null,
+      "category": null
     },
     {
       "id": 268,
@@ -4493,7 +4722,8 @@
       "is_guildspace_locked": false,
       "discipline": "Psionics",
       "stat_hook": null,
-      "notes": null
+      "notes": null,
+      "category": null
     },
     {
       "id": 269,
@@ -4511,7 +4741,8 @@
       "is_guildspace_locked": false,
       "discipline": "Universal",
       "stat_hook": null,
-      "notes": null
+      "notes": null,
+      "category": null
     },
     {
       "id": 270,
@@ -4529,7 +4760,8 @@
       "is_guildspace_locked": false,
       "discipline": "Universal",
       "stat_hook": null,
-      "notes": null
+      "notes": null,
+      "category": null
     },
     {
       "id": 271,
@@ -4547,7 +4779,8 @@
       "is_guildspace_locked": false,
       "discipline": "Sorce",
       "stat_hook": null,
-      "notes": null
+      "notes": null,
+      "category": null
     },
     {
       "id": 272,
@@ -4565,7 +4798,8 @@
       "is_guildspace_locked": false,
       "discipline": "Universal",
       "stat_hook": null,
-      "notes": null
+      "notes": null,
+      "category": null
     },
     {
       "id": 273,
@@ -4583,7 +4817,8 @@
       "is_guildspace_locked": false,
       "discipline": "Psionics",
       "stat_hook": null,
-      "notes": null
+      "notes": null,
+      "category": null
     },
     {
       "id": 274,
@@ -4601,7 +4836,8 @@
       "is_guildspace_locked": false,
       "discipline": "Universal",
       "stat_hook": null,
-      "notes": null
+      "notes": null,
+      "category": null
     },
     {
       "id": 275,
@@ -4619,7 +4855,8 @@
       "is_guildspace_locked": false,
       "discipline": "Psionics",
       "stat_hook": null,
-      "notes": null
+      "notes": null,
+      "category": null
     },
     {
       "id": 276,
@@ -4637,7 +4874,8 @@
       "is_guildspace_locked": false,
       "discipline": "Universal",
       "stat_hook": null,
-      "notes": null
+      "notes": null,
+      "category": null
     },
     {
       "id": 277,
@@ -4655,7 +4893,8 @@
       "is_guildspace_locked": false,
       "discipline": "Universal",
       "stat_hook": null,
-      "notes": null
+      "notes": null,
+      "category": null
     },
     {
       "id": 278,
@@ -4673,7 +4912,8 @@
       "is_guildspace_locked": false,
       "discipline": "Sorce",
       "stat_hook": null,
-      "notes": null
+      "notes": null,
+      "category": null
     },
     {
       "id": 280,
@@ -4691,7 +4931,8 @@
       "is_guildspace_locked": false,
       "discipline": "Universal",
       "stat_hook": null,
-      "notes": null
+      "notes": null,
+      "category": null
     },
     {
       "id": 281,
@@ -4709,7 +4950,8 @@
       "is_guildspace_locked": false,
       "discipline": "Universal",
       "stat_hook": null,
-      "notes": null
+      "notes": null,
+      "category": null
     },
     {
       "id": 282,
@@ -4727,7 +4969,8 @@
       "is_guildspace_locked": false,
       "discipline": "Universal",
       "stat_hook": null,
-      "notes": null
+      "notes": null,
+      "category": null
     },
     {
       "id": 283,
@@ -4745,7 +4988,8 @@
       "is_guildspace_locked": false,
       "discipline": "Sorce",
       "stat_hook": null,
-      "notes": null
+      "notes": null,
+      "category": null
     },
     {
       "id": 284,
@@ -4763,7 +5007,8 @@
       "is_guildspace_locked": false,
       "discipline": "Psionics",
       "stat_hook": null,
-      "notes": null
+      "notes": null,
+      "category": null
     },
     {
       "id": 285,
@@ -4781,7 +5026,8 @@
       "is_guildspace_locked": false,
       "discipline": "Universal",
       "stat_hook": null,
-      "notes": null
+      "notes": null,
+      "category": null
     },
     {
       "id": 286,
@@ -4798,7 +5044,8 @@
       "is_guildspace_locked": false,
       "discipline": "Universal",
       "stat_hook": null,
-      "notes": null
+      "notes": null,
+      "category": null
     },
     {
       "id": 288,
@@ -4816,7 +5063,8 @@
       "is_guildspace_locked": false,
       "discipline": "Universal",
       "stat_hook": null,
-      "notes": null
+      "notes": null,
+      "category": null
     },
     {
       "id": 290,
@@ -4834,7 +5082,8 @@
       "is_guildspace_locked": false,
       "discipline": "Universal",
       "stat_hook": null,
-      "notes": null
+      "notes": null,
+      "category": null
     },
     {
       "id": 289,
@@ -4852,7 +5101,8 @@
       "is_guildspace_locked": false,
       "discipline": "Universal",
       "stat_hook": null,
-      "notes": null
+      "notes": null,
+      "category": null
     },
     {
       "id": 291,
@@ -4870,7 +5120,8 @@
       "is_guildspace_locked": false,
       "discipline": "Universal",
       "stat_hook": null,
-      "notes": null
+      "notes": null,
+      "category": null
     },
     {
       "id": 292,
@@ -4888,7 +5139,8 @@
       "is_guildspace_locked": false,
       "discipline": "Psionics",
       "stat_hook": null,
-      "notes": null
+      "notes": null,
+      "category": null
     },
     {
       "id": 293,
@@ -4906,7 +5158,8 @@
       "is_guildspace_locked": false,
       "discipline": "Martial",
       "stat_hook": null,
-      "notes": null
+      "notes": null,
+      "category": null
     },
     {
       "id": 294,
@@ -4924,7 +5177,8 @@
       "is_guildspace_locked": false,
       "discipline": "Universal",
       "stat_hook": null,
-      "notes": null
+      "notes": null,
+      "category": null
     },
     {
       "id": 295,
@@ -4942,7 +5196,8 @@
       "is_guildspace_locked": false,
       "discipline": "Psionics",
       "stat_hook": null,
-      "notes": null
+      "notes": null,
+      "category": null
     },
     {
       "id": 297,
@@ -4960,7 +5215,8 @@
       "is_guildspace_locked": false,
       "discipline": "Universal",
       "stat_hook": null,
-      "notes": null
+      "notes": null,
+      "category": null
     },
     {
       "id": 298,
@@ -4978,7 +5234,8 @@
       "is_guildspace_locked": false,
       "discipline": "Universal",
       "stat_hook": null,
-      "notes": null
+      "notes": null,
+      "category": null
     },
     {
       "id": 299,
@@ -4996,7 +5253,8 @@
       "is_guildspace_locked": false,
       "discipline": "Universal",
       "stat_hook": null,
-      "notes": null
+      "notes": null,
+      "category": null
     },
     {
       "id": 300,
@@ -5014,7 +5272,8 @@
       "is_guildspace_locked": false,
       "discipline": "Universal",
       "stat_hook": null,
-      "notes": null
+      "notes": null,
+      "category": null
     },
     {
       "id": 301,
@@ -5032,7 +5291,8 @@
       "is_guildspace_locked": false,
       "discipline": "Universal",
       "stat_hook": null,
-      "notes": null
+      "notes": null,
+      "category": null
     },
     {
       "id": 302,
@@ -5050,7 +5310,8 @@
       "is_guildspace_locked": false,
       "discipline": "Psychosomatics",
       "stat_hook": null,
-      "notes": null
+      "notes": null,
+      "category": null
     },
     {
       "id": 303,
@@ -5068,7 +5329,8 @@
       "is_guildspace_locked": false,
       "discipline": "Universal",
       "stat_hook": null,
-      "notes": null
+      "notes": null,
+      "category": null
     },
     {
       "id": 304,
@@ -5086,7 +5348,8 @@
       "is_guildspace_locked": false,
       "discipline": "Universal",
       "stat_hook": null,
-      "notes": null
+      "notes": null,
+      "category": null
     },
     {
       "id": 306,
@@ -5104,7 +5367,8 @@
       "is_guildspace_locked": false,
       "discipline": "Universal",
       "stat_hook": null,
-      "notes": null
+      "notes": null,
+      "category": null
     },
     {
       "id": 307,
@@ -5122,7 +5386,8 @@
       "is_guildspace_locked": false,
       "discipline": "Universal",
       "stat_hook": null,
-      "notes": null
+      "notes": null,
+      "category": null
     },
     {
       "id": 309,
@@ -5140,7 +5405,8 @@
       "is_guildspace_locked": false,
       "discipline": "Universal",
       "stat_hook": null,
-      "notes": null
+      "notes": null,
+      "category": null
     },
     {
       "id": 310,
@@ -5158,7 +5424,8 @@
       "is_guildspace_locked": false,
       "discipline": "Universal",
       "stat_hook": null,
-      "notes": null
+      "notes": null,
+      "category": null
     },
     {
       "id": 311,
@@ -5176,7 +5443,8 @@
       "is_guildspace_locked": false,
       "discipline": "Universal",
       "stat_hook": null,
-      "notes": null
+      "notes": null,
+      "category": null
     },
     {
       "id": 313,
@@ -5193,7 +5461,8 @@
       "is_guildspace_locked": false,
       "discipline": "Universal",
       "stat_hook": null,
-      "notes": null
+      "notes": null,
+      "category": null
     },
     {
       "id": 315,
@@ -5209,7 +5478,8 @@
       "is_guildspace_locked": false,
       "discipline": "Universal",
       "stat_hook": null,
-      "notes": null
+      "notes": null,
+      "category": null
     },
     {
       "id": 317,
@@ -5225,7 +5495,8 @@
       "is_guildspace_locked": false,
       "discipline": "Universal",
       "stat_hook": null,
-      "notes": null
+      "notes": null,
+      "category": null
     },
     {
       "id": 319,
@@ -5243,7 +5514,8 @@
       "is_guildspace_locked": false,
       "discipline": "Universal",
       "stat_hook": null,
-      "notes": null
+      "notes": null,
+      "category": null
     },
     {
       "id": 320,
@@ -5261,7 +5533,8 @@
       "is_guildspace_locked": false,
       "discipline": "Universal",
       "stat_hook": null,
-      "notes": null
+      "notes": null,
+      "category": null
     },
     {
       "id": 321,
@@ -5279,7 +5552,8 @@
       "is_guildspace_locked": false,
       "discipline": "Universal",
       "stat_hook": null,
-      "notes": null
+      "notes": null,
+      "category": null
     },
     {
       "id": 322,
@@ -5297,7 +5571,8 @@
       "is_guildspace_locked": false,
       "discipline": "Psionics",
       "stat_hook": null,
-      "notes": null
+      "notes": null,
+      "category": null
     },
     {
       "id": 325,
@@ -5315,7 +5590,8 @@
       "is_guildspace_locked": false,
       "discipline": "Universal",
       "stat_hook": null,
-      "notes": null
+      "notes": null,
+      "category": null
     },
     {
       "id": 326,
@@ -5333,7 +5609,8 @@
       "is_guildspace_locked": false,
       "discipline": "Psionics",
       "stat_hook": null,
-      "notes": null
+      "notes": null,
+      "category": null
     },
     {
       "id": 327,
@@ -5351,7 +5628,8 @@
       "is_guildspace_locked": false,
       "discipline": "Universal",
       "stat_hook": null,
-      "notes": null
+      "notes": null,
+      "category": null
     },
     {
       "id": 328,
@@ -5369,7 +5647,8 @@
       "is_guildspace_locked": false,
       "discipline": "Universal",
       "stat_hook": null,
-      "notes": null
+      "notes": null,
+      "category": null
     },
     {
       "id": 329,
@@ -5387,7 +5666,8 @@
       "is_guildspace_locked": false,
       "discipline": "Psionics",
       "stat_hook": null,
-      "notes": null
+      "notes": null,
+      "category": null
     },
     {
       "id": 330,
@@ -5405,7 +5685,8 @@
       "is_guildspace_locked": false,
       "discipline": "Psionics",
       "stat_hook": null,
-      "notes": null
+      "notes": null,
+      "category": null
     },
     {
       "id": 331,
@@ -5423,7 +5704,8 @@
       "is_guildspace_locked": false,
       "discipline": "Sorce",
       "stat_hook": null,
-      "notes": null
+      "notes": null,
+      "category": null
     },
     {
       "id": 332,
@@ -5441,7 +5723,8 @@
       "is_guildspace_locked": false,
       "discipline": "Universal",
       "stat_hook": null,
-      "notes": null
+      "notes": null,
+      "category": null
     },
     {
       "id": 333,
@@ -5459,7 +5742,8 @@
       "is_guildspace_locked": false,
       "discipline": "Universal",
       "stat_hook": null,
-      "notes": null
+      "notes": null,
+      "category": null
     },
     {
       "id": 334,
@@ -5476,7 +5760,8 @@
       "is_guildspace_locked": false,
       "discipline": "Universal",
       "stat_hook": null,
-      "notes": null
+      "notes": null,
+      "category": null
     },
     {
       "id": 336,
@@ -5494,7 +5779,8 @@
       "is_guildspace_locked": false,
       "discipline": "Martial",
       "stat_hook": null,
-      "notes": null
+      "notes": null,
+      "category": null
     },
     {
       "id": 337,
@@ -5512,7 +5798,8 @@
       "is_guildspace_locked": false,
       "discipline": "Universal",
       "stat_hook": null,
-      "notes": null
+      "notes": null,
+      "category": null
     },
     {
       "id": 339,
@@ -5530,7 +5817,8 @@
       "is_guildspace_locked": false,
       "discipline": "Universal",
       "stat_hook": null,
-      "notes": null
+      "notes": null,
+      "category": null
     },
     {
       "id": 340,
@@ -5548,7 +5836,8 @@
       "is_guildspace_locked": false,
       "discipline": "Universal",
       "stat_hook": null,
-      "notes": null
+      "notes": null,
+      "category": null
     },
     {
       "id": 341,
@@ -5566,7 +5855,8 @@
       "is_guildspace_locked": false,
       "discipline": "Universal",
       "stat_hook": null,
-      "notes": null
+      "notes": null,
+      "category": null
     },
     {
       "id": 342,
@@ -5582,7 +5872,8 @@
       "is_guildspace_locked": false,
       "discipline": "Universal",
       "stat_hook": null,
-      "notes": null
+      "notes": null,
+      "category": null
     },
     {
       "id": 343,
@@ -5600,7 +5891,8 @@
       "is_guildspace_locked": false,
       "discipline": "Psionics",
       "stat_hook": null,
-      "notes": null
+      "notes": null,
+      "category": null
     },
     {
       "id": 344,
@@ -5618,7 +5910,8 @@
       "is_guildspace_locked": false,
       "discipline": "Universal",
       "stat_hook": null,
-      "notes": null
+      "notes": null,
+      "category": null
     },
     {
       "id": 345,
@@ -5636,7 +5929,8 @@
       "is_guildspace_locked": false,
       "discipline": "Universal",
       "stat_hook": null,
-      "notes": null
+      "notes": null,
+      "category": null
     },
     {
       "id": 346,
@@ -5654,7 +5948,8 @@
       "is_guildspace_locked": false,
       "discipline": "Universal",
       "stat_hook": null,
-      "notes": null
+      "notes": null,
+      "category": null
     },
     {
       "id": 347,
@@ -5672,7 +5967,8 @@
       "is_guildspace_locked": false,
       "discipline": "Universal",
       "stat_hook": null,
-      "notes": null
+      "notes": null,
+      "category": null
     },
     {
       "id": 348,
@@ -5690,7 +5986,8 @@
       "is_guildspace_locked": false,
       "discipline": "Universal",
       "stat_hook": null,
-      "notes": null
+      "notes": null,
+      "category": null
     },
     {
       "id": 349,
@@ -5708,7 +6005,8 @@
       "is_guildspace_locked": false,
       "discipline": "Universal",
       "stat_hook": null,
-      "notes": null
+      "notes": null,
+      "category": null
     },
     {
       "id": 350,
@@ -5726,7 +6024,8 @@
       "is_guildspace_locked": false,
       "discipline": "Universal",
       "stat_hook": null,
-      "notes": null
+      "notes": null,
+      "category": null
     },
     {
       "id": 351,
@@ -5744,7 +6043,8 @@
       "is_guildspace_locked": false,
       "discipline": "Universal",
       "stat_hook": null,
-      "notes": null
+      "notes": null,
+      "category": null
     },
     {
       "id": 352,
@@ -5762,7 +6062,8 @@
       "is_guildspace_locked": false,
       "discipline": "Psionics",
       "stat_hook": null,
-      "notes": null
+      "notes": null,
+      "category": null
     },
     {
       "id": 354,
@@ -5780,7 +6081,8 @@
       "is_guildspace_locked": false,
       "discipline": "Universal",
       "stat_hook": null,
-      "notes": null
+      "notes": null,
+      "category": null
     },
     {
       "id": 355,
@@ -5798,7 +6100,8 @@
       "is_guildspace_locked": false,
       "discipline": "Psychosomatics",
       "stat_hook": null,
-      "notes": null
+      "notes": null,
+      "category": null
     },
     {
       "id": 356,
@@ -5816,7 +6119,8 @@
       "is_guildspace_locked": false,
       "discipline": "Psionics",
       "stat_hook": null,
-      "notes": null
+      "notes": null,
+      "category": null
     },
     {
       "id": 357,
@@ -5834,7 +6138,8 @@
       "is_guildspace_locked": false,
       "discipline": "Universal",
       "stat_hook": null,
-      "notes": null
+      "notes": null,
+      "category": null
     },
     {
       "id": 358,
@@ -5852,7 +6157,8 @@
       "is_guildspace_locked": false,
       "discipline": "Universal",
       "stat_hook": null,
-      "notes": null
+      "notes": null,
+      "category": null
     },
     {
       "id": 359,
@@ -5870,7 +6176,8 @@
       "is_guildspace_locked": false,
       "discipline": "Universal",
       "stat_hook": null,
-      "notes": null
+      "notes": null,
+      "category": null
     },
     {
       "id": 360,
@@ -5888,7 +6195,8 @@
       "is_guildspace_locked": false,
       "discipline": "Universal",
       "stat_hook": null,
-      "notes": null
+      "notes": null,
+      "category": null
     },
     {
       "id": 361,
@@ -5906,7 +6214,8 @@
       "is_guildspace_locked": false,
       "discipline": "Universal",
       "stat_hook": null,
-      "notes": null
+      "notes": null,
+      "category": null
     },
     {
       "id": 362,
@@ -5924,7 +6233,8 @@
       "is_guildspace_locked": false,
       "discipline": "Universal",
       "stat_hook": null,
-      "notes": null
+      "notes": null,
+      "category": null
     },
     {
       "id": 363,
@@ -5942,7 +6252,8 @@
       "is_guildspace_locked": false,
       "discipline": "Universal",
       "stat_hook": null,
-      "notes": null
+      "notes": null,
+      "category": null
     },
     {
       "id": 364,
@@ -5960,7 +6271,8 @@
       "is_guildspace_locked": false,
       "discipline": "Universal",
       "stat_hook": null,
-      "notes": null
+      "notes": null,
+      "category": null
     },
     {
       "id": 365,
@@ -5978,7 +6290,8 @@
       "is_guildspace_locked": false,
       "discipline": "Psionics",
       "stat_hook": null,
-      "notes": null
+      "notes": null,
+      "category": null
     },
     {
       "id": 366,
@@ -5996,7 +6309,8 @@
       "is_guildspace_locked": false,
       "discipline": "Universal",
       "stat_hook": null,
-      "notes": null
+      "notes": null,
+      "category": null
     },
     {
       "id": 367,
@@ -6014,7 +6328,8 @@
       "is_guildspace_locked": false,
       "discipline": "Universal",
       "stat_hook": null,
-      "notes": null
+      "notes": null,
+      "category": null
     },
     {
       "id": 368,
@@ -6032,7 +6347,8 @@
       "is_guildspace_locked": false,
       "discipline": "Sorce",
       "stat_hook": null,
-      "notes": null
+      "notes": null,
+      "category": null
     },
     {
       "id": 369,
@@ -6050,7 +6366,8 @@
       "is_guildspace_locked": false,
       "discipline": "Universal",
       "stat_hook": null,
-      "notes": null
+      "notes": null,
+      "category": null
     },
     {
       "id": 370,
@@ -6068,7 +6385,8 @@
       "is_guildspace_locked": false,
       "discipline": "Martial",
       "stat_hook": null,
-      "notes": null
+      "notes": null,
+      "category": null
     },
     {
       "id": 371,
@@ -6086,7 +6404,8 @@
       "is_guildspace_locked": false,
       "discipline": "Universal",
       "stat_hook": null,
-      "notes": null
+      "notes": null,
+      "category": null
     },
     {
       "id": 372,
@@ -6104,7 +6423,8 @@
       "is_guildspace_locked": false,
       "discipline": "Universal",
       "stat_hook": null,
-      "notes": null
+      "notes": null,
+      "category": null
     },
     {
       "id": 374,
@@ -6122,7 +6442,8 @@
       "is_guildspace_locked": false,
       "discipline": "Psionics",
       "stat_hook": null,
-      "notes": null
+      "notes": null,
+      "category": null
     },
     {
       "id": 375,
@@ -6140,7 +6461,8 @@
       "is_guildspace_locked": false,
       "discipline": "Psionics",
       "stat_hook": null,
-      "notes": null
+      "notes": null,
+      "category": null
     },
     {
       "id": 377,
@@ -6158,7 +6480,8 @@
       "is_guildspace_locked": false,
       "discipline": "Sorce",
       "stat_hook": null,
-      "notes": null
+      "notes": null,
+      "category": null
     },
     {
       "id": 381,
@@ -6176,7 +6499,8 @@
       "is_guildspace_locked": false,
       "discipline": "Universal",
       "stat_hook": null,
-      "notes": null
+      "notes": null,
+      "category": null
     },
     {
       "id": 380,
@@ -6194,7 +6518,8 @@
       "is_guildspace_locked": false,
       "discipline": "Sorce",
       "stat_hook": null,
-      "notes": null
+      "notes": null,
+      "category": null
     },
     {
       "id": 382,
@@ -6212,7 +6537,8 @@
       "is_guildspace_locked": false,
       "discipline": "Universal",
       "stat_hook": null,
-      "notes": null
+      "notes": null,
+      "category": null
     },
     {
       "id": 383,
@@ -6230,7 +6556,8 @@
       "is_guildspace_locked": false,
       "discipline": "Universal",
       "stat_hook": null,
-      "notes": null
+      "notes": null,
+      "category": null
     },
     {
       "id": 384,
@@ -6248,7 +6575,8 @@
       "is_guildspace_locked": false,
       "discipline": "Universal",
       "stat_hook": null,
-      "notes": null
+      "notes": null,
+      "category": null
     },
     {
       "id": 385,
@@ -6266,7 +6594,8 @@
       "is_guildspace_locked": false,
       "discipline": "Universal",
       "stat_hook": null,
-      "notes": null
+      "notes": null,
+      "category": null
     },
     {
       "id": 386,
@@ -6284,7 +6613,8 @@
       "is_guildspace_locked": false,
       "discipline": "Universal",
       "stat_hook": null,
-      "notes": null
+      "notes": null,
+      "category": null
     },
     {
       "id": 388,
@@ -6302,7 +6632,8 @@
       "is_guildspace_locked": false,
       "discipline": "Universal",
       "stat_hook": null,
-      "notes": null
+      "notes": null,
+      "category": null
     },
     {
       "id": 389,
@@ -6320,7 +6651,8 @@
       "is_guildspace_locked": false,
       "discipline": "Universal",
       "stat_hook": null,
-      "notes": null
+      "notes": null,
+      "category": null
     },
     {
       "id": 390,
@@ -6338,7 +6670,8 @@
       "is_guildspace_locked": false,
       "discipline": "Universal",
       "stat_hook": null,
-      "notes": null
+      "notes": null,
+      "category": null
     },
     {
       "id": 391,
@@ -6356,7 +6689,8 @@
       "is_guildspace_locked": false,
       "discipline": "Martial",
       "stat_hook": null,
-      "notes": null
+      "notes": null,
+      "category": null
     },
     {
       "id": 392,
@@ -6374,7 +6708,8 @@
       "is_guildspace_locked": false,
       "discipline": "Psionics",
       "stat_hook": null,
-      "notes": null
+      "notes": null,
+      "category": null
     },
     {
       "id": 393,
@@ -6392,7 +6727,8 @@
       "is_guildspace_locked": false,
       "discipline": "Universal",
       "stat_hook": null,
-      "notes": null
+      "notes": null,
+      "category": null
     },
     {
       "id": 395,
@@ -6410,7 +6746,8 @@
       "is_guildspace_locked": false,
       "discipline": "Universal",
       "stat_hook": null,
-      "notes": null
+      "notes": null,
+      "category": null
     },
     {
       "id": 398,
@@ -6428,7 +6765,8 @@
       "is_guildspace_locked": false,
       "discipline": "Universal",
       "stat_hook": null,
-      "notes": null
+      "notes": null,
+      "category": null
     },
     {
       "id": 399,
@@ -6446,7 +6784,8 @@
       "is_guildspace_locked": false,
       "discipline": "Universal",
       "stat_hook": null,
-      "notes": null
+      "notes": null,
+      "category": null
     },
     {
       "id": 400,
@@ -6464,7 +6803,8 @@
       "is_guildspace_locked": false,
       "discipline": "Sorce",
       "stat_hook": null,
-      "notes": null
+      "notes": null,
+      "category": null
     },
     {
       "id": 401,
@@ -6482,7 +6822,8 @@
       "is_guildspace_locked": false,
       "discipline": "Universal",
       "stat_hook": null,
-      "notes": null
+      "notes": null,
+      "category": null
     },
     {
       "id": 402,
@@ -6500,7 +6841,8 @@
       "is_guildspace_locked": false,
       "discipline": "Sorce",
       "stat_hook": null,
-      "notes": null
+      "notes": null,
+      "category": null
     },
     {
       "id": 403,
@@ -6518,7 +6860,8 @@
       "is_guildspace_locked": false,
       "discipline": "Universal",
       "stat_hook": null,
-      "notes": null
+      "notes": null,
+      "category": null
     },
     {
       "id": 405,
@@ -6536,7 +6879,8 @@
       "is_guildspace_locked": false,
       "discipline": "Universal",
       "stat_hook": null,
-      "notes": null
+      "notes": null,
+      "category": null
     },
     {
       "id": 406,
@@ -6554,7 +6898,8 @@
       "is_guildspace_locked": false,
       "discipline": "Psionics",
       "stat_hook": null,
-      "notes": null
+      "notes": null,
+      "category": null
     },
     {
       "id": 407,
@@ -6572,7 +6917,8 @@
       "is_guildspace_locked": false,
       "discipline": "Universal",
       "stat_hook": null,
-      "notes": null
+      "notes": null,
+      "category": null
     },
     {
       "id": 408,
@@ -6589,7 +6935,8 @@
       "is_guildspace_locked": false,
       "discipline": "Universal",
       "stat_hook": null,
-      "notes": null
+      "notes": null,
+      "category": null
     },
     {
       "id": 409,
@@ -6607,7 +6954,8 @@
       "is_guildspace_locked": false,
       "discipline": "Universal",
       "stat_hook": null,
-      "notes": null
+      "notes": null,
+      "category": null
     },
     {
       "id": 410,
@@ -6625,7 +6973,8 @@
       "is_guildspace_locked": false,
       "discipline": "Universal",
       "stat_hook": null,
-      "notes": null
+      "notes": null,
+      "category": null
     },
     {
       "id": 411,
@@ -6643,7 +6992,8 @@
       "is_guildspace_locked": false,
       "discipline": "Psionics",
       "stat_hook": null,
-      "notes": null
+      "notes": null,
+      "category": null
     },
     {
       "id": 412,
@@ -6661,7 +7011,8 @@
       "is_guildspace_locked": false,
       "discipline": "Universal",
       "stat_hook": null,
-      "notes": null
+      "notes": null,
+      "category": null
     },
     {
       "id": 413,
@@ -6679,7 +7030,8 @@
       "is_guildspace_locked": false,
       "discipline": "Universal",
       "stat_hook": null,
-      "notes": null
+      "notes": null,
+      "category": null
     },
     {
       "id": 414,
@@ -6697,7 +7049,8 @@
       "is_guildspace_locked": false,
       "discipline": "Universal",
       "stat_hook": null,
-      "notes": null
+      "notes": null,
+      "category": null
     },
     {
       "id": 415,
@@ -6715,7 +7068,8 @@
       "is_guildspace_locked": false,
       "discipline": "Universal",
       "stat_hook": null,
-      "notes": null
+      "notes": null,
+      "category": null
     },
     {
       "id": 416,
@@ -6733,7 +7087,8 @@
       "is_guildspace_locked": false,
       "discipline": "Universal",
       "stat_hook": null,
-      "notes": null
+      "notes": null,
+      "category": null
     },
     {
       "id": 417,
@@ -6751,7 +7106,8 @@
       "is_guildspace_locked": false,
       "discipline": "Universal",
       "stat_hook": null,
-      "notes": null
+      "notes": null,
+      "category": null
     },
     {
       "id": 418,
@@ -6769,7 +7125,8 @@
       "is_guildspace_locked": false,
       "discipline": "Universal",
       "stat_hook": null,
-      "notes": null
+      "notes": null,
+      "category": null
     },
     {
       "id": 419,
@@ -6787,7 +7144,8 @@
       "is_guildspace_locked": false,
       "discipline": "Universal",
       "stat_hook": null,
-      "notes": null
+      "notes": null,
+      "category": null
     },
     {
       "id": 420,
@@ -6805,7 +7163,8 @@
       "is_guildspace_locked": false,
       "discipline": "Sorce",
       "stat_hook": null,
-      "notes": null
+      "notes": null,
+      "category": null
     },
     {
       "id": 421,
@@ -6823,7 +7182,8 @@
       "is_guildspace_locked": false,
       "discipline": "Psionics",
       "stat_hook": null,
-      "notes": null
+      "notes": null,
+      "category": null
     },
     {
       "id": 423,
@@ -6841,7 +7201,8 @@
       "is_guildspace_locked": false,
       "discipline": "Psionics",
       "stat_hook": null,
-      "notes": null
+      "notes": null,
+      "category": null
     },
     {
       "id": 424,
@@ -6859,7 +7220,8 @@
       "is_guildspace_locked": false,
       "discipline": "Psionics",
       "stat_hook": null,
-      "notes": null
+      "notes": null,
+      "category": null
     },
     {
       "id": 426,
@@ -6877,7 +7239,8 @@
       "is_guildspace_locked": false,
       "discipline": "Psionics",
       "stat_hook": null,
-      "notes": null
+      "notes": null,
+      "category": null
     },
     {
       "id": 427,
@@ -6895,7 +7258,8 @@
       "is_guildspace_locked": false,
       "discipline": "Universal",
       "stat_hook": null,
-      "notes": null
+      "notes": null,
+      "category": null
     },
     {
       "id": 428,
@@ -6913,7 +7277,8 @@
       "is_guildspace_locked": false,
       "discipline": "Universal",
       "stat_hook": null,
-      "notes": null
+      "notes": null,
+      "category": null
     },
     {
       "id": 429,
@@ -6931,7 +7296,8 @@
       "is_guildspace_locked": false,
       "discipline": "Universal",
       "stat_hook": null,
-      "notes": null
+      "notes": null,
+      "category": null
     },
     {
       "id": 430,
@@ -6949,7 +7315,8 @@
       "is_guildspace_locked": false,
       "discipline": "Psionics",
       "stat_hook": null,
-      "notes": null
+      "notes": null,
+      "category": null
     },
     {
       "id": 431,
@@ -6967,7 +7334,8 @@
       "is_guildspace_locked": false,
       "discipline": "Psychosomatics",
       "stat_hook": null,
-      "notes": null
+      "notes": null,
+      "category": null
     },
     {
       "id": 433,
@@ -6985,7 +7353,8 @@
       "is_guildspace_locked": false,
       "discipline": "Universal",
       "stat_hook": null,
-      "notes": null
+      "notes": null,
+      "category": null
     },
     {
       "id": 435,
@@ -7003,7 +7372,8 @@
       "is_guildspace_locked": false,
       "discipline": "Universal",
       "stat_hook": null,
-      "notes": null
+      "notes": null,
+      "category": null
     },
     {
       "id": 436,
@@ -7021,7 +7391,8 @@
       "is_guildspace_locked": false,
       "discipline": "Universal",
       "stat_hook": null,
-      "notes": null
+      "notes": null,
+      "category": null
     },
     {
       "id": 437,
@@ -7039,7 +7410,8 @@
       "is_guildspace_locked": false,
       "discipline": "Universal",
       "stat_hook": null,
-      "notes": null
+      "notes": null,
+      "category": null
     },
     {
       "id": 438,
@@ -7057,7 +7429,8 @@
       "is_guildspace_locked": false,
       "discipline": "Universal",
       "stat_hook": null,
-      "notes": null
+      "notes": null,
+      "category": null
     },
     {
       "id": 439,
@@ -7075,7 +7448,8 @@
       "is_guildspace_locked": false,
       "discipline": "Universal",
       "stat_hook": null,
-      "notes": null
+      "notes": null,
+      "category": null
     },
     {
       "id": 440,
@@ -7093,7 +7467,8 @@
       "is_guildspace_locked": false,
       "discipline": "Universal",
       "stat_hook": null,
-      "notes": null
+      "notes": null,
+      "category": null
     },
     {
       "id": 441,
@@ -7111,7 +7486,8 @@
       "is_guildspace_locked": false,
       "discipline": "Psionics",
       "stat_hook": null,
-      "notes": null
+      "notes": null,
+      "category": null
     },
     {
       "id": 443,
@@ -7129,7 +7505,8 @@
       "is_guildspace_locked": false,
       "discipline": "Universal",
       "stat_hook": null,
-      "notes": null
+      "notes": null,
+      "category": null
     },
     {
       "id": 446,
@@ -7147,7 +7524,8 @@
       "is_guildspace_locked": false,
       "discipline": "Psionics",
       "stat_hook": null,
-      "notes": null
+      "notes": null,
+      "category": null
     },
     {
       "id": 447,
@@ -7165,7 +7543,8 @@
       "is_guildspace_locked": false,
       "discipline": "Universal",
       "stat_hook": null,
-      "notes": null
+      "notes": null,
+      "category": null
     },
     {
       "id": 448,
@@ -7181,7 +7560,8 @@
       "is_guildspace_locked": false,
       "discipline": "Universal",
       "stat_hook": null,
-      "notes": null
+      "notes": null,
+      "category": null
     },
     {
       "id": 451,
@@ -7199,7 +7579,8 @@
       "is_guildspace_locked": false,
       "discipline": "Universal",
       "stat_hook": null,
-      "notes": null
+      "notes": null,
+      "category": null
     },
     {
       "id": 450,
@@ -7217,7 +7598,8 @@
       "is_guildspace_locked": false,
       "discipline": "Universal",
       "stat_hook": null,
-      "notes": null
+      "notes": null,
+      "category": null
     },
     {
       "id": 452,
@@ -7235,7 +7617,8 @@
       "is_guildspace_locked": false,
       "discipline": "Universal",
       "stat_hook": null,
-      "notes": null
+      "notes": null,
+      "category": null
     },
     {
       "id": 454,
@@ -7253,7 +7636,8 @@
       "is_guildspace_locked": false,
       "discipline": "Universal",
       "stat_hook": null,
-      "notes": null
+      "notes": null,
+      "category": null
     },
     {
       "id": 455,
@@ -7271,7 +7655,8 @@
       "is_guildspace_locked": false,
       "discipline": "Universal",
       "stat_hook": null,
-      "notes": null
+      "notes": null,
+      "category": null
     },
     {
       "id": 457,
@@ -7289,7 +7674,8 @@
       "is_guildspace_locked": false,
       "discipline": "Universal",
       "stat_hook": null,
-      "notes": null
+      "notes": null,
+      "category": null
     },
     {
       "id": 459,
@@ -7307,7 +7693,8 @@
       "is_guildspace_locked": false,
       "discipline": "Universal",
       "stat_hook": null,
-      "notes": null
+      "notes": null,
+      "category": null
     },
     {
       "id": 460,
@@ -7325,7 +7712,8 @@
       "is_guildspace_locked": false,
       "discipline": "Psionics",
       "stat_hook": null,
-      "notes": null
+      "notes": null,
+      "category": null
     },
     {
       "id": 461,
@@ -7343,7 +7731,8 @@
       "is_guildspace_locked": false,
       "discipline": "Universal",
       "stat_hook": null,
-      "notes": null
+      "notes": null,
+      "category": null
     },
     {
       "id": 463,
@@ -7361,7 +7750,8 @@
       "is_guildspace_locked": false,
       "discipline": "Universal",
       "stat_hook": null,
-      "notes": null
+      "notes": null,
+      "category": null
     },
     {
       "id": 464,
@@ -7379,7 +7769,8 @@
       "is_guildspace_locked": false,
       "discipline": "Universal",
       "stat_hook": null,
-      "notes": null
+      "notes": null,
+      "category": null
     },
     {
       "id": 465,
@@ -7397,7 +7788,8 @@
       "is_guildspace_locked": false,
       "discipline": "Universal",
       "stat_hook": null,
-      "notes": null
+      "notes": null,
+      "category": null
     },
     {
       "id": 466,
@@ -7415,7 +7807,8 @@
       "is_guildspace_locked": false,
       "discipline": "Sorce",
       "stat_hook": null,
-      "notes": null
+      "notes": null,
+      "category": null
     },
     {
       "id": 467,
@@ -7433,7 +7826,8 @@
       "is_guildspace_locked": false,
       "discipline": "Universal",
       "stat_hook": null,
-      "notes": null
+      "notes": null,
+      "category": null
     },
     {
       "id": 468,
@@ -7451,7 +7845,8 @@
       "is_guildspace_locked": false,
       "discipline": "Universal",
       "stat_hook": null,
-      "notes": null
+      "notes": null,
+      "category": null
     },
     {
       "id": 469,
@@ -7469,7 +7864,8 @@
       "is_guildspace_locked": false,
       "discipline": "Universal",
       "stat_hook": null,
-      "notes": null
+      "notes": null,
+      "category": null
     },
     {
       "id": 470,
@@ -7487,7 +7883,8 @@
       "is_guildspace_locked": false,
       "discipline": "Psionics",
       "stat_hook": null,
-      "notes": null
+      "notes": null,
+      "category": null
     },
     {
       "id": 471,
@@ -7505,7 +7902,8 @@
       "is_guildspace_locked": false,
       "discipline": "Universal",
       "stat_hook": null,
-      "notes": null
+      "notes": null,
+      "category": null
     },
     {
       "id": 472,
@@ -7523,7 +7921,8 @@
       "is_guildspace_locked": false,
       "discipline": "Universal",
       "stat_hook": null,
-      "notes": null
+      "notes": null,
+      "category": null
     },
     {
       "id": 473,
@@ -7541,7 +7940,8 @@
       "is_guildspace_locked": false,
       "discipline": "Universal",
       "stat_hook": null,
-      "notes": null
+      "notes": null,
+      "category": null
     },
     {
       "id": 474,
@@ -7559,7 +7959,8 @@
       "is_guildspace_locked": false,
       "discipline": "Universal",
       "stat_hook": null,
-      "notes": null
+      "notes": null,
+      "category": null
     },
     {
       "id": 475,
@@ -7577,7 +7978,8 @@
       "is_guildspace_locked": false,
       "discipline": "Psychosomatics",
       "stat_hook": null,
-      "notes": null
+      "notes": null,
+      "category": null
     },
     {
       "id": 476,
@@ -7595,7 +7997,8 @@
       "is_guildspace_locked": false,
       "discipline": "Universal",
       "stat_hook": null,
-      "notes": null
+      "notes": null,
+      "category": null
     },
     {
       "id": 477,
@@ -7613,7 +8016,8 @@
       "is_guildspace_locked": false,
       "discipline": "Universal",
       "stat_hook": null,
-      "notes": null
+      "notes": null,
+      "category": null
     },
     {
       "id": 478,
@@ -7631,7 +8035,8 @@
       "is_guildspace_locked": false,
       "discipline": "Universal",
       "stat_hook": null,
-      "notes": null
+      "notes": null,
+      "category": null
     },
     {
       "id": 479,
@@ -7649,7 +8054,8 @@
       "is_guildspace_locked": false,
       "discipline": "Universal",
       "stat_hook": null,
-      "notes": null
+      "notes": null,
+      "category": null
     },
     {
       "id": 480,
@@ -7667,7 +8073,8 @@
       "is_guildspace_locked": false,
       "discipline": "Universal",
       "stat_hook": null,
-      "notes": null
+      "notes": null,
+      "category": null
     },
     {
       "id": 481,
@@ -7685,7 +8092,8 @@
       "is_guildspace_locked": false,
       "discipline": "Martial",
       "stat_hook": null,
-      "notes": null
+      "notes": null,
+      "category": null
     },
     {
       "id": 484,
@@ -7703,7 +8111,8 @@
       "is_guildspace_locked": false,
       "discipline": "Universal",
       "stat_hook": null,
-      "notes": null
+      "notes": null,
+      "category": null
     },
     {
       "id": 485,
@@ -7721,7 +8130,8 @@
       "is_guildspace_locked": false,
       "discipline": "Universal",
       "stat_hook": null,
-      "notes": null
+      "notes": null,
+      "category": null
     },
     {
       "id": 486,
@@ -7739,7 +8149,8 @@
       "is_guildspace_locked": false,
       "discipline": "Universal",
       "stat_hook": null,
-      "notes": null
+      "notes": null,
+      "category": null
     },
     {
       "id": 487,
@@ -7757,7 +8168,8 @@
       "is_guildspace_locked": false,
       "discipline": "Universal",
       "stat_hook": null,
-      "notes": null
+      "notes": null,
+      "category": null
     },
     {
       "id": 488,
@@ -7773,7 +8185,8 @@
       "is_guildspace_locked": false,
       "discipline": "Universal",
       "stat_hook": null,
-      "notes": null
+      "notes": null,
+      "category": null
     },
     {
       "id": 489,
@@ -7791,7 +8204,8 @@
       "is_guildspace_locked": false,
       "discipline": "Universal",
       "stat_hook": null,
-      "notes": null
+      "notes": null,
+      "category": null
     },
     {
       "id": 491,
@@ -7809,7 +8223,8 @@
       "is_guildspace_locked": false,
       "discipline": "Sorce",
       "stat_hook": null,
-      "notes": null
+      "notes": null,
+      "category": null
     },
     {
       "id": 492,
@@ -7827,7 +8242,8 @@
       "is_guildspace_locked": false,
       "discipline": "Universal",
       "stat_hook": null,
-      "notes": null
+      "notes": null,
+      "category": null
     },
     {
       "id": 493,
@@ -7845,7 +8261,8 @@
       "is_guildspace_locked": false,
       "discipline": "Universal",
       "stat_hook": null,
-      "notes": null
+      "notes": null,
+      "category": null
     },
     {
       "id": 495,
@@ -7863,7 +8280,8 @@
       "is_guildspace_locked": false,
       "discipline": "Universal",
       "stat_hook": null,
-      "notes": null
+      "notes": null,
+      "category": null
     },
     {
       "id": 496,
@@ -7881,7 +8299,8 @@
       "is_guildspace_locked": false,
       "discipline": "Universal",
       "stat_hook": null,
-      "notes": null
+      "notes": null,
+      "category": null
     },
     {
       "id": 499,
@@ -7899,7 +8318,8 @@
       "is_guildspace_locked": false,
       "discipline": "Sorce",
       "stat_hook": null,
-      "notes": null
+      "notes": null,
+      "category": null
     },
     {
       "id": 500,
@@ -7917,7 +8337,8 @@
       "is_guildspace_locked": false,
       "discipline": "Psionics",
       "stat_hook": null,
-      "notes": null
+      "notes": null,
+      "category": null
     },
     {
       "id": 501,
@@ -7935,7 +8356,8 @@
       "is_guildspace_locked": false,
       "discipline": "Psionics",
       "stat_hook": null,
-      "notes": null
+      "notes": null,
+      "category": null
     },
     {
       "id": 502,
@@ -7953,7 +8375,8 @@
       "is_guildspace_locked": false,
       "discipline": "Martial",
       "stat_hook": null,
-      "notes": null
+      "notes": null,
+      "category": null
     },
     {
       "id": 503,
@@ -7971,7 +8394,8 @@
       "is_guildspace_locked": false,
       "discipline": "Universal",
       "stat_hook": null,
-      "notes": null
+      "notes": null,
+      "category": null
     },
     {
       "id": 504,
@@ -7989,7 +8413,8 @@
       "is_guildspace_locked": false,
       "discipline": "Psionics",
       "stat_hook": null,
-      "notes": null
+      "notes": null,
+      "category": null
     },
     {
       "id": 505,
@@ -8005,7 +8430,8 @@
       "is_guildspace_locked": false,
       "discipline": "Universal",
       "stat_hook": null,
-      "notes": null
+      "notes": null,
+      "category": null
     },
     {
       "id": 506,
@@ -8021,7 +8447,8 @@
       "is_guildspace_locked": false,
       "discipline": "Universal",
       "stat_hook": null,
-      "notes": null
+      "notes": null,
+      "category": null
     },
     {
       "id": 508,
@@ -8039,7 +8466,8 @@
       "is_guildspace_locked": false,
       "discipline": "Universal",
       "stat_hook": null,
-      "notes": null
+      "notes": null,
+      "category": null
     },
     {
       "id": 509,
@@ -8057,7 +8485,8 @@
       "is_guildspace_locked": false,
       "discipline": "Universal",
       "stat_hook": null,
-      "notes": null
+      "notes": null,
+      "category": null
     },
     {
       "id": 510,
@@ -8075,7 +8504,8 @@
       "is_guildspace_locked": false,
       "discipline": "Universal",
       "stat_hook": null,
-      "notes": null
+      "notes": null,
+      "category": null
     },
     {
       "id": 511,
@@ -8093,7 +8523,8 @@
       "is_guildspace_locked": false,
       "discipline": "Sorce",
       "stat_hook": null,
-      "notes": null
+      "notes": null,
+      "category": null
     },
     {
       "id": 512,
@@ -8111,7 +8542,8 @@
       "is_guildspace_locked": false,
       "discipline": "Universal",
       "stat_hook": null,
-      "notes": null
+      "notes": null,
+      "category": null
     },
     {
       "id": 513,
@@ -8129,7 +8561,8 @@
       "is_guildspace_locked": false,
       "discipline": "Universal",
       "stat_hook": null,
-      "notes": null
+      "notes": null,
+      "category": null
     },
     {
       "id": 514,
@@ -8147,7 +8580,8 @@
       "is_guildspace_locked": false,
       "discipline": "Psychosomatics",
       "stat_hook": null,
-      "notes": null
+      "notes": null,
+      "category": null
     },
     {
       "id": 516,
@@ -8165,7 +8599,8 @@
       "is_guildspace_locked": false,
       "discipline": "Universal",
       "stat_hook": null,
-      "notes": null
+      "notes": null,
+      "category": null
     },
     {
       "id": 517,
@@ -8181,7 +8616,8 @@
       "is_guildspace_locked": false,
       "discipline": "Universal",
       "stat_hook": null,
-      "notes": null
+      "notes": null,
+      "category": null
     },
     {
       "id": 519,
@@ -8199,7 +8635,8 @@
       "is_guildspace_locked": false,
       "discipline": "Universal",
       "stat_hook": null,
-      "notes": null
+      "notes": null,
+      "category": null
     },
     {
       "id": 521,
@@ -8217,7 +8654,8 @@
       "is_guildspace_locked": false,
       "discipline": "Universal",
       "stat_hook": null,
-      "notes": null
+      "notes": null,
+      "category": null
     },
     {
       "id": 523,
@@ -8235,7 +8673,8 @@
       "is_guildspace_locked": false,
       "discipline": "Universal",
       "stat_hook": null,
-      "notes": null
+      "notes": null,
+      "category": null
     },
     {
       "id": 524,
@@ -8253,7 +8692,8 @@
       "is_guildspace_locked": false,
       "discipline": "Universal",
       "stat_hook": null,
-      "notes": null
+      "notes": null,
+      "category": null
     },
     {
       "id": 525,
@@ -8271,7 +8711,8 @@
       "is_guildspace_locked": false,
       "discipline": "Martial",
       "stat_hook": null,
-      "notes": null
+      "notes": null,
+      "category": null
     },
     {
       "id": 526,
@@ -8289,7 +8730,8 @@
       "is_guildspace_locked": false,
       "discipline": "Martial",
       "stat_hook": null,
-      "notes": null
+      "notes": null,
+      "category": null
     },
     {
       "id": 527,
@@ -8307,7 +8749,8 @@
       "is_guildspace_locked": false,
       "discipline": "Universal",
       "stat_hook": null,
-      "notes": null
+      "notes": null,
+      "category": null
     },
     {
       "id": 528,
@@ -8325,7 +8768,8 @@
       "is_guildspace_locked": false,
       "discipline": "Psionics",
       "stat_hook": null,
-      "notes": null
+      "notes": null,
+      "category": null
     },
     {
       "id": 529,
@@ -8343,7 +8787,8 @@
       "is_guildspace_locked": false,
       "discipline": "Universal",
       "stat_hook": null,
-      "notes": null
+      "notes": null,
+      "category": null
     },
     {
       "id": 530,
@@ -8361,7 +8806,8 @@
       "is_guildspace_locked": false,
       "discipline": "Sorce",
       "stat_hook": null,
-      "notes": null
+      "notes": null,
+      "category": null
     },
     {
       "id": 531,
@@ -8379,7 +8825,8 @@
       "is_guildspace_locked": false,
       "discipline": "Universal",
       "stat_hook": null,
-      "notes": null
+      "notes": null,
+      "category": null
     },
     {
       "id": 532,
@@ -8397,7 +8844,8 @@
       "is_guildspace_locked": false,
       "discipline": "Universal",
       "stat_hook": null,
-      "notes": null
+      "notes": null,
+      "category": null
     },
     {
       "id": 533,
@@ -8415,7 +8863,8 @@
       "is_guildspace_locked": false,
       "discipline": "Universal",
       "stat_hook": null,
-      "notes": null
+      "notes": null,
+      "category": null
     },
     {
       "id": 534,
@@ -8433,7 +8882,8 @@
       "is_guildspace_locked": false,
       "discipline": "Universal",
       "stat_hook": null,
-      "notes": null
+      "notes": null,
+      "category": null
     },
     {
       "id": 535,
@@ -8451,7 +8901,8 @@
       "is_guildspace_locked": false,
       "discipline": "Psionics",
       "stat_hook": null,
-      "notes": null
+      "notes": null,
+      "category": null
     },
     {
       "id": 536,
@@ -8467,7 +8918,8 @@
       "is_guildspace_locked": false,
       "discipline": "Universal",
       "stat_hook": null,
-      "notes": null
+      "notes": null,
+      "category": null
     },
     {
       "id": 537,
@@ -8483,7 +8935,8 @@
       "is_guildspace_locked": false,
       "discipline": "Universal",
       "stat_hook": null,
-      "notes": null
+      "notes": null,
+      "category": null
     },
     {
       "id": 539,
@@ -8501,7 +8954,8 @@
       "is_guildspace_locked": false,
       "discipline": "Universal",
       "stat_hook": null,
-      "notes": null
+      "notes": null,
+      "category": null
     },
     {
       "id": 540,
@@ -8519,7 +8973,8 @@
       "is_guildspace_locked": false,
       "discipline": "Universal",
       "stat_hook": null,
-      "notes": null
+      "notes": null,
+      "category": null
     },
     {
       "id": 541,
@@ -8537,7 +8992,8 @@
       "is_guildspace_locked": false,
       "discipline": "Universal",
       "stat_hook": null,
-      "notes": null
+      "notes": null,
+      "category": null
     },
     {
       "id": 542,
@@ -8555,7 +9011,8 @@
       "is_guildspace_locked": false,
       "discipline": "Universal",
       "stat_hook": null,
-      "notes": null
+      "notes": null,
+      "category": null
     },
     {
       "id": 543,
@@ -8573,7 +9030,8 @@
       "is_guildspace_locked": false,
       "discipline": "Sorce",
       "stat_hook": null,
-      "notes": null
+      "notes": null,
+      "category": null
     },
     {
       "id": 544,
@@ -8591,7 +9049,8 @@
       "is_guildspace_locked": false,
       "discipline": "Sorce",
       "stat_hook": null,
-      "notes": null
+      "notes": null,
+      "category": null
     },
     {
       "id": 545,
@@ -8609,7 +9068,8 @@
       "is_guildspace_locked": false,
       "discipline": "Universal",
       "stat_hook": null,
-      "notes": null
+      "notes": null,
+      "category": null
     },
     {
       "id": 547,
@@ -8627,7 +9087,8 @@
       "is_guildspace_locked": false,
       "discipline": "Universal",
       "stat_hook": null,
-      "notes": null
+      "notes": null,
+      "category": null
     },
     {
       "id": 548,
@@ -8645,7 +9106,8 @@
       "is_guildspace_locked": false,
       "discipline": "Universal",
       "stat_hook": null,
-      "notes": null
+      "notes": null,
+      "category": null
     },
     {
       "id": 549,
@@ -8663,7 +9125,8 @@
       "is_guildspace_locked": false,
       "discipline": "Universal",
       "stat_hook": null,
-      "notes": null
+      "notes": null,
+      "category": null
     },
     {
       "id": 550,
@@ -8681,7 +9144,8 @@
       "is_guildspace_locked": false,
       "discipline": "Universal",
       "stat_hook": null,
-      "notes": null
+      "notes": null,
+      "category": null
     },
     {
       "id": 551,
@@ -8699,7 +9163,8 @@
       "is_guildspace_locked": false,
       "discipline": "Universal",
       "stat_hook": null,
-      "notes": null
+      "notes": null,
+      "category": null
     },
     {
       "id": 552,
@@ -8717,7 +9182,8 @@
       "is_guildspace_locked": false,
       "discipline": "Universal",
       "stat_hook": null,
-      "notes": null
+      "notes": null,
+      "category": null
     },
     {
       "id": 553,
@@ -8735,7 +9201,8 @@
       "is_guildspace_locked": false,
       "discipline": "Universal",
       "stat_hook": null,
-      "notes": null
+      "notes": null,
+      "category": null
     },
     {
       "id": 555,
@@ -8753,7 +9220,8 @@
       "is_guildspace_locked": false,
       "discipline": "Universal",
       "stat_hook": null,
-      "notes": null
+      "notes": null,
+      "category": null
     },
     {
       "id": 556,
@@ -8771,7 +9239,8 @@
       "is_guildspace_locked": false,
       "discipline": "Universal",
       "stat_hook": null,
-      "notes": null
+      "notes": null,
+      "category": null
     },
     {
       "id": 557,
@@ -8789,7 +9258,8 @@
       "is_guildspace_locked": false,
       "discipline": "Psionics",
       "stat_hook": null,
-      "notes": null
+      "notes": null,
+      "category": null
     },
     {
       "id": 559,
@@ -8807,7 +9277,8 @@
       "is_guildspace_locked": false,
       "discipline": "Universal",
       "stat_hook": null,
-      "notes": null
+      "notes": null,
+      "category": null
     },
     {
       "id": 560,
@@ -8825,7 +9296,8 @@
       "is_guildspace_locked": false,
       "discipline": "Martial",
       "stat_hook": null,
-      "notes": null
+      "notes": null,
+      "category": null
     },
     {
       "id": 562,
@@ -8843,7 +9315,8 @@
       "is_guildspace_locked": false,
       "discipline": "Universal",
       "stat_hook": null,
-      "notes": null
+      "notes": null,
+      "category": null
     },
     {
       "id": 563,
@@ -8861,7 +9334,8 @@
       "is_guildspace_locked": false,
       "discipline": "Universal",
       "stat_hook": null,
-      "notes": null
+      "notes": null,
+      "category": null
     },
     {
       "id": 564,
@@ -8879,7 +9353,8 @@
       "is_guildspace_locked": false,
       "discipline": "Universal",
       "stat_hook": null,
-      "notes": null
+      "notes": null,
+      "category": null
     },
     {
       "id": 565,
@@ -8897,7 +9372,8 @@
       "is_guildspace_locked": false,
       "discipline": "Universal",
       "stat_hook": null,
-      "notes": null
+      "notes": null,
+      "category": null
     },
     {
       "id": 566,
@@ -8915,7 +9391,8 @@
       "is_guildspace_locked": false,
       "discipline": "Psionics",
       "stat_hook": null,
-      "notes": null
+      "notes": null,
+      "category": null
     },
     {
       "id": 568,
@@ -8933,7 +9410,8 @@
       "is_guildspace_locked": false,
       "discipline": "Physical",
       "stat_hook": null,
-      "notes": null
+      "notes": null,
+      "category": null
     },
     {
       "id": 570,
@@ -8951,7 +9429,8 @@
       "is_guildspace_locked": false,
       "discipline": "Universal",
       "stat_hook": null,
-      "notes": null
+      "notes": null,
+      "category": null
     },
     {
       "id": 571,
@@ -8969,7 +9448,8 @@
       "is_guildspace_locked": false,
       "discipline": "Physical",
       "stat_hook": null,
-      "notes": null
+      "notes": null,
+      "category": null
     },
     {
       "id": 573,
@@ -8987,7 +9467,8 @@
       "is_guildspace_locked": false,
       "discipline": "Psionics",
       "stat_hook": null,
-      "notes": null
+      "notes": null,
+      "category": null
     },
     {
       "id": 575,
@@ -9005,7 +9486,8 @@
       "is_guildspace_locked": false,
       "discipline": "Universal",
       "stat_hook": null,
-      "notes": null
+      "notes": null,
+      "category": null
     },
     {
       "id": 576,
@@ -9023,7 +9505,8 @@
       "is_guildspace_locked": false,
       "discipline": "Universal",
       "stat_hook": null,
-      "notes": null
+      "notes": null,
+      "category": null
     },
     {
       "id": 577,
@@ -9041,7 +9524,8 @@
       "is_guildspace_locked": false,
       "discipline": "Universal",
       "stat_hook": null,
-      "notes": null
+      "notes": null,
+      "category": null
     },
     {
       "id": 578,
@@ -9059,7 +9543,8 @@
       "is_guildspace_locked": false,
       "discipline": "Universal",
       "stat_hook": null,
-      "notes": null
+      "notes": null,
+      "category": null
     },
     {
       "id": 579,
@@ -9077,7 +9562,8 @@
       "is_guildspace_locked": false,
       "discipline": "Psionics",
       "stat_hook": null,
-      "notes": null
+      "notes": null,
+      "category": null
     },
     {
       "id": 580,
@@ -9095,7 +9581,8 @@
       "is_guildspace_locked": false,
       "discipline": "Universal",
       "stat_hook": null,
-      "notes": null
+      "notes": null,
+      "category": null
     },
     {
       "id": 581,
@@ -9113,7 +9600,8 @@
       "is_guildspace_locked": false,
       "discipline": "Universal",
       "stat_hook": null,
-      "notes": null
+      "notes": null,
+      "category": null
     },
     {
       "id": 582,
@@ -9131,7 +9619,8 @@
       "is_guildspace_locked": false,
       "discipline": "Universal",
       "stat_hook": null,
-      "notes": null
+      "notes": null,
+      "category": null
     },
     {
       "id": 583,
@@ -9149,7 +9638,8 @@
       "is_guildspace_locked": false,
       "discipline": "Universal",
       "stat_hook": null,
-      "notes": null
+      "notes": null,
+      "category": null
     },
     {
       "id": 586,
@@ -9167,7 +9657,8 @@
       "is_guildspace_locked": false,
       "discipline": "Universal",
       "stat_hook": null,
-      "notes": null
+      "notes": null,
+      "category": null
     },
     {
       "id": 587,
@@ -9185,7 +9676,8 @@
       "is_guildspace_locked": false,
       "discipline": "Universal",
       "stat_hook": null,
-      "notes": null
+      "notes": null,
+      "category": null
     },
     {
       "id": 588,
@@ -9203,7 +9695,8 @@
       "is_guildspace_locked": false,
       "discipline": "Universal",
       "stat_hook": null,
-      "notes": null
+      "notes": null,
+      "category": null
     },
     {
       "id": 589,
@@ -9221,7 +9714,8 @@
       "is_guildspace_locked": false,
       "discipline": "Universal",
       "stat_hook": null,
-      "notes": null
+      "notes": null,
+      "category": null
     },
     {
       "id": 590,
@@ -9239,7 +9733,8 @@
       "is_guildspace_locked": false,
       "discipline": "Universal",
       "stat_hook": null,
-      "notes": null
+      "notes": null,
+      "category": null
     },
     {
       "id": 591,
@@ -9257,7 +9752,8 @@
       "is_guildspace_locked": false,
       "discipline": "Universal",
       "stat_hook": null,
-      "notes": null
+      "notes": null,
+      "category": null
     },
     {
       "id": 592,
@@ -9275,7 +9771,8 @@
       "is_guildspace_locked": false,
       "discipline": "Psionics",
       "stat_hook": null,
-      "notes": null
+      "notes": null,
+      "category": null
     },
     {
       "id": 593,
@@ -9293,7 +9790,8 @@
       "is_guildspace_locked": false,
       "discipline": "Universal",
       "stat_hook": null,
-      "notes": null
+      "notes": null,
+      "category": null
     },
     {
       "id": 594,
@@ -9311,7 +9809,8 @@
       "is_guildspace_locked": false,
       "discipline": "Universal",
       "stat_hook": null,
-      "notes": null
+      "notes": null,
+      "category": null
     },
     {
       "id": 595,
@@ -9329,7 +9828,8 @@
       "is_guildspace_locked": false,
       "discipline": "Martial",
       "stat_hook": null,
-      "notes": null
+      "notes": null,
+      "category": null
     },
     {
       "id": 596,
@@ -9347,7 +9847,8 @@
       "is_guildspace_locked": false,
       "discipline": "Universal",
       "stat_hook": null,
-      "notes": null
+      "notes": null,
+      "category": null
     },
     {
       "id": 598,
@@ -9365,7 +9866,8 @@
       "is_guildspace_locked": false,
       "discipline": "Sorce",
       "stat_hook": null,
-      "notes": null
+      "notes": null,
+      "category": null
     },
     {
       "id": 599,
@@ -9383,7 +9885,8 @@
       "is_guildspace_locked": false,
       "discipline": "Universal",
       "stat_hook": null,
-      "notes": null
+      "notes": null,
+      "category": null
     },
     {
       "id": 600,
@@ -9401,7 +9904,8 @@
       "is_guildspace_locked": false,
       "discipline": "Universal",
       "stat_hook": null,
-      "notes": null
+      "notes": null,
+      "category": null
     },
     {
       "id": 602,
@@ -9419,7 +9923,8 @@
       "is_guildspace_locked": false,
       "discipline": "Universal",
       "stat_hook": null,
-      "notes": null
+      "notes": null,
+      "category": null
     },
     {
       "id": 603,
@@ -9437,7 +9942,8 @@
       "is_guildspace_locked": false,
       "discipline": "Universal",
       "stat_hook": null,
-      "notes": null
+      "notes": null,
+      "category": null
     },
     {
       "id": 605,
@@ -9455,7 +9961,8 @@
       "is_guildspace_locked": false,
       "discipline": "Universal",
       "stat_hook": null,
-      "notes": null
+      "notes": null,
+      "category": null
     },
     {
       "id": 606,
@@ -9473,7 +9980,8 @@
       "is_guildspace_locked": false,
       "discipline": "Universal",
       "stat_hook": null,
-      "notes": null
+      "notes": null,
+      "category": null
     },
     {
       "id": 607,
@@ -9491,7 +9999,8 @@
       "is_guildspace_locked": false,
       "discipline": "Psionics",
       "stat_hook": null,
-      "notes": null
+      "notes": null,
+      "category": null
     },
     {
       "id": 608,
@@ -9509,7 +10018,8 @@
       "is_guildspace_locked": false,
       "discipline": "Universal",
       "stat_hook": null,
-      "notes": null
+      "notes": null,
+      "category": null
     },
     {
       "id": 610,
@@ -9527,7 +10037,8 @@
       "is_guildspace_locked": false,
       "discipline": "Universal",
       "stat_hook": null,
-      "notes": null
+      "notes": null,
+      "category": null
     },
     {
       "id": 612,
@@ -9545,7 +10056,8 @@
       "is_guildspace_locked": false,
       "discipline": "Universal",
       "stat_hook": null,
-      "notes": null
+      "notes": null,
+      "category": null
     },
     {
       "id": 613,
@@ -9563,7 +10075,8 @@
       "is_guildspace_locked": false,
       "discipline": "Universal",
       "stat_hook": null,
-      "notes": null
+      "notes": null,
+      "category": null
     },
     {
       "id": 614,
@@ -9581,7 +10094,8 @@
       "is_guildspace_locked": false,
       "discipline": "Universal",
       "stat_hook": null,
-      "notes": null
+      "notes": null,
+      "category": null
     },
     {
       "id": 615,
@@ -9599,7 +10113,8 @@
       "is_guildspace_locked": false,
       "discipline": "Universal",
       "stat_hook": null,
-      "notes": null
+      "notes": null,
+      "category": null
     },
     {
       "id": 617,
@@ -9617,7 +10132,8 @@
       "is_guildspace_locked": false,
       "discipline": "Universal",
       "stat_hook": null,
-      "notes": null
+      "notes": null,
+      "category": null
     },
     {
       "id": 619,
@@ -9635,7 +10151,8 @@
       "is_guildspace_locked": false,
       "discipline": "Universal",
       "stat_hook": null,
-      "notes": null
+      "notes": null,
+      "category": null
     },
     {
       "id": 620,
@@ -9653,7 +10170,8 @@
       "is_guildspace_locked": false,
       "discipline": "Universal",
       "stat_hook": null,
-      "notes": null
+      "notes": null,
+      "category": null
     },
     {
       "id": 621,
@@ -9671,7 +10189,8 @@
       "is_guildspace_locked": false,
       "discipline": "Psionics",
       "stat_hook": null,
-      "notes": null
+      "notes": null,
+      "category": null
     },
     {
       "id": 622,
@@ -9689,7 +10208,8 @@
       "is_guildspace_locked": false,
       "discipline": "Universal",
       "stat_hook": null,
-      "notes": null
+      "notes": null,
+      "category": null
     },
     {
       "id": 623,
@@ -9707,7 +10227,8 @@
       "is_guildspace_locked": false,
       "discipline": "Universal",
       "stat_hook": null,
-      "notes": null
+      "notes": null,
+      "category": null
     },
     {
       "id": 624,
@@ -9725,7 +10246,8 @@
       "is_guildspace_locked": false,
       "discipline": "Universal",
       "stat_hook": null,
-      "notes": null
+      "notes": null,
+      "category": null
     },
     {
       "id": 625,
@@ -9743,7 +10265,8 @@
       "is_guildspace_locked": false,
       "discipline": "Universal",
       "stat_hook": null,
-      "notes": null
+      "notes": null,
+      "category": null
     },
     {
       "id": 626,
@@ -9761,7 +10284,8 @@
       "is_guildspace_locked": false,
       "discipline": "Universal",
       "stat_hook": null,
-      "notes": null
+      "notes": null,
+      "category": null
     },
     {
       "id": 627,
@@ -9779,7 +10303,8 @@
       "is_guildspace_locked": false,
       "discipline": "Universal",
       "stat_hook": null,
-      "notes": null
+      "notes": null,
+      "category": null
     },
     {
       "id": 628,
@@ -9797,7 +10322,8 @@
       "is_guildspace_locked": false,
       "discipline": "Universal",
       "stat_hook": null,
-      "notes": null
+      "notes": null,
+      "category": null
     },
     {
       "id": 629,
@@ -9815,7 +10341,8 @@
       "is_guildspace_locked": false,
       "discipline": "Universal",
       "stat_hook": null,
-      "notes": null
+      "notes": null,
+      "category": null
     },
     {
       "id": 630,
@@ -9833,7 +10360,8 @@
       "is_guildspace_locked": false,
       "discipline": "Universal",
       "stat_hook": null,
-      "notes": null
+      "notes": null,
+      "category": null
     },
     {
       "id": 631,
@@ -9851,7 +10379,8 @@
       "is_guildspace_locked": false,
       "discipline": "Universal",
       "stat_hook": null,
-      "notes": null
+      "notes": null,
+      "category": null
     },
     {
       "id": 632,
@@ -9869,7 +10398,8 @@
       "is_guildspace_locked": false,
       "discipline": "Universal",
       "stat_hook": null,
-      "notes": null
+      "notes": null,
+      "category": null
     },
     {
       "id": 633,
@@ -9887,7 +10417,8 @@
       "is_guildspace_locked": false,
       "discipline": "Universal",
       "stat_hook": null,
-      "notes": null
+      "notes": null,
+      "category": null
     },
     {
       "id": 634,
@@ -9905,7 +10436,8 @@
       "is_guildspace_locked": false,
       "discipline": "Universal",
       "stat_hook": null,
-      "notes": null
+      "notes": null,
+      "category": null
     },
     {
       "id": 635,
@@ -9921,7 +10453,8 @@
       "is_guildspace_locked": false,
       "discipline": "Universal",
       "stat_hook": null,
-      "notes": null
+      "notes": null,
+      "category": null
     },
     {
       "id": 636,
@@ -9939,7 +10472,8 @@
       "is_guildspace_locked": false,
       "discipline": "Universal",
       "stat_hook": null,
-      "notes": null
+      "notes": null,
+      "category": null
     },
     {
       "id": 637,
@@ -9957,7 +10491,8 @@
       "is_guildspace_locked": false,
       "discipline": "Sorce",
       "stat_hook": null,
-      "notes": null
+      "notes": null,
+      "category": null
     },
     {
       "id": 638,
@@ -9975,7 +10510,8 @@
       "is_guildspace_locked": false,
       "discipline": "Sorce",
       "stat_hook": null,
-      "notes": null
+      "notes": null,
+      "category": null
     },
     {
       "id": 639,
@@ -9993,7 +10529,8 @@
       "is_guildspace_locked": false,
       "discipline": "Psionics",
       "stat_hook": null,
-      "notes": null
+      "notes": null,
+      "category": null
     },
     {
       "id": 641,
@@ -10011,7 +10548,8 @@
       "is_guildspace_locked": false,
       "discipline": "Universal",
       "stat_hook": null,
-      "notes": null
+      "notes": null,
+      "category": null
     },
     {
       "id": 644,
@@ -10029,7 +10567,8 @@
       "is_guildspace_locked": false,
       "discipline": "Universal",
       "stat_hook": null,
-      "notes": null
+      "notes": null,
+      "category": null
     },
     {
       "id": 645,
@@ -10047,7 +10586,8 @@
       "is_guildspace_locked": false,
       "discipline": "Universal",
       "stat_hook": null,
-      "notes": null
+      "notes": null,
+      "category": null
     },
     {
       "id": 646,
@@ -10065,7 +10605,8 @@
       "is_guildspace_locked": false,
       "discipline": "Universal",
       "stat_hook": null,
-      "notes": null
+      "notes": null,
+      "category": null
     },
     {
       "id": 647,
@@ -10083,7 +10624,8 @@
       "is_guildspace_locked": false,
       "discipline": "Universal",
       "stat_hook": null,
-      "notes": null
+      "notes": null,
+      "category": null
     },
     {
       "id": 649,
@@ -10101,7 +10643,8 @@
       "is_guildspace_locked": false,
       "discipline": "Universal",
       "stat_hook": null,
-      "notes": null
+      "notes": null,
+      "category": null
     },
     {
       "id": 650,
@@ -10119,7 +10662,8 @@
       "is_guildspace_locked": false,
       "discipline": "Universal",
       "stat_hook": null,
-      "notes": null
+      "notes": null,
+      "category": null
     },
     {
       "id": 651,
@@ -10137,7 +10681,8 @@
       "is_guildspace_locked": false,
       "discipline": "Universal",
       "stat_hook": null,
-      "notes": null
+      "notes": null,
+      "category": null
     },
     {
       "id": 652,
@@ -10155,7 +10700,8 @@
       "is_guildspace_locked": false,
       "discipline": "Psionics",
       "stat_hook": null,
-      "notes": null
+      "notes": null,
+      "category": null
     },
     {
       "id": 653,
@@ -10173,7 +10719,8 @@
       "is_guildspace_locked": false,
       "discipline": "Universal",
       "stat_hook": null,
-      "notes": null
+      "notes": null,
+      "category": null
     },
     {
       "id": 654,
@@ -10191,7 +10738,8 @@
       "is_guildspace_locked": false,
       "discipline": "Universal",
       "stat_hook": null,
-      "notes": null
+      "notes": null,
+      "category": null
     },
     {
       "id": 655,
@@ -10209,7 +10757,8 @@
       "is_guildspace_locked": false,
       "discipline": "Universal",
       "stat_hook": null,
-      "notes": null
+      "notes": null,
+      "category": null
     },
     {
       "id": 656,
@@ -10227,7 +10776,8 @@
       "is_guildspace_locked": false,
       "discipline": "Universal",
       "stat_hook": null,
-      "notes": null
+      "notes": null,
+      "category": null
     },
     {
       "id": 657,
@@ -10245,7 +10795,8 @@
       "is_guildspace_locked": false,
       "discipline": "Universal",
       "stat_hook": null,
-      "notes": null
+      "notes": null,
+      "category": null
     },
     {
       "id": 658,
@@ -10263,7 +10814,8 @@
       "is_guildspace_locked": false,
       "discipline": "Universal",
       "stat_hook": null,
-      "notes": null
+      "notes": null,
+      "category": null
     },
     {
       "id": 659,
@@ -10281,7 +10833,8 @@
       "is_guildspace_locked": false,
       "discipline": "Universal",
       "stat_hook": null,
-      "notes": null
+      "notes": null,
+      "category": null
     },
     {
       "id": 660,
@@ -10297,7 +10850,8 @@
       "is_guildspace_locked": false,
       "discipline": "Universal",
       "stat_hook": null,
-      "notes": null
+      "notes": null,
+      "category": null
     },
     {
       "id": 661,
@@ -10313,7 +10867,8 @@
       "is_guildspace_locked": false,
       "discipline": "Universal",
       "stat_hook": null,
-      "notes": null
+      "notes": null,
+      "category": null
     },
     {
       "id": 664,
@@ -10330,7 +10885,8 @@
       "is_guildspace_locked": false,
       "discipline": "Martial",
       "stat_hook": null,
-      "notes": null
+      "notes": null,
+      "category": null
     },
     {
       "id": 665,
@@ -10348,7 +10904,8 @@
       "is_guildspace_locked": false,
       "discipline": "Sorce",
       "stat_hook": null,
-      "notes": null
+      "notes": null,
+      "category": null
     },
     {
       "id": 666,
@@ -10366,7 +10923,8 @@
       "is_guildspace_locked": false,
       "discipline": "Universal",
       "stat_hook": null,
-      "notes": null
+      "notes": null,
+      "category": null
     },
     {
       "id": 667,
@@ -10384,7 +10942,8 @@
       "is_guildspace_locked": false,
       "discipline": "Universal",
       "stat_hook": null,
-      "notes": null
+      "notes": null,
+      "category": null
     },
     {
       "id": 669,
@@ -10402,7 +10961,8 @@
       "is_guildspace_locked": false,
       "discipline": "Psionics",
       "stat_hook": null,
-      "notes": null
+      "notes": null,
+      "category": null
     },
     {
       "id": 670,
@@ -10420,7 +10980,8 @@
       "is_guildspace_locked": false,
       "discipline": "Sorce",
       "stat_hook": null,
-      "notes": null
+      "notes": null,
+      "category": null
     },
     {
       "id": 671,
@@ -10438,7 +10999,8 @@
       "is_guildspace_locked": false,
       "discipline": "Psionics",
       "stat_hook": null,
-      "notes": null
+      "notes": null,
+      "category": null
     },
     {
       "id": 672,
@@ -10456,7 +11018,8 @@
       "is_guildspace_locked": false,
       "discipline": "Psionics",
       "stat_hook": null,
-      "notes": null
+      "notes": null,
+      "category": null
     },
     {
       "id": 673,
@@ -10474,7 +11037,8 @@
       "is_guildspace_locked": false,
       "discipline": "Universal",
       "stat_hook": null,
-      "notes": null
+      "notes": null,
+      "category": null
     },
     {
       "id": 674,
@@ -10492,7 +11056,8 @@
       "is_guildspace_locked": false,
       "discipline": "Psychosomatics",
       "stat_hook": null,
-      "notes": null
+      "notes": null,
+      "category": null
     },
     {
       "id": 675,
@@ -10509,7 +11074,8 @@
       "is_guildspace_locked": false,
       "discipline": "Universal",
       "stat_hook": null,
-      "notes": null
+      "notes": null,
+      "category": null
     },
     {
       "id": 677,
@@ -10527,7 +11093,8 @@
       "is_guildspace_locked": false,
       "discipline": "Universal",
       "stat_hook": null,
-      "notes": null
+      "notes": null,
+      "category": null
     },
     {
       "id": 678,
@@ -10545,7 +11112,8 @@
       "is_guildspace_locked": false,
       "discipline": "Universal",
       "stat_hook": null,
-      "notes": null
+      "notes": null,
+      "category": null
     },
     {
       "id": 679,
@@ -10563,7 +11131,8 @@
       "is_guildspace_locked": false,
       "discipline": "Sorce",
       "stat_hook": null,
-      "notes": null
+      "notes": null,
+      "category": null
     },
     {
       "id": 680,
@@ -10581,7 +11150,8 @@
       "is_guildspace_locked": false,
       "discipline": "Universal",
       "stat_hook": null,
-      "notes": null
+      "notes": null,
+      "category": null
     },
     {
       "id": 683,
@@ -10599,7 +11169,8 @@
       "is_guildspace_locked": false,
       "discipline": "Universal",
       "stat_hook": null,
-      "notes": null
+      "notes": null,
+      "category": null
     },
     {
       "id": 684,
@@ -10617,7 +11188,8 @@
       "is_guildspace_locked": false,
       "discipline": "Universal",
       "stat_hook": null,
-      "notes": null
+      "notes": null,
+      "category": null
     },
     {
       "id": 685,
@@ -10635,7 +11207,8 @@
       "is_guildspace_locked": false,
       "discipline": "Universal",
       "stat_hook": null,
-      "notes": null
+      "notes": null,
+      "category": null
     },
     {
       "id": 686,
@@ -10653,7 +11226,8 @@
       "is_guildspace_locked": false,
       "discipline": "Universal",
       "stat_hook": null,
-      "notes": null
+      "notes": null,
+      "category": null
     },
     {
       "id": 687,
@@ -10671,7 +11245,8 @@
       "is_guildspace_locked": false,
       "discipline": "Universal",
       "stat_hook": null,
-      "notes": null
+      "notes": null,
+      "category": null
     },
     {
       "id": 688,
@@ -10689,7 +11264,8 @@
       "is_guildspace_locked": false,
       "discipline": "Universal",
       "stat_hook": null,
-      "notes": null
+      "notes": null,
+      "category": null
     },
     {
       "id": 689,
@@ -10707,7 +11283,8 @@
       "is_guildspace_locked": false,
       "discipline": "Universal",
       "stat_hook": null,
-      "notes": null
+      "notes": null,
+      "category": null
     },
     {
       "id": 690,
@@ -10725,7 +11302,8 @@
       "is_guildspace_locked": false,
       "discipline": "Sorce",
       "stat_hook": null,
-      "notes": null
+      "notes": null,
+      "category": null
     },
     {
       "id": 691,
@@ -10743,7 +11321,8 @@
       "is_guildspace_locked": false,
       "discipline": "Universal",
       "stat_hook": null,
-      "notes": null
+      "notes": null,
+      "category": null
     },
     {
       "id": 692,
@@ -10761,7 +11340,8 @@
       "is_guildspace_locked": false,
       "discipline": "Universal",
       "stat_hook": null,
-      "notes": null
+      "notes": null,
+      "category": null
     },
     {
       "id": 693,
@@ -10779,7 +11359,8 @@
       "is_guildspace_locked": false,
       "discipline": "Universal",
       "stat_hook": null,
-      "notes": null
+      "notes": null,
+      "category": null
     },
     {
       "id": 694,
@@ -10797,7 +11378,8 @@
       "is_guildspace_locked": false,
       "discipline": "Universal",
       "stat_hook": null,
-      "notes": null
+      "notes": null,
+      "category": null
     },
     {
       "id": 695,
@@ -10815,7 +11397,8 @@
       "is_guildspace_locked": false,
       "discipline": "Universal",
       "stat_hook": null,
-      "notes": null
+      "notes": null,
+      "category": null
     },
     {
       "id": 696,
@@ -10833,7 +11416,8 @@
       "is_guildspace_locked": false,
       "discipline": "Universal",
       "stat_hook": null,
-      "notes": null
+      "notes": null,
+      "category": null
     },
     {
       "id": 697,
@@ -10851,7 +11435,8 @@
       "is_guildspace_locked": false,
       "discipline": "Universal",
       "stat_hook": null,
-      "notes": null
+      "notes": null,
+      "category": null
     },
     {
       "id": 698,
@@ -10869,7 +11454,8 @@
       "is_guildspace_locked": false,
       "discipline": "Universal",
       "stat_hook": null,
-      "notes": null
+      "notes": null,
+      "category": null
     },
     {
       "id": 699,
@@ -10887,7 +11473,8 @@
       "is_guildspace_locked": false,
       "discipline": "Universal",
       "stat_hook": null,
-      "notes": null
+      "notes": null,
+      "category": null
     },
     {
       "id": 700,
@@ -10905,7 +11492,8 @@
       "is_guildspace_locked": false,
       "discipline": "Sorce",
       "stat_hook": null,
-      "notes": null
+      "notes": null,
+      "category": null
     },
     {
       "id": 701,
@@ -10923,7 +11511,8 @@
       "is_guildspace_locked": false,
       "discipline": "Universal",
       "stat_hook": null,
-      "notes": null
+      "notes": null,
+      "category": null
     },
     {
       "id": 703,
@@ -10941,7 +11530,8 @@
       "is_guildspace_locked": false,
       "discipline": "Universal",
       "stat_hook": null,
-      "notes": null
+      "notes": null,
+      "category": null
     },
     {
       "id": 704,
@@ -10959,7 +11549,8 @@
       "is_guildspace_locked": false,
       "discipline": "Psionics",
       "stat_hook": null,
-      "notes": null
+      "notes": null,
+      "category": null
     },
     {
       "id": 706,
@@ -10977,7 +11568,8 @@
       "is_guildspace_locked": false,
       "discipline": "Psychosomatics",
       "stat_hook": null,
-      "notes": null
+      "notes": null,
+      "category": null
     },
     {
       "id": 708,
@@ -10995,7 +11587,8 @@
       "is_guildspace_locked": false,
       "discipline": "Psychosomatics",
       "stat_hook": null,
-      "notes": null
+      "notes": null,
+      "category": null
     },
     {
       "id": 709,
@@ -11013,7 +11606,8 @@
       "is_guildspace_locked": false,
       "discipline": "Psychosomatics",
       "stat_hook": null,
-      "notes": null
+      "notes": null,
+      "category": null
     },
     {
       "id": 711,
@@ -11031,7 +11625,8 @@
       "is_guildspace_locked": false,
       "discipline": "Psionics",
       "stat_hook": null,
-      "notes": null
+      "notes": null,
+      "category": null
     },
     {
       "id": 712,
@@ -11049,7 +11644,8 @@
       "is_guildspace_locked": false,
       "discipline": "Universal",
       "stat_hook": null,
-      "notes": null
+      "notes": null,
+      "category": null
     },
     {
       "id": 713,
@@ -11067,7 +11663,8 @@
       "is_guildspace_locked": false,
       "discipline": "Universal",
       "stat_hook": null,
-      "notes": null
+      "notes": null,
+      "category": null
     },
     {
       "id": 715,
@@ -11085,7 +11682,8 @@
       "is_guildspace_locked": false,
       "discipline": "Universal",
       "stat_hook": null,
-      "notes": null
+      "notes": null,
+      "category": null
     },
     {
       "id": 716,
@@ -11103,7 +11701,8 @@
       "is_guildspace_locked": false,
       "discipline": "Universal",
       "stat_hook": null,
-      "notes": null
+      "notes": null,
+      "category": null
     },
     {
       "id": 717,
@@ -11121,7 +11720,8 @@
       "is_guildspace_locked": false,
       "discipline": "Universal",
       "stat_hook": null,
-      "notes": null
+      "notes": null,
+      "category": null
     },
     {
       "id": 718,
@@ -11139,7 +11739,8 @@
       "is_guildspace_locked": false,
       "discipline": "Psychosomatics",
       "stat_hook": null,
-      "notes": null
+      "notes": null,
+      "category": null
     },
     {
       "id": 719,
@@ -11157,7 +11758,8 @@
       "is_guildspace_locked": false,
       "discipline": "Psychosomatics",
       "stat_hook": null,
-      "notes": null
+      "notes": null,
+      "category": null
     },
     {
       "id": 720,
@@ -11175,7 +11777,8 @@
       "is_guildspace_locked": false,
       "discipline": "Universal",
       "stat_hook": null,
-      "notes": null
+      "notes": null,
+      "category": null
     },
     {
       "id": 721,
@@ -11193,7 +11796,8 @@
       "is_guildspace_locked": false,
       "discipline": "Universal",
       "stat_hook": null,
-      "notes": null
+      "notes": null,
+      "category": null
     },
     {
       "id": 722,
@@ -11210,7 +11814,8 @@
       "is_guildspace_locked": false,
       "discipline": "Psionics",
       "stat_hook": null,
-      "notes": null
+      "notes": null,
+      "category": null
     },
     {
       "id": 724,
@@ -11228,7 +11833,8 @@
       "is_guildspace_locked": false,
       "discipline": "Universal",
       "stat_hook": null,
-      "notes": null
+      "notes": null,
+      "category": null
     },
     {
       "id": 726,
@@ -11245,7 +11851,8 @@
       "is_guildspace_locked": false,
       "discipline": "Universal",
       "stat_hook": null,
-      "notes": null
+      "notes": null,
+      "category": null
     },
     {
       "id": 728,
@@ -11261,7 +11868,8 @@
       "is_guildspace_locked": false,
       "discipline": "Universal",
       "stat_hook": null,
-      "notes": null
+      "notes": null,
+      "category": null
     },
     {
       "id": 729,
@@ -11279,7 +11887,8 @@
       "is_guildspace_locked": false,
       "discipline": "Universal",
       "stat_hook": null,
-      "notes": null
+      "notes": null,
+      "category": null
     },
     {
       "id": 730,
@@ -11295,7 +11904,8 @@
       "is_guildspace_locked": false,
       "discipline": "Tech",
       "stat_hook": null,
-      "notes": null
+      "notes": null,
+      "category": null
     },
     {
       "id": 732,
@@ -11313,7 +11923,8 @@
       "is_guildspace_locked": false,
       "discipline": "Psionics",
       "stat_hook": null,
-      "notes": null
+      "notes": null,
+      "category": null
     },
     {
       "id": 733,
@@ -11331,7 +11942,8 @@
       "is_guildspace_locked": false,
       "discipline": "Psionics",
       "stat_hook": null,
-      "notes": null
+      "notes": null,
+      "category": null
     },
     {
       "id": 734,
@@ -11349,7 +11961,8 @@
       "is_guildspace_locked": false,
       "discipline": "Psionics",
       "stat_hook": null,
-      "notes": null
+      "notes": null,
+      "category": null
     },
     {
       "id": 735,
@@ -11367,7 +11980,8 @@
       "is_guildspace_locked": false,
       "discipline": "Psionics",
       "stat_hook": null,
-      "notes": null
+      "notes": null,
+      "category": null
     },
     {
       "id": 736,
@@ -11385,7 +11999,8 @@
       "is_guildspace_locked": false,
       "discipline": "Universal",
       "stat_hook": null,
-      "notes": null
+      "notes": null,
+      "category": null
     },
     {
       "id": 737,
@@ -11403,7 +12018,8 @@
       "is_guildspace_locked": false,
       "discipline": "Universal",
       "stat_hook": null,
-      "notes": null
+      "notes": null,
+      "category": null
     },
     {
       "id": 739,
@@ -11421,7 +12037,8 @@
       "is_guildspace_locked": false,
       "discipline": "Psionics",
       "stat_hook": null,
-      "notes": null
+      "notes": null,
+      "category": null
     },
     {
       "id": 741,
@@ -11439,7 +12056,8 @@
       "is_guildspace_locked": false,
       "discipline": "Universal",
       "stat_hook": null,
-      "notes": null
+      "notes": null,
+      "category": null
     },
     {
       "id": 743,
@@ -11457,7 +12075,8 @@
       "is_guildspace_locked": false,
       "discipline": "Psionics",
       "stat_hook": null,
-      "notes": null
+      "notes": null,
+      "category": null
     },
     {
       "id": 744,
@@ -11473,7 +12092,8 @@
       "is_guildspace_locked": false,
       "discipline": "Universal",
       "stat_hook": null,
-      "notes": null
+      "notes": null,
+      "category": null
     },
     {
       "id": 746,
@@ -11491,7 +12111,8 @@
       "is_guildspace_locked": false,
       "discipline": "Universal",
       "stat_hook": null,
-      "notes": null
+      "notes": null,
+      "category": null
     },
     {
       "id": 747,
@@ -11509,7 +12130,8 @@
       "is_guildspace_locked": false,
       "discipline": "Universal",
       "stat_hook": null,
-      "notes": null
+      "notes": null,
+      "category": null
     },
     {
       "id": 749,
@@ -11527,7 +12149,8 @@
       "is_guildspace_locked": false,
       "discipline": "Universal",
       "stat_hook": null,
-      "notes": null
+      "notes": null,
+      "category": null
     },
     {
       "id": 750,
@@ -11545,7 +12168,8 @@
       "is_guildspace_locked": false,
       "discipline": "Universal",
       "stat_hook": null,
-      "notes": null
+      "notes": null,
+      "category": null
     },
     {
       "id": 751,
@@ -11563,7 +12187,8 @@
       "is_guildspace_locked": false,
       "discipline": "Universal",
       "stat_hook": null,
-      "notes": null
+      "notes": null,
+      "category": null
     },
     {
       "id": 752,
@@ -11581,7 +12206,8 @@
       "is_guildspace_locked": false,
       "discipline": "Psionics",
       "stat_hook": null,
-      "notes": null
+      "notes": null,
+      "category": null
     },
     {
       "id": 753,
@@ -11599,7 +12225,8 @@
       "is_guildspace_locked": false,
       "discipline": "Universal",
       "stat_hook": null,
-      "notes": null
+      "notes": null,
+      "category": null
     },
     {
       "id": 754,
@@ -11617,7 +12244,8 @@
       "is_guildspace_locked": false,
       "discipline": "Universal",
       "stat_hook": null,
-      "notes": null
+      "notes": null,
+      "category": null
     },
     {
       "id": 755,
@@ -11635,7 +12263,8 @@
       "is_guildspace_locked": false,
       "discipline": "Universal",
       "stat_hook": null,
-      "notes": null
+      "notes": null,
+      "category": null
     },
     {
       "id": 756,
@@ -11653,7 +12282,8 @@
       "is_guildspace_locked": false,
       "discipline": "Sorce",
       "stat_hook": null,
-      "notes": null
+      "notes": null,
+      "category": null
     },
     {
       "id": 757,
@@ -11671,7 +12301,8 @@
       "is_guildspace_locked": false,
       "discipline": "Universal",
       "stat_hook": null,
-      "notes": null
+      "notes": null,
+      "category": null
     },
     {
       "id": 758,
@@ -11689,7 +12320,8 @@
       "is_guildspace_locked": false,
       "discipline": "Universal",
       "stat_hook": null,
-      "notes": null
+      "notes": null,
+      "category": null
     },
     {
       "id": 760,
@@ -11707,7 +12339,8 @@
       "is_guildspace_locked": false,
       "discipline": "Sorce",
       "stat_hook": null,
-      "notes": null
+      "notes": null,
+      "category": null
     },
     {
       "id": 761,
@@ -11725,7 +12358,8 @@
       "is_guildspace_locked": false,
       "discipline": "Psychosomatics",
       "stat_hook": null,
-      "notes": null
+      "notes": null,
+      "category": null
     },
     {
       "id": 763,
@@ -11743,7 +12377,8 @@
       "is_guildspace_locked": false,
       "discipline": "Universal",
       "stat_hook": null,
-      "notes": null
+      "notes": null,
+      "category": null
     },
     {
       "id": 764,
@@ -11761,7 +12396,8 @@
       "is_guildspace_locked": false,
       "discipline": "Universal",
       "stat_hook": null,
-      "notes": null
+      "notes": null,
+      "category": null
     },
     {
       "id": 765,
@@ -11779,7 +12415,8 @@
       "is_guildspace_locked": false,
       "discipline": "Universal",
       "stat_hook": null,
-      "notes": null
+      "notes": null,
+      "category": null
     },
     {
       "id": 766,
@@ -11797,7 +12434,8 @@
       "is_guildspace_locked": false,
       "discipline": "Universal",
       "stat_hook": null,
-      "notes": null
+      "notes": null,
+      "category": null
     },
     {
       "id": 767,
@@ -11815,7 +12453,8 @@
       "is_guildspace_locked": false,
       "discipline": "Universal",
       "stat_hook": null,
-      "notes": null
+      "notes": null,
+      "category": null
     },
     {
       "id": 768,
@@ -11833,7 +12472,8 @@
       "is_guildspace_locked": false,
       "discipline": "Psionics",
       "stat_hook": null,
-      "notes": null
+      "notes": null,
+      "category": null
     },
     {
       "id": 769,
@@ -11851,7 +12491,8 @@
       "is_guildspace_locked": false,
       "discipline": "Universal",
       "stat_hook": null,
-      "notes": null
+      "notes": null,
+      "category": null
     },
     {
       "id": 771,
@@ -11869,7 +12510,8 @@
       "is_guildspace_locked": false,
       "discipline": "Universal",
       "stat_hook": null,
-      "notes": null
+      "notes": null,
+      "category": null
     },
     {
       "id": 772,
@@ -11887,7 +12529,8 @@
       "is_guildspace_locked": false,
       "discipline": "Psionics",
       "stat_hook": null,
-      "notes": null
+      "notes": null,
+      "category": null
     },
     {
       "id": 770,
@@ -11905,7 +12548,8 @@
       "is_guildspace_locked": false,
       "discipline": "Sorce",
       "stat_hook": null,
-      "notes": null
+      "notes": null,
+      "category": null
     },
     {
       "id": 773,
@@ -11923,7 +12567,8 @@
       "is_guildspace_locked": false,
       "discipline": "Universal",
       "stat_hook": null,
-      "notes": null
+      "notes": null,
+      "category": null
     },
     {
       "id": 774,
@@ -11941,7 +12586,8 @@
       "is_guildspace_locked": false,
       "discipline": "Universal",
       "stat_hook": null,
-      "notes": null
+      "notes": null,
+      "category": null
     },
     {
       "id": 775,
@@ -11959,7 +12605,8 @@
       "is_guildspace_locked": false,
       "discipline": "Universal",
       "stat_hook": null,
-      "notes": null
+      "notes": null,
+      "category": null
     },
     {
       "id": 776,
@@ -11977,7 +12624,8 @@
       "is_guildspace_locked": false,
       "discipline": "Universal",
       "stat_hook": null,
-      "notes": null
+      "notes": null,
+      "category": null
     },
     {
       "id": 777,
@@ -11995,7 +12643,8 @@
       "is_guildspace_locked": false,
       "discipline": "Martial",
       "stat_hook": null,
-      "notes": null
+      "notes": null,
+      "category": null
     },
     {
       "id": 778,
@@ -12013,7 +12662,8 @@
       "is_guildspace_locked": false,
       "discipline": "Universal",
       "stat_hook": null,
-      "notes": null
+      "notes": null,
+      "category": null
     },
     {
       "id": 779,
@@ -12031,7 +12681,8 @@
       "is_guildspace_locked": false,
       "discipline": "Universal",
       "stat_hook": null,
-      "notes": null
+      "notes": null,
+      "category": null
     },
     {
       "id": 780,
@@ -12049,7 +12700,8 @@
       "is_guildspace_locked": false,
       "discipline": "Universal",
       "stat_hook": null,
-      "notes": null
+      "notes": null,
+      "category": null
     },
     {
       "id": 782,
@@ -12067,7 +12719,8 @@
       "is_guildspace_locked": false,
       "discipline": "Universal",
       "stat_hook": null,
-      "notes": null
+      "notes": null,
+      "category": null
     },
     {
       "id": 783,
@@ -12085,7 +12738,8 @@
       "is_guildspace_locked": false,
       "discipline": "Universal",
       "stat_hook": null,
-      "notes": null
+      "notes": null,
+      "category": null
     },
     {
       "id": 784,
@@ -12103,7 +12757,8 @@
       "is_guildspace_locked": false,
       "discipline": "Universal",
       "stat_hook": null,
-      "notes": null
+      "notes": null,
+      "category": null
     },
     {
       "id": 785,
@@ -12121,7 +12776,8 @@
       "is_guildspace_locked": false,
       "discipline": "Universal",
       "stat_hook": null,
-      "notes": null
+      "notes": null,
+      "category": null
     },
     {
       "id": 786,
@@ -12139,7 +12795,8 @@
       "is_guildspace_locked": false,
       "discipline": "Universal",
       "stat_hook": null,
-      "notes": null
+      "notes": null,
+      "category": null
     },
     {
       "id": 788,
@@ -12157,7 +12814,8 @@
       "is_guildspace_locked": false,
       "discipline": "Universal",
       "stat_hook": null,
-      "notes": null
+      "notes": null,
+      "category": null
     },
     {
       "id": 790,
@@ -12175,7 +12833,8 @@
       "is_guildspace_locked": false,
       "discipline": "Universal",
       "stat_hook": null,
-      "notes": null
+      "notes": null,
+      "category": null
     },
     {
       "id": 791,
@@ -12193,7 +12852,8 @@
       "is_guildspace_locked": false,
       "discipline": "Universal",
       "stat_hook": null,
-      "notes": null
+      "notes": null,
+      "category": null
     },
     {
       "id": 792,
@@ -12211,7 +12871,8 @@
       "is_guildspace_locked": false,
       "discipline": "Universal",
       "stat_hook": null,
-      "notes": null
+      "notes": null,
+      "category": null
     },
     {
       "id": 793,
@@ -12229,7 +12890,8 @@
       "is_guildspace_locked": false,
       "discipline": "Psionics",
       "stat_hook": null,
-      "notes": null
+      "notes": null,
+      "category": null
     },
     {
       "id": 795,
@@ -12247,7 +12909,8 @@
       "is_guildspace_locked": false,
       "discipline": "Psionics",
       "stat_hook": null,
-      "notes": null
+      "notes": null,
+      "category": null
     },
     {
       "id": 797,
@@ -12265,7 +12928,8 @@
       "is_guildspace_locked": false,
       "discipline": "Universal",
       "stat_hook": null,
-      "notes": null
+      "notes": null,
+      "category": null
     },
     {
       "id": 800,
@@ -12283,7 +12947,8 @@
       "is_guildspace_locked": false,
       "discipline": "Martial",
       "stat_hook": null,
-      "notes": null
+      "notes": null,
+      "category": null
     },
     {
       "id": 802,
@@ -12301,7 +12966,8 @@
       "is_guildspace_locked": false,
       "discipline": "Universal",
       "stat_hook": null,
-      "notes": null
+      "notes": null,
+      "category": null
     },
     {
       "id": 805,
@@ -12319,7 +12985,8 @@
       "is_guildspace_locked": false,
       "discipline": "Universal",
       "stat_hook": null,
-      "notes": null
+      "notes": null,
+      "category": null
     },
     {
       "id": 806,
@@ -12337,7 +13004,8 @@
       "is_guildspace_locked": false,
       "discipline": "Universal",
       "stat_hook": null,
-      "notes": null
+      "notes": null,
+      "category": null
     },
     {
       "id": 807,
@@ -12355,7 +13023,8 @@
       "is_guildspace_locked": false,
       "discipline": "Psychosomatics",
       "stat_hook": null,
-      "notes": null
+      "notes": null,
+      "category": null
     },
     {
       "id": 809,
@@ -12373,7 +13042,8 @@
       "is_guildspace_locked": false,
       "discipline": "Psychosomatics",
       "stat_hook": null,
-      "notes": null
+      "notes": null,
+      "category": null
     },
     {
       "id": 811,
@@ -12391,7 +13061,8 @@
       "is_guildspace_locked": false,
       "discipline": "Martial",
       "stat_hook": null,
-      "notes": null
+      "notes": null,
+      "category": null
     },
     {
       "id": 812,
@@ -12409,7 +13080,8 @@
       "is_guildspace_locked": false,
       "discipline": "Sorce",
       "stat_hook": null,
-      "notes": null
+      "notes": null,
+      "category": null
     },
     {
       "id": 815,
@@ -12427,7 +13099,8 @@
       "is_guildspace_locked": false,
       "discipline": "Universal",
       "stat_hook": null,
-      "notes": null
+      "notes": null,
+      "category": null
     },
     {
       "id": 816,
@@ -12445,7 +13118,8 @@
       "is_guildspace_locked": false,
       "discipline": "Universal",
       "stat_hook": null,
-      "notes": null
+      "notes": null,
+      "category": null
     },
     {
       "id": 817,
@@ -12463,7 +13137,8 @@
       "is_guildspace_locked": false,
       "discipline": "Universal",
       "stat_hook": null,
-      "notes": null
+      "notes": null,
+      "category": null
     },
     {
       "id": 818,
@@ -12481,7 +13156,8 @@
       "is_guildspace_locked": false,
       "discipline": "Martial",
       "stat_hook": null,
-      "notes": null
+      "notes": null,
+      "category": null
     },
     {
       "id": 819,
@@ -12499,7 +13175,8 @@
       "is_guildspace_locked": false,
       "discipline": "Universal",
       "stat_hook": null,
-      "notes": null
+      "notes": null,
+      "category": null
     },
     {
       "id": 820,
@@ -12517,7 +13194,8 @@
       "is_guildspace_locked": false,
       "discipline": "Sorce",
       "stat_hook": null,
-      "notes": null
+      "notes": null,
+      "category": null
     },
     {
       "id": 821,
@@ -12535,7 +13213,8 @@
       "is_guildspace_locked": false,
       "discipline": "Universal",
       "stat_hook": null,
-      "notes": null
+      "notes": null,
+      "category": null
     },
     {
       "id": 822,
@@ -12553,7 +13232,8 @@
       "is_guildspace_locked": false,
       "discipline": "Universal",
       "stat_hook": null,
-      "notes": null
+      "notes": null,
+      "category": null
     },
     {
       "id": 823,
@@ -12571,7 +13251,8 @@
       "is_guildspace_locked": false,
       "discipline": "Universal",
       "stat_hook": null,
-      "notes": null
+      "notes": null,
+      "category": null
     },
     {
       "id": 824,
@@ -12589,7 +13270,8 @@
       "is_guildspace_locked": false,
       "discipline": "Psionics",
       "stat_hook": null,
-      "notes": null
+      "notes": null,
+      "category": null
     },
     {
       "id": 825,
@@ -12607,7 +13289,8 @@
       "is_guildspace_locked": false,
       "discipline": "Universal",
       "stat_hook": null,
-      "notes": null
+      "notes": null,
+      "category": null
     },
     {
       "id": 826,
@@ -12625,7 +13308,8 @@
       "is_guildspace_locked": false,
       "discipline": "Universal",
       "stat_hook": null,
-      "notes": null
+      "notes": null,
+      "category": null
     },
     {
       "id": 827,
@@ -12643,7 +13327,8 @@
       "is_guildspace_locked": false,
       "discipline": "Universal",
       "stat_hook": null,
-      "notes": null
+      "notes": null,
+      "category": null
     },
     {
       "id": 828,
@@ -12661,7 +13346,8 @@
       "is_guildspace_locked": false,
       "discipline": "Universal",
       "stat_hook": null,
-      "notes": null
+      "notes": null,
+      "category": null
     },
     {
       "id": 829,
@@ -12679,7 +13365,8 @@
       "is_guildspace_locked": false,
       "discipline": "Universal",
       "stat_hook": null,
-      "notes": null
+      "notes": null,
+      "category": null
     },
     {
       "id": 830,
@@ -12697,7 +13384,8 @@
       "is_guildspace_locked": false,
       "discipline": "Universal",
       "stat_hook": null,
-      "notes": null
+      "notes": null,
+      "category": null
     },
     {
       "id": 832,
@@ -12715,7 +13403,8 @@
       "is_guildspace_locked": false,
       "discipline": "Universal",
       "stat_hook": null,
-      "notes": null
+      "notes": null,
+      "category": null
     },
     {
       "id": 833,
@@ -12733,7 +13422,8 @@
       "is_guildspace_locked": false,
       "discipline": "Universal",
       "stat_hook": null,
-      "notes": null
+      "notes": null,
+      "category": null
     },
     {
       "id": 834,
@@ -12751,7 +13441,8 @@
       "is_guildspace_locked": false,
       "discipline": "Martial",
       "stat_hook": null,
-      "notes": null
+      "notes": null,
+      "category": null
     },
     {
       "id": 835,
@@ -12769,7 +13460,8 @@
       "is_guildspace_locked": false,
       "discipline": "Universal",
       "stat_hook": null,
-      "notes": null
+      "notes": null,
+      "category": null
     },
     {
       "id": 837,
@@ -12787,7 +13479,8 @@
       "is_guildspace_locked": false,
       "discipline": "Sorce",
       "stat_hook": null,
-      "notes": null
+      "notes": null,
+      "category": null
     },
     {
       "id": 838,
@@ -12805,7 +13498,8 @@
       "is_guildspace_locked": false,
       "discipline": "Universal",
       "stat_hook": null,
-      "notes": null
+      "notes": null,
+      "category": null
     },
     {
       "id": 839,
@@ -12823,7 +13517,8 @@
       "is_guildspace_locked": false,
       "discipline": "Universal",
       "stat_hook": null,
-      "notes": null
+      "notes": null,
+      "category": null
     },
     {
       "id": 840,
@@ -12841,7 +13536,8 @@
       "is_guildspace_locked": false,
       "discipline": "Universal",
       "stat_hook": null,
-      "notes": null
+      "notes": null,
+      "category": null
     },
     {
       "id": 842,
@@ -12859,7 +13555,8 @@
       "is_guildspace_locked": false,
       "discipline": "Universal",
       "stat_hook": null,
-      "notes": null
+      "notes": null,
+      "category": null
     },
     {
       "id": 843,
@@ -12877,7 +13574,8 @@
       "is_guildspace_locked": false,
       "discipline": "Universal",
       "stat_hook": null,
-      "notes": null
+      "notes": null,
+      "category": null
     }
   ],
   "artifacts": [
