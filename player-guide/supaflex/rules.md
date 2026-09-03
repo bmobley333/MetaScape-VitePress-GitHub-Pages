@@ -53,7 +53,7 @@ The complete SupaFlex game system is structured around the **Trinity of Mechanic
    ┌──────┬───────┼───────┬─────────┐               ┌────────────┼────────────┐
    ▼      ▼       ▼       ▼         ▼               ▼            ▼            ▼
  [ ATR ] [SKILL] [SKILLSET][POWERS] [SPEC RULES]  [ ⚙️ GEAR ]  [ 🧿 EXOTICS ] [ 🔌 MODS ]
-  (✅)    (🎓)      (🎓)    (🔥)       (📜)        (Mundane)   (🚀 Spec / 💍 Artifacts) (Add-ons)
+  (✅)    (🎓)      (🎓)    (🔥)       (📜)        (Mundane)   (🚀 Spec / 🔮 Artifacts) (Add-ons)
                                                     (0 Slots)    (1–4 Slots)        │
                                                                      │              ▼
                                                                      └──────► [ 🧿 FUNCTIONS ]
@@ -65,7 +65,7 @@ The complete SupaFlex game system is structured around the **Trinity of Mechanic
 | Entity | Contained Sub-Elements | Attributes & Scope |
 | :--- | :--- | :--- |
 | **Kit (`🎒`)** | Gear, Weapons, Armor, Shields, Exotics, Mods, Functions, Spec Rules | Master bundle / assembly. Has overall kit cost (e.g. `45s`, `120g`). |
-| **Exotic (`🧿`)** | Mods, Functions, Spec Rules | Master extraordinary item category. Partitioned into **Spec Gear (`🚀`)** (purchasable with $g/s$) and **Artifacts (`💍`)** (found treasure loot). |
+| **Exotic (`🧿`)** | Mods, Functions, Spec Rules | Master extraordinary item category. Partitioned into **Spec Gear (`🚀`)** (purchasable with $g/s$) and **Artifacts (`🔮`)** (found treasure loot). |
 | **Mod (`🔌`)** | Functions, Spec Rules | Named modification, hardware attachment, or enchantment (e.g. *Joint Locks*). Cost + belongs to parent Exotic or Kit. |
 | **Function (`🧿`)** | *(Actionable Rules Execution)* | Equipment ability nearly identical to a Power (`Action`, `Usage`, `Effect`, `Cost`). Drawn from Function Slots (`🧿`). |
 | **Spec Rule (`📜`)** | *(Passive / Systemic Rule Hook)* | Systemic rule, environmental immunity, or passive trait hook. Cost + belongs to parent Exotic, Mod, or Kit. |
@@ -82,10 +82,10 @@ The complete SupaFlex game system is structured around the **Trinity of Mechanic
    * **Starting Paths:** Every character starts with 2 Learned Paths: **Race Path (`🧭`)** and **Class Path (`🧭`)**.
    * **Learning New Paths:** Beyond starting paths, additional Paths may be learned for **4 AP WITH GM Approval**.
 
-3. **🧿 Exotics: Spec Gear (`🚀`) vs. Artifacts (`💍`):**
+3. **🧿 Exotics: Spec Gear (`🚀`) vs. Artifacts (`🔮`):**
    * **Exotics (`🧿`):** The master category for all extraordinary equipment beyond standard mundane items.
    * **Spec Gear (`🚀`):** High-tech, military-specification, or commissioned Exotics that can be purchased in markets for Gold or Silver.
-   * **Artifacts (`💍`):** Rare, unique, or enchanted Exotics discovered as treasure loot that cannot simply be bought in a shop.
+   * **Artifacts (`🔮`):** Rare, unique, or enchanted Exotics discovered as treasure loot that cannot simply be bought in a shop.
 
 4. **⚔️ Weapons, 🧥 Armor, and 🛡️ Shields as Equipment:**
    * Weapons, Armor, and Shields are all **Equipment (`🧰`)**.
@@ -140,7 +140,7 @@ Monster stats place the emojis before key numbers or number sets as in:
 | AR🧥 | 🧥 |  | ⚕️ | Medical & Healing Supplies⚕️ |
 | Armor🧥 | 🧥 |  | 🔥 | Power🔥 |
 | Art🎨 | 🎨 |  | ✅ | Atr✅ |
-| Artifacts💍 (1–4 Slots) | 💍 |  | ✒️ | Writing & Communication✒️ |
+| Artifacts🔮 (1–4 Slots) | 🔮 |  | ✒️ | Writing & Communication✒️ |
 | Atr✅ | ✅ |  | ❤️ | Vit❤️ |
 | Block🧱 | 🛡️ |  | ⭐ | Level⭐ |
 | Camp Gear🏕️ | 🏕️ |  | 💫 | Epic💫 (4 Slots • Exotic / Artifact) |
@@ -162,12 +162,12 @@ Monster stats place the emojis before key numbers or number sets as in:
 | Gear⚙️ (0 Slots) | ⚙️ |  | 👣 | MR👣 |
 | GM🔎 | 🔎 |  | 💪 | Might💪 |
 | Greater🪬 (3 Slots) | 🪬 |  | 💰 | Money💰 |
-| Hazard💀 | 💀 |  | 💍 | Artifacts💍 / Loadout Slots💍 |
+| Hazard💀 | 💀 |  | 🔮 | Artifacts🔮 / Loadout Slots🔮 |
 | Junk🗑️ | 🗑️ |  | 🧿 | Exotics🧿 |
 | Kits🎒 (Hardware Suites) | 🎒 |  | ⚙️ | Gear⚙️ |
 | Lesser🪄 (2 Slots) | 🪄 |  | 🧰 | Equipment🧰 |
 | Level⭐ | ⭐ |  | 📅 | Days📅 |
-| Loadout Slots💍 | 💍 |  | 📜 | Rules📜 / Notes📜 |
+| Loadout Slots🔮 | 🔮 |  | 📜 | Rules📜 / Notes📜 |
 | Luck🍀 | 🍀 |  | 🔷 | Actions🔷 |
 | Magic Item✨ (Exotic / Artifact) | ✨ |  | 🔎 | GM🔎 |
 | Magic✨ | ✨ |  | 🪄 | Lesser🪄 (2 Slots • Exotic / Artifact) |
@@ -235,11 +235,11 @@ Action🔷 (A, M, P, F, AM) – MetaScape uses the 4-channel AMP action system 
 
 Adv (Advantage) – Gain an extra d20 during an ability roll.
 
-AP🧩 (Adventure Point) – Earned progression currency spent to unlock Paths🧭, learn new abilities🧠, expand Loadout Slots💍, or improve stats.
+AP🧩 (Adventure Point) – Earned progression currency spent to unlock Paths🧭, learn new abilities🧠, expand Loadout Slots🔮, or improve stats.
 
-AR🧥 (Armor Rating) / Armor🧥 – Equipment🧰 worn to absorb damage. Defense is always Dod/AR or Blk/AR; armor is the AR part. Standard armor is mundane Gear⚙️ (0 loadout slots); high-tier, specialized, or enchanted suits exist as Exotics🧿 or Artifacts💍 (1–4 loadout slots). When learned, characters are assumed to possess the item as Gear⚙️ by default.
+AR🧥 (Armor Rating) / Armor🧥 – Equipment🧰 worn to absorb damage. Defense is always Dod/AR or Blk/AR; armor is the AR part. Standard armor is mundane Gear⚙️ (0 loadout slots); high-tier, specialized, or enchanted suits exist as Exotics🧿 or Artifacts🔮 (1–4 loadout slots). When learned, characters are assumed to possess the item as Gear⚙️ by default.
 
-Artifact💍 (Magic Relics) – Exceptionally rare, unique, or priceless magical items—such as ancient relics, alien monoliths, or divine masterworks—that exist outside the standard economy and cannot be normally purchased or manufactured. Slotted into the shared Loadout Capacity Pool based on tier: 🍺 Minor (1 Slot), 🪄 Lesser (2 Slots), 🪬 Greater (3 Slots), 💫 Epic (4 Slots). Inactive artifacts reside in the Vault📦.
+Artifact🔮 (Magic Relics) – Exceptionally rare, unique, or priceless magical items—such as ancient relics, alien monoliths, or divine masterworks—that exist outside the standard economy and cannot be normally purchased or manufactured. Slotted into the shared Loadout Capacity Pool based on tier: 🍺 Minor (1 Slot), 🪄 Lesser (2 Slots), 🪬 Greater (3 Slots), 💫 Epic (4 Slots). Inactive artifacts reside in the Vault📦.
 
 Atk (Attack) – Any offensive roll or strike made with a weapon, power🔥, or ability.
 
@@ -269,11 +269,11 @@ Element(s)🌟 – The universal parent category encompassing every physical it
 
 Enc (Encounter) – The series of rounds that make up a combat event or distinct roleplaying scene.
 
-Equipment🧰 – The universal parent category encompassing every physical item, tool, weapon, armor piece, shield, supply, or object a character can carry, wear, or utilize. Governed by the 5-Tier Lineage Hierarchy: Kits🎒, Gear⚙️ (0 slots), Exotics🧿 (1–4 slots: 🚀 Spec Gear and 💍 Artifacts), and Mods🔌.
+Equipment🧰 – The universal parent category encompassing every physical item, tool, weapon, armor piece, shield, supply, or object a character can carry, wear, or utilize. Governed by the 5-Tier Lineage Hierarchy: Kits🎒, Gear⚙️ (0 slots), Exotics🧿 (1–4 slots: 🚀 Spec Gear and 🔮 Artifacts), and Mods🔌.
 
 Exclusive Stacking Master Rule – A character may benefit from only the single highest value or best effect of a given power or modifier at any time (bonuses, damage amplifiers, and movement replacements do not stack unless an ability explicitly states otherwise).
 
-Exotic🧿 / Exotics🧿 – Master category for extraordinary equipment beyond mundane gear, granting actionable Functions🧿 or Spec Rules📜. Subdivided into Spec Gear🚀 (purchasable) and Artifacts💍 (found treasure loot). Readied functions consume Function Slots based on tier: 🍺 Minor (1 Slot), 🪄 Lesser (2 Slots), 🪬 Greater (3 Slots), 💫 Epic (4 Slots).
+Exotic🧿 / Exotics🧿 – Master category for extraordinary equipment beyond mundane gear, granting actionable Functions🧿 or Spec Rules📜. Subdivided into Spec Gear🚀 (purchasable) and Artifacts🔮 (found treasure loot). Readied functions consume Function Slots based on tier: 🍺 Minor (1 Slot), 🪄 Lesser (2 Slots), 🪬 Greater (3 Slots), 💫 Epic (4 Slots).
 
 Ext Rng (Extended/Long Range) – A greater range (at disadvantage) that a weapon, ability, or item can reach.
 
@@ -309,7 +309,7 @@ Magic Item✨ – Magical items categorized as Minor🍺 (1 Slot), Lesser🪄 (2
 
 Mod(s)🔌 – Named modular modifications, hardware attachments, or enchantments (e.g. *Joint Locks*, *Flood Lights*, *Undead Slayer Coating*) belonging to an Exotic or Kit that grant Functions🧿 or Spec Rules📜.
 
-Artifacts💍 – Rare, unique, or enchanted Exotics discovered as treasure loot that cannot simply be bought in a store.
+Artifacts🔮 – Rare, unique, or enchanted Exotics discovered as treasure loot that cannot simply be bought in a store.
 
 Spec Gear🚀 – High-tier, military-specification, or commissioned Exotics carrying a commercial or commission price tag in gold or silver ($g / s$).
 
@@ -355,7 +355,7 @@ Session – A day in the player’s life, referring to one game session.
 
 S, Sh (Shot) – Ranged weapons that are not thrown (bows, crossbows, firearms).
 
-Shields🛡️ – Equipment🧰 held in the off-hand to block incoming attacks up to a Block Cap. Standard shields are Gear⚙️ (0 slots); enchanted/high-tech shields are Exotics🧿 or Artifacts💍 (1–4 slots).
+Shields🛡️ – Equipment🧰 held in the off-hand to block incoming attacks up to a Block Cap. Standard shields are Gear⚙️ (0 slots); enchanted/high-tech shields are Exotics🧿 or Artifacts🔮 (1–4 slots).
 
 Single Die Rule (Single-Explode Capped) – Any single-die resolution roll (Damage `Dmg` and Armor Rating `AR`) explodes once, capped on max face (cannot chain further).
 
@@ -373,13 +373,13 @@ Tremendous🌟 – A natural 20 on any d20 in an ability roll.
 
 Usage🔄 – Standardized 9-option list for ability frequency: `1`, `2`, `3`, `1-⚡`, `1-🍀`, `1-Enc`, `2-Enc`, `3-Enc`, `1-Rnd`.
 
-Vault📦 – The unlimited repository for inactive Exotics🧿 and Artifacts💍. Items in the Vault can be swapped into active Loadout Slots during a 5-minute out-of-combat breather.
+Vault📦 – The unlimited repository for inactive Exotics🧿 and Artifacts🔮. Items in the Vault can be swapped into active Loadout Slots during a 5-minute out-of-combat breather.
 
 Vit❤️ (Vitality) – The amount of wounds a character or monster can sustain before death checks or death.
 
 Wnd🩸 (Wounds) – Damage sustained after AR🧥 reduction is applied.
 
-Wpn⚔️ (Weapon) – Equipment🧰 wielded to strike or shoot. Standard weapons are Gear⚙️ (0 slots); high-tier or enchanted weapons are Exotics🧿 or Artifacts💍 (1–4 slots).
+Wpn⚔️ (Weapon) – Equipment🧰 wielded to strike or shoot. Standard weapons are Gear⚙️ (0 slots); high-tier or enchanted weapons are Exotics🧿 or Artifacts🔮 (1–4 slots).
 
 ### 🎲 Die Mechanics
 
@@ -705,9 +705,9 @@ Vit❤️: 10 + 1d(Moxie🫀) (e.g., Moxie d8 = 5+1d8 = 6 to 13).
 
 Only during creation, a 1d(Moxie🫀) roll of 1 may be re-rolled one time, in hopes of a better result.
 
-💍 Starting Loadout Capacity
+🧿 Starting Function Slots Capacity
 
-Every character begins with **4 Loadout Slots** (0 AP) to attune/integrate 🍺 Minor (1), 🪄 Lesser (2), 🪬 Greater (3), or 💫 Epic (4) Exotics🧿 and Artifacts💍.
+Every character begins with **4 Function Slots** (0 AP) to attune/ready 🍺 Minor (1), 🪄 Lesser (2), 🪬 Greater (3), or 💫 Epic (4) Exotics🧿 and Artifacts🔮.
 
 ⭐ Starting AP🧩 (8 AP at Level 1)
 
@@ -1800,7 +1800,7 @@ SupaFlex eliminates weight math, bulk values, and movement rate penalties. A cha
                                          ┌──────────────────────────┴──────────────────────────┐
                                          ▼                                                     ▼
                                  UNPURCHASABLE LOOT                                    STORE / CRAFTED
-                                  [ 💍 ARTIFACTS ]                                      [ 🚀 SPEC GEAR ]
+                                  [ 🔮 ARTIFACTS ]                                      [ 🚀 SPEC GEAR ]
                                  (Found Treasure)                                      (Purchasable)
                                          │                                                     │
                                          └─────────────────────┬───────────────────────────────┘
@@ -1851,7 +1851,7 @@ SupaFlex eliminates weight math, bulk values, and movement rate penalties. A cha
 | **Epic💫 (4 Slots)** | Orb of Storms [A] | Prototype Railgun [A] | Neural Matrix Core [F] | Dimensional Shifter [M] |
 
 ### 5. Master Techniques & Signature Devices
-* **🔥 Loadout Burn (Master Technique • 5 AP):** As a Free Action [F], a character with this Master Technique can push any active slotted Exotic (`🧿`) or Artifact (`💍`) item to output its maximum/Epic💫 effect for 1 round. At the end of the round, the item's core melts into inert slag and is destroyed, immediately freeing its Loadout Slots mid-combat. *(Does not apply to flat consumables with usage `1`, `2`, or `3`).*
+* **🔥 Loadout Burn (Master Technique • 5 AP):** As a Free Action [F], a character with this Master Technique can push any active slotted Exotic (`🧿`) or Artifact (`🔮`) item to output its maximum/Epic💫 effect for 1 round. At the end of the round, the item's core melts into inert slag and is destroyed, immediately freeing its Loadout Slots mid-combat. *(Does not apply to flat consumables with usage `1`, `2`, or `3`).*
 * **🖨️ Omni-Fab (Minor🍺 • 1 Slot Exotic):** Usage: `3-Enc`, Action: `[P]`. Materializes any mundane utility tool or standard field supply on the fly. The materialized item dissolves at the end of the encounter. Cost: 150s.
 
 ## 💎 Chaos Gauntlet & Chaos Gems
