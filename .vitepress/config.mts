@@ -70,7 +70,7 @@ export default defineConfig({
         { text: '──────────────', link: '/player-guide/supaflex/rules#sep' },
         { text: '🧥 Armor Reference', link: '/player-guide/supaflex/armor' },
         { text: '🧰 Gear Catalog', link: '/player-guide/supaflex/gear' },
-        { text: '✨ Magic Items Reference', link: '/player-guide/supaflex/magic-items' },
+        { text: '🧿 Exotics: Spec Gear & Artifacts', link: '/player-guide/supaflex/magic-items' },
         { text: '🐉 Monsters Bestiary', link: '/player-guide/supaflex/monsters' },
         { text: '🔥 Powers Reference', link: '/player-guide/supaflex/powers' },
         { text: '🛡️ Shields Reference', link: '/player-guide/supaflex/shields' },

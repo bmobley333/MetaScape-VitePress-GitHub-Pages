@@ -130,85 +130,88 @@ Monster stats place the emojis before key numbers or number sets as in:
 
 4 Orc Guards (Heavy Leather, Scimitars, Bucklers) 🚩14, 👣10, ⚔️18/12, 🛡️16/2, ❤️12 – [💪18/🏃12/👁️10/✨10/🫀12] (Poisoned blades Magic✨ or Weakened).
 
-| Sorted by Term📖 |  |  | Sorted by Emoji🙂 |  |
-| --- | --- | --- | --- | --- |
-| 📖Term | 🙂Emoji |  | 🙂Emoji | 📖Term |
-| Abilities🧠 | 🧠 |  | 🧠 | Abilities🧠 |
-| Actions🔷 | 🔷 |  | 🌟 | Elements🌟 |
-| Affliction💀 | 💀 |  | 🔄 | Usage🔄 |
-| AP🧩 | 🧩 |  | ⏳ | Duration⏳ |
-| AR🧥 | 🧥 |  | ⚕️ | Medical & Healing Supplies⚕️ |
-| Armor🧥 | 🧥 |  | 🔥 | Power🔥 |
-| Art🎨 | 🎨 |  | ✅ | Atr✅ |
-| Artifacts🔮 (1–4 Slots) | 🔮 |  | ✒️ | Writing & Communication✒️ |
-| Atr✅ | ✅ |  | ❤️ | Vit❤️ |
-| Block🧱 | 🛡️ |  | ⭐ | Level⭐ |
-| Camp Gear🏕️ | 🏕️ |  | 💫 | Epic💫 (4 Slots • Exotic / Artifact) |
-| Clothing & Personal👕 | 👕 |  | 🌟 | Tremendous🌟 |
-| Combat ⚔️ | ⚔️ |  | 🍀 | Luck🍀 |
-| Containers🧺 | 🧺 |  | 🍺 | Minor🍺 (1 Slot • Exotic / Artifact) |
-| Critical💀 | 💀 |  | 🙂 | Emoji🙂 |
-| Days📅 | 📅 |  | 📖 | Term📖 |
-| Dmg💥 | 💥 |  | 🎨 | Art🎨 |
-| Dual Wield⚔️ | ⚔️ |  | 💥 | Dmg💥 |
-| Duration⏳ | ⏳ |  | 🎯 | Range🎯 |
-| Elements🌟 | 🌟 |  | 🎵 | Entertainment & Instruments🎵 |
-| Emoji🙂 | 🙂 |  | 🏃 | Motion🏃 |
-| Entertainment & Instruments🎵 | 🎵 |  | 🏕️ | Camp Gear🏕️ |
-| Epic💫 (4 Slots) | 💫 |  | 🐉 | Monster 🐉 |
-| Equipment🧰 | 🧰 |  | 🐴 | Travel & Animals🐴 |
-| Exotics🧿 (1–4 Slots) | 🧿 |  | 👁️ | Mind👁️ |
-| Food & Drink🥖 | 🥖 |  | 👕 | Clothing & Personal👕 |
-| Gear⚙️ (0 Slots) | ⚙️ |  | 👣 | MR👣 |
-| GM🔎 | 🔎 |  | 💪 | Might💪 |
-| Greater🪬 (3 Slots) | 🪬 |  | 💰 | Money💰 |
-| Hazard💀 | 💀 |  | 🔮 | Artifacts🔮 / Loadout Slots🔮 |
-| Junk🗑️ | 🗑️ |  | 🧿 | Exotics🧿 |
-| Kits🎒 (Hardware Suites) | 🎒 |  | ⚙️ | Gear⚙️ |
-| Lesser🪄 (2 Slots) | 🪄 |  | 🧰 | Equipment🧰 |
-| Level⭐ | ⭐ |  | 📅 | Days📅 |
-| Loadout Slots🔮 | 🔮 |  | 📜 | Rules📜 / Notes📜 |
-| Luck🍀 | 🍀 |  | 🔷 | Actions🔷 |
-| Magic Item✨ (Exotic / Artifact) | ✨ |  | 🔎 | GM🔎 |
-| Magic✨ | ✨ |  | 🪄 | Lesser🪄 (2 Slots • Exotic / Artifact) |
-| Martial Arts🥋 | 🥋 |  | 🗑️ | Junk🗑️ |
-| Medical & Healing Supplies⚕️ | ⚕️ |  | 🗡️ | Single Weapon🗡️ |
-| Might💪 | 💪 |  | 🥋 | Martial Arts🥋 |
-| Mind👁️ | 👁️ |  | 🥖 | Food & Drink🥖 |
-| Minor🍺 (1 Slot) | 🍺 |  | 🧩 | AP🧩 |
-| Money💰 | 💰 |  | 🫀 | Moxie🫀 |
-| Monster 🐉 | 🐉 |  | 🧬 | Traits🧬 / Racial🧬 |
-| Motion🏃 | 🏃 |  | 🧺 | Containers🧺 |
-| Moxie🫀 | 🫀 |  | 🚩 | Nish🚩 |
-| MR👣 | 👣 |  | 🪬 | Greater🪬 (3 Slots • Exotic / Artifact) |
-| Natural Weapons🥊 | 🥊 |  | 🛠️ | Tools & Equipment🛠️ |
-| Nish🚩 | 🚩 |  | 🩸 | Wnd🩸 |
-| Notes📜 | 📜 |  | 🧥 | AR🧥 / Armor🧥 |
-| Paths🧭 (Capability Suites) | 🧭 |  | 🛡️ | Weapon & Shield🛡️ / Shields🛡️ / Block🧱 |
-| Power Card🔥 | 🔥 |  | 🥊 | Natural Weapons🥊 / Unarmed🥊 |
-| Power🔥 | 🔥 |  | 💀 | Affliction💀 / Critical💀 / Hazard💀 |
-| Racial 🧬 | 🧬 |  | 🎓 | Skill Set🎓 / Skill🎓 |
-| Range🎯 | 🎯 |  | ⚔️ | Combat⚔️ / Dual Wield⚔️ / Weapon⚔️ |
-| Resist✨ | ✨ |  | ✨ | Magic Item✨ / Magic✨ / Save✨ / Resist✨ |
-| Rules📜 | 📜 |  | 🎒 | Kits🎒 (Hardware Suites) |
-| Save✨ | ✨ |  | 🧭 | Paths🧭 (Capability Suites) |
-| Shields🛡️ | 🛡️ |  | 🧬 | Traits🧬 |
-| Single Weapon🗡️ | 🗡️ |  |  |  |
-| Skill Set🎓 | 🎓 |  |  |  |
-| Skill🎓 | 🎓 |  |  |  |
-| Term📖 | 📖 |  |  |  |
-| Tools & Equipment🛠️ | 🛠️ |  |  |  |
-| Traits🧬 ({Trait}) | 🧬 |  |  |  |
-| Travel & Animals🐴 | 🐴 |  |  |  |
-| Tremendous🌟 | 🌟 |  |  |  |
-| Unarmed 🥊 | 🥊 |  |  |  |
-| Usage🔄 | 🔄 |  |  |  |
-| Vault📦 | 📦 |  |  |  |
-| Vit❤️ | ❤️ |  |  |  |
-| Weapon & Shield🛡️ | 🛡️ |  |  |  |
-| Weapon⚔️ | ⚔️ |  |  |  |
-| Wnd🩸 | 🩸 |  |  |  |
-| Writing & Communication✒️ | ✒️ |  |  |  |
+| 📖 Term | 🙂 Emoji |
+| :--- | :---: |
+| Abilities🧠 | 🧠 |
+| Actions🔷 | 🔷 |
+| Affliction💀 | 💀 |
+| AP🧩 | 🧩 |
+| AR🧥 | 🧥 |
+| Armor🧥 | 🧥 |
+| Art🎨 | 🎨 |
+| Artifacts🔮 (1–4 Slots) | 🔮 |
+| Atr✅ | ✅ |
+| Block🧱 | 🛡️ |
+| Camp Gear🏕️ | 🏕️ |
+| Clothing & Personal👕 | 👕 |
+| Combat ⚔️ | ⚔️ |
+| Containers🧺 | 🧺 |
+| Critical💀 | 💀 |
+| Days📅 | 📅 |
+| Dmg💥 | 💥 |
+| Dual Wield⚔️ | ⚔️ |
+| Duration⏳ | ⏳ |
+| Elements🌟 | 🌟 |
+| Emoji🙂 | 🙂 |
+| Entertainment & Instruments🎵 | 🎵 |
+| Epic💫 (4 Slots • Exotic / Artifact) | 💫 |
+| Equipment🧰 | 🧰 |
+| Exotics🧿 (1–4 Slots) | 🧿 |
+| Food & Drink🥖 | 🥖 |
+| Function Slots🧿 | 🧿 |
+| Functions🧿 (1–4 Slots) | 🧿 |
+| Gear⚙️ (0 Slots) | ⚙️ |
+| GM🔎 | 🔎 |
+| Greater🪬 (3 Slots • Exotic / Artifact) | 🪬 |
+| Hazard💀 | 💀 |
+| Junk🗑️ | 🗑️ |
+| Kits🎒 (Hardware Suites & Bundles) | 🎒 |
+| Lesser🪄 (2 Slots • Exotic / Artifact) | 🪄 |
+| Level⭐ | ⭐ |
+| Luck🍀 | 🍀 |
+| Magic Item✨ (Exotic / Artifact) | ✨ |
+| Magic✨ | ✨ |
+| Martial Arts🥋 | 🥋 |
+| Medical & Healing Supplies⚕️ | ⚕️ |
+| Might💪 | 💪 |
+| Mind👁️ | 👁️ |
+| Minor🍺 (1 Slot • Exotic / Artifact) | 🍺 |
+| Mods🔌 (Modular Attachments) | 🔌 |
+| Money💰 | 💰 |
+| Monster 🐉 | 🐉 |
+| Motion🏃 | 🏃 |
+| Moxie🫀 | 🫀 |
+| MR👣 | 👣 |
+| Natural Weapons🥊 | 🥊 |
+| Nish🚩 | 🚩 |
+| Notes📜 | 📜 |
+| Paths🧭 (Capability Suites) | 🧭 |
+| Power Card🔥 | 🔥 |
+| Power🔥 | 🔥 |
+| Racial 🧬 | 🧬 |
+| Range🎯 | 🎯 |
+| Resist✨ | ✨ |
+| Rules📜 | 📜 |
+| Save✨ | ✨ |
+| Shields🛡️ | 🛡️ |
+| Single Weapon🗡️ | 🗡️ |
+| Skill Set🎓 | 🎓 |
+| Skill🎓 | 🎓 |
+| Spec Gear🚀 (Purchasable Exotics) | 🚀 |
+| Spec Rules📜 (Specific Rule Hooks) | 📜 |
+| Term📖 | 📖 |
+| Tools & Equipment🛠️ | 🛠️ |
+| Traits🧬 ({Trait}) | 🧬 |
+| Travel & Animals🐴 | 🐴 |
+| Tremendous🌟 | 🌟 |
+| Unarmed 🥊 | 🥊 |
+| Usage🔄 | 🔄 |
+| Vault📦 | 📦 |
+| Vit❤️ | ❤️ |
+| Weapon & Shield🛡️ | 🛡️ |
+| Weapon⚔️ | ⚔️ |
+| Wnd🩸 | 🩸 |
+| Writing & Communication✒️ | ✒️ |
 
 | 🐉Monster Stats | 🙂Emoji |
 | --- | --- |
