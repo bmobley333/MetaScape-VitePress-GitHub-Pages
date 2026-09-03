@@ -24,6 +24,7 @@ Master indexed armor directory.
 | **Cyber H** | 💪 10 | 🧥10 | 👣9 | 6g |
 | **Cyber L** | 💪 6 | 🧥6 | 👣11 | 3g |
 | **Denim Battle Vest** | 💪 6 | 🧥6 | 👣11 | 1g |
+| **Destron Chassis** | 💪 10 | 10 | -1 | 150g |
 | **Dragon Scale Armor** | 💪 S | 🧥S | 👣7 | 12g |
 | **Ethereal** | 💪 6 | 🧥6 | 👣11 | 3g |
 | **Expedition Armor** | 💪 12 | 🧥12 | 👣8 | 4g |
