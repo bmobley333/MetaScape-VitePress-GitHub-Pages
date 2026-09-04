@@ -22,7 +22,7 @@ outline: 2
 
 📏 Unified – Attributes govern skills, damage, and armor; one backbone supports all mechanics. Everything connects cleanly, making the system easy to teach and expand.
 
-🧹 Clean – Clear action types (A, M, P, F) and Atr tags keep the table legible. Players should always know what they can do at a glance.
+🧹 Clean – Clear action types (AM, A, M, P, F) and Atr tags keep the table legible. Players should always know what they can do at a glance.
 
 📉 Minimal Tracking – Players should track only Vit and Luck chits whenever possible. Low overhead means more energy spent on roleplay, tactics, and fun.
 
@@ -36,7 +36,7 @@ outline: 2
 
 The complete SupaFlex game system is structured around the **Trinity of Mechanics**:
 1. **Ownership (What you Know & Possess):** Intangible character capabilities (**Paths 🧭**) are unlocked with AP; tangible hardware packages (**Kits 🎒**) are purchased with Currency (Gold / Silver) or found as treasure.
-2. **Execution (What you Do in Combat):** Governed by the 4-channel Action Economy ($1\text{ Attack [A]} + 1\text{ Move [M]} + 1\text{ Power [P]} + \text{Unlimited Free [F]}$) with **Auto-Readied Powers** on the active Power Card.
+2. **Execution (What you Do in Combat):** Governed by the 4-channel Action Economy ($1\text{ Attack [A]} + 1\text{ Move [M]} + 1\text{ Partial [P]} + \text{Unlimited Free [F]}$, with hybrid $\text{Attack \& Move [AM]}$) with **Auto-Readied Powers** on the active Power Card.
 3. **Capacity (What you Attune / Ready Simultaneously):** Exceptional equipment abilities draw from a single, shared **Function Slots Pool 🧿** (Base 4 Function Slots at Level 1).
 
 ```text
@@ -240,7 +240,7 @@ Abilities🧠 – All non-physical features of a character: Attributes✅, Skill
 
 Ability Roll – Roll #d20 + d(Atr) + Bonus versus a difficulty to determine success or failure. The number of d20 is specified by skilled/unskilled, advantage/disadvantage.
 
-Action🔷 (A, M, P, F, AM) – MetaScape uses the 4-channel AMP action system (Attack, Move, Power, plus Unlimited Free actions and hybrid AM).
+Action🔷 (AM, A, M, P, F) – Governed by the 4-channel action economy: Attack (A), Move (M), Partial (P), and unlimited Free (F) actions, plus hybrid Attack & Move (AM).
 
 Adv (Advantage) – Gain an extra d20 during an ability roll.
 
@@ -352,7 +352,7 @@ Power🔥 – An ability learned with AP🧩 that operates within the 4-channel
 
 Powers-Known Progressive Soft Tax – Escalating AP surcharge applied to total powers learned (Powers 1–6 = 1 AP base; 7–9 = 2 AP; 10–14 = 3 AP; 15+ = 4 AP).
 
-Rng🎯 (Range) – Distance categorized into 5 bands: Touch/Melee (≤1 sq), Short (≤6 sq), Medium (≤12 sq), Long (≤24 sq), Extreme (≥25 sq).
+Rng🎯 (Range) – Distance categorized into 8 tactical bands: Self, Touch, 1 (1 sq strike / adjacent melee), 2 (2 sq strike / reach melee), Short (≤ 6 sq), Medium (≤ 12 sq), Long (≤ 24 sq), Extreme (≥ 25 sq).
 
 Rnd (Round) – A single turn in combat where every participant performs their actions.
 
@@ -432,11 +432,9 @@ An Ability Roll (also called Ability Check) is:
 
 d(Atr) or d💪, d🏃, d👁️, d✨, or d🫀: Roll the base Atr die of the relevant Attribute — (e.g. a simple d4, d6, d8, d10, or d12).
 
-Bonus: From gear🧰, traits🎭, Powers🔥, or situational modifiers. Bonuses may be combined to a Max +5. However, a single bonus can be any number, even beyond +5, such as +8 but such bonuses may not be combined with any other.
+Bonus & Penalty (±10 Modifier Cap): Flat situational, gear🧰, trait🎭, power🔥, or condition modifiers combine up to a hard cap of +10 and -10. Exploding attribute dice provide the high-variance, uncapped cinematic swings, while flat static modifiers are capped at ±10 to maintain game balance and eliminate excessive math bloat. (However, a penalty to an Atr die or check may not reduce the roll below 0; e.g. a d✨–2 where Magic rolls 1 results in 0).
 
-Focus Die spends are not flat bonuses and do not touch the +5 cap. They are a separate resource-based die addition, tracked independently.
-
-Penalty :A negative such as -2. There is no max penalty and they ALWAYS combine. However, a penalty to an Atr die or to an ability check may not reduce the roll below 0. So a d✨-2, where the Magic Atr die 4 will result in a roll between 0 and 2 (e.g. d4 rolls a 4 minus 2 is 2, d4 rolls a 1 minus 2 is 0).
+Focus Die spends are resource-based die additions, not flat static modifiers, and do not touch the ±10 modifier cap.
 
 Example: A Skilled dagger Atk⚔️ with Might💪 d8 and +1 bonus:
 
@@ -1484,7 +1482,7 @@ Day Rest (sleep/new Day📅): Regain 2d4 Vit❤️, resets all #-Day abilities.
 
 Auto-Readied Power Card:
 * Auto-Ready — All learned Powers are immediately active and readied on your character's Power Card. No rigid ready-slot buckets.
-* 4-Channel Action Economy — Round Action Pool = 1 Attack (A) + 1 Move (M) + 1 Power (P) + Unlimited Free (F) actions (and hybrid AM).
+* 4-Channel Action Economy — Round Action Pool = 1 Attack (A) + 1 Move (M) + 1 Partial (P) + Unlimited Free (F) actions (and hybrid AM).
 
 Exclusive Stacking Master Rule:
 * Master Invariant — A character may benefit from only the single highest value or best effect of a given power or modifier at any time.
@@ -1501,7 +1499,7 @@ Syntax Standard:
 * Example — Discordant Chord | A | 1-Rnd → Magic✨ attack vs all Short foes for d4 Dmg.
 
 Range:
-* Guidance — Touch/Melee (≤1 sq), Short (≤6 sq), Medium (≤12 sq), Long (≤24 sq), Extreme (≥25 sq).
+* Guidance — 8 Tactical Bands: Self, Touch, 1 (adjacent), 2 (reach), Short (≤6 sq), Medium (≤12 sq), Long (≤24 sq), Extreme (≥25 sq).
 * Disadvantage Extension — GM may allow a single range extension at disadvantage.
 
 The Luck Twist (Rule of 1):
@@ -1515,7 +1513,7 @@ The Luck Twist (Rule of 1):
 SupaFlex adopts an **Auto-Readied Power Card** architecture. All learned powers are immediately active and available for combat deployment on the character's **Power Card** (the active card titled "Powers" on the character sheet).
 
 * **Auto-Ready:** Every power learned through AP advancement or Path grants is instantly accessible. There are no artificial bucket limits (Primary Arsenal, Mobility & Defense, Support/Passive).
-* **Combat Regulation:** Action economy limits ($1\text{ Attack [A]} + 1\text{ Move [M]} + 1\text{ Power [P]} + \text{Unlimited Free [F]}$) and usage frequencies ($1\text{-Rnd}, 1\text{-Enc}, 2\text{-Enc}, 3\text{-Enc}, 1\text{-⚡}, 1\text{-🍀}$) naturally govern tactical deployment during battle.
+* **Combat Regulation:** Action economy limits ($1\text{ Attack [A]} + 1\text{ Move [M]} + 1\text{ Partial [P]} + \text{Unlimited Free [F]}$, plus hybrid $\text{Attack \& Move [AM]}$) and usage frequencies ($1\text{-Rnd}, 1\text{-Enc}, 2\text{-Enc}, 3\text{-Enc}, 1\text{-⚡}, 1\text{-🍀}$) naturally govern tactical deployment during battle.
 
 #### ⚖️ The Exclusive Stacking Master Rule
 
@@ -1556,12 +1554,17 @@ All abilities have a Usage🔄, Action🔷, Duration⏳, and Range🎯. Often th
 
 How often an ability (Power🔥 or Magic Item✨) can be used:
 
-| Usage Metric | Mechanics & Refresh Trigger | Role in Pacing & Psychology |
-| --- | --- | --- |
-| 1-Rnd | Refreshes every round on Initiative (Nish🚩). | Bread-and-butter attacks, basic spells, and minor item triggers. |
-| 1-Enc / 2-Enc / 3-Enc | Refreshes immediately when combat resolves (Max 3-Enc). | Battlefield setups, stances, defensive triggers, utility resets. |
-| 1-⚡ (1-Spark / 5 Charges) | Consumes 1 full Spark (5 Charges, ⚡). Usable max 1 time per encounter (1-⚡ implies 1-Enc). | High-impact burst, combos, or area control. Earned dynamically via Charges in combat or roleplaying. |
-| 1-Luck (Chit) | Consumes 1 Luck chit (🍀). | Cinematic interrupts, heroic saves, clutch auto-defenses. |
+| Usage Option | Refresh & Mechanical Execution | Pacing & Table Utility |
+| :---: | :--- | :--- |
+| **`1`** | **1 Use Total:** Expended upon single activation; empty/consumed. | Single-use potions, scrolls, one-shot trinkets, or finite explosives. *(Hard Limit: SupaFlex will NEVER support more than 3 uses).* |
+| **`2`** | **2 Uses Total:** Expended after 2 activations; empty/consumed. | Dual-dose vials, paired charges, or double-shot disposable gear. |
+| **`3`** | **3 Uses Total:** Expended after 3 activations; empty/consumed. | Multi-charge batteries, field bandages, or 3-dose elixir vials. *(Maximum consumable capacity).* |
+| **`1-🍀`** | **1 Luck:** Consumes 1 Luck chit (🍀) from player's pool. | Clutch cinematic interrupts, heroic saves, and auto-defenses. |
+| **`1-⚡`** | **1 Spark:** Consumes 1 Spark (5 Charges, ⚡). Max 1/encounter. | High-impact tactical burst, combos, or battlefield supremacy. |
+| **`1-Enc`** | **1 per Encounter:** Refreshes when combat/encounter resolves. | Major tactical abilities, special stances, and defensive shields. |
+| **`2-Enc`** | **2 per Encounter:** Refreshes when combat/encounter resolves. | Flexible encounter abilities and tactical weapon maneuvers. |
+| **`3-Enc`** | **3 per Encounter:** Refreshes when combat/encounter resolves. | High-frequency encounter utilities and reliable tactical powers. *(HARD CAP: SupaFlex will NEVER support more than 3 uses per encounter).* |
+| **`1-Rnd`** | **1 per Round:** Refreshes every round on Initiative (Nish🚩). | Core martial strikes, baseline spells, and primary combat actions. |
 
 #### ⚡ Charge Generation & Spark Rules
 
@@ -1588,37 +1591,23 @@ How often an ability (Power🔥 or Magic Item✨) can be used:
 
 ### 🔷 Actions
 
-Mobile Striker Clause (Split-Movement Override): Standard Rule: Taking an Attack (A) action forfeits all remaining Movement Rate (MR). Specialized Move (M) or Partial (P) powers or magic items can explicitly override this rule ("You may split your movement before and after this attack"), giving clear tactical identity to mobility-based builds.
+Every combat round, each character receives an action allocation of **1 Attack (A)**, **1 Move (M)**, and **1 Partial (P)**, plus **Unlimited Free (F)** actions (within GM reason). These action channels are never interchangeable (you cannot trade an A or M for a P).
 
-What an ability costs on your turn:
+#### The 5 Strict Action Channels
 
-A (Attack⚔️): Any weapon Atk⚔️ or ability using an A actiont.
+| Action | Designation | Tactical Scope & Cost |
+| :---: | :--- | :--- |
+| **`AM`** | **Attack & Move** | Hybrid action consuming **both** your 1 Attack (A) and 1 Move (M) allocations for the round. Leaves your 1 Partial (P) and unlimited Free (F) actions available. |
+| **`A`** | **Attack** | Any weapon strike, martial attack, or offensive ability. Consumes your 1 Attack allocation for the round. *(Attack only — never referred to as a generic "Action").* |
+| **`M`** | **Move** | Any tactical movement ($\ge 1$ sq up to your full Movement Rate `MR`). Moving even 1 square consumes your 1 Move allocation. |
+| **`P`** | **Partial** | Minor, preparatory, or interacting utility tasks (drawing a blade, donning a shield, quaffing a potion, opening a door). Consumes your 1 Partial allocation. *(Partial only — never referred to as "Power").* |
+| **`F`** | **Free** | Trivial, instantaneous reactions: Defenses (Block🧱, Dodge🏃, Armor AR🧥), saves, quick verbal communication, or dropping an item. Unlimited per round (at GM discretion). |
 
-M (Move👣): Any movement ≥1sq, ability using an M action.
+#### Tactical Movement & The Mobile Striker Clause
+* **Standard Attack & Move Sequence:** If you do not make an Attack (A), you may freely pause and resume your Move (M) (move $\rightarrow$ pause $\rightarrow$ move). However, taking an Attack (A) action immediately concludes your turn's movement; any unused Movement Rate (MR) is forfeit.
+* **Mobile Striker Clause:** Specialized Move (M) or Partial (P) powers or items can explicitly grant split-movement ("You may split your movement before and after this attack"), providing tactical identity for mobility builds.
+* **Skill Action Cost:** Skills🎓 default to a Partial (P) action unless an ability or GM specifies Free (F). GM-initiated awareness or perception checks are always Free (F).
 
-P (Partial): Minor tasks (see list below), abilities using a P action.
-
-AM: Both Attack⚔️ + Move👣; you may still use your one P.
-
-F (Free): No cost; anytime. Limit: GM discretion.
-
-Action Rules:
-
-Each rnd you get: 1 A⚔️, 1 M🏃, 1 P → AMP system .
-
-Unlimited Free (F) allowed (within GM reason).
-
-Powers🔥 and Magic Items✨ specify Actions clearly. Skills🎓 default to P unless GM rules otherwise.
-
-Actions are never interchangeable (cannot trade A or M for P, etc.).
-
-Never exceed 1 A, 1 M, and 1 P per rnd.
-
-Movement rule: If you move ≥1sq, it always consumes your M action (even if MR = 10 and you only move 1sq).
-
-If you do not use A Action, you may split MR (move → pause → move).
-
-If you use A Action, any leftover MR is lost (cannot Move-Atk-Move unless a Power🔥 or Magic Item✨ allows it).
 
 Examples of Partial (P) Actions:
 
@@ -1698,13 +1687,34 @@ Design Goal: Minimal tracking. Durations should be obvious, instant, 1 rnd, or 
 
 ### 🎯 Range
 
-Powers🔥 and Magic Items✨ eliminate exact square/footage measuring in favor of 5 natural Range Bands:
+Powers🔥 and Magic Items✨ eliminate fiddly footage counting in favor of 8 standard Tactical Range Bands:
 
-* Touch / Melee: Adjacent (≤ 1 sq).
-* Short: Engagement zone / same room (≤ 6 sq).
-* Medium: Across the battlefield / line of sight (≤ 12 sq).
-* Long: Extended sight line (≤ 24 sq).
-* Extreme: Beyond standard grid boundaries (≥ 25 sq, requires Disadvantaged roll 2L20 / 1d20).
+#### The 8 Tactical Range Bands
+
+| Range Band | Distance / Tactical Footprint | Tactical Application |
+| :---: | :--- | :--- |
+| **`Self`** | Caster / user only | Personal buffs, stances, and defensive auras. |
+| **`Touch`** | Direct physical contact | Medical triage, infusions, and close-contact touch powers. |
+| **`1`** | $1\text{ square strike}$ / adjacent melee ($\le 1$ sq) | Standard melee weapon strikes, unarmed combat, and point-blank effects. |
+| **`2`** | $2\text{ square strike}$ / reach melee ($\le 2$ sq) | Reach weapons (polearms, spears, whips) and lunging martial maneuvers. |
+| **`Short`** | Engagement zone / same room ($\le 6$ sq) | Thrown weapons, short-range blasts, and close-quarters skirmishing. |
+| **`Medium`** | Across the battlefield / line of sight ($\le 12$ sq) | Standard ranged weapons (shortbows, pistols) and mid-range spells. |
+| **`Long`** | Extended sight line ($\le 24$ sq) | Military bows, rifles, and long-range tactical artillery. |
+| **`Extreme`** | Beyond standard grid boundaries ($\ge 25$ sq) | Sniper rifles, siege engines, and orbital strikes *(requires Disadvantaged roll: 2L20 / 1d20)*. |
+
+#### 📐 AoE Geometry Standards (Area of Effect)
+
+When abilities affect multiple squares or areas, they strictly enforce standard, grid-friendly geometry:
+
+| Format | Geometry & Measurement Standard | Example |
+| :---: | :--- | :--- |
+| **`AoE [#]r`** | **Radius Burst:** Centered on a designated point, affecting all squares within $[#]$ squares radius *(excluding the origin/starting square itself)*. | `AoE 2r` *(burst extending 2 squares in all directions from target origin).* |
+| **`[#]x[#]`** | **Rectangular Footprint:** Stated directly as width $\times$ length in squares *(written directly without an "AoE" prefix)*. | `3x6` *(rectangular footprint covering 3 squares wide by 6 squares long).* |
+
+> [!IMPORTANT]
+> **Strict Prohibition of Cones**
+> Traditional tabletop "cones" are strictly prohibited in SupaFlex to eliminate ambiguous grid templates, table arguments, and diagonal-edge disputes. All spread or sweeping effects are cleanly represented as rectangular footprints (e.g., a fiery breath or shotgun spray is standardized as a `3x6` rectangle).
+
 
 ## 💀 Hazards / Afflictions
 
@@ -1829,10 +1839,16 @@ SupaFlex eliminates weight math, bulk values, and movement rate penalties. A cha
 
 ### 2. Taxonomy & Function Slot Costs
 * **Mundane Gear (`⚙️` 0 Slots):** Standard utility items, weapons, armor, and shields providing narrative permissions and baseline combat stats without consuming Function Slots.
-* **Minor Functions (Minor🍺 • 1 Slot):** Localized tactical utility or single activations (e.g. *Wand of Sparks*, *Stun Baton*, *Plasma Torch*).
-* **Lesser Functions (Lesser🪄 • 2 Slots):** Substantial encounter-altering mobility, mitigation, or automated utility (e.g. *Boots of Speed*, *Personal Deflector Shield*, *AeroJet Thrusters*).
-* **Greater Functions (Greater🪬 • 3 Slots):** Multi-target, high-damage, or encounter-defining systems (e.g. *Flaming Greatsword*, *Optical Camouflage Shroud*, *Heavy Combat Drone*).
-* **Epic Functions (Epic💫 • 4 Slots):** Reality-bending prototypes and ancient wonders occupying major neural and physical bandwidth (e.g. *Orb of Storms*, *Dimensional Void Bag*, *Orbital Target Painter*).
+
+#### The 4 Function Tiers
+
+| Function Tier | Slot Cost | Tactical Capability & Complexity | Typical Item Examples |
+| :---: | :---: | :--- | :--- |
+| **`🍺 Minor`** | **1 Slot** | Localized tactical utility, single activations, and handy field conveniences. | *Wand of Sparks*, *Stun Baton*, *Plasma Torch*, *Night-Vision Lens*. |
+| **`🪄 Lesser`** | **2 Slots** | Substantial encounter-altering mobility, protection, or automated utility. | *Boots of Speed*, *Personal Deflector Shield*, *AeroJet Thrusters*, *Optical Camo*. |
+| **`🪬 Greater`** | **3 Slots** | Multi-target, high-damage, or encounter-defining combat and tactical systems. | *Flaming Greatsword*, *Heavy Combat Drone*, *Mil-Spec Exosuit*. |
+| **`💫 Epic`** | **4 Slots** | Reality-bending prototypes and ancient relics occupying major physical/neural bandwidth. | *Orb of Storms*, *Dimensional Void Bag*, *Orbital Target Painter*. |
+
 
 ### 3. Blake's Uncapped Soft-Slope Function Slots AP Schedule
 
