@@ -23775,6 +23775,23 @@
       "belongs_to": null
     },
     {
+      "id": 439,
+      "category": "CyberTech",
+      "name": "Cyber-Eye",
+      "cost": "3g 50s",
+      "created_at": "2026-09-04T00:00:10.154846+00:00",
+      "genres": [
+        "SciFi",
+        "GuildSpace"
+      ],
+      "notes": "Implanted during a very delicate operation in which one eye and eyelid are removed. In their place, a sophisticated visual lens is embedded into the eye socket. Entire implant is mentally controlled. Aperture reacts instantly to light intensity, adjusting to dim light or bright daylight. Binocular depth perception maintained. Internal transmitter to optic nerve can be shut down at will to induce blindness. Structure is airtight, functional in a vacuum, and underwater. Electrochemical charges keep lens surface clean (never blinks; immune to tear gas, smoke, extreme heat). Built-in filter screens out damaging light (can stare at a star or tech wand arc without harm). Accepts modular cyber-eye enhancements.",
+      "pic": null,
+      "is_guildspace_locked": false,
+      "discipline": "CyberTech",
+      "path": "CyberTech",
+      "belongs_to": null
+    },
+    {
       "id": 140,
       "category": "Spec Gear",
       "name": "D-Crawler",
@@ -26239,6 +26256,23 @@
       "is_guildspace_locked": false,
       "discipline": "Tech",
       "path": null,
+      "belongs_to": null
+    },
+    {
+      "id": 439,
+      "category": "CyberTech",
+      "name": "Cyber-Eye",
+      "cost": "3g 50s",
+      "created_at": "2026-09-04T00:00:10.154846+00:00",
+      "genres": [
+        "SciFi",
+        "GuildSpace"
+      ],
+      "notes": "Implanted during a very delicate operation in which one eye and eyelid are removed. In their place, a sophisticated visual lens is embedded into the eye socket. Entire implant is mentally controlled. Aperture reacts instantly to light intensity, adjusting to dim light or bright daylight. Binocular depth perception maintained. Internal transmitter to optic nerve can be shut down at will to induce blindness. Structure is airtight, functional in a vacuum, and underwater. Electrochemical charges keep lens surface clean (never blinks; immune to tear gas, smoke, extreme heat). Built-in filter screens out damaging light (can stare at a star or tech wand arc without harm). Accepts modular cyber-eye enhancements.",
+      "pic": null,
+      "is_guildspace_locked": false,
+      "discipline": "CyberTech",
+      "path": "CyberTech",
       "belongs_to": null
     },
     {
@@ -42447,6 +42481,23 @@
       "belongs_to": null
     },
     {
+      "id": 439,
+      "category": "CyberTech",
+      "name": "Cyber-Eye",
+      "cost": "3g 50s",
+      "created_at": "2026-09-04T00:00:10.154846+00:00",
+      "genres": [
+        "SciFi",
+        "GuildSpace"
+      ],
+      "notes": "Implanted during a very delicate operation in which one eye and eyelid are removed. In their place, a sophisticated visual lens is embedded into the eye socket. Entire implant is mentally controlled. Aperture reacts instantly to light intensity, adjusting to dim light or bright daylight. Binocular depth perception maintained. Internal transmitter to optic nerve can be shut down at will to induce blindness. Structure is airtight, functional in a vacuum, and underwater. Electrochemical charges keep lens surface clean (never blinks; immune to tear gas, smoke, extreme heat). Built-in filter screens out damaging light (can stare at a star or tech wand arc without harm). Accepts modular cyber-eye enhancements.",
+      "pic": null,
+      "is_guildspace_locked": false,
+      "discipline": "CyberTech",
+      "path": "CyberTech",
+      "belongs_to": null
+    },
+    {
       "id": 437,
       "category": "Medical",
       "name": "Laser Scalpel",
@@ -49696,6 +49747,23 @@
       "is_guildspace_locked": false,
       "discipline": "Sorce",
       "path": "Sorce Relics",
+      "belongs_to": null
+    },
+    {
+      "id": 439,
+      "category": "CyberTech",
+      "name": "Cyber-Eye",
+      "cost": "3g 50s",
+      "created_at": "2026-09-04T00:00:10.154846+00:00",
+      "genres": [
+        "SciFi",
+        "GuildSpace"
+      ],
+      "notes": "Implanted during a very delicate operation in which one eye and eyelid are removed. In their place, a sophisticated visual lens is embedded into the eye socket. Entire implant is mentally controlled. Aperture reacts instantly to light intensity, adjusting to dim light or bright daylight. Binocular depth perception maintained. Internal transmitter to optic nerve can be shut down at will to induce blindness. Structure is airtight, functional in a vacuum, and underwater. Electrochemical charges keep lens surface clean (never blinks; immune to tear gas, smoke, extreme heat). Built-in filter screens out damaging light (can stare at a star or tech wand arc without harm). Accepts modular cyber-eye enhancements.",
+      "pic": null,
+      "is_guildspace_locked": false,
+      "discipline": "CyberTech",
+      "path": "CyberTech",
       "belongs_to": null
     },
     {

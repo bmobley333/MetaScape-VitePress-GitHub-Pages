@@ -273,6 +273,7 @@ Master indexed equipment directory.
 | Artifact | **Zircon Lens** | Artifact |
 | Artifact | **Zither Pick** | Artifact |
 | Artifact | **Zoom Charm** | Artifact |
+| CyberTech | **Cyber-Eye** | 3g 50s |
 | Medical | **Laser Scalpel** | 45s |
 | Medical | **Poison Antidote (Common)** | 35s |
 | Medical | **Power Syringe** | 30s |
