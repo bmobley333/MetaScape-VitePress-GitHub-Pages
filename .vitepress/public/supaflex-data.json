@@ -388,7 +388,7 @@
       "genres": [
         "SciFi"
       ],
-      "notes": "An engineer tool kit comes with all the essential tools an engineer would need to repair anything from a ship to an ATM to a weapon. The kit is contained in a 1’x1' tech case which can be security sealed for protection (Dif 20). A typical engineer’s kit contains a tech wand, a set of wirelocks, a laser cutter, energy flow monitor, and miscellaneous supplies. All devices in the kit have a 10L rating.\n-- {1’x1' tech case, tech wand, wirelocks, laser cutter, energy flow monitor, supplies} all are included as Free"
+      "notes": "A comprehensive field kit containing specialized tools required for repairing starships, automated tactical mechs (ATMs), hardware, and weapons. Housed in a durable 1'x1' tech case that can be security-sealed (Dif 20). Contains a tech wand, wirelocks, laser cutter, energy flow monitor, and diagnostic supplies (all devices have rating 10).\n-- {1'x1' tech case, tech wand, wirelocks, laser cutter, energy flow monitor, supplies} all are included as Free."
     },
     {
       "id": "21aa6de7-6754-4746-88cf-456ee0d80a65",
@@ -438,7 +438,7 @@
       "genres": [
         "SciFi"
       ],
-      "notes": "An engineer tool kit comes with all the essential tools an engineer would need to repair anything from a ship to an ATM to a weapon. The kit is contained in a 1’x1' tech case which can be security sealed for protection (Dif 20). A typical engineer’s kit contains a tech wand, a set of wirelocks, a laser cutter, energy flow monitor, and miscellaneous supplies. All devices in the kit have a 10L rating.\n-- {1’x1' tech case, tech wand, wirelocks, laser cutter, energy flow monitor, supplies} all are included as Free"
+      "notes": "A comprehensive field kit containing specialized tools required for repairing starships, automated tactical mechs (ATMs), hardware, and weapons. Housed in a durable 1'x1' tech case that can be security-sealed (Dif 20). Contains a tech wand, wirelocks, laser cutter, energy flow monitor, and diagnostic supplies (all devices have rating 10).\n-- {1'x1' tech case, tech wand, wirelocks, laser cutter, energy flow monitor, supplies} all are included as Free."
     },
     {
       "id": "21aa6de7-6754-4746-88cf-456ee0d80a65",
@@ -507,7 +507,7 @@
       "name": "Adaptive Camouflage",
       "usage": "2-Enc",
       "action": "F",
-      "effect": "If perfectly still: undetectable vs full-spectrum vision. If moving: Camo Stealth(🏃) at MR1-3, Camo Stealth(🏃-1) at MR5-6, Camo Stealth(🏃-1) at MR7-9; fails at MR 10+.",
+      "effect": "Stationary: undetectable by full-spectrum vision. Moving: Stealth 🏃 at MR 1-3; Stealth 🏃-1 at MR 4-9; fails at MR 10+.",
       "created_at": "2026-08-13T21:26:29.251053+00:00",
       "genres": [
         "Medieval",
@@ -633,7 +633,7 @@
       "name": "Afterimage Step",
       "usage": "1-⚡",
       "action": "P",
-      "effect": "Use before Def roll; 1 melee Atk vs you auto-misses.",
+      "effect": "Before Def roll: 1 melee Atk targeting you auto-misses.",
       "created_at": "2026-08-13T21:26:29.251053+00:00",
       "genres": [
         "Medieval",
@@ -651,7 +651,7 @@
       "name": "Ale Fortitude",
       "usage": "1-⚡",
       "action": "P",
-      "effect": "Resist✨ with Advantage vs poison/fearfor Encounter.",
+      "effect": "Adv(Resist✨)^poison/fear for Encounter.",
       "created_at": "2026-08-13T21:26:29.251053+00:00",
       "genres": [
         "Medieval",
@@ -1029,7 +1029,7 @@
       "name": "Aura of Balance (Major)",
       "usage": "1-⚡",
       "action": "A",
-      "effect": "Allies in 2sq heal d✨ each; you suffer -1 to all Dmg rolls for 1 rnd.",
+      "effect": "AoE 2r; allies heal d✨ each; you suffer -1 to all Dmg rolls for 1 Rnd.",
       "created_at": "2026-08-13T21:26:29.251053+00:00",
       "genres": [
         "Medieval",
@@ -1155,7 +1155,7 @@
       "name": "Balance of Steel",
       "usage": "1-Enc",
       "action": "P",
-      "effect": "Nish🚩+2 for 1 rnd.",
+      "effect": "🚩+2 for 1 Rnd.",
       "created_at": "2026-08-13T21:26:29.251053+00:00",
       "genres": [
         "Medieval",
@@ -1173,7 +1173,7 @@
       "name": "Balance Ward",
       "usage": "1-Rnd",
       "action": "P",
-      "effect": "Allies nearby gain AR+1 for 1 rnd.",
+      "effect": "Nearby allies gain AR+1 for 1 Rnd.",
       "created_at": "2026-08-13T21:26:29.251053+00:00",
       "genres": [
         "Medieval",
@@ -1263,7 +1263,7 @@
       "name": "Battle Trance",
       "usage": "1-Rnd",
       "action": "P",
-      "effect": "All Might💪 rolls +2 for 1 rnd.",
+      "effect": "💪+2 for 1 Rnd.",
       "created_at": "2026-08-13T21:26:29.251053+00:00",
       "genres": [
         "Medieval",
@@ -1388,7 +1388,7 @@
       "name": "Blackaxe Formation",
       "usage": "1-Rnd",
       "action": "P",
-      "effect": "AR+1 for 1 rnd.",
+      "effect": "AR+1 for 1 Rnd.",
       "created_at": "2026-08-13T21:26:29.251053+00:00",
       "genres": [
         "Medieval",
@@ -1568,7 +1568,7 @@
       "name": "Blinding Wings",
       "usage": "1-Enc",
       "action": "M",
-      "effect": "Create bright light (3sq); foes in light Resist✨ or Blind 1 rnd.",
+      "effect": "AoE 3r; bright light; ✨^✨ or foes are Blinded.",
       "created_at": "2026-08-13T21:26:29.251053+00:00",
       "genres": [
         "Medieval",
@@ -1712,7 +1712,7 @@
       "name": "Blood of Balance",
       "usage": "1-Rnd",
       "action": "F",
-      "effect": "When you Heal an ally; Def+1 for 1 rnd.",
+      "effect": "When you Heal an ally: Def+1 for 1 Rnd.",
       "created_at": "2026-08-13T21:26:29.251053+00:00",
       "genres": [
         "Medieval",
@@ -1856,7 +1856,7 @@
       "name": "Boomerang Block🛡️",
       "usage": "1-⚡",
       "action": "F",
-      "effect": "Hurl shield to intercept Atk vs ally; roll Dod/AR normally, success = total Block (no Dmg).",
+      "effect": "Hurl shield to intercept Atk targeting ally: roll Def normally; on success, total Block (no Dmg).",
       "created_at": "2026-08-13T21:26:29.251053+00:00",
       "genres": [
         "Medieval",
@@ -1874,7 +1874,7 @@
       "name": "Brace",
       "usage": "2-Enc",
       "action": "P",
-      "effect": "Platn shield; AR+1 for 1 rnd.",
+      "effect": "Plant shield: AR+1 for 1 Rnd.",
       "created_at": "2026-08-13T21:26:29.251053+00:00",
       "genres": [
         "Medieval",
@@ -1892,7 +1892,7 @@
       "name": "Breath Control",
       "usage": "1-Enc",
       "action": "P",
-      "effect": "For 1 rnd, Resist✨ vs Afflictions at Advantage.",
+      "effect": "Adv(Resist✨)^Afflictions for 1 Rnd.",
       "created_at": "2026-08-13T21:26:29.251053+00:00",
       "genres": [
         "Medieval",
@@ -1910,7 +1910,7 @@
       "name": "Breath of Stillness",
       "usage": "1-Enc",
       "action": "P",
-      "effect": "Ends bleeding and Saves✨+1 to target for 1 rnd.",
+      "effect": "End bleeding; target gains Resist✨+1 for 1 Rnd.",
       "created_at": "2026-08-13T21:26:29.251053+00:00",
       "genres": [
         "Medieval",
@@ -1946,7 +1946,7 @@
       "name": "Bronze Resolve",
       "usage": "1-Enc",
       "action": "P",
-      "effect": "Resist✨+2 for 1 rnd.",
+      "effect": "Resist✨+2 for 1 Rnd.",
       "created_at": "2026-08-13T21:26:29.251053+00:00",
       "genres": [
         "Medieval",
@@ -2054,7 +2054,7 @@
       "name": "Chain Strikes",
       "usage": "1-⚡",
       "action": "A",
-      "effect": "Make 3 Atk & Dmg vs same foe.",
+      "effect": "Make 3 Atk & Dmg targeting same foe.",
       "created_at": "2026-08-13T21:26:29.343213+00:00",
       "genres": [
         "Medieval",
@@ -2180,7 +2180,7 @@
       "name": "Circus Survivor",
       "usage": "1-⚡",
       "action": "F",
-      "effect": "When reduced to negavie Vit; Resist✨ with Magic✨ vs 10+(negative wounds) to remain at 1 HP.",
+      "effect": "When reduced to negative Vit: Resist✨^10+(negative wounds) to remain at 1 HP.",
       "created_at": "2026-08-13T21:26:29.343213+00:00",
       "genres": [
         "Medieval",
@@ -2252,7 +2252,7 @@
       "name": "Cloak of Darkness",
       "usage": "1-Enc",
       "action": "P",
-      "effect": "Become Invisible for 1 rnd.",
+      "effect": "Become Invisible for 1 Rnd.",
       "created_at": "2026-08-13T21:26:29.343213+00:00",
       "genres": [
         "Medieval",
@@ -2270,7 +2270,7 @@
       "name": "Clockwork Ally",
       "usage": "1-Enc",
       "action": "A",
-      "effect": "Summon small construct Golem; All Atr are at Mind👁️, for 1 rnd.",
+      "effect": "Summon small construct Golem for 1 Rnd; all attributes equal PC's 👁️.",
       "created_at": "2026-08-13T21:26:29.343213+00:00",
       "genres": [
         "Medieval",
@@ -2288,7 +2288,7 @@
       "name": "Cobra Stance",
       "usage": "1-Rnd",
       "action": "P",
-      "effect": "Dodge+2 for 1 rnd; req unarmored or very light armor.",
+      "effect": "Dod+2 for 1 Rnd; req unarmored or very light armor.",
       "created_at": "2026-08-13T21:26:29.343213+00:00",
       "genres": [
         "Medieval",
@@ -2378,7 +2378,7 @@
       "name": "Comforting Aura",
       "usage": "1-Enc",
       "action": "P",
-      "effect": "Allies nearby Resist✨+1 vs fearfor Encounter.",
+      "effect": "Nearby allies gain Resist✨+5^fear for Encounter.",
       "created_at": "2026-08-13T21:26:29.343213+00:00",
       "genres": [
         "Medieval",
@@ -2450,7 +2450,7 @@
       "name": "Counter Guard",
       "usage": "2-Enc",
       "action": "F",
-      "effect": "If foe misses you; Atk+2 vs that target on your next Atk.",
+      "effect": "If foe misses you: Atk+2 targeting that foe on your next Atk.",
       "created_at": "2026-08-13T21:26:29.343213+00:00",
       "genres": [
         "Medieval",
@@ -2486,7 +2486,7 @@
       "name": "Cover Ally",
       "usage": "2-Enc",
       "action": "P",
-      "effect": "Adjacent Allies gain Dod+2 for 1 rnd.",
+      "effect": "Adjacent allies gain Dod+2 for 1 Rnd.",
       "created_at": "2026-08-13T21:26:29.343213+00:00",
       "genres": [
         "Medieval",
@@ -2504,7 +2504,7 @@
       "name": "Crane Stance",
       "usage": "1-Rnd",
       "action": "P",
-      "effect": "Dod+2 for 1 rnd; req unarmored or very light armor.",
+      "effect": "Dod+2 for 1 Rnd; req unarmored or very light armor.",
       "created_at": "2026-08-13T21:26:29.343213+00:00",
       "genres": [
         "Medieval",
@@ -2594,7 +2594,7 @@
       "name": "Crystal Shards",
       "usage": "1-⚡",
       "action": "A",
-      "effect": "Small cone AoE: Atk/Dmg ✨ OR 2) Single target in Rng Medium: Atk/Dmg ✨+2.",
+      "effect": "2x3; Atk/Dmg ✨ OR Rng Medium; single target: Atk/Dmg ✨+2.",
       "created_at": "2026-08-13T21:26:29.343213+00:00",
       "genres": [
         "Medieval",
@@ -2684,7 +2684,7 @@
       "name": "Curseflare",
       "usage": "1-Enc",
       "action": "P",
-      "effect": "All foes in 2sq Mind👁️ or Weakened 1 rnd.",
+      "effect": "AoE 2r; 👁️^👁️ or foes are Weakened.",
       "created_at": "2026-08-13T21:26:29.343213+00:00",
       "genres": [
         "Medieval",
@@ -2702,7 +2702,7 @@
       "name": "Cutting Words",
       "usage": "1-Enc",
       "action": "P",
-      "effect": "Next roll vs target Atk+2.",
+      "effect": "Next Atk targeting foe gains +2.",
       "created_at": "2026-08-13T21:26:29.343213+00:00",
       "genres": [
         "Medieval",
@@ -2802,7 +2802,7 @@
       "name": "Dance of Light & Shadow",
       "usage": "1-Enc",
       "action": "AM",
-      "effect": "Move double MR👣; Mind👁️ or nearby foes Weakened 1 rnd.",
+      "effect": "Move double MR; 👁️^👁️ or nearby foes are Weakened.",
       "created_at": "2026-08-13T21:26:29.343213+00:00",
       "genres": [
         "Medieval",
@@ -2946,7 +2946,7 @@
       "name": "Defensive Flourish",
       "usage": "1-Enc",
       "action": "P",
-      "effect": "Dod+2 for 1 rnd.",
+      "effect": "Dod+2 for 1 Rnd.",
       "created_at": "2026-08-13T21:26:29.343213+00:00",
       "genres": [
         "Medieval",
@@ -2964,7 +2964,7 @@
       "name": "Defensive Stance",
       "usage": "1-Enc",
       "action": "P",
-      "effect": "Dod+2 for 1 rnd.",
+      "effect": "Dod+2 for 1 Rnd.",
       "created_at": "2026-08-13T21:26:29.343213+00:00",
       "genres": [
         "Medieval",
@@ -2982,7 +2982,7 @@
       "name": "Defiance Stance",
       "usage": "1-⚡",
       "action": "A",
-      "effect": "For 1 rnd; AR+2, Dmg+2.",
+      "effect": "AR+2, Dmg+2 for 1 Rnd.",
       "created_at": "2026-08-13T21:26:29.343213+00:00",
       "genres": [
         "Medieval",
@@ -3000,7 +3000,7 @@
       "name": "Deflect Missiles",
       "usage": "1-Rnd",
       "action": "P",
-      "effect": "AR+2 vs Missiles.",
+      "effect": "AR+2 vs missiles.",
       "created_at": "2026-08-13T21:26:29.343213+00:00",
       "genres": [
         "Medieval",
@@ -3396,7 +3396,7 @@
       "name": "Dusk Howl",
       "usage": "1-Enc",
       "action": "A",
-      "effect": "Foes in 2sq Mind👁️ or flee 1 rnd.",
+      "effect": "AoE 2r; 👁️^👁️ or foes flee.",
       "created_at": "2026-08-13T21:26:29.343213+00:00",
       "genres": [
         "Medieval",
@@ -3414,7 +3414,7 @@
       "name": "Earth Infused",
       "usage": "2-Enc",
       "action": "F",
-      "effect": "Vs elemental or metal (fire/plasma, cold, electrical, metal, earth, stone), AR has Adv.",
+      "effect": "Adv(Def)^(fire/plasma, cold, electrical, metal, earth, stone).",
       "created_at": "2026-08-13T21:26:29.343213+00:00",
       "genres": [
         "Medieval",
@@ -3486,7 +3486,7 @@
       "name": "Echo Slash",
       "usage": "2-Enc",
       "action": "A",
-      "effect": "Line 3sq; make 1 Atk vs each foe in line; on hit; Dmg at –1d (no uplift).",
+      "effect": "1x3; make 1 Atk targeting each foe in line; on hit: Dmg -1.",
       "created_at": "2026-08-13T21:26:29.343213+00:00",
       "genres": [
         "Medieval",
@@ -3648,7 +3648,7 @@
       "name": "Elemental Armor",
       "usage": "1-⚡",
       "action": "P",
-      "effect": "AR+2 (or +2 Save✨) vs a chosen element for Encounter.",
+      "effect": "AR+2 OR Resist✨+2^chosen element for Encounter.",
       "created_at": "2026-08-13T21:26:29.436163+00:00",
       "genres": [
         "Medieval",
@@ -3702,7 +3702,7 @@
       "name": "Elven Resilience",
       "usage": "1-Rnd",
       "action": "P",
-      "effect": "Immune to sleep/charm and most Mind👁️ Saves✨ for 1 rnd.",
+      "effect": "Immune to sleep/charm and gain Resist✨^mental effects for 1 Rnd.",
       "created_at": "2026-08-13T21:26:29.436163+00:00",
       "genres": [
         "Medieval",
@@ -3879,7 +3879,7 @@
       "name": "Fade Into Dust",
       "usage": "1-Enc",
       "action": "A",
-      "effect": "Invisible for 1 rnd.",
+      "effect": "Become Invisible for 1 Rnd.",
       "created_at": "2026-08-13T21:26:29.436163+00:00",
       "genres": [
         "Medieval",
@@ -3951,7 +3951,7 @@
       "name": "Fey Glamour",
       "usage": "1-⚡",
       "action": "P",
-      "effect": "Target Resist✨ or Charmed for 1 rnd.",
+      "effect": "✨^✨ or target is Charmed.",
       "created_at": "2026-08-13T21:26:29.436163+00:00",
       "genres": [
         "Medieval",
@@ -4005,7 +4005,7 @@
       "name": "Fey Resilience",
       "usage": "1-⚡",
       "action": "P",
-      "effect": "Resist✨ with Advantage vs charm/fearfor Encounter.",
+      "effect": "Adv(Resist✨)^charm/fear for Encounter.",
       "created_at": "2026-08-13T21:26:29.436163+00:00",
       "genres": [
         "Medieval",
@@ -4077,7 +4077,7 @@
       "name": "Filch",
       "usage": "1-Enc",
       "action": "P",
-      "effect": "Motion🏃to steal 1 small item unnoticed.",
+      "effect": "🏃 check to steal 1 small item unnoticed.",
       "created_at": "2026-08-13T21:26:29.436163+00:00",
       "genres": [
         "Medieval",
@@ -4113,7 +4113,7 @@
       "name": "Fire Breath",
       "usage": "2-Enc",
       "action": "A",
-      "effect": "Magic✨ Atk cone d✨ fire Dmg.",
+      "effect": "2x4; ✨ Atk; d✨ fire Dmg.",
       "created_at": "2026-08-13T21:26:29.436163+00:00",
       "genres": [
         "Medieval",
@@ -4328,7 +4328,7 @@
       "name": "Flutter Dance",
       "usage": "1-Enc",
       "action": "M",
-      "effect": "Move MR👣; foes’ Atk vs you Dis this rnd.",
+      "effect": "Move MR; Atks targeting you have Disadvantage this Rnd.",
       "created_at": "2026-08-13T21:26:29.436163+00:00",
       "genres": [
         "Medieval",
@@ -4508,7 +4508,7 @@
       "name": "Frost Nova",
       "usage": "1-Enc",
       "action": "A",
-      "effect": "Magic✨ Atk & cold Dmg to all adjacent foes ; foes Weakened 1 rnd.",
+      "effect": "AoE 1r; Atk/Dmg ✨ cold; on hit, ✨^✨ or foes are Weakened.",
       "created_at": "2026-08-13T21:26:29.436163+00:00",
       "genres": [
         "Medieval",
@@ -4670,7 +4670,7 @@
       "name": "Glamour Assault",
       "usage": "1-Enc",
       "action": "M",
-      "effect": "Cast glamour; Mind👁️ or target is Stunned 1 rnd.",
+      "effect": "Cast glamour: 👁️^👁️ or target is Stunned.",
       "created_at": "2026-08-13T21:26:29.436163+00:00",
       "genres": [
         "Medieval",
@@ -4742,7 +4742,7 @@
       "name": "Glitterdust",
       "usage": "1-Enc",
       "action": "P",
-      "effect": "Emit light motes in 2sq; foes Resist✨ or Blind 1 rnd.",
+      "effect": "AoE 2r; emit light motes: ✨^✨ or foes are Blinded.",
       "created_at": "2026-08-13T21:26:29.436163+00:00",
       "genres": [
         "Medieval",
@@ -4957,7 +4957,7 @@
       "name": "Halfling Courage",
       "usage": "1-Enc",
       "action": "P",
-      "effect": "Resist✨ with Advantage vs fear/charm.",
+      "effect": "Adv(Resist✨)^fear/charm for Encounter.",
       "created_at": "2026-08-13T21:26:29.436163+00:00",
       "genres": [
         "Medieval",
@@ -4993,7 +4993,7 @@
       "name": "Hamstring Strike",
       "usage": "1-Enc",
       "action": "A",
-      "effect": "On hit; normal Dmg and Motion🏃 or target MR👣 halved 1 rnd.",
+      "effect": "On hit: normal Dmg and 🏃^🏃 or target MR is halved for 1 Rnd.",
       "created_at": "2026-08-13T21:26:29.436163+00:00",
       "genres": [
         "Medieval",
@@ -5420,7 +5420,7 @@
       "name": "Hypnotic Performance",
       "usage": "1-Enc",
       "action": "A",
-      "effect": "Mind👁️ or target is Stunned 1 rnd.",
+      "effect": "👁️^👁️ or target is Stunned.",
       "created_at": "2026-08-13T21:26:29.524874+00:00",
       "genres": [
         "Medieval",
@@ -5438,7 +5438,7 @@
       "name": "Ice Shield",
       "usage": "1-Rnd",
       "action": "P",
-      "effect": "AR+2 for 1 rnd.",
+      "effect": "AR+2 for 1 Rnd.",
       "created_at": "2026-08-13T21:26:29.524874+00:00",
       "genres": [
         "Medieval",
@@ -5510,7 +5510,7 @@
       "name": "Immortal Stance",
       "usage": "1-⚡",
       "action": "P",
-      "effect": "Bond to surface; +=(✨) to Str vs move, +AR and resist explosion/heat/cold. Mind/poison not resisted.",
+      "effect": "Bond to surface: gain ✨+10^forced movement, AR+2, and Resist✨^explosions, heat, and cold for Encounter.",
       "created_at": "2026-08-13T21:26:29.524874+00:00",
       "genres": [
         "Medieval",
@@ -5705,7 +5705,7 @@
       "name": "Iron Body Meditation",
       "usage": "1-Enc",
       "action": "P",
-      "effect": "Ignore Wnd penalties (Unconscious & Death Check) for 1 rnd.",
+      "effect": "Ignore wound penalties (including Unconscious and Death Check) for 1 Rnd.",
       "created_at": "2026-08-13T21:26:29.524874+00:00",
       "genres": [
         "Medieval",
@@ -5723,7 +5723,7 @@
       "name": "Iron Bulwark",
       "usage": "1-Enc",
       "action": "P",
-      "effect": "Allies directly behind you gain Dod+2 for 1 rnd.",
+      "effect": "Allies directly behind you gain Dod+2 for 1 Rnd.",
       "created_at": "2026-08-13T21:26:29.524874+00:00",
       "genres": [
         "Medieval",
@@ -5759,7 +5759,7 @@
       "name": "Iron Fist",
       "usage": "1-Rnd",
       "action": "P",
-      "effect": "All Brawl; Dmg+1d.",
+      "effect": "All Brawl attacks: Dmg+2.",
       "created_at": "2026-08-13T21:26:29.524874+00:00",
       "genres": [
         "Medieval",
@@ -5795,7 +5795,7 @@
       "name": "Iron Hide",
       "usage": "1-Rnd",
       "action": "P",
-      "effect": "Skin hardens; AR+2 for 1 rnd.",
+      "effect": "Skin hardens: AR+2 for 1 Rnd.",
       "created_at": "2026-08-13T21:26:29.524874+00:00",
       "genres": [
         "Medieval",
@@ -5975,7 +5975,7 @@
       "name": "Ki Surge",
       "usage": "2-Enc",
       "action": "F",
-      "effect": "For 1 rnd, choose: Atk+2, Dod+2, or Resist✨+2.",
+      "effect": "Choose one for 1 Rnd: Atk+2, Dod+2, or Resist✨+2.",
       "created_at": "2026-08-13T21:26:29.524874+00:00",
       "genres": [
         "Medieval",
@@ -6119,7 +6119,7 @@
       "name": "Lava Pool",
       "usage": "1-⚡",
       "action": "A",
-      "effect": "Create hazard; foes entering sq Magic✨ Save or d✨ fire Dmg.",
+      "effect": "Create hazard in 1sq: ✨^✨ or foes entering suffer d✨ burn hazard.",
       "created_at": "2026-08-13T21:26:29.524874+00:00",
       "genres": [
         "Medieval",
@@ -6137,7 +6137,7 @@
       "name": "Leap of the Colossus",
       "usage": "1-Enc",
       "action": "P",
-      "effect": "Jump up to 5sq; using Might💪Brawl as \"Landing\" Atk & Dmg.",
+      "effect": "Jump up to 5sq: making Brawl Atk/Dmg to target.",
       "created_at": "2026-08-13T21:26:29.524874+00:00",
       "genres": [
         "Medieval",
@@ -6299,7 +6299,7 @@
       "name": "Linebreaker",
       "usage": "1-Enc",
       "action": "M",
-      "effect": "Move MR👣 through foes; each must Block (Might💪) or fall Prone.",
+      "effect": "Move up to MR through foes: 💪^💪 or foes in path fall Prone.",
       "created_at": "2026-08-13T21:26:29.524874+00:00",
       "genres": [
         "Medieval",
@@ -6425,7 +6425,7 @@
       "name": "Lucky Jinx",
       "usage": "1-Enc",
       "action": "P",
-      "effect": "Next roll vs Target has Advantage.",
+      "effect": "Next roll targeting foe has Advantage.",
       "created_at": "2026-08-13T21:26:29.524874+00:00",
       "genres": [
         "Medieval",
@@ -6515,7 +6515,7 @@
       "name": "MA Flurry",
       "usage": "1-Enc",
       "action": "A",
-      "effect": "Make 4 Brawl Atks vs any combination of adjacent targets all at normal Brawl Dmg.",
+      "effect": "Make 4 Brawl Atks targeting any combination of adjacent foes at normal Brawl Dmg each.",
       "created_at": "2026-08-13T21:26:29.524874+00:00",
       "genres": [
         "Medieval",
@@ -6551,7 +6551,7 @@
       "name": "Magnetic Burst",
       "usage": "1-Enc",
       "action": "M",
-      "effect": "Magic✨ in 2sqR of PC; foes wearing metal roll Resist✨ or Def-2 for 1 rnd.",
+      "effect": "AoE 2r; ✨^✨ or foes wearing metal suffer Def-2 for 1 Rnd.",
       "created_at": "2026-08-13T21:26:29.524874+00:00",
       "genres": [
         "Medieval",
@@ -6623,7 +6623,7 @@
       "name": "Magnetic Repulsor",
       "usage": "2-Enc",
       "action": "P",
-      "effect": "Repel Projectile(✨)^Atk vs ferrous projectile; ferrous melee Wnds/2.",
+      "effect": "✨^Atk against incoming ferrous projectile to deflect; halve wounds from ferrous melee attacks.",
       "created_at": "2026-08-13T21:26:29.621594+00:00",
       "genres": [
         "Medieval",
@@ -6641,7 +6641,7 @@
       "name": "Magnetic Slide",
       "usage": "1-Rnd",
       "action": "AM",
-      "effect": "Mind👁️slide up to 6 sq 1 foes held iron item or iron wearing foe.",
+      "effect": "👁️^💪 or slide 1 iron-bearing foe (or held iron item) up to 6sq.",
       "created_at": "2026-08-13T21:26:29.621594+00:00",
       "genres": [
         "Medieval",
@@ -6659,7 +6659,7 @@
       "name": "Magnetized Reflex",
       "usage": "1-⚡",
       "action": "F",
-      "effect": "Dodge🏃 vs ranged metal weapons with Advantage for 1 rnd.",
+      "effect": "Adv(Dod)^ranged metal attacks for 1 Rnd.",
       "created_at": "2026-08-13T21:26:29.621594+00:00",
       "genres": [
         "Medieval",
@@ -6694,7 +6694,7 @@
       "name": "Mark Target",
       "usage": "1-Enc",
       "action": "F",
-      "effect": "Choose 1 visible foe; your next Atk vs that foe this Enc gains Advantage.",
+      "effect": "Choose 1 visible foe: Adv(Atk)^Foe for Encounter.",
       "created_at": "2026-08-13T21:26:29.621594+00:00",
       "genres": [
         "Medieval",
@@ -6766,7 +6766,7 @@
       "name": "Measured Guard",
       "usage": "1-Enc",
       "action": "P",
-      "effect": "Block+1d this rnd.",
+      "effect": "Blk+1 this Rnd.",
       "created_at": "2026-08-13T21:26:29.621594+00:00",
       "genres": [
         "Medieval",
@@ -6874,7 +6874,7 @@
       "name": "Mind Lance",
       "usage": "1-⚡",
       "action": "A",
-      "effect": "6sq rng; Save👁️ or d👁️ Wnds and Save👁️ or target is Weakened for 1 rnd.",
+      "effect": "Rng Short; 👁️^👁️ or target suffers d👁️ Wnds and is Weakened.",
       "created_at": "2026-08-13T21:26:29.621594+00:00",
       "genres": [
         "Medieval",
@@ -6928,7 +6928,7 @@
       "name": "Mind Twist",
       "usage": "1-Enc",
       "action": "A",
-      "effect": "Mind👁️ or target attacks ally this rnd.",
+      "effect": "👁️^👁️ or target attacks an ally this Rnd.",
       "created_at": "2026-08-13T21:26:29.621594+00:00",
       "genres": [
         "Medieval",
@@ -7000,7 +7000,7 @@
       "name": "Mirror Guard",
       "usage": "1-Rnd",
       "action": "P",
-      "effect": "Block with both weapons; Dod+2 for 1 rnd.",
+      "effect": "Block with both weapons: Dod+2 for 1 Rnd.",
       "created_at": "2026-08-13T21:26:29.621594+00:00",
       "genres": [
         "Medieval",
@@ -7108,7 +7108,7 @@
       "name": "Monkey Stance",
       "usage": "1-Rnd",
       "action": "P",
-      "effect": "AR+2 vs ranged Dmg for 1 rnd; req unarmored or very light armor.",
+      "effect": "AR+2 vs ranged attacks for 1 Rnd; req unarmored or very light armor.",
       "created_at": "2026-08-13T21:26:29.621594+00:00",
       "genres": [
         "Medieval",
@@ -7270,7 +7270,7 @@
       "name": "Nano-Scope",
       "usage": "1-⚡",
       "action": "M",
-      "effect": "Scope HUD mapping; Rng Long; 👁️+2 vs hidden.",
+      "effect": "Scope HUD mapping: Rng Long; 👁️+2^hidden.",
       "created_at": "2026-08-13T21:26:29.621594+00:00",
       "genres": [
         "SciFi"
@@ -7340,7 +7340,7 @@
       "name": "Necrosis",
       "usage": "1-Rnd",
       "action": "P",
-      "effect": "Each wounding hit with the same weapon vs the same taget causes +5 Wnds cummulative unless Necrosis(✨+2)^🫀.",
+      "effect": "✨+2^🫀 or each successive wounding hit targeting same foe causes +5 cumulative Wnds.",
       "created_at": "2026-08-13T21:26:29.621594+00:00",
       "genres": [
         "Medieval",
@@ -7376,7 +7376,7 @@
       "name": "Necrovision",
       "usage": "1-⚡",
       "action": "F",
-      "effect": "Perceive (see) life/death (in monochrome) at Necrovision(✨). Vs sealed or inanimate is Dis.",
+      "effect": "Perceive life and death in monochrome: ✨ check; Disadvantage against sealed or inanimate barriers.",
       "created_at": "2026-08-13T21:26:29.621594+00:00",
       "genres": [
         "Medieval",
@@ -7538,7 +7538,7 @@
       "name": "Obsidian Skin",
       "usage": "1-Enc",
       "action": "P",
-      "effect": "AR+1 for 1 rnd.",
+      "effect": "AR+1 for 1 Rnd.",
       "created_at": "2026-08-13T21:26:29.621594+00:00",
       "genres": [
         "Medieval",
@@ -7754,7 +7754,7 @@
       "name": "Panda Stance",
       "usage": "1-Rnd",
       "action": "P",
-      "effect": "Immune to Fear/Charm for 1 rnd; req unarmored or very light armor.",
+      "effect": "Immune to fear and charm for 1 Rnd; req unarmored or very light armor.",
       "created_at": "2026-08-13T21:26:29.621594+00:00",
       "genres": [
         "Medieval",
@@ -7896,7 +7896,7 @@
       "name": "Phantom Grasp",
       "usage": "1-Enc",
       "action": "A",
-      "effect": "Shadowy hand restrains 1 foe; Magic✨ or target Immobilized.",
+      "effect": "Shadowy hand restrains 1 foe: ✨^💪 or target is Immobilized.",
       "created_at": "2026-08-13T21:26:29.621594+00:00",
       "genres": [
         "Medieval",
@@ -7968,7 +7968,7 @@
       "name": "Piercing Aether",
       "usage": "1-⚡",
       "action": "A",
-      "effect": "Vs heavy armor Atk/Dmg(💪)/(💪+2); Vs or non-combat target (wall, pillar, door, etc.) Atk/Dmg(💪+2)/(💪+3).",
+      "effect": "Atk/Dmg 💪/💪+2^heavy armor; Atk/Dmg 💪+2/💪+3^inanimate structures (walls, doors, barriers).",
       "created_at": "2026-08-13T21:26:29.621594+00:00",
       "genres": [
         "Medieval",
@@ -7986,7 +7986,7 @@
       "name": "Piercing Note",
       "usage": "1-Enc",
       "action": "A",
-      "effect": "Magic✨ Atk vs object or sunders.",
+      "effect": "✨^Dif or object is sundered.",
       "created_at": "2026-08-13T21:26:29.621594+00:00",
       "genres": [
         "Medieval",
@@ -8004,7 +8004,7 @@
       "name": "Piercing Presence",
       "usage": "1-Enc",
       "action": "P",
-      "effect": "Intimidate foe; Mind👁️ or target suffers Atk-2 for 1 rnd.",
+      "effect": "Intimidate foe: 👁️^👁️ or target suffers Atk-2 for 1 Rnd.",
       "created_at": "2026-08-13T21:26:29.621594+00:00",
       "genres": [
         "Medieval",
@@ -8076,7 +8076,7 @@
       "name": "Pixie’s Laughter",
       "usage": "1-Enc",
       "action": "P",
-      "effect": "Mind👁️ or target is Weakened 1 rnd.",
+      "effect": "👁️^👁️ or target is Weakened.",
       "created_at": "2026-08-13T21:26:29.72558+00:00",
       "genres": [
         "Medieval",
@@ -8162,7 +8162,7 @@
       "name": "Polarize Armor",
       "usage": "1-Enc",
       "action": "M",
-      "effect": "One ally in 3sq wearing iron; AR+2 for 1 rnd.",
+      "effect": "One ally in AoE 3r wearing iron gains AR+2 for 1 Rnd.",
       "created_at": "2026-08-13T21:26:29.72558+00:00",
       "genres": [
         "Medieval",
@@ -8340,7 +8340,7 @@
       "name": "Pressure Point",
       "usage": "1-Enc",
       "action": "A",
-      "effect": "On hit; normal Dmg and target MR👣-2 for 1 rnd.",
+      "effect": "On hit: normal Dmg and target weakened.",
       "created_at": "2026-08-13T21:26:29.72558+00:00",
       "genres": [
         "Medieval",
@@ -8358,7 +8358,7 @@
       "name": "Pressure Point Strike",
       "usage": "1-Enc",
       "action": "A",
-      "effect": "On hit; target Resist✨ or Stunned 1 rnd.",
+      "effect": "On hit: ✨^✨ or target is Stunned.",
       "created_at": "2026-08-13T21:26:29.72558+00:00",
       "genres": [
         "Medieval",
@@ -8394,7 +8394,7 @@
       "name": "Psionic Barrier",
       "usage": "1-Enc",
       "action": "P",
-      "effect": "Allies within 2sq gain AR+1 for 1 rnd.",
+      "effect": "AoE 2r; allies gain AR+1 for 1 Rnd.",
       "created_at": "2026-08-13T21:26:29.72558+00:00",
       "genres": [
         "Medieval",
@@ -8412,7 +8412,7 @@
       "name": "Psionic Blade",
       "usage": "1-Enc",
       "action": "A",
-      "effect": "On hit; Magic✨ force Dmg+1 and Mind👁️ or target is Weakened for 1 rnd.",
+      "effect": "On hit: 👁️ force Dmg+1 and 👁️^👁️ or target is Weakened.",
       "created_at": "2026-08-13T21:26:29.72558+00:00",
       "genres": [
         "Medieval",
@@ -8484,7 +8484,7 @@
       "name": "Punk Rally Cry",
       "usage": "1-Enc",
       "action": "A",
-      "effect": "All allies Nish🚩+2 for 1 rnd.",
+      "effect": "All allies gain 🚩+2 for 1 Rnd.",
       "created_at": "2026-08-13T21:26:29.72558+00:00",
       "genres": [
         "Medieval",
@@ -8642,7 +8642,7 @@
       "name": "Radiant Presence",
       "usage": "1-Enc",
       "action": "P",
-      "effect": "Activate aura for 1 rnd; adjacent allies Heal 1 Vit at start of their next turn.",
+      "effect": "Activate aura for 1 Rnd: adjacent allies heal 1 Vit at start of next Nish.",
       "created_at": "2026-08-13T21:26:29.72558+00:00",
       "genres": [
         "Medieval",
@@ -8750,7 +8750,7 @@
       "name": "Rally Soul",
       "usage": "1-Enc",
       "action": "A",
-      "effect": "Resist✨ check vs fastest foe → Nish🚩-2.",
+      "effect": "✨^🚩 of fastest foe: on success, target suffers 🚩-2.",
       "created_at": "2026-08-13T21:26:29.72558+00:00",
       "genres": [
         "Medieval",
@@ -8804,7 +8804,7 @@
       "name": "Ranger’s Mark",
       "usage": "1-Enc",
       "action": "P",
-      "effect": "Mark target; all allies deal +1 Dmg vs that foe.",
+      "effect": "Mark target: all allies deal +1 Dmg targeting marked foe for Encounter.",
       "created_at": "2026-08-13T21:26:29.72558+00:00",
       "genres": [
         "Medieval",
@@ -8930,7 +8930,7 @@
       "name": "Reckless Charge",
       "usage": "1-Enc",
       "action": "AM",
-      "effect": "Move double MR👣; Melee Dmg+4; Def-2, 1 rnd.",
+      "effect": "Move double MR; melee Dmg+4; Def-2.",
       "created_at": "2026-08-13T21:26:29.72558+00:00",
       "genres": [
         "Medieval",
@@ -8966,7 +8966,7 @@
       "name": "Relentless Flow",
       "usage": "1-Enc",
       "action": "F",
-      "effect": "If hit same target with this weapon 2 rnds in a row; Dmg+1 vs them for Encounter.",
+      "effect": "If hitting same target 2 consecutive rounds: Dmg+1 for Encounter.",
       "created_at": "2026-08-13T21:26:29.72558+00:00",
       "genres": [
         "Medieval",
@@ -9020,7 +9020,7 @@
       "name": "Resist Cold",
       "usage": "2-Enc",
       "action": "P",
-      "effect": "Mentally strengthen tissues vs cold: bonus to Resist(🫀) cold; cold Wnd reduced.",
+      "effect": "Resist🫀+5^cold for Encounter; reduce cold wounds by 1.",
       "created_at": "2026-08-13T21:26:29.72558+00:00",
       "genres": [
         "Medieval",
@@ -9038,7 +9038,7 @@
       "name": "Resist Corruption",
       "usage": "1-⚡",
       "action": "P",
-      "effect": "Resist with Advantage vs disease, poison, undead effects for 1 Enc.",
+      "effect": "Adv(Resist✨)^disease, poison, and undead effects for Encounter.",
       "created_at": "2026-08-13T21:26:29.72558+00:00",
       "genres": [
         "Medieval",
@@ -9056,7 +9056,7 @@
       "name": "Resist Heat",
       "usage": "2-Enc",
       "action": "P",
-      "effect": "Mentally strengthen tissues vs heat: bonus to Resist(🫀) heat/fire/plasma; heat Wnd reduced.",
+      "effect": "Resist🫀+5^heat, fire, and plasma for Encounter; reduce heat wounds by 1.",
       "created_at": "2026-08-13T21:26:29.72558+00:00",
       "genres": [
         "Medieval",
@@ -9164,7 +9164,7 @@
       "name": "Riot Instigator",
       "usage": "1-Enc",
       "action": "P",
-      "effect": "Mind👁️ vs foes or allies in 3sq Advantaged on Atk for 1 rnd.",
+      "effect": "AoE 3r; 👁️^👁️ or allies in area gain Advantage on Atk for 1 Rnd.",
       "created_at": "2026-08-13T21:26:29.72558+00:00",
       "genres": [
         "Medieval",
@@ -9182,7 +9182,7 @@
       "name": "Rip & Throw",
       "usage": "1-Enc",
       "action": "P",
-      "effect": "Might💪Brawl to Grab Atk and Dmg & hurl target up d6sq.",
+      "effect": "Brawl Atk/Dmg 💪 and grab target and hurl them up to d6sq.",
       "created_at": "2026-08-13T21:26:29.72558+00:00",
       "genres": [
         "Medieval",
@@ -9290,7 +9290,7 @@
       "name": "Rune Carve",
       "usage": "1-Enc",
       "action": "A",
-      "effect": "Inscribe glowing rune on self; Dod+2 for 1 rnd.",
+      "effect": "Inscribe glowing rune on self: Dod+2 for 1 Rnd.",
       "created_at": "2026-08-13T21:26:29.72558+00:00",
       "genres": [
         "Medieval",
@@ -9308,7 +9308,7 @@
       "name": "Rune of Endurance",
       "usage": "1-Enc",
       "action": "M",
-      "effect": "Inscribe glowing rune on self; AR+2 for 1 rnd.",
+      "effect": "Inscribe glowing rune on self: AR+2 for 1 Rnd.",
       "created_at": "2026-08-13T21:26:29.72558+00:00",
       "genres": [
         "Medieval",
@@ -9326,7 +9326,7 @@
       "name": "Rune Trap",
       "usage": "1-Enc",
       "action": "A",
-      "effect": "Place glowing rune in sq; trigger causes Save✨ for d✨ Dmg.",
+      "effect": "Place glowing rune in 1sq: trigger causes ✨^✨ or target takes d✨ Dmg.",
       "created_at": "2026-08-13T21:26:29.72558+00:00",
       "genres": [
         "Medieval",
@@ -9578,7 +9578,7 @@
       "name": "Sever Thought",
       "usage": "1-⚡",
       "action": "A",
-      "effect": "On hit; Mind👁️ or target cannot use Magic✨ Powers for 1 rnd.",
+      "effect": "On hit: 👁️^👁️ or target cannot use ✨ powers for 1 Rnd.",
       "created_at": "2026-08-13T21:26:29.821451+00:00",
       "genres": [
         "Medieval",
@@ -9758,7 +9758,7 @@
       "name": "Shadow Trance",
       "usage": "1-Rnd",
       "action": "P",
-      "effect": "Immune to sleep/charm and most Mind👁️ Saves✨ for 1 rnd.",
+      "effect": "Immune to sleep and charm, and gain Resist✨^mental effects for 1 Rnd.",
       "created_at": "2026-08-13T21:26:29.821451+00:00",
       "genres": [
         "Medieval",
@@ -9776,7 +9776,7 @@
       "name": "Shadow Veil",
       "usage": "1-Enc",
       "action": "P",
-      "effect": "Invisible for 1 rnd.",
+      "effect": "Become Invisible for 1 Rnd.",
       "created_at": "2026-08-13T21:26:29.821451+00:00",
       "genres": [
         "Medieval",
@@ -9866,7 +9866,7 @@
       "name": "Shield Charge",
       "usage": "1-⚡",
       "action": "M",
-      "effect": "Move up to MR👣; Might💪 vs Def. On success, deal d💪 Dmg and target is knocked Prone.",
+      "effect": "Move up to MR; Atk 💪^Def: on success, deal d💪 Dmg and target is Prone.",
       "created_at": "2026-08-13T21:26:29.821451+00:00",
       "genres": [
         "Medieval",
@@ -9884,7 +9884,7 @@
       "name": "Shield Hook",
       "usage": "1-Enc",
       "action": "P",
-      "effect": "Your Def rolls vs one opponent have Advantage this round.",
+      "effect": "Adv(Def)^one chosen opponent this Rnd.",
       "created_at": "2026-08-13T21:26:29.821451+00:00",
       "genres": [
         "Medieval",
@@ -10026,7 +10026,7 @@
       "name": "Shield Wall",
       "usage": "1-Rnd",
       "action": "P",
-      "effect": "Def+1 for 1 rnd.",
+      "effect": "Def+1 for 1 Rnd.",
       "created_at": "2026-08-13T21:26:29.821451+00:00",
       "genres": [
         "Medieval",
@@ -10152,7 +10152,7 @@
       "name": "Silent Takedown",
       "usage": "2-Enc",
       "action": "P",
-      "effect": "On hit vs adjacent humanoid; target Resist✨ or Stunned.",
+      "effect": "On hit targeting adjacent humanoid: ✨^✨ or target is Stunned.",
       "created_at": "2026-08-13T21:26:29.821451+00:00",
       "genres": [
         "Medieval",
@@ -10170,7 +10170,7 @@
       "name": "Sinkhole",
       "usage": "1-⚡",
       "action": "A",
-      "effect": "Max man-sized. Sk(✨)^🏃 on cast and each rnd; failure = submerged, Atks gain Advantage vs target.",
+      "effect": "Rng Short; 1sq; ✨^🏃 on cast and start of each Nish: on failure, target is submerged and Atks targeting them gain Advantage.",
       "created_at": "2026-08-13T21:26:29.821451+00:00",
       "genres": [
         "Medieval",
@@ -10260,7 +10260,7 @@
       "name": "Slow Breath (Restorative)",
       "usage": "1-Enc",
       "action": "P",
-      "effect": "Regain 1 Vit and Resist✨+2 for 1 rnd.",
+      "effect": "Regain 1 Vit and gain Resist✨+2 for 1 Rnd.",
       "created_at": "2026-08-13T21:26:29.821451+00:00",
       "genres": [
         "Medieval",
@@ -10435,7 +10435,7 @@
       "name": "Solar Burst",
       "usage": "1-Enc",
       "action": "A",
-      "effect": "Magic✨ Atk (AOE 2sqR); d4 radiant Dmg.",
+      "effect": "AoE 2r; ✨ Atk; d4 radiant Dmg.",
       "created_at": "2026-08-13T21:26:29.821451+00:00",
       "genres": [
         "Medieval",
@@ -10740,7 +10740,7 @@
       "name": "Steel Net",
       "usage": "1-Enc",
       "action": "P",
-      "effect": "Catch incoming blow between blades; Block+1d this rnd.",
+      "effect": "Catch incoming melee blow: Blk+2 this Rnd.",
       "created_at": "2026-08-13T21:26:29.821451+00:00",
       "genres": [
         "Medieval",
@@ -10758,7 +10758,7 @@
       "name": "Stoic Resolve",
       "usage": "1-Enc",
       "action": "P",
-      "effect": "Resist✨ vs fear/charm with Advantage.",
+      "effect": "Adv(Resist✨)^fear/charm for Encounter.",
       "created_at": "2026-08-13T21:26:29.821451+00:00",
       "genres": [
         "Medieval",
@@ -10848,7 +10848,7 @@
       "name": "Stone Spikes",
       "usage": "1-Enc",
       "action": "A",
-      "effect": "Raise spikes in 2sq; foes entering sq Save🏃 or d✨ Dmg.",
+      "effect": "Deploy stone spikes in 2sq: ✨^🏃 or foes entering take d✨ earth Dmg.",
       "created_at": "2026-08-13T21:26:29.821451+00:00",
       "genres": [
         "Medieval",
@@ -10938,7 +10938,7 @@
       "name": "Stoneform",
       "usage": "1-⚡",
       "action": "P",
-      "effect": "Body partly petrifies; immune to push/pull for Encounter; Earth Saves✨+2.",
+      "effect": "Body partly petrifies: immune to push and pull, and gain Resist✨+2^earth effects for Encounter.",
       "created_at": "2026-08-13T21:26:29.821451+00:00",
       "genres": [
         "Medieval",
@@ -10974,7 +10974,7 @@
       "name": "Stonewall",
       "usage": "1-Rnd",
       "action": "P",
-      "effect": "Def+1 for 1 rnd.",
+      "effect": "Def+1 for 1 Rnd.",
       "created_at": "2026-08-13T21:26:29.821451+00:00",
       "genres": [
         "Medieval",
@@ -11100,7 +11100,7 @@
       "name": "Stun",
       "usage": "2-Enc",
       "action": "F",
-      "effect": "On body attack hit: Stun(👁️)^🫀; success = target stunned (no actions) for rounds. Save each rnd.",
+      "effect": "On unarmed hit: 💪^🫀 or target is Stunned.",
       "created_at": "2026-08-13T21:26:29.912709+00:00",
       "genres": [
         "Medieval",
@@ -11118,7 +11118,7 @@
       "name": "Stunning Palm",
       "usage": "1-Enc",
       "action": "A",
-      "effect": "On unarmed hit; Dmg-2 and Mind👁️ or target is Stunned for 1 rnd.",
+      "effect": "On unarmed hit: Dmg-2 and 👁️^👁️ or target is Stunned.",
       "created_at": "2026-08-13T21:26:29.912709+00:00",
       "genres": [
         "Medieval",
@@ -11190,7 +11190,7 @@
       "name": "Sun-Kissed Radiance",
       "usage": "1-Enc",
       "action": "P",
-      "effect": "Emit bright light 3sq / dim 6sq for 1 Enc; vs Undead in bright light PCs Atk with Advantage.",
+      "effect": "Emit bright light (AoE 3r) and dim light (AoE 6r) for Encounter; all allies gain Adv(Atk)^undead in bright light.",
       "created_at": "2026-08-13T21:26:29.912709+00:00",
       "genres": [
         "Medieval",
@@ -11315,7 +11315,7 @@
       "name": "Tactical Awareness",
       "usage": "1-⚡",
       "action": "F",
-      "effect": "Melee blade vs same target: cumulative +5 to Atk/Dmg each rnd; on break, MR +1 rnd = bonus/10.",
+      "effect": "Melee attacks targeting same foe gain cumulative +2 to Atk/Dmg each round for Encounter.",
       "created_at": "2026-08-13T21:26:29.912709+00:00",
       "genres": [
         "Medieval",
@@ -11366,7 +11366,7 @@
       "name": "Target Analysis",
       "usage": "1-Enc",
       "action": "P",
-      "effect": "Study 1 foe; your next Atk vs that foe gains Advantage.",
+      "effect": "Study 1 foe: your next Atk targeting that foe gains Advantage.",
       "created_at": "2026-08-13T21:26:29.912709+00:00",
       "genres": [
         "Medieval",
@@ -11454,7 +11454,7 @@
       "name": "Telekinetic Crush",
       "usage": "1-Enc",
       "action": "A",
-      "effect": "Mind👁️ for d👁️Dmg and Save👁️ or target is Immobilized for 1 rnd.",
+      "effect": "Rng Short; 👁️^👁️ or target suffers d👁️ Dmg and is Immobilized.",
       "created_at": "2026-08-13T21:26:29.912709+00:00",
       "genres": [
         "Medieval",
@@ -11562,7 +11562,7 @@
       "name": "Thermal Resistance",
       "usage": "2-Enc",
       "action": "F",
-      "effect": "Protects vs heat to 200°; AR(✨+2)^heat/flame/plasma.",
+      "effect": "Protects against heat up to 200°; AR+2^heat, fire, and plasma for Encounter.",
       "created_at": "2026-08-13T21:26:29.912709+00:00",
       "genres": [
         "SciFi"
@@ -11704,7 +11704,7 @@
       "name": "Time Flicker",
       "usage": "1-⚡",
       "action": "P",
-      "effect": "Make any 1 roll this round at 2H both at -1.",
+      "effect": "Make any 1 roll this Rnd with Advantage, with a -1 penalty.",
       "created_at": "2026-08-13T21:26:29.912709+00:00",
       "genres": [
         "Medieval",
@@ -11920,7 +11920,7 @@
       "name": "Trick of Light",
       "usage": "1-Enc",
       "action": "P",
-      "effect": "Disguise as another small creature; Mind👁️vs observers that have a reason to disbelieve.",
+      "effect": "Disguise as another small creature: 👁️^👁️ to fool suspicious observers.",
       "created_at": "2026-08-13T21:26:29.912709+00:00",
       "genres": [
         "Medieval",
@@ -11992,7 +11992,7 @@
       "name": "Trickster's Glide",
       "usage": "1-Enc",
       "action": "M",
-      "effect": "Move through foes; All foes \"touched\" (no atk) Magic✨or allys get Atk+2, & Def+2.",
+      "effect": "Move through foes: ✨^✨ or all allies gain Atk+2 and Def+2 targeting touched foes for 1 Rnd.",
       "created_at": "2026-08-13T21:26:29.912709+00:00",
       "genres": [
         "Medieval",
@@ -12028,7 +12028,7 @@
       "name": "Turtle Stance",
       "usage": "1-Enc",
       "action": "P",
-      "effect": "Regain 1 Vit and Saves✨+2 for 1 rnd; req unarmored or very light armor.",
+      "effect": "Regain 1 Vit and gain Resist✨+2 for 1 Rnd; req unarmored or very light armor.",
       "created_at": "2026-08-13T21:26:29.912709+00:00",
       "genres": [
         "Medieval",
@@ -12046,7 +12046,7 @@
       "name": "Tusks & Claws",
       "usage": "2-Enc",
       "action": "A",
-      "effect": "Brawl Dmg+1d.",
+      "effect": "All Brawl attacks: Dmg+2.",
       "created_at": "2026-08-13T21:26:29.912709+00:00",
       "genres": [
         "Medieval",
@@ -12190,7 +12190,7 @@
       "name": "Unbending Steel",
       "usage": "1-⚡",
       "action": "A",
-      "effect": "On hit; target Atk rolls Dis for 1 rnd.",
+      "effect": "On hit: target's Atk rolls suffer Disadvantage for 1 Rnd.",
       "created_at": "2026-08-13T21:26:29.912709+00:00",
       "genres": [
         "Medieval",
@@ -12334,7 +12334,7 @@
       "name": "Veiled Mind",
       "usage": "1-⚡",
       "action": "F",
-      "effect": "After you succeed a Resist✨ vs a mental effect; Make Mind👁️ to Weaken the Attacker for 1 rnd.",
+      "effect": "On successful Resist✨^mental effect: 👁️^👁️ or attacker is Weakened.",
       "created_at": "2026-08-13T21:26:29.912709+00:00",
       "genres": [
         "Medieval",
@@ -12352,7 +12352,7 @@
       "name": "Vengeance Claw",
       "usage": "1-⚡",
       "action": "A",
-      "effect": "Tight radius AoE: Atk/Dmg 💪 vs all foes who attacked you (previous or this rnd).",
+      "effect": "AoE 1r; Atk/Dmg 💪 targeting all foes who attacked you since your last turn.",
       "created_at": "2026-08-13T21:26:29.912709+00:00",
       "genres": [
         "Medieval",
@@ -12370,7 +12370,7 @@
       "name": "Verdant Parry",
       "usage": "2-Enc",
       "action": "M",
-      "effect": "Shield/Block vs melee Blk/AR(✨)/(+); on failure, PC still gets normal Dod/AR(🏃)/(🏃).",
+      "effect": "Melee Blk ✨: on failure, you may still attempt a standard Dodge (Def 🏃).",
       "created_at": "2026-08-13T21:26:29.912709+00:00",
       "genres": [
         "Medieval",
@@ -12424,7 +12424,7 @@
       "name": "Vine Snare",
       "usage": "1-⚡",
       "action": "A",
-      "effect": "1 target: Sk(✨)^🫀 or ensnared → MR(4), attacks vs target have Advantage.",
+      "effect": "Rng Short; ✨^🫀 or target is ensnared (MR reduced to 4; Atks targeting them gain Advantage).",
       "created_at": "2026-08-13T21:26:29.990524+00:00",
       "genres": [
         "Medieval",
@@ -12496,7 +12496,7 @@
       "name": "Void Field",
       "usage": "2-Enc",
       "action": "P",
-      "effect": "Thin gray Sorce armor: effective vs physical, energy, Sorce. Some Versions grant immunity to certain Sorce abilities. No effect vs Sorce Energy Bolt.",
+      "effect": "AR+2 against physical, energy, and magic attacks (no protection against Magic Energy Bolt) for Encounter.",
       "created_at": "2026-08-13T21:26:29.990524+00:00",
       "genres": [
         "Medieval",
@@ -12622,7 +12622,7 @@
       "name": "Wall of Steel",
       "usage": "1-Enc",
       "action": "P",
-      "effect": "Block+1d this rnd; MR👣0 this rnd.",
+      "effect": "Blk+2 this Rnd; MR is 0 this Rnd.",
       "created_at": "2026-08-13T21:26:29.990524+00:00",
       "genres": [
         "Medieval",
@@ -12694,7 +12694,7 @@
       "name": "Water Breathing",
       "usage": "1-Rnd",
       "action": "P",
-      "effect": "Breathe underwater; no roll, for 1 rnd.",
+      "effect": "Breathe underwater without rolling for 1 Rnd.",
       "created_at": "2026-08-13T21:26:29.990524+00:00",
       "genres": [
         "Medieval",
@@ -12712,7 +12712,7 @@
       "name": "Weapon & Board",
       "usage": "2-Enc",
       "action": "P",
-      "effect": "If you hit with weapon last rnd; Atk+1 and Def+1 for 1 rnd.",
+      "effect": "If you hit with a weapon on your last turn: Atk+1 and Def+1 for 1 Rnd.",
       "created_at": "2026-08-13T21:26:29.990524+00:00",
       "genres": [
         "Medieval",
@@ -12820,7 +12820,7 @@
       "name": "Whirling Dance",
       "usage": "1-⚡",
       "action": "A",
-      "effect": "Make separate Atk & Dmg rolls vs 2 adjacent foes.",
+      "effect": "Make separate Atk & Dmg rolls targeting 2 adjacent foes.",
       "created_at": "2026-08-13T21:26:29.990524+00:00",
       "genres": [
         "Medieval",
@@ -15410,7 +15410,7 @@
     {
       "id": 308,
       "name": "Adaptable Spirit",
-      "effect": "Learn 1 extra skill without skill point restrictions.",
+      "effect": "Learn 1 extra skill without skill restrictions.",
       "stat_hook": null,
       "genres": [
         "Medieval",
@@ -15427,7 +15427,7 @@
     {
       "id": 320,
       "name": "Arcane Volatility",
-      "effect": "Whenever you roll a natural 1 on a Magic check, trigger a minor chaotic surge.",
+      "effect": "Natural 1 on ✨ check = trigger minor chaotic surge.",
       "stat_hook": null,
       "genres": [
         "Medieval",
@@ -15444,7 +15444,7 @@
     {
       "id": 318,
       "name": "Code of Honor",
-      "effect": "Bound by strict chivalry. Must accept honorable surrenders and never strike a helpless foe.",
+      "effect": "Bound by chivalry: must accept honorable surrenders and never strike a helpless foe.",
       "stat_hook": null,
       "genres": [
         "Medieval",
@@ -15461,7 +15461,7 @@
     {
       "id": 314,
       "name": "Fortune's Child",
-      "effect": "Destiny smiles upon you; your Max Luck pool is increased by +1.",
+      "effect": "+1 Max 🍀 pool.",
       "stat_hook": {
         "type": "flat_bonus",
         "value": 1,
@@ -15482,7 +15482,7 @@
     {
       "id": 317,
       "name": "Glass Cannon",
-      "effect": "Fragile physiology. Max Vitality is permanently reduced by 3.",
+      "effect": "-3 Max Vit.",
       "stat_hook": {
         "type": "flat_bonus",
         "value": -3,
@@ -15503,7 +15503,7 @@
     {
       "id": 321,
       "name": "Hermetic Seal",
-      "effect": "Immune to toxic atmospheres and hard vacuum (48h air supply)",
+      "effect": "Immune to toxic atmospheres and hard vacuum; 48h air supply.",
       "stat_hook": null,
       "genres": [
         "SciFi"
@@ -15518,7 +15518,7 @@
     {
       "id": 311,
       "name": "Impossible Robes",
-      "effect": "Base Armor Rating (AR) is dynamically derived from your Mind die rating (d4→4, d6→6, d8→8, d10→10, d12→12).",
+      "effect": "Base AR is derived from 👁️ die rating (d4→4, d6→6, d8→8, d10→10, d12→12).",
       "stat_hook": {
         "type": "mind_die",
         "target": "ar"
@@ -15538,7 +15538,7 @@
     {
       "id": 304,
       "name": "Keen Senses",
-      "effect": "Gain advantage on perception and awareness checks.",
+      "effect": "Adv(Perception 👁️, Awareness 👁️).",
       "stat_hook": null,
       "genres": [
         "Medieval",
@@ -15555,7 +15555,7 @@
     {
       "id": 319,
       "name": "Limping Gait",
-      "effect": "Injured leg or heavy frame. Base Movement Rate is reduced by 1.",
+      "effect": "-1 👣.",
       "stat_hook": {
         "type": "flat_bonus",
         "value": -1,
@@ -15576,7 +15576,7 @@
     {
       "id": 305,
       "name": "Nature Attunement",
-      "effect": "Ignore movement penalties in natural wilderness terrain.",
+      "effect": "Ignore 👣 penalties in natural wilderness terrain.",
       "stat_hook": null,
       "genres": [
         "Medieval",
@@ -15593,7 +15593,7 @@
     {
       "id": 316,
       "name": "One-Eyed",
-      "effect": "Depth perception handicap. Take a penalty on ranged shot attacks.",
+      "effect": "Dis(Shot) due to depth perception handicap.",
       "stat_hook": null,
       "genres": [
         "Medieval",
@@ -15610,7 +15610,7 @@
     {
       "id": 310,
       "name": "Pixie Gliding",
-      "effect": "Slowly glide safely down from any fall height without taking impact damage.",
+      "effect": "Glide safely from any height; immune to fall Dmg.",
       "stat_hook": null,
       "genres": [
         "Medieval",
@@ -15627,7 +15627,7 @@
     {
       "id": 307,
       "name": "Poison Resistance",
-      "effect": "Resist poison, toxins, and alcohol effects with +1d bonus.",
+      "effect": "🫀+5^poison, toxins, and alcohol.",
       "stat_hook": null,
       "genres": [
         "Medieval",
@@ -15644,7 +15644,7 @@
     {
       "id": 309,
       "name": "Relentless Stamina",
-      "effect": "When reduced to 0 Vit, immediately stay at 1 Vit once per encounter.",
+      "effect": "When reduced to 0 Vit; immediately remain at 1 Vit (1-Enc).",
       "stat_hook": null,
       "genres": [
         "Medieval",
@@ -15661,7 +15661,7 @@
     {
       "id": 306,
       "name": "Stonecunning",
-      "effect": "Notice architectural oddities, stonework traps, and subterranean depth instinctively.",
+      "effect": "Adv(👁️) to detect stonework traps, architectural secrets, and subterranean depth.",
       "stat_hook": null,
       "genres": [
         "Medieval",
@@ -15678,7 +15678,7 @@
     {
       "id": 313,
       "name": "Swift Step",
-      "effect": "Innate agility grants +1 Movement Rate (Armored and Shielded).",
+      "effect": "+1 👣 (Armored and Shielded).",
       "stat_hook": {
         "type": "flat_bonus",
         "value": 1,
@@ -15699,7 +15699,7 @@
     {
       "id": 312,
       "name": "Tough Hide",
-      "effect": "Natural thick skin or chitin provides +1 Natural AR bonus.",
+      "effect": "+1 Natural AR.",
       "stat_hook": {
         "type": "flat_bonus",
         "value": 1,
@@ -15720,7 +15720,7 @@
     {
       "id": 315,
       "name": "Vanish on Death",
-      "effect": "Upon death, your physical body dissolves cleanly into radiant mist or stardust.",
+      "effect": "Upon death, body dissolves into radiant mist or stardust.",
       "stat_hook": null,
       "genres": [
         "Medieval",
@@ -15739,7 +15739,7 @@
     {
       "id": 308,
       "name": "Adaptable Spirit",
-      "effect": "Learn 1 extra skill without skill point restrictions.",
+      "effect": "Learn 1 extra skill without skill restrictions.",
       "stat_hook": null,
       "genres": [
         "Medieval",
@@ -15756,7 +15756,7 @@
     {
       "id": 320,
       "name": "Arcane Volatility",
-      "effect": "Whenever you roll a natural 1 on a Magic check, trigger a minor chaotic surge.",
+      "effect": "Natural 1 on ✨ check = trigger minor chaotic surge.",
       "stat_hook": null,
       "genres": [
         "Medieval",
@@ -15773,7 +15773,7 @@
     {
       "id": 318,
       "name": "Code of Honor",
-      "effect": "Bound by strict chivalry. Must accept honorable surrenders and never strike a helpless foe.",
+      "effect": "Bound by chivalry: must accept honorable surrenders and never strike a helpless foe.",
       "stat_hook": null,
       "genres": [
         "Medieval",
@@ -15790,7 +15790,7 @@
     {
       "id": 314,
       "name": "Fortune's Child",
-      "effect": "Destiny smiles upon you; your Max Luck pool is increased by +1.",
+      "effect": "+1 Max 🍀 pool.",
       "stat_hook": {
         "type": "flat_bonus",
         "value": 1,
@@ -15811,7 +15811,7 @@
     {
       "id": 317,
       "name": "Glass Cannon",
-      "effect": "Fragile physiology. Max Vitality is permanently reduced by 3.",
+      "effect": "-3 Max Vit.",
       "stat_hook": {
         "type": "flat_bonus",
         "value": -3,
@@ -15832,7 +15832,7 @@
     {
       "id": 321,
       "name": "Hermetic Seal",
-      "effect": "Immune to toxic atmospheres and hard vacuum (48h air supply)",
+      "effect": "Immune to toxic atmospheres and hard vacuum; 48h air supply.",
       "stat_hook": null,
       "genres": [
         "SciFi"
@@ -15847,7 +15847,7 @@
     {
       "id": 311,
       "name": "Impossible Robes",
-      "effect": "Base Armor Rating (AR) is dynamically derived from your Mind die rating (d4→4, d6→6, d8→8, d10→10, d12→12).",
+      "effect": "Base AR is derived from 👁️ die rating (d4→4, d6→6, d8→8, d10→10, d12→12).",
       "stat_hook": {
         "type": "mind_die",
         "target": "ar"
@@ -15867,7 +15867,7 @@
     {
       "id": 304,
       "name": "Keen Senses",
-      "effect": "Gain advantage on perception and awareness checks.",
+      "effect": "Adv(Perception 👁️, Awareness 👁️).",
       "stat_hook": null,
       "genres": [
         "Medieval",
@@ -15884,7 +15884,7 @@
     {
       "id": 319,
       "name": "Limping Gait",
-      "effect": "Injured leg or heavy frame. Base Movement Rate is reduced by 1.",
+      "effect": "-1 👣.",
       "stat_hook": {
         "type": "flat_bonus",
         "value": -1,
@@ -15905,7 +15905,7 @@
     {
       "id": 305,
       "name": "Nature Attunement",
-      "effect": "Ignore movement penalties in natural wilderness terrain.",
+      "effect": "Ignore 👣 penalties in natural wilderness terrain.",
       "stat_hook": null,
       "genres": [
         "Medieval",
@@ -15922,7 +15922,7 @@
     {
       "id": 316,
       "name": "One-Eyed",
-      "effect": "Depth perception handicap. Take a penalty on ranged shot attacks.",
+      "effect": "Dis(Shot) due to depth perception handicap.",
       "stat_hook": null,
       "genres": [
         "Medieval",
@@ -15939,7 +15939,7 @@
     {
       "id": 310,
       "name": "Pixie Gliding",
-      "effect": "Slowly glide safely down from any fall height without taking impact damage.",
+      "effect": "Glide safely from any height; immune to fall Dmg.",
       "stat_hook": null,
       "genres": [
         "Medieval",
@@ -15956,7 +15956,7 @@
     {
       "id": 307,
       "name": "Poison Resistance",
-      "effect": "Resist poison, toxins, and alcohol effects with +1d bonus.",
+      "effect": "🫀+5^poison, toxins, and alcohol.",
       "stat_hook": null,
       "genres": [
         "Medieval",
@@ -15973,7 +15973,7 @@
     {
       "id": 309,
       "name": "Relentless Stamina",
-      "effect": "When reduced to 0 Vit, immediately stay at 1 Vit once per encounter.",
+      "effect": "When reduced to 0 Vit; immediately remain at 1 Vit (1-Enc).",
       "stat_hook": null,
       "genres": [
         "Medieval",
@@ -15990,7 +15990,7 @@
     {
       "id": 306,
       "name": "Stonecunning",
-      "effect": "Notice architectural oddities, stonework traps, and subterranean depth instinctively.",
+      "effect": "Adv(👁️) to detect stonework traps, architectural secrets, and subterranean depth.",
       "stat_hook": null,
       "genres": [
         "Medieval",
@@ -16007,7 +16007,7 @@
     {
       "id": 313,
       "name": "Swift Step",
-      "effect": "Innate agility grants +1 Movement Rate (Armored and Shielded).",
+      "effect": "+1 👣 (Armored and Shielded).",
       "stat_hook": {
         "type": "flat_bonus",
         "value": 1,
@@ -16028,7 +16028,7 @@
     {
       "id": 312,
       "name": "Tough Hide",
-      "effect": "Natural thick skin or chitin provides +1 Natural AR bonus.",
+      "effect": "+1 Natural AR.",
       "stat_hook": {
         "type": "flat_bonus",
         "value": 1,
@@ -16049,7 +16049,7 @@
     {
       "id": 315,
       "name": "Vanish on Death",
-      "effect": "Upon death, your physical body dissolves cleanly into radiant mist or stardust.",
+      "effect": "Upon death, body dissolves into radiant mist or stardust.",
       "stat_hook": null,
       "genres": [
         "Medieval",
@@ -16880,7 +16880,7 @@
       "genres": [
         "SciFi"
       ],
-      "notes": "This laser is implanted in the patient’s head next to an eye. The laser follows all of the user’s eye movements (using targeting computer technology), and is highly accurate. It inflicts only 8L dual damage (see *EM, systems, weapons)* vs normal targets. When used against close stationary items (i.e., to cut) the two barrels slide together forming one beam with a 10M cutting ability. In this form, the beam length is limited to two feet and may not function as a weapon.\n### **Quick Attach Weapons**\nAll of the following are used with (and require) the quick attach couplink. It takes one movement action to attach or detach an item, and a full round to complete switch items.\n*",
+      "notes": "Cybernetic laser implanted in the skull adjacent to an eye. The laser tracks the user's eye movements using integrated targeting optics and is highly accurate, inflicting dual beam damage against normal targets. When used against stationary items at close range to cut through materials, the twin emitters slide together into a single beam with cutting ability (limited to a two-foot cutting reach and cannot function as a weapon in this mode).",
       "pic": "",
       "discipline": "Tech",
       "path": null,
@@ -16941,7 +16941,7 @@
         "Modern",
         "SciFi"
       ],
-      "notes": "The Focus Blade is a foot-long black cylinder with a deep red gem set in one end. The cylinder is semi-opaque, containing a solid core of pure black. The red stone seems to be the focus point, from which a blade of up to five feet may be extended, coruscating in the user’s signature color.\nA channeler who obtains a Focus Blade must power up and imprint the weapon by investing power points. This individual’s power points are reduced by five for one week while the weapon is being imprinted — the weapon cannot be used until this time has passed. After one week, the channeler's power points return to normal.\nNo one, not even another channeler, may use the same Focus Blade after it has been imprinted by its owner. Focus Blades may be activated by making a skill check vs 5 (failure and success are governed by the exact same rules as channeler enhancements).\nThe weapon’s Dmg is \\+2d above the channeler's relevant skill rating.",
+      "notes": "A foot-long black cylinder with a deep red gem set in one end that extends a coruscating energy blade up to five feet in the wielder's signature color. A channeler who obtains a Focus Blade must imprint the weapon over one week before it can be wielded. Once imprinted, no other creature may wield it.",
       "pic": "",
       "discipline": "Archaic",
       "path": null,
@@ -17064,7 +17064,7 @@
         "Modern",
         "SciFi"
       ],
-      "notes": "This squid-like animal slips over the user’s hand (or hand-like appendage), and constricts its wet inner muscles around the user’s forearm.\nWhen used the creature’s tentacles flail out up to two squares away and wrap around any object which the user wishes. Opponents and unwilling targets require a successful attack roll.\nIf the glove hits, it will pull the target in (Str vs Str) and (upon command) stab it with a spike located in the center of its body for 6L Dmg (no Def allowed).\nEach round which the victim is held, the tentacle glove will stab again. The victim must roll their Str vs the tentacle glove’s Str in order to break free. In the meantime, the user can attack the held victim with a \\+1c attack bonus.\nA tentacle glove will adapt its own Strength to match that of its user so that it will not harm its user. This takes about a week. The tentacle glove can not increase its Str above 10H.",
+      "notes": "A symbiotic cephalopod organism that slips over the forearm and bonds to the wearer. When activated, tentacles whip out to grab objects or foes. Against unwilling targets, an attack roll pulls the victim into melee range, where a central body spike is a Dmg 4 hazard. While held, the victim may attempt an opposed 💪^💪 check at the start of each Nish to break free, while the wearer attacks the restrained target with a +3 attack bonus. The glove's Might adapts to match the user's Might (capped at 12).",
       "pic": "",
       "discipline": "Archaic",
       "path": null,
@@ -17126,7 +17126,7 @@
         "Modern",
         "SciFi"
       ],
-      "notes": "These small squat beetles are a little over an inch in diameter. The listed price will purchase ten beetles, and a small sac of black puffball seeds. Spike beetles enjoy a symbiotic relationship with puffball plants in which the beetles eat the plant's leaves. In return, spike beetles valiantly guard the plant's fragile fallen seeds.\nTo use, the sac of seeds is tossed over an area no larger than nine individual squares. The beetles will immediately shuffle off the host and set up watch over the area. Anyone entering will have to deal with the beetles. In place of wings, spike beetles have two long thorn-like spikes tipped with a mild paralytic poison. When any being enters the area, the beetles race out placing their bodies beneath the victim’s feet (rating 8/6/2). Those wounded must make a Fortitude check vs the 10L poison or be slowed to MR 1 for the next hour.\nMost beings will take one step per square. Fortunately for the beetles, their shells are tough enough to support 500 lbs, keeping them from being crushed.",
+      "notes": "Small squat defensive beetles with thorn-like paralytic spikes that guard an area when seeded. Tossing the seed sac seeds a 3x3 square area with 10 guarding beetles (stats: Atk 8, Def 6, AR 2). Intruders entering the area trigger defensive sting attacks; wounded victims must succeed on a Resist 🫀^10 check or have their MR reduced to 👣1 for Encounter. The beetles' tough carapaces support up to 500 lbs without being crushed.",
       "pic": "",
       "discipline": "Archaic",
       "path": null,
@@ -17270,7 +17270,7 @@
         "Modern",
         "SciFi"
       ],
-      "notes": "The Hydro Flamer projects a thin stream of liquid fuel that ignites upon release, creating a short-ranged cone of fire. The stream can reach several squares, and the fuel includes its own oxidizer, so the weapon functions even in vacuum or other oxygen-poor environments. Damage is highest against the first target in the stream and falls off for subsequent targets in the path.\nAmmunition is carried in small pressurized bottles that are swapped when empty. The weapon is a favorite of assault troops and anyone who needs to clear confined spaces or suppress areas without relying on explosives. The visual and psychological effect of a continuous flame stream is significant, and the weapon can also be used to deny passage or destroy sensitive matériel.\nWith the Hydro Flamer, the wielder commands a tongue of fire that burns anywhere.\nEffects\n— Full damage to first target, half to second, etc.; functions in space; ammo in compressed bottles.",
+      "notes": "The Hydro Flamer projects a pressurized stream of liquid fuel that ignites upon release, creating a linear spray of fire. The fuel includes its own chemical oxidizer, allowing it to function reliably in vacuum or oxygen-deprived environments. Damage is highest against the first target in the path and halved for subsequent targets. Ammunition is stored in swappable compressed fuel bottles.\nEffects: Linear spray; full damage to first target, half damage to subsequent targets in the path; functions in vacuum.",
       "pic": "",
       "discipline": "Tech",
       "path": null,
@@ -17555,7 +17555,7 @@
         "Modern",
         "SciFi"
       ],
-      "notes": "The Needler is a small, cone-shaped creature which affixes itself to any desired spot on its user’s body. Upon command, the creature will spit out tiny, razor-sharp needlers. If a needler causes wounding damage, it will burrow beneath the flesh and head for the victim’s heart. This causes 6L additional Dmg each round unless cut out (for additional Dmg equal to all taken so far). Medtechs can remove a needler on a roll equal to the number of rounds the needler has been burrowing. An individual with first aid needs roll equal to all Dmg taken so far in order to remove the needler.",
+      "notes": "A conical bio-symbiote that affixes itself to the wearer's body. Upon command, it spits razor-sharp chitin needles. If an attack causes wounding damage, the needle is a Dmg 4 burrowing hazard.",
       "pic": "",
       "discipline": "Archaic",
       "path": null,
@@ -18220,7 +18220,7 @@
         "Modern",
         "SciFi"
       ],
-      "notes": "A sonic disrupter sets up atomic-level vibrations in solid objects, which causes molecular bonds to break down and matter to literally shake apart. The device was designed for use against fortifications (walls, doors, bulk heads, etc.) and terrain obstacles (trees, boulders, etc.) but is gaining popularity with the Guild marines for use against heavily armored opponents, and light vehicles.\nThe denser the object, the greater the damage (GM’ discretion). Boulders and solid steel walls often result in damage as high as 6LV (the maximum this weapon can cause). When used against rigid armor, damage matches the opponent's AR rating. Thus, if the opponent is wearing 16 (or 8M) armor, the disrupter causes 8M damage. If attached to a power supply, this weapon draws 20 srg per shot regardless of the target or damage rating.\nAgainst less dense or rigid armor, the weapon only causes half as much damage.\nEach time the disrupter exceeds the armor value of a target, it permanently reduces the armor value by 1d (Natural Armor is exempt from this rule) although the disrupters damage maintains at the armor's original AR.",
+      "notes": "A sonic disrupter sets up atomic-level vibrations in solid objects, breaking down molecular bonds. Designed against fortifications, obstacles, and heavy vehicles, damage scales with object density up to 2d8 against solid steel walls or boulders. When used against rigid armor, damage matches the target's AR die. Against flexible armor, the weapon inflicts half damage. Each time a strike exceeds the target's armor value, it permanently reduces manufactured armor rating by 1 (natural armor is exempt).",
       "pic": "",
       "discipline": "Tech",
       "path": null,
@@ -18239,7 +18239,7 @@
       "genres": [
         "SciFi"
       ],
-      "notes": "The Sonic Sword appears as a small hand grip until activated, when three prongs at the base generate a vibrating field of air molecules that extends about three feet. The blade damages targets by disrupting their molecular structure. It can also be used against stationary obstacles—walls, doors—by holding the blade in contact; the weapon inflicts cumulative damage each round until the object is destroyed, though the object may explode when broken, dealing damage based on its AR.\nIn vacuum or underwater, the blade can detonate for 6Mx damage under certain conditions. The weapon is a favorite of breachers and duelists who want a blade that can cut through almost anything and double as a door-killer. Care must be taken when destroying objects to avoid the backlash.\nWith the Sonic Sword, the wielder carries a blade that shakes matter apart.\nEffects\n— Three-foot vibrating field; cumulative damage vs stationary objects; possible detonation in space/water; destroyed objects may explode for AR-based damage.",
+      "notes": "The Sonic Sword appears as a compact hilt that generates a three-foot vibrating molecular disruption field upon activation. It slices through matter by disrupting molecular bonds. When held against stationary obstacles (walls, bulkheads, security doors), it inflicts cumulative damage each round until the structure is destroyed (destroyed objects may rupture dealing AR-based damage). In a vacuum or submerged underwater, the containment field can detonate for 2d8 damage under overload conditions.\nEffects: 1-yard vibrating field; cumulative damage against stationary barriers; overload detonation in vacuum/water.",
       "pic": "",
       "discipline": "Tech",
       "path": null,
@@ -18300,7 +18300,7 @@
         "Modern",
         "SciFi"
       ],
-      "notes": "To an outside observer, this weapon would resemble a poorly carved wooden spear. In reality, when this living weapon hits its target (inflicting 10L damage), it immediately transforms into a sinuous, ropy strand which will attempt to loop around and strangle its victim. This strangling attack is made at the spear’s rating (10/16/1). If it hits, it will use its Str (16 or 8M) vs the victim's FR in an attempt to strangle the victim. If successful the victim begins suffocating. Victims may attempt to break free each round (Str check vs the spear's Str of 16 (8M)).|",
+      "notes": "Resembles a crude carved wooden spear that transforms upon a wounding strike to wrap around the victim as a 💪^🫀 strangle hazard.",
       "pic": "",
       "discipline": "Archaic",
       "path": null,
@@ -18320,7 +18320,7 @@
         "Modern",
         "SciFi"
       ],
-      "notes": "The Stun is a compact handheld weapon that uses focused sound waves to overwhelm the nervous system and knock targets unconscious. Attack rolls are made normally; effect is resolved against the target's WP rather than AR. If the roll exceeds the target's WP, the victim falls unconscious for a number of rounds equal to the margin of success. Beings who cannot hear or who wear protective headgear receive a bonus to their WP when resisting.\nWith the Stun, the wielder can drop a foe without drawing blood.\nEffects\n— Effect vs WP; success margin = rounds unconscious; deaf or helmeted targets get +1c to WP.",
+      "notes": "A compact handheld weapon that emits focused concussive sonic frequencies to overload the nervous system. Attack rolls resolve as an active check against the target's Moxie (ignoring AR): on hit, 👁️^🫀 or target is Unconscious. Deaf targets or those wearing sealed protective headgear gain 🫀+3 against this attack.\nEffects: Atk ignores AR; 👁️^🫀 or target is Unconscious; deaf or helmeted targets gain 🫀+3.",
       "pic": "",
       "discipline": "Archaic",
       "path": null,
@@ -18842,7 +18842,7 @@
         "Modern",
         "SciFi"
       ],
-      "notes": "The Web-Ball looks like a six-inch diameter sponge and functions as a defensive weapon. Sponge balls may be tossed or rolled. When tossed, the sponge ball explodes if it hits something; when rolled, the sponge ball waits until it comes to a stop to explode.\nWhen a sponge ball explodes, hundreds of streamers of sticky web-like slime squirt out in all directions up to two squares away. Those streamers contacting surfaces instantly adhere and become rigid, but remain sticky (much like a spider web).\nAnyone attempting to force their way through the strands must overcome an 8M strength per square or become hopelessly stuck in the streamers. A square can also be cleared out if 16 points of damage are inflicted. Pulse lasers, projectile weapons and blasters inflict half damage to the strands as so much of the area is empty space.\nPhysical attacks (such as blows, melee weapons, etc.) causing less than 16 damage become stuck at 16 vs ST. Sponge balls and their strands are particularly susceptible to acid (+1c Dmg). If a sponge ball is destroyed before exploding, all effects are avoided. Sponge balls have a 5/2/0 (Str 16\\) rating and once used they die.",
+      "notes": "A six-inch porous sponge ball that detonates on impact or when rolled to a stop, exploding into an AoE 2r burst of rigid, sticky slime strands that adhere to all surfaces. Forcing a path through the webbing requires a 💪^💪 check per square, or the creature becomes Immobilized. A square can be cleared by inflicting 16 slashing, fire, or energy damage (projectile weapons deal half damage; acid inflicts +3 Dmg). Weapons dealing under 16 damage become stuck in the webbing (breakout 💪^💪).",
       "pic": "",
       "discipline": "Archaic",
       "path": null,
@@ -18863,7 +18863,7 @@
         "Modern",
         "SciFi"
       ],
-      "notes": "This creature is a long worm, which forms a cocoon-like home on its host’s body. Upon command, the slinger flings out a ball of sticky, web like material.\nIf the attack succeeds, the web mass has hit and will burst into a shower of long, gluey runners which spread out across the victim (affects one target only). The web mass has a strong sickening sweet smell which is known to gag many victims.\nThe entire experience is a horrible sensation like being dipped in a vat of honey covered string.\nThe web’s Str is 6H. Victims who don't break free (Str vs 6H) are immobilized and may not move, although they may attempt to break free each round thereafter.\nA victim may be cut free by allies if a total of 24 points of damage is caused to the web. Webs are not affected by blunt damage weapons, however acid causes \\+1c Dmg to the web.",
+      "notes": "A bio-engineered symbiotic worm that rests in a host cocoon and launches masses of sickeningly sweet, adhesive webbing at a single target. On a successful hit, the target is enveloped in clinging runners: breakout 💪^💪 or target is Immobilized (may repeat check at start of each Nish). Allies can cut a victim free by dealing 24 slashing or fire damage to the web. Immune to blunt damage; acid deals +3 Dmg.",
       "pic": "",
       "discipline": "Archaic",
       "path": null,
@@ -19832,7 +19832,7 @@
       "genres": [
         "SciFi"
       ],
-      "notes": "Scout Armor is a lightweight suit of advanced plate affixed to a durable body suit, designed for reconnaissance, flanking, and operations where stealth and mobility matter. It is constructed with a personal stealth net that significantly increases the wearer's ability to avoid detection—granting a substantial bonus to Dexterity-based rolls opposed by Awareness when moving unseen. Compensators, internal hard point, and full communications and macrovisor support are included, along with jump-pack and oxygenator options for extended and vertical operations.\nThe armor is sleek and low-profile, with a matte or adaptive finish that breaks up the wearer's outline. It favors speed and agility over raw protection, making it the choice for scouts, infiltrators, and light strike teams who need to get in, observe or strike, and get out.\nScout Armor excels in roles where seeing without being seen is the priority.\nEffects\n-- Personal stealth net: substantial bonus to Dexterity rolls vs. Awareness when attempting to avoid detection.\n-- Compensators, one internal hard point, targeting computer, communicator kit, jump-pack kit, macrovisor kit, oxygenator kit (included).",
+      "notes": "Scout Armor is a lightweight suit of advanced plate affixed to a durable body suit, designed for reconnaissance, flanking, and covert operations. Built with an integrated personal stealth net that grants Adv(Stealth 🏃) against enemy perception. Features internal compensators, an internal hardpoint, integrated targeting computer, communicator, macrovisor, jump-pack, and oxygenator.\nEffects: Personal stealth net grants Adv(Stealth 🏃); includes compensators, 1 internal hardpoint, targeting computer, and mission kits.",
       "pic": "",
       "discipline": "Archaic",
       "path": null,
@@ -22361,7 +22361,7 @@
         "Modern",
         "SciFi"
       ],
-      "notes": "The Blur Band is a compact yet formidable piece of technology designed to alter the user’s physical presence within the surrounding environment. Resembling a heavy, wide, flat choker worn around the neck, it generates a powerful field of dimensional flux when activated. This field causes the wearer to phase in and out of the current dimension, displacing them slightly with each shift. The resulting effect makes the wearer appear as a blur, constantly shifting positions and making it exceedingly difficult for others to pinpoint their exact location. However, this dimensional instability also reduces the precision of the wearer’s own movements, complicating tasks that require fine motor control.\nVisually, the Blur Band is an intriguing blend of sleek design and raw, unrefined power. Its surface is matte, with a dark, metallic finish that seems to absorb light rather than reflect it. When activated, the band emits a subtle, shimmering aura that distorts the air around it, as if the very fabric of reality is being bent and twisted. The wearer’s outline becomes hazy, flickering in and out of focus as they phase between locations. This constant shifting gives the impression of multiple overlapping images, each slightly out of sync, creating a mesmerizing and somewhat disorienting visual spectacle. The effect is both fascinating and unsettling, as the wearer seems to exist in multiple places at once, their presence never fully solidified.\nUnleash the chaos of the Blur Band and become an elusive phantom on the battlefield, where your enemies will struggle to hit what they cannot see, while you strike with the relentless fury of a storm.\nEffects\n\\-- Wearer rapidly phases in/out of dimension.\n\\-- Makes tasks like grabbing nearly impossible.\n\\-- For save each Rnd; failure causes phase sickness (i.e., phasing must end, feel terrible, greatly reduced MR until more difficult For() succeeds.",
+      "notes": "The Blur Band is an artifact known for its ability to phase the wearer rapidly in and out of dimension, creating a disorienting blur effect. This rapid phasing makes it exceedingly difficult for enemies to track or target the wearer. Attacks targeting the wearer suffer Disadvantage, and grabbing or physically restraining them is nearly impossible. However, the immense physical strain of dimensional phasing takes a toll; the wearer must succeed on a Resist 🫀^🫀 check at the start of each Nish or succumb to phase sickness, which abruptly ends the effect and halves MR until a subsequent Resist 🫀^🫀 check succeeds.\nVisually, the Blur Band is a slender metallic band with shifting geometric engravings. When activated, it pulses with an ethereal glow as the wearer's form blurs and shimmers between dimensions.\nEffects\n-- Wearer rapidly phases in and out of dimension.\n-- Attacks targeting wearer suffer Disadvantage; grabbing wearer is nearly impossible.\n-- Resist 🫀^🫀 at start of each Nish or phasing ends and MR is halved until recovered.",
       "pic": "https://drive.google.com/file/d/19AlYUdYwytcdP7JNtq_a0lOtD3M-kKCR/view?usp=drive_link",
       "discipline": "Sorce",
       "path": "Sorce Relics",
@@ -23082,7 +23082,7 @@
       "genres": [
         "SciFi"
       ],
-      "notes": "The D-Carbine is a highly advanced and unpredictable weapon that uses dimensional technology to fire projectiles with transformative properties. This gun, while similar in design to a standard Blaster Carbine, differentiates itself by shooting two-inch diameter dimensional balls that, after traveling a short distance, transform into a variety of unpredictable objects or entities. These transformations can range from harmless ice cubes to deadly steel beams or even a fully operational combat mech. The randomness of each shot adds an element of chaos, making the D-Carbine both a powerful and a potentially dangerous tool in combat, especially when the results are unknown until the moment of impact.\nIn appearance, the D-Carbine exudes an air of mystery and futuristic elegance. Its sleek, dark metallic body is accentuated with subtle glowing lines that pulse with energy, hinting at the advanced technology within. The gun feels solid and well-balanced in the hand, with a smooth grip and a streamlined design that speaks to its high-tech nature. When fired, the D-Carbine emits a soft hum as the dimensional ball is discharged, leaving a faint trail of light in its wake. The anticipation builds as the ball travels, knowing that within seconds it will morph into something entirely unexpected. The visual spectacle of a dimensional ball transforming mid-air into a mass of rubble, a burning log, or even an android is both awe-inspiring and terrifying, making the D-Carbine a weapon that commands respect and caution.\nEmbrace the unpredictability of the D-Carbine, where every shot is an adventure, and the battlefield becomes your canvas for dimensional chaos and destruction.\nEffects\n\\-- Carbine shoots dimensional balls that transform after 2 Sq.\n\\-- Ball types randomly determined per shot.\n\\- 1 Rubble: 1sq, Dmg(20), knockback/down Str(30)^Str.\n\\- 2 Steel beam: 6” I-beam, hits 2 Sq swath, Str(30)^Str for 15 Sq, Dmg(10).\n\\- 3 Ice Cubes: 2 dozen, no significant Dmg\n\\- 4 Burning logs: Dmg(25), knockback/down Str(20)^Str, ignites flammables, Dmg(10) per Rnd if covered.\n\\- 5 Nest of snakes/insects: 1r expands 1r/rnd for 3 Rngs, Dmg(10) per Rnd\n\\- 6 Mech: Fights for 6 Rnds, then self-destructs at 1r for Dmg(20).\n\\-- Transforms into a 10' tall Mech.\n\\-- One arm: dual laser rifle, other: mechanical claw.\n\\-- Stats: MR(8) Vit(50) Atk/D(20/40) Def/A(10/50).",
+      "notes": "The D-Carbine is an advanced weapon utilizing dimensional technology to fire unpredictable transformative projectiles. Similar in design to a standard Blaster Carbine, it fires two-inch dimensional spheres that transform after traveling two squares into random objects or entities.\nEffects\n-- Carbine shoots dimensional balls that transform after 2 squares.\n-- Ball types randomly determined per shot:\n  1 Rubble: 1sq, Dmg 20, knockdown (💪^💪).\n  2 Steel beam: 2sq swath, Dmg 10, knockdown (💪^💪) and pushed back.\n  3 Ice Cubes: 2 dozen cubes, cosmetic impact (no significant Dmg).\n  4 Burning logs: Dmg 25, knockdown (💪^💪), ignites flammables as a burn hazard.\n  5 Nest of snakes/insects: AoE 1r, Dmg 10 at start of each Nish.\n  6 Combat Mech: Fights for Encounter, then self-destructs (AoE 1r, Dmg 20; stats: MR 8, Vit 50, Atk/Dmg 20, Def/AR 10).",
       "pic": "https://drive.google.com/file/d/1xetY0Zaf-UYMusjfYBgEom04Db_EPRLz/view?usp=drive_link",
       "discipline": "Sorce",
       "path": "Sorce Relics",
@@ -23281,7 +23281,7 @@
         "Modern",
         "SciFi"
       ],
-      "notes": "The EnviroShield is a highly advanced belt pack that, when activated, envelops the wearer in a four-inch thick, skin-tight force shield. This protective barrier is designed to block nearly all environmental hazards, including poison, toxins, diseases, radiation, and even the vacuum of space, providing the wearer with unparalleled protection in the most hostile environments. The shield also automatically seals over any bleeding wounds, stopping the bleeding with remarkable efficiency. Additionally, the EnviroShield comes equipped with a canister of compressed air. The canister automatically refills when exposed to breathable air, ensuring that the shield is always ready for the next use. However, while the shield is effective against environmental threats and small physical elements like sand and water, it does not protect against larger physical impacts or most energy weapons, making it less suitable for combat scenarios.\nVisually, the EnviroShield is an unassuming belt pack that belies its extraordinary capabilities. The pack is sleek and compact, with a durable casing that houses the shield's advanced technology. When activated, the shield materializes instantly, creating a translucent, slightly shimmering barrier that clings closely to the wearer’s body, giving them a slightly ethereal appearance. The shield’s surface ripples gently with each movement, a visual cue that it is actively protecting the wearer from environmental dangers. The air inside remains fresh and breathable, with the canister quietly regulating airflow. The EnviroShield’s design is both functional and elegant, offering a seamless blend of form and function that ensures the wearer can operate in extreme conditions without hindrance.\nEquip yourself with the EnviroShield and step fearlessly into the harshest environments, knowing that no matter the threat, you are wrapped in a cocoon of impenetrable protection.\nEffects\n\\-- Belt pack creates 4\" thick, skin-tight force shield.\n\\-- Auto seals bleeding\n\\-- Stops extreme temps (-200°F to 200°F)\n\\-- Vulnerable (no effect) vs typical physical attacks and energy weapons.\n\\-- While Active; MR() & Agi() penalties",
+      "notes": "The EnviroShield is an advanced belt pack that envelops the wearer in a skin-tight force barrier protecting against poison, toxins, diseases, radiation, vacuum, and extreme temperatures (-200°F to 200°F). Automatically seals bleeding wounds and regulates airflow via an auto-refilling compressed air canister. The shield provides no protection against direct combat attacks.\nEffects\n-- Creates skin-tight environmental force barrier; auto-seals bleeding wounds.\n-- Withstands extreme temperatures (-200°F to 200°F) and hostile atmospheres.\n-- Vulnerable (no protection) against direct physical attacks and energy weapons.",
       "pic": "https://drive.google.com/file/d/1vUTa9z0wsS7T3wtLuLa7E2GYYh8P0QoA/view?usp=drive_link",
       "discipline": "Sorce",
       "path": "Sorce Relics",
@@ -23700,7 +23700,7 @@
       "genres": [
         "SciFi"
       ],
-      "notes": "The Hand-D is an advanced piece of technology designed to make storing and retrieving objects as seamless and efficient as possible. This thin, flexible band wraps comfortably around the user’s hand, with small, easily accessible buttons embedded in the palm. The band houses a mini-transporter device capable of dematerializing a single object, storing its energy pattern within the band’s memory. With a simple press of the store button, the object vanishes from sight, its weight and reduced to zero. When the retrieve button is pressed, the object instantly rematerializes in the user’s hand, exactly as it was positioned when stored. This functionality allows for incredibly fast weapon draws and item swaps, turning what would be a cumbersome process into an effortless, nearly instantaneous action. The Hand-D is an invaluable tool for those who need to manage their gear efficiently, whether in combat or during exploration.\nVisually, the Hand-D is sleek and unobtrusive, designed to blend with the user’s natural movements. The band is made from a high-tech, flexible material that conforms to the shape of the hand, ensuring a snug fit without hindering dexterity. The buttons on the palm are small and discreet, yet easily accessible with a simple press of the thumb or fingers. When activated, the Hand-D emits a faint, barely perceptible hum, signaling the transporter's operation. The moment of storage or retrieval is visually striking: the object in question flickers slightly before either disappearing into thin air or reappearing in the user’s grasp. The Hand-D’s minimalist design, combined with its powerful functionality, gives it an almost magical quality, allowing the user to perform feats that could easily be mistaken for sleight of hand or advanced sorcery by the uninitiated.\nExperience the power of instant access with the Hand-D, where your tools and weapons are always just a button press away, making you faster, more efficient, and ready for anything at a moment’s notice.\nEffects\n\\-- Thin palm-band with mini-transporter; Store/retrieve 1 object up to.\n\\-- Stored item is 0 weight,\n\\-- Cannot store living items; max 1 Hand-D per hand.",
+      "notes": "The Hand-D is a palm band housing a micro-transporter that stores and retrieves a single non-living object instantaneously. With a simple palm press, the object vanishes into digital storage (reducing carried weight to zero); pressing retrieve rematerializes the item instantly in the user's grasp, enabling effortless weapon draws and gear swaps that appear as advanced magic.\nEffects\n-- Palm band micro-transporter stores/retrieves 1 carried object.\n-- Stored item has zero carried weight; cannot store living creatures; max 1 Hand-D per hand.",
       "pic": "https://drive.google.com/file/d/1vGM1s99Tr01WXibLXol4cSUdO5SCuVya/view?usp=drive_link",
       "discipline": "Sorce",
       "path": "Sorce Relics",
@@ -24411,7 +24411,7 @@
         "Modern",
         "SciFi"
       ],
-      "notes": "The Moon Crown is an exquisite and powerful artifact, designed to radiate a stunning, heaven-like light that can illuminate vast distances. This tiara, delicate yet imposing, emits a light so intense that it resembles the brilliance of a sunrise, casting a 90-degree cone of illumination that stretches for miles in front of the wearer. When activated, the light is not just for show; in combat, it becomes a potent tool of disorientation. Any being that perceives the light within the visible spectrum must succeed in resisting its blinding effect, or else be rendered temporarily sightless for the remainder of the round. This effect covers a large area of effect, making the Moon Crown an ideal choice for disrupting enemy formations and gaining a tactical advantage. However, the blinding effect only lasts for one round, as the affected beings' eyes quickly adjust to the intense brightness.\nThe Moon Crown is a beautifully crafted piece of jewelry, its design reminiscent of ancient regal tiaras, with a silver-like sheen that reflects light even in its dormant state. When activated, the crown glows magnificently, with the light emanating from it in a powerful, radiant beam that seems almost divine. The light is both awe-inspiring and formidable, creating a sharp contrast between the wearer and the surrounding darkness. The tiara itself is lightweight and elegant, fitting comfortably on the wearer’s head, yet its presence commands attention. The glow from the Moon Crown not only lights up the environment but also creates an ethereal aura around the wearer, making them appear almost otherworldly, bathed in celestial light.\nHarness the brilliance of the Moon Crown and blind your enemies with the light of a new dawn, turning the tide of battle in your favor with a simple command.\nEffects\n\\-- Crown emits bright light, 90° cone, visible for miles.\n\\-- Non-blinding light lasts 4 hrs if still, 10 mins if moving, 10 Rnds in combat.",
+      "notes": "The Moon Crown is an exquisite regal tiara radiating brilliant celestial illumination. When activated, it casts a wide 90-degree radiant beam of illumination that stretches for miles. In combat, looking directly into the brilliance disorients foes: creatures viewing the crown must succeed on an 👁️^🫀 check or become Blinded.\nEffects\n-- Crown emits bright radiant beam, visible for miles.\n-- Looking directly into radiance: 👁️^🫀 or Blinded.\n-- Non-blinding illumination lasts 4 hours stationary, 10 minutes moving.",
       "pic": "https://drive.google.com/file/d/1RN12ANPjwy7rBCn2uExxbZPDBeW5JFGq/view?usp=drive_link",
       "discipline": "Sorce",
       "path": "Sorce Relics",
@@ -25597,7 +25597,7 @@
         "Modern",
         "SciFi"
       ],
-      "notes": "The Stim \\- Action is a potent stimulant designed to enhance a user’s performance by providing an additional action each round for a limited duration. Upon injection, the stim rapidly increases the user’s ability to react and perform tasks, granting an extra burst of energy that lasts for a few crucial moments. This makes it an invaluable tool in high-pressure situations where every second counts. However, due to its powerful effects, only one action stim can be used per event, ensuring that the user does not overextend themselves or risk adverse effects from overstimulation.\nVisually, the Stim \\- Action is a small, sleek injector containing a vibrant liquid that glows faintly, hinting at the energy-boosting potential within. The injector is designed for quick and easy use, fitting comfortably in the hand and allowing for rapid administration in the heat of battle. Once administered, the user feels an immediate surge of energy, heightening their senses and quickening their reflexes. The stim’s effects are short-lived but intense, providing just enough time to make a critical difference in the outcome of a situation.\nEnhance your combat effectiveness with the Stim \\- Action, giving you the extra edge you need when time is of the essence, and every action could mean the difference between victory and defeat.\nEffects\n\\-- Only 1 action stim works per Event.",
+      "notes": "The Stim - Attack is a potent combat stimulant designed to heighten adrenaline and reflexes, granting 1 extra Attack action. Due to extreme metabolic demand, only 1 action stim can be used per Event.\nEffects\n-- Grants 1 extra Attack action; max 1 action stim per Event.",
       "pic": "https://drive.google.com/file/d/1iqPvm0SIApZlBGz-YAjYtNALag-VD2NK/view?usp=drive_link",
       "discipline": "Sorce",
       "path": "Sorce Relics",
@@ -25614,7 +25614,7 @@
         "Modern",
         "SciFi"
       ],
-      "notes": "The Stim \\- Action is a potent stimulant designed to enhance a user’s performance by providing an additional action each round for a limited duration. Upon injection, the stim rapidly increases the user’s ability to react and perform tasks, granting an extra burst of energy that lasts for a few crucial moments. This makes it an invaluable tool in high-pressure situations where every second counts. However, due to its powerful effects, only one action stim can be used per event, ensuring that the user does not overextend themselves or risk adverse effects from overstimulation.\nVisually, the Stim \\- Action is a small, sleek injector containing a vibrant liquid that glows faintly, hinting at the energy-boosting potential within. The injector is designed for quick and easy use, fitting comfortably in the hand and allowing for rapid administration in the heat of battle. Once administered, the user feels an immediate surge of energy, heightening their senses and quickening their reflexes. The stim’s effects are short-lived but intense, providing just enough time to make a critical difference in the outcome of a situation.\nEnhance your combat effectiveness with the Stim \\- Action, giving you the extra edge you need when time is of the essence, and every action could mean the difference between victory and defeat.\nEffects\n\\-- Only 1 action stim works per Event.",
+      "notes": "The Stim - Partial is a potent combat stimulant designed to quicken motor responses, granting 1 extra Partial action. Due to extreme metabolic demand, only 1 action stim can be used per Event.\nEffects\n-- Grants 1 extra Partial action; max 1 action stim per Event.",
       "pic": "https://drive.google.com/file/d/1iqPvm0SIApZlBGz-YAjYtNALag-VD2NK/view?usp=drive_link",
       "discipline": "Sorce",
       "path": "Sorce Relics",
@@ -25665,7 +25665,7 @@
         "Modern",
         "SciFi"
       ],
-      "notes": "The Stim \\- Action is a potent stimulant designed to enhance a user’s performance by providing an additional action each round for a limited duration. Upon injection, the stim rapidly increases the user’s ability to react and perform tasks, granting an extra burst of energy that lasts for a few crucial moments. This makes it an invaluable tool in high-pressure situations where every second counts. However, due to its powerful effects, only one action stim can be used per event, ensuring that the user does not overextend themselves or risk adverse effects from overstimulation.\nVisually, the Stim \\- Action is a small, sleek injector containing a vibrant liquid that glows faintly, hinting at the energy-boosting potential within. The injector is designed for quick and easy use, fitting comfortably in the hand and allowing for rapid administration in the heat of battle. Once administered, the user feels an immediate surge of energy, heightening their senses and quickening their reflexes. The stim’s effects are short-lived but intense, providing just enough time to make a critical difference in the outcome of a situation.\nEnhance your combat effectiveness with the Stim \\- Action, giving you the extra edge you need when time is of the essence, and every action could mean the difference between victory and defeat.\nEffects\n\\-- Only 1 action stim works per Event.",
+      "notes": "The Stim - Move is a potent combat stimulant designed to supercharge locomotive reflexes, granting 1 extra Move action. Due to extreme metabolic demand, only 1 action stim can be used per Event.\nEffects\n-- Grants 1 extra Move action; max 1 action stim per Event.",
       "pic": "https://drive.google.com/file/d/1iqPvm0SIApZlBGz-YAjYtNALag-VD2NK/view?usp=drive_link",
       "discipline": "Sorce",
       "path": "Sorce Relics",
@@ -26508,7 +26508,7 @@
       "genres": [
         "SciFi"
       ],
-      "notes": "High-frequency precision surgical laser scalpel that cuts and cauterizes simultaneously. 10L rating.",
+      "notes": "High-frequency precision surgical laser scalpel that cuts and cauterizes simultaneously. Rating 10.",
       "pic": null,
       "discipline": "Medical",
       "path": "Surgery",
@@ -26523,7 +26523,7 @@
       "genres": [
         "SciFi"
       ],
-      "notes": "Broad-spectrum synthesized antidote neutralizing common biological toxins and venoms. 10L rating.",
+      "notes": "Broad-spectrum synthesized antidote neutralizing common biological toxins and venoms. Rating 10.",
       "pic": null,
       "discipline": "Medical",
       "path": "First Aid",
@@ -26538,7 +26538,7 @@
       "genres": [
         "SciFi"
       ],
-      "notes": "Pneumatic micro-injector designed for instant dermal delivery of antidotes, vaccines, and stimulants. 10L rating.",
+      "notes": "Pneumatic micro-injector designed for instant dermal delivery of antidotes, vaccines, and stimulants. Rating 10.",
       "pic": null,
       "discipline": "Medical",
       "path": "First Aid",
@@ -26553,7 +26553,7 @@
       "genres": [
         "SciFi"
       ],
-      "notes": "Standard inoculated vaccine dose protecting against prevalent sector pathogens. 10L rating.",
+      "notes": "Standard inoculated vaccine dose protecting against prevalent sector pathogens. Rating 10.",
       "pic": null,
       "discipline": "Medical",
       "path": "First Aid",
@@ -26631,7 +26631,7 @@
       "genres": [
         "SciFi"
       ],
-      "notes": "Generates 2x2 sq area airtight cube; vs air/gas motion. -200°F to 300°F; with AirVault 24 hr air.",
+      "notes": "Generates a 2x2 airtight cube protecting against environmental gas, vacuum, and extreme temperatures (-200°F to 300°F); includes AirVault with 24 hours of breathable air.",
       "pic": "https://drive.google.com/file/d/1N6qp1-4_EEtvH1OdjnU5mds9wCYZjLe1/view?usp=drive_link",
       "discipline": "Tech",
       "path": "Tech Hardware",
@@ -26693,7 +26693,7 @@
       "genres": [
         "SciFi"
       ],
-      "notes": "90° cone of light up to 20 squares; infrared, visible, or both. Mounts via Q-Bond pad.",
+      "notes": "Illuminates a 20-square wide path; infrared, visible, or both. Mounts via Q-Bond pad.",
       "pic": "https://drive.google.com/file/d/19mzigPILooLEqARCbMdnwUozP3UmuknB/view?usp=drive_link",
       "discipline": "Tech",
       "path": "Tech Hardware",
@@ -27019,7 +27019,7 @@
       "genres": [
         "SciFi"
       ],
-      "notes": "A 1’x1' reinforced tech case that can be security sealed for protection (Dif 20). 10L rating.",
+      "notes": "A 1'x1' reinforced tech case that can be security sealed for protection (Dif 20). Rating 10.",
       "pic": null,
       "discipline": "Tech",
       "path": "Engineering",
@@ -27034,7 +27034,7 @@
       "genres": [
         "SciFi"
       ],
-      "notes": "Miscellaneous components, conduits, fuses, and connectors for ship, ATM, or weapon field repairs. 10L rating.",
+      "notes": "Miscellaneous components, conduits, fuses, and connectors for starship, ATM, or weapon field repairs. Rating 10.",
       "pic": null,
       "discipline": "Tech",
       "path": "Engineering",
@@ -29212,7 +29212,7 @@
         "Modern",
         "SciFi"
       ],
-      "notes": "The Blur Band is a compact yet formidable piece of technology designed to alter the user’s physical presence within the surrounding environment. Resembling a heavy, wide, flat choker worn around the neck, it generates a powerful field of dimensional flux when activated. This field causes the wearer to phase in and out of the current dimension, displacing them slightly with each shift. The resulting effect makes the wearer appear as a blur, constantly shifting positions and making it exceedingly difficult for others to pinpoint their exact location. However, this dimensional instability also reduces the precision of the wearer’s own movements, complicating tasks that require fine motor control.\nVisually, the Blur Band is an intriguing blend of sleek design and raw, unrefined power. Its surface is matte, with a dark, metallic finish that seems to absorb light rather than reflect it. When activated, the band emits a subtle, shimmering aura that distorts the air around it, as if the very fabric of reality is being bent and twisted. The wearer’s outline becomes hazy, flickering in and out of focus as they phase between locations. This constant shifting gives the impression of multiple overlapping images, each slightly out of sync, creating a mesmerizing and somewhat disorienting visual spectacle. The effect is both fascinating and unsettling, as the wearer seems to exist in multiple places at once, their presence never fully solidified.\nUnleash the chaos of the Blur Band and become an elusive phantom on the battlefield, where your enemies will struggle to hit what they cannot see, while you strike with the relentless fury of a storm.\nEffects\n\\-- Wearer rapidly phases in/out of dimension.\n\\-- Makes tasks like grabbing nearly impossible.\n\\-- For save each Rnd; failure causes phase sickness (i.e., phasing must end, feel terrible, greatly reduced MR until more difficult For() succeeds.",
+      "notes": "The Blur Band is an artifact known for its ability to phase the wearer rapidly in and out of dimension, creating a disorienting blur effect. This rapid phasing makes it exceedingly difficult for enemies to track or target the wearer. Attacks targeting the wearer suffer Disadvantage, and grabbing or physically restraining them is nearly impossible. However, the immense physical strain of dimensional phasing takes a toll; the wearer must succeed on a Resist 🫀^🫀 check at the start of each Nish or succumb to phase sickness, which abruptly ends the effect and halves MR until a subsequent Resist 🫀^🫀 check succeeds.\nVisually, the Blur Band is a slender metallic band with shifting geometric engravings. When activated, it pulses with an ethereal glow as the wearer's form blurs and shimmers between dimensions.\nEffects\n-- Wearer rapidly phases in and out of dimension.\n-- Attacks targeting wearer suffer Disadvantage; grabbing wearer is nearly impossible.\n-- Resist 🫀^🫀 at start of each Nish or phasing ends and MR is halved until recovered.",
       "pic": "https://drive.google.com/file/d/19AlYUdYwytcdP7JNtq_a0lOtD3M-kKCR/view?usp=drive_link",
       "discipline": "Sorce",
       "path": "Sorce Relics",
@@ -29933,7 +29933,7 @@
       "genres": [
         "SciFi"
       ],
-      "notes": "The D-Carbine is a highly advanced and unpredictable weapon that uses dimensional technology to fire projectiles with transformative properties. This gun, while similar in design to a standard Blaster Carbine, differentiates itself by shooting two-inch diameter dimensional balls that, after traveling a short distance, transform into a variety of unpredictable objects or entities. These transformations can range from harmless ice cubes to deadly steel beams or even a fully operational combat mech. The randomness of each shot adds an element of chaos, making the D-Carbine both a powerful and a potentially dangerous tool in combat, especially when the results are unknown until the moment of impact.\nIn appearance, the D-Carbine exudes an air of mystery and futuristic elegance. Its sleek, dark metallic body is accentuated with subtle glowing lines that pulse with energy, hinting at the advanced technology within. The gun feels solid and well-balanced in the hand, with a smooth grip and a streamlined design that speaks to its high-tech nature. When fired, the D-Carbine emits a soft hum as the dimensional ball is discharged, leaving a faint trail of light in its wake. The anticipation builds as the ball travels, knowing that within seconds it will morph into something entirely unexpected. The visual spectacle of a dimensional ball transforming mid-air into a mass of rubble, a burning log, or even an android is both awe-inspiring and terrifying, making the D-Carbine a weapon that commands respect and caution.\nEmbrace the unpredictability of the D-Carbine, where every shot is an adventure, and the battlefield becomes your canvas for dimensional chaos and destruction.\nEffects\n\\-- Carbine shoots dimensional balls that transform after 2 Sq.\n\\-- Ball types randomly determined per shot.\n\\- 1 Rubble: 1sq, Dmg(20), knockback/down Str(30)^Str.\n\\- 2 Steel beam: 6” I-beam, hits 2 Sq swath, Str(30)^Str for 15 Sq, Dmg(10).\n\\- 3 Ice Cubes: 2 dozen, no significant Dmg\n\\- 4 Burning logs: Dmg(25), knockback/down Str(20)^Str, ignites flammables, Dmg(10) per Rnd if covered.\n\\- 5 Nest of snakes/insects: 1r expands 1r/rnd for 3 Rngs, Dmg(10) per Rnd\n\\- 6 Mech: Fights for 6 Rnds, then self-destructs at 1r for Dmg(20).\n\\-- Transforms into a 10' tall Mech.\n\\-- One arm: dual laser rifle, other: mechanical claw.\n\\-- Stats: MR(8) Vit(50) Atk/D(20/40) Def/A(10/50).",
+      "notes": "The D-Carbine is an advanced weapon utilizing dimensional technology to fire unpredictable transformative projectiles. Similar in design to a standard Blaster Carbine, it fires two-inch dimensional spheres that transform after traveling two squares into random objects or entities.\nEffects\n-- Carbine shoots dimensional balls that transform after 2 squares.\n-- Ball types randomly determined per shot:\n  1 Rubble: 1sq, Dmg 20, knockdown (💪^💪).\n  2 Steel beam: 2sq swath, Dmg 10, knockdown (💪^💪) and pushed back.\n  3 Ice Cubes: 2 dozen cubes, cosmetic impact (no significant Dmg).\n  4 Burning logs: Dmg 25, knockdown (💪^💪), ignites flammables as a burn hazard.\n  5 Nest of snakes/insects: AoE 1r, Dmg 10 at start of each Nish.\n  6 Combat Mech: Fights for Encounter, then self-destructs (AoE 1r, Dmg 20; stats: MR 8, Vit 50, Atk/Dmg 20, Def/AR 10).",
       "pic": "https://drive.google.com/file/d/1xetY0Zaf-UYMusjfYBgEom04Db_EPRLz/view?usp=drive_link",
       "discipline": "Sorce",
       "path": "Sorce Relics",
@@ -30132,7 +30132,7 @@
         "Modern",
         "SciFi"
       ],
-      "notes": "The EnviroShield is a highly advanced belt pack that, when activated, envelops the wearer in a four-inch thick, skin-tight force shield. This protective barrier is designed to block nearly all environmental hazards, including poison, toxins, diseases, radiation, and even the vacuum of space, providing the wearer with unparalleled protection in the most hostile environments. The shield also automatically seals over any bleeding wounds, stopping the bleeding with remarkable efficiency. Additionally, the EnviroShield comes equipped with a canister of compressed air. The canister automatically refills when exposed to breathable air, ensuring that the shield is always ready for the next use. However, while the shield is effective against environmental threats and small physical elements like sand and water, it does not protect against larger physical impacts or most energy weapons, making it less suitable for combat scenarios.\nVisually, the EnviroShield is an unassuming belt pack that belies its extraordinary capabilities. The pack is sleek and compact, with a durable casing that houses the shield's advanced technology. When activated, the shield materializes instantly, creating a translucent, slightly shimmering barrier that clings closely to the wearer’s body, giving them a slightly ethereal appearance. The shield’s surface ripples gently with each movement, a visual cue that it is actively protecting the wearer from environmental dangers. The air inside remains fresh and breathable, with the canister quietly regulating airflow. The EnviroShield’s design is both functional and elegant, offering a seamless blend of form and function that ensures the wearer can operate in extreme conditions without hindrance.\nEquip yourself with the EnviroShield and step fearlessly into the harshest environments, knowing that no matter the threat, you are wrapped in a cocoon of impenetrable protection.\nEffects\n\\-- Belt pack creates 4\" thick, skin-tight force shield.\n\\-- Auto seals bleeding\n\\-- Stops extreme temps (-200°F to 200°F)\n\\-- Vulnerable (no effect) vs typical physical attacks and energy weapons.\n\\-- While Active; MR() & Agi() penalties",
+      "notes": "The EnviroShield is an advanced belt pack that envelops the wearer in a skin-tight force barrier protecting against poison, toxins, diseases, radiation, vacuum, and extreme temperatures (-200°F to 200°F). Automatically seals bleeding wounds and regulates airflow via an auto-refilling compressed air canister. The shield provides no protection against direct combat attacks.\nEffects\n-- Creates skin-tight environmental force barrier; auto-seals bleeding wounds.\n-- Withstands extreme temperatures (-200°F to 200°F) and hostile atmospheres.\n-- Vulnerable (no protection) against direct physical attacks and energy weapons.",
       "pic": "https://drive.google.com/file/d/1vUTa9z0wsS7T3wtLuLa7E2GYYh8P0QoA/view?usp=drive_link",
       "discipline": "Sorce",
       "path": "Sorce Relics",
@@ -30551,7 +30551,7 @@
       "genres": [
         "SciFi"
       ],
-      "notes": "The Hand-D is an advanced piece of technology designed to make storing and retrieving objects as seamless and efficient as possible. This thin, flexible band wraps comfortably around the user’s hand, with small, easily accessible buttons embedded in the palm. The band houses a mini-transporter device capable of dematerializing a single object, storing its energy pattern within the band’s memory. With a simple press of the store button, the object vanishes from sight, its weight and reduced to zero. When the retrieve button is pressed, the object instantly rematerializes in the user’s hand, exactly as it was positioned when stored. This functionality allows for incredibly fast weapon draws and item swaps, turning what would be a cumbersome process into an effortless, nearly instantaneous action. The Hand-D is an invaluable tool for those who need to manage their gear efficiently, whether in combat or during exploration.\nVisually, the Hand-D is sleek and unobtrusive, designed to blend with the user’s natural movements. The band is made from a high-tech, flexible material that conforms to the shape of the hand, ensuring a snug fit without hindering dexterity. The buttons on the palm are small and discreet, yet easily accessible with a simple press of the thumb or fingers. When activated, the Hand-D emits a faint, barely perceptible hum, signaling the transporter's operation. The moment of storage or retrieval is visually striking: the object in question flickers slightly before either disappearing into thin air or reappearing in the user’s grasp. The Hand-D’s minimalist design, combined with its powerful functionality, gives it an almost magical quality, allowing the user to perform feats that could easily be mistaken for sleight of hand or advanced sorcery by the uninitiated.\nExperience the power of instant access with the Hand-D, where your tools and weapons are always just a button press away, making you faster, more efficient, and ready for anything at a moment’s notice.\nEffects\n\\-- Thin palm-band with mini-transporter; Store/retrieve 1 object up to.\n\\-- Stored item is 0 weight,\n\\-- Cannot store living items; max 1 Hand-D per hand.",
+      "notes": "The Hand-D is a palm band housing a micro-transporter that stores and retrieves a single non-living object instantaneously. With a simple palm press, the object vanishes into digital storage (reducing carried weight to zero); pressing retrieve rematerializes the item instantly in the user's grasp, enabling effortless weapon draws and gear swaps that appear as advanced magic.\nEffects\n-- Palm band micro-transporter stores/retrieves 1 carried object.\n-- Stored item has zero carried weight; cannot store living creatures; max 1 Hand-D per hand.",
       "pic": "https://drive.google.com/file/d/1vGM1s99Tr01WXibLXol4cSUdO5SCuVya/view?usp=drive_link",
       "discipline": "Sorce",
       "path": "Sorce Relics",
@@ -31262,7 +31262,7 @@
         "Modern",
         "SciFi"
       ],
-      "notes": "The Moon Crown is an exquisite and powerful artifact, designed to radiate a stunning, heaven-like light that can illuminate vast distances. This tiara, delicate yet imposing, emits a light so intense that it resembles the brilliance of a sunrise, casting a 90-degree cone of illumination that stretches for miles in front of the wearer. When activated, the light is not just for show; in combat, it becomes a potent tool of disorientation. Any being that perceives the light within the visible spectrum must succeed in resisting its blinding effect, or else be rendered temporarily sightless for the remainder of the round. This effect covers a large area of effect, making the Moon Crown an ideal choice for disrupting enemy formations and gaining a tactical advantage. However, the blinding effect only lasts for one round, as the affected beings' eyes quickly adjust to the intense brightness.\nThe Moon Crown is a beautifully crafted piece of jewelry, its design reminiscent of ancient regal tiaras, with a silver-like sheen that reflects light even in its dormant state. When activated, the crown glows magnificently, with the light emanating from it in a powerful, radiant beam that seems almost divine. The light is both awe-inspiring and formidable, creating a sharp contrast between the wearer and the surrounding darkness. The tiara itself is lightweight and elegant, fitting comfortably on the wearer’s head, yet its presence commands attention. The glow from the Moon Crown not only lights up the environment but also creates an ethereal aura around the wearer, making them appear almost otherworldly, bathed in celestial light.\nHarness the brilliance of the Moon Crown and blind your enemies with the light of a new dawn, turning the tide of battle in your favor with a simple command.\nEffects\n\\-- Crown emits bright light, 90° cone, visible for miles.\n\\-- Non-blinding light lasts 4 hrs if still, 10 mins if moving, 10 Rnds in combat.",
+      "notes": "The Moon Crown is an exquisite regal tiara radiating brilliant celestial illumination. When activated, it casts a wide 90-degree radiant beam of illumination that stretches for miles. In combat, looking directly into the brilliance disorients foes: creatures viewing the crown must succeed on an 👁️^🫀 check or become Blinded.\nEffects\n-- Crown emits bright radiant beam, visible for miles.\n-- Looking directly into radiance: 👁️^🫀 or Blinded.\n-- Non-blinding illumination lasts 4 hours stationary, 10 minutes moving.",
       "pic": "https://drive.google.com/file/d/1RN12ANPjwy7rBCn2uExxbZPDBeW5JFGq/view?usp=drive_link",
       "discipline": "Sorce",
       "path": "Sorce Relics",
@@ -32448,7 +32448,7 @@
         "Modern",
         "SciFi"
       ],
-      "notes": "The Stim \\- Action is a potent stimulant designed to enhance a user’s performance by providing an additional action each round for a limited duration. Upon injection, the stim rapidly increases the user’s ability to react and perform tasks, granting an extra burst of energy that lasts for a few crucial moments. This makes it an invaluable tool in high-pressure situations where every second counts. However, due to its powerful effects, only one action stim can be used per event, ensuring that the user does not overextend themselves or risk adverse effects from overstimulation.\nVisually, the Stim \\- Action is a small, sleek injector containing a vibrant liquid that glows faintly, hinting at the energy-boosting potential within. The injector is designed for quick and easy use, fitting comfortably in the hand and allowing for rapid administration in the heat of battle. Once administered, the user feels an immediate surge of energy, heightening their senses and quickening their reflexes. The stim’s effects are short-lived but intense, providing just enough time to make a critical difference in the outcome of a situation.\nEnhance your combat effectiveness with the Stim \\- Action, giving you the extra edge you need when time is of the essence, and every action could mean the difference between victory and defeat.\nEffects\n\\-- Only 1 action stim works per Event.",
+      "notes": "The Stim - Attack is a potent combat stimulant designed to heighten adrenaline and reflexes, granting 1 extra Attack action. Due to extreme metabolic demand, only 1 action stim can be used per Event.\nEffects\n-- Grants 1 extra Attack action; max 1 action stim per Event.",
       "pic": "https://drive.google.com/file/d/1iqPvm0SIApZlBGz-YAjYtNALag-VD2NK/view?usp=drive_link",
       "discipline": "Sorce",
       "path": "Sorce Relics",
@@ -32465,7 +32465,7 @@
         "Modern",
         "SciFi"
       ],
-      "notes": "The Stim \\- Action is a potent stimulant designed to enhance a user’s performance by providing an additional action each round for a limited duration. Upon injection, the stim rapidly increases the user’s ability to react and perform tasks, granting an extra burst of energy that lasts for a few crucial moments. This makes it an invaluable tool in high-pressure situations where every second counts. However, due to its powerful effects, only one action stim can be used per event, ensuring that the user does not overextend themselves or risk adverse effects from overstimulation.\nVisually, the Stim \\- Action is a small, sleek injector containing a vibrant liquid that glows faintly, hinting at the energy-boosting potential within. The injector is designed for quick and easy use, fitting comfortably in the hand and allowing for rapid administration in the heat of battle. Once administered, the user feels an immediate surge of energy, heightening their senses and quickening their reflexes. The stim’s effects are short-lived but intense, providing just enough time to make a critical difference in the outcome of a situation.\nEnhance your combat effectiveness with the Stim \\- Action, giving you the extra edge you need when time is of the essence, and every action could mean the difference between victory and defeat.\nEffects\n\\-- Only 1 action stim works per Event.",
+      "notes": "The Stim - Partial is a potent combat stimulant designed to quicken motor responses, granting 1 extra Partial action. Due to extreme metabolic demand, only 1 action stim can be used per Event.\nEffects\n-- Grants 1 extra Partial action; max 1 action stim per Event.",
       "pic": "https://drive.google.com/file/d/1iqPvm0SIApZlBGz-YAjYtNALag-VD2NK/view?usp=drive_link",
       "discipline": "Sorce",
       "path": "Sorce Relics",
@@ -32516,7 +32516,7 @@
         "Modern",
         "SciFi"
       ],
-      "notes": "The Stim \\- Action is a potent stimulant designed to enhance a user’s performance by providing an additional action each round for a limited duration. Upon injection, the stim rapidly increases the user’s ability to react and perform tasks, granting an extra burst of energy that lasts for a few crucial moments. This makes it an invaluable tool in high-pressure situations where every second counts. However, due to its powerful effects, only one action stim can be used per event, ensuring that the user does not overextend themselves or risk adverse effects from overstimulation.\nVisually, the Stim \\- Action is a small, sleek injector containing a vibrant liquid that glows faintly, hinting at the energy-boosting potential within. The injector is designed for quick and easy use, fitting comfortably in the hand and allowing for rapid administration in the heat of battle. Once administered, the user feels an immediate surge of energy, heightening their senses and quickening their reflexes. The stim’s effects are short-lived but intense, providing just enough time to make a critical difference in the outcome of a situation.\nEnhance your combat effectiveness with the Stim \\- Action, giving you the extra edge you need when time is of the essence, and every action could mean the difference between victory and defeat.\nEffects\n\\-- Only 1 action stim works per Event.",
+      "notes": "The Stim - Move is a potent combat stimulant designed to supercharge locomotive reflexes, granting 1 extra Move action. Due to extreme metabolic demand, only 1 action stim can be used per Event.\nEffects\n-- Grants 1 extra Move action; max 1 action stim per Event.",
       "pic": "https://drive.google.com/file/d/1iqPvm0SIApZlBGz-YAjYtNALag-VD2NK/view?usp=drive_link",
       "discipline": "Sorce",
       "path": "Sorce Relics",
@@ -33359,7 +33359,7 @@
       "genres": [
         "SciFi"
       ],
-      "notes": "High-frequency precision surgical laser scalpel that cuts and cauterizes simultaneously. 10L rating.",
+      "notes": "High-frequency precision surgical laser scalpel that cuts and cauterizes simultaneously. Rating 10.",
       "pic": null,
       "discipline": "Medical",
       "path": "Surgery",
@@ -33374,7 +33374,7 @@
       "genres": [
         "SciFi"
       ],
-      "notes": "Broad-spectrum synthesized antidote neutralizing common biological toxins and venoms. 10L rating.",
+      "notes": "Broad-spectrum synthesized antidote neutralizing common biological toxins and venoms. Rating 10.",
       "pic": null,
       "discipline": "Medical",
       "path": "First Aid",
@@ -33389,7 +33389,7 @@
       "genres": [
         "SciFi"
       ],
-      "notes": "Pneumatic micro-injector designed for instant dermal delivery of antidotes, vaccines, and stimulants. 10L rating.",
+      "notes": "Pneumatic micro-injector designed for instant dermal delivery of antidotes, vaccines, and stimulants. Rating 10.",
       "pic": null,
       "discipline": "Medical",
       "path": "First Aid",
@@ -33404,7 +33404,7 @@
       "genres": [
         "SciFi"
       ],
-      "notes": "Standard inoculated vaccine dose protecting against prevalent sector pathogens. 10L rating.",
+      "notes": "Standard inoculated vaccine dose protecting against prevalent sector pathogens. Rating 10.",
       "pic": null,
       "discipline": "Medical",
       "path": "First Aid",
@@ -33482,7 +33482,7 @@
       "genres": [
         "SciFi"
       ],
-      "notes": "Generates 2x2 sq area airtight cube; vs air/gas motion. -200°F to 300°F; with AirVault 24 hr air.",
+      "notes": "Generates a 2x2 airtight cube protecting against environmental gas, vacuum, and extreme temperatures (-200°F to 300°F); includes AirVault with 24 hours of breathable air.",
       "pic": "https://drive.google.com/file/d/1N6qp1-4_EEtvH1OdjnU5mds9wCYZjLe1/view?usp=drive_link",
       "discipline": "Tech",
       "path": "Tech Hardware",
@@ -33544,7 +33544,7 @@
       "genres": [
         "SciFi"
       ],
-      "notes": "90° cone of light up to 20 squares; infrared, visible, or both. Mounts via Q-Bond pad.",
+      "notes": "Illuminates a 20-square wide path; infrared, visible, or both. Mounts via Q-Bond pad.",
       "pic": "https://drive.google.com/file/d/19mzigPILooLEqARCbMdnwUozP3UmuknB/view?usp=drive_link",
       "discipline": "Tech",
       "path": "Tech Hardware",
@@ -33870,7 +33870,7 @@
       "genres": [
         "SciFi"
       ],
-      "notes": "A 1’x1' reinforced tech case that can be security sealed for protection (Dif 20). 10L rating.",
+      "notes": "A 1'x1' reinforced tech case that can be security sealed for protection (Dif 20). Rating 10.",
       "pic": null,
       "discipline": "Tech",
       "path": "Engineering",
@@ -33885,7 +33885,7 @@
       "genres": [
         "SciFi"
       ],
-      "notes": "Miscellaneous components, conduits, fuses, and connectors for ship, ATM, or weapon field repairs. 10L rating.",
+      "notes": "Miscellaneous components, conduits, fuses, and connectors for starship, ATM, or weapon field repairs. Rating 10.",
       "pic": null,
       "discipline": "Tech",
       "path": "Engineering",
