@@ -24,7 +24,7 @@ Master indexed weapons directory.
 | **Botanic Grenades** | Hurled | 🏃 12 | None | 🏃 | 🏃 | 2g |
 | **Bow** | Shot | 👁️ 8 | None | 👁️ | 👁️ | 2g |
 | **Bow (Long)** | Shot | 👁️ 6 | n/a | 👁️ | 👁️ | 3g |
-| **Brawl** | Melee | 💪 4 | n/a | 💪 | 💪 | X |
+| **Brawl** | Melee | 💪 4 | n/a | 💪 | 💪-1d | X |
 | **Caustic Spitter** | Shot | 💪 12 | 24 | 💪 | 💪 | 7g |
 | **Chain Whip** | Melee | 💪 4 | 8 | 💪 | 💪 | 2g |
 | **Channel Crystals** | Hurled | 🏃 8 | None | 🏃 | 🏃 | 3g |
@@ -63,7 +63,7 @@ Master indexed weapons directory.
 | **Heavy Flail** | Melee | 💪 10 | 20 | 💪 | 💪 | 5g |
 | **Homing Disc** | Hurled | 🏃 8 | None | 🏃 | 🏃 | 4g |
 | **Hydro Flamer** | Shot | 👁️ 12 | None | 👁️ | 👁️ | 8g |
-| **Improvised** | Melee | 💪 4 | 8 | 💪-1d | 💪 | X |
+| **Improvised** | Melee | 💪 4 | 8 | 💪 | 💪-1d | X |
 | **Inferno Blade** | Melee | 💪 10 | 20 | 💪 | 💪 | 6g |
 | **Javelin-Sword** | Melee, Shot | 💪 8, 👁️ 6 | 16 | 💪, 👁️ | 💪, 👁️ | 4g |
 | **Laser Blade** | Melee | 💪 8 | 16 | 💪 | 💪 | 5g |
@@ -121,8 +121,8 @@ Master indexed weapons directory.
 | **Talon-Spear** | Melee, Hurled | 💪 8, 🏃 8 | 16 | 💪, 🏃 | 💪, 🏃 | 3g |
 | **Thermite Grenades** | Hurled | 🏃 12 | None | 🏃 | 🏃 | 3g |
 | **Thorn Gauntlets** | Melee | 💪 8 | 16 | 💪 | 💪 | 3g |
-| **Throw** | Hurled | 🏃 4 | None | 🏃 | 🏃 | 0s |
-| **Throw Object** | Hurled | 🏃 4 | n/a | 🏃 | 💪-1d | X |
+| **Throw** | Hurled | 🏃 4 | n/a | 🏃-1d | 🏃 | 0s |
+| **Throw Object** | Hurled | 🏃 4 | n/a | 🏃-1d | 🏃 | X |
 | **Throwing Axes** | Melee, Hurled | 💪 6, 🏃 6 | 12 | 💪, 🏃 | 💪, 🏃 | 1g |
 | **Throwing Knives (set)** | Hurled | 🏃 4 | n/a | 🏃 | 🏃 | 2g |
 | **Toothed Dagger** | Melee, Hurled | 💪 6, 🏃 6 | 12 | 💪, 🏃 | 💪, 🏃 | 2g |

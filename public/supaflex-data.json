@@ -16484,7 +16484,7 @@
       "cost": "X",
       "created_at": "2026-08-13T21:26:27.294759+00:00",
       "atk": "💪",
-      "dmg": "💪",
+      "dmg": "💪-1d",
       "genres": [
         "Medieval",
         "Modern",
@@ -17284,8 +17284,8 @@
       "max_block": "8",
       "cost": "X",
       "created_at": "2026-08-13T21:26:27.294759+00:00",
-      "atk": "💪-1d",
-      "dmg": "💪",
+      "atk": "💪",
+      "dmg": "💪-1d",
       "genres": [
         "Medieval",
         "Modern",
@@ -18456,10 +18456,10 @@
       "name": "Throw",
       "type": "Hurled",
       "requirement": "🏃 4",
-      "max_block": null,
+      "max_block": "n/a",
       "cost": "0s",
       "created_at": "2026-08-13T21:26:27.389133+00:00",
-      "atk": "🏃",
+      "atk": "🏃-1d",
       "dmg": "🏃",
       "genres": [
         "Medieval",
@@ -18480,8 +18480,8 @@
       "max_block": "n/a",
       "cost": "X",
       "created_at": "2026-08-13T21:26:27.389133+00:00",
-      "atk": "🏃",
-      "dmg": "💪-1d",
+      "atk": "🏃-1d",
+      "dmg": "🏃",
       "genres": [
         "Medieval",
         "Modern",

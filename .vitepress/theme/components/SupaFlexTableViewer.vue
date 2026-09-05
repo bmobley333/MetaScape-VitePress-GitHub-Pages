@@ -784,7 +784,7 @@ const selectCategoryTab = (tab) => {
                 <td>{{ w.requirement }}</td>
                 <td>{{ w.max_block }}</td>
                 <td>{{ w.atk }}</td>
-                <td>{{ w.dmg }}</td>
+                <td :title="w.dmg === '❌' ? 'Special Damage: Governed by loaded ammunition type from Equipment' : undefined">{{ w.dmg }}</td>
                 <td>{{ w.cost }}</td>
               </tr>
               <tr v-if="filteredWeapons.length === 0"><td colspan="7" class="no-results">No weapons match your search.</td></tr>
