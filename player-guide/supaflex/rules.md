@@ -69,9 +69,9 @@ The complete SupaFlex game system is structured around the **Trinity of Mechanic
 | **Gear (`⚙️`)** | Mundane Tools, Electronics, Supplies, Weapons, Armor, Shields | Baseline physical items (0 Function Slots, no attached Function). Priced in $g / s$. |
 | **Exotic (`🧿`)** | Functions, Spec Rules, Mods | Extraordinary, high-tech, cybernetic, or biotech hardware (1–4 Function Slots). Priced in $g / s$. |
 | **Artifact (`🔮`)** | Functions, Spec Rules, Legendary Powers | Ancient, magical, or alien relics (1–4 Function Slots). Unpurchasable market treasure (Cost = `"Artifact"`). |
-| **Mod (`🔌`)** | Functions, Spec Rules | Named modification, hardware attachment, or enchantment (e.g. *Joint Locks*). Cost + belongs to parent item. |
+| **Mod (`🔌`)** | Functions, Spec Rules | Optional modification, module, hardware attachment, or non-tactical upgrade with a financial cost ($g/s$) and belongs_to parent item. Houses descriptive specs or grants Functions. Uses {Free} only when standard factory equipment on a chassis. |
 | **Kit (`🎒`)** | Gear, Weapons, Armor, Shields, Exotics, Mods, Functions, Spec Rules | Master pre-assembled bundle / hardware suite. Has overall kit cost (e.g. `45s`, `120g`). |
-| **Function (`🧿`)** | *(Actionable Rules Execution)* | Equipment ability nearly identical to a Power (`Action`, `Usage`, `Effect`, `Cost`). Drawn from Function Slots (`🧿`). |
+| **Function (`🧿`)** | *(Actionable Rules Execution)* | Equipment ability nearly identical to a Power (`Action`, `Usage`, `Effect`, `Tier`). Drawn from Function Slots (`🧿`). NEVER carries a financial cost ($0s$) and is universally {Free}. Belongs to either a `Mod:` (if modular/aftermarket) or `Gear:` (if inherent to an Exotic/Artifact) — never both. |
 | **Spec Rule (`📜`)** | *(Passive / Systemic Rule Hook)* | Systemic rule, environmental immunity, or passive trait hook. Cost + belongs to parent item. |
 
 ### 🔑 Architectural Pillars & Hierarchy Rules
@@ -96,6 +96,18 @@ The complete SupaFlex game system is structured around the **Trinity of Mechanic
    * Weapons, Armor, and Shields are all **Equipment (`🧰`)**.
    * Standard weapons, armor, and shields are mundane **Gear (`⚙️`)** (0 Function Slots). Specialized, high-tech, or enchanted versions exist as **Exotics (`🧿`)** (occupying 1–4 Function Slots) or can accept **Mods (`🔌`)**.
    * **Default Gear Possession Rule:** When a character learns or becomes skilled in a new weapon, armor, or shield (via starting Path or AP advancement), the default system rule is that they are assumed to possess that physical item as standard mundane Gear (`⚙️`) (unless the GM determines otherwise based on campaign tone and narrative context).
+
+5. **🔌 Mods vs. 🧿 Functions Canonical Invariants:**
+   * **Mods (`🔌`) = Physical Commerce & Hardware Attachment Layer:**
+     * *Optional & Modular:* Represents an optional module, aftermarket installation, or physical hardware upgrade.
+     * *Market Commerce:* Carries a financial purchase cost ($g/s$), unless factory-installed as standard equipment on a specific suit or chassis (`{Free}`).
+     * *Mundane Specs:* Houses non-tactical, descriptive, or mechanical notes that do not belong on the base chassis and do not consume combat Function Slots (e.g. *Microgrenade Fitting*, *Compensators*, *Macro Zoom*).
+     * *Parentage:* Always belongs to one or more Equipment items via `belongs_to: "Gear: [Item]"` or `belongs_to: "Armor: [Suit]"`.
+   * **Functions (`🧿`) = Rules-Engine Execution & Slot Bandwidth Layer:**
+     * *Combat Rules Execution:* Actionable encounter abilities (`Action`, `Usage`, `Effect`, `Tier`) nearly identical to Powers, drawn from Function Slots (`🍺 Minor 1`, `🪄 Lesser 2`, `🪬 Greater 3`, `💫 Epic 4`).
+     * *Zero Financial Cost:* NEVER carries a financial cost ($g/s$). The `cost` column is permanently deprecated/omitted.
+     * *Universally Free:* Possessing the granting Equipment or Mod automatically unlocks the Function. The `{Free}` tag is redundant on Functions and is stripped.
+     * *Clean Single Parentage:* A Function belongs to EITHER a Mod (`belongs_to: "Mod: [ModName]"`) OR directly to Equipment (`belongs_to: "Gear: [ItemName]"`) — NEVER both. If an item has a Mod, the Function links to the Mod, and the Mod links to the Gear.
 
 ### ⚔️ Dual-Role Architecture: Supabase Weapons, Armor & Shields (Abilities vs. Physical Equipment)
 In SupaFlex, the Supabase database tables `weapons`, `armor`, and `shields` fulfill a deliberate **Dual Role** across the application architecture, serving as the single source of truth for both character combat capabilities and physical inventory/commerce:
@@ -292,7 +304,7 @@ Focus Die – A core resource die (d4–d12) that can be spent once per roll af
 
 Function Slots🧿 – The universal capacity pool (Base 4 Slots at Level 1) governing how many Functions🧿 a character can actively ready simultaneously. Expands via the uncapped $+2\text{ Slots}$ per $k\text{ AP}$ schedule.
 
-Functions🧿 – Actionable equipment-derived abilities (`Action`, `Usage`, `Effect`, `Cost`) originating from Exotics🧿, Artifacts🔮, or Mods🔌 that occupy Function Slots🧿 on the character sheet. Inactive functions rest in the Vault📦.
+Functions🧿 – Actionable equipment-derived abilities (`Action`, `Usage`, `Effect`, `Tier`) originating from Exotics🧿, Artifacts🔮, or Mods🔌 that occupy Function Slots🧿 on the character sheet. Incur zero financial cost ($0s$) and are universally free once the parent item/mod is owned. Inactive functions rest in the Vault📦.
 
 g / gp (Gold Piece) – Primary gold currency; 100 silver (s) = 1 gold (g).
 
