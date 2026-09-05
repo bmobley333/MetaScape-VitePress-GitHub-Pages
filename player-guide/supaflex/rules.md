@@ -105,8 +105,9 @@ The complete SupaFlex game system is structured around the **Trinity of Mechanic
      * *Parentage:* Always belongs to one or more Equipment items via `belongs_to: "Gear: [Item]"` or `belongs_to: "Armor: [Suit]"`.
    * **Functions (`🧿`) = Rules-Engine Execution & Slot Bandwidth Layer:**
      * *Combat Rules Execution:* Actionable encounter abilities (`Action`, `Usage`, `Effect`, `Tier`) nearly identical to Powers, drawn from Function Slots (`🍺 Minor 1`, `🪄 Lesser 2`, `🪬 Greater 3`, `💫 Epic 4`).
-     * *Zero Financial Cost:* NEVER carries a financial cost ($g/s$). The `cost` column is permanently deprecated/omitted.
+     * *Zero Financial Cost:* NEVER carries a financial cost ($g/s$). The `cost` column is permanently eliminated from databases and spreadsheets.
      * *Universally Free:* Possessing the granting Equipment or Mod automatically unlocks the Function. The `{Free}` tag is redundant on Functions and is stripped.
+     * *Canonical Tier vs. Derived Slot Weight (Strict DRY):* The database and sheets exclusively store canonical `tier` (`Minor 🍺`, `Lesser 🪄`, `Greater 🪬`, `Epic 💫`). The redundant `slot_weight` column is permanently purged across PostgreSQL (`public.functions`) and Google Sheets (`SB_Functions`). Numeric slot weight (1–4) is derived dynamically at runtime via `getTierSlotWeight()`, eliminating schema drift and non-DRY human entry desynchronization.
      * *Clean Single Parentage:* A Function belongs to EITHER a Mod (`belongs_to: "Mod: [ModName]"`) OR directly to Equipment (`belongs_to: "Gear: [ItemName]"`) — NEVER both. If an item has a Mod, the Function links to the Mod, and the Mod links to the Gear.
 
 ### ⚔️ Dual-Role Architecture: Supabase Weapons, Armor & Shields (Abilities vs. Physical Equipment)
