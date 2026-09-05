@@ -4,6 +4,21 @@ Master indexed equipment directory.
 
 | Category | Item Name | Cost |
 | --- | --- | --- |
+| Ammo & Power | **Energy Clip (mso)** | 25s |
+| Ammunition | **Assassin Missile (mso)** | 4g |
+| Ammunition | **Explosive Missile (mso)** | 1g 50s |
+| Ammunition | **Flash-Bang Grenade (mso)** | 35s |
+| Ammunition | **Gas Grenade (mso)** | 50s |
+| Ammunition | **High Explosive Grenade (mso)** | 50s |
+| Ammunition | **Hunter Missile (mso)** | 2g |
+| Ammunition | **Incendiary Grenade (mso)** | 75s |
+| Ammunition | **Seeker Missile (mso)** | 3g |
+| Ammunition | **Shock Grenade (mso)** | 60s |
+| Ammunition | **Signal Flare Pack (x10) (mso)** | 5s |
+| Ammunition | **Smoke Grenade (mso)** | 25s |
+| Ammunition | **Specialty Arrows Quiver (mso)** | 50s |
+| Ammunition | **Specialty Bolts Quiver (mso)** | 50s |
+| Ammunition | **Tangler Grenade (mso)** | 40s |
 | Artifact | **[Armor] of Serenity** | Artifact |
 | Artifact | **[Weapon] of Echoes** | Artifact |
 | Artifact | **[Weapon] of Glimmer** | Artifact |
@@ -19,6 +34,8 @@ Master indexed equipment directory.
 | Artifact | **Apron of Endless Pockets** | Artifact |
 | Artifact | **Ash-and-Blood WarPaint** | Artifact |
 | Artifact | **Ash-Herb Pouch** | Artifact |
+| Artifact | **ATM Sphere (mso)** | Artifact |
+| Artifact | **ATV Tumbler (mso)** | Artifact |
 | Artifact | **Backpack of Holding** | Artifact |
 | Artifact | **Banner of Eternity** | Artifact |
 | Artifact | **Bell of Guidance** | Artifact |
@@ -32,11 +49,13 @@ Master indexed equipment directory.
 | Artifact | **Bookmark of Memory** | Artifact |
 | Artifact | **Boom [Weapon]** | Artifact |
 | Artifact | **Boots of Boundless Step** | Artifact |
+| Artifact | **Boots of Levitation (mso)** | Artifact |
 | Artifact | **Boots of Springsteel** | Artifact |
 | Artifact | **Boots of the Cyclone** | Artifact |
 | Artifact | **Bracers of Psionic Focus** | Artifact |
 | Artifact | **Bracers of Strength** | Artifact |
 | Artifact | **Bracers of the Unbroken Stance** | Artifact |
+| Artifact | **Buoyancy Cylinders (mso)** | Artifact |
 | Artifact | **Candle of Calm** | Artifact |
 | Artifact | **Candle Spark** | Artifact |
 | Artifact | **Cape of Winds** | Artifact |
@@ -49,11 +68,14 @@ Master indexed equipment directory.
 | Artifact | **Chime of Warning** | Artifact |
 | Artifact | **Chissel of Defiance** | Artifact |
 | Artifact | **Chroma [Armor]** | Artifact |
+| Artifact | **Circlet of Armor Store (mso)** | Artifact |
 | Artifact | **Circus Cloak - Hidden Pockets** | Artifact |
 | Artifact | **Circus Cloak - Magnetized Circus** | Artifact |
 | Artifact | **Cloak of Endless Steps** | Artifact |
 | Artifact | **Cloak of Feathers** | Artifact |
 | Artifact | **Cloak of Shadows** | Artifact |
+| Artifact | **Cloaking Mines (mso)** | Artifact |
+| Artifact | **Cloaking Shield (mso)** | Artifact |
 | Artifact | **Clockwork [Ranged Weapon]** | Artifact |
 | Artifact | **Codex of All Names** | Artifact |
 | Artifact | **Compass of True North** | Artifact |
@@ -66,6 +88,8 @@ Master indexed equipment directory.
 | Artifact | **Crystal Guitar** | Artifact |
 | Artifact | **Crystal Lens** | Artifact |
 | Artifact | **Cursed Coin** | Artifact |
+| Artifact | **Cyber Legs, Speed (mso)** | Artifact |
+| Artifact | **Cyber Legs, Strength (mso)** | Artifact |
 | Artifact | **Cyber X-Ray Eye** | Artifact |
 | Artifact | **Cyber-Legs, Speed** | Artifact |
 | Artifact | **Cyber-Legs, Strength** | Artifact |
@@ -76,18 +100,25 @@ Master indexed equipment directory.
 | Artifact | **D-Walker** | Artifact |
 | Artifact | **Decohesion Gun** | Artifact |
 | Artifact | **Dice of Fortune** | Artifact |
+| Artifact | **Dimensional Disks (mso)** | Artifact |
+| Artifact | **Dimensional Phaser (mso)** | Artifact |
+| Artifact | **Dimensional Shifter (mso)** | Artifact |
+| Artifact | **Dimensional Transporter (mso)** | Artifact |
 | Artifact | **Dragon [Armor]** | Artifact |
 | Artifact | **Drum [Weapon]** | Artifact |
 | Artifact | **Elven Chain Mail of Silent Passage** | Artifact |
 | Artifact | **Ember [Armor]** | Artifact |
 | Artifact | **Ember [Weapon]** | Artifact |
 | Artifact | **Ember Pin** | Artifact |
+| Artifact | **Energy Bracer (mso)** | Artifact |
+| Artifact | **Environ Shield (mso)** | Artifact |
 | Artifact | **EnviroShield** | Artifact |
 | Artifact | **Fat Frog Idol** | Artifact |
 | Artifact | **Feather Charm** | Artifact |
 | Artifact | **Feather of Falling** | Artifact |
 | Artifact | **Fine Slik Shirt** | Artifact |
 | Artifact | **Flamebrand [Weapon]** | Artifact |
+| Artifact | **Fluid Key (mso)** | Artifact |
 | Artifact | **Flute of Frenzy** | Artifact |
 | Artifact | **Frost Pebble** | Artifact |
 | Artifact | **Frostfang [Weapon]** | Artifact |
@@ -103,14 +134,18 @@ Master indexed equipment directory.
 | Artifact | **Glowstick Baton** | Artifact |
 | Artifact | **Golden Sunstone** | Artifact |
 | Artifact | **Graffiti Spraycan** | Artifact |
+| Artifact | **Grappling Gloves (mso)** | Artifact |
+| Artifact | **Grav Pad (mso)** | Artifact |
 | Artifact | **GravLift** | Artifact |
 | Artifact | **Grease Vial** | Artifact |
 | Artifact | **Gust Stone** | Artifact |
 | Artifact | **GyroLock** | Artifact |
+| Artifact | **Gyroscopic Stabilizer (mso)** | Artifact |
 | Artifact | **Hand-D** | Artifact |
 | Artifact | **Harp of Discord** | Artifact |
 | Artifact | **Helm of Clarity** | Artifact |
 | Artifact | **Higgs Band** | Artifact |
+| Artifact | **Holo Camera (mso)** | Artifact |
 | Artifact | **Holo-Sunglasses** | Artifact |
 | Artifact | **Hoodie of Anarchy** | Artifact |
 | Artifact | **Horn of Ruin** | Artifact |
@@ -123,6 +158,7 @@ Master indexed equipment directory.
 | Artifact | **Iron Sand Pouch** | Artifact |
 | Artifact | **Ironcore Gambler’s Dice** | Artifact |
 | Artifact | **Ironplate Light Armor** | Artifact |
+| Artifact | **Jump-Boots (mso)** | Artifact |
 | Artifact | **Katars of the Unbending Steel (Resolve & Execution)** | Artifact |
 | Artifact | **Keeth’s Mystical Bands** | Artifact |
 | Artifact | **Keeth’s Shadowform** | Artifact |
@@ -133,6 +169,8 @@ Master indexed equipment directory.
 | Artifact | **Lantern of Clarity** | Artifact |
 | Artifact | **Lantern of Truth** | Artifact |
 | Artifact | **Lantern of Whispers** | Artifact |
+| Artifact | **Lesser Archaic Amulet (mso)** | Artifact |
+| Artifact | **Lesser Archaic Ring (mso)** | Artifact |
 | Artifact | **Loaded Gambler’s Dice** | Artifact |
 | Artifact | **Longsword of the Street Rebel** | Artifact |
 | Artifact | **Lucky Coin** | Artifact |
@@ -143,6 +181,7 @@ Master indexed equipment directory.
 | Artifact | **Mask of Whispers** | Artifact |
 | Artifact | **Mech Core** | Artifact |
 | Artifact | **Medallion of Calm** | Artifact |
+| Artifact | **Mind Wipe (mso)** | Artifact |
 | Artifact | **Mindstone Charm** | Artifact |
 | Artifact | **Mirror [Shield]** | Artifact |
 | Artifact | **Mirror of the Other You** | Artifact |
@@ -156,19 +195,24 @@ Master indexed equipment directory.
 | Artifact | **Neon [Weapon]** | Artifact |
 | Artifact | **Neon Skateboard** | Artifact |
 | Artifact | **Neon Sunglasses** | Artifact |
+| Artifact | **Ninja Phaser (mso)** | Artifact |
 | Artifact | **Orb \- Luck** | Artifact |
 | Artifact | **Orb of Echo Memory** | Artifact |
 | Artifact | **Orb of Frost** | Artifact |
 | Artifact | **Orb of Worlds** | Artifact |
+| Artifact | **Oregrimmer Worm (mso)** | Artifact |
 | Artifact | **OstealSteel** | Artifact |
+| Artifact | **Particle Modifier (mso)** | Artifact |
 | Artifact | **Pebble of Echoes** | Artifact |
 | Artifact | **PhaseStrider** | Artifact |
 | Artifact | **Phoenix [Weapon]** | Artifact |
+| Artifact | **Pocket Dimension (mso)** | Artifact |
 | Artifact | **Pocket Lantern** | Artifact |
 | Artifact | **Potion of Glimmer** | Artifact |
 | Artifact | **Potion of Healing** | Artifact |
 | Artifact | **Potion of Iron Skin** | Artifact |
 | Artifact | **PowerStiker** | Artifact |
+| Artifact | **Pulsing Palm (mso)** | Artifact |
 | Artifact | **Q-Bond 2 Boots** | Artifact |
 | Artifact | **Q-Bond Boots** | Artifact |
 | Artifact | **Q-Cam** | Artifact |
@@ -183,6 +227,7 @@ Master indexed equipment directory.
 | Artifact | **RamJet Harness** | Artifact |
 | Artifact | **Rapier of Impure Alloy** | Artifact |
 | Artifact | **Red Dot Scope** | Artifact |
+| Artifact | **Ring of Light (mso)** | Artifact |
 | Artifact | **Ring of the Serpent** | Artifact |
 | Artifact | **Ring of Two Stars** | Artifact |
 | Artifact | **Rune Flask of Blackaxe Ale** | Artifact |
@@ -192,6 +237,7 @@ Master indexed equipment directory.
 | Artifact | **Scepter of Storms** | Artifact |
 | Artifact | **Scout Swarm** | Artifact |
 | Artifact | **Scroll of the Commet** | Artifact |
+| Artifact | **Sensor Spiders (mso)** | Artifact |
 | Artifact | **Shadow Thread** | Artifact |
 | Artifact | **ShadowBand** | Artifact |
 | Artifact | **Shard of Echo** | Artifact |
@@ -201,21 +247,27 @@ Master indexed equipment directory.
 | Artifact | **Shimmer Veil [Armor]** | Artifact |
 | Artifact | **Shoes of Silence** | Artifact |
 | Artifact | **SlingGauntlets** | Artifact |
+| Artifact | **Slow Glass (mso)** | Artifact |
 | Artifact | **Smoke Bomb of Shrouding** | Artifact |
 | Artifact | **Smoke Bomb Satchel** | Artifact |
 | Artifact | **Smoke Pellet** | Artifact |
 | Artifact | **Soap Bubble Wand** | Artifact |
+| Artifact | **Somatones (mso)** | Artifact |
 | Artifact | **Sonic Marble** | Artifact |
+| Artifact | **Sorce Sphere (mso)** | Artifact |
 | Artifact | **Soulpiercer [Weapon]** | Artifact |
 | Artifact | **Spark Key** | Artifact |
 | Artifact | **Spear of the Horizon** | Artifact |
 | Artifact | **Spearof Phalanx** | Artifact |
 | Artifact | **SpectraGuard** | Artifact |
+| Artifact | **Speed Displacer (mso)** | Artifact |
+| Artifact | **Sphere of Will (mso)** | Artifact |
 | Artifact | **Spiked Choker** | Artifact |
 | Artifact | **Spiked Vest of the Punk Gods** | Artifact |
 | Artifact | **Staff of Eternal Flame** | Artifact |
 | Artifact | **Staff of Force** | Artifact |
 | Artifact | **Starlight [Armor]** | Artifact |
+| Artifact | **Static Bar (mso)** | Artifact |
 | Artifact | **Sticky Gloves** | Artifact |
 | Artifact | **Sticky String** | Artifact |
 | Artifact | **Stim +10 Vit** | Artifact |
@@ -236,12 +288,16 @@ Master indexed equipment directory.
 | Artifact | **Storm [Weapon]** | Artifact |
 | Artifact | **Sunglow Brooch** | Artifact |
 | Artifact | **Sunpetal Brooch** | Artifact |
+| Artifact | **Suspensor Belt (mso)** | Artifact |
 | Artifact | **Temporal Spray** | Artifact |
 | Artifact | **The Wall (Bronze Shield of the Fallen)** | Artifact |
+| Artifact | **The Wraith (mso)** | Artifact |
 | Artifact | **Throne of Ashes** | Artifact |
 | Artifact | **Thumper** | Artifact |
 | Artifact | **Thunder [Armor]** | Artifact |
 | Artifact | **Thunder [Weapon]** | Artifact |
+| Artifact | **Tiara of Light (mso)** | Artifact |
+| Artifact | **Titanium Endo Skeleton (mso)** | Artifact |
 | Artifact | **Tome of Forgotten Lore** | Artifact |
 | Artifact | **Tome of Forgotten Stars** | Artifact |
 | Artifact | **Tonic of Clarity** | Artifact |
@@ -250,6 +306,7 @@ Master indexed equipment directory.
 | Artifact | **Tower Shield of the Blackaxe** | Artifact |
 | Artifact | **Tower Shield of the Blackaxe (Runic Ward)** | Artifact |
 | Artifact | **Trickster’s Satchel** | Artifact |
+| Artifact | **Ultralock 2 Boots (mso)** | Artifact |
 | Artifact | **Umbrella of Defiance** | Artifact |
 | Artifact | **Vial of Sacred Dust** | Artifact |
 | Artifact | **Vine Cord** | Artifact |
@@ -258,8 +315,10 @@ Master indexed equipment directory.
 | Artifact | **Volcanic Shard of Reth’Vash 1** | Artifact |
 | Artifact | **Volcanic Shard of Reth’Vash 2** | Artifact |
 | Artifact | **Volcanic Shard of Reth’Vash 3** | Artifact |
+| Artifact | **Wall Ball (mso)** | Artifact |
 | Artifact | **Wall of Thune** | Artifact |
 | Artifact | **Wand of Fire Bolts** | Artifact |
+| Artifact | **Warrior Servant (mso)** | Artifact |
 | Artifact | **Water Skin of Plenty** | Artifact |
 | Artifact | **Whetstone of Memory** | Artifact |
 | Artifact | **Whetstone of True Edge** | Artifact |
@@ -268,16 +327,75 @@ Master indexed equipment directory.
 | Artifact | **Willstone** | Artifact |
 | Artifact | **Wind Flute** | Artifact |
 | Artifact | **Wooden Charm** | Artifact |
+| Artifact | **X-Ray Eye (mso)** | Artifact |
 | Artifact | **Zephyr Feather** | Artifact |
 | Artifact | **Zinc Dust** | Artifact |
 | Artifact | **Zircon Lens** | Artifact |
 | Artifact | **Zither Pick** | Artifact |
 | Artifact | **Zoom Charm** | Artifact |
+| Artifact | **ZX52 Rocket (mso)** | Artifact |
+| Biotech | **Beetle Bomb (mso)** | 2g |
+| BioTech | **Bionocular (mso)** | 2g |
+| BioTech | **Breather (mso)** | 3g 50s |
+| BioTech | **Choking Poison Vial (mso)** | 1g 25s |
+| BioTech | **Corrosive Poison Vial (mso)** | 2g |
+| Biotech | **Death Eggs (mso)** | 50s |
+| BioTech | **Death Poison Vial (mso)** | 2g 50s |
+| BioTech | **Feeder (mso)** | 3g |
+| BioTech | **Firegnat Colony (mso)** | 1g 20s |
+| BioTech | **Glow Egg (mso)** | 20s |
+| BioTech | **Knockout Poison Vial (mso)** | 1g 50s |
+| BioTech | **Laughing Poison Vial (mso)** | 1g 25s |
+| BioTech | **Lift Pods (mso)** | 1g 50s |
+| BioTech | **Living Rope (mso)** | 1g 80s |
+| BioTech | **Paralysis Poison Vial (mso)** | 1g 50s |
+| BioTech | **Platelets (mso)** | 50s |
+| BioTech | **Saliva Mites (mso)** | 50s |
+| BioTech | **Sleep Poison Vial (mso)** | 1g 25s |
+| BioTech | **Slimemold (mso)** | 85s |
+| BioTech | **TechMites (mso)** | 85s |
+| BioTech | **Tube-Worms (mso)** | 1g |
+| Communications | **Communicator Comm1 (mso)** | 2g 50s |
+| CyberTech | **Audial Transceiver (mso)** | 3g 50s |
+| CyberTech | **Cyber-Arm (mso)** | 8g 50s |
 | CyberTech | **Cyber-Eye** | 3g 50s |
+| CyberTech | **Cyber-Eye (mso)** | 3g 50s |
+| CyberTech | **Cyber-Legs (Speed Version) (mso)** | 8g |
+| CyberTech | **Cyber-Legs (Strength Version) (mso)** | 8g 50s |
+| CyberTech | **Cyber-Oxygenator Implant (mso)** | 3g 50s |
+| CyberTech | **Enhanced Ear (mso)** | 2g 50s |
+| CyberTech | **Joint Locks (mso)** | 7g |
+| CyberTech | **Power Joints (mso)** | 3g 75s |
+| CyberTech | **QA Forearm (mso)** | 5g |
+| CyberTech | **Quick Attach Couplink (mso)** | 10g |
+| CyberTech | **Thermoplas Implant (mso)** | 2g |
+| CyberTech | **Tish-Shocks (mso)** | 8g |
+| CyberTech | **Titanium Endoskeleton (mso)** | 15g |
+| Electronics | **Audio Recorder (mso)** | 50s |
+| Electronics | **AV Recorder (mso)** | 1g 50s |
+| Electronics | **Handcomp (mso)** | 2g |
+| Exotic | **Cyber-Fist (mso)** | 9g |
+| Exotic | **Force Gauntlet (mso)** | 3g |
+| Exotic | **Implosion Ball (mso)** | 75s |
+| Exotic | **QA Grappler (mso)** | 5g |
+| Exotic | **Sorce Crystal (mso)** | 50s |
+| Exotic | **Spike Beetles (mso)** | 85s |
+| Exotic | **Sponge Ball (mso)** | 65s |
+| Exploration | **Grapple Gun (mso)** | 1g 50s |
+| Financial | **Credit Card (mso)** | 25s |
+| Lighting | **Illuminator (mso)** | 40s |
+| Medical | **First Aid Kit (mso)** | 1g 25s |
 | Medical | **Laser Scalpel** | 45s |
+| Medical | **Laser Scalpel (mso)** | 45s |
 | Medical | **Poison Antidote (Common)** | 35s |
+| Medical | **Poison Antidote (Common) (mso)** | 35s |
 | Medical | **Power Syringe** | 30s |
+| Medical | **Power Syringe (mso)** | 30s |
+| Medical | **Universal Poison Antidote (mso)** | 1g |
 | Medical | **Vaccine Dose (Common)** | 25s |
+| Medical | **Vaccine Dose (Common) (mso)** | 25s |
+| Power Supply | **Power Pack (mso)** | 2g |
+| Rations | **Nutritab (mso)** | 2s |
 | Spec Gear | **Communicator** | 1g |
 | Spec Gear | **D-Crawler** | 15g |
 | Spec Gear | **DeCipher** | 6g |
@@ -307,8 +425,54 @@ Master indexed equipment directory.
 | Spec Gear | **PowerTap** | 5g |
 | Spec Gear | **Q-Bond Cable** | 1g |
 | Spec Gear | **QuantumChef** | 18g |
+| Storage | **Backpack (mso)** | 30s |
 | Storage | **Tech Case (1'x1')** | 50s |
+| Storage | **Tech Case (1'x1') (mso)** | 50s |
+| Survival | **Miniflare Gun (mso)** | 45s |
+| Survival | **Oxygen Canister (1 hr) (mso)** | 15s |
+| Tech | **Biometer (mso)** | 75s |
+| Tech | **Crawler, Personal (mso)** | 3g |
+| Tech | **Disguise Kit (mso)** | 95s |
+| Tech | **Energy Flow Monitor (mso)** | 1g 75s |
+| Tech | **Genesis Capsule (mso)** | 1g |
+| Tech | **Hacker (mso)** | 1g 75s |
+| Tech | **Holo-Scanner (mso)** | 3g 50s |
+| Tech | **Hologuise (mso)** | 3g |
+| Tech | **Jump-Pack (mso)** | 4g 50s |
+| Tech | **Laser Cutter (mso)** | 1g 50s |
+| Tech | **Macrovisor (mso)** | 2g 25s |
+| Tech | **Mess Kit (mso)** | 35s |
+| Tech | **Nutripress (mso)** | 65s |
+| Tech | **Oxygenator Mask (mso)** | 65s |
+| Tech | **Palmstore (mso)** | 3g 50s |
+| Tech | **Personal Scanner (mso)** | 3g 75s |
+| Tech | **Personal Transporter (mso)** | 8g |
+| Tech | **PFF 1 (mso)** | 1g 50s |
+| Tech | **PFF 3 (mso)** | 2g |
+| Tech | **PFF 5 (mso)** | 3g 50s |
+| Tech | **PFF 6 (mso)** | 5g |
+| Tech | **Phase Deviator (mso)** | 4g 50s |
+| Tech | **Pod, Personal Hover (mso)** | 8g 50s |
+| Tech | **Poisons (mso)** | 0g |
+| Tech | **Power Frame (mso)** | 15g |
+| Tech | **Slap Pack (mso)** | 50s |
+| Tech | **Space Suit (mso)** | 3g |
+| Tech | **Survival Bag (mso)** | 1g 75s |
+| Tech | **Survival Shield Generator (mso)** | 4g |
+| Tech | **Survival Tent (mso)** | 3g 50s |
+| Tech | **Targeter (mso)** | 3g 50s |
+| Tech | **Tech Pack (mso)** | 1g |
+| Tech | **Tech Wand (mso)** | 2g 50s |
+| Tech | **Transportal (mso)** | 4g 50s |
+| Tech | **Turbo Pack (mso)** | 7g 50s |
+| Tech | **Ultrafilament Line (mso)** | 50s |
+| Tech | **Ultralock Boots (mso)** | 3g |
+| Tech | **Ultralock Utility Belt (mso)** | 75s |
+| Tech | **Wirelocks (mso)** | 2g |
+| Tools & Utility | **Compressor (mso)** | 75s |
 | Tools & Utility | **Engineering Supplies** | 25s |
+| Tools & Utility | **Engineering Supplies (mso)** | 25s |
+| Tools & Utility | **Plasma Precipitator Pack (mso)** | 2g 75s |
 | ⚕️ Medical & Healing Supplies | **Bandages (roll)** | 2s |
 | ⚕️ Medical & Healing Supplies | **Healer’s Kit (bandages, herbs)** | 3g |
 | ⚕️ Medical & Healing Supplies | **Lock (simple)** | 1g |

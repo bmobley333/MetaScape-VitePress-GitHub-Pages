@@ -32,6 +32,36 @@ Select one of the many sub-sets of powers such as Class👤, Race🧬, Combat St
 | 1-Rnd | A | **Sonic Dagger** | Magic✨ Atk d✨ Dmg. |
 | 1-⚡ | F | **Street Show** | Perform in downtime; earn 1d6 Silver or gain Minor for 1 day. |
 
+### 👤 **Bio-Gunner (mso) Powers** (1 Abilities)
+
+| Usage | Action | Name | Effect |
+| --- | --- | --- | --- |
+| 2-Enc | F | **Odonata Conditioning (mso)** | Adv(🏃, Stealth, Ranged) |
+
+### 👤 **Bio-Warrior (mso) Powers** (1 Abilities)
+
+| Usage | Action | Name | Effect |
+| --- | --- | --- | --- |
+| 2-Enc | F | **Silvan Conditioning (mso)** | Adv(BioTech, 🫀, Melee) |
+
+### 👤 **Cyber Warrior (mso) Powers** (1 Abilities)
+
+| Usage | Action | Name | Effect |
+| --- | --- | --- | --- |
+| 2-Enc | F | **Machine Ascension Conditioning (mso)** | Adv(👁️, 💪, Cyberware, 🫀) |
+
+### 👤 **Destron (mso) Powers** (1 Abilities)
+
+| Usage | Action | Name | Effect |
+| --- | --- | --- | --- |
+| 2-Enc | F | **Walking Tank Conditioning (mso)** | Adv(💪, Heavy Ranged); AR+3 |
+
+### 👤 **Dragon (mso) Powers** (1 Abilities)
+
+| Usage | Action | Name | Effect |
+| --- | --- | --- | --- |
+| 2-Enc | F | **Dragon Style Conditioning (mso)** | Adv(💪, 🏃, Melee, Brawl); Brawl +2 |
+
 ### 👤 **Form - Giant Powers** (9 Abilities)
 
 | Usage | Action | Name | Effect |
@@ -248,6 +278,12 @@ Select one of the many sub-sets of powers such as Class👤, Race🧬, Combat St
 | 2-Enc | P | **Void Strike** | Atk/Dmg ✨ and Sk(✨)^🫀 or target displaced up to 3 sq (caster choice; not in air). |
 | 1-⚡ | A | **Void Vanquish** | Sk(✨)^✨ -> Vanquishes to the void, When return have 1/2 Vit, Max of 1 Vanquished. |
 
+### 👤 **Marine (mso) Powers** (1 Abilities)
+
+| Usage | Action | Name | Effect |
+| --- | --- | --- | --- |
+| 2-Enc | F | **Vanguard Conditioning (mso)** | Adv(👁️, 🏃, 💪, Ranged) |
+
 ### 👤 **Martial Artist - Blade Saint Powers** (22 Abilities)
 
 | Usage | Action | Name | Effect |
@@ -274,6 +310,12 @@ Select one of the many sub-sets of powers such as Class👤, Race🧬, Combat St
 | 1-Enc | A | **Twin Katar Sweep** | Atk with both katars; if both hit, target prone. |
 | 1-⚡ | A | **Unbending Steel** | On hit: target's Atk rolls suffer Disadvantage for 1 Rnd. |
 | 1-Enc | F | **Whispered Signal** | Allies in earshot gain Nish🚩+1 this rnd. |
+
+### 👤 **Mensi (mso) Powers** (1 Abilities)
+
+| Usage | Action | Name | Effect |
+| --- | --- | --- | --- |
+| 2-Enc | F | **Mensi Mind Conditioning (mso)** | Adv(👁️, Psionics) |
 
 ### 👤 **Monk Powers** (35 Abilities)
 
@@ -314,6 +356,12 @@ Select one of the many sub-sets of powers such as Class👤, Race🧬, Combat St
 | 1-Enc | P | **Uncanny Dodge** | Gain Advantage on 1 Defense roll this rnd. |
 | 1-Enc | M | **Wall Run** | Move across walls/obstacles up to MR👣; Motion🏃 if risky. |
 | 1-Rnd | P | **Wholeness of Body** | Restore 2 Vit to yourself. |
+
+### 👤 **Mutak (mso) Powers** (1 Abilities)
+
+| Usage | Action | Name | Effect |
+| --- | --- | --- | --- |
+| 2-Enc | F | **Somatic Fortitude Conditioning (mso)** | Adv(🫀, 💪, Fortitude) |
 
 ### 👤 **Psionics Powers** (23 Abilities)
 
@@ -478,6 +526,12 @@ Select one of the many sub-sets of powers such as Class👤, Race🧬, Combat St
 | 2-Enc | A | **Symbiotic Boost** | Symbiote on target: e.g. joints = Might(*2); eyes = Awareness; frame = Fortitude; skull = Mind . |
 | 1-Enc | M | **Tactical Insight** | Target gains Act(+1) for 1–2 rnds. |
 
+### 👤 **Warlock (mso) Powers** (1 Abilities)
+
+| Usage | Action | Name | Effect |
+| --- | --- | --- | --- |
+| 2-Enc | F | **Sorce Awakening Conditioning (mso)** | Adv(✨, Sorce, 👁️) |
+
 ### 👤 **Warrior Powers** (14 Abilities)
 
 | Usage | Action | Name | Effect |
@@ -496,6 +550,12 @@ Select one of the many sub-sets of powers such as Class👤, Race🧬, Combat St
 | 1-⚡ | A | **WarCry** | Mind👁️ or foes hesitate/flee 1 rnd. |
 | 1-Enc | P | **Weapon Breaker** | On successful Might💪 Atk; destroy 1 enemy weapon/shield. |
 | 1-Enc | A | **Whirlwind Strike** | Atk all foes adjacent to you. |
+
+### 👤 **Warrior (mso) Powers** (1 Abilities)
+
+| Usage | Action | Name | Effect |
+| --- | --- | --- | --- |
+| 2-Enc | F | **Melee Mastery Conditioning (mso)** | Adv(💪, 🏃, Melee, Def) |
 
 ### 👤 **Warrior - Aetherblade Powers** (14 Abilities)
 
@@ -798,6 +858,12 @@ Select one of the many sub-sets of powers such as Class👤, Race🧬, Combat St
 | 1-Enc | P | **Shield of Names** | Adjacent ally’s AR+1 this rnd. |
 | 1-⚡ | F | **Veiled Mind** | On successful Resist✨^mental effect: 👁️^👁️ or attacker is Weakened. |
 
+### 🧬 **Kryll (mso) Powers** (1 Abilities)
+
+| Usage | Action | Name | Effect |
+| --- | --- | --- | --- |
+| 1-Enc | F | **Tail Spike Venom (mso)** | +Tail spike natural strike (Brawl); Wnds = Save 🫀^20 or Stunned for Encounter. |
+
 ### 🧬 **Nelf Powers** (10 Abilities)
 
 | Usage | Action | Name | Effect |
@@ -908,6 +974,148 @@ Select one of the many sub-sets of powers such as Class👤, Race🧬, Combat St
 | Combat | 1-Enc | P | **Weapon Control** | On successful Atk; Motion🏃 disarms target. |
 | Combat | 2-Enc | P | **Weapon Mastery** | If you attacked last rnd with same weapon; Atk+2 and Dmg+2 this rnd. |
 | Combat | 1-⚡ | A | **Whirling Dance** | Make separate Atk & Dmg rolls targeting 2 adjacent foes. |
+| Discipline | 2-Enc | P | **Adhere (mso)** | +Weld to surface; immune to push and Prone; +4 AR; broken if wounded; for Encounter. |
+| Discipline | 2-Enc | P | **Binding Word (mso)** | Binds target to agreement or secret; Save ✨ or bound. |
+| Discipline | 1-Enc | A | **Blast (mso)** | Rng Medium; searing light; Save ✨ or Blinded. |
+| Discipline | 2-Enc | A | **Blow (mso)** | Rng Short; Atk/Dmg ✨; Wnds = push 1 sq. |
+| Discipline | 2-Enc | A | **Body Heal (mso)** | Heals ✨ Vit. |
+| Discipline | 2-Enc | A | **Choke (mso)** | Rng Short; Atk ✨; Wnds = Stunned. |
+| Discipline | 1-Enc | A | **Death Blow (mso)** | Rng Short; Atk/Dmg ✨; Wnds = push 1 sq. |
+| Discipline | 1-Enc | A | **Death Ray (mso)** | Rng Medium; Atk/Dmg ✨; Wnds = disintegrate living target. |
+| Discipline | 1-Enc | M | **Displace (mso)** | Teleport self up to 👣 ✨. |
+| Discipline | 1-⚡ | AM | **Displace Group (mso)** | Teleport self up to 👣 ✨. |
+| Discipline | 2-Enc | P | **Door Hand (mso)** | Rng Medium; remotely open/close unsealed doors. |
+| Discipline | 2-Enc | P | **Door Master (mso)** | Rng 1; bypass magical or electronic lock ✨^Dif. |
+| Discipline | 2-Enc | A | **Electric Palm (mso)** | Rng 1; Atk/Dmg ✨ lightning; Wnds = Stunned. |
+| Discipline | 1-Enc | P | **Encase (mso)** | +Rng Medium; invisible psychic barrier traps target 👁️^👁️; target Immobilized for Encounter (breakout 💪^👁️). |
+| Discipline | 2-Enc | A | **Energy Bolt (mso)** | Rng Medium; Atk/Dmg ✨. |
+| Discipline | 1-⚡ | AM | **Ghost Walk (mso)** | +Self; become insubstantial and phase through solid barriers; phased this Rnd. |
+| Discipline | 2-Enc | P | **Glow Globe (mso)** | Rng Short; floating light sphere; illuminates room. |
+| Discipline | 2-Enc | P | **Hallucination (mso)** | Rng Medium; illusion; 👁️^👁️ to detect. |
+| Discipline | 2-Enc | P | **Haze (mso)** | Rng Medium; psychic fog; Save 👁️ or -2 to all rolls. |
+| Discipline | 1-Enc | A | **Heal All (mso)** | Rng Touch; cure all Wnds on target. |
+| Discipline | 2-Enc | A | **Healing (mso)** | Rng Touch; restore ✨ Vit. |
+| Discipline | 2-Enc | P | **Hearing Boost (mso)** | Skin-vibration awareness; 👁️+3 to hearing checks. |
+| Discipline | 2-Enc | M | **Hurl (mso)** | +Rng Medium; telekinetically hurl weapon; Atk/Dmg 👁️+2; doubles weapon range band. |
+| Discipline | 1-Enc | P | **Immortal Stance (mso)** | +Root into stance; 👣 0; immovable up to 💪+10 force; +4 AR; broken if wounded; for Encounter. |
+| Discipline | 2-Enc | P | **Iron Skin (mso)** | Harden flesh; +3 AR for encounter. |
+| Discipline | 2-Enc | P | **Jerk (mso)** | +Rng Medium; telekinetically seize and throw held object 👁️^💪; impact Dmg 👁️. |
+| Discipline | 2-Enc | M | **Jump (mso)** | Psychosomatic leap; jump 👣+6; safe landing. |
+| Discipline | 1-Enc | M | **Landing (mso)** | Mental force cushion; negates fall Dmg. |
+| Discipline | 2-Enc | M | **Levitate Other (mso)** | Rng Medium; levitate target up/down with ✨. |
+| Discipline | 2-Enc | M | **Levitate Self (mso)** | Levitate up/down 👣 ✨. |
+| Discipline | 2-Enc | A | **Life Balance (mso)** | Rng Touch; equalize Wnds between 2 living targets. |
+| Discipline | 1-Enc | A | **Life Drain (mso)** | Rng Short; Atk/Dmg ✨; heal self for Wnds dealt. |
+| Discipline | 2-Enc | A | **Light Healing (mso)** | Rng Touch; restore ✨ Vit. |
+| Discipline | 2-Enc | P | **Mind Probe (mso)** | Rng Touch; 👁️^👁️ to read surface thoughts. |
+| Discipline | 2-Enc | P | **Minor Telepathy (mso)** | Rng Long; 2-way mental communication. |
+| Discipline | 1-Enc | P | **Molecular Diffusion (mso)** | Phase through solid walls up to 2 sq. |
+| Discipline | 2-Enc | P | **Move Object (mso)** | +Rng Medium; telekinetically move unrestrained object 👣 (= to 👁️ die) up to (👁️ die x 20 lbs). |
+| Discipline | 2-Enc | P | **Oxygenate (mso)** | Oxygenate allows psychosomaticists to absorb oxygen from their body tissue. |
+| Discipline | 2-Enc | A | **Power Punch (mso)** | Rng 1; +2 Dmg on unarmed strike. |
+| Discipline | 2-Enc | A | **Punch (mso)** | Rng 1; +2 Dmg on unarmed strike. |
+| Discipline | 1-Enc | P | **Radiate Fear (mso)** | Radiate fear creates an aura of dread. |
+| Discipline | 2-Enc | P | **Read Surface Thoughts (mso)** | the psionicist to read the thoughts of another individual. |
+| Discipline | 2-Enc | A | **Rend (mso)** | Rng Short; telekinetically rip target; Atk/Dmg ✨; ignores AR. |
+| Discipline | 2-Enc | P | **Resist Cold (mso)** | +3 to 🫀 checks vs extreme cold. |
+| Discipline | 2-Enc | P | **Resist Heat (mso)** | +3 to 🫀 checks vs extreme heat. |
+| Discipline | 2-Enc | P | **Return (mso)** | Recalls thrown weapon back to hand as Free action. |
+| Discipline | 2-Enc | P | **Rough Skin (mso)** | Toughened skin; +1 AR for encounter. |
+| Discipline | 2-Enc | F | **Shield (mso)** | +Self; psychokinetic shield; +3 AR for Encounter. |
+| Discipline | 1-Enc | A | **Shockblast (mso)** | Rng Medium; Atk/Dmg ✨; Wnds = push 2 sq. |
+| Discipline | 2-Enc | A | **Shove (mso)** | Rng Medium; telekinetically push target 2 sq; Save ✨ or Prone. |
+| Discipline | 1-Enc | P | **Sorce Field (mso)** | +Self; mystic sorce barrier; +4 AR for Encounter. |
+| Discipline | 2-Enc | M | **Speed (mso)** | +Self; 👣+2; 🚩+2; for Encounter. |
+| Discipline | 2-Enc | P | **Strength Surge (mso)** | Muscle burst; +2 to 💪 checks this Rnd. |
+| Discipline | 2-Enc | P | **Strengthen (mso)** | Neuromuscular focus; +1 to 💪 rolls for encounter. |
+| Discipline | 2-Enc | P | **Stun (mso)** | +Rng 1; Atk/Dmg 💪; Wnds = target Stunned for Encounter (attacker may deal non-lethal Stun only or normal Dmg + Stun). |
+| Discipline | 2-Enc | P | **Super Hearing (mso)** | Enhanced audial nerves; 👁️+3 to hearing checks. |
+| Discipline | 2-Enc | P | **Super Vision (mso)** | Enhanced optical nerves; 👁️+3 to visual checks. |
+| Discipline | 2-Enc | P | **Telepathy (mso)** | Rng Long; 2-way mental communication. |
+| Discipline | 1-⚡ | AM | **Teleport (mso)** | Rng Long; teleport self to line of sight. |
+| Discipline | 2-Enc | P | **Tough Skin (mso)** | Rocky dermal sheath; +2 AR for encounter. |
+| Discipline | 2-Enc | A | **Vampire Touch (mso)** | +Rng Touch; Atk ✨ Dmg ✨ (ignores AR); caster heals Vit equal to Dmg dealt; living targets only. |
+| Discipline | 2-Enc | P | **Vision Boost (mso)** | Telescopic vision; 👁️+3 on long range visual checks. |
+| Discipline | 2-Enc | A | **Vitalize (mso)** | Gain +2 Vit for encounter. |
+| General | 2-Enc | F | **Aiming Bonus (mso)** | Aiming focus; +1 Atk on next shot. |
+| General | 1-Enc | P | **Ambidexterity (mso)** | Dual-wield without off-hand penalty. |
+| General | 2-Enc | A | **Anti-Vehicle (mso)** | +3 Dmg vs vehicles. |
+| General | 2-Enc | A | **Armor Penetration (mso)** | Ignores half target AR. |
+| General | 2-Enc | P | **Attack Pool (mso)** | Regain 1 🍀 for missed Atk. |
+| General | 1-Enc | P | **Balance (mso)** | Rng Touch; equalize Wnds between 2 living targets. |
+| General | 1-Enc | P | **Beauty (mso)** | +3 to 👁️ social checks. |
+| General | 2-Enc | P | **Berserk (mso)** | Primal rage; +2 Atk/Dmg 💪; cannot distinguish friend from foe. |
+| General | 2-Enc | F | **Block Ranged (mso)** | +2 Blk vs arrows, spears, and low-velocity projectiles. |
+| General | 1-Enc | P | **Bridge Officer (mso)** | Proficiency in starship helm, sensors, and weapons. |
+| General | 1-Enc | P | **Carry More (mso)** | +4 to carrying capacity and heavy lifting. |
+| General | 1-Enc | P | **Catch Object (mso)** | Catch falling item or tossed object with 🏃. |
+| General | 2-Enc | F | **Catch Ranged (mso)** | Catch low-velocity hurled weapon with 🏃. |
+| General | 1-Enc | P | **Common Sense (mso)** | GM tactical hint on hazardous situations. |
+| General | 2-Enc | A | **Crushing Damage (mso)** | When target grabbed; deal flat 💪 Dmg. |
+| General | 2-Enc | F | **Danger Sense (mso)** | Immune to Surprise; 🚩+2. |
+| General | 2-Enc | P | **Defense vs Body (mso)** | +1 Def vs natural and body-class attacks. |
+| General | 2-Enc | P | **Defense vs Hurled (mso)** | Rng Medium; telekinetically hurl weapon with ✨. |
+| General | 2-Enc | P | **Defense vs Melee (mso)** | +1 Def vs swords, axes, and melee weapons. |
+| General | 2-Enc | P | **Defense vs Ranged (mso)** | +1 Def vs blaster, rifle, and shot weapons. |
+| General | 2-Enc | A | **Disarm (mso)** | Rng 1; Atk 💪^💪 to disarm target's weapon. |
+| General | 2-Enc | P | **Double Attack (mso)** | Make 2 attacks with same weapon this Rnd. |
+| General | 1-Enc | P | **Double Luck (mso)** | Spend 🍀 for +3 bonus on crucial roll. |
+| General | 1-Enc | P | **Enhanced Hearing (mso)** | +3 to 👁️ auditory checks. |
+| General | 1-Enc | P | **Enhanced Jumping (mso)** | Psychosomatic leap; jump 👣+6; safe landing. |
+| General | 1-Enc | P | **Enhanced Smell (mso)** | +3 to 👁️ scent tracking checks. |
+| General | 1-Enc | P | **Enhanced Taste (mso)** | +3 to 👁️ poison/chemical taste detection. |
+| General | 1-Enc | P | **Enhanced Touch (mso)** | +3 to 👁️ micro-texture/vibration checks. |
+| General | 2-Enc | P | **Enhanced Use (mso)** | Bypass hardware requirement for 1 item. |
+| General | 1-Enc | P | **Enhanced Vision (mso)** | +3 to 👁️ visual checks. |
+| General | 1-Enc | P | **Expert Runner (mso)** | +3 to 🏃 running and sprinting rolls. |
+| General | 1-Enc | P | **Extra Luck (mso)** | Reroll with +3 bonus when spending 🍀. |
+| General | 1-Enc | P | **Fame (mso)** | Adv(👁️ Social) with allied and neutral factions. |
+| General | 1-Enc | P | **Fast Healing (mso)** | Rng Touch; restore ✨ Vit. |
+| General | 1-Enc | P | **Fearless (mso)** | Immune to fear; +3 to 🫀 Willpower checks. |
+| General | 1-Enc | P | **High Death Threshold (mso)** | Death Checks start at -10 Vit |
+| General | 2-Enc | P | **Impale (mso)** | Rng Medium; piercing shot pins target to wall; Save 🏃 or Immobilized. |
+| General | 1-Enc | P | **Improved Field of Vision (mso)** | 360° peripheral awareness; immune to flanking. |
+| General | 1-Enc | P | **Life Freeze (mso)** | Enter cellular hibernation; suspend bodily functions. |
+| General | 1-Enc | P | **Light Sleeper (mso)** | Aware while asleep; immune to stealth ambush. |
+| General | 2-Enc | P | **Long Range (mso)** | Increases weapon Rng bracket by 1 step. |
+| General | 1-Enc | P | **Luck Burn (mso)** | Use 1 🍀 to negate incoming Dmg. |
+| General | 1-Enc | P | **Luck Restore (mso)** | Restore 1 🍀 per game session. |
+| General | 1-Enc | P | **Luck Sustain (mso)** | Spend 1 🍀 to double check result. |
+| General | 2-Enc | P | **Move and Attack (mso)** | Split move: move 👣 before and after Atk. |
+| General | 2-Enc | P | **Multiple Attacks (mso)** | Engage multiple adjacent foes in Melee. |
+| General | 1-Enc | P | **No Emotions (mso)** | Immune to emotional charm; 👁️+3 vs manipulation. |
+| General | 1-Enc | P | **Orders (mso)** | Issue verbal tactical orders; ally gains +3 on next action. |
+| General | 2-Enc | P | **Parry (mso)** | Use Melee weapon to block incoming Atk. |
+| General | 2-Enc | F | **Quick Draw (mso)** | +Switch weapons as Free action; 🚩+2. |
+| General | 1-Enc | P | **Regeneration (mso)** | Cellular repair; regain 1 Vit per Rnd. |
+| General | 1-Enc | P | **Resist Disease (mso)** | a genetically or cybernetically reinforced immune system. |
+| General | 1-Enc | P | **Resist Mind Control (mso)** | +3 to 🫀 and 👁️ saves vs mental control. |
+| General | 1-Enc | P | **Resist Poison (mso)** | +3 to 🫀 saves vs poisons and toxins. |
+| General | 1-Enc | P | **Resist Psionics (mso)** | This creates a natural cognitive dampening field. |
+| General | 1-Enc | P | **Resist Sorce (mso)** | +3 to Resist ✨ vs magical spells. |
+| General | 2-Enc | P | **Riposte (mso)** | When foe misses Melee Atk; make immediate counter-strike. |
+| General | 2-Enc | P | **Same Nish (mso)** | Keep previous Rnd 🚩 roll. |
+| General | 2-Enc | P | **Save Nish (mso)** | Bank unused action for next Rnd. |
+| General | 2-Enc | P | **Sharp Shooter (mso)** | Precision called shot; ignores partial cover. |
+| General | 1-Enc | P | **Slow Drain (mso)** | Rng Medium; temporal slow; target 👣-4. |
+| General | 1-Enc | P | **Social Status (mso)** | +3 to 👁️ persuasion among high society. |
+| General | 2-Enc | P | **Specific Opponent (mso)** | +2 Atk/Dmg vs chosen rival species. |
+| General | 1-Enc | P | **Starlight Vision (mso)** | See in dim starlight as if daylight. |
+| General | 1-Enc | P | **Strong Will (mso)** | +3 to 🫀 checks to resist unconsciousness. |
+| General | 2-Enc | P | **Structural Damage (mso)** | +3 Dmg vs structures, walls, and vehicle hulls. |
+| General | 2-Enc | P | **Stunning Blow (mso)** | +Melee Atk; Dmg -3; Wnds = target Stunned for Encounter. |
+| General | 2-Enc | P | **Tactical Analysis (mso)** | Analyze enemy combat patterns; +3 Def vs target for encounter. |
+| General | 2-Enc | P | **Throw Weapon (mso)** | Throw non-thrown melee weapon up to Rng Short. |
+| General | 1-Enc | P | **Tight Grip (mso)** | +3 to 💪 checks vs disarm and falling. |
+| General | 2-Enc | P | **Tight Quarters (mso)** | Ignore Atk penalties in narrow corridors. |
+| General | 1-Enc | P | **Tough Blunt Weapons (mso)** | +1 AR vs blunt weapons. |
+| General | 1-Enc | P | **Tough Edged Weapons (mso)** | +1 AR vs edged weapons. |
+| General | 1-Enc | P | **Tough Energy Weapons (mso)** | +1 AR vs energy weapons. |
+| General | 1-Enc | P | **Tough Projectile Weapons (mso)** | +1 AR vs projectile and kinetic weapons. |
+| General | 2-Enc | P | **Two Weapons (mso)** | Dual-wield two weapons with no off-hand penalty. |
+| General | 1-Enc | P | **Wealthy (mso)** | Access extensive credit lines and high-tier gear. |
+| General | 2-Enc | P | **Weapons Display (mso)** | Demonstrate weapon flourish; Save 🫀 or Intimidated. |
+| General | 1-Enc | P | **Zero-Gravity (mso)** | Combatants unfamiliar with zero-gravity are at a serious disadvantage. |
 
 ## 🍀 **Luck Powers**
 
