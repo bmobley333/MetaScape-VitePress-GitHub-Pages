@@ -293,7 +293,7 @@ Enc (Encounter) – The series of rounds that make up a combat event or distinc
 
 Equipment🧰 – The universal parent category encompassing every physical item, tool, weapon, armor piece, shield, supply, or object a character can carry, wear, or utilize. Governed by the Three Forms of Equipment: Gear⚙️ (mundane, 0 slots), Exotics🧿 (extraordinary, 1–4 slots), and Artifacts🔮 (relics, 1–4 slots, cost = "Artifact"), along with Mods🔌 and Kits🎒.
 
-Exclusive Stacking Master Rule – A character may benefit from only the single highest value or best effect of a given power or modifier at any time (bonuses, damage amplifiers, and movement replacements do not stack unless an ability explicitly states otherwise).
+Exclusive Stacking Master Rule – The +1 tactical bonus from beating ALL opponents' Initiative (Nish 🚩) and the +1 bonus from being in the Fully Sparked state (⚡) stack with each other AND stack with nearly all other rolls (subject to GM discretion). ALL other bonuses, buffs, power amplifiers, and numerical modifiers DO NOT STACK unless an ability explicitly states "stacks with..." or with explicit GM approval. When multiple passive buffs or powers offer competing modifiers to the same roll or trait, only the single highest value applies.
 
 Exotic🧿 / Exotics🧿 – Extraordinary, high-tech, cybernetic, or biotech equipment beyond mundane gear, possessing one or more actionable Functions🧿 or Spec Rules📜. Occupies 1–4 Function Slots on the character sheet based on tier (🍺 Minor: 1 Slot, 🪄 Lesser: 2 Slots, 🪬 Greater: 3 Slots, 💫 Epic: 4 Slots) and is purchasable with Gold or Silver ($g/s$).
 
@@ -365,7 +365,7 @@ Power🔥 – An ability learned with AP🧩 that operates within the 4-channel
 
 Powers-Known Progressive Soft Tax – Escalating AP surcharge applied to total powers learned (Powers 1–6 = 1 AP base; 7–9 = 2 AP; 10–14 = 3 AP; 15+ = 4 AP).
 
-Rng🎯 (Range) – Distance categorized into 8 tactical bands: Self, Touch, 1 (1 sq strike / adjacent melee), 2 (2 sq strike / reach melee), Short (≤ 6 sq), Medium (≤ 12 sq), Long (≤ 24 sq), Extreme (≥ 25 sq).
+Rng🎯 (Range) – Distance categorized into 9 tactical bands: Self, Touch, 1 (1 sq strike / adjacent melee), 2 (2 sq strike / reach melee), 3 (3 sq strike / extended reach melee, 15 ft), Short (≤ 6 sq), Medium (≤ 12 sq), Long (≤ 24 sq), Extreme (≥ 25 sq).
 
 Rnd (Round) – A single turn in combat where every participant performs their actions.
 
@@ -1418,6 +1418,26 @@ After each Death Check, Wnd🩸 always increase by 1 unless you receive bandagin
 
 Left unattended, an unconscious PC will slowly bleed out (Wnd🩸 increase 1/rnd until they eventually fail a Death Check).
 
+### 🤖 Summoned, Created & Companion Entities
+
+Any entity created, summoned, fabricated, or purchased that can initiate combat or be targeted by attacks (e.g. companion animals, combat drones, conjured elementals, androids, homunculi) operates under the **PC Stat Inheritance Doctrine**:
+
+1. **PC Stat Inheritance (Automatic Character Scaling):**
+   * **Base Rule:** Stating **`Uses PC stats`** establishes that the entity inherits the player character's current attribute dice as its baseline stats ($\text{Might } \💪, \text{Motion } \🏃, \text{Mind } \👁️, \text{Magic } \✨, \text{Moxie } \🫀$), baseline Vitality ($\text{Vit} = \text{Moxie } \🫀$), and baseline defenses (Block, Dodge, Resistances).
+   * **Scaling Benefit:** As the player character advances and increases attribute dice through AP, their companion entities scale automatically in lockstep without requiring bloated monster statblocks or manual sheet recalculations.
+   * **Unmodified Standard:** If an entity has no unusual modifications, simply stating `Uses PC stats` completely defines the creature. There is no need to redundantly specify unmodified attributes or baseline Vitality.
+
+2. **Expressing Exceptions & Overrides:**
+   * Specific adaptations or specialized roles are expressed strictly as **relative modifiers** or **polyhedral dice steps** ($d4, d6, d8, d10, d12$), NEVER as arbitrary static roll numbers:
+     * **Vitality Overrides:** If Vitality differs from Moxie $\🫀$, express as a flat adjustment (`Vit 🫀+6`) or a fixed small pool (`Vit 4`).
+     * **Attack Type & Modifiers:** Melee attacks scale from Might $\💪$ (`Atk 💪+2`), Shot attacks scale from Mind $\👁️$ (`Atk 👁️/2`), Hurled attacks scale from Motion $\🏃$, and Magic attacks scale from Magic $\✨$.
+     * **Defense / Mobility Overrides:** Dodge adjustments modify Motion $\🏃$ (`Def 🏃-2` or `Def 🏃+2`), and movement rates note custom speeds (`👣 4` or `👣 10 Fly`).
+
+3. **Concrete Shorthand Examples:**
+   * **Standard Hunting Companion:** `Summon Hunting Hound [A] (Uses PC stats).` *(Inherits all PC attribute dice, Vit = 🫀, standard Block and Dodge).*
+   * **Heavy Combat Guardian:** `Summon Iron Golem [A] (Uses PC stats; Vit 🫀+6, Atk 💪+2, Def 🏃-2, Dmg 💪+3, 👣 4).`
+   * **Fragile Recon Drone:** `Deploy Micro-Drone [P] (Uses PC stats; Vit 4, Atk 👁️/2, Def 🏃+2, 👣 10 Fly).`
+
 ## 📅 Days and Encounters
 
 ### 📅 Days
@@ -1530,8 +1550,11 @@ SupaFlex adopts an **Auto-Readied Power Card** architecture. All learned powers 
 
 #### ⚖️ The Exclusive Stacking Master Rule
 
-To maintain rock-solid mathematical balance and prevent degenerate stacking synergies:
-> **Exclusive Stacking Master Rule:** A character may benefit from only the single highest value or best effect of a given power, buff, or tactical modifier at any time. Identical or overlapping bonuses, damage amplifiers, and movement replacements do not stack unless an ability explicitly states otherwise.
+To maintain rock-solid mathematical balance, protect bounded accuracy, and prevent degenerate power creep:
+> **Exclusive Stacking Master Rule:**
+> 1. **Universal Stacking Exceptions:** The **+1 tactical bonus from beating ALL opponents' Initiative (Nish 🚩)** and the **+1 bonus from holding a full Spark (Fully Sparked state ⚡)** stack with each other AND stack with nearly all other bonuses and rolls (subject to standard GM discretion).
+> 2. **Strict Default (NO STACKING):** ALL other bonuses, damage amplifiers, stat buffs, and tactical modifiers **DO NOT STACK** unless an ability explicitly states *"stacks with..."* or with explicit GM approval.
+> 3. **Highest Value Wins:** When two or more abilities, items, or situational factors grant competing modifiers or advantage/disadvantage to the same roll or trait, only the single highest value or best effect applies.
 
 #### 📈 Powers-Known Progressive AP Soft Tax
 
@@ -1700,16 +1723,17 @@ Design Goal: Minimal tracking. Durations should be obvious, instant, 1 rnd, or 
 
 ### 🎯 Range
 
-Powers🔥 and Magic Items✨ eliminate fiddly footage counting in favor of 8 standard Tactical Range Bands:
+Powers🔥, Magic Items✨, and Equipment🧰 eliminate fiddly footage counting in favor of 9 standard Tactical Range Bands:
 
-#### The 8 Tactical Range Bands
+#### The 9 Tactical Range Bands
 
 | Range Band | Distance / Tactical Footprint | Tactical Application |
 | :---: | :--- | :--- |
 | **`Self`** | Caster / user only | Personal buffs, stances, and defensive auras. |
 | **`Touch`** | Direct physical contact | Medical triage, infusions, and close-contact touch powers. |
 | **`1`** | $1\text{ square strike}$ / adjacent melee ($\le 1$ sq) | Standard melee weapon strikes, unarmed combat, and point-blank effects. |
-| **`2`** | $2\text{ square strike}$ / reach melee ($\le 2$ sq) | Reach weapons (polearms, spears, whips) and lunging martial maneuvers. |
+| **`2`** | $2\text{ square strike}$ / reach melee ($\le 2$ sq) | Reach weapons (polearms, spears, short whips) and lunging martial maneuvers. |
+| **`3`** | $3\text{ square reach}$ / extended strike ($\le 3$ sq / $15\text{ ft}$) | Extended kinetic whips, grappling tethers, demolition arms, and localized shock arcs. |
 | **`Short`** | Engagement zone / same room ($\le 6$ sq) | Thrown weapons, short-range blasts, and close-quarters skirmishing. |
 | **`Medium`** | Across the battlefield / line of sight ($\le 12$ sq) | Standard ranged weapons (shortbows, pistols) and mid-range spells. |
 | **`Long`** | Extended sight line ($\le 24$ sq) | Military bows, rifles, and long-range tactical artillery. |
@@ -2337,4 +2361,96 @@ The **Gear Manager Modal (`GearCard.tsx`)** is canonized as the **Master Bluepri
    - **Right Column (Catalog & Custom Creator Pane):** Sub-tab navigation bar (`🌐 Stock Catalog` vs `➕ Custom Form`) utilizing the exact same space. Sub-Tab 1 features catalog search & category filter dropdown (`All Categories` / `Class`, `Racial`, `Tools`, etc.) with 1-click `+ Add` / `+ Learn` buttons that immediately append the item to the Left Pane in real time. Sub-Tab 2 features the custom item/ability creation form with input guardrails. **Strict Catalog Deduplication Rule:** For non-quantifiable capability modals (**Skillsets**, **Powers**, **Magic Items**), items already present in the Left Pane MUST be automatically filtered out of the Right Stock Catalog Pane for 100% UI DRY visual clarity.
 3. **Streamlined UI DRY Footer Architecture:** Clean bottom bar with summary total badge (`Total Gear Value: 🪙 Xg 🥈 Ys`) and a single `<button>Done</button>`.
 4. **Master Blueprint Application Scope:** Mandatory directive for upcoming overhauls across items (**Weapons**, **Armor**, **Shields**, **Gear**) and abilities (**Skillsets**, **Powers**, **Magic Items**).
+
+---
+
+## 📖 Appendix A: Element & Effect Creation Guide
+
+This appendix provides player-facing and GM guidelines for authoring custom **Elements** (Weapons, Armor, Shields, Gear, Powers, Mods, and Functions). It codifies the shorthand syntax, design patterns, and balance boundaries required to maintain seamless compatibility with the SupaFlex engine.
+
+### 🏛️ Core Design Principles
+
+1. **Succinct Rules-Dense Shorthand:** Effect descriptions are **NOT** conversational English prose. They are ultra-condensed, rules-dense summaries of actionable mechanics. Never use filler phrasing such as *"This device allows the user to..."* or *"When activated, the player may..."*.
+2. **Strict Separation of Notes vs. Effects:**
+   * **Notes:** Reserved exclusively for tactile physical descriptions, narrative worldbuilding, lore flavor, and non-combat utility. Base notes must NEVER contain combat math, die codes, Caret checks, or status condition triggers.
+   * **Effects:** Reserved exclusively for mechanical rules, dice, action economy, ranges, Caret checks, and condition applications.
+3. **No Redundant Action or Usage Badges:** Action types (`AM`, `A`, `M`, `P`, `F`) and Usages (`1`, `2`, `3`, `1-🍀`, `1-⚡`, `1-Enc`, `2-Enc`, `3-Enc`, `1-Rnd`) are tracked in dedicated application columns and UI badges. Never repeat action costs or usage limits in the effect text itself.
+4. **Zero Resource Tracking:** Never track bullet counts, ammo magazines, battery percentages, or fuel tallies. SupaFlex operates on clean, cinematic resource tracking.
+5. **Zero Encumbrance Tracking:** SupaFlex never tracks pounds, kilograms, carrying limits, or encumbrance penalties. Never write *"encumbered"* or *"weight limit"*.
+
+---
+
+### 🎨 The 8 Canon Icons
+
+Custom element design enforces a strict whitelist of 8 universal icons:
+
+| Icon | Attribute / Stat | Domain & Rules Scope |
+| :---: | :--- | :--- |
+| **`✨`** | **Magic** | Supernatural manifestations, spellcraft, sorce, psionics, relic enchantments, arcane saves. |
+| **`💪`** | **Might** | Brute physical strength, melee weapon attacks, lifting, blocking (`Blk`), grappling. |
+| **`👁️`** | **Mind** | Shot/ranged projectile weapons, technology, cyberware, robotics, perception, analysis. |
+| **`🏃`** | **Motion** | Agility, dodging (`Def`), reflexes, stealth, hurled weapons, movement speed adjustments. |
+| **`🫀`** | **Moxie** | Stamina, vitality, bodily endurance, toxin/hazard resistance, death checks. |
+| **`🚩`** | **Nish** | Combat initiative modifiers (e.g. `🚩+2`). |
+| **`👣`** | **Movement Rate (MR)** | Movement speed modifications (e.g. `👣+3`, `jump 👣+4`). *(Note: 👣 already signifies MR; do not write "MR 👣")*. |
+| **`🍀`** | **Luck** | Luck chit rewards and twists (e.g. `Regain 1 🍀`). |
+
+---
+
+### 🎲 The Player-Only Rolling Doctrine & Caret (`^`) Standard
+
+In SupaFlex, **ONLY PLAYERS ROLL DICE**. Monsters and non-player targets never roll saving throws or defense checks. Hostile offensive maneuvers and status conditions are framed strictly from the player's perspective, testing the player's active roll against the target's static attribute rating using Caret (`^`) notation:
+
+$$\mathbf{[PC\text{ }Roll]\text{^}[Target\text{ }Static\text{ }Atr]\text{ }or\text{ }[Hazard/Condition]}$$
+
+* **Wrestling / Restraint Contest:** `💪^💪 or target Restrained`
+* **Tripping / Knockdown:** `💪^🏃 or target Prone`
+* **Mental Disorientation:** `👁️^👁️ or target Stunned`
+* **Stamina / Toxin Onset:** `🫀^🫀 or target Incapacitated`
+
+---
+
+### 🔗 Causal Consequence Chaining (`=`)
+
+When an attack or trigger directly produces an automatic mechanical consequence, link the sequence with an equals sign (`=`):
+* `Atk ✨ = target levitated and dropped for fall Dmg.`
+* `Wnds = target Stunned.`
+* Do not use ambiguous semicolons (`;`) to separate direct cause-and-effect sequences. Use semicolons only to separate independent, distinct effects.
+
+---
+
+### 💀 Core Hazards & Status Conditions
+
+Status conditions are binary, high-impact tactical states. 
+
+#### The Zero-Duration Rule
+SupaFlex **NEVER** appends duration strings to conditions (do NOT write *"Stunned for 1 rnd"* or *"Weakened for encounter"*). Recovery from hazards is governed automatically by the core Hazard recovery rules (the afflicted entity rolls an [F] save on their Initiative turn).
+
+#### Poison Hazard Specification Standard
+Unlike uniform conditions (`Stunned`, `Weakened`, `Prone`, `Blinded`), **Poison is a diverse category** with varied toxicity levels. All poison applications MUST state their tick rate or toxin type:
+* Ongoing damage rate: `Poisoned 1 Wnd/Rnd`, `Poisoned 2 Wnd/Rnd`, or `Poisoned d4 Wnds/Rnd`.
+* Catalog-linked toxin: `Poisoned as per type` (for coated blades or venom darts).
+* Symptom-based toxin: `Poisoned (paralysis)` or `Poisoned (nausea)`.
+
+---
+
+### 📐 Tactical Area-of-Effect Geometry
+
+When abilities affect multiple squares or areas, use strict grid-friendly geometry:
+* **Circular Bursts:** `AoE [#]r` defines a **circle** with a radius of `[#]` squares (e.g. `AoE 1r` is a 1-square radius circle; `AoE 2r` is a 2-square radius circle).
+* **Rectangular Zones:** `[#]x[#]` defines a rectangular zone in squares (e.g. `3x6` represents 3 squares wide by 6 squares long).
+* **Prohibition of Cones:** Traditional tabletop cones are strictly prohibited to prevent diagonal-grid disputes. Use rectangular footprints instead.
+
+---
+
+### 🛠️ Practical Element Blueprints
+
+* **Custom Weapon:** `Kinetic Whip` | Type: `Melee` | Atk: `🏃` | Dmg: `🏃` | Rng: `3` | Hands: `1` | Blk: `8`
+  * *Note:* Braided monofilament cable with a weighted magnetic tip, designed for tripping and disarming at extended reach.
+  * *Function (Trip Maneuver) [A]:* `Rng 3; Atk 🏃 Dmg 🏃 (Dmg optional); 🏃^🏃 or target Prone.`
+* **Custom Armor Function:** `Reactive Toxin Spikes` | Action: `[F]` | Usage: `1-Enc` | Slots: `1`
+  * *Effect:* `When struck in melee: attacker suffers 🫀^🫀 or Poisoned 1 Wnd/Rnd.`
+* **Custom Power:** `Sorce Lance` | Action: `[A]` | Usage: `1-Enc` | Tier: `Class`
+  * *Effect:* `Rng 3; Atk ✨ Dmg ✨+d6; Wnds = target pushed 2 sq.`
+
 
