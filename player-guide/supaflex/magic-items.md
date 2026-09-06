@@ -41,7 +41,7 @@ Index of purchasable Exotics (🧿) and treasure Artifacts (🔮) derived from m
 | 1-⚡ | F | **Iron Pendant (Mother’s Keepsake)** | Iron Pendant (Mother’s Keepsake) | ✨+5^fear for Encounter. |
 | 1-Enc | A | **Iron Sand Pouch** | Iron Sand Pouch | Throw Sand; Magic✨+2 or target is Blinded. |
 | 1-⚡ | F | **Ironcore Gambler’s Dice** | Ironcore Gambler’s Dice | Next roll has Advantage. |
-| 2-Enc | P | **Pressurized Jump Propulsion (mso)** | Jump-Boots (mso), Gear: Jump-Pack (mso) | Psychosomatic leap; jump 👣+6; safe landing. |
+| 2-Enc | P | **Pressurized Jump Propulsion (mso)** | Jump-Boots (mso), Supplies: Jump-Pack (mso) | Psychosomatic leap; jump 👣+6; safe landing. |
 | 1-⚡ | F | **Keeth’s Mystical Bands** | Keeth’s Mystical Bands | Speak & Hearas if you are Keeth; Also revives Keeth from death or loss. |
 | 1-Rnd | M | **Knife of Infinite Cloning** | Knife of Infinite Cloning | Can split one knife into 2 knives (new knives last for encounter). |
 | 1-⚡ | P | **Lantern Bead** | Lantern Bead | Throw; hovering light for Encounter. |
