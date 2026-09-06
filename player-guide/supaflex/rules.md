@@ -32,10 +32,10 @@ outline: 2
 
 🔄 Standardized Usage Options – All usage dropdowns, database entries, and ability definitions across SupaFlex enforce this exact 9-option list and order: `1`, `2`, `3`, `1-⚡`, `1-🍀`, `1-Enc`, `2-Enc`, `3-Enc`, `1-Rnd`.
 
-## 🏛️ System Taxonomy: Paths, Kits, Elements, Equipment & Abilities
+### 🏛️ System Taxonomy: Paths, Kits, Elements, Gear & Abilities
 
 The complete SupaFlex game system is structured around the **Trinity of Mechanics**:
-1. **Ownership (What you Know & Possess):** Intangible character capabilities (**Paths 🧭**) are unlocked with AP; tangible hardware packages (**Kits 🎒**) are purchased with Currency (Gold / Silver) or found as treasure.
+1. **Ownership (What you Know & Possess):** Intangible character capabilities (**Paths 🧭**) are unlocked with AP; tangible hardware packages (**Kits 📦**) are purchased with Currency (Gold / Silver) or found as treasure.
 2. **Execution (What you Do in Combat):** Governed by the 4-channel Action Economy ($1\text{ Attack [A]} + 1\text{ Move [M]} + 1\text{ Partial [P]} + \text{Unlimited Free [F]}$, with hybrid $\text{Attack \& Move [AM]}$) with **Auto-Readied Powers** on the active Power Card.
 3. **Capacity (What you Attune / Ready Simultaneously):** Exceptional equipment abilities draw from a single, shared **Function Slots Pool 🧿** (Base 4 Function Slots at Level 1).
 
@@ -45,70 +45,74 @@ The complete SupaFlex game system is structured around the **Trinity of Mechanic
                                          │
                  ┌───────────────────────┴───────────────────────┐
                  ▼                                               ▼
-         [ 🧭 PATHS (AP) ]                               [ 🎒 KITS (g/s) ]
-   (Intangible Capability Suites)                  (Master Hardware Suites)
+         [ 🧭 PATHS (AP) ]                               [ ⚙️ GEAR (g/s) ]
+   (Intangible Capability Suites)                     (All Physical Hardware)
                  │                                               │
                  ▼                                               ▼
-         [ 🧠 ABILITIES ]                                [ 🧰 EQUIPMENT ]
-   ┌──────┬───────┼───────┬─────────┐               ┌────────────┼────────────┐
-   ▼      ▼       ▼       ▼         ▼               ▼            ▼            ▼
- [ ATR ] [SKILL] [SKILLSET][POWERS] [SPEC RULES]  [ ⚙️ GEAR ]  [ 🧿 EXOTICS ] [ 🔮 ARTIFACTS ]
-  (✅)    (🎓)      (🎓)    (🔥)       (📜)        (Mundane)   (Extraordinary)(Relics/Treasure)
-                                                    (0 Slots)    (1–4 Slots)    (1–4 Slots)
-                                                                     │              │
-                                                                     ▼              ▼
-                                                             [ 🧿 FUNCTIONS ]  [ 🔌 MODS ]
-                                                             [ 📜 SPEC RULES ] [ 🎒 KITS ]
+         [ 🧠 ABILITIES ]                                 [ ⚙️ GEAR SHELVES ]
+   ┌──────┬───────┼───────┬─────────┐      ┌────────────┬────────┬────────┬──────────┬──────────┐
+   ▼      ▼       ▼       ▼         ▼      ▼            ▼        ▼        ▼          ▼          ▼
+ [ ATR ] [SKILL] [SKILLSET][POWERS] [SPEC] [🎒SUPPLIES] [⚔️WEAP] [🥋ARMOR] [🛡️SHIELDS] [🧿EXOTICS] [📦KITS]
+  (✅)    (🎓)      (🎓)    (🔥)     (📜)   (Mundane)   (Martial)(Defensive)(Block)   (Tactical) (Bundles)
+                                            (0 Slots)   (0 Slots)(0 Slots)(0 Slots)  (1–4 Slots)  (g/s)
+                                                                                       │          │
+                                                                                       ▼          ▼
+                                                                                [ 🧿 FUNCTIONS ] [ 🔌 MODS ]
+                                                                                [ 🔮 ARTIFACTS ] (Subordinate)
 ```
 
-### 🏛️ The Equipment Taxonomy & Lineage Hierarchy
+### 🏛️ The Gear Taxonomy & Lineage Hierarchy
 
 | Entity | Contained Sub-Elements | Attributes & Scope |
 | :--- | :--- | :--- |
-| **Equipment (`🧰`)** | Gear, Exotics, Artifacts, Weapons, Armor, Shields, Mods, Kits | Universal parent category for all physical items, merchandise, and treasures. |
-| **Gear (`⚙️`)** | Mundane Tools, Electronics, Supplies, Weapons, Armor, Shields | Baseline physical items (0 Function Slots, no attached Function). Priced in $g / s$. |
-| **Exotic (`🧿`)** | Functions, Spec Rules, Mods | Extraordinary, high-tech, cybernetic, or biotech hardware (1–4 Function Slots). Priced in $g / s$. |
-| **Artifact (`🔮`)** | Functions, Spec Rules, Legendary Powers | Ancient, magical, or alien relics (1–4 Function Slots). Unpurchasable market treasure (Cost = `"Artifact"`). |
-| **Mod (`🔌`)** | Functions, Spec Rules | Optional modification, module, hardware attachment, or non-tactical upgrade with a financial cost ($g/s$) and belongs_to parent item. Houses descriptive specs or grants Functions. Uses {Free} only when standard factory equipment on a chassis. |
-| **Kit (`🎒`)** | Gear, Weapons, Armor, Shields, Exotics, Mods, Functions, Spec Rules | Master pre-assembled bundle / hardware suite. Has overall kit cost (e.g. `45s`, `120g`). |
-| **Function (`🧿`)** | *(Actionable Rules Execution)* | Equipment ability nearly identical to a Power (`Action`, `Usage`, `Effect`, `Tier`). Drawn from Function Slots (`🧿`). NEVER carries a financial cost ($0s$) and is universally {Free}. Belongs to either a `Mod:` (if modular/aftermarket) or `Gear:` (if inherent to an Exotic/Artifact) — never both. |
+| **Gear (`⚙️`)** | Supplies, Weapons, Armor, Shields, Exotics, Kits, Artifacts | Universal master category for all physical items, hardware, and equipment. |
+| **Supplies (`🎒`)** | Mundane Tools, Electronics, Consumables, Survival Gear | Baseline mundane adventuring equipment (0 Function Slots, no attached Function). Priced in $g / s$. |
+| **Weapons (`⚔️`)** | Melee, Ranged, Natural, Tech Weapons | Martial offensive hardware. Baseline 0 Function Slots (unless promoted to Exotic via Function/Mod). Priced in $g / s$. |
+| **Armor (`🥋`)** | Light, Medium, Heavy, Powered, Environmental | Protective combat hardware providing AR. Baseline 0 Function Slots (unless promoted to Exotic via Function/Mod). Priced in $g / s$. |
+| **Shields (`🛡️`)** | Bucklers, Medium Shields, Tower, Force Shields | Protective combat hardware providing Block. Baseline 0 Function Slots (unless promoted to Exotic via Function/Mod). Priced in $g / s$. |
+| **Exotic (`🧿`)** | Tactical Functions, Cyberware, Biotech, Tech Hardware | Any Gear that has or potentially has an actionable tactical Function (either directly or via a compatible Mod). Occupies 1–4 Function Slots when attuned/readied. Priced in $g / s$. |
+| **Artifact (`🔮`)** | Functions, Spec Rules, Legendary Powers | Ancient, magical, or alien relics (1–4 Function Slots). Non-commercial market treasure (Cost = `"Artifact"`). Reserved for loot tables and discovery. |
+| **Mod (`🔌`)** | Functions, Spec Rules, Hardware Upgrades | Subordinate gear extension layer (NOT a top-level catalog category). Optional modification, module, or hardware attachment uniquely linked via `belongs_to` to parent gear (Weapons, Armor, Shields, Supplies, Exotics). Carries a financial cost ($g/s$) unless standard factory equipment (`{Free}`). |
+| **Kit (`📦`)** | Supplies, Weapons, Armor, Shields, Exotics, Mods | Master pre-assembled gear package / hardware bundle. Has overall package cost (e.g. `45s`, `120g`). |
+| **Function (`🧿`)** | *(Actionable Rules Execution)* | Tactical equipment ability nearly identical to a Power (`Action`, `Usage`, `Effect`, `Tier`). Consumes Function Slots ($1\text{–}4$). NEVER carries a financial cost ($0s$) and is universally free once the host gear/mod is owned. Belongs to either a `Mod:` or `Gear:`. |
 | **Spec Rule (`📜`)** | *(Passive / Systemic Rule Hook)* | Systemic rule, environmental immunity, or passive trait hook. Cost + belongs to parent item. |
 
 ### 🔑 Architectural Pillars & Hierarchy Rules
 
-1. **🌟 Elements = 🧠 Abilities + 🧰 Equipment:**
+1. **🌟 Elements = 🧠 Abilities + ⚙️ Gear:**
    * **🧠 Abilities (Intangible Features):** Unlocked via AP and packaged into **Paths (`🧭`)**. Subdivided into **✅ Attributes**, **🎓 Skills**, **🎓 Skill Sets**, **🔥 Powers**, and **📜 Spec Rules**.
-   * **🧰 Equipment (Physical Items):** Purchased with Gold / Silver or found as treasure. Subdivided into **⚙️ Gear** (mundane, 0 slots), **🧿 Exotics** (extraordinary, 1–4 slots), **🔮 Artifacts** (relics, 1–4 slots, cost = `"Artifact"`), and **🔌 Mods** (modular attachments).
+   * **⚙️ Gear (Physical Items & Hardware):** Purchased with Gold / Silver or found as treasure. Subdivided into **🎒 Supplies** (mundane tools/consumables, 0 slots), **⚔️ Weapons**, **🥋 Armor**, **🛡️ Shields**, **🧿 Exotics** (extraordinary, 1–4 slots), **🔮 Artifacts** (relics, 1–4 slots, cost = `"Artifact"`), and **🔌 Mods** (subordinate modular attachments).
 
-2. **🧰 The Three Forms of Equipment & Dynamic Auto-Promotion:**
-   * **Gear (`⚙️`):** Mundane physical items readily available in the economy (0 Function Slots, no attached Function, cost in $g/s$).
-   * **Exotic (`🧿`):** Extraordinary items possessing one or more actionable **Functions (`🧿`)** (occupying 1–4 Function Slots, purchasable in $g/s$).
+2. **⚙️ The Dual-State Progression of Gear & Zero-Purgatory Invariant:**
+   * **Mundane Gear (`⚙️`):** Standard physical items readily available in the economy (0 Function Slots, no attached Function, cost in $g/s$).
+   * **Exotic (`🧿`):** Any Gear that has OR potentially has (can accept via Supabase `belongs_to`) an actionable tactical **Function (`🧿`)**. This ensures base cyberware frames, modular weapons, and tech suits never sit in purgatory between Supplies and Exotics. Function Slots ($1\text{–}4$) are only consumed when a Function is actively installed and readied on the character sheet.
    * **Artifact (`🔮`):** Legendary or unique relics possessing one or more **Functions (`🧿`)** (occupying 1–4 Function Slots, cost = `"Artifact"`).
-   * **Dynamic Auto-Promotion:** The distinction between Gear and Exotics is fluid and capability-driven: attaching a Function to any piece of Gear immediately elevates it to an **Exotic**; removing all Functions returns it to baseline **Gear**.
+   * **Mod Reversion & Detachment:** If an Exotic item has its Functions or Mods detached or removed, it reverts to standard baseline Gear. A Mod has no standalone utility or market existence apart from its host gear.
+   * **Commercial Non-Purchasability of Artifacts:** Any item carrying `cost: "Artifact"` is strictly excluded from commercial retail catalogs and store purchases. Artifacts are acquired exclusively through discovery, GM rewards, and loot tables.
 
-3. **🧭 Paths vs. 🎒 Kits Taxonomy:**
+3. **🧭 Paths vs. 📦 Kits Taxonomy:**
    * **Paths (`🧭`):** Intangible character identity and capability suites (Race Paths, Class Paths, Discipline Paths, Specialization Paths). Unlocked via AP and character creation. Hallmark starting traits use curly-brace notation: `{Trait}` indicating 0 AP starting grants.
-   * **Kits (`🎒`):** Tangible manufactured equipment and hardware suites (Powered Armor Suites, Survival Kits, Trauma Kits, Field Toolkits). Purchased with Gold / Silver ($g / s$) or acquired as treasure. Included hardware components use the `{Free}` tag.
+   * **Kits (`📦`):** Tangible manufactured equipment and hardware suites (Powered Armor Suites, Survival Kits, Trauma Kits, Field Toolkits). Purchased with Gold / Silver ($g / s$) or acquired as treasure. Included hardware components use the `{Free}` tag.
    * **Starting Paths:** Every character starts with 2 Learned Paths: **Race Path (`🧭`)** and **Class Path (`🧭`)**.
    * **Learning New Paths:** Beyond starting paths, additional Paths may be learned for **4 AP WITH GM Approval**.
 
-4. **⚔️ Weapons, 🧥 Armor, and 🛡️ Shields as Equipment:**
-   * Weapons, Armor, and Shields are all **Equipment (`🧰`)**.
-   * Standard weapons, armor, and shields are mundane **Gear (`⚙️`)** (0 Function Slots). Specialized, high-tech, or enchanted versions exist as **Exotics (`🧿`)** (occupying 1–4 Function Slots) or can accept **Mods (`🔌`)**.
-   * **Default Gear Possession Rule:** When a character learns or becomes skilled in a new weapon, armor, or shield (via starting Path or AP advancement), the default system rule is that they are assumed to possess that physical item as standard mundane Gear (`⚙️`) (unless the GM determines otherwise based on campaign tone and narrative context).
+4. **⚔️ Weapons, 🥋 Armor, and 🛡️ Shields as Gear:**
+   * Weapons, Armor, and Shields are all categories of **Gear (`⚙️`)**.
+   * Standard weapons, armor, and shields are baseline **Gear (`⚙️`)** (0 Function Slots). Specialized, high-tech, or enchanted versions exist as **Exotics (`🧿`)** (occupying 1–4 Function Slots) or can accept **Mods (`🔌`)**.
+   * **Default Gear Possession Rule:** When a character learns or becomes skilled in a new weapon, armor, or shield (via starting Path or AP advancement), the default system rule is that they are assumed to possess the physical item as standard Gear (`⚙️`) (unless the GM determines otherwise based on campaign tone and narrative context).
 
 5. **🔌 Mods vs. 🧿 Functions Canonical Invariants:**
-   * **Mods (`🔌`) = Physical Commerce & Hardware Attachment Layer:**
-     * *Optional & Modular:* Represents an optional module, aftermarket installation, or physical hardware upgrade.
+   * **Mods (`🔌`) = Subordinate Hardware Attachment Layer:**
+     * *Subordinate & Modular:* Represents an optional module, aftermarket installation, or physical hardware upgrade linked via `belongs_to`. Does not exist as a standalone catalog shelf.
      * *Market Commerce:* Carries a financial purchase cost ($g/s$), unless factory-installed as standard equipment on a specific suit or chassis (`{Free}`).
      * *Mundane Specs:* Houses non-tactical, descriptive, or mechanical notes that do not belong on the base chassis and do not consume combat Function Slots (e.g. *Microgrenade Fitting*, *Compensators*, *Macro Zoom*).
-     * *Parentage:* Always belongs to one or more Equipment items via `belongs_to: "Gear: [Item]"` or `belongs_to: "Armor: [Suit]"`.
+     * *Parentage:* Always belongs to one or more Gear items via `belongs_to: "Gear: [Item]"`, `belongs_to: "Weapon: [Name]"`, or `belongs_to: "Armor: [Suit]"`.
    * **Functions (`🧿`) = Rules-Engine Execution & Slot Bandwidth Layer:**
      * *Combat Rules Execution:* Actionable encounter abilities (`Action`, `Usage`, `Effect`, `Tier`) nearly identical to Powers, drawn from Function Slots (`🍺 Minor 1`, `🪄 Lesser 2`, `🪬 Greater 3`, `💫 Epic 4`).
      * *Zero Financial Cost:* NEVER carries a financial cost ($g/s$). The `cost` column is permanently eliminated from databases and spreadsheets.
-     * *Universally Free:* Possessing the granting Equipment or Mod automatically unlocks the Function. The `{Free}` tag is redundant on Functions and is stripped.
-     * *Canonical Tier vs. Derived Slot Weight (Strict DRY):* The database and sheets exclusively store canonical `tier` (`Minor 🍺`, `Lesser 🪄`, `Greater 🪬`, `Epic 💫`). The redundant `slot_weight` column is permanently purged across PostgreSQL (`public.functions`) and Google Sheets (`SB_Functions`). Numeric slot weight (1–4) is derived dynamically at runtime via `getTierSlotWeight()`, eliminating schema drift and non-DRY human entry desynchronization.
-     * *Clean Single Parentage:* A Function belongs to EITHER a Mod (`belongs_to: "Mod: [ModName]"`) OR directly to Equipment (`belongs_to: "Gear: [ItemName]"`) — NEVER both. If an item has a Mod, the Function links to the Mod, and the Mod links to the Gear.
+     * *Universally Free:* Possessing the granting Gear or Mod automatically unlocks the Function. The `{Free}` tag is redundant on Functions and is stripped.
+     * *Canonical Tier vs. Derived Slot Weight (Strict DRY):* The database and sheets exclusively store canonical `tier` (`Minor 🍺`, `Lesser 🪄`, `Greater 🪬`, `Epic 💫`). Numeric slot weight (1–4) is derived dynamically at runtime via `getTierSlotWeight()`.
+     * *Clean Single Parentage:* A Function belongs to EITHER a Mod (`belongs_to: "Mod: [ModName]"`) OR directly to Gear (`belongs_to: "Gear: [ItemName]"`) — NEVER both. If an item has a Mod, the Function links to the Mod, and the Mod links to the Gear.
 
 ### ⚔️ Dual-Role Architecture: Supabase Weapons, Armor & Shields (Abilities vs. Physical Equipment)
 In SupaFlex, the Supabase database tables `weapons`, `armor`, and `shields` fulfill a deliberate **Dual Role** across the application architecture, serving as the single source of truth for both character combat capabilities and physical inventory/commerce:
@@ -173,17 +177,18 @@ Monster stats place the emojis before key numbers or number sets as in:
 | Emoji🙂 | 🙂 |
 | Entertainment & Instruments🎵 | 🎵 |
 | Epic💫 (4 Slots • Exotic / Artifact) | 💫 |
-| Equipment🧰 | 🧰 |
+| Equipment🧰 (Legacy Synonym for Gear) | 🧰 |
 | Exotics🧿 (1–4 Slots) | 🧿 |
 | Food & Drink🥖 | 🥖 |
 | Function Slots🧿 | 🧿 |
 | Functions🧿 (1–4 Slots) | 🧿 |
-| Gear⚙️ (0 Slots) | ⚙️ |
+| Gear⚙️ (Universal Physical Items) | ⚙️ |
 | GM🔎 | 🔎 |
 | Greater🪬 (3 Slots • Exotic / Artifact) | 🪬 |
 | Hazard💀 | 💀 |
 | Junk🗑️ | 🗑️ |
-| Kits🎒 (Hardware Suites & Bundles) | 🎒 |
+| Kits📦 (Hardware Suites & Bundles) | 📦 |
+| Supplies🎒 (Mundane Adventuring Gear) | 🎒 |
 | Lesser🪄 (2 Slots • Exotic / Artifact) | 🪄 |
 | Level⭐ | ⭐ |
 | Luck🍀 | 🍀 |
@@ -287,15 +292,15 @@ Dmg (Damage) – The raw amount of harm caused by an attack or ability.
 
 Effect – The outcome of using an ability, exotic, artifact, or magic item.
 
-Element(s)🌟 – The universal parent category encompassing every physical item and non-physical feature in the game (ALL Equipment🧰 and ALL Abilities🧠).
+Element(s)🌟 – The universal parent category encompassing every physical item and non-physical feature in the game (ALL Gear⚙️ and ALL Abilities🧠).
 
 Enc (Encounter) – The series of rounds that make up a combat event or distinct roleplaying scene.
 
-Equipment🧰 – The universal parent category encompassing every physical item, tool, weapon, armor piece, shield, supply, or object a character can carry, wear, or utilize. Governed by the Three Forms of Equipment: Gear⚙️ (mundane, 0 slots), Exotics🧿 (extraordinary, 1–4 slots), and Artifacts🔮 (relics, 1–4 slots, cost = "Artifact"), along with Mods🔌 and Kits🎒.
+Equipment🧰 – Legacy synonym for Gear⚙️.
 
 Exclusive Stacking Master Rule – The +1 tactical bonus from beating ALL opponents' Initiative (Nish 🚩) and the +1 bonus from being in the Fully Sparked state (⚡) stack with each other AND stack with nearly all other rolls (subject to GM discretion). ALL other bonuses, buffs, power amplifiers, and numerical modifiers DO NOT STACK unless an ability explicitly states "stacks with..." or with explicit GM approval. When multiple passive buffs or powers offer competing modifiers to the same roll or trait, only the single highest value applies.
 
-Exotic🧿 / Exotics🧿 – Extraordinary, high-tech, cybernetic, or biotech equipment beyond mundane gear, possessing one or more actionable Functions🧿 or Spec Rules📜. Occupies 1–4 Function Slots on the character sheet based on tier (🍺 Minor: 1 Slot, 🪄 Lesser: 2 Slots, 🪬 Greater: 3 Slots, 💫 Epic: 4 Slots) and is purchasable with Gold or Silver ($g/s$).
+Exotic🧿 / Exotics🧿 – Any Gear that has OR potentially has (can accept via Supabase `belongs_to`) an actionable tactical Function🧿 or Spec Rule📜. Occupies 1–4 Function Slots on the character sheet based on tier (🍺 Minor: 1 Slot, 🪄 Lesser: 2 Slots, 🪬 Greater: 3 Slots, 💫 Epic: 4 Slots) when actively readied, and is purchasable with Gold or Silver ($g/s$).
 
 Ext Rng (Extended/Long Range) – A greater range (at disadvantage) that a weapon, ability, or item can reach.
 
@@ -309,7 +314,11 @@ Functions🧿 – Actionable equipment-derived abilities (`Action`, `Usage`, `Ef
 
 g / gp (Gold Piece) – Primary gold currency; 100 silver (s) = 1 gold (g).
 
-Gear⚙️ – Standard, mundane physical items readily available in the world's economy that operate within baseline mundane rules (weapons⚔️, armor🧥, shields🛡️, tools, adventuring supplies). Consumes 0 Function Slots, has no attached Function, and is priced in Gold or Silver ($g / s$).
+Gear⚙️ – The universal master category encompassing every physical item, tool, weapon, armor piece, shield, supply, hardware chassis, or object an adventurer can carry, wear, or utilize. Subdivided into 🎒 Supplies, ⚔️ Weapons, 🥋 Armor, 🛡️ Shields, 🧿 Exotics, 🔮 Artifacts, 📦 Kits, and subordinate 🔌 Mods.
+
+Kits📦 – Master pre-assembled gear suites and hardware packages (e.g. Powered Armor Suites, Survival Kits, Trauma Kits). Has an overall package price ($g/s$); constituent items possess `belongs_to: "Kit: [Name]"` linkages.
+
+Supplies🎒 – Standard, mundane adventuring equipment, tools, survival rations, containers, and field gear operating within baseline mundane rules (0 Function Slots, no attached Function, priced in $g/s$).
 
 GM (Game Master) – The person running the game and story.
 
@@ -1819,7 +1828,7 @@ Earning Luck🍀: Awarded for cool, funny, or heroic play (max 5).
 Other Uses: May be spent for special learned Luck Powers🔥 (e.g., Lucky Dodge, Inspire Ally, Twist of Fate).
 
 <!-- @rule:magic_items.basics anchor="#equipment-loadout" -->
-## 🧰 Equipment, Functions & The 5-Tier Lineage Hierarchy {#equipment-loadout}
+## ⚙️ Gear, Functions & The Lineage Hierarchy {#equipment-loadout}
 
 <!-- @popover:magic_items.basics -->
 ::: details ⚡ Quick Reference: Equipment & Loadout Slots
@@ -1845,28 +1854,28 @@ Loadout vs. Vault:
 SupaFlex eliminates weight math, bulk values, and movement rate penalties. A character’s tactical capability is bounded not by what they can carry, but by their active **Function Slots Capacity**.
 
 ```text
-                                [ 🧰 ALL EQUIPMENT ]
-                                         │
-              ┌──────────────────────────┴──────────────────────────┐
-              ▼                                                     ▼
-        MUNDANE UTILITY                                     TACTICAL BANDWIDTH
-    (0 Slots • Gear Drawer)                               (1–4 Slots • Live Sheet)
-          [ ⚙️ GEAR ]                                           [ 🧿 FUNCTIONS ]
-                                                                    │
-                                         ┌──────────────────────────┴──────────────────────────┐
-                                         ▼                                                     ▼
-                                 UNPURCHASABLE LOOT                                    STORE / CRAFTED
-                                  [ 🔮 ARTIFACTS ]                                      [ 🚀 SPEC GEAR ]
-                                 (Found Treasure)                                      (Purchasable)
-                                         │                                                     │
-                                         └─────────────────────┬───────────────────────────────┘
-                                                               ▼
-                                                       [ THE VAULT ]
-                                                 (Inactive Functions Pool)
-                                                               │
-                                                               ▼
-                                                    [ FUNCTIONS MANAGER ]
-                                              (Ready 1–4 Slots to Live Sheet)
+                                    [ ⚙️ ALL GEAR ]
+                                           │
+                ┌──────────────────────────┴──────────────────────────┐
+                ▼                                                     ▼
+          MUNDANE UTILITY                                     TACTICAL BANDWIDTH
+      (0 Slots • Gear Drawer)                               (1–4 Slots • Live Sheet)
+   [ 🎒 SUPPLIES, ⚔️ WEAPONS,                                  [ 🧿 FUNCTIONS ]
+     🥋 ARMOR, 🛡️ SHIELDS ]                                           │
+                                           ┌──────────────────────────┴──────────────────────────┐
+                                           ▼                                                     ▼
+                                   UNPURCHASABLE LOOT                                    STORE / CRAFTED
+                                    [ 🔮 ARTIFACTS ]                                      [ 🧿 EXOTICS ]
+                                   (Found Treasure)                                      (Purchasable)
+                                           │                                                     │
+                                           └─────────────────────┬───────────────────────────────┘
+                                                                 ▼
+                                                         [ THE VAULT ]
+                                                   (Inactive Functions Pool)
+                                                                 │
+                                                                 ▼
+                                                      [ FUNCTIONS MANAGER ]
+                                                (Ready 1–4 Slots to Live Sheet)
 ```
 
 ### 1. The Functions Vault vs. Active Function Slots
@@ -2452,5 +2461,27 @@ When abilities affect multiple squares or areas, use strict grid-friendly geomet
   * *Effect:* `Wnds = 🫀^🫀 or Poisoned 1 Wnd/Rnd.`
 * **Custom Power:** `Sorce Lance` | Action: `[A]` | Usage: `1-Enc` | Tier: `Class`
   * *Effect:* `Rng 3; Atk ✨ Dmg ✨+d6; Wnds = target pushed 2 sq.`
+
+---
+
+### 🔤 Global Alphabetical Default & MSO Priority Triad Rule
+
+#### 1. Rule (The What)
+ALL lists, dropdown option selectors, search results, and catalog cards across SupaFlex (Player Sheet, GM Screen, Card Catalogs, Creation Modals, Loot Engines) MUST default to ascending alphabetical sort order (`a.localeCompare(b)` / `compareMsoItems` / `compareMsoOptions`), unless explicitly registered in the Mechanical Exceptions Registry. When the private MSO setting is unlocked (`isGuildSpaceUnlocked === true`), all options ending in `(mso)` must automatically sort to the top of all dropdowns, lists, and catalog grids in alphabetical order, preceded by the galaxy icon `🌌 ` and styled with `text-purple-300 font-bold`.
+
+**Registered Mechanical Exceptions Registry:**
+* **Action Types:** Combat speed cadence `AM` $\rightarrow$ `A` $\rightarrow$ `M` $\rightarrow$ `P` $\rightarrow$ `F`.
+* **Usage Frequencies:** Encounter activation cadence `1`, `2`, `3`, `1-⚡`, `1-🍀`, `1-Enc`, `2-Enc`, `3-Enc`, `1-Rnd`.
+* **Core Attributes:** Standard attribute sequence `Magic ✨`, `Might 💪`, `Mind 👁️`, `Motion 🏃`, `Moxie 🫀`, `Luck 🍀`.
+* **Combat Tracker & Encounter Order:** GM encounter turn sequence and dynamic `Nish` initiative rolls (`🚩`).
+* **Party Roster:** Active party leader and party session join sequence.
+* **Difficulty Scaling Presets:** Tier progression `Easy: 6` $\rightarrow$ `Mythic: 22`.
+
+#### 2. Rationale (The Why)
+Predictable alphabetical sorting minimizes cognitive fatigue, prevents visual chaos across viewports, and creates an intuitive browsing baseline across thousands of powers, items, and rules. MSO players predominantly seek MSO-specific content; sorting MSO entries to the top with vivid galaxy iconography (`🌌 `) provides instant discovery without burying core game options.
+
+#### 3. Failure Mechanism (The What Breaks)
+Arbitrary or database-insertion-order lists force players and GMs to search unsorted collections, causing severe decision paralysis and session stalls during combat. Unsorted MSO entries force players to hunt through 1,000+ stock rows, destroying table pacing and UX flow.
+
 
 
