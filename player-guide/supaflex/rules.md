@@ -2424,7 +2424,7 @@ When an attack or trigger directly produces an automatic mechanical consequence,
 Status conditions are binary, high-impact tactical states. 
 
 #### The Zero-Duration Rule
-SupaFlex **NEVER** appends duration strings to conditions (do NOT write *"Stunned for 1 rnd"* or *"Weakened for encounter"*). Recovery from hazards is governed automatically by the core Hazard recovery rules (the afflicted entity rolls an [F] save on their Initiative turn).
+SupaFlex **NEVER** appends duration strings to conditions (do NOT write *"Stunned for 1 rnd"* or *"Weakened for encounter"*). Recovery from hazards is governed automatically by the core Hazard recovery rules (the player rolls Atr^(Foe's Atr) to see if the foe breaks the affliction).
 
 #### Poison Hazard Specification Standard
 Unlike uniform conditions (`Stunned`, `Weakened`, `Prone`, `Blinded`), **Poison is a diverse category** with varied toxicity levels. All poison applications MUST state their tick rate or toxin type:
@@ -2437,7 +2437,7 @@ Unlike uniform conditions (`Stunned`, `Weakened`, `Prone`, `Blinded`), **Poison 
 ### 📐 Tactical Area-of-Effect Geometry
 
 When abilities affect multiple squares or areas, use strict grid-friendly geometry:
-* **Circular Bursts:** `AoE [#]r` defines a **circle** with a radius of `[#]` squares (e.g. `AoE 1r` is a 1-square radius circle; `AoE 2r` is a 2-square radius circle).
+* **Circular Bursts:** `AoE [#]r` defines a **circle** where the radius is counted outwards NOT including the target center square. Thus an AoE 1r, where each square is 5 ft, is centered on the target square plus 1 square outward in all directions (creating a 7.5 ft radius / 15 ft diameter 3x3 square zone); AoE 2r extends 2 squares outward in all directions.
 * **Rectangular Zones:** `[#]x[#]` defines a rectangular zone in squares (e.g. `3x6` represents 3 squares wide by 6 squares long).
 * **Prohibition of Cones:** Traditional tabletop cones are strictly prohibited to prevent diagonal-grid disputes. Use rectangular footprints instead.
 
@@ -2445,11 +2445,11 @@ When abilities affect multiple squares or areas, use strict grid-friendly geomet
 
 ### 🛠️ Practical Element Blueprints
 
-* **Custom Weapon:** `Kinetic Whip` | Type: `Melee` | Atk: `🏃` | Dmg: `🏃` | Rng: `3` | Hands: `1` | Blk: `8`
+* **Custom Weapon:** `Kinetic Whip` | Type: `Melee` | Atk: `💪` | Dmg: `💪` | Rng: `3` | Hands: `1` | Blk: `8`
   * *Note:* Braided monofilament cable with a weighted magnetic tip, designed for tripping and disarming at extended reach.
-  * *Function (Trip Maneuver) [A]:* `Rng 3; Atk 🏃 Dmg 🏃 (Dmg optional); 🏃^🏃 or target Prone.`
+  * *Function (Trip Maneuver) [A]:* `Rng 3; Atk 💪 Dmg 💪 (Dmg optional); 💪^🏃 or target Prone.`
 * **Custom Armor Function:** `Reactive Toxin Spikes` | Action: `[F]` | Usage: `1-Enc` | Slots: `1`
-  * *Effect:* `When struck in melee: attacker suffers 🫀^🫀 or Poisoned 1 Wnd/Rnd.`
+  * *Effect:* `Wnds = 🫀^🫀 or Poisoned 1 Wnd/Rnd.`
 * **Custom Power:** `Sorce Lance` | Action: `[A]` | Usage: `1-Enc` | Tier: `Class`
   * *Effect:* `Rng 3; Atk ✨ Dmg ✨+d6; Wnds = target pushed 2 sq.`
 
