@@ -71,16 +71,17 @@ The complete SupaFlex game system is structured around the **Trinity of Mechanic
 | **Armor (`🥋`)** | Light, Medium, Heavy, Powered, Environmental | Protective combat hardware providing AR. Baseline 0 Function Slots (unless promoted to Exotic via Function/Mod). Priced in $g / s$. |
 | **Shields (`🛡️`)** | Bucklers, Medium Shields, Tower, Force Shields | Protective combat hardware providing Block. Baseline 0 Function Slots (unless promoted to Exotic via Function/Mod). Priced in $g / s$. |
 | **Exotic (`🧿`)** | Tactical Functions, Cyberware, Biotech, Tech Hardware | Any Gear that has or potentially has an actionable tactical Function (either directly or via a compatible Mod). Occupies 1–4 Function Slots when attuned/readied. Priced in $g / s$. |
-| **Artifact (`🔮`)** | Functions, Spec Rules, Legendary Powers | Ancient, magical, or alien relics (1–4 Function Slots). Non-commercial market treasure (Cost = `"Artifact"`). Reserved for loot tables and discovery. |
-| **Mod (`🔌`)** | Functions, Spec Rules, Hardware Upgrades | Subordinate gear extension layer (NOT a top-level catalog category). Optional modification, module, or hardware attachment uniquely linked via `belongs_to` to parent gear (Weapons, Armor, Shields, Supplies, Exotics). Carries a financial cost ($g/s$) unless standard factory equipment (`{Free}`). |
+| **Artifact (`🔮`)** | Functions, Traits, Legendary Powers | Ancient, magical, or alien relics (1–4 Function Slots). Non-commercial market treasure (Cost = `"Artifact"`). Reserved for loot tables and discovery. |
+| **Mod (`🔌`)** | Functions, Traits, Hardware Upgrades | Subordinate gear extension layer (NOT a top-level catalog category). Optional modification, module, or hardware attachment uniquely linked via `belongs_to` to parent gear (Weapons, Armor, Shields, Supplies, Exotics). Carries a financial cost ($g/s$) unless standard factory equipment (`{Free}`). |
 | **Kit (`📦`)** | Supplies, Weapons, Armor, Shields, Exotics, Mods | Master pre-assembled gear package / hardware bundle. Has overall package cost (e.g. `45s`, `120g`). |
 | **Function (`🧿`)** | *(Actionable Rules Execution)* | Tactical equipment ability nearly identical to a Power (`Action`, `Usage`, `Effect`, `Tier`). Consumes Function Slots ($1\text{–}4$). NEVER carries a financial cost ($0s$) and is universally free once the host gear/mod is owned. Belongs to either a `Mod:` or `Gear:`. |
-| **Spec Rule (`📜`)** | *(Passive / Systemic Rule Hook)* | Systemic rule, environmental immunity, or passive trait hook. Cost + belongs to parent item. |
+| **Trait (`🧬`)** | *(Modular Traits & Physiological Boons)* | Innate biology, physiological boons, tactical modifications, or modular trait hooks queried from the `traits` database table. |
+| **System Rules (`📜`)** | *(Core Game Engine Mechanics)* | Overarching game system rules, core mechanics, combat economy, and resolution engine. |
 
 ### 🔑 Architectural Pillars & Hierarchy Rules
 
 1. **🌟 Elements = 🧠 Abilities + ⚙️ Gear:**
-   * **🧠 Abilities (Intangible Features):** Unlocked via AP and packaged into **Paths (`🧭`)**. Subdivided into **✅ Attributes**, **🎓 Skills**, **🎓 Skill Sets**, **🔥 Powers**, and **📜 Spec Rules**.
+   * **🧠 Abilities (Intangible Features):** Unlocked via AP and packaged into **Paths (`🧭`)**. Subdivided into **✅ Attributes**, **🎓 Skills**, **🎓 Skill Sets**, **🔥 Powers**, and **🧬 Traits**.
    * **⚙️ Gear (Physical Items & Hardware):** Purchased with Gold / Silver or found as treasure. Subdivided into **🎒 Supplies** (mundane tools/consumables, 0 slots), **⚔️ Weapons**, **🥋 Armor**, **🛡️ Shields**, **🧿 Exotics** (extraordinary, 1–4 slots), **🔮 Artifacts** (relics, 1–4 slots, cost = `"Artifact"`), and **🔌 Mods** (subordinate modular attachments).
 
 2. **⚙️ The Dual-State Progression of Gear & Zero-Purgatory Invariant:**
@@ -91,7 +92,7 @@ The complete SupaFlex game system is structured around the **Trinity of Mechanic
    * **Commercial Non-Purchasability of Artifacts:** Any item carrying `cost: "Artifact"` is strictly excluded from commercial retail catalogs and store purchases. Artifacts are acquired exclusively through discovery, GM rewards, and loot tables.
 
 3. **🧭 Paths vs. 📦 Kits Taxonomy:**
-   * **Paths (`🧭`):** Intangible character identity and capability suites (Race Paths, Class Paths, Discipline Paths, Specialization Paths). Unlocked via AP and character creation. Hallmark starting traits use curly-brace notation: `{Trait}` indicating 0 AP starting grants.
+   * **Paths (`🧭`):** Intangible character identity and capability suites (Race Paths, Class Paths, Discipline Paths, Specialization Paths). Unlocked via AP and character creation. Hallmark starting traits use internal curly-brace notation: `{Perk}` indicating 0 AP starting grants (presented in UI and player docs as free Traits).
    * **Kits (`📦`):** Tangible manufactured equipment and hardware suites (Powered Armor Suites, Survival Kits, Trauma Kits, Field Toolkits). Purchased with Gold / Silver ($g / s$) or acquired as treasure. Included hardware components use the `{Free}` tag.
    * **Starting Paths:** Every character starts with 2 Learned Paths: **Race Path (`🧭`)** and **Class Path (`🧭`)**.
    * **Learning New Paths:** Beyond starting paths, additional Paths may be learned for **4 AP WITH GM Approval**.
@@ -126,15 +127,16 @@ In SupaFlex, the Supabase database tables `weapons`, `armor`, and `shields` fulf
    * Governed by monetary transactions via `deductFundsWithChange`, quantity tracking (`qty`), and inventory valuation (`calculateInventoryValue`) inside `simple_gear`.
    * **Clean Separation:** Purchasing physical weapons, armor, or shields in the **Gear Manager** adds them to the character's gear inventory for ownership tracking; it does not alter or grant combat abilities or skilled ratings in `WeaponsCard`, `ArmorCard`, or `ShieldCard`, preserving strict separation between physical possession and martial training.
 
-4. **🧬 Traits ({Trait} / 0 AP Free Grants):**
-   * The word **Trait** (and `{Trait}` notation) is **ENTIRELY reserved** to designate an orthogonal status meaning the element costs **0 AP (Free)** to gain as a starting grant.
-   * Any Element can be a Trait, but **NONE** of them are *always* Traits.
-   * **Auto-Taken & Removal Protection:** All Traits are auto-taken upon selecting a Path, and **may not be removed without GM approval**.
+4. **🧬 Traits (`🧬`) & Inherent Free Traits (`{Perk}`):**
+   * **Rule (The What):** The term **Trait (`🧬`)** designates modular capabilities, physiological features, tactical boons, and biological traits queried from the `traits` database table. Inherent starting grants (from Race Paths or Class Paths) cost **0 AP (Free)** to gain and are tagged internally in the database with `{Perk}`. In the user interface and player documentation, unbudgeted starting traits are always labeled **"free Trait"** (or `🧬 Trait (Free)` / `🧬 free Trait`). The internal token "Perk" is strictly forbidden from player-facing presentation. Inherent free traits are auto-taken upon selecting a Path and may not be removed without GM approval.
+   * **Rationale (The Why):** Consolidating "Spec Rules" into "Traits" simplifies taxonomy across the character sheet, aligns with intuitive RPG terminology, and eliminates confusion between overarching systemic game rules (`📜`) and individual character traits (`🧬`). Scoping `{Perk}` strictly to internal database syntax prevents naming collisions with the Trait entity while maintaining clean 0 AP budget enforcement.
+   * **Failure Mechanism (The What Breaks):** If "Perk" leaks into player-facing UI or documentation, it creates cognitive friction, breaks dyslexic-friendly UI consistency, and violates player expectations. If 0 AP starting traits are not protected, players could inadvertently delete foundational racial biology or class requirements.
 
-5. **📜 System Rules vs. 📜 Spec Rules Distinction:**
-   * **Global System Rules (`📜`):** The macro game engine, core resolution mechanics, combat economy, and overarching rules of SupaFlex (found in this `.md` document and on the official website / VitePress Player Guide).
-   * **Spec Rules (`📜`):** Specific, modular rules, physiological features, tactical boons, and mechanical rule exceptions queried from the `spec_rules` database table and listed on the Character Sheet in the **Spec Rules** card.
-   * **No Quirks or Flaws:** There are **NO quirks, flaws, or flaw points** in SupaFlex. There are only unified Spec Rules, Equipment, and Abilities.
+5. **📜 Global System Rules vs. 🧬 Character Traits:**
+   * **Rule (The What):** Global System Rules (`📜`) represent the macro game engine, core resolution mechanics, combat economy, and overarching rules of SupaFlex (found in this `.md` Source of Truth and on the VitePress Player Guide). Character Traits (`🧬`) represent modular, individual character features, tactical boons, and physiological rules queried from Supabase and equipped on the Character Sheet.
+   * **Rationale (The Why):** Strict separation between system-wide rules (`📜`) and sheet-level traits (`🧬`) prevents conflating core resolution mechanics (like Death Checks, Focus Die explosions, or Armor Dodge) with localized character abilities (like Darkvision, Amphibious, or Mind-Shield).
+   * **Failure Mechanism (The What Breaks):** Conflating the two causes players to confuse systemic game rules with learnable character capabilities and clutters the character sheet with reference text that should reside in the core guide.
+   * **No Quirks or Flaws:** There are **NO quirks, flaws, or flaw points** in SupaFlex. There are only unified Traits, Equipment, and Abilities.
 
 ---
 
@@ -222,10 +224,9 @@ Monster stats place the emojis before key numbers or number sets as in:
 | Skill🎓 | 🎓 |
 | Exotic🧿 (Extraordinary / Functions) | 🧿 |
 | Artifact🔮 (Relics / Found Treasure) | 🔮 |
-| Spec Rules📜 (Specific Rule Hooks) | 📜 |
+| Traits🧬 (Modular Boons & Inherent Rules) | 🧬 |
 | Term📖 | 📖 |
 | Tools & Equipment🛠️ | 🛠️ |
-| Traits🧬 ({Trait}) | 🧬 |
 | Travel & Animals🐴 | 🐴 |
 | Tremendous🌟 | 🌟 |
 | Unarmed 🥊 | 🥊 |
@@ -254,7 +255,7 @@ Example Monster Stats:
 
 This section serves as both the abbreviation reference and the full word definition area for the system. Each entry begins with the common abbreviation (if any), followed by the full term in parentheses. All entries are alphabetized for quick reference.
 
-Abilities🧠 – All non-physical features of a character: Attributes✅, Skills🎓, Skill Sets🎓, Spec Rules📜, and Powers🔥 (unlocked via AP and organized into Paths🧭).
+Abilities🧠 – All non-physical features of a character: Attributes✅, Skills🎓, Skill Sets🎓, Traits🧬, and Powers🔥 (unlocked via AP and organized into Paths🧭).
 
 Ability Roll – Roll #d20 + d(Atr) + Bonus versus a difficulty to determine success or failure. The number of d20 is specified by skilled/unskilled, advantage/disadvantage.
 
@@ -300,7 +301,7 @@ Equipment🧰 – Legacy synonym for Gear⚙️.
 
 Exclusive Stacking Master Rule – The +1 tactical bonus from beating ALL opponents' Initiative (Nish 🚩) and the +1 bonus from being in the Fully Sparked state (⚡) stack with each other AND stack with nearly all other rolls (subject to GM discretion). ALL other bonuses, buffs, power amplifiers, and numerical modifiers DO NOT STACK unless an ability explicitly states "stacks with..." or with explicit GM approval. When multiple passive buffs or powers offer competing modifiers to the same roll or trait, only the single highest value applies.
 
-Exotic🧿 / Exotics🧿 – Any Gear that has OR potentially has (can accept via Supabase `belongs_to`) an actionable tactical Function🧿 or Spec Rule📜. Occupies 1–4 Function Slots on the character sheet based on tier (🍺 Minor: 1 Slot, 🪄 Lesser: 2 Slots, 🪬 Greater: 3 Slots, 💫 Epic: 4 Slots) when actively readied, and is purchasable with Gold or Silver ($g/s$).
+Exotic🧿 / Exotics🧿 – Any Gear that has OR potentially has (can accept via Supabase `belongs_to`) an actionable tactical Function🧿 or Trait🧬. Occupies 1–4 Function Slots on the character sheet based on tier (🍺 Minor: 1 Slot, 🪄 Lesser: 2 Slots, 🪬 Greater: 3 Slots, 💫 Epic: 4 Slots) when actively readied, and is purchasable with Gold or Silver ($g/s$).
 
 Ext Rng (Extended/Long Range) – A greater range (at disadvantage) that a weapon, ability, or item can reach.
 
@@ -338,7 +339,7 @@ M/H/S (Melee, Hurled, Shot) – Shorthand for weapon types.
 
 Magic Item✨ – Magical items categorized as Minor🍺 (1 Slot), Lesser🪄 (2 Slots), Greater🪬 (3 Slots), or Epic💫 (4 Slots) (synonymous with magical Exotics and Artifacts).
 
-Mod(s)🔌 – Named modular modifications, hardware attachments, or enchantments (e.g. *Joint Locks*, *Flood Lights*, *Undead Slayer Coating*) belonging to an Exotic or Kit that grant Functions🧿 or Spec Rules📜.
+Mod(s)🔌 – Named modular modifications, hardware attachments, or enchantments (e.g. *Joint Locks*, *Flood Lights*, *Undead Slayer Coating*) belonging to an Exotic or Kit that grant Functions🧿 or Traits🧬.
 
 Artifacts🔮 – Rare, unique, or enchanted Exotics discovered as treasure loot that cannot simply be bought in a store.
 
@@ -362,7 +363,7 @@ Nish🚩 (Initiative) – Determines turn order in combat.
 
 Opp Atk (Opportunity Attack) – An F action basic reaction attack using only the weapon in hand.
 
-Path(s)🧭 – Intangible character capability and identity suites (Race Paths, Class Paths, Discipline Paths, Specialization Paths). Unlocked via AP and character creation. Hallmark starting traits carry the `{Trait}` (0 AP) tag.
+Path(s)🧭 – Intangible character capability and identity suites (Race Paths, Class Paths, Discipline Paths, Specialization Paths). Unlocked via AP and character creation. Inherent starting traits carry the internal `{Perk}` tag (presented in UI and docs as free Traits).
 
 PC (Player Character) – A player-controlled character.
 
@@ -392,13 +393,13 @@ Single Die Rule (Single-Explode Capped) – Any single-die resolution roll (Dam
 
 Skill🎓 – An ability check using #d20 + d(Atr) + Bonus vs. Difficulty.
 
-Skill Set🎓 – A logical collection of related skills learned for 2 AP.
+Skill Set🎓 – A logical collection of related skills learned for 2 AP.
 
-Spec Rules📜 – Modular specific rules, physiological boons, tactical modifications, and rules exceptions queried from the `spec_rules` database table.
+Stats – All recorded values: Atr, Vit, MR, Def, Atk, Block Cap, Actions, Usage, Loadout Slots, etc.
 
-Stats – All recorded values: Atr, Vit, MR, Def, Atk, Block Cap, Actions, Usage, Loadout Slots, etc.
+Trait(s)🧬 – Modular traits, physiological boons, tactical modifications, and innate capabilities queried from the `traits` database table.
 
-Trait(s)🧬 ({Trait}) – AP FREE (0 AP) starting elements granted by Paths. The `{Trait}` notation is ENTIRELY reserved to designate a 0 AP starting grant. Auto-taken and may not be removed without GM approval.
+Free Trait(s)🧬 ({Perk}) – AP FREE (0 AP) starting traits or elements granted by Paths. The `{Perk}` notation is strictly an internal database and backend tag indicating a 0 AP grant. In player documentation and the UI, these are presented as "free Trait" (🧬 Trait (Free) or 🧬 free Trait) and NEVER as "Perk". Auto-taken and may not be removed without GM approval.
 
 Tremendous🌟 – A natural 20 on any d20 in an ability roll.
 
@@ -703,13 +704,13 @@ Focus vs. Luck (Strict Mutual Exclusivity): A player may use **Focus OR Luck** 
 
 Concept First: Any idea works — punk knight, techno-bard, gargoyle hero, soda rogue, etc.
 
-### 🧭 Starting Paths & 🧬 {Trait} Grants
+### 🧭 Starting Paths & 🧬 Free Trait Grants
 
 Every character begins with two Learned Paths:
-1. **🧬 Race Path (`🧭`):** Defines species traits, biology, and innate racial rules (0 AP {Trait} grants).
+1. **🧬 Race Path (`🧭`):** Defines species traits, biology, and innate racial rules (0 AP free Trait grants).
 2. **⚔️ Class Path (`🧭`):** Defines starting archetype, core skillset options, proficient weapons, armor, and starting powers.
 
-**🧬 Starting Traits ({Trait} / 0 AP Free):**
+**🧬 Starting Traits (0 AP Free):**
 * Player Name: Your real name.
 * Character Name: The name of your character.
 * Race / Class: The species and archetype you are playing.
@@ -899,10 +900,10 @@ Spend your accumulated AP🧩 across 3 structured tiers of progression:
 
 ##### 🧭 Path-Based Element Learning & Cross-Path Surcharges
 * **In-Path Learning (1 AP / 2 AP):** Any Element within a character's known Paths (Race, Class, or learned Paths) is learned for **1 AP** (or **2 AP** for a Skill Set🎓) with **no GM approval required**.
-* **Out-of-Path Learning (+1 AP Surcharge + GM Approval):** Any Element outside a character's known Paths may be learned for **Base AP + 1 AP** (e.g., **2 AP** for a single weapon, armor, shield, skill, power, or rule; **3 AP** for a Skill Set🎓) **WITH GM Approval**.
+* **Out-of-Path Learning (+1 AP Surcharge + GM Approval):** Any Element outside a character's known Paths may be learned for **Base AP + 1 AP** (e.g., **2 AP** for a single weapon, armor, shield, skill, power, or trait; **3 AP** for a Skill Set🎓) **WITH GM Approval**.
 * **Learning New Paths (4 AP + GM Approval):** Beyond the starting Race and Class Paths, characters may learn an entire new Path for **4 AP WITH GM Approval**.
-* **🧬 Traits ({Trait} / 0 AP Free):** Elements designated as Traits cost **0 AP** to gain.
-* **📜 Rules Acquisition:** Some Rules are 0 AP Traits (e.g. racial traits), while other Rules may be learned for standard AP costs (1 AP In-Path, 2 AP Out-of-Path with GM approval).
+* **🧬 Free Traits ({Perk} / 0 AP Free):** Elements designated as free Traits cost **0 AP** to gain as starting grants.
+* **🧬 Traits Acquisition:** Inherent biological and archetype Traits are 0 AP free grants, while modular Traits may be learned for standard AP costs (1 AP In-Path, 2 AP Out-of-Path with GM approval).
 * **⚔️ Default Gear Possession:** When a character learns a new Weapon, Armor, or Shield (via starting Path or AP spending), the default assumption is that they possess that physical item as standard mundane Gear (`⚙️`) (unless the GM determines otherwise based on campaign context).
 * **Unmet Item Requirements (+1 AP Surcharge & Refund Engine):** Becoming skilled in a Weapon, Armor, or Shield whose attribute requirements you do not yet meet costs an additional **+1 AP** (2 AP In-Path, 3 AP Out-of-Path). The item's stats are temporarily downscaled to your current attribute and auto-improve (0 AP) as your attribute advances. The extra AP is fully refunded once you meet the requirement and/or acquire the parent Path.
 
