@@ -207,7 +207,7 @@ Monster stats place the emojis before key numbers or number sets as in:
 | MR👣 | 👣 |
 | Natural Weapons🥊 | 🥊 |
 | Nish🚩 | 🚩 |
-| Notes📜 | 📜 |
+| Notesℹ️ | ℹ️ |
 | Paths🧭 (Capability Suites) | 🧭 |
 | Power Card🔥 | 🔥 |
 | Power🔥 | 🔥 |
