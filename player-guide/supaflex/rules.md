@@ -115,6 +115,14 @@ The complete SupaFlex game system is structured around the **Trinity of Mechanic
      * *Canonical Tier vs. Derived Slot Weight (Strict DRY):* The database and sheets exclusively store canonical `tier` (`Minor 🍺`, `Lesser 🪄`, `Greater 🪬`, `Epic 💫`). Numeric slot weight (1–4) is derived dynamically at runtime via `getTierSlotWeight()`.
      * *Clean Single Parentage:* A Function belongs to EITHER a Mod (`belongs_to: "Mod: [ModName]"`) OR directly to Gear (`belongs_to: "Gear: [ItemName]"`) — NEVER both. If an item has a Mod, the Function links to the Mod, and the Mod links to the Gear.
 
+6. **🌐 Equipment Domains & Single-Domain Database Invariant (The Living Triad):**
+   * **Rule (The What):** Every data row in the Supabase equipment tables (`armor`, `kits`, `shields`, `supplies`, and `weapons`) MUST contain one and only one value in the `domain` column. The ONLY permitted values are the seven canonical Domains:
+     1. **Sciences (Alphabetical):** `Archaic`, `BioTech`, `CyberTech`, `Tech`
+     2. **Powers (Alphabetical):** `Psionics`, `Psychosomatics`, `Sorce`
+     Compound strings (e.g. `Tech, Archaic`, `Tech, Artifact`), legacy category tags (e.g. `Medical`, `Universal`, `General`), and NULL values are strictly prohibited. The column in all five tables is titled `domain` (replacing legacy `discipline`).
+   * **Rationale (The Why):** Domain defines the fundamental scientific paradigm or mystical power source that an item originates from. Enforcing a strict single-domain invariant across all equipment guarantees deterministic facet filtering in the Gear Manager, prevents orphaned or ghost UI cards, and aligns equipment requirements with player character capability suites without brittle regex parsing.
+   * **Failure Mechanism (The What Breaks):** Compound or non-standard strings cause filter fragmentation, false negatives in gear searches, corrupted facet counts, and broken parity between the Supabase database, character sheet filters, and the Player Guide.
+
 ### ⚔️ Dual-Role Architecture: Supabase Weapons, Armor & Shields (Abilities vs. Physical Equipment)
 In SupaFlex, the Supabase database tables `weapons`, `armor`, and `shields` fulfill a deliberate **Dual Role** across the application architecture, serving as the single source of truth for both character combat capabilities and physical inventory/commerce:
 1. **The Ability Role (Combat Cards: WeaponsCard, ArmorCard, ShieldCard):**
@@ -824,9 +832,10 @@ Free Level Advancement
 * Manage Vitality - Free Max Vit Roll (Roll & keep higher)
 
 Spend AP to Learn & Improve Elements (1–4 AP):
-* In-Path Elements — Learn Weapon/Armor/Shield/Skill/Power/Rule (1 AP) | Learn Skill Set (2 AP)
-* Out-of-Path Elements — Out-of-Path +1 AP Surcharge with GM Approval (2 AP single, 3 AP Skill Set)
-* Unmet Item Requirements — Learn Weapon/Armor/Shield below requirements (+1 AP surcharge, downscaled stats, auto-improves 0 AP, refunded when met)
+* In-Path Elements — Learn Weapon/Armor/Shield/Power/Trait (1 AP) | Learn Skill Set (2 AP)
+* Unmet Item Requirements — Learn In-Path Weapon/Armor/Shield below requirements (2 AP: +1 AP surcharge, downscaled stats, auto-improves 0 AP, +1 AP refunded when met)
+* Out-of-Path Elements (GM Approval) — Cross-path element meeting requirements (3 AP: +2 AP surcharge) | Out-of-Path Skill Set (3 AP)
+* Out-of-Path with Unmet Requirements (GM Approval) — Learn Out-of-Path Weapon/Armor/Shield below requirements (4 AP: +2 AP ~Path + 1 AP ~Req surcharges)
 * Learn New Path — Learn additional Path (4 AP + GM Approval)
 * Manage Vitality — Gain +2 Max Vit (1 AP)
 * Upgrade Power — Apply 1-AP Augment (1 AP)
@@ -860,9 +869,10 @@ Free Level Advancement
 • Manage Vitality - Free Max Vit Roll (Roll & keep higher)
 
 Spend AP to Learn & Improve Elements (1–4 AP):
-• In-Path Elements — Learn Weapon/Armor/Shield/Skill/Power/Rule (1 AP) | Learn Skill Set (2 AP)
-• Out-of-Path Elements — Out-of-Path +1 AP Surcharge with GM Approval (2 AP single, 3 AP Skill Set)
-• Unmet Item Requirements — Learn Weapon/Armor/Shield below requirements (+1 AP surcharge, downscaled stats, auto-improves 0 AP, refunded when met)
+• In-Path Elements — Learn Weapon/Armor/Shield/Power/Trait (1 AP) | Learn Skill Set (2 AP)
+• Unmet Item Requirements — Learn In-Path Weapon/Armor/Shield below requirements (2 AP: +1 AP surcharge, downscaled stats, auto-improves 0 AP, +1 AP refunded when met)
+• Out-of-Path Elements (GM Approval) — Cross-path element meeting requirements (3 AP: +2 AP surcharge) | Out-of-Path Skill Set (3 AP)
+• Out-of-Path with Unmet Requirements (GM Approval) — Learn Out-of-Path Weapon/Armor/Shield below requirements (4 AP: +2 AP ~Path + 1 AP ~Req surcharges)
 • Learn New Path — Learn additional Path (4 AP + GM Approval)
 • Manage Vitality — Gain +2 Max Vit (1 AP)
 • Upgrade Power — Apply 1-AP Augment (1 AP)
@@ -898,14 +908,20 @@ Spend your accumulated AP🧩 across 3 structured tiers of progression:
 
 #### Tier 1: Basic Progression & Element Learning (1–4 AP🧩)
 
-##### 🧭 Path-Based Element Learning & Cross-Path Surcharges
-* **In-Path Learning (1 AP / 2 AP):** Any Element within a character's known Paths (Race, Class, or learned Paths) is learned for **1 AP** (or **2 AP** for a Skill Set🎓) with **no GM approval required**.
-* **Out-of-Path Learning (+1 AP Surcharge + GM Approval):** Any Element outside a character's known Paths may be learned for **Base AP + 1 AP** (e.g., **2 AP** for a single weapon, armor, shield, skill, power, or trait; **3 AP** for a Skill Set🎓) **WITH GM Approval**.
-* **Learning New Paths (4 AP + GM Approval):** Beyond the starting Race and Class Paths, characters may learn an entire new Path for **4 AP WITH GM Approval**.
-* **🧬 Free Traits ({Perk} / 0 AP Free):** Elements designated as free Traits cost **0 AP** to gain as starting grants.
-* **🧬 Traits Acquisition:** Inherent biological and archetype Traits are 0 AP free grants, while modular Traits may be learned for standard AP costs (1 AP In-Path, 2 AP Out-of-Path with GM approval).
-* **⚔️ Default Gear Possession:** When a character learns a new Weapon, Armor, or Shield (via starting Path or AP spending), the default assumption is that they possess that physical item as standard mundane Gear (`⚙️`) (unless the GM determines otherwise based on campaign context).
-* **Unmet Item Requirements (+1 AP Surcharge & Refund Engine):** Becoming skilled in a Weapon, Armor, or Shield whose attribute requirements you do not yet meet costs an additional **+1 AP** (2 AP In-Path, 3 AP Out-of-Path). The item's stats are temporarily downscaled to your current attribute and auto-improve (0 AP) as your attribute advances. The extra AP is fully refunded once you meet the requirement and/or acquire the parent Path.
+##### 🧭 Path-Based Element Learning & Cross-Path Surcharges (Triad Format)
+
+* **Rule (The What):** Element learning costs follow a strict 4-tier AP cost vector based on two orthogonal dimensions: Path status (`In-Path` vs `Out-of-Path`) and Attribute Requirements (`Meets Req` vs `Unmet Req`):
+  1. **1 AP — In-Path & Meets Requirements (`Path & Req`):** Standard learning cost for any In-Path Weapon, Armor, Shield, Power, or Trait. (Skill Sets cost **2 AP**). No GM approval required.
+  2. **2 AP — In-Path & Unmet Requirements (`Path, ~Req`):** Surcharge of **+1 AP** for acquiring an In-Path Weapon, Armor, or Shield below attribute requirements. Stats temporarily downscale to current attributes, auto-improve at 0 AP, and the +1 AP surcharge is fully refunded once the requirement is met.
+  3. **3 AP — Out-of-Path & Meets Requirements (`~Path & Req`):** Surcharge of **+2 AP** for cross-training an Element outside known Paths **WITH GM Approval**. Powers and modular Traits outside known Paths also cost **3 AP WITH GM Approval**.
+  4. **4 AP — Out-of-Path & Unmet Requirements (`~Path, ~Req`):** Surcharge of **+3 AP** (+2 AP for `~Path` and +1 AP for `~Req`) **WITH GM Approval**. Stats downscale until requirement is met; +1 AP refunded when attribute requirement is satisfied.
+  5. **Skills Exception:** Individual Skills cost **1 AP** and Skill Sets cost **2 AP** universally. Skills have no requirements and carry no path surcharge or penalty.
+  6. **New Path Acquisition (4 AP + GM Approval):** Unlocking an entire new Path costs **4 AP WITH GM Approval**.
+  7. **🧬 Free Traits ({Perk} / 0 AP Free):** Elements designated as free Traits cost **0 AP** to gain as starting grants.
+
+* **Rationale (The Why):** Penalizing Out-of-Path (`~Path` at +2 AP) more heavily than unmet physical requirements (`~Req` at +1 AP) preserves character archetype identity, prevents "class soup" cherry-picking, and maintains the economic value of the 4 AP Path purchase. In SupaFlex, characters earn 2 AP per level. If an out-of-path power, weapon, or trait cost only 2 AP, purchasing two abilities would equal the 4 AP path cost, completely cannibalizing the path progression system. At 3 AP, a single cross-path trick is accessible as a flavor pick, while deeper cross-training naturally incentivizes committing to the 4 AP Path.
+
+* **Failure Mechanism (The What Breaks):** Equalizing the penalties (+1 AP for `~Path` and +1 AP for `~Req`) creates an ambiguous collision where two completely distinct states both cost 2 AP, confusing the player interface, blurring class identities, and rendering Path purchases economically redundant.
 
 ##### Powers-Known Progressive AP Soft Tax
 To prevent high-level characters from hoarding endless batteries of cheap 1-Encounter powers, an escalating soft tax applies to total powers learned:
@@ -928,9 +944,11 @@ Character advancement relies on Horizontal Augments without rigid hierarchical v
 
 | Category | AP🧩 Options |
 | --- | --- |
-| **In-Path Elements🧭** | • Learn 1 In-Path Weapon, Armor, Shield, Skill🎓, Power🔥, or Rule📜 — **1 AP**<br>• Learn 1 In-Path Skill Set🎓 — **2 AP** |
-| **Out-of-Path Elements🌟** | • Learn 1 Out-of-Path Weapon, Armor, Shield, Skill🎓, Power🔥, or Rule📜 *(GM Approval)* — **2 AP** (+1 AP Surcharge)<br>• Learn 1 Out-of-Path Skill Set🎓 *(GM Approval)* — **3 AP** (+1 AP Surcharge) |
-| **Unmet Requirement Items🧰** | • Learn Weapon/Armor/Shield without meeting requirements *(Stats downscale, auto-improve 0 AP, AP refunded when met)* — **+1 AP Surcharge** (2 AP In-Path / 3 AP Out-of-Path) |
+| **In-Path & Meets Req (`Path & Req`)** | • Learn 1 In-Path Weapon, Armor, Shield, Power🔥, or Trait🧬 — **1 AP**<br>• Learn 1 In-Path Skill Set🎓 — **2 AP** |
+| **In-Path & Unmet Req (`Path, ~Req`)** | • Learn In-Path Weapon, Armor, or Shield below requirements *(Stats downscale, auto-improve 0 AP, +1 AP refunded when met)* — **2 AP** (+1 AP Surcharge) |
+| **Out-of-Path & Meets Req (`~Path & Req`)** | • Learn 1 Out-of-Path Weapon, Armor, Shield, Power🔥, or Trait🧬 *(GM Approval)* — **3 AP** (+2 AP Surcharge) |
+| **Out-of-Path & Unmet Req (`~Path, ~Req`)** | • Learn 1 Out-of-Path Weapon, Armor, or Shield below requirements *(GM Approval; Stats downscale, +1 AP refunded when met)* — **4 AP** (+2 AP ~Path + 1 AP ~Req) |
+| **Skills (Universal)** | • Learn 1 Individual Skill🎓 — **1 AP**<br>• Learn 1 Skill Set🎓 — **2 AP** *(Universal, no path or req surcharges)* |
 | **New Paths🧭** | • Learn 1 new complete Path *(GM Approval)* — **4 AP** |
 | **Powers🔥 Augments** | • Upgrade an existing Power🔥 along 1 Augment Vector — **1 AP**<br>• Randomly roll one Power🔥. If duplicate $\rightarrow$ gain **1 Free Augment Token** — **1 AP** |
 | **Vit❤️** | • Gain +2 Vit❤️ — **1 AP** |
