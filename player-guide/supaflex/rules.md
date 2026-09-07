@@ -92,8 +92,8 @@ The complete SupaFlex game system is structured around the **Trinity of Mechanic
    * **Commercial Non-Purchasability of Artifacts:** Any item carrying `cost: "Artifact"` is strictly excluded from commercial retail catalogs and store purchases. Artifacts are acquired exclusively through discovery, GM rewards, and loot tables.
 
 3. **🧭 Paths vs. 📦 Kits Taxonomy:**
-   * **Paths (`🧭`):** Intangible character identity and capability suites (Race Paths, Class Paths, Discipline Paths, Specialization Paths). Unlocked via AP and character creation. Hallmark starting traits use internal curly-brace notation: `{Perk}` indicating 0 AP starting grants (presented in UI and player docs as free Traits).
-   * **Kits (`📦`):** Tangible manufactured equipment and hardware suites (Powered Armor Suites, Survival Kits, Trauma Kits, Field Toolkits). Purchased with Gold / Silver ($g / s$) or acquired as treasure. Included hardware components use the `{Free}` tag.
+   * **Paths (`🧭`):** Intangible character identity and capability suites (Race Paths, Class Paths, Discipline Paths, Specialization Paths, Martial Proficiencies). Unlocked via AP and character creation. Hallmark starting traits use internal curly-brace notation: `{Perk}` indicating 0 AP starting grants (presented in UI and player docs as free Traits). The term "Kit" is strictly prohibited when discussing character capabilities or packages.
+   * **Kits (`📦`):** Rare, tangible manufactured equipment bundles and specialized field hardware (e.g. *Engineer Tool Kit (mso)*, *Field Repair Kit*, *Trauma Kit*, *Survival Kit*). Purchased with Gold / Silver ($g / s$) or acquired as treasure. Included hardware components carry the `{Free}` tag.
    * **Starting Paths:** Every character starts with 2 Learned Paths: **Race Path (`🧭`)** and **Class Path (`🧭`)**.
    * **Learning New Paths:** Beyond starting paths, additional Paths may be learned for **4 AP WITH GM Approval**.
 
@@ -329,7 +329,7 @@ Hit – When an attack successfully lands.
 
 H, Hu (Hurled) – Physically thrown weapons (daggers, axes, javelins, etc.).
 
-Kit(s)🎒 – Master pre-assembled bundles and hardware suites (e.g. *Survival Kit*, *Destron Armor*). Purchased with Gold / Silver ($g / s$) or acquired as treasure. Included items carry the `{Free}` tag.
+Kit(s)🎒 – Rare pre-assembled bundles of physical gear and field equipment (e.g. *Engineer Tool Kit (mso)*, *Survival Kit*, *Trauma Kit*). Purchased with Gold / Silver ($g / s$) or acquired as treasure. Included items carry the `{Free}` tag. Character capabilities, proficiencies, and training packages are Paths (`🧭`), never Kits.
 
 Level⭐ (Lvl) – A character’s level, equal to their total earned AP🧩.
 
