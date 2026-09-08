@@ -375,6 +375,20 @@ Index of purchasable Exotics (🧿) and treasure Artifacts (🔮) derived from m
 | **20s** | 1-Enc | P | **Bioluminescent Glow (mso)** | Glow Egg (mso) | Dormant seed; glows in 3sq radius when shaken. |
 | **1g** | 1-Rnd | P | **GlowTorch** | GlowTorch | Rng Medium; project forward arc of visible and infrared illumination. |
 | **3g** | 2-Enc | M | **Grappling Gun** | Grappling Gun | Fires grappling hook; 100 ft Q-Bond cable supports 1000 lbs. |
+| **85s** | 3 | A | **Flash-Bang Concussion Blast (mso)** | Grenade: Flash-Bang (Stun Core) (mso) | Rng Short; AoE 3x3; Save 🫀 or Blinded and Deafened for Encounter; failed by 5+ = Stunned for Encounter. |
+| **55s** | 2-Enc | A | **Flash-Bang Tactical Burst (mso)** | Grenade: Flash-Bang (Tactical) (mso) | Rng Short; AoE 3x3; Save 🫀 or Blinded and Deafened for Encounter. |
+| **1g 25s** | 3 | A | **Heavy Neuro-Aerosol Cloud (mso)** | Grenade: Gas (Neuro-Aerosol) (mso) | Rng Short; AoE 5x5; heavy lingering neuro-aerosol; covers area for Encounter. |
+| **75s** | 2-Enc | A | **Gas Tactical Cloud (mso)** | Grenade: Gas (Tactical) (mso) | Rng Short; AoE 3x3; disperses loaded chemical payload in cloud; targets inhale gas; lasts for Encounter. |
+| **1g 25s** | 3 | A | **HE High-Yield Demolition (mso)** | Grenade: HE (Military Warhead) (mso) | Rng Short; AoE 3x3; Atk 🏃 Dmg 2d8; Wnds = knocked Prone and pushed 2 sq. |
+| **75s** | 2-Enc | A | **HE Tactical Burst (mso)** | Grenade: HE (Tactical Pack) (mso) | Rng Short; AoE 3x3; Atk 🏃 Dmg d8; Wnds = knocked Prone. |
+| **1g 75s** | 3 | A | **White-Hot Phosphorous Storm (mso)** | Grenade: Incendiary (Phosphorous Core) (mso) | Rng Short; AoE 3x3; Atk 🏃 Dmg d10 fire; targets catch Fire (Dmg d6 each turn for Encounter). |
+| **1g 10s** | 2-Enc | A | **Incendiary Tactical Burn (mso)** | Grenade: Incendiary (Tactical) (mso) | Rng Short; AoE 3x3; Atk 🏃 Dmg d6 fire; flammable targets catch Fire (Dmg d4 each turn for Encounter). |
+| **1g 45s** | 3 | A | **Heavy Sonic Overload (mso)** | Grenade: Shock (Sonic EMP) (mso) | Rng Short; AoE 3x3; sonic blast; Save 🫀 or Unconscious for Encounter; robots/cyberware Stunned for Encounter. |
+| **90s** | 2-Enc | A | **Shock Tactical Wave (mso)** | Grenade: Shock (Tactical) (mso) | Rng Short; AoE 3x3; sonic blast; Save 🫀 or Stunned for Encounter; robots/cyberware take d6 ion Dmg. |
+| **65s** | 3 | A | **Thermal Heavy Smoke (mso)** | Grenade: Smoke (Heavy Thermal) (mso) | Rng Short; AoE 5x5; thermal-blocking smoke; blocks visual and sensor targeting; lasts for Encounter. |
+| **40s** | 2-Enc | A | **Smoke Screen Tactical (mso)** | Grenade: Smoke (Tactical) (mso) | Rng Short; AoE 3x3; dense particulate; blocks line-of-sight; Adv(Stealth🏃); lasts for Encounter. |
+| **1g** | 3 | A | **High-Tensile Tangler Web (mso)** | Grenade: Tangler (High-Tensile) (mso) | Rng Short; AoE 3x3; industrial resin; Save 🏃 or Entangled (👣 0; requires 💪^14 check to break free). |
+| **60s** | 2-Enc | A | **Tangler Tactical Resin (mso)** | Grenade: Tangler (Tactical) (mso) | Rng Short; AoE 3x3; sticky resin; Save 🏃 or Entangled (👣 0; requires 💪^10 check to break free). |
 | **1g 75s** | 2-Enc | P | **Security Network Breach (mso)** | Hacker (mso) | Rng 1; security hack 👁️+3^Dif. |
 | **1g** | 1-Enc | P | **HealGel** | HealGel | Heals 1st Deg; immediate tissue regeneration. |
 | **2g** | 2-Enc | M | **HoistMaster** | HoistMaster | Winch for Grappling Gun; hoist/lower at 20 ft/Rnd. |
@@ -394,6 +408,14 @@ Index of purchasable Exotics (🧿) and treasure Artifacts (🔮) derived from m
 | **5s** | 1-Enc | F | **Miniflare Gun Flares** | Miniflare Gun Flares | Ammo for Miniflare Gun or similar. |
 | **5s** | 1-Enc | F | **MiniScub Cartridge** | MiniScub Cartridge | 1 hour compressed air for MiniScuba or similar. |
 | **2g** | 1-Rnd | M | **MiniScuba** | MiniScuba | Mouthpiece + cartridge; 1 hr air; cartridge auto-fills when not in use. |
+| **6g** | 1-Enc | P | **Assassin Ambush Protocol (mso)** | Missile: Assassin (Proximity Ambush) (mso) | Rng Medium; deployable micro-ramjet; lies dormant up to 24 hrs; launches automatically when specified target enters range; Atk 👁️ Dmg 2d8. |
+| **8g** | 3 | P | **Executioner Hyper-Ramjet (mso)** | Missile: Assassin (Ramjet) (mso) | Rng Medium; hyper-velocity ramjet; lies dormant up to 7 days; Atk 👁️ Dmg 3d10; Wnds = Stunned for Encounter. |
+| **3g** | 3 | A | **Heavy Demolition Missile (mso)** | Missile: Explosive (Demolition) (mso) | Rng Long; heavy ordnance; AoE 5x5; Atk 👁️ Dmg 3d8; Wnds = structural breach and pushed 3 sq. |
+| **2g 25s** | 1-Enc | A | **Explosive Missile Launch (mso)** | Missile: Explosive (Tactical) (mso) | Rng Long; launched missile; AoE 3x3; Atk 👁️ Dmg 2d8; Wnds = knocked Prone. |
+| **4g** | 3 | A | **Dual-Thruster Hunter Strike (mso)** | Missile: Hunter (Dual-Thruster) (mso) | Rng Long; dual-thruster lock; Atk 👁️ Dmg 3d8; tracks target for Encounter until impact. |
+| **3g** | 1-Enc | A | **Hunter Tracking Lock (mso)** | Missile: Hunter (Tracker) (mso) | Rng Long; homing lock; Atk 👁️ Dmg 2d8; if Atk misses, missile re-attacks target each turn for Encounter until impact. |
+| **6g** | 3 | A | **Bunker-Buster AI Penetrator (mso)** | Missile: Seeker (Bunker-Buster) (mso) | Rng Long; AI deep pursuit; penetrates obstacles and armor; Atk 👁️ Dmg 3d10; ignores cover. |
+| **4g 50s** | 1-Enc | A | **Seeker Smart Acquisition (mso)** | Missile: Seeker (Smart Guidance) (mso) | Rng Long; AI autonomous pursuit; ignores cover and line-of-sight; Atk 👁️ Dmg 2d8. |
 | **4g** | 2-Enc | P | **NanoShear** | NanoShear | Precision cut or engrave up to 6 in; rating 40. Auto-cut or programmed patterns. |
 | **65s** | 2-Enc | P | **Nutrient Synthesis (mso)** | Nutripress (mso) | Breaks down organic matter into nutritabs. |
 | **150s** | 3-Enc | P | **Omni-Fab Flight** | Omni-Fab | Materializes any mundane utility tool or standard field supply on the fly. Item dissolves at end of encounter. |
@@ -409,6 +431,20 @@ Index of purchasable Exotics (🧿) and treasure Artifacts (🔮) derived from m
 | **50s** | 1-Enc | P | **Micro-Platelet Clotting (mso)** | Platelets (mso) | Micro-mites seal open Wnds; stops bleeding; heals 1 Vit. |
 | **8g 50s** | 2-Enc | P | **Hover Drone Escort (mso)** | Pod, Personal Hover (mso) | Rng Long; hover drone follows user; 👣 10. |
 | **35s** | 1-Enc | P | **Toxin Neutralization (Common) (mso)** | Poison Antidote (Common) (mso) | Rng Touch; removes Poisoned; neutralizes biological toxins. |
+| **1g 75s** | 2-Enc | A | **Choking Neurotoxin (mso)** | Poison: Choking (Blade Reservoir) (mso) | Weapon hit or contact; Save 🫀 or throat constricts; unable to speak; -2 to all checks for Encounter. |
+| **2g 25s** | 3 | A | **Suffocating Calamorian Cloud (mso)** | Poison: Choking (Milc-Ti Dose) (mso) | Rng Short; AoE 3x3; gas cloud; Save 🫀 or Suffocating (takes d8 Dmg each turn for Encounter; can only gasp for air). |
+| **3g 50s** | 3 | A | **Kryllian Acidic Liquefaction (mso)** | Poison: Corrosive (Acidic Core) (mso) | Weapon hit or contact; burns living tissue; target takes d8 acid Dmg each turn for Encounter; reduces target AR by 2. |
+| **2g 75s** | 2-Enc | A | **Corrosive Tissue Burn (mso)** | Poison: Corrosive (Blade Reservoir) (mso) | Weapon hit; acidic enzyme burns flesh; target takes d6 acid Dmg each turn for Encounter; reduces target AR by 1. |
+| **3g 50s** | 1-Enc | A | **Cardiac Neuro-Shock (mso)** | Poison: Death (Blade Reservoir) (mso) | Weapon hit; severe cardiac shock; Save 🫀 or Stunned for Encounter and takes -d8 Vit. |
+| **4g 50s** | 1-⚡ | A | **Sea Zimil Cardiac Arrest (mso)** | Poison: Death (Sea Zimil Dose) (mso) | Intravenous strike; Save 🫀^14 or cardiac arrest; drops to 0 Vit and dying; fatal by end of Encounter unless Kalos II kicta antidote or 👁️^14 Medtech check succeeds. |
+| **2g 70s** | 3 | A | **Medical Anesthetic Dose (mso)** | Poison: Knockout (Anesthetic Vial) (mso) | Intravenous or oral; Save 🫀 or Unconscious for Encounter (wakes upon taking Dmg). |
+| **2g 10s** | 2-Enc | A | **Knockout Sedative (mso)** | Poison: Knockout (Blade Reservoir) (mso) | Weapon hit or contact; Save 🫀 or Unconscious for Encounter. |
+| **1g 75s** | 2-Enc | A | **Euphoric Hysteria (mso)** | Poison: Laughing (Blade Reservoir) (mso) | Inhaled or contact; Save 👁️ or fits of uncontrollable laughter; 👣 1 sq max; cannot take Atk actions for Encounter. |
+| **2g 25s** | 3 | A | **Neuro-Hysteria Gas Cloud (mso)** | Poison: Laughing (Euphoria Cloud) (mso) | Rng Short; AoE 3x3; gas cloud; Save 👁️ or incapacitated laughing and exhausted for Encounter. |
+| **2g 10s** | 2-Enc | A | **Paralytic Venom (mso)** | Poison: Paralysis (Blade Reservoir) (mso) | Weapon hit or contact; Save 🫀 or Paralyzed for Encounter (can think/sense, but cannot move or act). |
+| **2g 75s** | 3 | A | **Joc-Tun Neuro-Paralysis (mso)** | Poison: Paralysis (Joc-Tun Dose) (mso) | Intravenous strike; Save 🫀 or Paralyzed for Encounter (can think/sense, but cannot move or act). |
+| **1g 75s** | 2-Enc | A | **Deep Narcosis (mso)** | Poison: Sleep (Blade Reservoir) (mso) | Weapon hit or contact; Save 🫀 or falls asleep for Encounter (Shanask immune). |
+| **2g 25s** | 3 | A | **Setchie Coma Dose (mso)** | Poison: Sleep (Setchie Coma Dose) (mso) | Ingested or coated; Save 🫀 or falls into deep sleep for Encounter (wakes if vigorously shaken or taking Dmg; Shanask immune). |
 | **0g** | 2-Enc | A | **Contact Neurotoxin Inoculation (mso)** | Poisons (mso) | Rng 1; contact/ingested toxin; Save 🫀^20 or Poisoned. |
 | **15g** | 1-Enc | P | **Exoskeleton Heavy Lift (mso)** | Power Frame (mso) | Exoskeleton harness; +4 to carrying capacity and heavy lifting. |
 | **3g 75s** | 2-Enc | P | **Hydraulic Strike Empowerment (mso)** | Power Joints (mso) | Hydraulic limb joints; +2 Dmg on melee strikes with limb. |
@@ -432,6 +468,12 @@ Index of purchasable Exotics (🧿) and treasure Artifacts (🔮) derived from m
 | **2g 50s** | 2-Enc | A | **Precision Torch Cut (mso)** | Tech Wand (mso) | Industrial cutting/welding torch; precision tool. |
 | **85s** | 1-Enc | P | **Corrosive Micro-Mite Swarm (mso)** | TechMites (mso) | Releases flesh-eating bio-mites; 1d6 Acid Dmg/Rnd. |
 | **2g** | 3-Enc | F | **Thermoregulatory Heating (mso)** | Thermoplas Implant (mso) | Internal blood heating; immune to extreme cold. |
+| **30s** | 2-Enc | A | **Exploding Tip Shot (mso)** | Tip: Exploding (Burst) (mso) | Weapon shot; on hit, triggers kinetic blast dealing +d6 Dmg to primary target. |
+| **45s** | 1-Enc | A | **Explosive Blast Shot (mso)** | Tip: Explosive Blast (Tactical) (mso) | Weapon shot; on hit, explodes in AoE 2x2; primary and adjacent targets suffer Atk 🏃 Dmg +d6. |
+| **60s** | 3 | A | **Kinetic Blast Shot (mso)** | Tip: Kinetic Blast (Heavy) (mso) | Weapon shot; on hit, +d10 Dmg and knocks target Prone. |
+| **75s** | 3 | A | **Micro-Warhead Shot (mso)** | Tip: Micro-Warhead (Heavy) (mso) | Weapon shot; on hit, explodes in AoE 3x3; targets suffer Atk 🏃 Dmg +d8; Wnds = pushed 2 sq. |
+| **40s** | 2-Enc | A | **Spinning Drill Shot (mso)** | Tip: Spinning Drill (Tactical) (mso) | Weapon shot; drills into flesh; target takes +d4 Dmg each turn for Encounter until removed via 👁️^12 First Aid check or suffering extra d6 Dmg. |
+| **65s** | 3 | A | **Tungsten Harpoon Shot (mso)** | Tip: Tungsten Harpoon (Heavy) (mso) | Weapon shot; tungsten drill lodges into target; deals +d8 Dmg each turn for Encounter; requires 👁️^16 Medtech check to remove or suffering extra d8 Dmg. |
 | **8g** | 2-Enc | P | **Sub-Dermal Impact Damping (mso)** | Tish-Shocks (mso) | Sub-dermal shock absorbers; +2 AR vs blunt/fall Dmg. |
 | **8g** | 2-Enc | P | **Sub-Dermal Shock Absorption (mso)** | Tish-Shocks (mso) | Sub-dermal shock absorbers; +2 AR vs blunt/fall Dmg. |
 | **15g** | 2-Enc | P | **Osteo-Titanium Reinforcement (mso)** | Titanium Endoskeleton (mso) | Titanium infused bone structure; +2 AR. |

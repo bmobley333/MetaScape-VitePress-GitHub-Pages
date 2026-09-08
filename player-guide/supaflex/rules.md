@@ -123,6 +123,25 @@ The complete SupaFlex game system is structured around the **Trinity of Mechanic
    * **Rationale (The Why):** Domain defines the fundamental scientific paradigm or mystical power source that an item originates from. Enforcing a strict single-domain invariant across all equipment guarantees deterministic facet filtering in the Gear Manager, prevents orphaned or ghost UI cards, and aligns equipment requirements with player character capability suites without brittle regex parsing.
    * **Failure Mechanism (The What Breaks):** Compound or non-standard strings cause filter fragmentation, false negatives in gear searches, corrupted facet counts, and broken parity between the Supabase database, character sheet filters, and the Player Guide.
 
+7. **💣 Discrete Munition Mandate (The Living Triad):**
+   * **Rule (The What):** Finished combat munitions with fundamentally distinct usage cadences (`1-Enc` / `2-Enc` vs `3-Use` consumable), damage profiles, or mechanical functions MUST be cataloged as distinct, standalone entries in `supplies` (`SB_Equipment`) under the `Ammunition` or `BioTech` categories. They must never be decomposed into artificial "base casings" with mutually exclusive "warhead mods." Base casing and warhead costs are unified into a single sticker price.
+   * **Rationale (The Why):** A soldier equipping a replenishing tactical grenade webbing is engaging in a different economic and tactical decision than an operative carrying single-use demolition charges. Independent catalog entries allow discrete inventory counts, separate function cards in the Function Vault, and unambiguous pricing without complex variant-selection state.
+   * **Failure Mechanism (The What Breaks):** Conflating variants into a single gear row with pseudo-mods leads to inventory state collisions (e.g., trying to carry both types simultaneously breaks single-quantity tracking), requires multi-step selection popups in the shopping cart, and forces artificial schema complexity onto the database.
+
+8. **🏷️ Universal Family Prefix Standard (The Living Triad):**
+   * **Rule (The What):** Clustered munition and consumable families MUST adhere to the standardized prefix taxonomy format: `[Family]: [Subtype] ([Variant]) (mso)`. Specifically:
+     - Grenades: `Grenade: [Type] ([Tactical Pack | Heavy Warhead]) (mso)`
+     - Missiles: `Missile: [Type] ([Tactical Propulsion | Heavy Demolition]) (mso)`
+     - Poisons: `Poison: [Type] ([Blade Reservoir | Concentrated Dose]) (mso)`
+     - Arrow/Bolt Tips: `Tip: [Type] ([Burst | Heavy | Tactical]) (mso)`
+   * **Rationale (The Why):** Without a family prefix, items like *Flash-Bang*, *Incendiary*, *Shock*, and *Tangler* scatter across 15 letters of the alphabet in the shopping catalog, making it nearly impossible for players to compare alternatives or find ammunition efficiently.
+   * **Failure Mechanism (The What Breaks):** Fragmented naming degrades UI information density, increases player search friction, and forces repetitive keyword filtering in the Gear Manager.
+
+9. **🏹 Universal Archery Tip Standard (The Living Triad):**
+   * **Rule (The What):** Specialty arrow and crossbow bolt ammunition MUST be authored and sold as individual discrete tips (`Tip: ...`), with inherent tactical functions applicable to both bow arrows and crossbow bolts. Synthetic bundled quiver entries (e.g. `Specialty Arrows Quiver`) are strictly prohibited.
+   * **Rationale (The Why):** Archery reality and table feel center on selecting and threading specific tactical tips onto standardized shafts from a shared quiver. Selling discrete tips allows archers to curate a custom quiver mixture of utility tips (e.g. 3 Exploding, 2 Harpoon, 1 Smoke) rather than being locked into rigid monoculture quivers.
+   * **Failure Mechanism (The What Breaks):** Forcing quivers as base gear requires complex mod-swapping logic, inflates cost barriers for archers wanting situational utility arrows, and prevents realistic quantity tracking of individual tip expenditures during combat.
+
 ### ⚔️ Dual-Role Architecture: Supabase Weapons, Armor & Shields (Abilities vs. Physical Equipment)
 In SupaFlex, the Supabase database tables `weapons`, `armor`, and `shields` fulfill a deliberate **Dual Role** across the application architecture, serving as the single source of truth for both character combat capabilities and physical inventory/commerce:
 1. **The Ability Role (Combat Cards: WeaponsCard, ArmorCard, ShieldCard):**

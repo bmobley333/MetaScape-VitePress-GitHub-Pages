@@ -38550,135 +38550,330 @@
       "belongs_to": null
     },
     {
-      "id": 587,
+      "id": 607,
       "category": "Ammunition",
-      "name": "Assassin Missile (mso)",
-      "cost": "4g",
-      "created_at": "2026-09-05T23:12:14.068983+00:00",
+      "name": "Grenade: Flash-Bang (Stun Core) (mso)",
+      "cost": "85s",
+      "created_at": "2026-09-08T15:45:19.702683+00:00",
       "genres": [
         "SciFi"
       ],
-      "notes": "High-velocity deployable micro-ramjet missile programmed for dormant ambush and automated proximity strikes.",
+      "notes": "Heavy magnesium stun grenade designed to disorient and blind targets in a wide area.",
       "pic": null,
       "domain": "Tech",
       "path": null,
       "belongs_to": null
     },
     {
-      "id": 584,
+      "id": 606,
       "category": "Ammunition",
-      "name": "Explosive Missile (mso)",
-      "cost": "1g 50s",
-      "created_at": "2026-09-05T23:12:14.068983+00:00",
+      "name": "Grenade: Flash-Bang (Tactical) (mso)",
+      "cost": "55s",
+      "created_at": "2026-09-08T15:45:19.702683+00:00",
       "genres": [
         "SciFi"
       ],
-      "notes": "Standard shoulder-fired or launcher-guided explosive missile delivering concussive blast payload.",
+      "notes": "Tactical flash-bang disorientation canisters replenished each encounter.",
       "pic": null,
       "domain": "Tech",
       "path": null,
       "belongs_to": null
     },
     {
-      "id": 576,
+      "id": 617,
       "category": "Ammunition",
-      "name": "Flash-Bang Grenade (mso)",
-      "cost": "35s",
-      "created_at": "2026-09-05T23:12:14.068983+00:00",
+      "name": "Grenade: Gas (Neuro-Aerosol) (mso)",
+      "cost": "1g 25s",
+      "created_at": "2026-09-08T15:45:19.702683+00:00",
       "genres": [
         "SciFi"
       ],
-      "notes": "Non-lethal disorientation canister emitting a high-intensity blinding flash and deafening acoustic concussive blast.",
+      "notes": "Pressurized neurotoxin aerosol cannister delivering debilitating gas across wide zones.",
       "pic": null,
       "domain": "Tech",
       "path": null,
       "belongs_to": null
     },
     {
-      "id": 581,
+      "id": 616,
       "category": "Ammunition",
-      "name": "Gas Grenade (mso)",
-      "cost": "50s",
-      "created_at": "2026-09-05T23:12:14.068983+00:00",
-      "genres": [
-        "SciFi"
-      ],
-      "notes": "Pressurized chemical release canister engineered to vaporize and disperse biological or alchemical liquid payloads into an aerosol cloud.",
-      "pic": null,
-      "domain": "Tech",
-      "path": null,
-      "belongs_to": null
-    },
-    {
-      "id": 575,
-      "category": "Ammunition",
-      "name": "High Explosive Grenade (mso)",
-      "cost": "50s",
-      "created_at": "2026-09-05T23:12:14.068983+00:00",
-      "genres": [
-        "SciFi"
-      ],
-      "notes": "Standard military fragmentation canister designed to breach fortifications and knock targets prone with concussive blast pressure.",
-      "pic": null,
-      "domain": "Tech",
-      "path": null,
-      "belongs_to": null
-    },
-    {
-      "id": 585,
-      "category": "Ammunition",
-      "name": "Hunter Missile (mso)",
-      "cost": "2g",
-      "created_at": "2026-09-05T23:12:14.068983+00:00",
-      "genres": [
-        "SciFi"
-      ],
-      "notes": "Advanced homing missile fitted with active target-lock thrusters that continuously hunt designated targets.",
-      "pic": null,
-      "domain": "Tech",
-      "path": null,
-      "belongs_to": null
-    },
-    {
-      "id": 577,
-      "category": "Ammunition",
-      "name": "Incendiary Grenade (mso)",
+      "name": "Grenade: Gas (Tactical) (mso)",
       "cost": "75s",
-      "created_at": "2026-09-05T23:12:14.068983+00:00",
+      "created_at": "2026-09-08T15:45:19.702683+00:00",
       "genres": [
         "SciFi"
       ],
-      "notes": "Chemical dispersion grenade generating white-hot chemical fire that adheres to flammable surfaces and structures.",
+      "notes": "Tactical irritant gas dispersers replenished each encounter to flush entrenched hostiles.",
       "pic": null,
       "domain": "Tech",
       "path": null,
       "belongs_to": null
     },
     {
-      "id": 586,
+      "id": 605,
       "category": "Ammunition",
-      "name": "Seeker Missile (mso)",
-      "cost": "3g",
-      "created_at": "2026-09-05T23:12:14.068983+00:00",
+      "name": "Grenade: HE (Military Warhead) (mso)",
+      "cost": "1g 25s",
+      "created_at": "2026-09-08T15:45:19.702683+00:00",
       "genres": [
         "SciFi"
       ],
-      "notes": "Autonomous AI-guided micro-missile programmed to track and pursue designated targets around obstacles and fortified cover.",
+      "notes": "High-yield military-grade demolition grenade designed to breach fortifications and blow targets backward.",
       "pic": null,
       "domain": "Tech",
       "path": null,
       "belongs_to": null
     },
     {
-      "id": 578,
+      "id": 604,
       "category": "Ammunition",
-      "name": "Shock Grenade (mso)",
+      "name": "Grenade: HE (Tactical Pack) (mso)",
+      "cost": "75s",
+      "created_at": "2026-09-08T15:45:19.702683+00:00",
+      "genres": [
+        "SciFi"
+      ],
+      "notes": "Standard tactical loadout of high explosive fragmentation grenades replenished each encounter.",
+      "pic": null,
+      "domain": "Tech",
+      "path": null,
+      "belongs_to": null
+    },
+    {
+      "id": 609,
+      "category": "Ammunition",
+      "name": "Grenade: Incendiary (Phosphorous Core) (mso)",
+      "cost": "1g 75s",
+      "created_at": "2026-09-08T15:45:19.702683+00:00",
+      "genres": [
+        "SciFi"
+      ],
+      "notes": "White-hot chemical phosphorous core dispersing persistent clinging fire.",
+      "pic": null,
+      "domain": "Tech",
+      "path": null,
+      "belongs_to": null
+    },
+    {
+      "id": 608,
+      "category": "Ammunition",
+      "name": "Grenade: Incendiary (Tactical) (mso)",
+      "cost": "1g 10s",
+      "created_at": "2026-09-08T15:45:19.702683+00:00",
+      "genres": [
+        "SciFi"
+      ],
+      "notes": "Tactical thermal gel canisters replenished each encounter to ignite combat zones.",
+      "pic": null,
+      "domain": "Tech",
+      "path": null,
+      "belongs_to": null
+    },
+    {
+      "id": 611,
+      "category": "Ammunition",
+      "name": "Grenade: Shock (Sonic EMP) (mso)",
+      "cost": "1g 45s",
+      "created_at": "2026-09-08T15:45:19.702683+00:00",
+      "genres": [
+        "SciFi"
+      ],
+      "notes": "High-yield sonic EMP bomb blasting circuitry and staggering shielded combatants.",
+      "pic": null,
+      "domain": "Tech",
+      "path": null,
+      "belongs_to": null
+    },
+    {
+      "id": 610,
+      "category": "Ammunition",
+      "name": "Grenade: Shock (Tactical) (mso)",
+      "cost": "90s",
+      "created_at": "2026-09-08T15:45:19.702683+00:00",
+      "genres": [
+        "SciFi"
+      ],
+      "notes": "Tactical shockwave pulse canisters replenished each encounter to disrupt electronics and shield systems.",
+      "pic": null,
+      "domain": "Tech",
+      "path": null,
+      "belongs_to": null
+    },
+    {
+      "id": 613,
+      "category": "Ammunition",
+      "name": "Grenade: Smoke (Heavy Thermal) (mso)",
+      "cost": "65s",
+      "created_at": "2026-09-08T15:45:19.702683+00:00",
+      "genres": [
+        "SciFi"
+      ],
+      "notes": "Dense aerosol smoke canister designed to block thermal optics and targeting sensors.",
+      "pic": null,
+      "domain": "Tech",
+      "path": null,
+      "belongs_to": null
+    },
+    {
+      "id": 612,
+      "category": "Ammunition",
+      "name": "Grenade: Smoke (Tactical) (mso)",
+      "cost": "40s",
+      "created_at": "2026-09-08T15:45:19.702683+00:00",
+      "genres": [
+        "SciFi"
+      ],
+      "notes": "Tactical smoke screen canisters replenished each encounter to obscure vision.",
+      "pic": null,
+      "domain": "Tech",
+      "path": null,
+      "belongs_to": null
+    },
+    {
+      "id": 615,
+      "category": "Ammunition",
+      "name": "Grenade: Tangler (High-Tensile) (mso)",
+      "cost": "1g",
+      "created_at": "2026-09-08T15:45:19.702683+00:00",
+      "genres": [
+        "SciFi"
+      ],
+      "notes": "Industrial-grade expanding polymer snare trapping targets in dense binding fibers.",
+      "pic": null,
+      "domain": "Tech",
+      "path": null,
+      "belongs_to": null
+    },
+    {
+      "id": 614,
+      "category": "Ammunition",
+      "name": "Grenade: Tangler (Tactical) (mso)",
       "cost": "60s",
-      "created_at": "2026-09-05T23:12:14.068983+00:00",
+      "created_at": "2026-09-08T15:45:19.702683+00:00",
       "genres": [
         "SciFi"
       ],
-      "notes": "High-frequency sonic and electromagnetic pulse grenade effective against living targets and cybernetic systems.",
+      "notes": "Tactical adhesive polymer canisters replenished each encounter to entangle foes.",
+      "pic": null,
+      "domain": "Tech",
+      "path": null,
+      "belongs_to": null
+    },
+    {
+      "id": 624,
+      "category": "Ammunition",
+      "name": "Missile: Assassin (Proximity Ambush) (mso)",
+      "cost": "6g",
+      "created_at": "2026-09-08T15:45:19.702683+00:00",
+      "genres": [
+        "SciFi"
+      ],
+      "notes": "Stealth-coated proximity missile designed for sudden close-quarters ambushes.",
+      "pic": null,
+      "domain": "Tech",
+      "path": null,
+      "belongs_to": null
+    },
+    {
+      "id": 625,
+      "category": "Ammunition",
+      "name": "Missile: Assassin (Ramjet) (mso)",
+      "cost": "8g",
+      "created_at": "2026-09-08T15:45:19.702683+00:00",
+      "genres": [
+        "SciFi"
+      ],
+      "notes": "Hyper-velocity ramjet executioner missile with devastating terminal kinetic impact.",
+      "pic": null,
+      "domain": "Tech",
+      "path": null,
+      "belongs_to": null
+    },
+    {
+      "id": 619,
+      "category": "Ammunition",
+      "name": "Missile: Explosive (Demolition) (mso)",
+      "cost": "3g",
+      "created_at": "2026-09-08T15:45:19.702683+00:00",
+      "genres": [
+        "SciFi"
+      ],
+      "notes": "Heavy demolition warhead missile delivering massive structural kinetic yield.",
+      "pic": null,
+      "domain": "Tech",
+      "path": null,
+      "belongs_to": null
+    },
+    {
+      "id": 618,
+      "category": "Ammunition",
+      "name": "Missile: Explosive (Tactical) (mso)",
+      "cost": "2g 25s",
+      "created_at": "2026-09-08T15:45:19.702683+00:00",
+      "genres": [
+        "SciFi"
+      ],
+      "notes": "Shoulder-launched tactical explosive missile with self-replenishing guidance.",
+      "pic": null,
+      "domain": "Tech",
+      "path": null,
+      "belongs_to": null
+    },
+    {
+      "id": 621,
+      "category": "Ammunition",
+      "name": "Missile: Hunter (Dual-Thruster) (mso)",
+      "cost": "4g",
+      "created_at": "2026-09-08T15:45:19.702683+00:00",
+      "genres": [
+        "SciFi"
+      ],
+      "notes": "Dual-thruster heavy hunter missile delivering evasive maneuvering and relentless target pursuit.",
+      "pic": null,
+      "domain": "Tech",
+      "path": null,
+      "belongs_to": null
+    },
+    {
+      "id": 620,
+      "category": "Ammunition",
+      "name": "Missile: Hunter (Tracker) (mso)",
+      "cost": "3g",
+      "created_at": "2026-09-08T15:45:19.702683+00:00",
+      "genres": [
+        "SciFi"
+      ],
+      "notes": "Active-tracking homing missile locking onto biological and vehicular heat signatures.",
+      "pic": null,
+      "domain": "Tech",
+      "path": null,
+      "belongs_to": null
+    },
+    {
+      "id": 623,
+      "category": "Ammunition",
+      "name": "Missile: Seeker (Bunker-Buster) (mso)",
+      "cost": "6g",
+      "created_at": "2026-09-08T15:45:19.702683+00:00",
+      "genres": [
+        "SciFi"
+      ],
+      "notes": "Bunker-buster smart missile equipped with penetration algorithms to pierce fortified emplacements.",
+      "pic": null,
+      "domain": "Tech",
+      "path": null,
+      "belongs_to": null
+    },
+    {
+      "id": 622,
+      "category": "Ammunition",
+      "name": "Missile: Seeker (Smart Guidance) (mso)",
+      "cost": "4g 50s",
+      "created_at": "2026-09-08T15:45:19.702683+00:00",
+      "genres": [
+        "SciFi"
+      ],
+      "notes": "Smart-guided micro-missile seeking designated electronic targets.",
       "pic": null,
       "domain": "Tech",
       "path": null,
@@ -38700,60 +38895,90 @@
       "belongs_to": null
     },
     {
-      "id": 579,
+      "id": 640,
       "category": "Ammunition",
-      "name": "Smoke Grenade (mso)",
-      "cost": "25s",
-      "created_at": "2026-09-05T23:12:14.068983+00:00",
+      "name": "Tip: Exploding (Burst) (mso)",
+      "cost": "30s",
+      "created_at": "2026-09-08T15:45:19.702683+00:00",
       "genres": [
         "SciFi"
       ],
-      "notes": "Rapid-dispersion aerosol canister generating dense particulate smoke that obscures visual line-of-sight and sensor tracking.",
+      "notes": "Kinetic blast tip threaded for arrows and bolts, detonating on impact.",
       "pic": null,
       "domain": "Tech",
       "path": null,
       "belongs_to": null
     },
     {
-      "id": 582,
+      "id": 642,
       "category": "Ammunition",
-      "name": "Specialty Arrows Quiver (mso)",
-      "cost": "50s",
-      "created_at": "2026-09-05T23:12:14.068983+00:00",
+      "name": "Tip: Explosive Blast (Tactical) (mso)",
+      "cost": "45s",
+      "created_at": "2026-09-08T15:45:19.702683+00:00",
       "genres": [
         "SciFi"
       ],
-      "notes": "Reinforced tactical quiver fitted with specialized mounting clips for quick-attaching modular trick arrow tips.",
+      "notes": "Shrapnel fragmentation tip threaded for arrows and bolts exploding across a 2x2 area.",
       "pic": null,
       "domain": "Tech",
       "path": null,
       "belongs_to": null
     },
     {
-      "id": 583,
+      "id": 641,
       "category": "Ammunition",
-      "name": "Specialty Bolts Quiver (mso)",
-      "cost": "50s",
-      "created_at": "2026-09-05T23:12:14.068983+00:00",
+      "name": "Tip: Kinetic Blast (Heavy) (mso)",
+      "cost": "60s",
+      "created_at": "2026-09-08T15:45:19.702683+00:00",
       "genres": [
         "SciFi"
       ],
-      "notes": "Heavy crossbow bolt quiver engineered with modular tip-locking mechanisms for tactical bolts.",
+      "notes": "High-impact concussive tip threaded for arrows and bolts to knock targets prone.",
       "pic": null,
       "domain": "Tech",
       "path": null,
       "belongs_to": null
     },
     {
-      "id": 580,
+      "id": 643,
       "category": "Ammunition",
-      "name": "Tangler Grenade (mso)",
+      "name": "Tip: Micro-Warhead (Heavy) (mso)",
+      "cost": "75s",
+      "created_at": "2026-09-08T15:45:19.702683+00:00",
+      "genres": [
+        "SciFi"
+      ],
+      "notes": "Miniaturized demolition warhead tip threaded for arrows and bolts blasting targets back.",
+      "pic": null,
+      "domain": "Tech",
+      "path": null,
+      "belongs_to": null
+    },
+    {
+      "id": 644,
+      "category": "Ammunition",
+      "name": "Tip: Spinning Drill (Tactical) (mso)",
       "cost": "40s",
-      "created_at": "2026-09-05T23:12:14.068983+00:00",
+      "created_at": "2026-09-08T15:45:19.702683+00:00",
       "genres": [
         "SciFi"
       ],
-      "notes": "Expanding chemical polymer resin canister that rapidly entangles and immobilizes targets upon detonation.",
+      "notes": "Pneumatic spinning drill tip threaded for arrows and bolts piercing deep into armor.",
+      "pic": null,
+      "domain": "Tech",
+      "path": null,
+      "belongs_to": null
+    },
+    {
+      "id": 645,
+      "category": "Ammunition",
+      "name": "Tip: Tungsten Harpoon (Heavy) (mso)",
+      "cost": "65s",
+      "created_at": "2026-09-08T15:45:19.702683+00:00",
+      "genres": [
+        "SciFi"
+      ],
+      "notes": "Barbed tungsten harpoon tip threaded for arrows and bolts inflicting grievous ongoing wounds.",
       "pic": null,
       "domain": "Tech",
       "path": null,
@@ -44026,51 +44251,6 @@
       "belongs_to": null
     },
     {
-      "id": 588,
-      "category": "BioTech",
-      "name": "Choking Poison Vial (mso)",
-      "cost": "1g 25s",
-      "created_at": "2026-09-05T23:12:14.068983+00:00",
-      "genres": [
-        "SciFi"
-      ],
-      "notes": "Synthesized Calamorian asphyxiation neurotoxin that severely constricts airways and vocal cords.",
-      "pic": null,
-      "domain": "BioTech",
-      "path": null,
-      "belongs_to": null
-    },
-    {
-      "id": 589,
-      "category": "BioTech",
-      "name": "Corrosive Poison Vial (mso)",
-      "cost": "2g",
-      "created_at": "2026-09-05T23:12:14.068983+00:00",
-      "genres": [
-        "SciFi"
-      ],
-      "notes": "Flesh-melting Kryllian acid enzyme that rapidly eats through armor and living tissue.",
-      "pic": null,
-      "domain": "BioTech",
-      "path": null,
-      "belongs_to": null
-    },
-    {
-      "id": 590,
-      "category": "BioTech",
-      "name": "Death Poison Vial (mso)",
-      "cost": "2g 50s",
-      "created_at": "2026-09-05T23:12:14.163514+00:00",
-      "genres": [
-        "SciFi"
-      ],
-      "notes": "Extremely lethal Sea Zimil cardiac neurotoxin causing acute heart failure upon intravenous introduction.",
-      "pic": null,
-      "domain": "BioTech",
-      "path": null,
-      "belongs_to": null
-    },
-    {
       "id": 477,
       "category": "BioTech",
       "name": "Feeder (mso)",
@@ -44116,36 +44296,6 @@
       "belongs_to": null
     },
     {
-      "id": 591,
-      "category": "BioTech",
-      "name": "Knockout Poison Vial (mso)",
-      "cost": "1g 50s",
-      "created_at": "2026-09-05T23:12:14.163514+00:00",
-      "genres": [
-        "SciFi"
-      ],
-      "notes": "Rapid-acting tactical sedative inducing immediate unconsciousness upon contact with the bloodstream.",
-      "pic": null,
-      "domain": "BioTech",
-      "path": null,
-      "belongs_to": null
-    },
-    {
-      "id": 592,
-      "category": "BioTech",
-      "name": "Laughing Poison Vial (mso)",
-      "cost": "1g 25s",
-      "created_at": "2026-09-05T23:12:14.163514+00:00",
-      "genres": [
-        "SciFi"
-      ],
-      "notes": "Aerosolized euphoric agent that overwhelms the nervous system with uncontrollable hysterical laughter.",
-      "pic": null,
-      "domain": "BioTech",
-      "path": null,
-      "belongs_to": null
-    },
-    {
       "id": 500,
       "category": "BioTech",
       "name": "Lift Pods (mso)",
@@ -44176,21 +44326,6 @@
       "belongs_to": null
     },
     {
-      "id": 593,
-      "category": "BioTech",
-      "name": "Paralysis Poison Vial (mso)",
-      "cost": "1g 50s",
-      "created_at": "2026-09-05T23:12:14.163514+00:00",
-      "genres": [
-        "SciFi"
-      ],
-      "notes": "Potent Joc-Tun neuro-blocker that immobilizes motor neurons while leaving cognitive senses fully intact.",
-      "pic": null,
-      "domain": "BioTech",
-      "path": null,
-      "belongs_to": null
-    },
-    {
       "id": 522,
       "category": "BioTech",
       "name": "Platelets (mso)",
@@ -44206,6 +44341,216 @@
       "belongs_to": null
     },
     {
+      "id": 626,
+      "category": "BioTech",
+      "name": "Poison: Choking (Blade Reservoir) (mso)",
+      "cost": "1g 75s",
+      "created_at": "2026-09-08T15:45:19.702683+00:00",
+      "genres": [
+        "SciFi"
+      ],
+      "notes": "Weapon-mounted micro-reservoir applying choking venom each encounter.",
+      "pic": null,
+      "domain": "BioTech",
+      "path": null,
+      "belongs_to": null
+    },
+    {
+      "id": 627,
+      "category": "BioTech",
+      "name": "Poison: Choking (Milc-Ti Dose) (mso)",
+      "cost": "2g 25s",
+      "created_at": "2026-09-08T15:45:19.702683+00:00",
+      "genres": [
+        "SciFi"
+      ],
+      "notes": "Concentrated dose of Milc-Ti suffocating poison causing bronchial asphyxiation.",
+      "pic": null,
+      "domain": "BioTech",
+      "path": null,
+      "belongs_to": null
+    },
+    {
+      "id": 629,
+      "category": "BioTech",
+      "name": "Poison: Corrosive (Acidic Core) (mso)",
+      "cost": "3g 50s",
+      "created_at": "2026-09-08T15:45:19.702683+00:00",
+      "genres": [
+        "SciFi"
+      ],
+      "notes": "High-concentration Kryllian acidic core dissolving flesh and synthetic armor on contact.",
+      "pic": null,
+      "domain": "BioTech",
+      "path": null,
+      "belongs_to": null
+    },
+    {
+      "id": 628,
+      "category": "BioTech",
+      "name": "Poison: Corrosive (Blade Reservoir) (mso)",
+      "cost": "2g 75s",
+      "created_at": "2026-09-08T15:45:19.702683+00:00",
+      "genres": [
+        "SciFi"
+      ],
+      "notes": "Weapon-mounted micro-reservoir applying flesh-eating acid each encounter.",
+      "pic": null,
+      "domain": "BioTech",
+      "path": null,
+      "belongs_to": null
+    },
+    {
+      "id": 630,
+      "category": "BioTech",
+      "name": "Poison: Death (Blade Reservoir) (mso)",
+      "cost": "3g 50s",
+      "created_at": "2026-09-08T15:45:19.702683+00:00",
+      "genres": [
+        "SciFi"
+      ],
+      "notes": "Coating reservoir delivering lethal cardiac neurotoxin to melee and ranged weapons.",
+      "pic": null,
+      "domain": "BioTech",
+      "path": null,
+      "belongs_to": null
+    },
+    {
+      "id": 631,
+      "category": "BioTech",
+      "name": "Poison: Death (Sea Zimil Dose) (mso)",
+      "cost": "4g 50s",
+      "created_at": "2026-09-08T15:45:19.702683+00:00",
+      "genres": [
+        "SciFi"
+      ],
+      "notes": "Pure concentrated dose of Sea Zimil venom causing instantaneous organ failure.",
+      "pic": null,
+      "domain": "BioTech",
+      "path": null,
+      "belongs_to": null
+    },
+    {
+      "id": 633,
+      "category": "BioTech",
+      "name": "Poison: Knockout (Anesthetic Vial) (mso)",
+      "cost": "2g 70s",
+      "created_at": "2026-09-08T15:45:19.702683+00:00",
+      "genres": [
+        "SciFi"
+      ],
+      "notes": "High-grade surgical anesthetic inducing instantaneous unconsciousness.",
+      "pic": null,
+      "domain": "BioTech",
+      "path": null,
+      "belongs_to": null
+    },
+    {
+      "id": 632,
+      "category": "BioTech",
+      "name": "Poison: Knockout (Blade Reservoir) (mso)",
+      "cost": "2g 10s",
+      "created_at": "2026-09-08T15:45:19.702683+00:00",
+      "genres": [
+        "SciFi"
+      ],
+      "notes": "Weapon applicator delivering fast-acting soporific sedative each encounter.",
+      "pic": null,
+      "domain": "BioTech",
+      "path": null,
+      "belongs_to": null
+    },
+    {
+      "id": 634,
+      "category": "BioTech",
+      "name": "Poison: Laughing (Blade Reservoir) (mso)",
+      "cost": "1g 75s",
+      "created_at": "2026-09-08T15:45:19.702683+00:00",
+      "genres": [
+        "SciFi"
+      ],
+      "notes": "Weapon applicator delivering psychoactive hysteria compound each encounter.",
+      "pic": null,
+      "domain": "BioTech",
+      "path": null,
+      "belongs_to": null
+    },
+    {
+      "id": 635,
+      "category": "BioTech",
+      "name": "Poison: Laughing (Euphoria Cloud) (mso)",
+      "cost": "2g 25s",
+      "created_at": "2026-09-08T15:45:19.702683+00:00",
+      "genres": [
+        "SciFi"
+      ],
+      "notes": "Pressurized euphoria toxin inducing uncontrollable laughter and disorientation.",
+      "pic": null,
+      "domain": "BioTech",
+      "path": null,
+      "belongs_to": null
+    },
+    {
+      "id": 636,
+      "category": "BioTech",
+      "name": "Poison: Paralysis (Blade Reservoir) (mso)",
+      "cost": "2g 10s",
+      "created_at": "2026-09-08T15:45:19.702683+00:00",
+      "genres": [
+        "SciFi"
+      ],
+      "notes": "Weapon applicator delivering neuromuscular paralytic venom each encounter.",
+      "pic": null,
+      "domain": "BioTech",
+      "path": null,
+      "belongs_to": null
+    },
+    {
+      "id": 637,
+      "category": "BioTech",
+      "name": "Poison: Paralysis (Joc-Tun Dose) (mso)",
+      "cost": "2g 75s",
+      "created_at": "2026-09-08T15:45:19.702683+00:00",
+      "genres": [
+        "SciFi"
+      ],
+      "notes": "Concentrated Joc-Tun neurotoxin inducing total motor paralysis.",
+      "pic": null,
+      "domain": "BioTech",
+      "path": null,
+      "belongs_to": null
+    },
+    {
+      "id": 638,
+      "category": "BioTech",
+      "name": "Poison: Sleep (Blade Reservoir) (mso)",
+      "cost": "1g 75s",
+      "created_at": "2026-09-08T15:45:19.702683+00:00",
+      "genres": [
+        "SciFi"
+      ],
+      "notes": "Weapon applicator delivering deep hypnotic sleep agent each encounter.",
+      "pic": null,
+      "domain": "BioTech",
+      "path": null,
+      "belongs_to": null
+    },
+    {
+      "id": 639,
+      "category": "BioTech",
+      "name": "Poison: Sleep (Setchie Coma Dose) (mso)",
+      "cost": "2g 25s",
+      "created_at": "2026-09-08T15:45:19.702683+00:00",
+      "genres": [
+        "SciFi"
+      ],
+      "notes": "Lethal-grade Setchie sedative forcing targets into a deep biological coma.",
+      "pic": null,
+      "domain": "BioTech",
+      "path": null,
+      "belongs_to": null
+    },
+    {
       "id": 535,
       "category": "BioTech",
       "name": "Saliva Mites (mso)",
@@ -44218,21 +44563,6 @@
       "pic": null,
       "domain": "BioTech",
       "path": "BioTech Equipment (mso)",
-      "belongs_to": null
-    },
-    {
-      "id": 594,
-      "category": "BioTech",
-      "name": "Sleep Poison Vial (mso)",
-      "cost": "1g 25s",
-      "created_at": "2026-09-05T23:12:14.163514+00:00",
-      "genres": [
-        "SciFi"
-      ],
-      "notes": "Synthesized Setchie narcotic inducing profound lethargic slumber.",
-      "pic": null,
-      "domain": "BioTech",
-      "path": null,
       "belongs_to": null
     },
     {
@@ -47861,135 +48191,330 @@
       "belongs_to": null
     },
     {
-      "id": 587,
+      "id": 607,
       "category": "Ammunition",
-      "name": "Assassin Missile (mso)",
-      "cost": "4g",
-      "created_at": "2026-09-05T23:12:14.068983+00:00",
+      "name": "Grenade: Flash-Bang (Stun Core) (mso)",
+      "cost": "85s",
+      "created_at": "2026-09-08T15:45:19.702683+00:00",
       "genres": [
         "SciFi"
       ],
-      "notes": "High-velocity deployable micro-ramjet missile programmed for dormant ambush and automated proximity strikes.",
+      "notes": "Heavy magnesium stun grenade designed to disorient and blind targets in a wide area.",
       "pic": null,
       "domain": "Tech",
       "path": null,
       "belongs_to": null
     },
     {
-      "id": 584,
+      "id": 606,
       "category": "Ammunition",
-      "name": "Explosive Missile (mso)",
-      "cost": "1g 50s",
-      "created_at": "2026-09-05T23:12:14.068983+00:00",
+      "name": "Grenade: Flash-Bang (Tactical) (mso)",
+      "cost": "55s",
+      "created_at": "2026-09-08T15:45:19.702683+00:00",
       "genres": [
         "SciFi"
       ],
-      "notes": "Standard shoulder-fired or launcher-guided explosive missile delivering concussive blast payload.",
+      "notes": "Tactical flash-bang disorientation canisters replenished each encounter.",
       "pic": null,
       "domain": "Tech",
       "path": null,
       "belongs_to": null
     },
     {
-      "id": 576,
+      "id": 617,
       "category": "Ammunition",
-      "name": "Flash-Bang Grenade (mso)",
-      "cost": "35s",
-      "created_at": "2026-09-05T23:12:14.068983+00:00",
+      "name": "Grenade: Gas (Neuro-Aerosol) (mso)",
+      "cost": "1g 25s",
+      "created_at": "2026-09-08T15:45:19.702683+00:00",
       "genres": [
         "SciFi"
       ],
-      "notes": "Non-lethal disorientation canister emitting a high-intensity blinding flash and deafening acoustic concussive blast.",
+      "notes": "Pressurized neurotoxin aerosol cannister delivering debilitating gas across wide zones.",
       "pic": null,
       "domain": "Tech",
       "path": null,
       "belongs_to": null
     },
     {
-      "id": 581,
+      "id": 616,
       "category": "Ammunition",
-      "name": "Gas Grenade (mso)",
-      "cost": "50s",
-      "created_at": "2026-09-05T23:12:14.068983+00:00",
-      "genres": [
-        "SciFi"
-      ],
-      "notes": "Pressurized chemical release canister engineered to vaporize and disperse biological or alchemical liquid payloads into an aerosol cloud.",
-      "pic": null,
-      "domain": "Tech",
-      "path": null,
-      "belongs_to": null
-    },
-    {
-      "id": 575,
-      "category": "Ammunition",
-      "name": "High Explosive Grenade (mso)",
-      "cost": "50s",
-      "created_at": "2026-09-05T23:12:14.068983+00:00",
-      "genres": [
-        "SciFi"
-      ],
-      "notes": "Standard military fragmentation canister designed to breach fortifications and knock targets prone with concussive blast pressure.",
-      "pic": null,
-      "domain": "Tech",
-      "path": null,
-      "belongs_to": null
-    },
-    {
-      "id": 585,
-      "category": "Ammunition",
-      "name": "Hunter Missile (mso)",
-      "cost": "2g",
-      "created_at": "2026-09-05T23:12:14.068983+00:00",
-      "genres": [
-        "SciFi"
-      ],
-      "notes": "Advanced homing missile fitted with active target-lock thrusters that continuously hunt designated targets.",
-      "pic": null,
-      "domain": "Tech",
-      "path": null,
-      "belongs_to": null
-    },
-    {
-      "id": 577,
-      "category": "Ammunition",
-      "name": "Incendiary Grenade (mso)",
+      "name": "Grenade: Gas (Tactical) (mso)",
       "cost": "75s",
-      "created_at": "2026-09-05T23:12:14.068983+00:00",
+      "created_at": "2026-09-08T15:45:19.702683+00:00",
       "genres": [
         "SciFi"
       ],
-      "notes": "Chemical dispersion grenade generating white-hot chemical fire that adheres to flammable surfaces and structures.",
+      "notes": "Tactical irritant gas dispersers replenished each encounter to flush entrenched hostiles.",
       "pic": null,
       "domain": "Tech",
       "path": null,
       "belongs_to": null
     },
     {
-      "id": 586,
+      "id": 605,
       "category": "Ammunition",
-      "name": "Seeker Missile (mso)",
-      "cost": "3g",
-      "created_at": "2026-09-05T23:12:14.068983+00:00",
+      "name": "Grenade: HE (Military Warhead) (mso)",
+      "cost": "1g 25s",
+      "created_at": "2026-09-08T15:45:19.702683+00:00",
       "genres": [
         "SciFi"
       ],
-      "notes": "Autonomous AI-guided micro-missile programmed to track and pursue designated targets around obstacles and fortified cover.",
+      "notes": "High-yield military-grade demolition grenade designed to breach fortifications and blow targets backward.",
       "pic": null,
       "domain": "Tech",
       "path": null,
       "belongs_to": null
     },
     {
-      "id": 578,
+      "id": 604,
       "category": "Ammunition",
-      "name": "Shock Grenade (mso)",
+      "name": "Grenade: HE (Tactical Pack) (mso)",
+      "cost": "75s",
+      "created_at": "2026-09-08T15:45:19.702683+00:00",
+      "genres": [
+        "SciFi"
+      ],
+      "notes": "Standard tactical loadout of high explosive fragmentation grenades replenished each encounter.",
+      "pic": null,
+      "domain": "Tech",
+      "path": null,
+      "belongs_to": null
+    },
+    {
+      "id": 609,
+      "category": "Ammunition",
+      "name": "Grenade: Incendiary (Phosphorous Core) (mso)",
+      "cost": "1g 75s",
+      "created_at": "2026-09-08T15:45:19.702683+00:00",
+      "genres": [
+        "SciFi"
+      ],
+      "notes": "White-hot chemical phosphorous core dispersing persistent clinging fire.",
+      "pic": null,
+      "domain": "Tech",
+      "path": null,
+      "belongs_to": null
+    },
+    {
+      "id": 608,
+      "category": "Ammunition",
+      "name": "Grenade: Incendiary (Tactical) (mso)",
+      "cost": "1g 10s",
+      "created_at": "2026-09-08T15:45:19.702683+00:00",
+      "genres": [
+        "SciFi"
+      ],
+      "notes": "Tactical thermal gel canisters replenished each encounter to ignite combat zones.",
+      "pic": null,
+      "domain": "Tech",
+      "path": null,
+      "belongs_to": null
+    },
+    {
+      "id": 611,
+      "category": "Ammunition",
+      "name": "Grenade: Shock (Sonic EMP) (mso)",
+      "cost": "1g 45s",
+      "created_at": "2026-09-08T15:45:19.702683+00:00",
+      "genres": [
+        "SciFi"
+      ],
+      "notes": "High-yield sonic EMP bomb blasting circuitry and staggering shielded combatants.",
+      "pic": null,
+      "domain": "Tech",
+      "path": null,
+      "belongs_to": null
+    },
+    {
+      "id": 610,
+      "category": "Ammunition",
+      "name": "Grenade: Shock (Tactical) (mso)",
+      "cost": "90s",
+      "created_at": "2026-09-08T15:45:19.702683+00:00",
+      "genres": [
+        "SciFi"
+      ],
+      "notes": "Tactical shockwave pulse canisters replenished each encounter to disrupt electronics and shield systems.",
+      "pic": null,
+      "domain": "Tech",
+      "path": null,
+      "belongs_to": null
+    },
+    {
+      "id": 613,
+      "category": "Ammunition",
+      "name": "Grenade: Smoke (Heavy Thermal) (mso)",
+      "cost": "65s",
+      "created_at": "2026-09-08T15:45:19.702683+00:00",
+      "genres": [
+        "SciFi"
+      ],
+      "notes": "Dense aerosol smoke canister designed to block thermal optics and targeting sensors.",
+      "pic": null,
+      "domain": "Tech",
+      "path": null,
+      "belongs_to": null
+    },
+    {
+      "id": 612,
+      "category": "Ammunition",
+      "name": "Grenade: Smoke (Tactical) (mso)",
+      "cost": "40s",
+      "created_at": "2026-09-08T15:45:19.702683+00:00",
+      "genres": [
+        "SciFi"
+      ],
+      "notes": "Tactical smoke screen canisters replenished each encounter to obscure vision.",
+      "pic": null,
+      "domain": "Tech",
+      "path": null,
+      "belongs_to": null
+    },
+    {
+      "id": 615,
+      "category": "Ammunition",
+      "name": "Grenade: Tangler (High-Tensile) (mso)",
+      "cost": "1g",
+      "created_at": "2026-09-08T15:45:19.702683+00:00",
+      "genres": [
+        "SciFi"
+      ],
+      "notes": "Industrial-grade expanding polymer snare trapping targets in dense binding fibers.",
+      "pic": null,
+      "domain": "Tech",
+      "path": null,
+      "belongs_to": null
+    },
+    {
+      "id": 614,
+      "category": "Ammunition",
+      "name": "Grenade: Tangler (Tactical) (mso)",
       "cost": "60s",
-      "created_at": "2026-09-05T23:12:14.068983+00:00",
+      "created_at": "2026-09-08T15:45:19.702683+00:00",
       "genres": [
         "SciFi"
       ],
-      "notes": "High-frequency sonic and electromagnetic pulse grenade effective against living targets and cybernetic systems.",
+      "notes": "Tactical adhesive polymer canisters replenished each encounter to entangle foes.",
+      "pic": null,
+      "domain": "Tech",
+      "path": null,
+      "belongs_to": null
+    },
+    {
+      "id": 624,
+      "category": "Ammunition",
+      "name": "Missile: Assassin (Proximity Ambush) (mso)",
+      "cost": "6g",
+      "created_at": "2026-09-08T15:45:19.702683+00:00",
+      "genres": [
+        "SciFi"
+      ],
+      "notes": "Stealth-coated proximity missile designed for sudden close-quarters ambushes.",
+      "pic": null,
+      "domain": "Tech",
+      "path": null,
+      "belongs_to": null
+    },
+    {
+      "id": 625,
+      "category": "Ammunition",
+      "name": "Missile: Assassin (Ramjet) (mso)",
+      "cost": "8g",
+      "created_at": "2026-09-08T15:45:19.702683+00:00",
+      "genres": [
+        "SciFi"
+      ],
+      "notes": "Hyper-velocity ramjet executioner missile with devastating terminal kinetic impact.",
+      "pic": null,
+      "domain": "Tech",
+      "path": null,
+      "belongs_to": null
+    },
+    {
+      "id": 619,
+      "category": "Ammunition",
+      "name": "Missile: Explosive (Demolition) (mso)",
+      "cost": "3g",
+      "created_at": "2026-09-08T15:45:19.702683+00:00",
+      "genres": [
+        "SciFi"
+      ],
+      "notes": "Heavy demolition warhead missile delivering massive structural kinetic yield.",
+      "pic": null,
+      "domain": "Tech",
+      "path": null,
+      "belongs_to": null
+    },
+    {
+      "id": 618,
+      "category": "Ammunition",
+      "name": "Missile: Explosive (Tactical) (mso)",
+      "cost": "2g 25s",
+      "created_at": "2026-09-08T15:45:19.702683+00:00",
+      "genres": [
+        "SciFi"
+      ],
+      "notes": "Shoulder-launched tactical explosive missile with self-replenishing guidance.",
+      "pic": null,
+      "domain": "Tech",
+      "path": null,
+      "belongs_to": null
+    },
+    {
+      "id": 621,
+      "category": "Ammunition",
+      "name": "Missile: Hunter (Dual-Thruster) (mso)",
+      "cost": "4g",
+      "created_at": "2026-09-08T15:45:19.702683+00:00",
+      "genres": [
+        "SciFi"
+      ],
+      "notes": "Dual-thruster heavy hunter missile delivering evasive maneuvering and relentless target pursuit.",
+      "pic": null,
+      "domain": "Tech",
+      "path": null,
+      "belongs_to": null
+    },
+    {
+      "id": 620,
+      "category": "Ammunition",
+      "name": "Missile: Hunter (Tracker) (mso)",
+      "cost": "3g",
+      "created_at": "2026-09-08T15:45:19.702683+00:00",
+      "genres": [
+        "SciFi"
+      ],
+      "notes": "Active-tracking homing missile locking onto biological and vehicular heat signatures.",
+      "pic": null,
+      "domain": "Tech",
+      "path": null,
+      "belongs_to": null
+    },
+    {
+      "id": 623,
+      "category": "Ammunition",
+      "name": "Missile: Seeker (Bunker-Buster) (mso)",
+      "cost": "6g",
+      "created_at": "2026-09-08T15:45:19.702683+00:00",
+      "genres": [
+        "SciFi"
+      ],
+      "notes": "Bunker-buster smart missile equipped with penetration algorithms to pierce fortified emplacements.",
+      "pic": null,
+      "domain": "Tech",
+      "path": null,
+      "belongs_to": null
+    },
+    {
+      "id": 622,
+      "category": "Ammunition",
+      "name": "Missile: Seeker (Smart Guidance) (mso)",
+      "cost": "4g 50s",
+      "created_at": "2026-09-08T15:45:19.702683+00:00",
+      "genres": [
+        "SciFi"
+      ],
+      "notes": "Smart-guided micro-missile seeking designated electronic targets.",
       "pic": null,
       "domain": "Tech",
       "path": null,
@@ -48011,60 +48536,90 @@
       "belongs_to": null
     },
     {
-      "id": 579,
+      "id": 640,
       "category": "Ammunition",
-      "name": "Smoke Grenade (mso)",
-      "cost": "25s",
-      "created_at": "2026-09-05T23:12:14.068983+00:00",
+      "name": "Tip: Exploding (Burst) (mso)",
+      "cost": "30s",
+      "created_at": "2026-09-08T15:45:19.702683+00:00",
       "genres": [
         "SciFi"
       ],
-      "notes": "Rapid-dispersion aerosol canister generating dense particulate smoke that obscures visual line-of-sight and sensor tracking.",
+      "notes": "Kinetic blast tip threaded for arrows and bolts, detonating on impact.",
       "pic": null,
       "domain": "Tech",
       "path": null,
       "belongs_to": null
     },
     {
-      "id": 582,
+      "id": 642,
       "category": "Ammunition",
-      "name": "Specialty Arrows Quiver (mso)",
-      "cost": "50s",
-      "created_at": "2026-09-05T23:12:14.068983+00:00",
+      "name": "Tip: Explosive Blast (Tactical) (mso)",
+      "cost": "45s",
+      "created_at": "2026-09-08T15:45:19.702683+00:00",
       "genres": [
         "SciFi"
       ],
-      "notes": "Reinforced tactical quiver fitted with specialized mounting clips for quick-attaching modular trick arrow tips.",
+      "notes": "Shrapnel fragmentation tip threaded for arrows and bolts exploding across a 2x2 area.",
       "pic": null,
       "domain": "Tech",
       "path": null,
       "belongs_to": null
     },
     {
-      "id": 583,
+      "id": 641,
       "category": "Ammunition",
-      "name": "Specialty Bolts Quiver (mso)",
-      "cost": "50s",
-      "created_at": "2026-09-05T23:12:14.068983+00:00",
+      "name": "Tip: Kinetic Blast (Heavy) (mso)",
+      "cost": "60s",
+      "created_at": "2026-09-08T15:45:19.702683+00:00",
       "genres": [
         "SciFi"
       ],
-      "notes": "Heavy crossbow bolt quiver engineered with modular tip-locking mechanisms for tactical bolts.",
+      "notes": "High-impact concussive tip threaded for arrows and bolts to knock targets prone.",
       "pic": null,
       "domain": "Tech",
       "path": null,
       "belongs_to": null
     },
     {
-      "id": 580,
+      "id": 643,
       "category": "Ammunition",
-      "name": "Tangler Grenade (mso)",
+      "name": "Tip: Micro-Warhead (Heavy) (mso)",
+      "cost": "75s",
+      "created_at": "2026-09-08T15:45:19.702683+00:00",
+      "genres": [
+        "SciFi"
+      ],
+      "notes": "Miniaturized demolition warhead tip threaded for arrows and bolts blasting targets back.",
+      "pic": null,
+      "domain": "Tech",
+      "path": null,
+      "belongs_to": null
+    },
+    {
+      "id": 644,
+      "category": "Ammunition",
+      "name": "Tip: Spinning Drill (Tactical) (mso)",
       "cost": "40s",
-      "created_at": "2026-09-05T23:12:14.068983+00:00",
+      "created_at": "2026-09-08T15:45:19.702683+00:00",
       "genres": [
         "SciFi"
       ],
-      "notes": "Expanding chemical polymer resin canister that rapidly entangles and immobilizes targets upon detonation.",
+      "notes": "Pneumatic spinning drill tip threaded for arrows and bolts piercing deep into armor.",
+      "pic": null,
+      "domain": "Tech",
+      "path": null,
+      "belongs_to": null
+    },
+    {
+      "id": 645,
+      "category": "Ammunition",
+      "name": "Tip: Tungsten Harpoon (Heavy) (mso)",
+      "cost": "65s",
+      "created_at": "2026-09-08T15:45:19.702683+00:00",
+      "genres": [
+        "SciFi"
+      ],
+      "notes": "Barbed tungsten harpoon tip threaded for arrows and bolts inflicting grievous ongoing wounds.",
       "pic": null,
       "domain": "Tech",
       "path": null,
@@ -53337,51 +53892,6 @@
       "belongs_to": null
     },
     {
-      "id": 588,
-      "category": "BioTech",
-      "name": "Choking Poison Vial (mso)",
-      "cost": "1g 25s",
-      "created_at": "2026-09-05T23:12:14.068983+00:00",
-      "genres": [
-        "SciFi"
-      ],
-      "notes": "Synthesized Calamorian asphyxiation neurotoxin that severely constricts airways and vocal cords.",
-      "pic": null,
-      "domain": "BioTech",
-      "path": null,
-      "belongs_to": null
-    },
-    {
-      "id": 589,
-      "category": "BioTech",
-      "name": "Corrosive Poison Vial (mso)",
-      "cost": "2g",
-      "created_at": "2026-09-05T23:12:14.068983+00:00",
-      "genres": [
-        "SciFi"
-      ],
-      "notes": "Flesh-melting Kryllian acid enzyme that rapidly eats through armor and living tissue.",
-      "pic": null,
-      "domain": "BioTech",
-      "path": null,
-      "belongs_to": null
-    },
-    {
-      "id": 590,
-      "category": "BioTech",
-      "name": "Death Poison Vial (mso)",
-      "cost": "2g 50s",
-      "created_at": "2026-09-05T23:12:14.163514+00:00",
-      "genres": [
-        "SciFi"
-      ],
-      "notes": "Extremely lethal Sea Zimil cardiac neurotoxin causing acute heart failure upon intravenous introduction.",
-      "pic": null,
-      "domain": "BioTech",
-      "path": null,
-      "belongs_to": null
-    },
-    {
       "id": 477,
       "category": "BioTech",
       "name": "Feeder (mso)",
@@ -53427,36 +53937,6 @@
       "belongs_to": null
     },
     {
-      "id": 591,
-      "category": "BioTech",
-      "name": "Knockout Poison Vial (mso)",
-      "cost": "1g 50s",
-      "created_at": "2026-09-05T23:12:14.163514+00:00",
-      "genres": [
-        "SciFi"
-      ],
-      "notes": "Rapid-acting tactical sedative inducing immediate unconsciousness upon contact with the bloodstream.",
-      "pic": null,
-      "domain": "BioTech",
-      "path": null,
-      "belongs_to": null
-    },
-    {
-      "id": 592,
-      "category": "BioTech",
-      "name": "Laughing Poison Vial (mso)",
-      "cost": "1g 25s",
-      "created_at": "2026-09-05T23:12:14.163514+00:00",
-      "genres": [
-        "SciFi"
-      ],
-      "notes": "Aerosolized euphoric agent that overwhelms the nervous system with uncontrollable hysterical laughter.",
-      "pic": null,
-      "domain": "BioTech",
-      "path": null,
-      "belongs_to": null
-    },
-    {
       "id": 500,
       "category": "BioTech",
       "name": "Lift Pods (mso)",
@@ -53487,21 +53967,6 @@
       "belongs_to": null
     },
     {
-      "id": 593,
-      "category": "BioTech",
-      "name": "Paralysis Poison Vial (mso)",
-      "cost": "1g 50s",
-      "created_at": "2026-09-05T23:12:14.163514+00:00",
-      "genres": [
-        "SciFi"
-      ],
-      "notes": "Potent Joc-Tun neuro-blocker that immobilizes motor neurons while leaving cognitive senses fully intact.",
-      "pic": null,
-      "domain": "BioTech",
-      "path": null,
-      "belongs_to": null
-    },
-    {
       "id": 522,
       "category": "BioTech",
       "name": "Platelets (mso)",
@@ -53517,6 +53982,216 @@
       "belongs_to": null
     },
     {
+      "id": 626,
+      "category": "BioTech",
+      "name": "Poison: Choking (Blade Reservoir) (mso)",
+      "cost": "1g 75s",
+      "created_at": "2026-09-08T15:45:19.702683+00:00",
+      "genres": [
+        "SciFi"
+      ],
+      "notes": "Weapon-mounted micro-reservoir applying choking venom each encounter.",
+      "pic": null,
+      "domain": "BioTech",
+      "path": null,
+      "belongs_to": null
+    },
+    {
+      "id": 627,
+      "category": "BioTech",
+      "name": "Poison: Choking (Milc-Ti Dose) (mso)",
+      "cost": "2g 25s",
+      "created_at": "2026-09-08T15:45:19.702683+00:00",
+      "genres": [
+        "SciFi"
+      ],
+      "notes": "Concentrated dose of Milc-Ti suffocating poison causing bronchial asphyxiation.",
+      "pic": null,
+      "domain": "BioTech",
+      "path": null,
+      "belongs_to": null
+    },
+    {
+      "id": 629,
+      "category": "BioTech",
+      "name": "Poison: Corrosive (Acidic Core) (mso)",
+      "cost": "3g 50s",
+      "created_at": "2026-09-08T15:45:19.702683+00:00",
+      "genres": [
+        "SciFi"
+      ],
+      "notes": "High-concentration Kryllian acidic core dissolving flesh and synthetic armor on contact.",
+      "pic": null,
+      "domain": "BioTech",
+      "path": null,
+      "belongs_to": null
+    },
+    {
+      "id": 628,
+      "category": "BioTech",
+      "name": "Poison: Corrosive (Blade Reservoir) (mso)",
+      "cost": "2g 75s",
+      "created_at": "2026-09-08T15:45:19.702683+00:00",
+      "genres": [
+        "SciFi"
+      ],
+      "notes": "Weapon-mounted micro-reservoir applying flesh-eating acid each encounter.",
+      "pic": null,
+      "domain": "BioTech",
+      "path": null,
+      "belongs_to": null
+    },
+    {
+      "id": 630,
+      "category": "BioTech",
+      "name": "Poison: Death (Blade Reservoir) (mso)",
+      "cost": "3g 50s",
+      "created_at": "2026-09-08T15:45:19.702683+00:00",
+      "genres": [
+        "SciFi"
+      ],
+      "notes": "Coating reservoir delivering lethal cardiac neurotoxin to melee and ranged weapons.",
+      "pic": null,
+      "domain": "BioTech",
+      "path": null,
+      "belongs_to": null
+    },
+    {
+      "id": 631,
+      "category": "BioTech",
+      "name": "Poison: Death (Sea Zimil Dose) (mso)",
+      "cost": "4g 50s",
+      "created_at": "2026-09-08T15:45:19.702683+00:00",
+      "genres": [
+        "SciFi"
+      ],
+      "notes": "Pure concentrated dose of Sea Zimil venom causing instantaneous organ failure.",
+      "pic": null,
+      "domain": "BioTech",
+      "path": null,
+      "belongs_to": null
+    },
+    {
+      "id": 633,
+      "category": "BioTech",
+      "name": "Poison: Knockout (Anesthetic Vial) (mso)",
+      "cost": "2g 70s",
+      "created_at": "2026-09-08T15:45:19.702683+00:00",
+      "genres": [
+        "SciFi"
+      ],
+      "notes": "High-grade surgical anesthetic inducing instantaneous unconsciousness.",
+      "pic": null,
+      "domain": "BioTech",
+      "path": null,
+      "belongs_to": null
+    },
+    {
+      "id": 632,
+      "category": "BioTech",
+      "name": "Poison: Knockout (Blade Reservoir) (mso)",
+      "cost": "2g 10s",
+      "created_at": "2026-09-08T15:45:19.702683+00:00",
+      "genres": [
+        "SciFi"
+      ],
+      "notes": "Weapon applicator delivering fast-acting soporific sedative each encounter.",
+      "pic": null,
+      "domain": "BioTech",
+      "path": null,
+      "belongs_to": null
+    },
+    {
+      "id": 634,
+      "category": "BioTech",
+      "name": "Poison: Laughing (Blade Reservoir) (mso)",
+      "cost": "1g 75s",
+      "created_at": "2026-09-08T15:45:19.702683+00:00",
+      "genres": [
+        "SciFi"
+      ],
+      "notes": "Weapon applicator delivering psychoactive hysteria compound each encounter.",
+      "pic": null,
+      "domain": "BioTech",
+      "path": null,
+      "belongs_to": null
+    },
+    {
+      "id": 635,
+      "category": "BioTech",
+      "name": "Poison: Laughing (Euphoria Cloud) (mso)",
+      "cost": "2g 25s",
+      "created_at": "2026-09-08T15:45:19.702683+00:00",
+      "genres": [
+        "SciFi"
+      ],
+      "notes": "Pressurized euphoria toxin inducing uncontrollable laughter and disorientation.",
+      "pic": null,
+      "domain": "BioTech",
+      "path": null,
+      "belongs_to": null
+    },
+    {
+      "id": 636,
+      "category": "BioTech",
+      "name": "Poison: Paralysis (Blade Reservoir) (mso)",
+      "cost": "2g 10s",
+      "created_at": "2026-09-08T15:45:19.702683+00:00",
+      "genres": [
+        "SciFi"
+      ],
+      "notes": "Weapon applicator delivering neuromuscular paralytic venom each encounter.",
+      "pic": null,
+      "domain": "BioTech",
+      "path": null,
+      "belongs_to": null
+    },
+    {
+      "id": 637,
+      "category": "BioTech",
+      "name": "Poison: Paralysis (Joc-Tun Dose) (mso)",
+      "cost": "2g 75s",
+      "created_at": "2026-09-08T15:45:19.702683+00:00",
+      "genres": [
+        "SciFi"
+      ],
+      "notes": "Concentrated Joc-Tun neurotoxin inducing total motor paralysis.",
+      "pic": null,
+      "domain": "BioTech",
+      "path": null,
+      "belongs_to": null
+    },
+    {
+      "id": 638,
+      "category": "BioTech",
+      "name": "Poison: Sleep (Blade Reservoir) (mso)",
+      "cost": "1g 75s",
+      "created_at": "2026-09-08T15:45:19.702683+00:00",
+      "genres": [
+        "SciFi"
+      ],
+      "notes": "Weapon applicator delivering deep hypnotic sleep agent each encounter.",
+      "pic": null,
+      "domain": "BioTech",
+      "path": null,
+      "belongs_to": null
+    },
+    {
+      "id": 639,
+      "category": "BioTech",
+      "name": "Poison: Sleep (Setchie Coma Dose) (mso)",
+      "cost": "2g 25s",
+      "created_at": "2026-09-08T15:45:19.702683+00:00",
+      "genres": [
+        "SciFi"
+      ],
+      "notes": "Lethal-grade Setchie sedative forcing targets into a deep biological coma.",
+      "pic": null,
+      "domain": "BioTech",
+      "path": null,
+      "belongs_to": null
+    },
+    {
       "id": 535,
       "category": "BioTech",
       "name": "Saliva Mites (mso)",
@@ -53529,21 +54204,6 @@
       "pic": null,
       "domain": "BioTech",
       "path": "BioTech Equipment (mso)",
-      "belongs_to": null
-    },
-    {
-      "id": 594,
-      "category": "BioTech",
-      "name": "Sleep Poison Vial (mso)",
-      "cost": "1g 25s",
-      "created_at": "2026-09-05T23:12:14.163514+00:00",
-      "genres": [
-        "SciFi"
-      ],
-      "notes": "Synthesized Setchie narcotic inducing profound lethargic slumber.",
-      "pic": null,
-      "domain": "BioTech",
-      "path": null,
       "belongs_to": null
     },
     {
@@ -57172,135 +57832,330 @@
       "belongs_to": null
     },
     {
-      "id": 587,
+      "id": 607,
       "category": "Ammunition",
-      "name": "Assassin Missile (mso)",
-      "cost": "4g",
-      "created_at": "2026-09-05T23:12:14.068983+00:00",
+      "name": "Grenade: Flash-Bang (Stun Core) (mso)",
+      "cost": "85s",
+      "created_at": "2026-09-08T15:45:19.702683+00:00",
       "genres": [
         "SciFi"
       ],
-      "notes": "High-velocity deployable micro-ramjet missile programmed for dormant ambush and automated proximity strikes.",
+      "notes": "Heavy magnesium stun grenade designed to disorient and blind targets in a wide area.",
       "pic": null,
       "domain": "Tech",
       "path": null,
       "belongs_to": null
     },
     {
-      "id": 584,
+      "id": 606,
       "category": "Ammunition",
-      "name": "Explosive Missile (mso)",
-      "cost": "1g 50s",
-      "created_at": "2026-09-05T23:12:14.068983+00:00",
+      "name": "Grenade: Flash-Bang (Tactical) (mso)",
+      "cost": "55s",
+      "created_at": "2026-09-08T15:45:19.702683+00:00",
       "genres": [
         "SciFi"
       ],
-      "notes": "Standard shoulder-fired or launcher-guided explosive missile delivering concussive blast payload.",
+      "notes": "Tactical flash-bang disorientation canisters replenished each encounter.",
       "pic": null,
       "domain": "Tech",
       "path": null,
       "belongs_to": null
     },
     {
-      "id": 576,
+      "id": 617,
       "category": "Ammunition",
-      "name": "Flash-Bang Grenade (mso)",
-      "cost": "35s",
-      "created_at": "2026-09-05T23:12:14.068983+00:00",
+      "name": "Grenade: Gas (Neuro-Aerosol) (mso)",
+      "cost": "1g 25s",
+      "created_at": "2026-09-08T15:45:19.702683+00:00",
       "genres": [
         "SciFi"
       ],
-      "notes": "Non-lethal disorientation canister emitting a high-intensity blinding flash and deafening acoustic concussive blast.",
+      "notes": "Pressurized neurotoxin aerosol cannister delivering debilitating gas across wide zones.",
       "pic": null,
       "domain": "Tech",
       "path": null,
       "belongs_to": null
     },
     {
-      "id": 581,
+      "id": 616,
       "category": "Ammunition",
-      "name": "Gas Grenade (mso)",
-      "cost": "50s",
-      "created_at": "2026-09-05T23:12:14.068983+00:00",
-      "genres": [
-        "SciFi"
-      ],
-      "notes": "Pressurized chemical release canister engineered to vaporize and disperse biological or alchemical liquid payloads into an aerosol cloud.",
-      "pic": null,
-      "domain": "Tech",
-      "path": null,
-      "belongs_to": null
-    },
-    {
-      "id": 575,
-      "category": "Ammunition",
-      "name": "High Explosive Grenade (mso)",
-      "cost": "50s",
-      "created_at": "2026-09-05T23:12:14.068983+00:00",
-      "genres": [
-        "SciFi"
-      ],
-      "notes": "Standard military fragmentation canister designed to breach fortifications and knock targets prone with concussive blast pressure.",
-      "pic": null,
-      "domain": "Tech",
-      "path": null,
-      "belongs_to": null
-    },
-    {
-      "id": 585,
-      "category": "Ammunition",
-      "name": "Hunter Missile (mso)",
-      "cost": "2g",
-      "created_at": "2026-09-05T23:12:14.068983+00:00",
-      "genres": [
-        "SciFi"
-      ],
-      "notes": "Advanced homing missile fitted with active target-lock thrusters that continuously hunt designated targets.",
-      "pic": null,
-      "domain": "Tech",
-      "path": null,
-      "belongs_to": null
-    },
-    {
-      "id": 577,
-      "category": "Ammunition",
-      "name": "Incendiary Grenade (mso)",
+      "name": "Grenade: Gas (Tactical) (mso)",
       "cost": "75s",
-      "created_at": "2026-09-05T23:12:14.068983+00:00",
+      "created_at": "2026-09-08T15:45:19.702683+00:00",
       "genres": [
         "SciFi"
       ],
-      "notes": "Chemical dispersion grenade generating white-hot chemical fire that adheres to flammable surfaces and structures.",
+      "notes": "Tactical irritant gas dispersers replenished each encounter to flush entrenched hostiles.",
       "pic": null,
       "domain": "Tech",
       "path": null,
       "belongs_to": null
     },
     {
-      "id": 586,
+      "id": 605,
       "category": "Ammunition",
-      "name": "Seeker Missile (mso)",
-      "cost": "3g",
-      "created_at": "2026-09-05T23:12:14.068983+00:00",
+      "name": "Grenade: HE (Military Warhead) (mso)",
+      "cost": "1g 25s",
+      "created_at": "2026-09-08T15:45:19.702683+00:00",
       "genres": [
         "SciFi"
       ],
-      "notes": "Autonomous AI-guided micro-missile programmed to track and pursue designated targets around obstacles and fortified cover.",
+      "notes": "High-yield military-grade demolition grenade designed to breach fortifications and blow targets backward.",
       "pic": null,
       "domain": "Tech",
       "path": null,
       "belongs_to": null
     },
     {
-      "id": 578,
+      "id": 604,
       "category": "Ammunition",
-      "name": "Shock Grenade (mso)",
+      "name": "Grenade: HE (Tactical Pack) (mso)",
+      "cost": "75s",
+      "created_at": "2026-09-08T15:45:19.702683+00:00",
+      "genres": [
+        "SciFi"
+      ],
+      "notes": "Standard tactical loadout of high explosive fragmentation grenades replenished each encounter.",
+      "pic": null,
+      "domain": "Tech",
+      "path": null,
+      "belongs_to": null
+    },
+    {
+      "id": 609,
+      "category": "Ammunition",
+      "name": "Grenade: Incendiary (Phosphorous Core) (mso)",
+      "cost": "1g 75s",
+      "created_at": "2026-09-08T15:45:19.702683+00:00",
+      "genres": [
+        "SciFi"
+      ],
+      "notes": "White-hot chemical phosphorous core dispersing persistent clinging fire.",
+      "pic": null,
+      "domain": "Tech",
+      "path": null,
+      "belongs_to": null
+    },
+    {
+      "id": 608,
+      "category": "Ammunition",
+      "name": "Grenade: Incendiary (Tactical) (mso)",
+      "cost": "1g 10s",
+      "created_at": "2026-09-08T15:45:19.702683+00:00",
+      "genres": [
+        "SciFi"
+      ],
+      "notes": "Tactical thermal gel canisters replenished each encounter to ignite combat zones.",
+      "pic": null,
+      "domain": "Tech",
+      "path": null,
+      "belongs_to": null
+    },
+    {
+      "id": 611,
+      "category": "Ammunition",
+      "name": "Grenade: Shock (Sonic EMP) (mso)",
+      "cost": "1g 45s",
+      "created_at": "2026-09-08T15:45:19.702683+00:00",
+      "genres": [
+        "SciFi"
+      ],
+      "notes": "High-yield sonic EMP bomb blasting circuitry and staggering shielded combatants.",
+      "pic": null,
+      "domain": "Tech",
+      "path": null,
+      "belongs_to": null
+    },
+    {
+      "id": 610,
+      "category": "Ammunition",
+      "name": "Grenade: Shock (Tactical) (mso)",
+      "cost": "90s",
+      "created_at": "2026-09-08T15:45:19.702683+00:00",
+      "genres": [
+        "SciFi"
+      ],
+      "notes": "Tactical shockwave pulse canisters replenished each encounter to disrupt electronics and shield systems.",
+      "pic": null,
+      "domain": "Tech",
+      "path": null,
+      "belongs_to": null
+    },
+    {
+      "id": 613,
+      "category": "Ammunition",
+      "name": "Grenade: Smoke (Heavy Thermal) (mso)",
+      "cost": "65s",
+      "created_at": "2026-09-08T15:45:19.702683+00:00",
+      "genres": [
+        "SciFi"
+      ],
+      "notes": "Dense aerosol smoke canister designed to block thermal optics and targeting sensors.",
+      "pic": null,
+      "domain": "Tech",
+      "path": null,
+      "belongs_to": null
+    },
+    {
+      "id": 612,
+      "category": "Ammunition",
+      "name": "Grenade: Smoke (Tactical) (mso)",
+      "cost": "40s",
+      "created_at": "2026-09-08T15:45:19.702683+00:00",
+      "genres": [
+        "SciFi"
+      ],
+      "notes": "Tactical smoke screen canisters replenished each encounter to obscure vision.",
+      "pic": null,
+      "domain": "Tech",
+      "path": null,
+      "belongs_to": null
+    },
+    {
+      "id": 615,
+      "category": "Ammunition",
+      "name": "Grenade: Tangler (High-Tensile) (mso)",
+      "cost": "1g",
+      "created_at": "2026-09-08T15:45:19.702683+00:00",
+      "genres": [
+        "SciFi"
+      ],
+      "notes": "Industrial-grade expanding polymer snare trapping targets in dense binding fibers.",
+      "pic": null,
+      "domain": "Tech",
+      "path": null,
+      "belongs_to": null
+    },
+    {
+      "id": 614,
+      "category": "Ammunition",
+      "name": "Grenade: Tangler (Tactical) (mso)",
       "cost": "60s",
-      "created_at": "2026-09-05T23:12:14.068983+00:00",
+      "created_at": "2026-09-08T15:45:19.702683+00:00",
       "genres": [
         "SciFi"
       ],
-      "notes": "High-frequency sonic and electromagnetic pulse grenade effective against living targets and cybernetic systems.",
+      "notes": "Tactical adhesive polymer canisters replenished each encounter to entangle foes.",
+      "pic": null,
+      "domain": "Tech",
+      "path": null,
+      "belongs_to": null
+    },
+    {
+      "id": 624,
+      "category": "Ammunition",
+      "name": "Missile: Assassin (Proximity Ambush) (mso)",
+      "cost": "6g",
+      "created_at": "2026-09-08T15:45:19.702683+00:00",
+      "genres": [
+        "SciFi"
+      ],
+      "notes": "Stealth-coated proximity missile designed for sudden close-quarters ambushes.",
+      "pic": null,
+      "domain": "Tech",
+      "path": null,
+      "belongs_to": null
+    },
+    {
+      "id": 625,
+      "category": "Ammunition",
+      "name": "Missile: Assassin (Ramjet) (mso)",
+      "cost": "8g",
+      "created_at": "2026-09-08T15:45:19.702683+00:00",
+      "genres": [
+        "SciFi"
+      ],
+      "notes": "Hyper-velocity ramjet executioner missile with devastating terminal kinetic impact.",
+      "pic": null,
+      "domain": "Tech",
+      "path": null,
+      "belongs_to": null
+    },
+    {
+      "id": 619,
+      "category": "Ammunition",
+      "name": "Missile: Explosive (Demolition) (mso)",
+      "cost": "3g",
+      "created_at": "2026-09-08T15:45:19.702683+00:00",
+      "genres": [
+        "SciFi"
+      ],
+      "notes": "Heavy demolition warhead missile delivering massive structural kinetic yield.",
+      "pic": null,
+      "domain": "Tech",
+      "path": null,
+      "belongs_to": null
+    },
+    {
+      "id": 618,
+      "category": "Ammunition",
+      "name": "Missile: Explosive (Tactical) (mso)",
+      "cost": "2g 25s",
+      "created_at": "2026-09-08T15:45:19.702683+00:00",
+      "genres": [
+        "SciFi"
+      ],
+      "notes": "Shoulder-launched tactical explosive missile with self-replenishing guidance.",
+      "pic": null,
+      "domain": "Tech",
+      "path": null,
+      "belongs_to": null
+    },
+    {
+      "id": 621,
+      "category": "Ammunition",
+      "name": "Missile: Hunter (Dual-Thruster) (mso)",
+      "cost": "4g",
+      "created_at": "2026-09-08T15:45:19.702683+00:00",
+      "genres": [
+        "SciFi"
+      ],
+      "notes": "Dual-thruster heavy hunter missile delivering evasive maneuvering and relentless target pursuit.",
+      "pic": null,
+      "domain": "Tech",
+      "path": null,
+      "belongs_to": null
+    },
+    {
+      "id": 620,
+      "category": "Ammunition",
+      "name": "Missile: Hunter (Tracker) (mso)",
+      "cost": "3g",
+      "created_at": "2026-09-08T15:45:19.702683+00:00",
+      "genres": [
+        "SciFi"
+      ],
+      "notes": "Active-tracking homing missile locking onto biological and vehicular heat signatures.",
+      "pic": null,
+      "domain": "Tech",
+      "path": null,
+      "belongs_to": null
+    },
+    {
+      "id": 623,
+      "category": "Ammunition",
+      "name": "Missile: Seeker (Bunker-Buster) (mso)",
+      "cost": "6g",
+      "created_at": "2026-09-08T15:45:19.702683+00:00",
+      "genres": [
+        "SciFi"
+      ],
+      "notes": "Bunker-buster smart missile equipped with penetration algorithms to pierce fortified emplacements.",
+      "pic": null,
+      "domain": "Tech",
+      "path": null,
+      "belongs_to": null
+    },
+    {
+      "id": 622,
+      "category": "Ammunition",
+      "name": "Missile: Seeker (Smart Guidance) (mso)",
+      "cost": "4g 50s",
+      "created_at": "2026-09-08T15:45:19.702683+00:00",
+      "genres": [
+        "SciFi"
+      ],
+      "notes": "Smart-guided micro-missile seeking designated electronic targets.",
       "pic": null,
       "domain": "Tech",
       "path": null,
@@ -57322,60 +58177,90 @@
       "belongs_to": null
     },
     {
-      "id": 579,
+      "id": 640,
       "category": "Ammunition",
-      "name": "Smoke Grenade (mso)",
-      "cost": "25s",
-      "created_at": "2026-09-05T23:12:14.068983+00:00",
+      "name": "Tip: Exploding (Burst) (mso)",
+      "cost": "30s",
+      "created_at": "2026-09-08T15:45:19.702683+00:00",
       "genres": [
         "SciFi"
       ],
-      "notes": "Rapid-dispersion aerosol canister generating dense particulate smoke that obscures visual line-of-sight and sensor tracking.",
+      "notes": "Kinetic blast tip threaded for arrows and bolts, detonating on impact.",
       "pic": null,
       "domain": "Tech",
       "path": null,
       "belongs_to": null
     },
     {
-      "id": 582,
+      "id": 642,
       "category": "Ammunition",
-      "name": "Specialty Arrows Quiver (mso)",
-      "cost": "50s",
-      "created_at": "2026-09-05T23:12:14.068983+00:00",
+      "name": "Tip: Explosive Blast (Tactical) (mso)",
+      "cost": "45s",
+      "created_at": "2026-09-08T15:45:19.702683+00:00",
       "genres": [
         "SciFi"
       ],
-      "notes": "Reinforced tactical quiver fitted with specialized mounting clips for quick-attaching modular trick arrow tips.",
+      "notes": "Shrapnel fragmentation tip threaded for arrows and bolts exploding across a 2x2 area.",
       "pic": null,
       "domain": "Tech",
       "path": null,
       "belongs_to": null
     },
     {
-      "id": 583,
+      "id": 641,
       "category": "Ammunition",
-      "name": "Specialty Bolts Quiver (mso)",
-      "cost": "50s",
-      "created_at": "2026-09-05T23:12:14.068983+00:00",
+      "name": "Tip: Kinetic Blast (Heavy) (mso)",
+      "cost": "60s",
+      "created_at": "2026-09-08T15:45:19.702683+00:00",
       "genres": [
         "SciFi"
       ],
-      "notes": "Heavy crossbow bolt quiver engineered with modular tip-locking mechanisms for tactical bolts.",
+      "notes": "High-impact concussive tip threaded for arrows and bolts to knock targets prone.",
       "pic": null,
       "domain": "Tech",
       "path": null,
       "belongs_to": null
     },
     {
-      "id": 580,
+      "id": 643,
       "category": "Ammunition",
-      "name": "Tangler Grenade (mso)",
+      "name": "Tip: Micro-Warhead (Heavy) (mso)",
+      "cost": "75s",
+      "created_at": "2026-09-08T15:45:19.702683+00:00",
+      "genres": [
+        "SciFi"
+      ],
+      "notes": "Miniaturized demolition warhead tip threaded for arrows and bolts blasting targets back.",
+      "pic": null,
+      "domain": "Tech",
+      "path": null,
+      "belongs_to": null
+    },
+    {
+      "id": 644,
+      "category": "Ammunition",
+      "name": "Tip: Spinning Drill (Tactical) (mso)",
       "cost": "40s",
-      "created_at": "2026-09-05T23:12:14.068983+00:00",
+      "created_at": "2026-09-08T15:45:19.702683+00:00",
       "genres": [
         "SciFi"
       ],
-      "notes": "Expanding chemical polymer resin canister that rapidly entangles and immobilizes targets upon detonation.",
+      "notes": "Pneumatic spinning drill tip threaded for arrows and bolts piercing deep into armor.",
+      "pic": null,
+      "domain": "Tech",
+      "path": null,
+      "belongs_to": null
+    },
+    {
+      "id": 645,
+      "category": "Ammunition",
+      "name": "Tip: Tungsten Harpoon (Heavy) (mso)",
+      "cost": "65s",
+      "created_at": "2026-09-08T15:45:19.702683+00:00",
+      "genres": [
+        "SciFi"
+      ],
+      "notes": "Barbed tungsten harpoon tip threaded for arrows and bolts inflicting grievous ongoing wounds.",
       "pic": null,
       "domain": "Tech",
       "path": null,
@@ -62648,51 +63533,6 @@
       "belongs_to": null
     },
     {
-      "id": 588,
-      "category": "BioTech",
-      "name": "Choking Poison Vial (mso)",
-      "cost": "1g 25s",
-      "created_at": "2026-09-05T23:12:14.068983+00:00",
-      "genres": [
-        "SciFi"
-      ],
-      "notes": "Synthesized Calamorian asphyxiation neurotoxin that severely constricts airways and vocal cords.",
-      "pic": null,
-      "domain": "BioTech",
-      "path": null,
-      "belongs_to": null
-    },
-    {
-      "id": 589,
-      "category": "BioTech",
-      "name": "Corrosive Poison Vial (mso)",
-      "cost": "2g",
-      "created_at": "2026-09-05T23:12:14.068983+00:00",
-      "genres": [
-        "SciFi"
-      ],
-      "notes": "Flesh-melting Kryllian acid enzyme that rapidly eats through armor and living tissue.",
-      "pic": null,
-      "domain": "BioTech",
-      "path": null,
-      "belongs_to": null
-    },
-    {
-      "id": 590,
-      "category": "BioTech",
-      "name": "Death Poison Vial (mso)",
-      "cost": "2g 50s",
-      "created_at": "2026-09-05T23:12:14.163514+00:00",
-      "genres": [
-        "SciFi"
-      ],
-      "notes": "Extremely lethal Sea Zimil cardiac neurotoxin causing acute heart failure upon intravenous introduction.",
-      "pic": null,
-      "domain": "BioTech",
-      "path": null,
-      "belongs_to": null
-    },
-    {
       "id": 477,
       "category": "BioTech",
       "name": "Feeder (mso)",
@@ -62738,36 +63578,6 @@
       "belongs_to": null
     },
     {
-      "id": 591,
-      "category": "BioTech",
-      "name": "Knockout Poison Vial (mso)",
-      "cost": "1g 50s",
-      "created_at": "2026-09-05T23:12:14.163514+00:00",
-      "genres": [
-        "SciFi"
-      ],
-      "notes": "Rapid-acting tactical sedative inducing immediate unconsciousness upon contact with the bloodstream.",
-      "pic": null,
-      "domain": "BioTech",
-      "path": null,
-      "belongs_to": null
-    },
-    {
-      "id": 592,
-      "category": "BioTech",
-      "name": "Laughing Poison Vial (mso)",
-      "cost": "1g 25s",
-      "created_at": "2026-09-05T23:12:14.163514+00:00",
-      "genres": [
-        "SciFi"
-      ],
-      "notes": "Aerosolized euphoric agent that overwhelms the nervous system with uncontrollable hysterical laughter.",
-      "pic": null,
-      "domain": "BioTech",
-      "path": null,
-      "belongs_to": null
-    },
-    {
       "id": 500,
       "category": "BioTech",
       "name": "Lift Pods (mso)",
@@ -62798,21 +63608,6 @@
       "belongs_to": null
     },
     {
-      "id": 593,
-      "category": "BioTech",
-      "name": "Paralysis Poison Vial (mso)",
-      "cost": "1g 50s",
-      "created_at": "2026-09-05T23:12:14.163514+00:00",
-      "genres": [
-        "SciFi"
-      ],
-      "notes": "Potent Joc-Tun neuro-blocker that immobilizes motor neurons while leaving cognitive senses fully intact.",
-      "pic": null,
-      "domain": "BioTech",
-      "path": null,
-      "belongs_to": null
-    },
-    {
       "id": 522,
       "category": "BioTech",
       "name": "Platelets (mso)",
@@ -62828,6 +63623,216 @@
       "belongs_to": null
     },
     {
+      "id": 626,
+      "category": "BioTech",
+      "name": "Poison: Choking (Blade Reservoir) (mso)",
+      "cost": "1g 75s",
+      "created_at": "2026-09-08T15:45:19.702683+00:00",
+      "genres": [
+        "SciFi"
+      ],
+      "notes": "Weapon-mounted micro-reservoir applying choking venom each encounter.",
+      "pic": null,
+      "domain": "BioTech",
+      "path": null,
+      "belongs_to": null
+    },
+    {
+      "id": 627,
+      "category": "BioTech",
+      "name": "Poison: Choking (Milc-Ti Dose) (mso)",
+      "cost": "2g 25s",
+      "created_at": "2026-09-08T15:45:19.702683+00:00",
+      "genres": [
+        "SciFi"
+      ],
+      "notes": "Concentrated dose of Milc-Ti suffocating poison causing bronchial asphyxiation.",
+      "pic": null,
+      "domain": "BioTech",
+      "path": null,
+      "belongs_to": null
+    },
+    {
+      "id": 629,
+      "category": "BioTech",
+      "name": "Poison: Corrosive (Acidic Core) (mso)",
+      "cost": "3g 50s",
+      "created_at": "2026-09-08T15:45:19.702683+00:00",
+      "genres": [
+        "SciFi"
+      ],
+      "notes": "High-concentration Kryllian acidic core dissolving flesh and synthetic armor on contact.",
+      "pic": null,
+      "domain": "BioTech",
+      "path": null,
+      "belongs_to": null
+    },
+    {
+      "id": 628,
+      "category": "BioTech",
+      "name": "Poison: Corrosive (Blade Reservoir) (mso)",
+      "cost": "2g 75s",
+      "created_at": "2026-09-08T15:45:19.702683+00:00",
+      "genres": [
+        "SciFi"
+      ],
+      "notes": "Weapon-mounted micro-reservoir applying flesh-eating acid each encounter.",
+      "pic": null,
+      "domain": "BioTech",
+      "path": null,
+      "belongs_to": null
+    },
+    {
+      "id": 630,
+      "category": "BioTech",
+      "name": "Poison: Death (Blade Reservoir) (mso)",
+      "cost": "3g 50s",
+      "created_at": "2026-09-08T15:45:19.702683+00:00",
+      "genres": [
+        "SciFi"
+      ],
+      "notes": "Coating reservoir delivering lethal cardiac neurotoxin to melee and ranged weapons.",
+      "pic": null,
+      "domain": "BioTech",
+      "path": null,
+      "belongs_to": null
+    },
+    {
+      "id": 631,
+      "category": "BioTech",
+      "name": "Poison: Death (Sea Zimil Dose) (mso)",
+      "cost": "4g 50s",
+      "created_at": "2026-09-08T15:45:19.702683+00:00",
+      "genres": [
+        "SciFi"
+      ],
+      "notes": "Pure concentrated dose of Sea Zimil venom causing instantaneous organ failure.",
+      "pic": null,
+      "domain": "BioTech",
+      "path": null,
+      "belongs_to": null
+    },
+    {
+      "id": 633,
+      "category": "BioTech",
+      "name": "Poison: Knockout (Anesthetic Vial) (mso)",
+      "cost": "2g 70s",
+      "created_at": "2026-09-08T15:45:19.702683+00:00",
+      "genres": [
+        "SciFi"
+      ],
+      "notes": "High-grade surgical anesthetic inducing instantaneous unconsciousness.",
+      "pic": null,
+      "domain": "BioTech",
+      "path": null,
+      "belongs_to": null
+    },
+    {
+      "id": 632,
+      "category": "BioTech",
+      "name": "Poison: Knockout (Blade Reservoir) (mso)",
+      "cost": "2g 10s",
+      "created_at": "2026-09-08T15:45:19.702683+00:00",
+      "genres": [
+        "SciFi"
+      ],
+      "notes": "Weapon applicator delivering fast-acting soporific sedative each encounter.",
+      "pic": null,
+      "domain": "BioTech",
+      "path": null,
+      "belongs_to": null
+    },
+    {
+      "id": 634,
+      "category": "BioTech",
+      "name": "Poison: Laughing (Blade Reservoir) (mso)",
+      "cost": "1g 75s",
+      "created_at": "2026-09-08T15:45:19.702683+00:00",
+      "genres": [
+        "SciFi"
+      ],
+      "notes": "Weapon applicator delivering psychoactive hysteria compound each encounter.",
+      "pic": null,
+      "domain": "BioTech",
+      "path": null,
+      "belongs_to": null
+    },
+    {
+      "id": 635,
+      "category": "BioTech",
+      "name": "Poison: Laughing (Euphoria Cloud) (mso)",
+      "cost": "2g 25s",
+      "created_at": "2026-09-08T15:45:19.702683+00:00",
+      "genres": [
+        "SciFi"
+      ],
+      "notes": "Pressurized euphoria toxin inducing uncontrollable laughter and disorientation.",
+      "pic": null,
+      "domain": "BioTech",
+      "path": null,
+      "belongs_to": null
+    },
+    {
+      "id": 636,
+      "category": "BioTech",
+      "name": "Poison: Paralysis (Blade Reservoir) (mso)",
+      "cost": "2g 10s",
+      "created_at": "2026-09-08T15:45:19.702683+00:00",
+      "genres": [
+        "SciFi"
+      ],
+      "notes": "Weapon applicator delivering neuromuscular paralytic venom each encounter.",
+      "pic": null,
+      "domain": "BioTech",
+      "path": null,
+      "belongs_to": null
+    },
+    {
+      "id": 637,
+      "category": "BioTech",
+      "name": "Poison: Paralysis (Joc-Tun Dose) (mso)",
+      "cost": "2g 75s",
+      "created_at": "2026-09-08T15:45:19.702683+00:00",
+      "genres": [
+        "SciFi"
+      ],
+      "notes": "Concentrated Joc-Tun neurotoxin inducing total motor paralysis.",
+      "pic": null,
+      "domain": "BioTech",
+      "path": null,
+      "belongs_to": null
+    },
+    {
+      "id": 638,
+      "category": "BioTech",
+      "name": "Poison: Sleep (Blade Reservoir) (mso)",
+      "cost": "1g 75s",
+      "created_at": "2026-09-08T15:45:19.702683+00:00",
+      "genres": [
+        "SciFi"
+      ],
+      "notes": "Weapon applicator delivering deep hypnotic sleep agent each encounter.",
+      "pic": null,
+      "domain": "BioTech",
+      "path": null,
+      "belongs_to": null
+    },
+    {
+      "id": 639,
+      "category": "BioTech",
+      "name": "Poison: Sleep (Setchie Coma Dose) (mso)",
+      "cost": "2g 25s",
+      "created_at": "2026-09-08T15:45:19.702683+00:00",
+      "genres": [
+        "SciFi"
+      ],
+      "notes": "Lethal-grade Setchie sedative forcing targets into a deep biological coma.",
+      "pic": null,
+      "domain": "BioTech",
+      "path": null,
+      "belongs_to": null
+    },
+    {
       "id": 535,
       "category": "BioTech",
       "name": "Saliva Mites (mso)",
@@ -62840,21 +63845,6 @@
       "pic": null,
       "domain": "BioTech",
       "path": "BioTech Equipment (mso)",
-      "belongs_to": null
-    },
-    {
-      "id": 594,
-      "category": "BioTech",
-      "name": "Sleep Poison Vial (mso)",
-      "cost": "1g 25s",
-      "created_at": "2026-09-05T23:12:14.163514+00:00",
-      "genres": [
-        "SciFi"
-      ],
-      "notes": "Synthesized Setchie narcotic inducing profound lethargic slumber.",
-      "pic": null,
-      "domain": "BioTech",
-      "path": null,
       "belongs_to": null
     },
     {

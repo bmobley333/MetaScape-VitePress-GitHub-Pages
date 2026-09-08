@@ -5,20 +5,35 @@ Master indexed gear directory.
 | Category | Item Name | Cost |
 | --- | --- | --- |
 | Ammo & Power | **Energy Clip (mso)** | 25s |
-| Ammunition | **Assassin Missile (mso)** | 4g |
-| Ammunition | **Explosive Missile (mso)** | 1g 50s |
-| Ammunition | **Flash-Bang Grenade (mso)** | 35s |
-| Ammunition | **Gas Grenade (mso)** | 50s |
-| Ammunition | **High Explosive Grenade (mso)** | 50s |
-| Ammunition | **Hunter Missile (mso)** | 2g |
-| Ammunition | **Incendiary Grenade (mso)** | 75s |
-| Ammunition | **Seeker Missile (mso)** | 3g |
-| Ammunition | **Shock Grenade (mso)** | 60s |
+| Ammunition | **Grenade: Flash-Bang (Stun Core) (mso)** | 85s |
+| Ammunition | **Grenade: Flash-Bang (Tactical) (mso)** | 55s |
+| Ammunition | **Grenade: Gas (Neuro-Aerosol) (mso)** | 1g 25s |
+| Ammunition | **Grenade: Gas (Tactical) (mso)** | 75s |
+| Ammunition | **Grenade: HE (Military Warhead) (mso)** | 1g 25s |
+| Ammunition | **Grenade: HE (Tactical Pack) (mso)** | 75s |
+| Ammunition | **Grenade: Incendiary (Phosphorous Core) (mso)** | 1g 75s |
+| Ammunition | **Grenade: Incendiary (Tactical) (mso)** | 1g 10s |
+| Ammunition | **Grenade: Shock (Sonic EMP) (mso)** | 1g 45s |
+| Ammunition | **Grenade: Shock (Tactical) (mso)** | 90s |
+| Ammunition | **Grenade: Smoke (Heavy Thermal) (mso)** | 65s |
+| Ammunition | **Grenade: Smoke (Tactical) (mso)** | 40s |
+| Ammunition | **Grenade: Tangler (High-Tensile) (mso)** | 1g |
+| Ammunition | **Grenade: Tangler (Tactical) (mso)** | 60s |
+| Ammunition | **Missile: Assassin (Proximity Ambush) (mso)** | 6g |
+| Ammunition | **Missile: Assassin (Ramjet) (mso)** | 8g |
+| Ammunition | **Missile: Explosive (Demolition) (mso)** | 3g |
+| Ammunition | **Missile: Explosive (Tactical) (mso)** | 2g 25s |
+| Ammunition | **Missile: Hunter (Dual-Thruster) (mso)** | 4g |
+| Ammunition | **Missile: Hunter (Tracker) (mso)** | 3g |
+| Ammunition | **Missile: Seeker (Bunker-Buster) (mso)** | 6g |
+| Ammunition | **Missile: Seeker (Smart Guidance) (mso)** | 4g 50s |
 | Ammunition | **Signal Flare Pack (x10) (mso)** | 5s |
-| Ammunition | **Smoke Grenade (mso)** | 25s |
-| Ammunition | **Specialty Arrows Quiver (mso)** | 50s |
-| Ammunition | **Specialty Bolts Quiver (mso)** | 50s |
-| Ammunition | **Tangler Grenade (mso)** | 40s |
+| Ammunition | **Tip: Exploding (Burst) (mso)** | 30s |
+| Ammunition | **Tip: Explosive Blast (Tactical) (mso)** | 45s |
+| Ammunition | **Tip: Kinetic Blast (Heavy) (mso)** | 60s |
+| Ammunition | **Tip: Micro-Warhead (Heavy) (mso)** | 75s |
+| Ammunition | **Tip: Spinning Drill (Tactical) (mso)** | 40s |
+| Ammunition | **Tip: Tungsten Harpoon (Heavy) (mso)** | 65s |
 | Artifact | **[Armor] of Serenity** | Artifact |
 | Artifact | **[Weapon] of Echoes** | Artifact |
 | Artifact | **[Weapon] of Glimmer** | Artifact |
@@ -337,21 +352,28 @@ Master indexed gear directory.
 | Biotech | **Beetle Bomb (mso)** | 2g |
 | BioTech | **Bionocular (mso)** | 2g |
 | BioTech | **Breather (mso)** | 3g 50s |
-| BioTech | **Choking Poison Vial (mso)** | 1g 25s |
-| BioTech | **Corrosive Poison Vial (mso)** | 2g |
 | Biotech | **Death Eggs (mso)** | 50s |
-| BioTech | **Death Poison Vial (mso)** | 2g 50s |
 | BioTech | **Feeder (mso)** | 3g |
 | BioTech | **Firegnat Colony (mso)** | 1g 20s |
 | BioTech | **Glow Egg (mso)** | 20s |
-| BioTech | **Knockout Poison Vial (mso)** | 1g 50s |
-| BioTech | **Laughing Poison Vial (mso)** | 1g 25s |
 | BioTech | **Lift Pods (mso)** | 1g 50s |
 | BioTech | **Living Rope (mso)** | 1g 80s |
-| BioTech | **Paralysis Poison Vial (mso)** | 1g 50s |
 | BioTech | **Platelets (mso)** | 50s |
+| BioTech | **Poison: Choking (Blade Reservoir) (mso)** | 1g 75s |
+| BioTech | **Poison: Choking (Milc-Ti Dose) (mso)** | 2g 25s |
+| BioTech | **Poison: Corrosive (Acidic Core) (mso)** | 3g 50s |
+| BioTech | **Poison: Corrosive (Blade Reservoir) (mso)** | 2g 75s |
+| BioTech | **Poison: Death (Blade Reservoir) (mso)** | 3g 50s |
+| BioTech | **Poison: Death (Sea Zimil Dose) (mso)** | 4g 50s |
+| BioTech | **Poison: Knockout (Anesthetic Vial) (mso)** | 2g 70s |
+| BioTech | **Poison: Knockout (Blade Reservoir) (mso)** | 2g 10s |
+| BioTech | **Poison: Laughing (Blade Reservoir) (mso)** | 1g 75s |
+| BioTech | **Poison: Laughing (Euphoria Cloud) (mso)** | 2g 25s |
+| BioTech | **Poison: Paralysis (Blade Reservoir) (mso)** | 2g 10s |
+| BioTech | **Poison: Paralysis (Joc-Tun Dose) (mso)** | 2g 75s |
+| BioTech | **Poison: Sleep (Blade Reservoir) (mso)** | 1g 75s |
+| BioTech | **Poison: Sleep (Setchie Coma Dose) (mso)** | 2g 25s |
 | BioTech | **Saliva Mites (mso)** | 50s |
-| BioTech | **Sleep Poison Vial (mso)** | 1g 25s |
 | BioTech | **Slimemold (mso)** | 85s |
 | BioTech | **TechMites (mso)** | 85s |
 | BioTech | **Tube-Worms (mso)** | 1g |
