@@ -1060,32 +1060,6 @@
   ],
   "kits": [
     {
-      "id": "373c81ce-b9d3-413a-bf61-72a43b7f894b",
-      "name": "Destron Armor",
-      "category": "Powered Armor",
-      "description": null,
-      "created_at": "2026-09-03T20:14:29.977879+00:00",
-      "cost": "150g",
-      "genres": [
-        "SciFi"
-      ],
-      "notes": "Modular heavy powered combat suit.",
-      "domain": "Tech"
-    },
-    {
-      "id": "cc181372-733f-4795-b3eb-9c7ed7d3115c",
-      "name": "Engineer Tool Kit",
-      "category": "Tools & Engineering",
-      "description": null,
-      "created_at": "2026-09-03T22:59:33.663252+00:00",
-      "cost": "7g 50s",
-      "genres": [
-        "SciFi"
-      ],
-      "notes": "A comprehensive field kit containing specialized tools required for repairing starships, automated tactical mechs (ATMs), hardware, and weapons. Housed in a durable 1'x1' tech case that can be security-sealed (Dif 20). Contains a tech wand, wirelocks, laser cutter, energy flow monitor, and diagnostic supplies (all devices have rating 10).\n-- {1'x1' tech case, tech wand, wirelocks, laser cutter, energy flow monitor, supplies} all are included as Free.",
-      "domain": "Tech"
-    },
-    {
       "id": "933d1f7c-5a73-48c8-84b3-3ec8157c2129",
       "name": "Engineer Tool Kit (mso)",
       "category": "Tools & Engineering",
@@ -1099,19 +1073,6 @@
       "domain": "Tech"
     },
     {
-      "id": "21aa6de7-6754-4746-88cf-456ee0d80a65",
-      "name": "Medikit",
-      "category": "Medical",
-      "description": null,
-      "created_at": "2026-09-03T22:59:33.663252+00:00",
-      "cost": "4g",
-      "genres": [
-        "SciFi"
-      ],
-      "notes": "A medikit contains the same items as a first aid kit, plus common poison antidotes, common vaccines, a biometer, two slap packs, one genesis capsule, a laser scalpel and a power syringe (for injecting antidotes and vaccines). All items have a 10L rating which may be combined(cat) with any appropriate skill.\nThe first aid components can be used to heal damage at a -1c adjustment.\n-- {poison antidotes, common vaccines, a biometer, two slap packs, one genesis capsule, a laser scalpel and a power syringe (for injecting antidotes and vaccines)} all are included as Free",
-      "domain": "Tech"
-    },
-    {
       "id": "443467d4-1c17-472f-9911-39fc4d396d18",
       "name": "Medikit (mso)",
       "category": "Medical",
@@ -1122,19 +1083,6 @@
         "SciFi"
       ],
       "notes": "A medikit contains the same items as a first aid kit, plus common poison antidotes, common vaccines, a biometer, two slap packs, one genesis capsule, a laser scalpel and a power syringe (for injecting antidotes and vaccines). All items have a d6 rating which may be combined(cat) with any appropriate skill. The first aid components can be used to heal damage at a -3 adjustment. -- {poison antidotes, common vaccines, a biometer, two slap packs, one genesis capsule, a laser scalpel and a power syringe (for injecting antidotes and vaccines)} all are included as Free",
-      "domain": "Tech"
-    },
-    {
-      "id": "9129c602-8092-49a4-b798-9a27cc832dec",
-      "name": "Survival Kit",
-      "category": "Survival",
-      "description": null,
-      "created_at": "2026-09-03T20:14:29.977879+00:00",
-      "cost": "3g",
-      "genres": [
-        "SciFi"
-      ],
-      "notes": "The standard Guild survival kit contains the following items: a compressor, one illuminator, one first aid kit, one mess kit, one fully loaded miniflare gun, a nutripress, two slap packs, and one survival bag. All items are dimensionally compressed within the bag.\n-- {compressor, one illuminator, one first aid kit, one mess kit, one fully loaded miniflare gun, a nutripress, two slap packs, and one survival bag} all are included as Free",
       "domain": "Tech"
     },
     {
@@ -1153,32 +1101,6 @@
   ],
   "bundles": [
     {
-      "id": "373c81ce-b9d3-413a-bf61-72a43b7f894b",
-      "name": "Destron Armor",
-      "category": "Powered Armor",
-      "description": null,
-      "created_at": "2026-09-03T20:14:29.977879+00:00",
-      "cost": "150g",
-      "genres": [
-        "SciFi"
-      ],
-      "notes": "Modular heavy powered combat suit.",
-      "domain": "Tech"
-    },
-    {
-      "id": "cc181372-733f-4795-b3eb-9c7ed7d3115c",
-      "name": "Engineer Tool Kit",
-      "category": "Tools & Engineering",
-      "description": null,
-      "created_at": "2026-09-03T22:59:33.663252+00:00",
-      "cost": "7g 50s",
-      "genres": [
-        "SciFi"
-      ],
-      "notes": "A comprehensive field kit containing specialized tools required for repairing starships, automated tactical mechs (ATMs), hardware, and weapons. Housed in a durable 1'x1' tech case that can be security-sealed (Dif 20). Contains a tech wand, wirelocks, laser cutter, energy flow monitor, and diagnostic supplies (all devices have rating 10).\n-- {1'x1' tech case, tech wand, wirelocks, laser cutter, energy flow monitor, supplies} all are included as Free.",
-      "domain": "Tech"
-    },
-    {
       "id": "933d1f7c-5a73-48c8-84b3-3ec8157c2129",
       "name": "Engineer Tool Kit (mso)",
       "category": "Tools & Engineering",
@@ -1192,19 +1114,6 @@
       "domain": "Tech"
     },
     {
-      "id": "21aa6de7-6754-4746-88cf-456ee0d80a65",
-      "name": "Medikit",
-      "category": "Medical",
-      "description": null,
-      "created_at": "2026-09-03T22:59:33.663252+00:00",
-      "cost": "4g",
-      "genres": [
-        "SciFi"
-      ],
-      "notes": "A medikit contains the same items as a first aid kit, plus common poison antidotes, common vaccines, a biometer, two slap packs, one genesis capsule, a laser scalpel and a power syringe (for injecting antidotes and vaccines). All items have a 10L rating which may be combined(cat) with any appropriate skill.\nThe first aid components can be used to heal damage at a -1c adjustment.\n-- {poison antidotes, common vaccines, a biometer, two slap packs, one genesis capsule, a laser scalpel and a power syringe (for injecting antidotes and vaccines)} all are included as Free",
-      "domain": "Tech"
-    },
-    {
       "id": "443467d4-1c17-472f-9911-39fc4d396d18",
       "name": "Medikit (mso)",
       "category": "Medical",
@@ -1215,19 +1124,6 @@
         "SciFi"
       ],
       "notes": "A medikit contains the same items as a first aid kit, plus common poison antidotes, common vaccines, a biometer, two slap packs, one genesis capsule, a laser scalpel and a power syringe (for injecting antidotes and vaccines). All items have a d6 rating which may be combined(cat) with any appropriate skill. The first aid components can be used to heal damage at a -3 adjustment. -- {poison antidotes, common vaccines, a biometer, two slap packs, one genesis capsule, a laser scalpel and a power syringe (for injecting antidotes and vaccines)} all are included as Free",
-      "domain": "Tech"
-    },
-    {
-      "id": "9129c602-8092-49a4-b798-9a27cc832dec",
-      "name": "Survival Kit",
-      "category": "Survival",
-      "description": null,
-      "created_at": "2026-09-03T20:14:29.977879+00:00",
-      "cost": "3g",
-      "genres": [
-        "SciFi"
-      ],
-      "notes": "The standard Guild survival kit contains the following items: a compressor, one illuminator, one first aid kit, one mess kit, one fully loaded miniflare gun, a nutripress, two slap packs, and one survival bag. All items are dimensionally compressed within the bag.\n-- {compressor, one illuminator, one first aid kit, one mess kit, one fully loaded miniflare gun, a nutripress, two slap packs, and one survival bag} all are included as Free",
       "domain": "Tech"
     },
     {
@@ -21194,7 +21090,7 @@
       "notes": "Integrated environmental life support.",
       "created_at": "2026-09-03T20:14:29.977879+00:00",
       "cost": "0s",
-      "belongs_to": "Kit: Destron Armor {Free}"
+      "belongs_to": null
     },
     {
       "id": 497,
@@ -24748,7 +24644,7 @@
       "notes": "Integrated environmental life support.",
       "created_at": "2026-09-03T20:14:29.977879+00:00",
       "cost": "0s",
-      "belongs_to": "Kit: Destron Armor {Free}"
+      "belongs_to": null
     },
     {
       "id": 497,
@@ -28302,7 +28198,7 @@
       "notes": "Integrated environmental life support.",
       "created_at": "2026-09-03T20:14:29.977879+00:00",
       "cost": "0s",
-      "belongs_to": "Kit: Destron Armor {Free}"
+      "belongs_to": null
     },
     {
       "id": 497,
@@ -35555,7 +35451,7 @@
       "pic": null,
       "domain": "Archaic",
       "path": null,
-      "belongs_to": "Kit: Destron Armor {Free}"
+      "belongs_to": null
     },
     {
       "id": 23,
@@ -45073,7 +44969,7 @@
       "pic": null,
       "domain": "Tech",
       "path": "Surgery",
-      "belongs_to": "Kit: Medikit {Free}"
+      "belongs_to": null
     },
     {
       "id": 497,
@@ -45103,7 +44999,7 @@
       "pic": null,
       "domain": "Tech",
       "path": "First Aid",
-      "belongs_to": "Kit: Medikit {Free}"
+      "belongs_to": null
     },
     {
       "id": 525,
@@ -45133,7 +45029,7 @@
       "pic": null,
       "domain": "Tech",
       "path": "First Aid",
-      "belongs_to": "Kit: Medikit {Free}"
+      "belongs_to": null
     },
     {
       "id": 530,
@@ -45178,7 +45074,7 @@
       "pic": null,
       "domain": "Tech",
       "path": "First Aid",
-      "belongs_to": "Kit: Medikit {Free}"
+      "belongs_to": null
     },
     {
       "id": 569,
@@ -45519,7 +45415,7 @@
       "pic": "https://drive.google.com/file/d/1J1-zT_SCGajD_oUWVeWzvp7iFM_QkoUC/view?usp=drive_link",
       "domain": "Tech",
       "path": "Tech Hardware",
-      "belongs_to": "Kit: Survival Kit {Free}"
+      "belongs_to": null
     },
     {
       "id": 152,
@@ -45704,7 +45600,7 @@
       "pic": null,
       "domain": "Tech",
       "path": "Engineering",
-      "belongs_to": "Kit: Engineer Tool Kit {Free}"
+      "belongs_to": null
     },
     {
       "id": 552,
@@ -46364,7 +46260,7 @@
       "pic": null,
       "domain": "Tech",
       "path": "Engineering",
-      "belongs_to": "Kit: Engineer Tool Kit {Free}"
+      "belongs_to": null
     },
     {
       "id": 474,
@@ -54714,7 +54610,7 @@
       "pic": null,
       "domain": "Tech",
       "path": "Surgery",
-      "belongs_to": "Kit: Medikit {Free}"
+      "belongs_to": null
     },
     {
       "id": 497,
@@ -54744,7 +54640,7 @@
       "pic": null,
       "domain": "Tech",
       "path": "First Aid",
-      "belongs_to": "Kit: Medikit {Free}"
+      "belongs_to": null
     },
     {
       "id": 525,
@@ -54774,7 +54670,7 @@
       "pic": null,
       "domain": "Tech",
       "path": "First Aid",
-      "belongs_to": "Kit: Medikit {Free}"
+      "belongs_to": null
     },
     {
       "id": 530,
@@ -54819,7 +54715,7 @@
       "pic": null,
       "domain": "Tech",
       "path": "First Aid",
-      "belongs_to": "Kit: Medikit {Free}"
+      "belongs_to": null
     },
     {
       "id": 569,
@@ -55160,7 +55056,7 @@
       "pic": "https://drive.google.com/file/d/1J1-zT_SCGajD_oUWVeWzvp7iFM_QkoUC/view?usp=drive_link",
       "domain": "Tech",
       "path": "Tech Hardware",
-      "belongs_to": "Kit: Survival Kit {Free}"
+      "belongs_to": null
     },
     {
       "id": 152,
@@ -55345,7 +55241,7 @@
       "pic": null,
       "domain": "Tech",
       "path": "Engineering",
-      "belongs_to": "Kit: Engineer Tool Kit {Free}"
+      "belongs_to": null
     },
     {
       "id": 552,
@@ -56005,7 +55901,7 @@
       "pic": null,
       "domain": "Tech",
       "path": "Engineering",
-      "belongs_to": "Kit: Engineer Tool Kit {Free}"
+      "belongs_to": null
     },
     {
       "id": 474,
@@ -64355,7 +64251,7 @@
       "pic": null,
       "domain": "Tech",
       "path": "Surgery",
-      "belongs_to": "Kit: Medikit {Free}"
+      "belongs_to": null
     },
     {
       "id": 497,
@@ -64385,7 +64281,7 @@
       "pic": null,
       "domain": "Tech",
       "path": "First Aid",
-      "belongs_to": "Kit: Medikit {Free}"
+      "belongs_to": null
     },
     {
       "id": 525,
@@ -64415,7 +64311,7 @@
       "pic": null,
       "domain": "Tech",
       "path": "First Aid",
-      "belongs_to": "Kit: Medikit {Free}"
+      "belongs_to": null
     },
     {
       "id": 530,
@@ -64460,7 +64356,7 @@
       "pic": null,
       "domain": "Tech",
       "path": "First Aid",
-      "belongs_to": "Kit: Medikit {Free}"
+      "belongs_to": null
     },
     {
       "id": 569,
@@ -64801,7 +64697,7 @@
       "pic": "https://drive.google.com/file/d/1J1-zT_SCGajD_oUWVeWzvp7iFM_QkoUC/view?usp=drive_link",
       "domain": "Tech",
       "path": "Tech Hardware",
-      "belongs_to": "Kit: Survival Kit {Free}"
+      "belongs_to": null
     },
     {
       "id": 152,
@@ -64986,7 +64882,7 @@
       "pic": null,
       "domain": "Tech",
       "path": "Engineering",
-      "belongs_to": "Kit: Engineer Tool Kit {Free}"
+      "belongs_to": null
     },
     {
       "id": 552,
@@ -65646,7 +65542,7 @@
       "pic": null,
       "domain": "Tech",
       "path": "Engineering",
-      "belongs_to": "Kit: Engineer Tool Kit {Free}"
+      "belongs_to": null
     },
     {
       "id": 474,
