@@ -118,7 +118,7 @@ The complete SupaFlex game system is structured around the **Trinity of Mechanic
 6. **🌐 Equipment Domains & Single-Domain Database Invariant (The Living Triad):**
    * **Rule (The What):** Every data row in the Supabase equipment tables (`armor`, `kits`, `shields`, `supplies`, and `weapons`) MUST contain one and only one value in the `domain` column. The ONLY permitted values are the seven canonical Domains:
      1. **Sciences (Alphabetical):** `Archaic`, `BioTech`, `CyberTech`, `Tech`
-     2. **Powers (Alphabetical):** `Psionics`, `Psychosomatics`, `Sorce`
+     2. **Powers (Alphabetical):** `Psionics`, `Somatics`, `Void Magic`
      Compound strings (e.g. `Tech, Archaic`, `Tech, Artifact`), legacy category tags (e.g. `Medical`, `Universal`, `General`), and NULL values are strictly prohibited. The column in all five tables is titled `domain` (replacing legacy `discipline`).
    * **Rationale (The Why):** Domain defines the fundamental scientific paradigm or mystical power source that an item originates from. Enforcing a strict single-domain invariant across all equipment guarantees deterministic facet filtering in the Gear Manager, prevents orphaned or ghost UI cards, and aligns equipment requirements with player character capability suites without brittle regex parsing.
    * **Failure Mechanism (The What Breaks):** Compound or non-standard strings cause filter fragmentation, false negatives in gear searches, corrupted facet counts, and broken parity between the Supabase database, character sheet filters, and the Player Guide.

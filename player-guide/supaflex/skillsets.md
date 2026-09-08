@@ -151,7 +151,7 @@ Master indexed skill sets and atomic skills directory.
 | **Potion Administration** | ✨ | General | Alchemy |  |
 | **Power Management** | ✨ | General | Ship Office Captain, Ship Office Engineering, Ship Office Fighter Pilot, Ship Office Helm |  |
 | **Psionic Lore (mso)** | 👁️ | Psionics |  |  |
-| **Psychosomatic Lore (mso)** | 👁️ | Psychosomatics |  |  |
+| **Psychosomatic Lore (mso)** | 👁️ | Somatics |  |  |
 | **Raise Shields** | 💪 | Tech | Ship Office Fighter Pilot, Ship Office Helm, Ship Office Tactical, Ship Office Tech |  |
 | **Raise Shields (mso)** | 💪 | Tech | Fighter Pilot, Helm, Tactical | This skill simply allows an individual to operate a ship or vehicle’s shields. Raising shields under normal conditions does not require a skill roll. In battle or during severe cosmic turbulence, a roll may be required. Directly manipulating shields allows the character to combine(cat) their rating with the shield's AR. |
 | **Read Intent** | 👁️ | General | Awareness, Intimidation & Presence |  |
@@ -194,7 +194,7 @@ Master indexed skill sets and atomic skills directory.
 | **Social Status** | 👁️ | Universal | Ship Office Captain, Ship Office Medic |  |
 | **Social Status (mso)** | 👁️ | Universal | Captain, Medic |  |
 | **Solve Puzzles** | 👁️ | General | Gnomish Skills |  |
-| **Sorce Lore (mso)** | 👁️ | Sorce |  |  |
+| **Sorce Lore (mso)** | 👁️ | Void Magic |  |  |
 | **Starship Piloting** | 🏃 | Tech | Ship Office Astrogation, Ship Office Fighter Pilot, Ship Office Helm |  |
 | **Stealth** | 🏃 | Covert | Elven Skills, Goblin Skills, Halfling Skills, Rogue, Scout, Spec Spy, Spec Thief, Thievery, Thievery🎓 |  |
 | **Stealth (mso)** | 🏃 | Covert | Spy, Thief & Covert Operations | This skill allows a character to move without making a sound. Under conditions where other characters make 🏃 check, the stealth character combines(cat) stealth with Dex. If related 🏃 check are required, the character checks straight stealth. Works on nearly any terrain. |

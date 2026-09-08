@@ -416,31 +416,6 @@ Select one of the many sub-sets of powers such as Class👤, Race🧬, Combat St
 | 1-Enc | M | **Telekinetic Glide** | Teleport up to 8sq to a visible square on solid ground. |
 | 1-Enc | P | **Uncanny Dodge (Mental Reflex)** | Gain Advantage on 1 Dodge🏃 roll this rnd. |
 
-### 👤 **Psychosomatics Powers** (20 Abilities)
-
-| Usage | Action | Name | Effect |
-| --- | --- | --- | --- |
-| 1-⚡ | P | **Body Heal** | Self-heal: concentrate on wounded area; restore Heal(🫀) Vit (or per Ver). |
-| 1-⚡ | F | **Death Blow** | After dealing body Dmg: Death Blow(👁️)^🫀; success = target dead (PCs to −10 Vit). |
-| 1-⚡ | A | **Dream Walk** | Enter ally’s dreams; share messages; no roll. |
-| 2-Enc | A | **Electric palm** | Body attack with shock Dmg bns Atk/Dmg(💪)/(💪+1). |
-| 1-Rnd | P | **Hearing Boost** | Enhance hearing: Awareness (hearing) at bonus =(👁️-1) or similar. Cannot stack with Super Hearing. |
-| 2-Enc | P | **Jump** | Psychosomatic leap; jump 👣+6; safe landing. |
-| 1-Enc | A | **Molecular Diffusion** | Pass through solid objects (walls, etc.). Still in object at end: Diffusion(✨)^Dif or 2nd Deg Wnd and rematerialize at start. |
-| 1-⚡ | P | **Oxygenate** | Absorb oxygen from tissue; no breathing required for duration. Extends time before suffocation checks. |
-| 2-Enc | A | **Power Punch** | Punch Atk/Dmg(💪-1)/(💪+2). |
-| 2-Enc | P | **Resist Cold** | Resist🫀+5^cold for Encounter; reduce cold wounds by 1. |
-| 2-Enc | P | **Resist Heat** | Resist🫀+5^heat, fire, and plasma for Encounter; reduce heat wounds by 1. |
-| 2-Enc | P | **Speed** | Accelerate muscle movement and reaction: MR(+2) or similar; Nish(🏃) improved. |
-| 2-Enc | P | **Strength Surge** | One roll: Strength(💪+2) for pull/restrain (not weapon or body Dmg unless GM allows). |
-| 2-Enc | P | **Strengthen** | Brain–muscle efficiency: Strength(💪) improved. Cannot stack with Strength Surge. |
-| 2-Enc | F | **Stun** | On unarmed hit: 💪^🫀 or target is Stunned. |
-| 1-Rnd | P | **Super Hearing** | +1c bonus to Awareness (hearing) based rolls. Cannot stack with hearing boost. |
-| 1-Rnd | P | **Super Vision** | +1c bonus to Awareness (sight) based rolls. Cannot stack with vision boost. |
-| 2-Enc | P | **Tough Skin** | Skin becomes leathery to rocky: +=(💪-1) AR+ or similar (per Ver). |
-| 2-Enc | P | **Vision Boost** | Improve optic efficiency: telescopic sight; 👁️+ for vision improved. |
-| 1-⚡ | P | **Vitalize** | Temporary +=(🫀) Vit (temp pool); extra Vit may not be healed. |
-
 ### 👤 **Starborn Ranger Powers** (18 Abilities)
 
 | Usage | Action | Name | Effect |
@@ -914,6 +889,7 @@ Select one of the many sub-sets of powers such as Class👤, Race🧬, Combat St
 | --- | --- | --- | --- | --- |
 | Combat | 2-Enc | F | **Ambidexterity** | Sheath or draw 1 weapon; no P cost. |
 | Combat | 2-Enc | AM | **Axe Kick** | Dmg+3. |
+| Combat | 1-⚡ | P | **Body Heal** | Self-heal: concentrate on wounded area; restore Heal(🫀) Vit (or per Ver). |
 | Combat | 1-⚡ | F | **Boomerang Block🛡️** | Hurl shield to intercept Atk targeting ally: roll Def normally; on success, total Block (no Dmg). |
 | Combat | 2-Enc | P | **Brace** | Plant shield: AR+1 for 1 Rnd. |
 | Combat | 1-⚡ | A | **Chain Strikes** | Make 3 Atk & Dmg targeting same foe. |
@@ -922,38 +898,48 @@ Select one of the many sub-sets of powers such as Class👤, Race🧬, Combat St
 | Combat | 2-Enc | P | **Cover Ally** | Adjacent allies gain Dod+2 for 1 Rnd. |
 | Combat | 1-Enc | P | **Cross Guard Riposte** | On successful Block; immediately make off-hand Opportunity Atk. |
 | Combat | 1-Enc | A | **Cross Slash** | Strike with both weapons in a single sweeping motion; 1 Atk but roll Dmg for both weapons and keep best. |
+| Combat | 1-⚡ | F | **Death Blow** | After dealing body Dmg: Death Blow(👁️)^🫀; success = target dead (PCs to −10 Vit). |
 | Combat | 1-Enc | P | **Defender’s Focus** | Gain Advantage on next Block roll. |
 | Combat | 1-Enc | P | **Defensive Flourish** | Dod+2 for 1 Rnd. |
 | Combat | 2-Enc | P | **Disarm Strike** | On hit; normal Dmg and Motion🏃 or target drops weapon. |
 | Combat | 1-Enc | P | **Double Parry** | All Blocks this round roll using both weapons and keep best. |
 | Combat | 1-⚡ | A | **Dragon Strike** | Mighty blow; Atk Dmg+3. |
+| Combat | 1-⚡ | A | **Dream Walk** | Enter ally’s dreams; share messages; no roll. |
 | Combat | 1-Rnd | P | **Driving Attack** | On hit; Might💪 to push target 1sq. |
 | Combat | 2-Enc | M | **Duelist’s Dance** | MR👣+1 this rnd as you weave between attacks. |
 | Combat | 1-Enc | F | **Elbow Smash** | Immediate Opportunity Atk. |
+| Combat | 2-Enc | A | **Electric palm** | Body attack with shock Dmg bns Atk/Dmg(💪)/(💪+1). |
 | Combat | 1-Enc | F | **Flowing Assault** | After slaying a foe; immediately make off-hand Opportunity Atk. |
 | Combat | 1-Enc | AM | **Flying Kick** | Jump up to MR👣 and strike; Atk & Dmg with Advantage. |
 | Combat | 1-Enc | F | **Guard Swap** | Swap weapon or stance; no P cost. |
 | Combat | 1-Rnd | M | **Guarded Step** | Move up to 3sq; attempt Block with weapon to aid ally. |
+| Combat | 1-Rnd | P | **Hearing Boost** | Enhance hearing: Awareness (hearing) at bonus =(👁️-1) or similar. Cannot stack with Super Hearing. |
 | Combat | 1-Enc | P | **Hurl King** | Draw and throw 1 hurled weapon as second Atk/Dmg. |
 | Combat | 1-Enc | P | **Iron Bulwark** | Allies directly behind you gain Dod+2 for 1 Rnd. |
 | Combat | 1-Rnd | P | **Iron Fist** | All Brawl attacks: Dmg+2. |
 | Combat | 1-⚡ | F | **Iron Focus** | Reroll 1 missed Atk with this weapon. |
+| Combat | 2-Enc | P | **Jump** | Psychosomatic leap; jump 👣+6; safe landing. |
 | Combat | 2-Enc | A | **Knee Breaker** | On hit; normal Dmg and Might💪 or target Immobilized. |
 | Combat | 1-Enc | AM | **Leaping Strike** | Leap up to double MR👣; Dmg+2. |
 | Combat | 1-Enc | A | **MA Flurry** | Make 4 Brawl Atks targeting any combination of adjacent foes at normal Brawl Dmg each. |
 | Combat | 1-Enc | P | **Master's Riposte** | If foe misses you; get opportunity Atk; 1 roll per use. |
 | Combat | 1-Enc | P | **Measured Guard** | Blk+1 this Rnd. |
 | Combat | 1-Rnd | P | **Mirror Guard** | Block with both weapons: Dod+2 for 1 Rnd. |
+| Combat | 1-Enc | A | **Molecular Diffusion** | Pass through solid objects (walls, etc.). Still in object at end: Diffusion(✨)^Dif or 2nd Deg Wnd and rematerialize at start. |
 | Combat | 2-Enc | P | **Off-Hand Feint** | Distract with off-hand; main-hand Atk+2. |
 | Combat | 1-Enc | A | **Overwhelming Flurry** | Choose 1 foe; make main-hand Atk with Advantage. |
+| Combat | 1-⚡ | P | **Oxygenate** | Absorb oxygen from tissue; no breathing required for duration. Extends time before suffocation checks. |
 | Combat | 2-Enc | P | **Paired Precision** | Atk+2 if you attacked only with other weapon last rnd. |
 | Combat | 1-⚡ | A | **Palm Heal** | On hit; normal Dmg and heal self equal to Wounds caused. |
 | Combat | 3-Enc | A | **Piercing Strike** | This Atk ignores 1 AR+ (Dmg+1 if target has armor). |
+| Combat | 2-Enc | A | **Power Punch** | Punch Atk/Dmg(💪-1)/(💪+2). |
 | Combat | 1-Rnd | P | **Precision Cut** | On hit; Dmg+1. |
 | Combat | 1-Enc | A | **Pressure Point** | On hit: normal Dmg and target weakened. |
 | Combat | 1-Enc | F | **Quick Recovery** | Stand from Prone; no P cost. |
 | Combat | 1-Enc | F | **Relentless Flow** | If hitting same target 2 consecutive rounds: Dmg+1 for Encounter. |
 | Combat | 1-Enc | F | **Relentless Pressure** | If you hit with both weapons in same rnd; Atk+1 for Encounter. |
+| Combat | 2-Enc | P | **Resist Cold** | Resist🫀+5^cold for Encounter; reduce cold wounds by 1. |
+| Combat | 2-Enc | P | **Resist Heat** | Resist🫀+5^heat, fire, and plasma for Encounter; reduce heat wounds by 1. |
 | Combat | 1-Enc | A | **Roundhouse Kick** | Atk all adjacent foes. |
 | Combat | 1-Enc | A | **Shield Bash** | Make 1 Atk with shield (use Def as Atk); on hit, deal d💪 Dmg and Might💪 or target is Stunned. |
 | Combat | 1-⚡ | M | **Shield Charge** | Move up to MR; Atk 💪^Def: on success, deal d💪 Dmg and target is Prone. |
@@ -962,12 +948,21 @@ Select one of the many sub-sets of powers such as Class👤, Race🧬, Combat St
 | Combat | 2-Enc | P | **Shield Shove** | Might💪 to shove target d4sq. |
 | Combat | 1-Rnd | P | **Shield Wall** | Def+1 for 1 Rnd. |
 | Combat | 2-Enc | A | **Side Kick** | On hit; normal Dmg and push target d4sq. |
+| Combat | 2-Enc | P | **Speed** | Accelerate muscle movement and reaction: MR(+2) or similar; Nish(🏃) improved. |
 | Combat | 1-Enc | A | **Spinning Backfist** | On hit; Dmg+4 and Might💪 or target falls Prone. |
 | Combat | 1-Enc | P | **Steel Net** | Catch incoming melee blow: Blk+2 this Rnd. |
+| Combat | 2-Enc | P | **Strength Surge** | One roll: Strength(💪+2) for pull/restrain (not weapon or body Dmg unless GM allows). |
+| Combat | 2-Enc | P | **Strengthen** | Brain–muscle efficiency: Strength(💪) improved. Cannot stack with Strength Surge. |
+| Combat | 2-Enc | F | **Stun** | On unarmed hit: 💪^🫀 or target is Stunned. |
+| Combat | 1-Rnd | P | **Super Hearing** | +1c bonus to Awareness (hearing) based rolls. Cannot stack with hearing boost. |
+| Combat | 1-Rnd | P | **Super Vision** | +1c bonus to Awareness (sight) based rolls. Cannot stack with vision boost. |
 | Combat | 2-Enc | A | **Sweep Kick** | Atk all adjacent foes for normal Dmg; wounded targets fall Prone. |
 | Combat | 1-Enc | F | **Swift Ready** | Swap to new weapon; no P cost. |
 | Combat | 2-Enc | A | **Tiger Claw** | Make 2 unarmed Atk; if both hit, each is Dmg+1. |
+| Combat | 2-Enc | P | **Tough Skin** | Skin becomes leathery to rocky: +=(💪-1) AR+ or similar (per Ver). |
 | Combat | 1-Enc | A | **Twin Threat** | Make Atk with main-hand; if miss, immediately Atk with off-hand. |
+| Combat | 2-Enc | P | **Vision Boost** | Improve optic efficiency: telescopic sight; 👁️+ for vision improved. |
+| Combat | 1-⚡ | P | **Vitalize** | Temporary +=(🫀) Vit (temp pool); extra Vit may not be healed. |
 | Combat | 1-Enc | P | **Wall of Steel** | Blk+2 this Rnd; MR is 0 this Rnd. |
 | Combat | 1-Enc | AM | **Wall Run Kick** | Run along wall/obstacle up to MR👣; normal Atk & Dmg on landing. |
 | Combat | 2-Enc | P | **Weapon & Board** | If you hit with a weapon on your last turn: Atk+1 and Def+1 for 1 Rnd. |
