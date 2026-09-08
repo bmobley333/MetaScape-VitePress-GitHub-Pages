@@ -137,8 +137,8 @@ Master indexed skill sets and atomic skills directory.
 | **Navigate (mso)** | 👁️ | Tech | Astrogator | This skill governs the ability to plot planet surface courses. Navigation difficulty is based upon a character’s familiarity with the planet in question, and the ruggedness of terrain. A vehicle driver may combine(cat) his skill with the navigator's when making drive checks. |
 | **Navigation** | 👁️ | Tech | Mountaineering, Sailing, Ship Office Astrogation, Urban Survival, Urban Survival🎓, Vehicle Driver |  |
 | **Negotiation** | 👁️ | General | Diplomacy, Mercantile |  |
-| **Nish** | 🏃 | General | Agility, Athletics | Specialized kinetic movement, acrobatics, agility, and rapid relocation. |
-| **Nish (mso)** | 🏃 | Universal |  |  |
+| **Nish** | 🏃 | General | Agility, Athletics | Short of Initiative. Nish is the per round turn order for characters and GM ran monsters and NPCs |
+| **Nish (mso)** | 🏃 | Universal |  | Short of Initiative. Nish is the per round turn order for characters and GM ran monsters and NPCs |
 | **Parkour** | 🏃 | Physical |  |  |
 | **Performance** | 👁️ | General | Bardic |  |
 | **Persuasion** | 👁️ | General | Bardic, Diplomacy |  |
