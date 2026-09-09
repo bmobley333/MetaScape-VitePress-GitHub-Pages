@@ -8,6 +8,8 @@ Index of purchasable Exotics (🧿) and treasure Artifacts (🔮) derived from m
 | Usage | Action | Function | Item Source | Effect |
 | --- | --- | --- | --- | --- |
 | 1-Enc | P | **Candle Spark** | Candle Spark | Create small flame; ignite torches or campfires. |
+| 1-Enc | P | **Ember Pin** | Ember Pin | Ignite small flame on touch. |
+| 1-⚡ | P | **Glow Orb** | Glow Orb | Bright light for Encounter. |
 | 2-Enc | P | **Antigrav Cargo Suspension (mso)** | Suspensor Belt (mso) | Antigravity field; suspends up to 2 tons. |
 
 ## **🔮 🍺 Minor Artifacts (Found Treasure Loot)**
@@ -30,11 +32,9 @@ Index of purchasable Exotics (🧿) and treasure Artifacts (🔮) derived from m
 | 2-Enc | P | **Reinforced Leg Piston (mso)** | Cyber Legs, Strength (mso) | Reinforced prosthetics; 💪+4 to leg/jump checks. |
 | 1-Enc | P | **Cyber X-Ray Eye** | Cyber X-Ray Eye | 👁️+ or skill to penetrate substance for viewing; requires existing cyber eye. |
 | 1-⚡ | P | **D-Sizer** | D-Sizer | Shrink or un-shrink eligible metal item (weapon or device no larger than Destron armor) to pawn size. |
-| 1-Enc | P | **Ember Pin** | Ember Pin | Ignite small flame on touch. |
 | 1-Enc | P | **Feather Charm** | Feather Charm | Magic✨ to negate fall distance in ft. |
 | 1-Enc | A | **Frost Pebble** | Frost Pebble | Rng Short; ✨ Atk; ✨+1 cold Dmg. |
 | 1-Enc | P | **Ghost Mine** | Ghost Mine | Cloaks attached explosive at Stealth(🏃)^Awa; 3sq motion trigger beam. |
-| 1-⚡ | P | **Glow Orb** | Glow Orb | Bright light for Encounter. |
 | 2-Enc | P | **Polymer Grapple Cable (mso)** | Grappling Gloves (mso) | Rng Short; spider polymer cable; supports 1000 lbs. |
 | 2-Enc | P | **Gravitational Impact Cushion (mso)** | Grav Pad (mso) | Deploy 1 sq grav pad; negates fall Dmg. |
 | 1-Rnd | F | **GravLift** | GravLift | On one weapon stock: Rng(*2), Draw Act(F). |
