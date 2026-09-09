@@ -911,16 +911,22 @@ Select one of the many sub-sets of powers such as Class👤, Race🧬, Combat St
 | Combat | 2-Enc | A | **Electric palm** | Body attack with shock Dmg bns Atk/Dmg(💪)/(💪+1). |
 | Combat | 1-Enc | F | **Flowing Assault** | After slaying a foe; immediately make off-hand Opportunity Atk. |
 | Combat | 1-Enc | AM | **Flying Kick** | Jump up to MR👣 and strike; Atk & Dmg with Advantage. |
+| Combat | 1-🍀 | F | **Fortunate Timing** | take turn immediately even if before your Nish🚩. |
 | Combat | 1-Enc | F | **Guard Swap** | Swap weapon or stance; no P cost. |
 | Combat | 1-Rnd | M | **Guarded Step** | Move up to 3sq; attempt Block with weapon to aid ally. |
 | Combat | 1-Rnd | P | **Hearing Boost** | Enhance hearing: Awareness (hearing) at bonus =(👁️-1) or similar. Cannot stack with Super Hearing. |
 | Combat | 1-Enc | P | **Hurl King** | Draw and throw 1 hurled weapon as second Atk/Dmg. |
+| Combat | 1-🍀 | P | **Inspire Ally** | Ally’s next roll has Advantage. |
 | Combat | 1-Enc | P | **Iron Bulwark** | Allies directly behind you gain Dod+2 for 1 Rnd. |
 | Combat | 1-Rnd | P | **Iron Fist** | All Brawl attacks: Dmg+2. |
 | Combat | 1-⚡ | F | **Iron Focus** | Reroll 1 missed Atk with this weapon. |
 | Combat | 2-Enc | P | **Jump** | Psychosomatic leap; jump 👣+6; safe landing. |
 | Combat | 2-Enc | A | **Knee Breaker** | On hit; normal Dmg and Might💪 or target Immobilized. |
+| Combat | 1-🍀 | F | **Last Chance** | If reduced to negative Vit; stay at 1 Vit instead. |
 | Combat | 1-Enc | AM | **Leaping Strike** | Leap up to double MR👣; Dmg+2. |
+| Combat | 1-🍀 | P | **Lucky Block🛡️** | Block as if max roll, on 1 Atk. |
+| Combat | 1-🍀 | P | **Lucky Dodge** | Avoid 1 incoming Atk. |
+| Combat | 1-🍀 | F | **Lucky Strike** | On successful Atk; Dmg+5. |
 | Combat | 1-Enc | A | **MA Flurry** | Make 4 Brawl Atks targeting any combination of adjacent foes at normal Brawl Dmg each. |
 | Combat | 1-Enc | P | **Master's Riposte** | If foe misses you; get opportunity Atk; 1 roll per use. |
 | Combat | 1-Enc | P | **Measured Guard** | Blk+1 this Rnd. |
@@ -941,6 +947,7 @@ Select one of the many sub-sets of powers such as Class👤, Race🧬, Combat St
 | Combat | 2-Enc | P | **Resist Cold** | Resist🫀+5^cold for Encounter; reduce cold wounds by 1. |
 | Combat | 2-Enc | P | **Resist Heat** | Resist🫀+5^heat, fire, and plasma for Encounter; reduce heat wounds by 1. |
 | Combat | 1-Enc | A | **Roundhouse Kick** | Atk all adjacent foes. |
+| Combat | 1-🍀 | F | **Serendipity** | Provides object, clue, or NPC (as per GM). |
 | Combat | 1-Enc | A | **Shield Bash** | Make 1 Atk with shield (use Def as Atk); on hit, deal d💪 Dmg and Might💪 or target is Stunned. |
 | Combat | 1-⚡ | M | **Shield Charge** | Move up to MR; Atk 💪^Def: on success, deal d💪 Dmg and target is Prone. |
 | Combat | 1-Enc | P | **Shield Hook** | Adv(Def)^one chosen opponent this Rnd. |
@@ -969,6 +976,7 @@ Select one of the many sub-sets of powers such as Class👤, Race🧬, Combat St
 | Combat | 1-Enc | P | **Weapon Control** | On successful Atk; Motion🏃 disarms target. |
 | Combat | 2-Enc | P | **Weapon Mastery** | If you attacked last rnd with same weapon; Atk+2 and Dmg+2 this rnd. |
 | Combat | 1-⚡ | A | **Whirling Dance** | Make separate Atk & Dmg rolls targeting 2 adjacent foes. |
+| Combat | 1-🍀 | A | **Wild Gambit** | Your next roll has Advantage. |
 | Discipline | 2-Enc | P | **Adhere (mso)** | +Weld to surface; immune to push and Prone; +4 AR; broken if wounded; for Encounter. |
 | Discipline | 2-Enc | P | **Binding Word (mso)** | Binds target to agreement or secret; Save ✨ or bound. |
 | Discipline | 1-Enc | A | **Blast (mso)** | Rng Medium; searing light; Save ✨ or Blinded. |
@@ -1116,11 +1124,3 @@ Select one of the many sub-sets of powers such as Class👤, Race🧬, Combat St
 
 | Usage | Action | Name | Effect |
 | --- | --- | --- | --- |
-| 1-🍀 | F | **Fortunate Timing** | take turn immediately even if before your Nish🚩. |
-| 1-🍀 | P | **Inspire Ally** | Ally’s next roll has Advantage. |
-| 1-🍀 | F | **Last Chance** | If reduced to negative Vit; stay at 1 Vit instead. |
-| 1-🍀 | P | **Lucky Block🛡️** | Block as if max roll, on 1 Atk. |
-| 1-🍀 | P | **Lucky Dodge** | Avoid 1 incoming Atk. |
-| 1-🍀 | F | **Lucky Strike** | On successful Atk; Dmg+5. |
-| 1-🍀 | F | **Serendipity** | Provides object, clue, or NPC (as per GM). |
-| 1-🍀 | A | **Wild Gambit** | Your next roll has Advantage. |

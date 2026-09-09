@@ -70,7 +70,7 @@ The complete SupaFlex game system is structured around the **Trinity of Mechanic
 | **Shields (`🛡️`)** | Bucklers, Medium Shields, Tower, Force Shields | Protective combat hardware providing Block. Baseline 0 Function Slots (unless promoted to Exotic via Function/Mod). Priced in $g / s$. |
 | **Exotic (`🧿`)** | Tactical Functions, Cyberware, Biotech, Tech Hardware | Any Gear that has or potentially has an actionable tactical Function (either directly or via a compatible Mod). Occupies 1–4 Function Slots when attuned/readied. Priced in $g / s$. |
 | **Artifact (`🔮`)** | Functions, Traits, Legendary Powers | Ancient, magical, or alien relics (1–4 Function Slots). Non-commercial market treasure (Cost = `"Artifact"`). Reserved for loot tables and discovery. |
-| **Mod (`🔌`)** | Functions, Traits, Hardware Upgrades | Subordinate gear extension layer (NOT a top-level catalog category). Optional modification, module, or hardware attachment uniquely linked via `belongs_to` to parent gear (Weapons, Armor, Shields, Supplies, Exotics). Carries a financial cost ($g/s$) unless standard factory equipment (`{Free}`). |
+| **Mod (`🔌`)** | Functions, Traits, Hardware Upgrades | Subordinate gear extension layer (NOT a top-level catalog category). Optional modification, module, or hardware attachment uniquely linked via `belongs_to` to parent gear (Weapons, Armor, Shields, Supplies, Exotics). Carries a financial cost ($g/s$) unless standard factory equipment (`free Trait`). |
 | **Kit (`📦`)** | Supplies, Weapons, Armor, Shields, Exotics, Mods | Master pre-assembled gear package / hardware bundle. Has overall package cost (e.g. `45s`, `120g`). |
 | **Function (`🧿`)** | *(Actionable Rules Execution)* | Tactical equipment ability nearly identical to a Power (`Action`, `Usage`, `Effect`, `Tier`). Consumes Function Slots ($1\text{–}4$). NEVER carries a financial cost ($0s$) and is universally free once the host gear/mod is owned. Belongs to either a `Mod:` or `Gear:`. |
 | **Trait (`🧬`)** | *(Modular Traits & Physiological Boons)* | Innate biology, physiological boons, tactical modifications, or modular trait hooks queried from the `traits` database table. |
@@ -90,10 +90,14 @@ The complete SupaFlex game system is structured around the **Trinity of Mechanic
    * **Commercial Non-Purchasability of Artifacts:** Any item carrying `cost: "Artifact"` is strictly excluded from commercial retail catalogs and store purchases. Artifacts are acquired exclusively through discovery, GM rewards, and loot tables.
 
 3. **🧭 Paths vs. 📦 Kits Taxonomy:**
-   * **Paths (`🧭`):** Intangible character identity and capability suites (Race Paths, Class Paths, Discipline Paths, Specialization Paths, Martial Proficiencies). Unlocked via AP and character creation. Hallmark starting traits use internal curly-brace notation: `free Trait` indicating 0 AP starting grants (presented in UI and player docs as free Traits). The term "Kit" is strictly prohibited when discussing character capabilities or packages.
-   * **Kits (`📦`):** Rare, tangible manufactured equipment bundles and specialized field hardware (e.g. *Engineer Tool Kit (mso)*, *Field Repair Kit*, *Trauma Kit*, *Survival Kit*). Purchased with Gold / Silver ($g / s$) or acquired as treasure. Included hardware components carry the `{Free}` tag.
-   * **Starting Paths:** Every character starts with 2 Learned Paths: **Race Path (`🧭`)** and **Class Path (`🧭`)**.
-   * **Learning New Paths:** Beyond starting paths, additional Paths may be learned for **4 AP WITH GM Approval**.
+   * **Paths (`🧭`):** Intangible character identity and capability suites (Race Paths, Class Paths, Discipline Paths, Specialization Paths, Martial Proficiencies, Base Path, Universal Path). Unlocked via AP and character creation. Hallmark starting traits use internal curly-brace notation: `free Trait` indicating 0 AP starting grants (presented in UI and player docs as free Traits). The term "Kit" is strictly prohibited when discussing character capabilities or packages.
+   * **Kits (`📦`):** Rare, tangible manufactured equipment bundles and specialized field hardware (e.g. *Engineer Tool Kit (mso)*, *Field Repair Kit*, *Trauma Kit*, *Survival Kit*). Purchased with Gold / Silver ($g / s$) or acquired as treasure. Included hardware components carry the `free Trait` tag.
+   * **Starting Paths:** Every character starts with 3 Learned Paths:
+     1. **Base Path (`🧭`):** Inherent baseline capabilities granted to all characters (0 AP). Baseline weapon proficiencies (`Brawl`, `Throw Object`, `Improvised Weapon`) and armor (`Unarmored`) cost the standard In-Path rate of **1 AP** for everyone.
+     2. **Race Path (`🧭`):** Species biology and inherent free traits (`free Trait`).
+     3. **Class Path (`🧭`):** Archetype identity, starting proficiencies, and class powers.
+   * **Universal Path (`🧭`):** An open pool of general heroic stunts, clutch fortune, and utility capabilities. Elements assigned to the `Universal` Path may be learned by **ANY character for 3 AP without GM approval**. Alternatively, a character may spend **4 AP** to learn the `Universal Path` as a permanent Learned Path, reducing all subsequent Universal elements to the standard In-Path rate of **1 AP**.
+   * **Learning New Paths:** Beyond starting paths, additional Paths may be learned for **4 AP WITH GM Approval** (the Universal Path may be learned for 4 AP without GM approval).
 
 4. **⚔️ Weapons, 🥋 Armor, and 🛡️ Shields as Gear:**
    * Weapons, Armor, and Shields are all categories of **Gear (`⚙️`)**.
@@ -103,13 +107,13 @@ The complete SupaFlex game system is structured around the **Trinity of Mechanic
 5. **🔌 Mods vs. 🧿 Functions Canonical Invariants:**
    * **Mods (`🔌`) = Subordinate Hardware Attachment Layer:**
      * *Subordinate & Modular:* Represents an optional module, aftermarket installation, or physical hardware upgrade linked via `belongs_to`. Does not exist as a standalone catalog shelf.
-     * *Market Commerce:* Carries a financial purchase cost ($g/s$), unless factory-installed as standard equipment on a specific suit or chassis (`{Free}`).
+     * *Market Commerce:* Carries a financial purchase cost ($g/s$), unless factory-installed as standard equipment on a specific suit or chassis (`free Trait`).
      * *Mundane Specs:* Houses non-tactical, descriptive, or mechanical notes that do not belong on the base chassis and do not consume combat Function Slots (e.g. *Microgrenade Fitting*, *Compensators*, *Macro Zoom*).
      * *Parentage:* Always belongs to one or more Gear items via `belongs_to: "Gear: [Item]"`, `belongs_to: "Weapon: [Name]"`, or `belongs_to: "Armor: [Suit]"`.
    * **Functions (`🧿`) = Rules-Engine Execution & Slot Bandwidth Layer:**
      * *Combat Rules Execution:* Actionable encounter abilities (`Action`, `Usage`, `Effect`, `Tier`) nearly identical to Powers, drawn from Function Slots (`🍺 Minor 1`, `🪄 Lesser 2`, `🪬 Greater 3`, `💫 Epic 4`).
      * *Zero Financial Cost:* NEVER carries a financial cost ($g/s$). The `cost` column is permanently eliminated from databases and spreadsheets.
-     * *Universally Free:* Possessing the granting Gear or Mod automatically unlocks the Function. The `{Free}` tag is redundant on Functions and is stripped.
+     * *Universally Free:* Possessing the granting Gear or Mod automatically unlocks the Function. The `free Trait` tag is redundant on Functions and is stripped.
      * *Canonical Tier vs. Derived Slot Weight (Strict DRY):* The database and sheets exclusively store canonical `tier` (`Minor 🍺`, `Lesser 🪄`, `Greater 🪬`, `Epic 💫`). Numeric slot weight (1–4) is derived dynamically at runtime via `getTierSlotWeight()`.
      * *Clean Single Parentage:* A Function belongs to EITHER a Mod (`belongs_to: "Mod: [ModName]"`) OR directly to Gear (`belongs_to: "Gear: [ItemName]"`) — NEVER both. If an item has a Mod, the Function links to the Mod, and the Mod links to the Gear.
 
@@ -337,7 +341,7 @@ Hit – When an attack successfully lands.
 
 H, Hu (Hurled) – Physically thrown weapons (daggers, axes, javelins, etc.).
 
-Kit(s)🎒 – Rare pre-assembled bundles of physical gear and field equipment (e.g. *Engineer Tool Kit (mso)*, *Survival Kit*, *Trauma Kit*). Purchased with Gold / Silver ($g / s$) or acquired as treasure. Included items carry the `{Free}` tag. Character capabilities, proficiencies, and training packages are Paths (`🧭`), never Kits.
+Kit(s)🎒 – Rare pre-assembled bundles of physical gear and field equipment (e.g. *Engineer Tool Kit (mso)*, *Survival Kit*, *Trauma Kit*). Purchased with Gold / Silver ($g / s$) or acquired as treasure. Included items carry the `free Trait` tag. Character capabilities, proficiencies, and training packages are Paths (`🧭`), never Kits.
 
 Level⭐ (Lvl) – A character’s level, equal to their total earned AP🧩.
 
@@ -371,7 +375,7 @@ Nish🚩 (Initiative) – Determines turn order in combat.
 
 Opp Atk (Opportunity Attack) – An F action basic reaction attack using only the weapon in hand.
 
-Path(s)🧭 – Intangible character capability and identity suites (Race Paths, Class Paths, Discipline Paths, Specialization Paths). Unlocked via AP and character creation. Inherent starting traits carry the internal `free Trait` tag (presented in UI and docs as free Traits).
+Path(s)🧭 – Intangible character capability and identity suites (Race Paths, Class Paths, Discipline Paths, Specialization Paths, Base Path, Universal Path). Unlocked via AP and character creation. Inherent starting traits carry the internal `free Trait` tag (presented in UI and docs as free Traits).
 
 PC (Player Character) – A player-controlled character.
 
@@ -407,7 +411,7 @@ Stats – All recorded values: Atr, Vit, MR, Def, Atk, Block Cap, Actions, Usage
 
 Trait(s)🧬 – Modular traits, physiological boons, tactical modifications, and innate capabilities queried from the `traits` database table.
 
-Free Trait(s)🧬 (Free) – AP FREE (0 AP) starting traits or elements granted by Paths. The `free Trait` notation is strictly an internal database and backend tag indicating a 0 AP grant. In player documentation and the UI, these are presented as "free Trait" (🧬 Trait (Free) or 🧬 free Trait) and NEVER as "Perk". Auto-taken and may not be removed without GM approval.
+Free Trait(s)🧬 (Free) – AP FREE (0 AP) starting traits or elements granted by Paths. The `free Trait` notation is strictly an internal database and backend tag indicating a 0 AP grant. In player documentation and the UI, these are presented as "free Trait" (🧬 Trait (Free) or 🧬 free Trait). Auto-taken and may not be removed without GM approval.
 
 Tremendous🌟 – A natural 20 on any d20 in an ability roll.
 
@@ -911,11 +915,13 @@ Spend your accumulated AP🧩 across 3 structured tiers of progression:
 * **Rule (The What):** Element learning costs follow a strict 4-tier AP cost vector based on two orthogonal dimensions: Path status (`In-Path` vs `Out-of-Path`) and Attribute Requirements (`Meets Req` vs `Unmet Req`):
   1. **1 AP — In-Path & Meets Requirements (`Path & Req`):** Standard learning cost for any In-Path Weapon, Armor, Shield, Power, or Trait. (Skill Sets cost **2 AP**). No GM approval required.
   2. **2 AP — In-Path & Unmet Requirements (`Path, ~Req`):** Surcharge of **+1 AP** for acquiring an In-Path Weapon, Armor, or Shield below attribute requirements. Stats temporarily downscale to current attributes, auto-improve at 0 AP, and the +1 AP surcharge is fully refunded once the requirement is met.
-  3. **3 AP — Out-of-Path & Meets Requirements (`~Path & Req`):** Surcharge of **+2 AP** for cross-training an Element outside known Paths **WITH GM Approval**. Powers and modular Traits outside known Paths also cost **3 AP WITH GM Approval**.
-  4. **4 AP — Out-of-Path & Unmet Requirements (`~Path, ~Req`):** Surcharge of **+3 AP** (+2 AP for `~Path` and +1 AP for `~Req`) **WITH GM Approval**. Stats downscale until requirement is met; +1 AP refunded when attribute requirement is satisfied.
-  5. **Skills Exception:** Individual Skills cost **1 AP** and Skill Sets cost **2 AP** universally. Skills have no requirements and carry no path surcharge or penalty.
-  6. **New Path Acquisition (4 AP + GM Approval):** Unlocking an entire new Path costs **4 AP WITH GM Approval**.
-  7. **🧬 Free Traits (free Trait / 0 AP Free):** Elements designated as free Traits cost **0 AP** to gain as starting grants.
+  3. **3 AP — Universal Path Elements (No GM Approval):** Any element in the `Universal` Path may be learned for **3 AP without GM approval**. (Alternatively, learning the `Universal Path` for **4 AP** reduces all Universal elements to the standard In-Path rate of **1 AP**).
+  4. **3 AP — Out-of-Path & Meets Requirements (`~Path & Req`):** Surcharge of **+2 AP** for cross-training an Element outside known Paths **WITH GM Approval**.
+  5. **4 AP — Out-of-Path & Unmet Requirements (`~Path, ~Req`):** Surcharge of **+3 AP** (+2 AP for `~Path` and +1 AP for `~Req`) **WITH GM Approval**. Stats downscale until requirement is met; +1 AP refunded when attribute requirement is satisfied.
+  6. **Base Path (0 AP Innate):** Every character starts with the `Base Path` (0 AP). Baseline weapon proficiencies (`Brawl`, `Throw Object`, `Improvised Weapon`) and armor (`Unarmored`) cost the standard In-Path rate of **1 AP** for everyone.
+  7. **Skills Exception:** Individual Skills cost **1 AP** and Skill Sets cost **2 AP** universally. Skills have no requirements and carry no path surcharge or penalty.
+  8. **New Path Acquisition (4 AP + GM Approval):** Unlocking an entire new Path costs **4 AP WITH GM Approval** (the Universal Path may be learned for 4 AP without GM approval).
+  9. **🧬 Free Traits (free Trait / 0 AP Free):** Elements designated as free Traits cost **0 AP** to gain as starting grants.
 
 * **Rationale (The Why):** Penalizing Out-of-Path (`~Path` at +2 AP) more heavily than unmet physical requirements (`~Req` at +1 AP) preserves character archetype identity, prevents "class soup" cherry-picking, and maintains the economic value of the 4 AP Path purchase. In SupaFlex, characters earn 2 AP per level. If an out-of-path power, weapon, or trait cost only 2 AP, purchasing two abilities would equal the 4 AP path cost, completely cannibalizing the path progression system. At 3 AP, a single cross-path trick is accessible as a flavor pick, while deeper cross-training naturally incentivizes committing to the 4 AP Path.
 
@@ -944,10 +950,11 @@ Character advancement relies on Horizontal Augments without rigid hierarchical v
 | --- | --- |
 | **In-Path & Meets Req (`Path & Req`)** | • Learn 1 In-Path Weapon, Armor, Shield, Power🔥, or Trait🧬 — **1 AP**<br>• Learn 1 In-Path Skill Set🎓 — **2 AP** |
 | **In-Path & Unmet Req (`Path, ~Req`)** | • Learn In-Path Weapon, Armor, or Shield below requirements *(Stats downscale, auto-improve 0 AP, +1 AP refunded when met)* — **2 AP** (+1 AP Surcharge) |
+| **Universal Path Elements** | • Learn 1 Universal Trait or Power *(NO GM Approval)* — **3 AP**<br>*(Reduces to 1 AP if Universal Path is learned)* |
 | **Out-of-Path & Meets Req (`~Path & Req`)** | • Learn 1 Out-of-Path Weapon, Armor, Shield, Power🔥, or Trait🧬 *(GM Approval)* — **3 AP** (+2 AP Surcharge) |
 | **Out-of-Path & Unmet Req (`~Path, ~Req`)** | • Learn 1 Out-of-Path Weapon, Armor, or Shield below requirements *(GM Approval; Stats downscale, +1 AP refunded when met)* — **4 AP** (+2 AP ~Path + 1 AP ~Req) |
 | **Skills (Universal)** | • Learn 1 Individual Skill🎓 — **1 AP**<br>• Learn 1 Skill Set🎓 — **2 AP** *(Universal, no path or req surcharges)* |
-| **New Paths🧭** | • Learn 1 new complete Path *(GM Approval)* — **4 AP** |
+| **New Paths🧭** | • Learn 1 new complete Path *(4 AP, GM Approval; Universal Path requires no GM Approval)* — **4 AP** |
 | **Powers🔥 Augments** | • Upgrade an existing Power🔥 along 1 Augment Vector — **1 AP**<br>• Randomly roll one Power🔥. If duplicate $\rightarrow$ gain **1 Free Augment Token** — **1 AP** |
 | **Vit❤️** | • Gain +2 Vit❤️ — **1 AP** |
 | **Atr✅** | • Reshuffle (swap some/all of your Atr✅ dice) — **1 AP** *(Downtime / Milestone Level-Up Only)* |
