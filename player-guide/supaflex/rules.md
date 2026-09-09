@@ -72,7 +72,7 @@ The complete SupaFlex game system is structured around the **Trinity of Mechanic
 | **Artifact (`🔮`)** | Functions, Traits, Legendary Powers | Ancient, magical, or alien relics (1–4 Function Slots). Non-commercial market treasure (Cost = `"Artifact"`). Reserved for loot tables and discovery. |
 | **Mod (`🔌`)** | Functions, Traits, Hardware Upgrades | Subordinate gear extension layer (NOT a top-level catalog category). Optional modification, module, or hardware attachment uniquely linked via `belongs_to` to parent gear (Weapons, Armor, Shields, Supplies, Exotics). Carries a financial cost ($g/s$) unless standard factory equipment (`free Trait`). |
 | **Kit (`📦`)** | Supplies, Weapons, Armor, Shields, Exotics, Mods | Master pre-assembled gear package / hardware bundle. Has overall package cost (e.g. `45s`, `120g`). |
-| **Function (`🧿`)** | *(Actionable Rules Execution)* | Tactical equipment ability nearly identical to a Power (`Action`, `Usage`, `Effect`, `Tier`). Consumes Function Slots ($1\text{–}4$). NEVER carries a financial cost ($0s$) and is universally free once the host gear/mod is owned. Belongs to either a `Mod:` or `Gear:`. |
+| **Function (`🧿`)** | *(Actionable Rules Execution)* | Tactical equipment ability nearly identical to a Power (`Action`, `Usage`, `Effect`, `Tier`). Consumes Function Slots ($0\text{–}4$, with `Free ⭕` costing 0 Slots). NEVER carries a financial cost ($0s$) and is universally free once the host gear/mod is owned. Belongs to either a `Mod:` or `Gear:`. |
 | **Trait (`🧬`)** | *(Modular Traits & Physiological Boons)* | Innate biology, physiological boons, tactical modifications, or modular trait hooks queried from the `traits` database table. |
 | **System Rules (`📜`)** | *(Core Game Engine Mechanics)* | Overarching game system rules, core mechanics, combat economy, and resolution engine. |
 
@@ -80,11 +80,11 @@ The complete SupaFlex game system is structured around the **Trinity of Mechanic
 
 1. **🌟 Elements = 🧠 Abilities + ⚙️ Gear:**
    * **🧠 Abilities (Intangible Features):** Unlocked via AP and packaged into **Paths (`🧭`)**. Subdivided into **✅ Attributes**, **🎓 Skills**, **🎓 Skill Sets**, **🔥 Powers**, and **🧬 Traits**.
-   * **⚙️ Gear (Physical Items & Hardware):** Purchased with Gold / Silver or found as treasure. Subdivided into **🎒 Supplies** (mundane tools/consumables, 0 slots), **⚔️ Weapons**, **🥋 Armor**, **🛡️ Shields**, **🧿 Exotics** (extraordinary, 1–4 slots), **🔮 Artifacts** (relics, 1–4 slots, cost = `"Artifact"`), and **🔌 Mods** (subordinate modular attachments).
+   * **⚙️ Gear (Physical Items & Hardware):** Purchased with Gold / Silver or found as treasure. Subdivided into **🎒 Supplies** (mundane tools/consumables, 0 slots), **⚔️ Weapons**, **🥋 Armor**, **🛡️ Shields**, **🧿 Exotics** (extraordinary, 0–4 slots), **🔮 Artifacts** (relics, 1–4 slots, cost = `"Artifact"`), and **🔌 Mods** (subordinate modular attachments).
 
 2. **⚙️ The Dual-State Progression of Gear & Zero-Purgatory Invariant:**
    * **Mundane Gear (`⚙️`):** Standard physical items readily available in the economy (0 Function Slots, no attached Function, cost in $g/s$).
-   * **Exotic (`🧿`):** Any Gear that has OR potentially has (can accept an attached Mod) an actionable tactical **Function (`🧿`)**. This ensures base cyberware frames, modular weapons, and tech suits never sit in purgatory between Supplies and Exotics. Function Slots ($1\text{–}4$) are only consumed when a Function is actively installed and readied on the character sheet.
+   * **Exotic (`🧿`):** Any Gear that has OR potentially has (can accept an attached Mod) an actionable tactical **Function (`🧿`)**. This ensures base cyberware frames, modular weapons, and tech suits never sit in purgatory between Supplies and Exotics. Function Slots ($0\text{–}4$) are only consumed when a Function is actively installed and readied on the character sheet (`Free ⭕` costs 0 slots).
    * **Artifact (`🔮`):** Legendary or unique relics possessing one or more **Functions (`🧿`)** (occupying 1–4 Function Slots, cost = `"Artifact"`).
    * **Mod Reversion & Detachment:** If an Exotic item has its Functions or Mods detached or removed, it reverts to standard baseline Gear. A Mod has no standalone utility or market existence apart from its host gear.
    * **Commercial Non-Purchasability of Artifacts:** Any item carrying `cost: "Artifact"` is strictly excluded from commercial retail catalogs and store purchases. Artifacts are acquired exclusively through discovery, GM rewards, and loot tables.
@@ -102,7 +102,7 @@ The complete SupaFlex game system is structured around the **Trinity of Mechanic
 
 4. **⚔️ Weapons, 🥋 Armor, and 🛡️ Shields as Gear:**
    * Weapons, Armor, and Shields are all categories of **Gear (`⚙️`)**.
-   * Standard weapons, armor, and shields are baseline **Gear (`⚙️`)** (0 Function Slots). Specialized, high-tech, or enchanted versions exist as **Exotics (`🧿`)** (occupying 1–4 Function Slots) or can accept **Mods (`🔌`)**.
+   * Standard weapons, armor, and shields are baseline **Gear (`⚙️`)** (0 Function Slots). Specialized, high-tech, or enchanted versions exist as **Exotics (`🧿`)** (occupying 0–4 Function Slots) or can accept **Mods (`🔌`)**.
    * **Default Gear Possession Rule:** When a character learns or becomes skilled in a new weapon, armor, or shield (via starting Path or AP advancement), the default system rule is that they are assumed to possess the physical item as standard Gear (`⚙️`) (unless the GM determines otherwise based on campaign tone and narrative context).
 
 5. **🔌 Mods vs. 🧿 Functions Canonical Invariants:**
@@ -112,10 +112,10 @@ The complete SupaFlex game system is structured around the **Trinity of Mechanic
      * *Mundane Specs:* Houses non-tactical, descriptive, or mechanical notes that do not belong on the base chassis and do not consume combat Function Slots (e.g. *Microgrenade Fitting*, *Compensators*, *Macro Zoom*).
      * *Parentage:* Always belongs to one or more Gear items via `belongs_to: "Gear: [Item]"`, `belongs_to: "Weapon: [Name]"`, or `belongs_to: "Armor: [Suit]"`.
    * **Functions (`🧿`) = Rules-Engine Execution & Slot Bandwidth Layer:**
-     * *Combat Rules Execution:* Actionable encounter abilities (`Action`, `Usage`, `Effect`, `Tier`) nearly identical to Powers, drawn from Function Slots (`🍺 Minor 1`, `🪄 Lesser 2`, `🪬 Greater 3`, `💫 Epic 4`).
+     * *Combat Rules Execution:* Actionable encounter abilities (`Action`, `Usage`, `Effect`, `Tier`) nearly identical to Powers, drawn from Function Slots (`Free ⭕ 0`, `Minor 🍺 1`, `Lesser 🪄 2`, `Greater 🪬 3`, `Epic 💫 4`).
      * *Zero Financial Cost:* NEVER carries a financial cost ($g/s$). The `cost` column is permanently eliminated from databases and spreadsheets.
      * *Universally Free:* Possessing the granting Gear or Mod automatically unlocks the Function. The `free Trait` tag is redundant on Functions and is stripped.
-     * *Canonical Tier vs. Derived Slot Weight (Strict DRY):* The database and sheets exclusively store canonical `tier` (`Minor 🍺`, `Lesser 🪄`, `Greater 🪬`, `Epic 💫`). Numeric slot weight (1–4) is derived dynamically at runtime via `getTierSlotWeight()`.
+     * *Canonical Tier vs. Derived Slot Weight (Strict DRY):* The database and sheets exclusively store canonical `tier` (`Free ⭕`, `Minor 🍺`, `Lesser 🪄`, `Greater 🪬`, `Epic 💫`). Numeric slot weight (0–4) is derived dynamically at runtime via `getTierSlotWeight()`.
      * *Clean Single Parentage:* A Function belongs to EITHER a Mod (`belongs_to: "Mod: [ModName]"`) OR directly to Gear (`belongs_to: "Gear: [ItemName]"`) — NEVER both. If an item has a Mod, the Function links to the Mod, and the Mod links to the Gear.
 
 6. **🌐 Equipment Domains & Single-Domain Database Invariant (The Living Triad):**
@@ -144,6 +144,11 @@ The complete SupaFlex game system is structured around the **Trinity of Mechanic
    * **Rule (The What):** Specialty arrow and crossbow bolt ammunition MUST be authored and sold as individual discrete tips (`Tip: ...`), with inherent tactical functions applicable to both bow arrows and crossbow bolts. Synthetic bundled quiver entries (e.g. `Specialty Arrows Quiver`) are strictly prohibited.
    * **Rationale (The Why):** Archery reality and table feel center on selecting and threading specific tactical tips onto standardized shafts from a shared quiver. Selling discrete tips allows archers to curate a custom quiver mixture of utility tips (e.g. 3 Exploding, 2 Harpoon, 1 Smoke) rather than being locked into rigid monoculture quivers.
    * **Failure Mechanism (The What Breaks):** Forcing quivers as base gear requires complex mod-swapping logic, inflates cost barriers for archers wanting situational utility arrows, and prevents realistic quantity tracking of individual tip expenditures during combat.
+
+10. **⭕ The "Free ⭕" Tier Mandate (The Living Triad):**
+    * **Rule (The What):** Equipment functions classified as `Free ⭕` occupy exactly **0 Function Slots** against active character Loadout Capacity. The canonical database string and UI tier label is strictly `Free ⭕`.
+    * **Rationale (The Why):** Essential mundane utilities (such as emergency rebreathers, atmospheric scrubbers, field transceivers/communicators, basic flashlights, and simple handyman tools) represent baseline narrative competencies rather than tactical combat supremacy. Forcing players to spend limited combat Function Slots on basic survival tools leads to unrealistic metagaming where heroes neglect basic survival gear in favor of pure weapon buffs.
+    * **Failure Mechanism (The What Breaks):** Taxing minor ribbon functions with a 1-slot penalty inflates character loadout limits, distorts combat balance, and clutters the Function Vault with non-tactical overhead.
 
 6. **📜 Global System Rules vs. 🧬 Character Traits:**
    * **Rule (The What):** Global System Rules (`📜`) represent the macro game engine, core resolution mechanics, combat economy, and overarching rules of SupaFlex (found in this `.md` Source of Truth and on the VitePress Player Guide). Character Traits (`🧬`) represent modular, individual character features, tactical boons, and physiological rules queried from Supabase and equipped on the Character Sheet.
@@ -314,7 +319,7 @@ Equipment🧰 – Legacy synonym for Gear⚙️.
 
 Exclusive Stacking Master Rule – The +1 tactical bonus from beating ALL opponents' Initiative (Nish 🚩) and the +1 bonus from being in the Fully Sparked state (⚡) stack with each other AND stack with nearly all other rolls (subject to GM discretion). ALL other bonuses, buffs, power amplifiers, and numerical modifiers DO NOT STACK unless an ability explicitly states "stacks with..." or with explicit GM approval. When multiple passive buffs or powers offer competing modifiers to the same roll or trait, only the single highest value applies.
 
-Exotic🧿 / Exotics🧿 – Any Gear that has OR potentially has (can accept an attached Mod) an actionable tactical Function🧿 or Trait🧬. Occupies 1–4 Function Slots on the character sheet based on tier (🍺 Minor: 1 Slot, 🪄 Lesser: 2 Slots, 🪬 Greater: 3 Slots, 💫 Epic: 4 Slots) when actively readied, and is purchasable with Gold or Silver ($g/s$).
+Exotic🧿 / Exotics🧿 – Any Gear that has OR potentially has (can accept an attached Mod) an actionable tactical Function🧿 or Trait🧬. Occupies 0–4 Function Slots on the character sheet based on tier (⭕ Free: 0 Slots, 🍺 Minor: 1 Slot, 🪄 Lesser: 2 Slots, 🪬 Greater: 3 Slots, 💫 Epic: 4 Slots) when actively readied, and is purchasable with Gold or Silver ($g/s$).
 
 Ext Rng (Extended/Long Range) – A greater range (at disadvantage) that a weapon, ability, or item can reach.
 
@@ -1937,10 +1942,11 @@ SupaFlex eliminates weight math, bulk values, and movement rate penalties. A cha
 * **Mundane Gear (`⚙️` 0 Slots):** Standard utility items, weapons, armor, and shields providing narrative permissions and baseline combat stats without consuming Function Slots.
 * **0-Slot Utility Functions (`⚙️` 0 Slots):** Environmental, sensory, and life-support functions (such as Atmospheric Recycler, Thermal Regulator, Radiation Scrubber, Sub-Dermal Comms, Flashlight Beam) retain explicit Action codes (`[P]`, `[M]`, etc.), Usage frequencies (`Continuous`, `1-Enc`), and mechanical rules effects, but cost **0 Function Slots** against active Loadout Capacity.
 
-#### The 4 Standard Function Tiers
-
+#### The 5 Standard Function Tiers
+ 
 | Function Tier | Slot Cost | Tactical Capability & Complexity | Typical Item Examples |
 | :---: | :---: | :--- | :--- |
+| **`⭕ Free`** | **0 Slots** | Mundane field utilities, environmental survival, non-combat sensory tools, and communications. | *Atmospheric Air Filter*, *Communicator*, *Candle Spark*, *DeCipher*, *Bioluminescent Glow*. |
 | **`🍺 Minor`** | **1 Slot** | Localized tactical utility, single activations, and handy field conveniences. | *Wand of Sparks*, *Stun Baton*, *Plasma Torch*, *Night-Vision Lens*. |
 | **`🪄 Lesser`** | **2 Slots** | Substantial encounter-altering mobility, protection, or automated utility. | *Boots of Speed*, *Personal Deflector Shield*, *AeroJet Thrusters*, *Optical Camo*. |
 | **`🪬 Greater`** | **3 Slots** | Multi-target, high-damage, or encounter-defining combat and tactical systems. | *Flaming Greatsword*, *Heavy Combat Drone*, *Mil-Spec Exosuit*. |

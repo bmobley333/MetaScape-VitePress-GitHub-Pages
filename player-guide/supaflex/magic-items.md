@@ -3,6 +3,13 @@
 Index of purchasable Exotics (🧿) and treasure Artifacts (🔮) derived from master functions and equipment.
 
 
+## **🔮 ⭕ Free Artifacts (Found Treasure Loot)**
+
+| Usage | Action | Function | Item Source | Effect |
+| --- | --- | --- | --- | --- |
+| 1-Enc | P | **Candle Spark** | Candle Spark | Create small flame; ignite torches or campfires. |
+| 2-Enc | P | **Antigrav Cargo Suspension (mso)** | Suspensor Belt (mso) | Antigravity field; suspends up to 2 tons. |
+
 ## **🔮 🍺 Minor Artifacts (Found Treasure Loot)**
 
 | Usage | Action | Function | Item Source | Effect |
@@ -14,11 +21,11 @@ Index of purchasable Exotics (🧿) and treasure Artifacts (🔮) derived from m
 | 2-Enc | P | **Stealth Vehicle Transit (mso)** | ATV Tumbler (mso) | All-terrain stealth vehicle; 👣 18; Stealth 🏃. |
 | 2-Enc | P | **Vertical Levitation Drift (mso)** | Boots of Levitation (mso) | Levitate vertically 👣 5. |
 | 1-Enc | M | **Vacuum Buoyancy Ascent (mso)** | Buoyancy Cylinders (mso) | Water buoyancy; float to surface. |
-| 1-Enc | P | **Candle Spark** | Candle Spark | Create small flame; ignite torches or campfires. |
 | 1-⚡ | F | **Charm Bands** | Charm Bands | 👁️ and ✨ rolls gain Advantage for 1 Rnd. |
 | 1-Enc | P | **Charm of Balance** | Charm of Balance | Motion🏃 roll with Advantage to stay upright. |
 | 2-Enc | P | **Instant Armor Equipping (mso)** | Circlet of Armor Store (mso) | Instant store or equip armor. |
 | 1-Enc | F | **Circus Cloak - Hidden Pockets** | Circus Cloak - Hidden Pockets | Advantage on Mind👁️ Sleight of Hand checks. |
+| 1-Enc | P | **Concealed Dagger** | Concealed Dagger | Gain Advantage on 1 Atk this Rnd. |
 | 2-Enc | P | **High-Speed Leg Actuation (mso)** | Cyber Legs, Speed (mso) | High-mobility prosthetics; 👣+6. |
 | 2-Enc | P | **Reinforced Leg Piston (mso)** | Cyber Legs, Strength (mso) | Reinforced prosthetics; 💪+4 to leg/jump checks. |
 | 1-Enc | P | **Cyber X-Ray Eye** | Cyber X-Ray Eye | 👁️+ or skill to penetrate substance for viewing; requires existing cyber eye. |
@@ -89,7 +96,6 @@ Index of purchasable Exotics (🧿) and treasure Artifacts (🔮) derived from m
 | 1-Enc | A | **Stolen Iron Manacles** | Stolen Iron Manacles | On capture (Brawl Atk with at least 1 Wound); foe is Immobilized until Might💪 check succeeds. |
 | 1-⚡ | P | **Stone Beetle** | Stone Beetle | Wind-up bug; follows you for 30 minutes, marking route with feint green glow. |
 | 1 | P | **Sunpetal Brooch Healing** | Sunpetal Brooch | On use; Heal self 1 Vit and emit light 2sq for 1 Enc. |
-| 2-Enc | P | **Antigrav Cargo Suspension (mso)** | Suspensor Belt (mso) | Antigravity field; suspends up to 2 tons. |
 | 2-Enc | M | **Temporal Spray** | Temporal Spray | Rng Short; 🏃 Atk; on hit, target temporal delay gives all allies Advantage on rolls^target for Encounter. |
 | 2-Enc | P | **Stealth Infiltration Transit (mso)** | The Wraith (mso) | Stealth vehicle; 👣 20; Adv(Stealth🏃). |
 | 2-Enc | P | **Solar Blinding Flash (mso)** | Tiara of Light (mso) | Rng Long; searing daylight burst; Save ✨^20 or Blinded. |
@@ -239,7 +245,6 @@ Index of purchasable Exotics (🧿) and treasure Artifacts (🔮) derived from m
 | 1-⚡ | A | **Clockwork [Ranged Weapon]** | Clockwork [Ranged Weapon] | Fire twice. |
 | 1-⚡ | A | **Codex of All Names** | Codex of All Names | Speak target's true name: all rolls +2^target for Encounter. |
 | 1-Enc | P | **Compass of True North** | Compass of True North | Always points to chosen destination for Encounter. |
-| 1-Enc | P | **Concealed Dagger** | Concealed Dagger | Gain Advantage on 1 Atk this Rnd. |
 | 2-Enc | A | **Crescent [Weapon]** | Crescent [Weapon] | Dod+2 for 1 Rnd. |
 | 1-Enc | A | **Crossbow of the Alley** | Crossbow of the Alley | Make 1 Ranged Atk; ignoring cover and any Atk Disadvantage. |
 | 1-⚡ | A | **Beasts** | Crown of Beasts | Summon 1d4+1 beast allies uses PC's stats (Vit d✨+6 each) for Encounter. |
