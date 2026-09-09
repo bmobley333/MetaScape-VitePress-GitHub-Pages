@@ -28,8 +28,6 @@ outline: 2
 
 🎯 KISS & Data De-Duplication – Keep It Simple & Single-source-of-truth. Never duplicate database-backed tables (Weapons, Armor, Shields, Gear, Powers, Magic Items, Skill Sets, Monsters, and Treasure) as static text in markdown rules documents; query Supabase or link to interactive catalogs to maintain single-source-of-truth DRY alignment.
 
-📇 Character Card 2-Row Layout Standard – Character selection cards (`UnifiedLaunchHubModal.tsx`) MUST enforce a 2-column flexbox grid layout (`flex items-center justify-between gap-3`), placing Name and Badges in the left column (Rows 1 & 2) and the `Active Hero` badge and Edit/Delete buttons in the right column (Rows 1 & 2) to eliminate vertical overlapping.
-
 🔄 Standardized Usage Options – All usage dropdowns, database entries, and ability definitions across SupaFlex enforce this exact 9-option list and order: `1`, `2`, `3`, `1-⚡`, `1-🍀`, `1-Enc`, `2-Enc`, `3-Enc`, `1-Rnd`.
 
 ### 🏛️ System Taxonomy: Paths, Kits, Elements, Gear & Abilities
@@ -86,13 +84,13 @@ The complete SupaFlex game system is structured around the **Trinity of Mechanic
 
 2. **⚙️ The Dual-State Progression of Gear & Zero-Purgatory Invariant:**
    * **Mundane Gear (`⚙️`):** Standard physical items readily available in the economy (0 Function Slots, no attached Function, cost in $g/s$).
-   * **Exotic (`🧿`):** Any Gear that has OR potentially has (can accept via Supabase `belongs_to`) an actionable tactical **Function (`🧿`)**. This ensures base cyberware frames, modular weapons, and tech suits never sit in purgatory between Supplies and Exotics. Function Slots ($1\text{–}4$) are only consumed when a Function is actively installed and readied on the character sheet.
+   * **Exotic (`🧿`):** Any Gear that has OR potentially has (can accept an attached Mod) an actionable tactical **Function (`🧿`)**. This ensures base cyberware frames, modular weapons, and tech suits never sit in purgatory between Supplies and Exotics. Function Slots ($1\text{–}4$) are only consumed when a Function is actively installed and readied on the character sheet.
    * **Artifact (`🔮`):** Legendary or unique relics possessing one or more **Functions (`🧿`)** (occupying 1–4 Function Slots, cost = `"Artifact"`).
    * **Mod Reversion & Detachment:** If an Exotic item has its Functions or Mods detached or removed, it reverts to standard baseline Gear. A Mod has no standalone utility or market existence apart from its host gear.
    * **Commercial Non-Purchasability of Artifacts:** Any item carrying `cost: "Artifact"` is strictly excluded from commercial retail catalogs and store purchases. Artifacts are acquired exclusively through discovery, GM rewards, and loot tables.
 
 3. **🧭 Paths vs. 📦 Kits Taxonomy:**
-   * **Paths (`🧭`):** Intangible character identity and capability suites (Race Paths, Class Paths, Discipline Paths, Specialization Paths, Martial Proficiencies). Unlocked via AP and character creation. Hallmark starting traits use internal curly-brace notation: `{Perk}` indicating 0 AP starting grants (presented in UI and player docs as free Traits). The term "Kit" is strictly prohibited when discussing character capabilities or packages.
+   * **Paths (`🧭`):** Intangible character identity and capability suites (Race Paths, Class Paths, Discipline Paths, Specialization Paths, Martial Proficiencies). Unlocked via AP and character creation. Hallmark starting traits use internal curly-brace notation: `free Trait` indicating 0 AP starting grants (presented in UI and player docs as free Traits). The term "Kit" is strictly prohibited when discussing character capabilities or packages.
    * **Kits (`📦`):** Rare, tangible manufactured equipment bundles and specialized field hardware (e.g. *Engineer Tool Kit (mso)*, *Field Repair Kit*, *Trauma Kit*, *Survival Kit*). Purchased with Gold / Silver ($g / s$) or acquired as treasure. Included hardware components carry the `{Free}` tag.
    * **Starting Paths:** Every character starts with 2 Learned Paths: **Race Path (`🧭`)** and **Class Path (`🧭`)**.
    * **Learning New Paths:** Beyond starting paths, additional Paths may be learned for **4 AP WITH GM Approval**.
@@ -141,33 +139,6 @@ The complete SupaFlex game system is structured around the **Trinity of Mechanic
    * **Rule (The What):** Specialty arrow and crossbow bolt ammunition MUST be authored and sold as individual discrete tips (`Tip: ...`), with inherent tactical functions applicable to both bow arrows and crossbow bolts. Synthetic bundled quiver entries (e.g. `Specialty Arrows Quiver`) are strictly prohibited.
    * **Rationale (The Why):** Archery reality and table feel center on selecting and threading specific tactical tips onto standardized shafts from a shared quiver. Selling discrete tips allows archers to curate a custom quiver mixture of utility tips (e.g. 3 Exploding, 2 Harpoon, 1 Smoke) rather than being locked into rigid monoculture quivers.
    * **Failure Mechanism (The What Breaks):** Forcing quivers as base gear requires complex mod-swapping logic, inflates cost barriers for archers wanting situational utility arrows, and prevents realistic quantity tracking of individual tip expenditures during combat.
-
-### ⚔️ Dual-Role Architecture: Supabase Weapons, Armor & Shields (Abilities vs. Physical Equipment)
-In SupaFlex, the Supabase database tables `weapons`, `armor`, and `shields` fulfill a deliberate **Dual Role** across the application architecture, serving as the single source of truth for both character combat capabilities and physical inventory/commerce:
-1. **The Ability Role (Combat Cards: WeaponsCard, ArmorCard, ShieldCard):**
-   * Entries track martial competence and combat capability unlocked or trained on the character sheet.
-   * Consumes ability fields: `requirement`, `atk` (Attack die), `dmg` (Damage die), `max_block` (Block cap), `ar` (Armor rating), `mr` (Movement Rate modifier), and `sk` (Skilled status).
-   * Governed by AP investment, advancement, and active readiness in combat encounters.
-2. **The Equipment & Commerce Role (Gear Card & Gear Manager Modal):**
-   * Entries track physical merchandise, market commerce, and inventory custody carried by the adventurer.
-   * Consumes equipment & commerce fields: `cost` (Monetary price in gold `g` or silver `s`), `name`, `notes` (Lore, physical description, and special properties), `genres` (Setting availability), `pic` (Visual iconography), and `is_guildspace_locked` (Vault access control).
-   * Governed by monetary transactions via `deductFundsWithChange`, quantity tracking (`qty`), and inventory valuation (`calculateInventoryValue`) inside `simple_gear`.
-   * **Clean Separation:** Purchasing physical weapons, armor, or shields in the **Gear Manager** adds them to the character's gear inventory for ownership tracking; it does not alter or grant combat abilities or skilled ratings in `WeaponsCard`, `ArmorCard`, or `ShieldCard`, preserving strict separation between physical possession and martial training.
-
-3. **🥋 Martial Skill Cards (`Weapon SK`, `Armor SK`, `Shield SK`) vs. 🎒 Physical Gear Ownership (`simple_gear`) Strict Separation Mandate (Triad Format):**
-   * **Rule (The What):** The cards on the main character sheet—**`Weapon SK`**, **`Armor SK`**, and **`Shield SK`** (`WeaponsCard.tsx`, `ArmorCard.tsx`, `ShieldCard.tsx`)—govern martial competence, proficiency status, attack/damage dice, and AP investment **ONLY**. They have **ZERO relation to physical gear ownership, custody, or hardware modifications**. All physical item ownership, custody, monetary commerce, hardware mods (`SB_Mods`), and hardware functions (`SB_Functions`) live **EXCLUSIVELY in `simple_gear` (Equipped Gear in the Gear Manager, `GearCard.tsx`)**. Automated function vault synchronizers and inventory calculators must **NEVER** query or conflate `armor_slot`, `wardrobe`, `weapon_slots`, or `shield_slots`. All hardware functions and compatible mods stem strictly from physical items present in `simple_gear`.
-   * **Rationale (The Why):** Decoupling martial ability training from physical item commerce prevents phantom gear generation, protects character wallet integrity, and ensures that hardware function slots are powered only by physical objects actually carried by the hero.
-   * **Failure Mechanism (The What Breaks):** Conflating martial skills with physical gear causes un-purchased equipment to grant hardware functions, breaks inventory valuation, and creates desynchronization between player wallets, carried gear, and combat training cards.
-
-4. **⚙️ Hardware Mods & Function Vault Reconciliation Protocol (Triad Format):**
-   * **Rule (The What):** Inherent `{Free}` and purchased mods attached to physically owned gear in `simple_gear` must immediately populate their tactical combat functions (`SB_Functions`) into `character_vault` and appear in the character's **Function Vault** inside the **Functions Manager** (`AbilitySlotsGrid.tsx`). In the Gear Manager's Equipped Gear view (`GearCard.tsx`), installed mod badges must strictly display **"Installed"** (omitting redundant "{Free}" badges). Uninstalled mod buttons must be labeled **`+Mod [cost]`** (displaying formatted gold `g` and silver `s` price) and match that mod row's text color (e.g. indigo for standard, purple for MSO). Clicking `+Mod [cost]` must deduct the monetary cost from player currency via `deductFundsWithChange` and trigger instant vault reconciliation.
-   * **Rationale (The Why):** Transparent mod pricing and color-coded buttons provide immediate affordance and dyslexia-friendly UI clarity. Instant automated reconciliation ensures that whenever gear with inherent or acquired mods is loaded or purchased, heroes immediately have tactical access to their hardware functions without manual synchronization or configuration steps.
-   * **Failure Mechanism (The What Breaks):** Inconsistent button styling confuses affordance; failing to deduct money corrupts campaign economy; and lack of reactive synchronization leaves the Function Vault devoid of equipment-granted abilities (e.g., Destron Armor having 6 inherent mods but 0 available functions).
-
-5. **🧬 Traits (`🧬`) & Inherent Free Traits (`{Perk}`):**
-   * **Rule (The What):** The term **Trait (`🧬`)** designates modular capabilities, physiological features, tactical boons, and biological traits queried from the `traits` database table. Inherent starting grants (from Race Paths or Class Paths) cost **0 AP (Free)** to gain and are tagged internally in the database with `{Perk}`. In the user interface and player documentation, unbudgeted starting traits are always labeled **"free Trait"** (or `🧬 Trait (Free)` / `🧬 free Trait`). The internal token "Perk" is strictly forbidden from player-facing presentation. Inherent free traits are auto-taken upon selecting a Path and may not be removed without GM approval.
-   * **Rationale (The Why):** Consolidating "Spec Rules" into "Traits" simplifies taxonomy across the character sheet, aligns with intuitive RPG terminology, and eliminates confusion between overarching systemic game rules (`📜`) and individual character traits (`🧬`). Scoping `{Perk}` strictly to internal database syntax prevents naming collisions with the Trait entity while maintaining clean 0 AP budget enforcement.
-   * **Failure Mechanism (The What Breaks):** If "Perk" leaks into player-facing UI or documentation, it creates cognitive friction, breaks dyslexic-friendly UI consistency, and violates player expectations. If 0 AP starting traits are not protected, players could inadvertently delete foundational racial biology or class requirements.
 
 6. **📜 Global System Rules vs. 🧬 Character Traits:**
    * **Rule (The What):** Global System Rules (`📜`) represent the macro game engine, core resolution mechanics, combat economy, and overarching rules of SupaFlex (found in this `.md` Source of Truth and on the VitePress Player Guide). Character Traits (`🧬`) represent modular, individual character features, tactical boons, and physiological rules queried from Supabase and equipped on the Character Sheet.
@@ -338,7 +309,7 @@ Equipment🧰 – Legacy synonym for Gear⚙️.
 
 Exclusive Stacking Master Rule – The +1 tactical bonus from beating ALL opponents' Initiative (Nish 🚩) and the +1 bonus from being in the Fully Sparked state (⚡) stack with each other AND stack with nearly all other rolls (subject to GM discretion). ALL other bonuses, buffs, power amplifiers, and numerical modifiers DO NOT STACK unless an ability explicitly states "stacks with..." or with explicit GM approval. When multiple passive buffs or powers offer competing modifiers to the same roll or trait, only the single highest value applies.
 
-Exotic🧿 / Exotics🧿 – Any Gear that has OR potentially has (can accept via Supabase `belongs_to`) an actionable tactical Function🧿 or Trait🧬. Occupies 1–4 Function Slots on the character sheet based on tier (🍺 Minor: 1 Slot, 🪄 Lesser: 2 Slots, 🪬 Greater: 3 Slots, 💫 Epic: 4 Slots) when actively readied, and is purchasable with Gold or Silver ($g/s$).
+Exotic🧿 / Exotics🧿 – Any Gear that has OR potentially has (can accept an attached Mod) an actionable tactical Function🧿 or Trait🧬. Occupies 1–4 Function Slots on the character sheet based on tier (🍺 Minor: 1 Slot, 🪄 Lesser: 2 Slots, 🪬 Greater: 3 Slots, 💫 Epic: 4 Slots) when actively readied, and is purchasable with Gold or Silver ($g/s$).
 
 Ext Rng (Extended/Long Range) – A greater range (at disadvantage) that a weapon, ability, or item can reach.
 
@@ -400,7 +371,7 @@ Nish🚩 (Initiative) – Determines turn order in combat.
 
 Opp Atk (Opportunity Attack) – An F action basic reaction attack using only the weapon in hand.
 
-Path(s)🧭 – Intangible character capability and identity suites (Race Paths, Class Paths, Discipline Paths, Specialization Paths). Unlocked via AP and character creation. Inherent starting traits carry the internal `{Perk}` tag (presented in UI and docs as free Traits).
+Path(s)🧭 – Intangible character capability and identity suites (Race Paths, Class Paths, Discipline Paths, Specialization Paths). Unlocked via AP and character creation. Inherent starting traits carry the internal `free Trait` tag (presented in UI and docs as free Traits).
 
 PC (Player Character) – A player-controlled character.
 
@@ -436,7 +407,7 @@ Stats – All recorded values: Atr, Vit, MR, Def, Atk, Block Cap, Actions, Usage
 
 Trait(s)🧬 – Modular traits, physiological boons, tactical modifications, and innate capabilities queried from the `traits` database table.
 
-Free Trait(s)🧬 ({Perk}) – AP FREE (0 AP) starting traits or elements granted by Paths. The `{Perk}` notation is strictly an internal database and backend tag indicating a 0 AP grant. In player documentation and the UI, these are presented as "free Trait" (🧬 Trait (Free) or 🧬 free Trait) and NEVER as "Perk". Auto-taken and may not be removed without GM approval.
+Free Trait(s)🧬 (Free) – AP FREE (0 AP) starting traits or elements granted by Paths. The `free Trait` notation is strictly an internal database and backend tag indicating a 0 AP grant. In player documentation and the UI, these are presented as "free Trait" (🧬 Trait (Free) or 🧬 free Trait) and NEVER as "Perk". Auto-taken and may not be removed without GM approval.
 
 Tremendous🌟 – A natural 20 on any d20 in an ability roll.
 
@@ -878,7 +849,6 @@ Special AP Expenditures (1–8 AP):
 :::
 <!-- /popover:leveling.advancement_steps -->
 
-
 ### Advancement Philosophy
 
 Incremental, not exponential → Growth comes from new tricks, not huge Powers🔥 spikes.
@@ -913,7 +883,6 @@ Special AP Expenditures (1–8 AP):
 • Gain Capstone Ability — Learn Heroic Capstone (5–8 AP)
 <!-- /rule:leveling.advancement_steps -->
 
-
 ### 🎲 Step 2 — Vit❤️ Roll
 
 All of Step 2 below is AP🧩 free and costs no AP🧩.
@@ -946,7 +915,7 @@ Spend your accumulated AP🧩 across 3 structured tiers of progression:
   4. **4 AP — Out-of-Path & Unmet Requirements (`~Path, ~Req`):** Surcharge of **+3 AP** (+2 AP for `~Path` and +1 AP for `~Req`) **WITH GM Approval**. Stats downscale until requirement is met; +1 AP refunded when attribute requirement is satisfied.
   5. **Skills Exception:** Individual Skills cost **1 AP** and Skill Sets cost **2 AP** universally. Skills have no requirements and carry no path surcharge or penalty.
   6. **New Path Acquisition (4 AP + GM Approval):** Unlocking an entire new Path costs **4 AP WITH GM Approval**.
-  7. **🧬 Free Traits ({Perk} / 0 AP Free):** Elements designated as free Traits cost **0 AP** to gain as starting grants.
+  7. **🧬 Free Traits (free Trait / 0 AP Free):** Elements designated as free Traits cost **0 AP** to gain as starting grants.
 
 * **Rationale (The Why):** Penalizing Out-of-Path (`~Path` at +2 AP) more heavily than unmet physical requirements (`~Req` at +1 AP) preserves character archetype identity, prevents "class soup" cherry-picking, and maintains the economic value of the 4 AP Path purchase. In SupaFlex, characters earn 2 AP per level. If an out-of-path power, weapon, or trait cost only 2 AP, purchasing two abilities would equal the 4 AP path cost, completely cannibalizing the path progression system. At 3 AP, a single cross-path trick is accessible as a flavor pick, while deeper cross-training naturally incentivizes committing to the 4 AP Path.
 
@@ -1064,7 +1033,6 @@ Action:
 
 :::
 <!-- /popover:skills.basics -->
-
 
 ### 🎓 Skills
 
@@ -1185,7 +1153,6 @@ Blocking Melee:
 
 :::
 <!-- /popover:weapons.basics -->
-
 
 ### 🎯 Weapon Requirements, Downscaling & AP Refunding
 
@@ -1369,7 +1336,6 @@ Movement Rate (MR 👣) Penalty:
 :::
 <!-- /popover:col.shields.block -->
 
-
 All Armor’s Defense (Dod/AR or Blk/AR): Dodge 🤸 = Motion🏃, Block 🧱 = Might💪.
 
 Shields🛡️ provide a Block Cap🧱 rating, which functions the same as weapon⚔️ Block Cap (it applies to any attack that “could” be Dodged, if the shield’s Block Cap🧱 is ≥ the monster’s Dmg💥).
@@ -1433,7 +1399,6 @@ Bleeding:
 
 :::
 <!-- /popover:vitality.death_checks -->
-
 
 Monster Declares Atk⚔️.
 
@@ -1681,7 +1646,6 @@ How often an ability (Power🔥 or Magic Item✨) can be used:
 - **Pavlovian Random Anticipation:** Because a player could gain multiple Charges in a single round from exploding dice, players never know exactly when a full Spark (⚡) will hit, driving engagement.
 - **Active Play Incentive:** Directly rewards active participation in encounters (taking actions, making rolls, and Focusing to trigger exploding dice).
 
-
 ### 🔷 Actions
 
 Every combat round, each character receives an action allocation of **1 Attack (A)**, **1 Move (M)**, and **1 Partial (P)**, plus **Unlimited Free (F)** actions (within GM reason). These action channels are never interchangeable (you cannot trade an A or M for a P).
@@ -1700,7 +1664,6 @@ Every combat round, each character receives an action allocation of **1 Attack (
 * **Standard Attack & Move Sequence:** If you do not make an Attack (A), you may freely pause and resume your Move (M) (move $\rightarrow$ pause $\rightarrow$ move). However, taking an Attack (A) action immediately concludes your turn's movement; any unused Movement Rate (MR) is forfeit.
 * **Mobile Striker Clause:** Specialized Move (M) or Partial (P) powers or items can explicitly grant split-movement ("You may split your movement before and after this attack"), providing tactical identity for mobility builds.
 * **Skill Action Cost:** Skills🎓 default to a Partial (P) action unless an ability or GM specifies Free (F). GM-initiated awareness or perception checks are always Free (F).
-
 
 Examples of Partial (P) Actions:
 
@@ -1808,7 +1771,6 @@ When abilities affect multiple squares or areas, they strictly enforce standard,
 > [!IMPORTANT]
 > **Strict Prohibition of Cones**
 > Traditional tabletop "cones" are strictly prohibited in SupaFlex to eliminate ambiguous grid templates, table arguments, and diagonal-edge disputes. All spread or sweeping effects are cleanly represented as rectangular footprints (e.g., a fiery breath or shotgun spray is standardized as a `3x6` rectangle).
-
 
 ## 💀 Hazards / Afflictions
 
@@ -1926,15 +1888,46 @@ SupaFlex eliminates weight math, bulk values, and movement rate penalties. A cha
                                                 (Ready 1–4 Slots to Live Sheet)
 ```
 
-### 1. The Functions Vault vs. Active Function Slots
+### 1. The Functions Vault vs. Active Function Slots & Dual Combat Stances
 * **The Functions Vault (📦):** An unlimited repository where inactive Functions rest when not readied for immediate combat or encounter use.
 * **Active Function Slots (🧿):** The equipment abilities actively integrated and available for tactical execution. Every character begins with **4 Function Slots** (0 AP) at Level 1 and can expand capacity using the uncapped soft-slope AP schedule.
 * **Breather Swap:** Characters may freely swap functions between their Vault and active Function Slots during any **5-minute out-of-combat breather**.
 
+#### Non-Destructive Vault Repertoire & Dual-Stance Assignment Invariant
+* **Rule (The What):** The Functions Vault (`character_vault`) functions strictly as a character's **permanent hardware repertoire** (analogous to a wizard's known spellbook or an engineer's installed blueprint archive). Equipping a function into Stance Alpha (`spell_slots`) or Stance Beta (`stance_beta_slots`) **never deletes or removes** the function from the Vault. The identical function may be equipped into **both Stance Alpha and Stance Beta** simultaneously. Unequipping a function from an active stance removes it from that stance's combat slots while leaving it safely preserved in the Vault.
+* **Rationale (The Why):** If equipping a function deleted it from the Vault, a player could never include their favorite primary attack or core defensive function in both combat stances (Alpha and Beta). Furthermore, accidental unequip actions would permanently destroy equipment abilities, leading to catastrophic character sheet data loss and player frustration.
+* **Failure Mechanism (The What Breaks):** Destructive vault operations force players to choose which stance gets an essential function, breaking seamless mode switching (e.g. losing an active force shield or primary weapon function when entering sniper mode). It also creates state desynchronization between physical gear items and character abilities.
+
+#### Dual Combat Stances (🅰️ Stance Alpha & 🅱️ Stance Beta) Protocol
+* **Rule (The What):** During any out-of-combat breather, characters can configure two distinct combat loadouts: **Stance Alpha (`🅰️`)** and **Stance Beta (`🅱️`)**. Both stances independently adhere to the character's active Loadout Capacity. In combat on the player's Nish:
+  * **First Stance Switch in Encounter:** Costs **1 Move Action `[M]`** (`1-Enc`).
+  * **Subsequent Stance Switches:** Costs **Attack + Move `[AM]`** (the character commits their main action turn, retaining only Partial `[P]` and Free `[F]` actions).
+  * **Zero Reaction Actions:** SupaFlex does not utilize reaction actions `[R]`; all stance switches take place on the player's turn/Nish.
+  * **Shared Usage Synchronization:** Functions equipped in both Stance Alpha and Stance Beta share the same live usage checkmarks. Consuming a use in Stance Alpha immediately marks that use consumed in Stance Beta.
+* **Rationale (The Why):** Resolves the "Destron Armor Dilemma" where complex modular gear or exosuits carry 15–20 functions but 60–80% are inaccessible during an encounter under rigid breather lockouts. Dual stances provide tactical mode switching (e.g., Offensive Assault vs. Defensive Evasion) without overwhelming players with cognitive overload or mid-combat catalog browsing.
+* **Failure Mechanism (The What Breaks):** Without stance switching, high-tier modular gear feels artificially constrained and players avoid equipping utility functions. Allowing unlimited free switches would cause debilitating analysis paralysis, ballooning combat turns into 15-minute spreadsheet optimization sessions.
+
+#### Emergency Hardware Shunt ("Break-Glass" Swap) Protocol
+* **Rule (The What):** In dire combat emergencies, a character may execute a hot-swap of 1 unslotted function from their Vault into their active slots as a **Free Action `[F]`** on their Nish by paying:
+  * **1 Full Spark (5 Charges / 5⚡)** OR
+  * **1 Focus Degradation Step** (stepping down the character's current Focus die by one rank, e.g. `d8` to `d6`).
+  * **Cold Storage Lockout:** The outgoing function displaced by the shunt is immediately placed into **Cold Storage**. It is completely locked out from being re-equipped, shunted, or activated for the remainder of the encounter.
+* **Rationale (The Why):** Provides an essential "break-glass in case of emergency" release valve for life-or-death situations when a critical countermeasure is trapped in the Vault, while imposing an acute meta-currency cost and preventing abusive rotational churn through the cold storage lockout.
+* **Failure Mechanism (The What Breaks):** Without Cold Storage and high costs, players would treat the Vault as a free infinite spellbook and shunt repeatedly without committing to tactical loadout planning.
+
+#### Encounter & Breather Reset Protocol
+* **Rule (The What):** Triggering `Clear Uses` on the character sheet or concluding an encounter/breather automatically:
+  * Clears all usage checkmarks across both Stance Alpha and Stance Beta.
+  * Resets the in-combat stance switch counter to 0 (restoring the first switch cost to `[M]`).
+  * Releases all functions from Cold Storage back to standard Vault readiness.
+* **Rationale (The Why):** Guarantees complete determinism and eliminates stale encounter state across scene transitions.
+* **Failure Mechanism (The What Breaks):** Lingering switch counters or locked cold storage across combat scenes permanently penalizes players into subsequent encounters.
+
 ### 2. Taxonomy & Function Slot Costs
 * **Mundane Gear (`⚙️` 0 Slots):** Standard utility items, weapons, armor, and shields providing narrative permissions and baseline combat stats without consuming Function Slots.
+* **0-Slot Utility Functions (`⚙️` 0 Slots):** Environmental, sensory, and life-support functions (such as Atmospheric Recycler, Thermal Regulator, Radiation Scrubber, Sub-Dermal Comms, Flashlight Beam) retain explicit Action codes (`[P]`, `[M]`, etc.), Usage frequencies (`Continuous`, `1-Enc`), and mechanical rules effects, but cost **0 Function Slots** against active Loadout Capacity.
 
-#### The 4 Function Tiers
+#### The 4 Standard Function Tiers
 
 | Function Tier | Slot Cost | Tactical Capability & Complexity | Typical Item Examples |
 | :---: | :---: | :--- | :--- |
@@ -1942,7 +1935,6 @@ SupaFlex eliminates weight math, bulk values, and movement rate penalties. A cha
 | **`🪄 Lesser`** | **2 Slots** | Substantial encounter-altering mobility, protection, or automated utility. | *Boots of Speed*, *Personal Deflector Shield*, *AeroJet Thrusters*, *Optical Camo*. |
 | **`🪬 Greater`** | **3 Slots** | Multi-target, high-damage, or encounter-defining combat and tactical systems. | *Flaming Greatsword*, *Heavy Combat Drone*, *Mil-Spec Exosuit*. |
 | **`💫 Epic`** | **4 Slots** | Reality-bending prototypes and ancient relics occupying major physical/neural bandwidth. | *Orb of Storms*, *Dimensional Void Bag*, *Orbital Target Painter*. |
-
 
 ### 3. Blake's Uncapped Soft-Slope Function Slots AP Schedule
 
@@ -2066,15 +2058,11 @@ Disenchanting an item returns **50% of the Essence required to craft a new item 
 - **Single Subtraction Vector:** Claiming a crafted reward in the `ESSENCE CRAFTING!` modal is the **ONLY** event permitted to subtract or consume Essence Core progress.
 - **Zero-Loss Deconstructing:** Closing or deconstructing a draft choice discards the draft choices while preserving current Essence 100% intact.
 
-
 ## 🔎 GM Tricks
 
 This section covers a number of great GM tricks and examples to help your game run even more smoothly. All tricks/rules herein are optional and may be incorporated into your game sessions at the GM’s discretion. Some of these tricks are more advanced rules that can be incorporated once the GM and their group has fully grasped the base rules.
 
 ## Helper - Bleeder
-
-
-
 
 Assign one player as the “Bleeder.” The Bleeder is a GM helper who’s job it is to track all monster wounds for the GM. For example, if you use a write on board or mat, give them a red pen and if Orc A takes 5 Wnd🩸s it is the Bleeder’s responsibility to place a 5 next to Orc A. If that orc later takes another 3 Wnd🩸s, the Bleeder will change the 5 to 8. Also as you, the GM, move the monster around the board, it is the Bleeder’s responsibility to erase the old Wnd🩸 number and place it adjacent to the monster’s new location. Finally, you can assign the Bleeder (if they are an experienced gamer) or some other helper to track monster death. This helper will always ask you what the Vit❤️ of each monster type is and they’ll let everyone know when a monster should die due to Wnd🩸s being >= their Vit❤️. Once you train your Bleeder up, you are largely freed up, as GM, from this common set of tasks.
 
@@ -2408,17 +2396,6 @@ Spotlight Cool: Highlight Strengths, Flairs, and creative Powers🔥.
 
 Keep Monsters Simple: Use flat stats, improvise Powers🔥, focus on PCs’ rolls.
 
-## 🏆 Master 2-Column Split-Pane Manager Modal UI/UX Blueprint Standard
-
-The **Gear Manager Modal (`GearCard.tsx`)** is canonized as the **Master Blueprint Standard** for all present and future SupaFlex item and ability catalog management modals across the application (**Weapons**, **Armor**, **Shields**, **Gear**, **Skillsets**, **Powers**, **Magic Items**):
-
-1. **Header Architecture (Icon + 2-Line Text Block + Close Trigger):** Padded glassmorphic icon badge (`p-2 rounded-xl bg-cyan-950/80 border border-cyan-500/30 text-cyan-300`), bold 2-line Title/Subtitle block (`ADVENTURING GEAR MANAGER` / `Manage character equipment side-by-side...`), and top-right close trigger (`<X />`). **Mandatory Icon Parity Rule:** The modal's top header icon **MUST EXACTLY MATCH** the main card title icon from which it was launched (e.g. `🧰` for `GearCard`, `💰` for `MoneyCard`).
-2. **2-Column Split-Pane Body Architecture (`w-[880px] h-[85vh]`):**
-   - **Left Column (Active Inventory / Known Abilities Pane):** Always-visible side-by-side pane displaying what the player owns or knows, with independent vertical scrolling, inventory search bar (`Search...`), item count badge, and 1-click item removal/adjustment controls.
-   - **Right Column (Catalog & Custom Creator Pane):** Sub-tab navigation bar (`🌐 Stock Catalog` vs `➕ Custom Form`) utilizing the exact same space. Sub-Tab 1 features catalog search & category filter dropdown (`All Categories` / `Class`, `Racial`, `Tools`, etc.) with 1-click `+ Add` / `+ Learn` buttons that immediately append the item to the Left Pane in real time. Sub-Tab 2 features the custom item/ability creation form with input guardrails. **Strict Catalog Deduplication Rule:** For non-quantifiable capability modals (**Skillsets**, **Powers**, **Magic Items**), items already present in the Left Pane MUST be automatically filtered out of the Right Stock Catalog Pane for 100% UI DRY visual clarity.
-3. **Streamlined UI DRY Footer Architecture:** Clean bottom bar with summary total badge (`Total Gear Value: 🪙 Xg 🥈 Ys`) and a single `<button>Done</button>`.
-4. **Master Blueprint Application Scope:** Mandatory directive for upcoming overhauls across items (**Weapons**, **Armor**, **Shields**, **Gear**) and abilities (**Skillsets**, **Powers**, **Magic Items**).
-
 ---
 
 ## 📖 Appendix A: Element & Effect Creation Guide
@@ -2511,25 +2488,3 @@ When abilities affect multiple squares or areas, use strict grid-friendly geomet
   * *Effect:* `Rng 3; Atk ✨ Dmg ✨+d6; Wnds = target pushed 2 sq.`
 
 ---
-
-### 🔤 Global Alphabetical Default & MSO Priority Triad Rule
-
-#### 1. Rule (The What)
-ALL lists, dropdown option selectors, search results, and catalog cards across SupaFlex (Player Sheet, GM Screen, Card Catalogs, Creation Modals, Loot Engines) MUST default to ascending alphabetical sort order (`a.localeCompare(b)` / `compareMsoItems` / `compareMsoOptions`), unless explicitly registered in the Mechanical Exceptions Registry. When the private MSO setting is unlocked (`isGuildSpaceUnlocked === true`), all options ending in `(mso)` must automatically sort to the top of all dropdowns, lists, and catalog grids in alphabetical order, preceded by the galaxy icon `🌌 ` and styled with `text-purple-300 font-bold`.
-
-**Registered Mechanical Exceptions Registry:**
-* **Action Types:** Combat speed cadence `AM` $\rightarrow$ `A` $\rightarrow$ `M` $\rightarrow$ `P` $\rightarrow$ `F`.
-* **Usage Frequencies:** Encounter activation cadence `1`, `2`, `3`, `1-⚡`, `1-🍀`, `1-Enc`, `2-Enc`, `3-Enc`, `1-Rnd`.
-* **Core Attributes:** Standard attribute sequence `Magic ✨`, `Might 💪`, `Mind 👁️`, `Motion 🏃`, `Moxie 🫀`, `Luck 🍀`.
-* **Combat Tracker & Encounter Order:** GM encounter turn sequence and dynamic `Nish` initiative rolls (`🚩`).
-* **Party Roster:** Active party leader and party session join sequence.
-* **Difficulty Scaling Presets:** Tier progression `Easy: 6` $\rightarrow$ `Mythic: 22`.
-
-#### 2. Rationale (The Why)
-Predictable alphabetical sorting minimizes cognitive fatigue, prevents visual chaos across viewports, and creates an intuitive browsing baseline across thousands of powers, items, and rules. MSO players predominantly seek MSO-specific content; sorting MSO entries to the top with vivid galaxy iconography (`🌌 `) provides instant discovery without burying core game options.
-
-#### 3. Failure Mechanism (The What Breaks)
-Arbitrary or database-insertion-order lists force players and GMs to search unsorted collections, causing severe decision paralysis and session stalls during combat. Unsorted MSO entries force players to hunt through 1,000+ stock rows, destroying table pacing and UX flow.
-
-
-
