@@ -69,7 +69,7 @@ The complete SupaFlex game system is structured around the **Trinity of Mechanic
 | **Armor (`🥋`)** | Light, Medium, Heavy, Powered, Environmental | Protective combat hardware providing AR. Baseline 0 Function Slots (unless promoted to Exotic via Function/Mod). Priced in $g / s$. |
 | **Shields (`🛡️`)** | Bucklers, Medium Shields, Tower, Force Shields | Protective combat hardware providing Block. Baseline 0 Function Slots (unless promoted to Exotic via Function/Mod). Priced in $g / s$. |
 | **Exotic (`🧿`)** | Tactical Functions, Cyberware, Biotech, Tech Hardware | Any Gear that has or potentially has an actionable tactical Function (either directly or via a compatible Mod). Occupies 1–4 Function Slots when attuned/readied. Priced in $g / s$. |
-| **Artifact (`🔮`)** | Functions, Traits, Legendary Powers | Ancient, magical, or alien relics (1–4 Function Slots). Non-commercial market treasure (Cost = `"Artifact"`). Reserved for loot tables and discovery. |
+| **Artifact (`🔮`)** | Functions, Traits, Legendary Powers | Ancient, magical, or alien treasures (1–4 Function Slots). Non-commercial market treasure (Cost = `"Artifact"`). Reserved for loot tables and discovery. |
 | **Mod (`🔌`)** | Functions, Traits, Hardware Upgrades | Subordinate gear extension layer (NOT a top-level catalog category). Optional modification, module, or hardware attachment uniquely linked via `belongs_to` to parent gear (Weapons, Armor, Shields, Supplies, Exotics). Carries a financial cost ($g/s$) unless standard factory equipment (`free Trait`). |
 | **Kit (`📦`)** | Supplies, Weapons, Armor, Shields, Exotics, Mods | Master pre-assembled gear package / hardware bundle. Has overall package cost (e.g. `45s`, `120g`). |
 | **Function (`🧿`)** | *(Actionable Rules Execution)* | Tactical equipment ability nearly identical to a Power (`Action`, `Usage`, `Effect`, `Tier`). Consumes Function Slots ($0\text{–}4$, with `Free ⭕` costing 0 Slots). NEVER carries a financial cost ($0s$) and is universally free once the host gear/mod is owned. Belongs to either a `Mod:` or `Gear:`. |
@@ -80,12 +80,12 @@ The complete SupaFlex game system is structured around the **Trinity of Mechanic
 
 1. **🌟 Elements = 🧠 Abilities + ⚙️ Gear:**
    * **🧠 Abilities (Intangible Features):** Unlocked via AP and packaged into **Paths (`🧭`)**. Subdivided into **✅ Attributes**, **🎓 Skills**, **🎓 Skill Sets**, **🔥 Powers**, and **🧬 Traits**.
-   * **⚙️ Gear (Physical Items & Hardware):** Purchased with Gold / Silver or found as treasure. Subdivided into **🎒 Supplies** (mundane tools/consumables, 0 slots), **⚔️ Weapons**, **🥋 Armor**, **🛡️ Shields**, **🧿 Exotics** (extraordinary, 0–4 slots), **🔮 Artifacts** (relics, 1–4 slots, cost = `"Artifact"`), and **🔌 Mods** (subordinate modular attachments).
+   * **⚙️ Gear (Physical Items & Hardware):** Purchased with Gold / Silver or found as treasure. Subdivided into **🎒 Supplies** (mundane tools/consumables, 0 slots), **⚔️ Weapons**, **🥋 Armor**, **🛡️ Shields**, **🧿 Exotics** (extraordinary, 0–4 slots), **🔮 Artifacts** (1–4 slots, cost = `"Artifact"`), and **🔌 Mods** (subordinate modular attachments).
 
 2. **⚙️ The Dual-State Progression of Gear & Zero-Purgatory Invariant:**
    * **Mundane Gear (`⚙️`):** Standard physical items readily available in the economy (0 Function Slots, no attached Function, cost in $g/s$).
    * **Exotic (`🧿`):** Any Gear that has OR potentially has (can accept an attached Mod) an actionable tactical **Function (`🧿`)**. This ensures base cyberware frames, modular weapons, and tech suits never sit in purgatory between Supplies and Exotics. Function Slots ($0\text{–}4$) are only consumed when a Function is actively installed and readied on the character sheet (`Free ⭕` costs 0 slots).
-   * **Artifact (`🔮`):** Legendary or unique relics possessing one or more **Functions (`🧿`)** (occupying 1–4 Function Slots, cost = `"Artifact"`).
+   * **Artifact (`🔮`):** Legendary or unique treasures possessing one or more **Functions (`🧿`)** (occupying 1–4 Function Slots, cost = `"Artifact"`).
    * **Mod Reversion & Detachment:** If an Exotic item has its Functions or Mods detached or removed, it reverts to standard baseline Gear. A Mod has no standalone utility or market existence apart from its host gear.
    * **Commercial Non-Purchasability of Artifacts:** Any item carrying `cost: "Artifact"` is strictly excluded from commercial retail catalogs and store purchases. Artifacts are acquired exclusively through discovery, GM rewards, and loot tables.
 
@@ -241,7 +241,7 @@ Monster stats place the emojis before key numbers or number sets as in:
 | Skill Set🎓 | 🎓 |
 | Skill🎓 | 🎓 |
 | Exotic🧿 (Extraordinary / Functions) | 🧿 |
-| Artifact🔮 (Relics / Found Treasure) | 🔮 |
+| Artifact🔮 (Found Treasure / Legendary Gear) | 🔮 |
 | Traits🧬 (Modular Boons & Inherent Rules) | 🧬 |
 | Term📖 | 📖 |
 | Tools & Equipment🛠️ | 🛠️ |
@@ -285,7 +285,7 @@ AP🧩 (Adventure Point) – Earned progression currency spent to unlock Paths�
 
 AR🧥 (Armor Rating) / Armor🧥 – Equipment🧰 worn to absorb damage. Defense is always Dod/AR or Blk/AR; armor is the AR part. Standard armor is mundane Gear⚙️ (0 loadout slots); high-tier, specialized, or enchanted suits exist as Exotics🧿 or Artifacts🔮 (1–4 loadout slots). When learned, characters are assumed to possess the item as Gear⚙️ by default.
 
-Artifact🔮 (Magic Relics / Legendary Treasures) – Exceptionally rare, unique, or priceless magical items—such as ancient relics, alien monoliths, or divine masterworks—that exist outside the standard economy, cannot be normally purchased or manufactured, and carry a cost of "Artifact". Possesses one or more actionable Functions🧿 occupying 1–4 Function Slots based on tier: 🍺 Minor (1 Slot), 🪄 Lesser (2 Slots), 🪬 Greater (3 Slots), 💫 Epic (4 Slots). Inactive artifacts reside in the Vault📦.
+Artifact🔮 (Legendary / Unique Magical Gear) – Exceptionally rare, unique, or priceless magical items—such as ancient monoliths, divine masterworks, or arcane foci—that exist outside the standard economy, cannot be normally purchased or manufactured, and carry a cost of "Artifact". Possesses one or more actionable Functions🧿 occupying 1–4 Function Slots based on tier: 🍺 Minor (1 Slot), 🪄 Lesser (2 Slots), 🪬 Greater (3 Slots), 💫 Epic (4 Slots). Inactive artifacts reside in the Vault📦.
 
 Atk (Attack) – Any offensive roll or strike made with a weapon, power🔥, or ability.
 
@@ -1950,7 +1950,7 @@ SupaFlex eliminates weight math, bulk values, and movement rate penalties. A cha
 | **`🍺 Minor`** | **1 Slot** | Localized tactical utility, single activations, and handy field conveniences. | *Wand of Sparks*, *Stun Baton*, *Plasma Torch*, *Night-Vision Lens*. |
 | **`🪄 Lesser`** | **2 Slots** | Substantial encounter-altering mobility, protection, or automated utility. | *Boots of Speed*, *Personal Deflector Shield*, *AeroJet Thrusters*, *Optical Camo*. |
 | **`🪬 Greater`** | **3 Slots** | Multi-target, high-damage, or encounter-defining combat and tactical systems. | *Flaming Greatsword*, *Heavy Combat Drone*, *Mil-Spec Exosuit*. |
-| **`💫 Epic`** | **4 Slots** | Reality-bending prototypes and ancient relics occupying major physical/neural bandwidth. | *Orb of Storms*, *Dimensional Void Bag*, *Orbital Target Painter*. |
+| **`💫 Epic`** | **4 Slots** | Reality-bending prototypes and ancient artifacts occupying major physical/neural bandwidth. | *Orb of Storms*, *Dimensional Void Bag*, *Orbital Target Painter*. |
 
 ### 3. Blake's Uncapped Soft-Slope Function Slots AP Schedule
 
@@ -2436,7 +2436,7 @@ Custom element design enforces a strict whitelist of 8 universal icons:
 
 | Icon | Attribute / Stat | Domain & Rules Scope |
 | :---: | :--- | :--- |
-| **`✨`** | **Magic** | Supernatural manifestations, spellcraft, sorce, psionics, relic enchantments, arcane saves. |
+| **`✨`** | **Magic** | Supernatural manifestations, spellcraft, sorce, psionics, artifact enchantments, arcane saves. |
 | **`💪`** | **Might** | Brute physical strength, melee weapon attacks, lifting, blocking (`Blk`), grappling. |
 | **`👁️`** | **Mind** | Shot/ranged projectile weapons, technology, cyberware, robotics, perception, analysis. |
 | **`🏃`** | **Motion** | Agility, dodging (`Def`), reflexes, stealth, hurled weapons, movement speed adjustments. |
