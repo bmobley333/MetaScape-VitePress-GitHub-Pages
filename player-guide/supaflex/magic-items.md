@@ -7,6 +7,7 @@ Index of purchasable Exotics (🧿) and treasure Artifacts (🔮) derived from m
 
 | Usage | Action | Function | Item Source | Effect |
 | --- | --- | --- | --- | --- |
+| 1-Enc | M | **Vacuum Buoyancy Ascent (mso)** | Buoyancy Cylinders (mso) | Water buoyancy; float to surface. |
 | 1-Enc | P | **Candle Spark** | Candle Spark | Create small flame; ignite torches or campfires. |
 | 1-Enc | P | **Ember Pin** | Ember Pin | Ignite small flame on touch. |
 | 1-⚡ | P | **Glow Orb** | Glow Orb | Bright light for Encounter. |
@@ -16,7 +17,12 @@ Index of purchasable Exotics (🧿) and treasure Artifacts (🔮) derived from m
 | 2 | F | **Shadow Thread** | Shadow Thread | Stich a normal item to your clothing; Will always reattach as if hooked. |
 | 1-Rnd | M | **Shard of Echo** | Shard of Echo | Always Perfectly Repeats last 3 phrases heard. |
 | 1-Enc | A | **Sticky String** | Sticky String | Launch strand up to 4sq; retrieves up to 25Lb objects. |
+| 1-⚡ | P | **Stone Beetle** | Stone Beetle | Wind-up bug; follows you for 30 minutes, marking route with feint green glow. |
 | 2-Enc | P | **Antigrav Cargo Suspension (mso)** | Suspensor Belt (mso) | Antigravity field; suspends up to 2 tons. |
+| 1-⚡ | P | **Torch Seed** | Torch Seed | Thow against wall or surface; sprouts flaming torch for Encounter. |
+| 1-⚡ | M | **Vine Cord** | Vine Cord | Extend up to 100ft vine-rope; can lift up to 250Lb individuals/items. |
+| 1-⚡ | P | **Water Skin of Plenty** | Water Skin of Plenty | Pproduces 1 day's fresh water for 1 person. |
+| 1-Enc | P | **Whisper Stone** | Whisper Stone | Send whispered message across any barrier to allies up to 15sq. |
 
 ## **🔮 🍺 Minor Artifacts (Found Treasure Loot)**
 
@@ -28,7 +34,6 @@ Index of purchasable Exotics (🧿) and treasure Artifacts (🔮) derived from m
 | 2-Enc | P | **Ash-Herb Pouch Healing** | Ash-Herb Pouch | Apply herbal dusts; Heal 1 Vit to adjacent ally. |
 | 2-Enc | P | **Stealth Vehicle Transit (mso)** | ATV Tumbler (mso) | All-terrain stealth vehicle; 👣 18; Stealth 🏃. |
 | 2-Enc | P | **Vertical Levitation Drift (mso)** | Boots of Levitation (mso) | Levitate vertically 👣 5. |
-| 1-Enc | M | **Vacuum Buoyancy Ascent (mso)** | Buoyancy Cylinders (mso) | Water buoyancy; float to surface. |
 | 1-⚡ | F | **Charm Bands** | Charm Bands | 👁️ and ✨ rolls gain Advantage for 1 Rnd. |
 | 1-Enc | P | **Charm of Balance** | Charm of Balance | Motion🏃 roll with Advantage to stay upright. |
 | 2-Enc | P | **Instant Armor Equipping (mso)** | Circlet of Armor Store (mso) | Instant store or equip armor. |
@@ -94,7 +99,6 @@ Index of purchasable Exotics (🧿) and treasure Artifacts (🔮) derived from m
 | 1-Enc | P | **Stim 🫀 Buff** | Stim 🫀 Buff | Skills(🫀+2). |
 | 1-Enc | P | **Stim✨Buff** | Stim✨Buff | Skills(✨+2). |
 | 1-Enc | A | **Stolen Iron Manacles** | Stolen Iron Manacles | On capture (Brawl Atk with at least 1 Wound); foe is Immobilized until Might💪 check succeeds. |
-| 1-⚡ | P | **Stone Beetle** | Stone Beetle | Wind-up bug; follows you for 30 minutes, marking route with feint green glow. |
 | 1 | P | **Sunpetal Brooch Healing** | Sunpetal Brooch | On use; Heal self 1 Vit and emit light 2sq for 1 Enc. |
 | 2-Enc | M | **Temporal Spray** | Temporal Spray | Rng Short; 🏃 Atk; on hit, target temporal delay gives all allies Advantage on rolls^target for Encounter. |
 | 2-Enc | P | **Stealth Infiltration Transit (mso)** | The Wraith (mso) | Stealth vehicle; 👣 20; Adv(Stealth🏃). |
@@ -102,17 +106,13 @@ Index of purchasable Exotics (🧿) and treasure Artifacts (🔮) derived from m
 | 2-Enc | P | **Titanium Skeletal Infusion (mso)** | Titanium Endo Skeleton (mso) | Titanium infused bone structure; +2 AR. |
 | 1-⚡ | A | **Tonic of Clarity** | Tonic of Clarity | Drink: 👁️+1 for Encounter. |
 | 1-⚡ | A | **Tonic of Vigor** | Tonic of Vigor | Drink; Might💪+1 for Encounter. |
-| 1-⚡ | P | **Torch Seed** | Torch Seed | Thow against wall or surface; sprouts flaming torch for Encounter. |
 | 1-Enc | P | **Trickster’s Satchel** | Trickster’s Satchel | AoE 1r; scatter glamor powder: 👁️^👁️ or foes are Distracted. |
 | 2-Enc | P | **Magnetic Surface Lock (mso)** | Ultralock 2 Boots (mso) | Magnetic lock to metal surface; immune to knockback and Prone. |
 | 1 | A | **Vial of Sacred Dust** | Vial of Sacred Dust | AoE 2r; throw dust: ✨ Atk^undead; d4 radiant Dmg and Weakened. |
-| 1-⚡ | M | **Vine Cord** | Vine Cord | Extend up to 100ft vine-rope; can lift up to 250Lb individuals/items. |
 | 2-Enc | P | **Force Barrier Wall (mso)** | Wall Ball (mso) | Rng Short; deploys 20ft force wall barrier. |
 | 2-Enc | P | **Spectral Warrior Summon (mso)** | Warrior Servant (mso) | Summon spectral warrior ally for encounter. |
-| 1-⚡ | P | **Water Skin of Plenty** | Water Skin of Plenty | Pproduces 1 day's fresh water for 1 person. |
 | 1-Rnd | M | **Whetstone of Memory** | Whetstone of Memory | After sharpening weapon: next Atk+1. |
 | 1-Enc | P | **Whetstone of True Edge** | Whetstone of True Edge | On use; next Atk with sharpened weapon Dmg+1. |
-| 1-Enc | P | **Whisper Stone** | Whisper Stone | Send whispered message across any barrier to allies up to 15sq. |
 | 1-Enc | A | **Wind Flute** | Wind Flute | Play note; next Nish🚩 roll with Advantage. |
 | 3 | F | **Wooden Charm** | Wooden Charm | Break charm: ✨+5^magic for Encounter. |
 | 2-Enc | P | **X-Ray Structural Scan (mso)** | X-Ray Eye (mso) | Rng Short; penetrating vision; 👁️+3^hidden. |
