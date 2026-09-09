@@ -92,12 +92,13 @@ The complete SupaFlex game system is structured around the **Trinity of Mechanic
 3. **🧭 Paths vs. 📦 Kits Taxonomy:**
    * **Paths (`🧭`):** Intangible character identity and capability suites (Race Paths, Class Paths, Discipline Paths, Specialization Paths, Martial Proficiencies, Base Path, Universal Path). Unlocked via AP and character creation. Hallmark starting traits use internal curly-brace notation: `free Trait` indicating 0 AP starting grants (presented in UI and player docs as free Traits). The term "Kit" is strictly prohibited when discussing character capabilities or packages.
    * **Kits (`📦`):** Rare, tangible manufactured equipment bundles and specialized field hardware (e.g. *Engineer Tool Kit (mso)*, *Field Repair Kit*, *Trauma Kit*, *Survival Kit*). Purchased with Gold / Silver ($g / s$) or acquired as treasure. Included hardware components carry the `free Trait` tag.
-   * **Starting Paths:** Every character starts with 3 Learned Paths:
-     1. **Base Path (`🧭`):** Inherent baseline capabilities granted to all characters (0 AP). Baseline weapon proficiencies (`Brawl`, `Throw Object`, `Improvised Weapon`) and armor (`Unarmored`) cost the standard In-Path rate of **1 AP** for everyone.
+   * **Starting & Foundational Paths:** Every character operates from a four-pillar foundational path structure:
+     1. **Base Path (`🧭`):** Inherent baseline capabilities granted to all characters (0 AP). Baseline weapon proficiencies (`Brawl`, `Throw Object`, `Improvised Weapon`) and armor (`Unarmored`) cost the standard In-Path rate of **1 AP** for everyone. Any baseline capability intended to cost 1 AP belongs on the Base Path.
      2. **Race Path (`🧭`):** Species biology and inherent free traits (`free Trait`).
-     3. **Class Path (`🧭`):** Archetype identity, starting proficiencies, and class powers.
-   * **Universal Path (`🧭`):** An open pool of general heroic stunts, clutch fortune, and utility capabilities. Elements assigned to the `Universal` Path may be learned by **ANY character for 3 AP without GM approval**. Alternatively, a character may spend **4 AP** to learn the `Universal Path` as a permanent Learned Path, reducing all subsequent Universal elements to the standard In-Path rate of **1 AP**.
-   * **Learning New Paths:** Beyond starting paths, additional Paths may be learned for **4 AP WITH GM Approval** (the Universal Path may be learned for 4 AP without GM approval).
+     3. **Class Path (`🧭`):** Archetype identity, starting proficiencies, and class powers (1 AP In-Path pricing).
+     4. **Universal Path (`🧭`):** An open, permanent global pool of heroic stunts, clutch fortune, and high-impact utility capabilities. Elements assigned to the `Universal` Path may be learned by **ANY character for 3 AP without GM approval**.
+   * **Universal Path Non-Purchasability Invariant:** Because Universal abilities are exceptionally potent, the Universal Path itself **CANNOT be learned or unlocked as a 4 AP Bonus Path**. It remains permanently at 3 AP per element for all characters. Its defining mechanical benefit is **Self-Service at 3 AP without requiring GM Approval**.
+   * **Learning Bonus Paths:** Beyond foundational paths, additional discipline or martial Paths may be learned from the catalog for **4 AP WITH GM Approval** (e.g. unlocking a secondary martial or archetype path).
 
 4. **⚔️ Weapons, 🥋 Armor, and 🛡️ Shields as Gear:**
    * Weapons, Armor, and Shields are all categories of **Gear (`⚙️`)**.
