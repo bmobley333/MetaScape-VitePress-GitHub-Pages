@@ -10,6 +10,8 @@ Index of purchasable Exotics (🧿) and treasure Artifacts (🔮) derived from m
 | 1-Enc | P | **Candle Spark** | Candle Spark | Create small flame; ignite torches or campfires. |
 | 1-Enc | P | **Ember Pin** | Ember Pin | Ignite small flame on touch. |
 | 1-⚡ | P | **Glow Orb** | Glow Orb | Bright light for Encounter. |
+| 1-⚡ | P | **Lantern Bead** | Lantern Bead | Throw; hovering light for Encounter. |
+| 1-⚡ | P | **Pocket Lantern** | Pocket Lantern | Create floating Lantern that follows you for Encounter. |
 | 2-Enc | P | **Antigrav Cargo Suspension (mso)** | Suspensor Belt (mso) | Antigravity field; suspends up to 2 tons. |
 
 ## **🔮 🍺 Minor Artifacts (Found Treasure Loot)**
@@ -51,7 +53,6 @@ Index of purchasable Exotics (🧿) and treasure Artifacts (🔮) derived from m
 | 2-Enc | P | **Pressurized Jump Propulsion (mso)** | Jump-Boots (mso), Supplies: Jump-Pack (mso) | Psychosomatic leap; jump 👣+6; safe landing. |
 | 1-⚡ | F | **Keeth’s Mystical Bands** | Keeth’s Mystical Bands | Speak & Hearas if you are Keeth; Also revives Keeth from death or loss. |
 | 1-Rnd | M | **Knife of Infinite Cloning** | Knife of Infinite Cloning | Can split one knife into 2 knives (new knives last for encounter). |
-| 1-⚡ | P | **Lantern Bead** | Lantern Bead | Throw; hovering light for Encounter. |
 | 1-⚡ | F | **Lucky Coin** | Lucky Coin | Reroll one failed roll. |
 | 2-Enc | P | **Amnestic Memory Wipe (mso)** | Mind Wipe (mso) | Rng Touch; 👁️^👁️ or target suffers amnesia. |
 | 1 | P | **Mindstone Charm** | Mindstone Charm | Gain Advantage on 1 👁️ roll this Rnd. |
@@ -60,7 +61,6 @@ Index of purchasable Exotics (🧿) and treasure Artifacts (🔮) derived from m
 | 2-Enc | P | **Subterranean Rock Tunneling (mso)** | Oregrimmer Worm (mso) | Armored tunneling mount; 👣 8; burrows through rock. |
 | 2-Enc | P | **Adaptive Light Refraction (mso)** | Particle Modifier (mso) | Fishnet shirt; grants Stealth 🏃; scans target. |
 | 2-Enc | P | **Pocket Dimension Access (mso)** | Pocket Dimension (mso) | Access private 2x2 pocket dimension. |
-| 1-⚡ | P | **Pocket Lantern** | Pocket Lantern | Create floating Lantern that follows you for Encounter. |
 | 1-⚡ | P | **Healing** | Potion of Healing | Heal self d✨. |
 | 1-⚡ | P | **Iron Skin** | Potion of Iron Skin | Dring; AR+1 for encounter. |
 | 2-Enc | P | **Resonance Sense Sweep (mso)** | Pulsing Palm (mso) | Rng Medium; detect psionics and sorce. |
