@@ -12,6 +12,10 @@ Index of purchasable Exotics (🧿) and treasure Artifacts (🔮) derived from m
 | 1-⚡ | P | **Glow Orb** | Glow Orb | Bright light for Encounter. |
 | 1-⚡ | P | **Lantern Bead** | Lantern Bead | Throw; hovering light for Encounter. |
 | 1-⚡ | P | **Pocket Lantern** | Pocket Lantern | Create floating Lantern that follows you for Encounter. |
+| 1-Enc | P | **Quill of Sparks** | Quill of Sparks | Write script visible only with command word, glows in darkness. |
+| 2 | F | **Shadow Thread** | Shadow Thread | Stich a normal item to your clothing; Will always reattach as if hooked. |
+| 1-Rnd | M | **Shard of Echo** | Shard of Echo | Always Perfectly Repeats last 3 phrases heard. |
+| 1-Enc | A | **Sticky String** | Sticky String | Launch strand up to 4sq; retrieves up to 25Lb objects. |
 | 2-Enc | P | **Antigrav Cargo Suspension (mso)** | Suspensor Belt (mso) | Antigravity field; suspends up to 2 tons. |
 
 ## **🔮 🍺 Minor Artifacts (Found Treasure Loot)**
@@ -64,13 +68,10 @@ Index of purchasable Exotics (🧿) and treasure Artifacts (🔮) derived from m
 | 1-⚡ | P | **Healing** | Potion of Healing | Heal self d✨. |
 | 1-⚡ | P | **Iron Skin** | Potion of Iron Skin | Dring; AR+1 for encounter. |
 | 2-Enc | P | **Resonance Sense Sweep (mso)** | Pulsing Palm (mso) | Rng Medium; detect psionics and sorce. |
-| 1-Enc | P | **Quill of Sparks** | Quill of Sparks | Write script visible only with command word, glows in darkness. |
 | 1 | P | **Rune Flask of Blackaxe Ale Healing** | Rune Flask of Blackaxe Ale | Drink; Heal self 1 Vit. |
 | 1-Enc | P | **Sand Pouch** | Sand Pouch | Throw sand; target's next Roll-2. |
 | 1-⚡ | A | **the Commet** | Scroll of the Commet | Adv(✨ Atk); Dmg+2. |
 | 2-Enc | P | **Micro-Spider Reconnaissance (mso)** | Sensor Spiders (mso) | Rng Long; release 6 micro-scout spiders. |
-| 2 | F | **Shadow Thread** | Shadow Thread | Stich a normal item to your clothing; Will always reattach as if hooked. |
-| 1-Rnd | M | **Shard of Echo** | Shard of Echo | Always Perfectly Repeats last 3 phrases heard. |
 | 2-Enc | P | **Temporal Sluggishness Field (mso)** | Slow Glass (mso) | Rng Medium; temporal slow; target 👣-4. |
 | 1-⚡ | P | **Smoke Bomb of Shrouding** | Smoke Bomb of Shrouding | Create 3x3sq smoke cloud; all Stealth rolls in area with Advantage. |
 | 1-Enc | P | **Smoke Pellet** | Smoke Pellet | Creates smoke cloud; immedite Dodge with Advantage. |
@@ -81,7 +82,6 @@ Index of purchasable Exotics (🧿) and treasure Artifacts (🔮) derived from m
 | 2-Enc | P | **Spatial Warp Displace (mso)** | Speed Displacer (mso) | Teleport self up to 👣 ✨. |
 | 2-Enc | P | **Psychic Will Aegis (mso)** | Sphere of Will (mso) | Adv on 🫀/👁️ Saves; +2 to Psionic rolls |
 | 2-Enc | P | **Immovable Spatial Anchor (mso)** | Static Bar (mso) | Lock in place; immovable anchor; holds 20 tons. |
-| 1-Enc | A | **Sticky String** | Sticky String | Launch strand up to 4sq; retrieves up to 25Lb objects. |
 | 1-Enc | P | **Stim +10 Vit** | Stim +10 Vit | Vit(+10). |
 | 2-Enc | P | **Stim +3 MR** | Stim +3 MR | MR(+3). |
 | 1-Enc | P | **Stim Light Healing** | Stim Light Healing | Heal(✨-2) 1st Deg Wnds. |
