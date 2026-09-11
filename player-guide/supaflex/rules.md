@@ -1947,12 +1947,12 @@ SupaFlex eliminates weight math, bulk values, and movement rate penalties. A cha
 #### Emergency Hardware Shunt Protocol
 * **Rule (The What):** In combat on the player's Nish, a character may execute a hardware shunt to hot-swap functions between their active stance loadout and their Hardware Vault:
   * **Cost:** Costs **ONLY 1 Luck Chit (`🍀`)** deducted from the character's Luck Pool. (Spark charges and Focus die degradation step costs are completely eliminated).
-  * **Action:** Costs exactly **1 Move Action `[M]`** (the character cannot use a Free Action `[F]`).
-  * **Usage Frequency:** Can be executed as often as the character desires, up to **once per Move `[M]` action** (thus typically once per round, provided the character spends 1 Luck Chit and has an available Move action).
+  * **Action:** Costs **1 Free Action `[F]`** (as it already consumes a Luck Chit).
+  * **Usage Frequency:** Can be executed on the character's Nish as a Free Action `[F]`, provided the character spends 1 Luck Chit.
   * **1 Add / N Removes Loadout Rule:** A shunt allows adding **exactly 1 function** from the Vault into the active stance loadout. The player may unslot/remove **any number of active functions** to balance their loadout capacity. Once an active function is removed during a shunt session, it is locked into Cold Storage and **cannot be added back**. The active stance loadout cannot exceed the character's total Loadout Capacity when the shunt is applied.
   * **Cold Storage Lockout:** All outgoing functions displaced or removed during a shunt are immediately placed into **Cold Storage**. They are completely locked out from being re-equipped, shunted, or activated for the remainder of the encounter until an encounter/breather reset.
-* **Rationale (The Why):** Move action `[M]` ensures physical or neural commitment during combat, while consuming a universal Luck Chit (`🍀`) makes emergency shunting intuitive, clean, and accessible without tracking multi-step spark thresholds or punishing Focus die steps. The "1 Add / N Removes" protocol guarantees loadout integrity while empowering players to adapt to encounter emergencies.
-* **Failure Mechanism (The What Breaks):** Without the Move action commitment and Luck Chit cost, players would cycle through their entire Vault mid-turn with zero tactical tradeoff. Without Cold Storage lockouts, characters could exploit infinite rotating hot-bars without committing to loadout specialization.
+* **Rationale (The Why):** Consuming a universal Luck Chit (`🍀`) serves as the tactical commitment and balancing resource, enabling emergency shunting as a Free Action `[F]` without draining character action tempo. The "1 Add / N Removes" protocol guarantees loadout integrity while empowering players to adapt to encounter emergencies.
+* **Failure Mechanism (The What Breaks):** Without the Luck Chit cost, players would cycle through their entire Vault mid-turn with zero tactical tradeoff. Without Cold Storage lockouts, characters could exploit infinite rotating hot-bars without committing to loadout specialization.
 
 #### Encounter & Breather Reset Protocol
 * **Rule (The What):** Triggering `Clear Uses` on the character sheet or concluding an encounter/breather automatically:

@@ -20882,21 +20882,6 @@
       "belongs_to": null
     },
     {
-      "id": 321,
-      "name": "Hermetic Seal",
-      "effect": "Immune to toxic atmospheres and hard vacuum; 48h air supply.",
-      "stat_hook": null,
-      "genres": [
-        "SciFi"
-      ],
-      "discipline": "Universal",
-      "path": "Universal",
-      "notes": "Integrated environmental life support.",
-      "created_at": "2026-09-03T20:14:29.977879+00:00",
-      "cost": "0s",
-      "belongs_to": null
-    },
-    {
       "id": 497,
       "name": "Hive Isolation Death (mso)",
       "effect": "Prolonged hive isolation causes standard Kryll to lose will to live; PC Kryll are rare exceptions.",
@@ -22339,15 +22324,15 @@
     },
     {
       "id": 540,
-      "name": "Tactical Shunt",
-      "effect": "Emergency Hardware Shunt may be executed using 1 [A] or 1 [M] action (and 1 🍀).",
+      "name": "Tactical Stance Change",
+      "effect": "Swap Stances for 1 [A] OR 1 [M] action.",
       "stat_hook": null,
       "genres": [
         "All"
       ],
       "discipline": "Universal",
       "path": "Universal",
-      "notes": "Tactical cyberware and hardware routing allows offensive tempo [A] to replace physical movement [M] during an Emergency Hardware Shunt (costing 1 [A] or 1 [M] and 1 🍀).",
+      "notes": "Tactical stance change allows the character to change stances for either an A (Attack) or M (Move) action.",
       "created_at": "2026-09-09T17:23:09.993126+00:00",
       "cost": "0s",
       "belongs_to": null
@@ -23866,21 +23851,6 @@
       "belongs_to": null
     },
     {
-      "id": 321,
-      "name": "Hermetic Seal",
-      "effect": "Immune to toxic atmospheres and hard vacuum; 48h air supply.",
-      "stat_hook": null,
-      "genres": [
-        "SciFi"
-      ],
-      "discipline": "Universal",
-      "path": "Universal",
-      "notes": "Integrated environmental life support.",
-      "created_at": "2026-09-03T20:14:29.977879+00:00",
-      "cost": "0s",
-      "belongs_to": null
-    },
-    {
       "id": 497,
       "name": "Hive Isolation Death (mso)",
       "effect": "Prolonged hive isolation causes standard Kryll to lose will to live; PC Kryll are rare exceptions.",
@@ -25323,15 +25293,15 @@
     },
     {
       "id": 540,
-      "name": "Tactical Shunt",
-      "effect": "Emergency Hardware Shunt may be executed using 1 [A] or 1 [M] action (and 1 🍀).",
+      "name": "Tactical Stance Change",
+      "effect": "Swap Stances for 1 [A] OR 1 [M] action.",
       "stat_hook": null,
       "genres": [
         "All"
       ],
       "discipline": "Universal",
       "path": "Universal",
-      "notes": "Tactical cyberware and hardware routing allows offensive tempo [A] to replace physical movement [M] during an Emergency Hardware Shunt (costing 1 [A] or 1 [M] and 1 🍀).",
+      "notes": "Tactical stance change allows the character to change stances for either an A (Attack) or M (Move) action.",
       "created_at": "2026-09-09T17:23:09.993126+00:00",
       "cost": "0s",
       "belongs_to": null
@@ -26850,21 +26820,6 @@
       "belongs_to": null
     },
     {
-      "id": 321,
-      "name": "Hermetic Seal",
-      "effect": "Immune to toxic atmospheres and hard vacuum; 48h air supply.",
-      "stat_hook": null,
-      "genres": [
-        "SciFi"
-      ],
-      "discipline": "Universal",
-      "path": "Universal",
-      "notes": "Integrated environmental life support.",
-      "created_at": "2026-09-03T20:14:29.977879+00:00",
-      "cost": "0s",
-      "belongs_to": null
-    },
-    {
       "id": 497,
       "name": "Hive Isolation Death (mso)",
       "effect": "Prolonged hive isolation causes standard Kryll to lose will to live; PC Kryll are rare exceptions.",
@@ -28307,15 +28262,15 @@
     },
     {
       "id": 540,
-      "name": "Tactical Shunt",
-      "effect": "Emergency Hardware Shunt may be executed using 1 [A] or 1 [M] action (and 1 🍀).",
+      "name": "Tactical Stance Change",
+      "effect": "Swap Stances for 1 [A] OR 1 [M] action.",
       "stat_hook": null,
       "genres": [
         "All"
       ],
       "discipline": "Universal",
       "path": "Universal",
-      "notes": "Tactical cyberware and hardware routing allows offensive tempo [A] to replace physical movement [M] during an Emergency Hardware Shunt (costing 1 [A] or 1 [M] and 1 🍀).",
+      "notes": "Tactical stance change allows the character to change stances for either an A (Attack) or M (Move) action.",
       "created_at": "2026-09-09T17:23:09.993126+00:00",
       "cost": "0s",
       "belongs_to": null
