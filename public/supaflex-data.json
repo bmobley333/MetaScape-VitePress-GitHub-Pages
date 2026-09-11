@@ -19919,21 +19919,6 @@
   ],
   "traits": [
     {
-      "id": 323,
-      "name": "Absent-Minded (mso)",
-      "effect": "Must pass 👁️ check to remember important facts, gear, or instructions.",
-      "stat_hook": null,
-      "genres": [
-        "SciFi"
-      ],
-      "discipline": "General",
-      "path": null,
-      "notes": "Characters with this handicap must make Int rolls to remember important items, names, dates, places, appointments, etc. The Dif is anywhere from 5-20 or more depending on the situation.",
-      "created_at": "2026-09-05T23:12:09.171701+00:00",
-      "cost": "0s",
-      "belongs_to": null
-    },
-    {
       "id": 473,
       "name": "Acoustic Receptors (mso)",
       "effect": "Processes sound and pressure changes via sensory skin receptors across chest and back.",
@@ -20114,81 +20099,6 @@
       "path": "Kryll (mso) {Free}",
       "notes": "The Kryll gain +3 Mind bonus when within range of a translator-caste Kryll or a pheromone node, and Adv(Mind) if they are in direct communication with the hive-queen",
       "created_at": "2026-09-05T23:12:09.47841+00:00",
-      "cost": "0s",
-      "belongs_to": null
-    },
-    {
-      "id": 325,
-      "name": "Bad Balance (mso)",
-      "effect": "-3 to all 🏃 checks requiring balance, tightropes, or narrow ledges.",
-      "stat_hook": null,
-      "genres": [
-        "SciFi"
-      ],
-      "discipline": "General",
-      "path": null,
-      "notes": "Characters with this handicap must roll at a -3 penalty for all acts which require good balance.",
-      "created_at": "2026-09-05T23:12:09.171701+00:00",
-      "cost": "0s",
-      "belongs_to": null
-    },
-    {
-      "id": 326,
-      "name": "Bad Defense vs Body (mso)",
-      "effect": "-3 Def vs body and natural attacks.",
-      "stat_hook": null,
-      "genres": [
-        "SciFi"
-      ],
-      "discipline": "General",
-      "path": null,
-      "notes": "Characters with this handicap take a -3 Def penalty vs body weapons.",
-      "created_at": "2026-09-05T23:12:09.171701+00:00",
-      "cost": "0s",
-      "belongs_to": null
-    },
-    {
-      "id": 327,
-      "name": "Bad Defense vs Hurled (mso)",
-      "effect": "-3 Def vs hurled and thrown weapons.",
-      "stat_hook": null,
-      "genres": [
-        "SciFi"
-      ],
-      "discipline": "General",
-      "path": null,
-      "notes": "This handicap inflicts a -3 penalty on all Def rolls vs hurled weapons.",
-      "created_at": "2026-09-05T23:12:09.171701+00:00",
-      "cost": "0s",
-      "belongs_to": null
-    },
-    {
-      "id": 328,
-      "name": "Bad Defense vs Melee (mso)",
-      "effect": "-3 Def vs swords, axes, and melee weapons.",
-      "stat_hook": null,
-      "genres": [
-        "SciFi"
-      ],
-      "discipline": "General",
-      "path": null,
-      "notes": "Characters with this handicap take a -3 Def penalty vs melee weapons.",
-      "created_at": "2026-09-05T23:12:09.171701+00:00",
-      "cost": "0s",
-      "belongs_to": null
-    },
-    {
-      "id": 329,
-      "name": "Bad Defense vs Ranged (mso)",
-      "effect": "-3 Def vs blasters, rifles, and ranged weapons.",
-      "stat_hook": null,
-      "genres": [
-        "SciFi"
-      ],
-      "discipline": "General",
-      "path": null,
-      "notes": "Characters with this handicap have a -3 penalty on Def rolls vs ranged weapons.",
-      "created_at": "2026-09-05T23:12:09.171701+00:00",
       "cost": "0s",
       "belongs_to": null
     },
@@ -20388,21 +20298,6 @@
       "belongs_to": null
     },
     {
-      "id": 335,
-      "name": "Boor (mso)",
-      "effect": "-3 to all social and diplomatic interaction checks.",
-      "stat_hook": null,
-      "genres": [
-        "SciFi"
-      ],
-      "discipline": "General",
-      "path": null,
-      "notes": "The character is socially obnoxious, and annoying. Individuals with this handicap must take a 1c to Cha in all social settings in which being a boor would be a disadvantage. Players should roleplay the character in a suitably boorish manner.",
-      "created_at": "2026-09-05T23:12:09.171701+00:00",
-      "cost": "0s",
-      "belongs_to": null
-    },
-    {
       "id": 336,
       "name": "Bridge Officer (mso)",
       "effect": "+2 to all operational ability rolls on ship systems.",
@@ -20538,21 +20433,6 @@
       "belongs_to": null
     },
     {
-      "id": 339,
-      "name": "Clumsy (mso)",
-      "effect": "Must pass 🏃 check when handling delicate items or drop/fumble.",
-      "stat_hook": null,
-      "genres": [
-        "SciFi"
-      ],
-      "discipline": "General",
-      "path": null,
-      "notes": "This handicap requires that a character roll a 🏃 check when handling something fragile or in attempts to catch things. All such checks are made at a -3 penalty.",
-      "created_at": "2026-09-05T23:12:09.171701+00:00",
-      "cost": "0s",
-      "belongs_to": null
-    },
-    {
       "id": 318,
       "name": "Code of Honor",
       "effect": "Bound by chivalry: must accept honorable surrenders and never strike a helpless foe.",
@@ -20566,21 +20446,6 @@
       "path": "Handicap",
       "notes": "Handicap / tactical rule exception.",
       "created_at": "2026-08-29T16:13:07.305713+00:00",
-      "cost": "0s",
-      "belongs_to": null
-    },
-    {
-      "id": 340,
-      "name": "Color Blind (mso)",
-      "effect": "Cannot perceive colors; functions in monochrome vision.",
-      "stat_hook": null,
-      "genres": [
-        "SciFi"
-      ],
-      "discipline": "General",
-      "path": null,
-      "notes": "This handicap indicates that a character cannot see colors at all. It may only be taken by members of races who see in color.",
-      "created_at": "2026-09-05T23:12:09.171701+00:00",
       "cost": "0s",
       "belongs_to": null
     },
@@ -20671,21 +20536,6 @@
       "path": "Cyber Warrior (mso) {Free}",
       "notes": "Cyber Warriors may become skilled in all CyberTech Weapons and Weapon Implants.",
       "created_at": "2026-09-05T23:12:09.383227+00:00",
-      "cost": "0s",
-      "belongs_to": null
-    },
-    {
-      "id": 341,
-      "name": "Deep Sleeper (mso)",
-      "effect": "-3 to 👁️ checks to awaken from loud noises or disturbances.",
-      "stat_hook": null,
-      "genres": [
-        "SciFi"
-      ],
-      "discipline": "General",
-      "path": null,
-      "notes": "A deep sleeper will sleep through virtually anything, and suffers a -3 penalty when attempting to wake up, even in the face of loud noise, attack, etc.",
-      "created_at": "2026-09-05T23:12:09.171701+00:00",
       "cost": "0s",
       "belongs_to": null
     },
@@ -20870,21 +20720,6 @@
       "belongs_to": null
     },
     {
-      "id": 342,
-      "name": "Fast Drain (mso)",
-      "effect": "Loses Vit at double the normal rate when bleeding or draining.",
-      "stat_hook": null,
-      "genres": [
-        "SciFi"
-      ],
-      "discipline": "General",
-      "path": null,
-      "notes": "Characters with fast drain lose Vit faster than others. Characters with this handicap who take critical Dmg receive two points of Dmg per round, instead of one.",
-      "created_at": "2026-09-05T23:12:09.171701+00:00",
-      "cost": "0s",
-      "belongs_to": null
-    },
-    {
       "id": 530,
       "name": "Fastidious Combat Shunning (mso)",
       "effect": "Prefers clean elegant weapons; fights savagely with natural weapons if forced.",
@@ -20896,21 +20731,6 @@
       "path": "[\"Zin-Shee Female (mso) {Free}\", \"Zin-Shee Male (mso) {Free}\"]",
       "notes": "Deeply dislike messy, bloody physical combat, preferring elegant, precise weapons (like rapiers or lasers) that kill cleanly. If forced to resort to natural weapons (teeth and claws), they will fight with terrifying, savage violence—but will immediately indulge in a long, hot bath afterward.",
       "created_at": "2026-09-05T23:12:09.558298+00:00",
-      "cost": "0s",
-      "belongs_to": null
-    },
-    {
-      "id": 343,
-      "name": "Fearful (mso)",
-      "effect": "-3 to fear checks and morale saves.",
-      "stat_hook": null,
-      "genres": [
-        "SciFi"
-      ],
-      "discipline": "General",
-      "path": null,
-      "notes": "Fearful characters make fear checks at -3.",
-      "created_at": "2026-09-05T23:12:09.171701+00:00",
       "cost": "0s",
       "belongs_to": null
     },
@@ -20962,21 +20782,6 @@
       "path": "Unique Quirks",
       "notes": "Derived stat hook: Increases Max Luck pool by 1.",
       "created_at": "2026-08-29T16:13:07.058166+00:00",
-      "cost": "0s",
-      "belongs_to": null
-    },
-    {
-      "id": 345,
-      "name": "Frail (mso)",
-      "effect": "Maximum Vit is permanently reduced (2 dice steps below actual Vit).",
-      "stat_hook": null,
-      "genres": [
-        "SciFi"
-      ],
-      "discipline": "General",
-      "path": null,
-      "notes": "Frail characters have a Vit maximum which is 2d below their actual Vit. A frail character with a d8 vitality would, therefore, have only 8 (d6) Vitality points, instead of 12. The character may still use his or her normal Vit for all other rolls, however.",
-      "created_at": "2026-09-05T23:12:09.171701+00:00",
       "cost": "0s",
       "belongs_to": null
     },
@@ -21058,36 +20863,6 @@
       "path": "Handicap",
       "notes": "Derived stat hook: Reduces Max Vitality by 3.",
       "created_at": "2026-08-29T16:13:07.24249+00:00",
-      "cost": "0s",
-      "belongs_to": null
-    },
-    {
-      "id": 346,
-      "name": "Glass Jaw (mso)",
-      "effect": "+When wounded by a physical blow; Save 🫀^Wounds or Stunned for 1-Rnd.",
-      "stat_hook": null,
-      "genres": [
-        "SciFi"
-      ],
-      "discipline": "General",
-      "path": null,
-      "notes": "A severe physiological fragility where blunt physical trauma to the head or jaw easily overwhelms cranial equilibrium and triggers immediate sensory blackout.",
-      "created_at": "2026-09-05T23:12:09.171701+00:00",
-      "cost": "0s",
-      "belongs_to": null
-    },
-    {
-      "id": 347,
-      "name": "Greedy (mso)",
-      "effect": "Must pass 🫀 check with Adv vs value or demand largest share of loot.",
-      "stat_hook": null,
-      "genres": [
-        "SciFi"
-      ],
-      "discipline": "General",
-      "path": null,
-      "notes": "Greedy characters who encounter large amounts of money, valuable pieces of equipment, etc., must make a WP roll with advantage vs the value in credits or demand to be given the item or the lion’s share of the money. Greed is also a good roleplaying handicap, as it does not always have direct gaming applications.",
-      "created_at": "2026-09-05T23:12:09.171701+00:00",
       "cost": "0s",
       "belongs_to": null
     },
@@ -21345,51 +21120,6 @@
       "belongs_to": null
     },
     {
-      "id": 350,
-      "name": "Low Death Threshold (mso)",
-      "effect": "Death checks begin at -5 Vit instead of normal -10 Vit.",
-      "stat_hook": null,
-      "genres": [
-        "SciFi"
-      ],
-      "discipline": "General",
-      "path": null,
-      "notes": "Characters with low death thresholds begin making death checks at five points of critical Dmg, rather than the normal 10.",
-      "created_at": "2026-09-05T23:12:09.171701+00:00",
-      "cost": "0s",
-      "belongs_to": null
-    },
-    {
-      "id": 351,
-      "name": "Low Heat Tolerance (mso)",
-      "effect": "-3 to all checks vs heat; -1 AR vs heat and plasma Dmg.",
-      "stat_hook": null,
-      "genres": [
-        "SciFi"
-      ],
-      "discipline": "General",
-      "path": null,
-      "notes": "Characters with this handicap must make all rolls against heat at -3. Armor rolls vs heat and plasma Dmg are at -1.",
-      "created_at": "2026-09-05T23:12:09.171701+00:00",
-      "cost": "0s",
-      "belongs_to": null
-    },
-    {
-      "id": 352,
-      "name": "Low Poison Tolerance (mso)",
-      "effect": "-3 to all saves and checks to resist poisons and toxins.",
-      "stat_hook": null,
-      "genres": [
-        "SciFi"
-      ],
-      "discipline": "General",
-      "path": null,
-      "notes": "Characters with this handicap take a -3 penalty on all rolls to resist poison.",
-      "created_at": "2026-09-05T23:12:09.171701+00:00",
-      "cost": "0s",
-      "belongs_to": null
-    },
-    {
       "id": 440,
       "name": "Marine Conditioning (mso)",
       "effect": "+1 to Technology, Dexterity, Strength, Fortitude, and Ranged.",
@@ -21602,21 +21332,6 @@
       "belongs_to": null
     },
     {
-      "id": 354,
-      "name": "Night Blindness (mso)",
-      "effect": "Treats low-light conditions as total darkness; blind in dim light.",
-      "stat_hook": null,
-      "genres": [
-        "SciFi"
-      ],
-      "discipline": "General",
-      "path": null,
-      "notes": "Characters with this handicap treat low-light conditions as total darkness, and function as if completely blind.",
-      "created_at": "2026-09-05T23:12:09.171701+00:00",
-      "cost": "0s",
-      "belongs_to": null
-    },
-    {
       "id": 513,
       "name": "No Physical Contact (mso)",
       "effect": "Strictly refuses to touch any living being, maintaining a one-inch cloak buffer.",
@@ -21645,21 +21360,6 @@
       "path": "Handicap",
       "notes": "Handicap / tactical rule exception.",
       "created_at": "2026-08-29T16:13:07.179943+00:00",
-      "cost": "0s",
-      "belongs_to": null
-    },
-    {
-      "id": 355,
-      "name": "Pacifist (mso)",
-      "effect": "Will not fight unless personally attacked or an ally is struck.",
-      "stat_hook": null,
-      "genres": [
-        "SciFi"
-      ],
-      "discipline": "General",
-      "path": null,
-      "notes": "Pacifists will not normally fight unless they are personally attacked, or one of their allies has actually been hit.",
-      "created_at": "2026-09-05T23:12:09.171701+00:00",
       "cost": "0s",
       "belongs_to": null
     },
@@ -21773,21 +21473,6 @@
       "belongs_to": null
     },
     {
-      "id": 357,
-      "name": "Poor Hearing (mso)",
-      "effect": "-3 to all 👁️ auditory perception checks.",
-      "stat_hook": null,
-      "genres": [
-        "SciFi"
-      ],
-      "discipline": "General",
-      "path": null,
-      "notes": "Characters with this handicap must take a -3 penalty to all rolls based upon hearing.",
-      "created_at": "2026-09-05T23:12:09.171701+00:00",
-      "cost": "0s",
-      "belongs_to": null
-    },
-    {
       "id": 358,
       "name": "Poor Smell (mso)",
       "effect": "-3 to all 👁️ olfactory and scent tracking checks.",
@@ -21798,66 +21483,6 @@
       "discipline": "General",
       "path": "[\"Draca (mso) {Free}\"]",
       "notes": "Characters with this handicap must take a -3 penalty to all rolls based upon smell.",
-      "created_at": "2026-09-05T23:12:09.171701+00:00",
-      "cost": "0s",
-      "belongs_to": null
-    },
-    {
-      "id": 359,
-      "name": "Poor Taste (mso)",
-      "effect": "-3 to all 👁️ taste and food/poison identification checks.",
-      "stat_hook": null,
-      "genres": [
-        "SciFi"
-      ],
-      "discipline": "General",
-      "path": null,
-      "notes": "Characters with this handicap must take a -3 penalty to all rolls based upon taste.",
-      "created_at": "2026-09-05T23:12:09.171701+00:00",
-      "cost": "0s",
-      "belongs_to": null
-    },
-    {
-      "id": 360,
-      "name": "Poor Touch (mso)",
-      "effect": "-3 to all 👁️ tactile and micro-texture checks.",
-      "stat_hook": null,
-      "genres": [
-        "SciFi"
-      ],
-      "discipline": "General",
-      "path": null,
-      "notes": "Characters with this handicap must take a -3 penalty to all rolls based upon touch.",
-      "created_at": "2026-09-05T23:12:09.171701+00:00",
-      "cost": "0s",
-      "belongs_to": null
-    },
-    {
-      "id": 361,
-      "name": "Poor Vision (mso)",
-      "effect": "-3 to all 👁️ visual perception checks.",
-      "stat_hook": null,
-      "genres": [
-        "SciFi"
-      ],
-      "discipline": "General",
-      "path": null,
-      "notes": "Characters with this handicap must take a -3 penalty to all rolls based upon vision.",
-      "created_at": "2026-09-05T23:12:09.171701+00:00",
-      "cost": "0s",
-      "belongs_to": null
-    },
-    {
-      "id": 362,
-      "name": "Poverty (mso)",
-      "effect": "Starts with half credits; mission allowances reduced by 1 rank.",
-      "stat_hook": null,
-      "genres": [
-        "SciFi"
-      ],
-      "discipline": "General",
-      "path": null,
-      "notes": "The character is poor, or is badly in debt. Poor characters receive only half their starting credits, and earn mission allowance at one rank below their actual rank. Rank two characters receive pay as if they were rank one, rank three would take pay at rank two, etc. (Rank zero characters still receive normal allowance, however). If the character becomes poor after generation, then half of the character’s funds are immediately deducted, and future allowance penalties are as described above.",
       "created_at": "2026-09-05T23:12:09.171701+00:00",
       "cost": "0s",
       "belongs_to": null
@@ -22495,66 +22120,6 @@
       "belongs_to": null
     },
     {
-      "id": 390,
-      "name": "Slow (mso)",
-      "effect": "Movement rate reduced to next lower bracket (👣-2).",
-      "stat_hook": null,
-      "genres": [
-        "SciFi"
-      ],
-      "discipline": "General",
-      "path": null,
-      "notes": "A character with this handicap always moves at the next lower MR as indicated on the back of the character sheet.",
-      "created_at": "2026-09-05T23:12:09.293796+00:00",
-      "cost": "0s",
-      "belongs_to": null
-    },
-    {
-      "id": 391,
-      "name": "Slow Healer (mso)",
-      "effect": "Time required for natural recovery and healing checks is doubled.",
-      "stat_hook": null,
-      "genres": [
-        "SciFi"
-      ],
-      "discipline": "General",
-      "path": null,
-      "notes": "The normal amount of time required for the disadvantage healing check is doubled for slow healers. Thus, a slow healer may roll only once every eight hours (rather than four).",
-      "created_at": "2026-09-05T23:12:09.293796+00:00",
-      "cost": "0s",
-      "belongs_to": null
-    },
-    {
-      "id": 392,
-      "name": "Slow Reaction (mso)",
-      "effect": "Cannot use doubling die on 🚩 initiative rolls.",
-      "stat_hook": null,
-      "genres": [
-        "SciFi"
-      ],
-      "discipline": "General",
-      "path": null,
-      "notes": "Characters with this handicap may not use the doubling die when making Initiative rolls (i.e., it is a non-doubled roll).",
-      "created_at": "2026-09-05T23:12:09.293796+00:00",
-      "cost": "0s",
-      "belongs_to": null
-    },
-    {
-      "id": 393,
-      "name": "Slow Restore (mso)",
-      "effect": "Session start: roll 🍀; if fails, regain no 🍀 for adventure.",
-      "stat_hook": null,
-      "genres": [
-        "SciFi"
-      ],
-      "discipline": "General",
-      "path": null,
-      "notes": "At the beginning of each gaming session, a character with this handicap must make a Luck roll. If the roll exceeds the character’s total luck value, then the character gains back all of his or her luck boxes for the adventure. If the roll fails, then the character regains no luck boxes. Any luck boxes remaining from the last gaming session are kept, however.",
-      "created_at": "2026-09-05T23:12:09.293796+00:00",
-      "cost": "0s",
-      "belongs_to": null
-    },
-    {
       "id": 467,
       "name": "Social Dependency (mso)",
       "effect": "Highly gregarious; cannot survive prolonged psychological/emotional isolation from sentients.",
@@ -23094,36 +22659,6 @@
       "belongs_to": null
     },
     {
-      "id": 405,
-      "name": "Tunnel Vision (mso)",
-      "effect": "Field of vision reduced by one step (e.g. 180° to 90°).",
-      "stat_hook": null,
-      "genres": [
-        "SciFi"
-      ],
-      "discipline": "General",
-      "path": null,
-      "notes": "Characters with this handicap have their field of vision reduced. A member of a race which normally has a 360-degree field of vision is reduced to 270 degrees; 270 is reduced to 180; and 180 is reduced to 90. Races (such as the Shanask) which normally have a 90-degree field of vision may not take this handicap.",
-      "created_at": "2026-09-05T23:12:09.293796+00:00",
-      "cost": "0s",
-      "belongs_to": null
-    },
-    {
-      "id": 406,
-      "name": "Unattractive (mso)",
-      "effect": "-3 to social checks where physical appearance is a factor.",
-      "stat_hook": null,
-      "genres": [
-        "SciFi"
-      ],
-      "discipline": "General",
-      "path": null,
-      "notes": "Like beauty, unattractiveness is a difficult concept to define. Often, unattractiveness is a result of “ugly” personalities, bad habits, etc. In game terms, this disadvantage causes a character to take a -3 penalty on Cha rolls in which physical appearance might be a factor (when dealing with aliens, for example, ugliness is entirely relative, and unlikely to affect Cha).",
-      "created_at": "2026-09-05T23:12:09.293796+00:00",
-      "cost": "0s",
-      "belongs_to": null
-    },
-    {
       "id": 518,
       "name": "Unconsciousness and Paralysis Immunity (mso)",
       "effect": "+Immune to Unconscious and Paralyzed; remains vulnerable to Stun.",
@@ -23135,36 +22670,6 @@
       "path": "Shanask (mso) {Free}",
       "notes": "Unique Shanask physiology possesses a decentralized nervous system and redundant bio-synthetic circulatory loops, rendering them completely immune to loss of consciousness and neuromuscular paralysis.",
       "created_at": "2026-09-05T23:12:09.47841+00:00",
-      "cost": "0s",
-      "belongs_to": null
-    },
-    {
-      "id": 407,
-      "name": "Unhealthy (mso)",
-      "effect": "-3 to 🫀 saves vs illnesses and diseases.",
-      "stat_hook": null,
-      "genres": [
-        "SciFi"
-      ],
-      "discipline": "General",
-      "path": null,
-      "notes": "Unhealthy characters catch illnesses more easily than other characters. All FR rolls to resist disease are made at -3.",
-      "created_at": "2026-09-05T23:12:09.293796+00:00",
-      "cost": "0s",
-      "belongs_to": null
-    },
-    {
-      "id": 408,
-      "name": "Unlucky (mso)",
-      "effect": "Must spend 2 🍀 chits to reroll dice instead of 1 🍀.",
-      "stat_hook": null,
-      "genres": [
-        "SciFi"
-      ],
-      "discipline": "General",
-      "path": null,
-      "notes": "Unlucky characters must spend two luck boxes each time they wish to reroll the dice. This handicap does not affect luck burn.",
-      "created_at": "2026-09-05T23:12:09.293796+00:00",
       "cost": "0s",
       "belongs_to": null
     },
@@ -23216,21 +22721,6 @@
       "belongs_to": null
     },
     {
-      "id": 409,
-      "name": "Very Unlucky (mso)",
-      "effect": "Must spend all remaining 🍀 chits to reroll dice.",
-      "stat_hook": null,
-      "genres": [
-        "SciFi"
-      ],
-      "discipline": "General",
-      "path": null,
-      "notes": "A character with this handicap must spend all of his or her luck boxes to reroll the dice (i.e., they effectively have one luck box).",
-      "created_at": "2026-09-05T23:12:09.293796+00:00",
-      "cost": "0s",
-      "belongs_to": null
-    },
-    {
       "id": 520,
       "name": "Vitality Drain Exemption (mso)",
       "effect": "Exempt from vitality drain and bleeding rules; Wnds do not worsen over time.",
@@ -23242,66 +22732,6 @@
       "path": "Shanask (mso) {Free}",
       "notes": "Shanask are entirely exempt from the standard Vitality drain and bleeding rules, preventing their wounds from worsening over time when critically damaged",
       "created_at": "2026-09-05T23:12:09.47841+00:00",
-      "cost": "0s",
-      "belongs_to": null
-    },
-    {
-      "id": 410,
-      "name": "Vulnerable vs Blunt Weapons (mso)",
-      "effect": "AR rolls vs blunt weapons are halved (1d).",
-      "stat_hook": null,
-      "genres": [
-        "SciFi"
-      ],
-      "discipline": "General",
-      "path": null,
-      "notes": "Individuals with this handicap make AR rolls vs blunt weapons at 1d.",
-      "created_at": "2026-09-05T23:12:09.293796+00:00",
-      "cost": "0s",
-      "belongs_to": null
-    },
-    {
-      "id": 411,
-      "name": "Vulnerable vs Edged Weapons (mso)",
-      "effect": "AR rolls vs edged weapons are halved (1d).",
-      "stat_hook": null,
-      "genres": [
-        "SciFi"
-      ],
-      "discipline": "General",
-      "path": null,
-      "notes": "Individuals with this handicap make AR rolls vs edged weapons at 1d.",
-      "created_at": "2026-09-05T23:12:09.293796+00:00",
-      "cost": "0s",
-      "belongs_to": null
-    },
-    {
-      "id": 412,
-      "name": "Vulnerable vs Energy Weapons (mso)",
-      "effect": "AR rolls vs energy and plasma weapons are halved (1d).",
-      "stat_hook": null,
-      "genres": [
-        "SciFi"
-      ],
-      "discipline": "General",
-      "path": null,
-      "notes": "Characters with this handicap must make AR rolls vs energy or plasma weapons at 1d.",
-      "created_at": "2026-09-05T23:12:09.293796+00:00",
-      "cost": "0s",
-      "belongs_to": null
-    },
-    {
-      "id": 413,
-      "name": "Vulnerable vs Projectile Weapons (mso)",
-      "effect": "AR rolls vs projectile and kinetic weapons are halved (1d).",
-      "stat_hook": null,
-      "genres": [
-        "SciFi"
-      ],
-      "discipline": "General",
-      "path": null,
-      "notes": "Characters with this handicap must make AR rolls vs projectile weapons at 1d.",
-      "created_at": "2026-09-05T23:12:09.293796+00:00",
       "cost": "0s",
       "belongs_to": null
     },
@@ -23362,36 +22792,6 @@
       "path": "Warrior (mso)",
       "notes": "Objective & Focus: The ultimate martial masters of physical close-quarters combat. Blends standard tech melee, exotic polearms, and ancient knighthood tactics.",
       "created_at": "2026-09-05T23:12:09.383227+00:00",
-      "cost": "0s",
-      "belongs_to": null
-    },
-    {
-      "id": 414,
-      "name": "Weak Grip (mso)",
-      "effect": "-3 to 💪 checks to hold objects or resist disarm.",
-      "stat_hook": null,
-      "genres": [
-        "SciFi"
-      ],
-      "discipline": "General",
-      "path": null,
-      "notes": "This character must take a -3 penalty when rolling to hold onto things that would normally require a 💪 check.",
-      "created_at": "2026-09-05T23:12:09.293796+00:00",
-      "cost": "0s",
-      "belongs_to": null
-    },
-    {
-      "id": 415,
-      "name": "Weak Will (mso)",
-      "effect": "-3 to 🫀 checks to resist falling unconscious.",
-      "stat_hook": null,
-      "genres": [
-        "SciFi"
-      ],
-      "discipline": "General",
-      "path": null,
-      "notes": "Characters with this disadvantage incur a -3 penalty on all WP rolls required to stay conscious.",
-      "created_at": "2026-09-05T23:12:09.293796+00:00",
       "cost": "0s",
       "belongs_to": null
     },
@@ -23503,21 +22903,6 @@
   ],
   "spec_rules": [
     {
-      "id": 323,
-      "name": "Absent-Minded (mso)",
-      "effect": "Must pass 👁️ check to remember important facts, gear, or instructions.",
-      "stat_hook": null,
-      "genres": [
-        "SciFi"
-      ],
-      "discipline": "General",
-      "path": null,
-      "notes": "Characters with this handicap must make Int rolls to remember important items, names, dates, places, appointments, etc. The Dif is anywhere from 5-20 or more depending on the situation.",
-      "created_at": "2026-09-05T23:12:09.171701+00:00",
-      "cost": "0s",
-      "belongs_to": null
-    },
-    {
       "id": 473,
       "name": "Acoustic Receptors (mso)",
       "effect": "Processes sound and pressure changes via sensory skin receptors across chest and back.",
@@ -23698,81 +23083,6 @@
       "path": "Kryll (mso) {Free}",
       "notes": "The Kryll gain +3 Mind bonus when within range of a translator-caste Kryll or a pheromone node, and Adv(Mind) if they are in direct communication with the hive-queen",
       "created_at": "2026-09-05T23:12:09.47841+00:00",
-      "cost": "0s",
-      "belongs_to": null
-    },
-    {
-      "id": 325,
-      "name": "Bad Balance (mso)",
-      "effect": "-3 to all 🏃 checks requiring balance, tightropes, or narrow ledges.",
-      "stat_hook": null,
-      "genres": [
-        "SciFi"
-      ],
-      "discipline": "General",
-      "path": null,
-      "notes": "Characters with this handicap must roll at a -3 penalty for all acts which require good balance.",
-      "created_at": "2026-09-05T23:12:09.171701+00:00",
-      "cost": "0s",
-      "belongs_to": null
-    },
-    {
-      "id": 326,
-      "name": "Bad Defense vs Body (mso)",
-      "effect": "-3 Def vs body and natural attacks.",
-      "stat_hook": null,
-      "genres": [
-        "SciFi"
-      ],
-      "discipline": "General",
-      "path": null,
-      "notes": "Characters with this handicap take a -3 Def penalty vs body weapons.",
-      "created_at": "2026-09-05T23:12:09.171701+00:00",
-      "cost": "0s",
-      "belongs_to": null
-    },
-    {
-      "id": 327,
-      "name": "Bad Defense vs Hurled (mso)",
-      "effect": "-3 Def vs hurled and thrown weapons.",
-      "stat_hook": null,
-      "genres": [
-        "SciFi"
-      ],
-      "discipline": "General",
-      "path": null,
-      "notes": "This handicap inflicts a -3 penalty on all Def rolls vs hurled weapons.",
-      "created_at": "2026-09-05T23:12:09.171701+00:00",
-      "cost": "0s",
-      "belongs_to": null
-    },
-    {
-      "id": 328,
-      "name": "Bad Defense vs Melee (mso)",
-      "effect": "-3 Def vs swords, axes, and melee weapons.",
-      "stat_hook": null,
-      "genres": [
-        "SciFi"
-      ],
-      "discipline": "General",
-      "path": null,
-      "notes": "Characters with this handicap take a -3 Def penalty vs melee weapons.",
-      "created_at": "2026-09-05T23:12:09.171701+00:00",
-      "cost": "0s",
-      "belongs_to": null
-    },
-    {
-      "id": 329,
-      "name": "Bad Defense vs Ranged (mso)",
-      "effect": "-3 Def vs blasters, rifles, and ranged weapons.",
-      "stat_hook": null,
-      "genres": [
-        "SciFi"
-      ],
-      "discipline": "General",
-      "path": null,
-      "notes": "Characters with this handicap have a -3 penalty on Def rolls vs ranged weapons.",
-      "created_at": "2026-09-05T23:12:09.171701+00:00",
       "cost": "0s",
       "belongs_to": null
     },
@@ -23972,21 +23282,6 @@
       "belongs_to": null
     },
     {
-      "id": 335,
-      "name": "Boor (mso)",
-      "effect": "-3 to all social and diplomatic interaction checks.",
-      "stat_hook": null,
-      "genres": [
-        "SciFi"
-      ],
-      "discipline": "General",
-      "path": null,
-      "notes": "The character is socially obnoxious, and annoying. Individuals with this handicap must take a 1c to Cha in all social settings in which being a boor would be a disadvantage. Players should roleplay the character in a suitably boorish manner.",
-      "created_at": "2026-09-05T23:12:09.171701+00:00",
-      "cost": "0s",
-      "belongs_to": null
-    },
-    {
       "id": 336,
       "name": "Bridge Officer (mso)",
       "effect": "+2 to all operational ability rolls on ship systems.",
@@ -24122,21 +23417,6 @@
       "belongs_to": null
     },
     {
-      "id": 339,
-      "name": "Clumsy (mso)",
-      "effect": "Must pass 🏃 check when handling delicate items or drop/fumble.",
-      "stat_hook": null,
-      "genres": [
-        "SciFi"
-      ],
-      "discipline": "General",
-      "path": null,
-      "notes": "This handicap requires that a character roll a 🏃 check when handling something fragile or in attempts to catch things. All such checks are made at a -3 penalty.",
-      "created_at": "2026-09-05T23:12:09.171701+00:00",
-      "cost": "0s",
-      "belongs_to": null
-    },
-    {
       "id": 318,
       "name": "Code of Honor",
       "effect": "Bound by chivalry: must accept honorable surrenders and never strike a helpless foe.",
@@ -24150,21 +23430,6 @@
       "path": "Handicap",
       "notes": "Handicap / tactical rule exception.",
       "created_at": "2026-08-29T16:13:07.305713+00:00",
-      "cost": "0s",
-      "belongs_to": null
-    },
-    {
-      "id": 340,
-      "name": "Color Blind (mso)",
-      "effect": "Cannot perceive colors; functions in monochrome vision.",
-      "stat_hook": null,
-      "genres": [
-        "SciFi"
-      ],
-      "discipline": "General",
-      "path": null,
-      "notes": "This handicap indicates that a character cannot see colors at all. It may only be taken by members of races who see in color.",
-      "created_at": "2026-09-05T23:12:09.171701+00:00",
       "cost": "0s",
       "belongs_to": null
     },
@@ -24255,21 +23520,6 @@
       "path": "Cyber Warrior (mso) {Free}",
       "notes": "Cyber Warriors may become skilled in all CyberTech Weapons and Weapon Implants.",
       "created_at": "2026-09-05T23:12:09.383227+00:00",
-      "cost": "0s",
-      "belongs_to": null
-    },
-    {
-      "id": 341,
-      "name": "Deep Sleeper (mso)",
-      "effect": "-3 to 👁️ checks to awaken from loud noises or disturbances.",
-      "stat_hook": null,
-      "genres": [
-        "SciFi"
-      ],
-      "discipline": "General",
-      "path": null,
-      "notes": "A deep sleeper will sleep through virtually anything, and suffers a -3 penalty when attempting to wake up, even in the face of loud noise, attack, etc.",
-      "created_at": "2026-09-05T23:12:09.171701+00:00",
       "cost": "0s",
       "belongs_to": null
     },
@@ -24454,21 +23704,6 @@
       "belongs_to": null
     },
     {
-      "id": 342,
-      "name": "Fast Drain (mso)",
-      "effect": "Loses Vit at double the normal rate when bleeding or draining.",
-      "stat_hook": null,
-      "genres": [
-        "SciFi"
-      ],
-      "discipline": "General",
-      "path": null,
-      "notes": "Characters with fast drain lose Vit faster than others. Characters with this handicap who take critical Dmg receive two points of Dmg per round, instead of one.",
-      "created_at": "2026-09-05T23:12:09.171701+00:00",
-      "cost": "0s",
-      "belongs_to": null
-    },
-    {
       "id": 530,
       "name": "Fastidious Combat Shunning (mso)",
       "effect": "Prefers clean elegant weapons; fights savagely with natural weapons if forced.",
@@ -24480,21 +23715,6 @@
       "path": "[\"Zin-Shee Female (mso) {Free}\", \"Zin-Shee Male (mso) {Free}\"]",
       "notes": "Deeply dislike messy, bloody physical combat, preferring elegant, precise weapons (like rapiers or lasers) that kill cleanly. If forced to resort to natural weapons (teeth and claws), they will fight with terrifying, savage violence—but will immediately indulge in a long, hot bath afterward.",
       "created_at": "2026-09-05T23:12:09.558298+00:00",
-      "cost": "0s",
-      "belongs_to": null
-    },
-    {
-      "id": 343,
-      "name": "Fearful (mso)",
-      "effect": "-3 to fear checks and morale saves.",
-      "stat_hook": null,
-      "genres": [
-        "SciFi"
-      ],
-      "discipline": "General",
-      "path": null,
-      "notes": "Fearful characters make fear checks at -3.",
-      "created_at": "2026-09-05T23:12:09.171701+00:00",
       "cost": "0s",
       "belongs_to": null
     },
@@ -24546,21 +23766,6 @@
       "path": "Unique Quirks",
       "notes": "Derived stat hook: Increases Max Luck pool by 1.",
       "created_at": "2026-08-29T16:13:07.058166+00:00",
-      "cost": "0s",
-      "belongs_to": null
-    },
-    {
-      "id": 345,
-      "name": "Frail (mso)",
-      "effect": "Maximum Vit is permanently reduced (2 dice steps below actual Vit).",
-      "stat_hook": null,
-      "genres": [
-        "SciFi"
-      ],
-      "discipline": "General",
-      "path": null,
-      "notes": "Frail characters have a Vit maximum which is 2d below their actual Vit. A frail character with a d8 vitality would, therefore, have only 8 (d6) Vitality points, instead of 12. The character may still use his or her normal Vit for all other rolls, however.",
-      "created_at": "2026-09-05T23:12:09.171701+00:00",
       "cost": "0s",
       "belongs_to": null
     },
@@ -24642,36 +23847,6 @@
       "path": "Handicap",
       "notes": "Derived stat hook: Reduces Max Vitality by 3.",
       "created_at": "2026-08-29T16:13:07.24249+00:00",
-      "cost": "0s",
-      "belongs_to": null
-    },
-    {
-      "id": 346,
-      "name": "Glass Jaw (mso)",
-      "effect": "+When wounded by a physical blow; Save 🫀^Wounds or Stunned for 1-Rnd.",
-      "stat_hook": null,
-      "genres": [
-        "SciFi"
-      ],
-      "discipline": "General",
-      "path": null,
-      "notes": "A severe physiological fragility where blunt physical trauma to the head or jaw easily overwhelms cranial equilibrium and triggers immediate sensory blackout.",
-      "created_at": "2026-09-05T23:12:09.171701+00:00",
-      "cost": "0s",
-      "belongs_to": null
-    },
-    {
-      "id": 347,
-      "name": "Greedy (mso)",
-      "effect": "Must pass 🫀 check with Adv vs value or demand largest share of loot.",
-      "stat_hook": null,
-      "genres": [
-        "SciFi"
-      ],
-      "discipline": "General",
-      "path": null,
-      "notes": "Greedy characters who encounter large amounts of money, valuable pieces of equipment, etc., must make a WP roll with advantage vs the value in credits or demand to be given the item or the lion’s share of the money. Greed is also a good roleplaying handicap, as it does not always have direct gaming applications.",
-      "created_at": "2026-09-05T23:12:09.171701+00:00",
       "cost": "0s",
       "belongs_to": null
     },
@@ -24929,51 +24104,6 @@
       "belongs_to": null
     },
     {
-      "id": 350,
-      "name": "Low Death Threshold (mso)",
-      "effect": "Death checks begin at -5 Vit instead of normal -10 Vit.",
-      "stat_hook": null,
-      "genres": [
-        "SciFi"
-      ],
-      "discipline": "General",
-      "path": null,
-      "notes": "Characters with low death thresholds begin making death checks at five points of critical Dmg, rather than the normal 10.",
-      "created_at": "2026-09-05T23:12:09.171701+00:00",
-      "cost": "0s",
-      "belongs_to": null
-    },
-    {
-      "id": 351,
-      "name": "Low Heat Tolerance (mso)",
-      "effect": "-3 to all checks vs heat; -1 AR vs heat and plasma Dmg.",
-      "stat_hook": null,
-      "genres": [
-        "SciFi"
-      ],
-      "discipline": "General",
-      "path": null,
-      "notes": "Characters with this handicap must make all rolls against heat at -3. Armor rolls vs heat and plasma Dmg are at -1.",
-      "created_at": "2026-09-05T23:12:09.171701+00:00",
-      "cost": "0s",
-      "belongs_to": null
-    },
-    {
-      "id": 352,
-      "name": "Low Poison Tolerance (mso)",
-      "effect": "-3 to all saves and checks to resist poisons and toxins.",
-      "stat_hook": null,
-      "genres": [
-        "SciFi"
-      ],
-      "discipline": "General",
-      "path": null,
-      "notes": "Characters with this handicap take a -3 penalty on all rolls to resist poison.",
-      "created_at": "2026-09-05T23:12:09.171701+00:00",
-      "cost": "0s",
-      "belongs_to": null
-    },
-    {
       "id": 440,
       "name": "Marine Conditioning (mso)",
       "effect": "+1 to Technology, Dexterity, Strength, Fortitude, and Ranged.",
@@ -25186,21 +24316,6 @@
       "belongs_to": null
     },
     {
-      "id": 354,
-      "name": "Night Blindness (mso)",
-      "effect": "Treats low-light conditions as total darkness; blind in dim light.",
-      "stat_hook": null,
-      "genres": [
-        "SciFi"
-      ],
-      "discipline": "General",
-      "path": null,
-      "notes": "Characters with this handicap treat low-light conditions as total darkness, and function as if completely blind.",
-      "created_at": "2026-09-05T23:12:09.171701+00:00",
-      "cost": "0s",
-      "belongs_to": null
-    },
-    {
       "id": 513,
       "name": "No Physical Contact (mso)",
       "effect": "Strictly refuses to touch any living being, maintaining a one-inch cloak buffer.",
@@ -25229,21 +24344,6 @@
       "path": "Handicap",
       "notes": "Handicap / tactical rule exception.",
       "created_at": "2026-08-29T16:13:07.179943+00:00",
-      "cost": "0s",
-      "belongs_to": null
-    },
-    {
-      "id": 355,
-      "name": "Pacifist (mso)",
-      "effect": "Will not fight unless personally attacked or an ally is struck.",
-      "stat_hook": null,
-      "genres": [
-        "SciFi"
-      ],
-      "discipline": "General",
-      "path": null,
-      "notes": "Pacifists will not normally fight unless they are personally attacked, or one of their allies has actually been hit.",
-      "created_at": "2026-09-05T23:12:09.171701+00:00",
       "cost": "0s",
       "belongs_to": null
     },
@@ -25357,21 +24457,6 @@
       "belongs_to": null
     },
     {
-      "id": 357,
-      "name": "Poor Hearing (mso)",
-      "effect": "-3 to all 👁️ auditory perception checks.",
-      "stat_hook": null,
-      "genres": [
-        "SciFi"
-      ],
-      "discipline": "General",
-      "path": null,
-      "notes": "Characters with this handicap must take a -3 penalty to all rolls based upon hearing.",
-      "created_at": "2026-09-05T23:12:09.171701+00:00",
-      "cost": "0s",
-      "belongs_to": null
-    },
-    {
       "id": 358,
       "name": "Poor Smell (mso)",
       "effect": "-3 to all 👁️ olfactory and scent tracking checks.",
@@ -25382,66 +24467,6 @@
       "discipline": "General",
       "path": "[\"Draca (mso) {Free}\"]",
       "notes": "Characters with this handicap must take a -3 penalty to all rolls based upon smell.",
-      "created_at": "2026-09-05T23:12:09.171701+00:00",
-      "cost": "0s",
-      "belongs_to": null
-    },
-    {
-      "id": 359,
-      "name": "Poor Taste (mso)",
-      "effect": "-3 to all 👁️ taste and food/poison identification checks.",
-      "stat_hook": null,
-      "genres": [
-        "SciFi"
-      ],
-      "discipline": "General",
-      "path": null,
-      "notes": "Characters with this handicap must take a -3 penalty to all rolls based upon taste.",
-      "created_at": "2026-09-05T23:12:09.171701+00:00",
-      "cost": "0s",
-      "belongs_to": null
-    },
-    {
-      "id": 360,
-      "name": "Poor Touch (mso)",
-      "effect": "-3 to all 👁️ tactile and micro-texture checks.",
-      "stat_hook": null,
-      "genres": [
-        "SciFi"
-      ],
-      "discipline": "General",
-      "path": null,
-      "notes": "Characters with this handicap must take a -3 penalty to all rolls based upon touch.",
-      "created_at": "2026-09-05T23:12:09.171701+00:00",
-      "cost": "0s",
-      "belongs_to": null
-    },
-    {
-      "id": 361,
-      "name": "Poor Vision (mso)",
-      "effect": "-3 to all 👁️ visual perception checks.",
-      "stat_hook": null,
-      "genres": [
-        "SciFi"
-      ],
-      "discipline": "General",
-      "path": null,
-      "notes": "Characters with this handicap must take a -3 penalty to all rolls based upon vision.",
-      "created_at": "2026-09-05T23:12:09.171701+00:00",
-      "cost": "0s",
-      "belongs_to": null
-    },
-    {
-      "id": 362,
-      "name": "Poverty (mso)",
-      "effect": "Starts with half credits; mission allowances reduced by 1 rank.",
-      "stat_hook": null,
-      "genres": [
-        "SciFi"
-      ],
-      "discipline": "General",
-      "path": null,
-      "notes": "The character is poor, or is badly in debt. Poor characters receive only half their starting credits, and earn mission allowance at one rank below their actual rank. Rank two characters receive pay as if they were rank one, rank three would take pay at rank two, etc. (Rank zero characters still receive normal allowance, however). If the character becomes poor after generation, then half of the character’s funds are immediately deducted, and future allowance penalties are as described above.",
       "created_at": "2026-09-05T23:12:09.171701+00:00",
       "cost": "0s",
       "belongs_to": null
@@ -26079,66 +25104,6 @@
       "belongs_to": null
     },
     {
-      "id": 390,
-      "name": "Slow (mso)",
-      "effect": "Movement rate reduced to next lower bracket (👣-2).",
-      "stat_hook": null,
-      "genres": [
-        "SciFi"
-      ],
-      "discipline": "General",
-      "path": null,
-      "notes": "A character with this handicap always moves at the next lower MR as indicated on the back of the character sheet.",
-      "created_at": "2026-09-05T23:12:09.293796+00:00",
-      "cost": "0s",
-      "belongs_to": null
-    },
-    {
-      "id": 391,
-      "name": "Slow Healer (mso)",
-      "effect": "Time required for natural recovery and healing checks is doubled.",
-      "stat_hook": null,
-      "genres": [
-        "SciFi"
-      ],
-      "discipline": "General",
-      "path": null,
-      "notes": "The normal amount of time required for the disadvantage healing check is doubled for slow healers. Thus, a slow healer may roll only once every eight hours (rather than four).",
-      "created_at": "2026-09-05T23:12:09.293796+00:00",
-      "cost": "0s",
-      "belongs_to": null
-    },
-    {
-      "id": 392,
-      "name": "Slow Reaction (mso)",
-      "effect": "Cannot use doubling die on 🚩 initiative rolls.",
-      "stat_hook": null,
-      "genres": [
-        "SciFi"
-      ],
-      "discipline": "General",
-      "path": null,
-      "notes": "Characters with this handicap may not use the doubling die when making Initiative rolls (i.e., it is a non-doubled roll).",
-      "created_at": "2026-09-05T23:12:09.293796+00:00",
-      "cost": "0s",
-      "belongs_to": null
-    },
-    {
-      "id": 393,
-      "name": "Slow Restore (mso)",
-      "effect": "Session start: roll 🍀; if fails, regain no 🍀 for adventure.",
-      "stat_hook": null,
-      "genres": [
-        "SciFi"
-      ],
-      "discipline": "General",
-      "path": null,
-      "notes": "At the beginning of each gaming session, a character with this handicap must make a Luck roll. If the roll exceeds the character’s total luck value, then the character gains back all of his or her luck boxes for the adventure. If the roll fails, then the character regains no luck boxes. Any luck boxes remaining from the last gaming session are kept, however.",
-      "created_at": "2026-09-05T23:12:09.293796+00:00",
-      "cost": "0s",
-      "belongs_to": null
-    },
-    {
       "id": 467,
       "name": "Social Dependency (mso)",
       "effect": "Highly gregarious; cannot survive prolonged psychological/emotional isolation from sentients.",
@@ -26678,36 +25643,6 @@
       "belongs_to": null
     },
     {
-      "id": 405,
-      "name": "Tunnel Vision (mso)",
-      "effect": "Field of vision reduced by one step (e.g. 180° to 90°).",
-      "stat_hook": null,
-      "genres": [
-        "SciFi"
-      ],
-      "discipline": "General",
-      "path": null,
-      "notes": "Characters with this handicap have their field of vision reduced. A member of a race which normally has a 360-degree field of vision is reduced to 270 degrees; 270 is reduced to 180; and 180 is reduced to 90. Races (such as the Shanask) which normally have a 90-degree field of vision may not take this handicap.",
-      "created_at": "2026-09-05T23:12:09.293796+00:00",
-      "cost": "0s",
-      "belongs_to": null
-    },
-    {
-      "id": 406,
-      "name": "Unattractive (mso)",
-      "effect": "-3 to social checks where physical appearance is a factor.",
-      "stat_hook": null,
-      "genres": [
-        "SciFi"
-      ],
-      "discipline": "General",
-      "path": null,
-      "notes": "Like beauty, unattractiveness is a difficult concept to define. Often, unattractiveness is a result of “ugly” personalities, bad habits, etc. In game terms, this disadvantage causes a character to take a -3 penalty on Cha rolls in which physical appearance might be a factor (when dealing with aliens, for example, ugliness is entirely relative, and unlikely to affect Cha).",
-      "created_at": "2026-09-05T23:12:09.293796+00:00",
-      "cost": "0s",
-      "belongs_to": null
-    },
-    {
       "id": 518,
       "name": "Unconsciousness and Paralysis Immunity (mso)",
       "effect": "+Immune to Unconscious and Paralyzed; remains vulnerable to Stun.",
@@ -26719,36 +25654,6 @@
       "path": "Shanask (mso) {Free}",
       "notes": "Unique Shanask physiology possesses a decentralized nervous system and redundant bio-synthetic circulatory loops, rendering them completely immune to loss of consciousness and neuromuscular paralysis.",
       "created_at": "2026-09-05T23:12:09.47841+00:00",
-      "cost": "0s",
-      "belongs_to": null
-    },
-    {
-      "id": 407,
-      "name": "Unhealthy (mso)",
-      "effect": "-3 to 🫀 saves vs illnesses and diseases.",
-      "stat_hook": null,
-      "genres": [
-        "SciFi"
-      ],
-      "discipline": "General",
-      "path": null,
-      "notes": "Unhealthy characters catch illnesses more easily than other characters. All FR rolls to resist disease are made at -3.",
-      "created_at": "2026-09-05T23:12:09.293796+00:00",
-      "cost": "0s",
-      "belongs_to": null
-    },
-    {
-      "id": 408,
-      "name": "Unlucky (mso)",
-      "effect": "Must spend 2 🍀 chits to reroll dice instead of 1 🍀.",
-      "stat_hook": null,
-      "genres": [
-        "SciFi"
-      ],
-      "discipline": "General",
-      "path": null,
-      "notes": "Unlucky characters must spend two luck boxes each time they wish to reroll the dice. This handicap does not affect luck burn.",
-      "created_at": "2026-09-05T23:12:09.293796+00:00",
       "cost": "0s",
       "belongs_to": null
     },
@@ -26800,21 +25705,6 @@
       "belongs_to": null
     },
     {
-      "id": 409,
-      "name": "Very Unlucky (mso)",
-      "effect": "Must spend all remaining 🍀 chits to reroll dice.",
-      "stat_hook": null,
-      "genres": [
-        "SciFi"
-      ],
-      "discipline": "General",
-      "path": null,
-      "notes": "A character with this handicap must spend all of his or her luck boxes to reroll the dice (i.e., they effectively have one luck box).",
-      "created_at": "2026-09-05T23:12:09.293796+00:00",
-      "cost": "0s",
-      "belongs_to": null
-    },
-    {
       "id": 520,
       "name": "Vitality Drain Exemption (mso)",
       "effect": "Exempt from vitality drain and bleeding rules; Wnds do not worsen over time.",
@@ -26826,66 +25716,6 @@
       "path": "Shanask (mso) {Free}",
       "notes": "Shanask are entirely exempt from the standard Vitality drain and bleeding rules, preventing their wounds from worsening over time when critically damaged",
       "created_at": "2026-09-05T23:12:09.47841+00:00",
-      "cost": "0s",
-      "belongs_to": null
-    },
-    {
-      "id": 410,
-      "name": "Vulnerable vs Blunt Weapons (mso)",
-      "effect": "AR rolls vs blunt weapons are halved (1d).",
-      "stat_hook": null,
-      "genres": [
-        "SciFi"
-      ],
-      "discipline": "General",
-      "path": null,
-      "notes": "Individuals with this handicap make AR rolls vs blunt weapons at 1d.",
-      "created_at": "2026-09-05T23:12:09.293796+00:00",
-      "cost": "0s",
-      "belongs_to": null
-    },
-    {
-      "id": 411,
-      "name": "Vulnerable vs Edged Weapons (mso)",
-      "effect": "AR rolls vs edged weapons are halved (1d).",
-      "stat_hook": null,
-      "genres": [
-        "SciFi"
-      ],
-      "discipline": "General",
-      "path": null,
-      "notes": "Individuals with this handicap make AR rolls vs edged weapons at 1d.",
-      "created_at": "2026-09-05T23:12:09.293796+00:00",
-      "cost": "0s",
-      "belongs_to": null
-    },
-    {
-      "id": 412,
-      "name": "Vulnerable vs Energy Weapons (mso)",
-      "effect": "AR rolls vs energy and plasma weapons are halved (1d).",
-      "stat_hook": null,
-      "genres": [
-        "SciFi"
-      ],
-      "discipline": "General",
-      "path": null,
-      "notes": "Characters with this handicap must make AR rolls vs energy or plasma weapons at 1d.",
-      "created_at": "2026-09-05T23:12:09.293796+00:00",
-      "cost": "0s",
-      "belongs_to": null
-    },
-    {
-      "id": 413,
-      "name": "Vulnerable vs Projectile Weapons (mso)",
-      "effect": "AR rolls vs projectile and kinetic weapons are halved (1d).",
-      "stat_hook": null,
-      "genres": [
-        "SciFi"
-      ],
-      "discipline": "General",
-      "path": null,
-      "notes": "Characters with this handicap must make AR rolls vs projectile weapons at 1d.",
-      "created_at": "2026-09-05T23:12:09.293796+00:00",
       "cost": "0s",
       "belongs_to": null
     },
@@ -26946,36 +25776,6 @@
       "path": "Warrior (mso)",
       "notes": "Objective & Focus: The ultimate martial masters of physical close-quarters combat. Blends standard tech melee, exotic polearms, and ancient knighthood tactics.",
       "created_at": "2026-09-05T23:12:09.383227+00:00",
-      "cost": "0s",
-      "belongs_to": null
-    },
-    {
-      "id": 414,
-      "name": "Weak Grip (mso)",
-      "effect": "-3 to 💪 checks to hold objects or resist disarm.",
-      "stat_hook": null,
-      "genres": [
-        "SciFi"
-      ],
-      "discipline": "General",
-      "path": null,
-      "notes": "This character must take a -3 penalty when rolling to hold onto things that would normally require a 💪 check.",
-      "created_at": "2026-09-05T23:12:09.293796+00:00",
-      "cost": "0s",
-      "belongs_to": null
-    },
-    {
-      "id": 415,
-      "name": "Weak Will (mso)",
-      "effect": "-3 to 🫀 checks to resist falling unconscious.",
-      "stat_hook": null,
-      "genres": [
-        "SciFi"
-      ],
-      "discipline": "General",
-      "path": null,
-      "notes": "Characters with this disadvantage incur a -3 penalty on all WP rolls required to stay conscious.",
-      "created_at": "2026-09-05T23:12:09.293796+00:00",
       "cost": "0s",
       "belongs_to": null
     },
@@ -27087,21 +25887,6 @@
   ],
   "rules": [
     {
-      "id": 323,
-      "name": "Absent-Minded (mso)",
-      "effect": "Must pass 👁️ check to remember important facts, gear, or instructions.",
-      "stat_hook": null,
-      "genres": [
-        "SciFi"
-      ],
-      "discipline": "General",
-      "path": null,
-      "notes": "Characters with this handicap must make Int rolls to remember important items, names, dates, places, appointments, etc. The Dif is anywhere from 5-20 or more depending on the situation.",
-      "created_at": "2026-09-05T23:12:09.171701+00:00",
-      "cost": "0s",
-      "belongs_to": null
-    },
-    {
       "id": 473,
       "name": "Acoustic Receptors (mso)",
       "effect": "Processes sound and pressure changes via sensory skin receptors across chest and back.",
@@ -27282,81 +26067,6 @@
       "path": "Kryll (mso) {Free}",
       "notes": "The Kryll gain +3 Mind bonus when within range of a translator-caste Kryll or a pheromone node, and Adv(Mind) if they are in direct communication with the hive-queen",
       "created_at": "2026-09-05T23:12:09.47841+00:00",
-      "cost": "0s",
-      "belongs_to": null
-    },
-    {
-      "id": 325,
-      "name": "Bad Balance (mso)",
-      "effect": "-3 to all 🏃 checks requiring balance, tightropes, or narrow ledges.",
-      "stat_hook": null,
-      "genres": [
-        "SciFi"
-      ],
-      "discipline": "General",
-      "path": null,
-      "notes": "Characters with this handicap must roll at a -3 penalty for all acts which require good balance.",
-      "created_at": "2026-09-05T23:12:09.171701+00:00",
-      "cost": "0s",
-      "belongs_to": null
-    },
-    {
-      "id": 326,
-      "name": "Bad Defense vs Body (mso)",
-      "effect": "-3 Def vs body and natural attacks.",
-      "stat_hook": null,
-      "genres": [
-        "SciFi"
-      ],
-      "discipline": "General",
-      "path": null,
-      "notes": "Characters with this handicap take a -3 Def penalty vs body weapons.",
-      "created_at": "2026-09-05T23:12:09.171701+00:00",
-      "cost": "0s",
-      "belongs_to": null
-    },
-    {
-      "id": 327,
-      "name": "Bad Defense vs Hurled (mso)",
-      "effect": "-3 Def vs hurled and thrown weapons.",
-      "stat_hook": null,
-      "genres": [
-        "SciFi"
-      ],
-      "discipline": "General",
-      "path": null,
-      "notes": "This handicap inflicts a -3 penalty on all Def rolls vs hurled weapons.",
-      "created_at": "2026-09-05T23:12:09.171701+00:00",
-      "cost": "0s",
-      "belongs_to": null
-    },
-    {
-      "id": 328,
-      "name": "Bad Defense vs Melee (mso)",
-      "effect": "-3 Def vs swords, axes, and melee weapons.",
-      "stat_hook": null,
-      "genres": [
-        "SciFi"
-      ],
-      "discipline": "General",
-      "path": null,
-      "notes": "Characters with this handicap take a -3 Def penalty vs melee weapons.",
-      "created_at": "2026-09-05T23:12:09.171701+00:00",
-      "cost": "0s",
-      "belongs_to": null
-    },
-    {
-      "id": 329,
-      "name": "Bad Defense vs Ranged (mso)",
-      "effect": "-3 Def vs blasters, rifles, and ranged weapons.",
-      "stat_hook": null,
-      "genres": [
-        "SciFi"
-      ],
-      "discipline": "General",
-      "path": null,
-      "notes": "Characters with this handicap have a -3 penalty on Def rolls vs ranged weapons.",
-      "created_at": "2026-09-05T23:12:09.171701+00:00",
       "cost": "0s",
       "belongs_to": null
     },
@@ -27556,21 +26266,6 @@
       "belongs_to": null
     },
     {
-      "id": 335,
-      "name": "Boor (mso)",
-      "effect": "-3 to all social and diplomatic interaction checks.",
-      "stat_hook": null,
-      "genres": [
-        "SciFi"
-      ],
-      "discipline": "General",
-      "path": null,
-      "notes": "The character is socially obnoxious, and annoying. Individuals with this handicap must take a 1c to Cha in all social settings in which being a boor would be a disadvantage. Players should roleplay the character in a suitably boorish manner.",
-      "created_at": "2026-09-05T23:12:09.171701+00:00",
-      "cost": "0s",
-      "belongs_to": null
-    },
-    {
       "id": 336,
       "name": "Bridge Officer (mso)",
       "effect": "+2 to all operational ability rolls on ship systems.",
@@ -27706,21 +26401,6 @@
       "belongs_to": null
     },
     {
-      "id": 339,
-      "name": "Clumsy (mso)",
-      "effect": "Must pass 🏃 check when handling delicate items or drop/fumble.",
-      "stat_hook": null,
-      "genres": [
-        "SciFi"
-      ],
-      "discipline": "General",
-      "path": null,
-      "notes": "This handicap requires that a character roll a 🏃 check when handling something fragile or in attempts to catch things. All such checks are made at a -3 penalty.",
-      "created_at": "2026-09-05T23:12:09.171701+00:00",
-      "cost": "0s",
-      "belongs_to": null
-    },
-    {
       "id": 318,
       "name": "Code of Honor",
       "effect": "Bound by chivalry: must accept honorable surrenders and never strike a helpless foe.",
@@ -27734,21 +26414,6 @@
       "path": "Handicap",
       "notes": "Handicap / tactical rule exception.",
       "created_at": "2026-08-29T16:13:07.305713+00:00",
-      "cost": "0s",
-      "belongs_to": null
-    },
-    {
-      "id": 340,
-      "name": "Color Blind (mso)",
-      "effect": "Cannot perceive colors; functions in monochrome vision.",
-      "stat_hook": null,
-      "genres": [
-        "SciFi"
-      ],
-      "discipline": "General",
-      "path": null,
-      "notes": "This handicap indicates that a character cannot see colors at all. It may only be taken by members of races who see in color.",
-      "created_at": "2026-09-05T23:12:09.171701+00:00",
       "cost": "0s",
       "belongs_to": null
     },
@@ -27839,21 +26504,6 @@
       "path": "Cyber Warrior (mso) {Free}",
       "notes": "Cyber Warriors may become skilled in all CyberTech Weapons and Weapon Implants.",
       "created_at": "2026-09-05T23:12:09.383227+00:00",
-      "cost": "0s",
-      "belongs_to": null
-    },
-    {
-      "id": 341,
-      "name": "Deep Sleeper (mso)",
-      "effect": "-3 to 👁️ checks to awaken from loud noises or disturbances.",
-      "stat_hook": null,
-      "genres": [
-        "SciFi"
-      ],
-      "discipline": "General",
-      "path": null,
-      "notes": "A deep sleeper will sleep through virtually anything, and suffers a -3 penalty when attempting to wake up, even in the face of loud noise, attack, etc.",
-      "created_at": "2026-09-05T23:12:09.171701+00:00",
       "cost": "0s",
       "belongs_to": null
     },
@@ -28038,21 +26688,6 @@
       "belongs_to": null
     },
     {
-      "id": 342,
-      "name": "Fast Drain (mso)",
-      "effect": "Loses Vit at double the normal rate when bleeding or draining.",
-      "stat_hook": null,
-      "genres": [
-        "SciFi"
-      ],
-      "discipline": "General",
-      "path": null,
-      "notes": "Characters with fast drain lose Vit faster than others. Characters with this handicap who take critical Dmg receive two points of Dmg per round, instead of one.",
-      "created_at": "2026-09-05T23:12:09.171701+00:00",
-      "cost": "0s",
-      "belongs_to": null
-    },
-    {
       "id": 530,
       "name": "Fastidious Combat Shunning (mso)",
       "effect": "Prefers clean elegant weapons; fights savagely with natural weapons if forced.",
@@ -28064,21 +26699,6 @@
       "path": "[\"Zin-Shee Female (mso) {Free}\", \"Zin-Shee Male (mso) {Free}\"]",
       "notes": "Deeply dislike messy, bloody physical combat, preferring elegant, precise weapons (like rapiers or lasers) that kill cleanly. If forced to resort to natural weapons (teeth and claws), they will fight with terrifying, savage violence—but will immediately indulge in a long, hot bath afterward.",
       "created_at": "2026-09-05T23:12:09.558298+00:00",
-      "cost": "0s",
-      "belongs_to": null
-    },
-    {
-      "id": 343,
-      "name": "Fearful (mso)",
-      "effect": "-3 to fear checks and morale saves.",
-      "stat_hook": null,
-      "genres": [
-        "SciFi"
-      ],
-      "discipline": "General",
-      "path": null,
-      "notes": "Fearful characters make fear checks at -3.",
-      "created_at": "2026-09-05T23:12:09.171701+00:00",
       "cost": "0s",
       "belongs_to": null
     },
@@ -28130,21 +26750,6 @@
       "path": "Unique Quirks",
       "notes": "Derived stat hook: Increases Max Luck pool by 1.",
       "created_at": "2026-08-29T16:13:07.058166+00:00",
-      "cost": "0s",
-      "belongs_to": null
-    },
-    {
-      "id": 345,
-      "name": "Frail (mso)",
-      "effect": "Maximum Vit is permanently reduced (2 dice steps below actual Vit).",
-      "stat_hook": null,
-      "genres": [
-        "SciFi"
-      ],
-      "discipline": "General",
-      "path": null,
-      "notes": "Frail characters have a Vit maximum which is 2d below their actual Vit. A frail character with a d8 vitality would, therefore, have only 8 (d6) Vitality points, instead of 12. The character may still use his or her normal Vit for all other rolls, however.",
-      "created_at": "2026-09-05T23:12:09.171701+00:00",
       "cost": "0s",
       "belongs_to": null
     },
@@ -28226,36 +26831,6 @@
       "path": "Handicap",
       "notes": "Derived stat hook: Reduces Max Vitality by 3.",
       "created_at": "2026-08-29T16:13:07.24249+00:00",
-      "cost": "0s",
-      "belongs_to": null
-    },
-    {
-      "id": 346,
-      "name": "Glass Jaw (mso)",
-      "effect": "+When wounded by a physical blow; Save 🫀^Wounds or Stunned for 1-Rnd.",
-      "stat_hook": null,
-      "genres": [
-        "SciFi"
-      ],
-      "discipline": "General",
-      "path": null,
-      "notes": "A severe physiological fragility where blunt physical trauma to the head or jaw easily overwhelms cranial equilibrium and triggers immediate sensory blackout.",
-      "created_at": "2026-09-05T23:12:09.171701+00:00",
-      "cost": "0s",
-      "belongs_to": null
-    },
-    {
-      "id": 347,
-      "name": "Greedy (mso)",
-      "effect": "Must pass 🫀 check with Adv vs value or demand largest share of loot.",
-      "stat_hook": null,
-      "genres": [
-        "SciFi"
-      ],
-      "discipline": "General",
-      "path": null,
-      "notes": "Greedy characters who encounter large amounts of money, valuable pieces of equipment, etc., must make a WP roll with advantage vs the value in credits or demand to be given the item or the lion’s share of the money. Greed is also a good roleplaying handicap, as it does not always have direct gaming applications.",
-      "created_at": "2026-09-05T23:12:09.171701+00:00",
       "cost": "0s",
       "belongs_to": null
     },
@@ -28513,51 +27088,6 @@
       "belongs_to": null
     },
     {
-      "id": 350,
-      "name": "Low Death Threshold (mso)",
-      "effect": "Death checks begin at -5 Vit instead of normal -10 Vit.",
-      "stat_hook": null,
-      "genres": [
-        "SciFi"
-      ],
-      "discipline": "General",
-      "path": null,
-      "notes": "Characters with low death thresholds begin making death checks at five points of critical Dmg, rather than the normal 10.",
-      "created_at": "2026-09-05T23:12:09.171701+00:00",
-      "cost": "0s",
-      "belongs_to": null
-    },
-    {
-      "id": 351,
-      "name": "Low Heat Tolerance (mso)",
-      "effect": "-3 to all checks vs heat; -1 AR vs heat and plasma Dmg.",
-      "stat_hook": null,
-      "genres": [
-        "SciFi"
-      ],
-      "discipline": "General",
-      "path": null,
-      "notes": "Characters with this handicap must make all rolls against heat at -3. Armor rolls vs heat and plasma Dmg are at -1.",
-      "created_at": "2026-09-05T23:12:09.171701+00:00",
-      "cost": "0s",
-      "belongs_to": null
-    },
-    {
-      "id": 352,
-      "name": "Low Poison Tolerance (mso)",
-      "effect": "-3 to all saves and checks to resist poisons and toxins.",
-      "stat_hook": null,
-      "genres": [
-        "SciFi"
-      ],
-      "discipline": "General",
-      "path": null,
-      "notes": "Characters with this handicap take a -3 penalty on all rolls to resist poison.",
-      "created_at": "2026-09-05T23:12:09.171701+00:00",
-      "cost": "0s",
-      "belongs_to": null
-    },
-    {
       "id": 440,
       "name": "Marine Conditioning (mso)",
       "effect": "+1 to Technology, Dexterity, Strength, Fortitude, and Ranged.",
@@ -28770,21 +27300,6 @@
       "belongs_to": null
     },
     {
-      "id": 354,
-      "name": "Night Blindness (mso)",
-      "effect": "Treats low-light conditions as total darkness; blind in dim light.",
-      "stat_hook": null,
-      "genres": [
-        "SciFi"
-      ],
-      "discipline": "General",
-      "path": null,
-      "notes": "Characters with this handicap treat low-light conditions as total darkness, and function as if completely blind.",
-      "created_at": "2026-09-05T23:12:09.171701+00:00",
-      "cost": "0s",
-      "belongs_to": null
-    },
-    {
       "id": 513,
       "name": "No Physical Contact (mso)",
       "effect": "Strictly refuses to touch any living being, maintaining a one-inch cloak buffer.",
@@ -28813,21 +27328,6 @@
       "path": "Handicap",
       "notes": "Handicap / tactical rule exception.",
       "created_at": "2026-08-29T16:13:07.179943+00:00",
-      "cost": "0s",
-      "belongs_to": null
-    },
-    {
-      "id": 355,
-      "name": "Pacifist (mso)",
-      "effect": "Will not fight unless personally attacked or an ally is struck.",
-      "stat_hook": null,
-      "genres": [
-        "SciFi"
-      ],
-      "discipline": "General",
-      "path": null,
-      "notes": "Pacifists will not normally fight unless they are personally attacked, or one of their allies has actually been hit.",
-      "created_at": "2026-09-05T23:12:09.171701+00:00",
       "cost": "0s",
       "belongs_to": null
     },
@@ -28941,21 +27441,6 @@
       "belongs_to": null
     },
     {
-      "id": 357,
-      "name": "Poor Hearing (mso)",
-      "effect": "-3 to all 👁️ auditory perception checks.",
-      "stat_hook": null,
-      "genres": [
-        "SciFi"
-      ],
-      "discipline": "General",
-      "path": null,
-      "notes": "Characters with this handicap must take a -3 penalty to all rolls based upon hearing.",
-      "created_at": "2026-09-05T23:12:09.171701+00:00",
-      "cost": "0s",
-      "belongs_to": null
-    },
-    {
       "id": 358,
       "name": "Poor Smell (mso)",
       "effect": "-3 to all 👁️ olfactory and scent tracking checks.",
@@ -28966,66 +27451,6 @@
       "discipline": "General",
       "path": "[\"Draca (mso) {Free}\"]",
       "notes": "Characters with this handicap must take a -3 penalty to all rolls based upon smell.",
-      "created_at": "2026-09-05T23:12:09.171701+00:00",
-      "cost": "0s",
-      "belongs_to": null
-    },
-    {
-      "id": 359,
-      "name": "Poor Taste (mso)",
-      "effect": "-3 to all 👁️ taste and food/poison identification checks.",
-      "stat_hook": null,
-      "genres": [
-        "SciFi"
-      ],
-      "discipline": "General",
-      "path": null,
-      "notes": "Characters with this handicap must take a -3 penalty to all rolls based upon taste.",
-      "created_at": "2026-09-05T23:12:09.171701+00:00",
-      "cost": "0s",
-      "belongs_to": null
-    },
-    {
-      "id": 360,
-      "name": "Poor Touch (mso)",
-      "effect": "-3 to all 👁️ tactile and micro-texture checks.",
-      "stat_hook": null,
-      "genres": [
-        "SciFi"
-      ],
-      "discipline": "General",
-      "path": null,
-      "notes": "Characters with this handicap must take a -3 penalty to all rolls based upon touch.",
-      "created_at": "2026-09-05T23:12:09.171701+00:00",
-      "cost": "0s",
-      "belongs_to": null
-    },
-    {
-      "id": 361,
-      "name": "Poor Vision (mso)",
-      "effect": "-3 to all 👁️ visual perception checks.",
-      "stat_hook": null,
-      "genres": [
-        "SciFi"
-      ],
-      "discipline": "General",
-      "path": null,
-      "notes": "Characters with this handicap must take a -3 penalty to all rolls based upon vision.",
-      "created_at": "2026-09-05T23:12:09.171701+00:00",
-      "cost": "0s",
-      "belongs_to": null
-    },
-    {
-      "id": 362,
-      "name": "Poverty (mso)",
-      "effect": "Starts with half credits; mission allowances reduced by 1 rank.",
-      "stat_hook": null,
-      "genres": [
-        "SciFi"
-      ],
-      "discipline": "General",
-      "path": null,
-      "notes": "The character is poor, or is badly in debt. Poor characters receive only half their starting credits, and earn mission allowance at one rank below their actual rank. Rank two characters receive pay as if they were rank one, rank three would take pay at rank two, etc. (Rank zero characters still receive normal allowance, however). If the character becomes poor after generation, then half of the character’s funds are immediately deducted, and future allowance penalties are as described above.",
       "created_at": "2026-09-05T23:12:09.171701+00:00",
       "cost": "0s",
       "belongs_to": null
@@ -29663,66 +28088,6 @@
       "belongs_to": null
     },
     {
-      "id": 390,
-      "name": "Slow (mso)",
-      "effect": "Movement rate reduced to next lower bracket (👣-2).",
-      "stat_hook": null,
-      "genres": [
-        "SciFi"
-      ],
-      "discipline": "General",
-      "path": null,
-      "notes": "A character with this handicap always moves at the next lower MR as indicated on the back of the character sheet.",
-      "created_at": "2026-09-05T23:12:09.293796+00:00",
-      "cost": "0s",
-      "belongs_to": null
-    },
-    {
-      "id": 391,
-      "name": "Slow Healer (mso)",
-      "effect": "Time required for natural recovery and healing checks is doubled.",
-      "stat_hook": null,
-      "genres": [
-        "SciFi"
-      ],
-      "discipline": "General",
-      "path": null,
-      "notes": "The normal amount of time required for the disadvantage healing check is doubled for slow healers. Thus, a slow healer may roll only once every eight hours (rather than four).",
-      "created_at": "2026-09-05T23:12:09.293796+00:00",
-      "cost": "0s",
-      "belongs_to": null
-    },
-    {
-      "id": 392,
-      "name": "Slow Reaction (mso)",
-      "effect": "Cannot use doubling die on 🚩 initiative rolls.",
-      "stat_hook": null,
-      "genres": [
-        "SciFi"
-      ],
-      "discipline": "General",
-      "path": null,
-      "notes": "Characters with this handicap may not use the doubling die when making Initiative rolls (i.e., it is a non-doubled roll).",
-      "created_at": "2026-09-05T23:12:09.293796+00:00",
-      "cost": "0s",
-      "belongs_to": null
-    },
-    {
-      "id": 393,
-      "name": "Slow Restore (mso)",
-      "effect": "Session start: roll 🍀; if fails, regain no 🍀 for adventure.",
-      "stat_hook": null,
-      "genres": [
-        "SciFi"
-      ],
-      "discipline": "General",
-      "path": null,
-      "notes": "At the beginning of each gaming session, a character with this handicap must make a Luck roll. If the roll exceeds the character’s total luck value, then the character gains back all of his or her luck boxes for the adventure. If the roll fails, then the character regains no luck boxes. Any luck boxes remaining from the last gaming session are kept, however.",
-      "created_at": "2026-09-05T23:12:09.293796+00:00",
-      "cost": "0s",
-      "belongs_to": null
-    },
-    {
       "id": 467,
       "name": "Social Dependency (mso)",
       "effect": "Highly gregarious; cannot survive prolonged psychological/emotional isolation from sentients.",
@@ -30262,36 +28627,6 @@
       "belongs_to": null
     },
     {
-      "id": 405,
-      "name": "Tunnel Vision (mso)",
-      "effect": "Field of vision reduced by one step (e.g. 180° to 90°).",
-      "stat_hook": null,
-      "genres": [
-        "SciFi"
-      ],
-      "discipline": "General",
-      "path": null,
-      "notes": "Characters with this handicap have their field of vision reduced. A member of a race which normally has a 360-degree field of vision is reduced to 270 degrees; 270 is reduced to 180; and 180 is reduced to 90. Races (such as the Shanask) which normally have a 90-degree field of vision may not take this handicap.",
-      "created_at": "2026-09-05T23:12:09.293796+00:00",
-      "cost": "0s",
-      "belongs_to": null
-    },
-    {
-      "id": 406,
-      "name": "Unattractive (mso)",
-      "effect": "-3 to social checks where physical appearance is a factor.",
-      "stat_hook": null,
-      "genres": [
-        "SciFi"
-      ],
-      "discipline": "General",
-      "path": null,
-      "notes": "Like beauty, unattractiveness is a difficult concept to define. Often, unattractiveness is a result of “ugly” personalities, bad habits, etc. In game terms, this disadvantage causes a character to take a -3 penalty on Cha rolls in which physical appearance might be a factor (when dealing with aliens, for example, ugliness is entirely relative, and unlikely to affect Cha).",
-      "created_at": "2026-09-05T23:12:09.293796+00:00",
-      "cost": "0s",
-      "belongs_to": null
-    },
-    {
       "id": 518,
       "name": "Unconsciousness and Paralysis Immunity (mso)",
       "effect": "+Immune to Unconscious and Paralyzed; remains vulnerable to Stun.",
@@ -30303,36 +28638,6 @@
       "path": "Shanask (mso) {Free}",
       "notes": "Unique Shanask physiology possesses a decentralized nervous system and redundant bio-synthetic circulatory loops, rendering them completely immune to loss of consciousness and neuromuscular paralysis.",
       "created_at": "2026-09-05T23:12:09.47841+00:00",
-      "cost": "0s",
-      "belongs_to": null
-    },
-    {
-      "id": 407,
-      "name": "Unhealthy (mso)",
-      "effect": "-3 to 🫀 saves vs illnesses and diseases.",
-      "stat_hook": null,
-      "genres": [
-        "SciFi"
-      ],
-      "discipline": "General",
-      "path": null,
-      "notes": "Unhealthy characters catch illnesses more easily than other characters. All FR rolls to resist disease are made at -3.",
-      "created_at": "2026-09-05T23:12:09.293796+00:00",
-      "cost": "0s",
-      "belongs_to": null
-    },
-    {
-      "id": 408,
-      "name": "Unlucky (mso)",
-      "effect": "Must spend 2 🍀 chits to reroll dice instead of 1 🍀.",
-      "stat_hook": null,
-      "genres": [
-        "SciFi"
-      ],
-      "discipline": "General",
-      "path": null,
-      "notes": "Unlucky characters must spend two luck boxes each time they wish to reroll the dice. This handicap does not affect luck burn.",
-      "created_at": "2026-09-05T23:12:09.293796+00:00",
       "cost": "0s",
       "belongs_to": null
     },
@@ -30384,21 +28689,6 @@
       "belongs_to": null
     },
     {
-      "id": 409,
-      "name": "Very Unlucky (mso)",
-      "effect": "Must spend all remaining 🍀 chits to reroll dice.",
-      "stat_hook": null,
-      "genres": [
-        "SciFi"
-      ],
-      "discipline": "General",
-      "path": null,
-      "notes": "A character with this handicap must spend all of his or her luck boxes to reroll the dice (i.e., they effectively have one luck box).",
-      "created_at": "2026-09-05T23:12:09.293796+00:00",
-      "cost": "0s",
-      "belongs_to": null
-    },
-    {
       "id": 520,
       "name": "Vitality Drain Exemption (mso)",
       "effect": "Exempt from vitality drain and bleeding rules; Wnds do not worsen over time.",
@@ -30410,66 +28700,6 @@
       "path": "Shanask (mso) {Free}",
       "notes": "Shanask are entirely exempt from the standard Vitality drain and bleeding rules, preventing their wounds from worsening over time when critically damaged",
       "created_at": "2026-09-05T23:12:09.47841+00:00",
-      "cost": "0s",
-      "belongs_to": null
-    },
-    {
-      "id": 410,
-      "name": "Vulnerable vs Blunt Weapons (mso)",
-      "effect": "AR rolls vs blunt weapons are halved (1d).",
-      "stat_hook": null,
-      "genres": [
-        "SciFi"
-      ],
-      "discipline": "General",
-      "path": null,
-      "notes": "Individuals with this handicap make AR rolls vs blunt weapons at 1d.",
-      "created_at": "2026-09-05T23:12:09.293796+00:00",
-      "cost": "0s",
-      "belongs_to": null
-    },
-    {
-      "id": 411,
-      "name": "Vulnerable vs Edged Weapons (mso)",
-      "effect": "AR rolls vs edged weapons are halved (1d).",
-      "stat_hook": null,
-      "genres": [
-        "SciFi"
-      ],
-      "discipline": "General",
-      "path": null,
-      "notes": "Individuals with this handicap make AR rolls vs edged weapons at 1d.",
-      "created_at": "2026-09-05T23:12:09.293796+00:00",
-      "cost": "0s",
-      "belongs_to": null
-    },
-    {
-      "id": 412,
-      "name": "Vulnerable vs Energy Weapons (mso)",
-      "effect": "AR rolls vs energy and plasma weapons are halved (1d).",
-      "stat_hook": null,
-      "genres": [
-        "SciFi"
-      ],
-      "discipline": "General",
-      "path": null,
-      "notes": "Characters with this handicap must make AR rolls vs energy or plasma weapons at 1d.",
-      "created_at": "2026-09-05T23:12:09.293796+00:00",
-      "cost": "0s",
-      "belongs_to": null
-    },
-    {
-      "id": 413,
-      "name": "Vulnerable vs Projectile Weapons (mso)",
-      "effect": "AR rolls vs projectile and kinetic weapons are halved (1d).",
-      "stat_hook": null,
-      "genres": [
-        "SciFi"
-      ],
-      "discipline": "General",
-      "path": null,
-      "notes": "Characters with this handicap must make AR rolls vs projectile weapons at 1d.",
-      "created_at": "2026-09-05T23:12:09.293796+00:00",
       "cost": "0s",
       "belongs_to": null
     },
@@ -30530,36 +28760,6 @@
       "path": "Warrior (mso)",
       "notes": "Objective & Focus: The ultimate martial masters of physical close-quarters combat. Blends standard tech melee, exotic polearms, and ancient knighthood tactics.",
       "created_at": "2026-09-05T23:12:09.383227+00:00",
-      "cost": "0s",
-      "belongs_to": null
-    },
-    {
-      "id": 414,
-      "name": "Weak Grip (mso)",
-      "effect": "-3 to 💪 checks to hold objects or resist disarm.",
-      "stat_hook": null,
-      "genres": [
-        "SciFi"
-      ],
-      "discipline": "General",
-      "path": null,
-      "notes": "This character must take a -3 penalty when rolling to hold onto things that would normally require a 💪 check.",
-      "created_at": "2026-09-05T23:12:09.293796+00:00",
-      "cost": "0s",
-      "belongs_to": null
-    },
-    {
-      "id": 415,
-      "name": "Weak Will (mso)",
-      "effect": "-3 to 🫀 checks to resist falling unconscious.",
-      "stat_hook": null,
-      "genres": [
-        "SciFi"
-      ],
-      "discipline": "General",
-      "path": null,
-      "notes": "Characters with this disadvantage incur a -3 penalty on all WP rolls required to stay conscious.",
-      "created_at": "2026-09-05T23:12:09.293796+00:00",
       "cost": "0s",
       "belongs_to": null
     },
