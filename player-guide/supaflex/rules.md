@@ -160,9 +160,9 @@ The complete SupaFlex game system is structured around the **Trinity of Mechanic
     * **Rationale (The Why):** Eliminates double-taxing on skill advancements. Players should never pay both the bundle price for a SkillSet and an individual skill fee for a skill contained inside it. Crediting back 1 AP preserves point-buy parity and prevents players from being penalized for learning utility skills individually before acquiring the full parent profession.
     * **Failure Mechanism (The What Breaks):** Without bundle deduplication, characters who learned a skill early are permanently overcharged relative to characters who bought the SkillSet first, creating sequencing friction, confusing character sheet skill totals, and discouraging early skill training.
 
-13. **🏋️ The Equipment Requirement AP Auto-Refund & Stat Auto-Upscaling Mandate (The Living Triad):**
-    * **Rule (The What):** Whenever a character's core attributes advance—whether through vertical die step-ups (2–8 AP) or downtime attribute reshuffles (1 AP)—the system automatically scans all trained weapons (`weapons`), armor (`wardrobe`), and shields (`armory`). Any item previously acquired with an unmet attribute surcharge (costing 2 AP In-Path or 4 AP Out-of-Path) whose requirement is now fully met immediately has its +1 AP surcharge refunded to the character's available AP pool, its recorded `ap_cost` decremented by 1 (dropping to 1 AP In-Path or 3 AP Out-of-Path), and its combat ratings (Attack die, Damage die, AR, and Block cap) automatically upscaled to full native ratings for 0 AP. Under the **Zero-Friction Attribute Oscillation Protocol (Option A)**, if a player subsequently shifts attributes such that an attribute temporarily drops below an equipped item's requirement (e.g. oscillating Might and Mind between 4 and 6), the item's combat stats downscale to reflect the lower attribute without imposing additional AP surcharges or re-taxing the player. Because the item's recorded `ap_cost` remains at baseline (1 AP or 3 AP), returning to the higher attribute tier restores native combat stats but **never triggers duplicate AP refunds** (`difference = ap_cost - base = 0`).
-    * **Rationale (The Why):** Encourages early martial experimentation and eliminates progression sequencing anxiety. Players should feel empowered to pick up and train with heavy war gear early in their careers without being permanently penalized for investing in their martial skills before their physical attributes peak. Zero-friction stat downscaling during downtime swaps prevents frustrating AP debt or unrequested proficiency drops during temporary build testing, while the recorded `ap_cost` floor mathematically prevents infinite refund loops.
+13. **🏋️ The Equipment Requirement AP Auto-Refund & Current-Stat Scaling Mandate (The Living Triad):**
+    * **Rule (The What):** Whenever a character's core attributes advance—whether through vertical die step-ups (2–8 AP) or downtime attribute reshuffles (1 AP)—the system automatically scans all trained weapons (`weapons`), armor (`wardrobe`), and shields (`armory`). Any item previously acquired with an unmet attribute surcharge (costing 2 AP In-Path or 4 AP Out-of-Path) whose requirement is now fully met immediately has its +1 AP surcharge refunded to the character's available AP pool, and its recorded `ap_cost` decremented by 1 (dropping to 1 AP In-Path or 3 AP Out-of-Path). Equipment acquired below attribute requirements functions cleanly at the character's current attribute levels without artificial stat-reduction penalties (-1 die, -2 AR, or -4 Block), eliminating double penalization. Under the **Zero-Friction Attribute Oscillation Protocol**, if a player subsequently shifts attributes such that an attribute temporarily drops below an equipped item's requirement (e.g. oscillating Might and Mind between 4 and 6 during downtime), combat stats reflect the character's current attributes without imposing additional AP surcharges or re-taxing the player. Because the item's recorded `ap_cost` remains at baseline (1 AP or 3 AP), returning to the higher attribute tier never triggers duplicate AP refunds (`difference = ap_cost - base = 0`).
+    * **Rationale (The Why):** Encourages early martial experimentation and eliminates progression sequencing anxiety without double penalizing players who already paid an extra +1 AP surcharge. Players should feel empowered to train with war gear early in their careers at their current attribute capabilities. Zero-friction scaling during downtime swaps prevents frustrating AP debt or unrequested proficiency drops during temporary build testing, while the recorded `ap_cost` floor mathematically prevents infinite refund loops.
     * **Failure Mechanism (The What Breaks):** Without automated requirement refunds, players hoard AP and delay weapon training until high levels, distorting combat flavor. Without the oscillation protection floor, players could exploit attribute swapping to generate infinite AP or, conversely, become trapped in arbitrary AP deficits when swapping dice during downtime.
 
 14. **🎁 The Path `free Trait` (0 AP) Auto-Grant Complete Refund Mandate (The Living Triad):**
@@ -863,7 +863,7 @@ Free Level Advancement
 
 Spend AP to Learn & Improve Elements (1–4 AP):
 * In-Path Elements — Learn Weapon/Armor/Shield/Power/Trait (1 AP) | Learn Skill Set (2 AP)
-* Unmet Item Requirements — Learn In-Path Weapon/Armor/Shield below requirements (2 AP: +1 AP surcharge, downscaled stats, auto-improves 0 AP, +1 AP refunded when met)
+* Unmet Item Requirements — Learn In-Path Weapon/Armor/Shield below requirements (2 AP: +1 AP surcharge, specs at current stats, +1 AP refunded when met)
 * Out-of-Path Elements (GM Approval) — Cross-path element meeting requirements (3 AP: +2 AP surcharge) | Out-of-Path Skill Set (3 AP)
 * Out-of-Path with Unmet Requirements (GM Approval) — Learn Out-of-Path Weapon/Armor/Shield below requirements (4 AP: +2 AP ~Path + 1 AP ~Req surcharges)
 * Learn New Path — Learn additional Path (4 AP + GM Approval)
@@ -899,7 +899,7 @@ Free Level Advancement
 
 Spend AP to Learn & Improve Elements (1–4 AP):
 • In-Path Elements — Learn Weapon/Armor/Shield/Power/Trait (1 AP) | Learn Skill Set (2 AP)
-• Unmet Item Requirements — Learn In-Path Weapon/Armor/Shield below requirements (2 AP: +1 AP surcharge, downscaled stats, auto-improves 0 AP, +1 AP refunded when met)
+• Unmet Item Requirements — Learn In-Path Weapon/Armor/Shield below requirements (2 AP: +1 AP surcharge, specs at current stats, +1 AP refunded when met)
 • Out-of-Path Elements (GM Approval) — Cross-path element meeting requirements (3 AP: +2 AP surcharge) | Out-of-Path Skill Set (3 AP)
 • Out-of-Path with Unmet Requirements (GM Approval) — Learn Out-of-Path Weapon/Armor/Shield below requirements (4 AP: +2 AP ~Path + 1 AP ~Req surcharges)
 • Learn New Path — Learn additional Path (4 AP + GM Approval)
@@ -940,10 +940,10 @@ Spend your accumulated AP🧩 across 3 structured tiers of progression:
 
 * **Rule (The What):** Element learning costs follow a strict 4-tier AP cost vector based on two orthogonal dimensions: Path status (`In-Path` vs `Out-of-Path`) and Attribute Requirements (`Meets Req` vs `Unmet Req`):
   1. **1 AP — In-Path & Meets Requirements (`Path & Req`):** Standard learning cost for any In-Path Weapon, Armor, Shield, Power, or Trait. (Skill Sets cost **2 AP**). No GM approval required.
-  2. **2 AP — In-Path & Unmet Requirements (`Path, ~Req`):** Surcharge of **+1 AP** for acquiring an In-Path Weapon, Armor, or Shield below attribute requirements. Stats temporarily downscale to current attributes, auto-improve at 0 AP, and the +1 AP surcharge is fully refunded once the requirement is met.
+  2. **2 AP — In-Path & Unmet Requirements (`Path, ~Req`):** Surcharge of **+1 AP** for acquiring an In-Path Weapon, Armor, or Shield below attribute requirements. The item specs cleanly at the character's current attributes (no -1 die, -2 AR, or -4 Block double penalties), auto-scales at 0 AP, and the +1 AP surcharge is fully refunded once the requirement is met.
   3. **3 AP — Universal Path Elements (No GM Approval):** Any element in the `Universal` Path may be learned for **3 AP without GM approval**. (Alternatively, learning the `Universal Path` for **4 AP** reduces all Universal elements to the standard In-Path rate of **1 AP**).
   4. **3 AP — Out-of-Path & Meets Requirements (`~Path & Req`):** Surcharge of **+2 AP** for cross-training an Element outside known Paths **WITH GM Approval**.
-  5. **4 AP — Out-of-Path & Unmet Requirements (`~Path, ~Req`):** Surcharge of **+3 AP** (+2 AP for `~Path` and +1 AP for `~Req`) **WITH GM Approval**. Stats downscale until requirement is met; +1 AP refunded when attribute requirement is satisfied.
+  5. **4 AP — Out-of-Path & Unmet Requirements (`~Path, ~Req`):** Surcharge of **+3 AP** (+2 AP for `~Path` and +1 AP for `~Req`) **WITH GM Approval**. Specs cleanly at current attributes without stat reduction penalties; +1 AP refunded when attribute requirement is satisfied.
   6. **Base Path (0 AP Innate):** Every character starts with the `Base Path` (0 AP). Baseline weapon proficiencies (`Brawl`, `Throw Object`, `Improvised Weapon`) and armor (`Unarmored`) cost the standard In-Path rate of **1 AP** for everyone.
   7. **Skills Exception:** Individual Skills cost **1 AP** and Skill Sets cost **2 AP** universally. Skills have no requirements and carry no path surcharge or penalty.
   8. **New Path Acquisition (4 AP + GM Approval):** Unlocking an entire new Path costs **4 AP WITH GM Approval** (the Universal Path may be learned for 4 AP without GM approval).
@@ -977,10 +977,10 @@ Character advancement relies on Horizontal Augments without rigid hierarchical v
 | Category | AP🧩 Options |
 | --- | --- |
 | **In-Path & Meets Req (`Path & Req`)** | • Learn 1 In-Path Weapon, Armor, Shield, Power🔥, or Trait🧬 — **1 AP**<br>• Learn 1 In-Path Skill Set🎓 — **2 AP** |
-| **In-Path & Unmet Req (`Path, ~Req`)** | • Learn In-Path Weapon, Armor, or Shield below requirements *(Stats downscale, auto-improve 0 AP, +1 AP refunded when met)* — **2 AP** (+1 AP Surcharge) |
+| **In-Path & Unmet Req (`Path, ~Req`)** | • Learn In-Path Weapon, Armor, or Shield below requirements *(Current stats, auto-improve 0 AP, +1 AP refunded when met)* — **2 AP** (+1 AP Surcharge) |
 | **Universal Path Elements** | • Learn 1 Universal Trait or Power *(NO GM Approval)* — **3 AP**<br>*(Reduces to 1 AP if Universal Path is learned)* |
 | **Out-of-Path & Meets Req (`~Path & Req`)** | • Learn 1 Out-of-Path Weapon, Armor, Shield, Power🔥, or Trait🧬 *(GM Approval)* — **3 AP** (+2 AP Surcharge) |
-| **Out-of-Path & Unmet Req (`~Path, ~Req`)** | • Learn 1 Out-of-Path Weapon, Armor, or Shield below requirements *(GM Approval; Stats downscale, +1 AP refunded when met)* — **4 AP** (+2 AP ~Path + 1 AP ~Req) |
+| **Out-of-Path & Unmet Req (`~Path, ~Req`)** | • Learn 1 Out-of-Path Weapon, Armor, or Shield below requirements *(GM Approval; Current stats, +1 AP refunded when met)* — **4 AP** (+2 AP ~Path + 1 AP ~Req) |
 | **Skills (Universal)** | • Learn 1 Individual Skill🎓 — **1 AP**<br>• Learn 1 Skill Set🎓 — **2 AP** *(Universal, no path or req surcharges)* |
 | **New Paths🧭** | • Learn 1 new complete Path *(4 AP, GM Approval; Universal Path requires no GM Approval)* — **4 AP** |
 | **Powers🔥 Augments** | • Upgrade an existing Power🔥 along 1 Augment Vector — **1 AP**<br>• Randomly roll one Power🔥. If duplicate $\rightarrow$ gain **1 Free Augment Token** — **1 AP** |
@@ -1189,15 +1189,15 @@ Blocking Melee:
 :::
 <!-- /popover:weapons.basics -->
 
-### 🎯 Weapon Requirements, Downscaling & AP Refunding
+### 🎯 Weapon Requirements, Current-Stat Scaling & AP Refunding
 
 A character can become skilled in any Weapon⚔️ whose attribute requirements they do not yet meet:
 
-1. **Learning Surcharge (+1 AP):** Learning a weapon below its attribute requirement adds a **+1 AP surcharge** (2 AP In-Path, 4 AP Out-of-Path with GM approval).
-2. **Stat Downscaling:** All of that weapon's stats (Attack die, Damage die, Block Cap) are pulled **DOWN** to the character's current active attribute die/number.
-3. **Auto-Improvement (0 AP):** Anytime the character's relevant attribute advances to meet the requirement, the weapon's stats automatically improve to the higher value (up to the weapon's native maximum) for **0 AP**.
+1. **Learning Surcharge (+1 AP):** Learning a weapon below its attribute requirement adds a **+1 AP surcharge** (2 AP In-Path, 4 AP Out-of-Path with GM approval). Because the player pays an AP surcharge, they are not double-penalized with stat reductions.
+2. **Current-Attribute Scaling:** The weapon's combat ratings (Attack die, Damage die, Block Cap) spec cleanly to the character's current active attributes without artificial -1 die step-downs.
+3. **Auto-Improvement (0 AP):** Anytime the character's relevant attribute advances, the weapon's attack and damage naturally scale to match the higher attribute for **0 AP**.
 4. **AP Refund Engine:** The extra AP (+1 for unmet requirements, and/or +2 for Out-of-Path acquisition) is **fully refunded** to the character's available AP pool as soon as the character meets the attribute requirement and/or acquires the parent Path.
-5. **Zero-Friction Oscillation Protection:** If a player temporarily shifts attributes (such as swapping Might and Mind during downtime for 1 AP) such that an attribute drops below requirement, the weapon's combat stats downscale to reflect the lower attribute without imposing additional AP fees. Because its recorded `ap_cost` is already at baseline, returning to the higher attribute restores full stats but never triggers duplicate AP refunds.
+5. **Zero-Friction Oscillation Protection:** If a player temporarily shifts attributes (such as swapping Might and Mind during downtime for 1 AP) such that an attribute drops below requirement, combat stats reflect the lower attribute without imposing additional AP fees. Because its recorded `ap_cost` is already at baseline, returning to the higher attribute restores full stats but never triggers duplicate AP refunds.
 6. **Default Gear Possession:** When a weapon is learned, the character is assumed to possess that physical weapon as standard mundane Gear (`⚙️`) by default (unless the GM determines otherwise based on campaign tone or narrative circumstances).
 
 ### Uplifting Damage
@@ -1336,15 +1336,15 @@ Action:
 :::
 <!-- /popover:col.armor.ar -->
 
-### 🛡️ Armor & Shield Requirements, Downscaling & AP Refunding
+### 🛡️ Armor & Shield Requirements, Current-Stat Scaling & AP Refunding
 
 A character can become skilled in any Armor🧥 or Shield🛡️ whose attribute requirements they do not yet meet:
 
-1. **Learning Surcharge (+1 AP):** Learning armor or a shield below its attribute requirement adds a **+1 AP surcharge** (2 AP In-Path, 4 AP Out-of-Path with GM approval).
-2. **Stat Downscaling:** All of that item's stats (Armor AR die, Shield Block Cap, Shield Block die) are pulled **DOWN** to match the character's current active attribute number.
-3. **Auto-Improvement (0 AP):** Anytime the character's relevant attribute advances to meet the requirement, the armor's or shield's stats automatically scale up to the higher value (up to the item's native baseline maximum) for **0 AP**.
+1. **Learning Surcharge (+1 AP):** Learning armor or a shield below its attribute requirement adds a **+1 AP surcharge** (2 AP In-Path, 4 AP Out-of-Path with GM approval). Because the player pays an AP surcharge, they are not double-penalized with stat reductions (-2 AR or -4 Block).
+2. **Current-Attribute Scaling:** The item functions cleanly at standard catalog ratings without artificial downscaled penalties.
+3. **Auto-Improvement (0 AP):** Anytime the character's relevant attribute advances to meet the requirement, the item maintains full performance for **0 AP**.
 4. **AP Refund Engine:** The extra AP surcharge (+1 for unmet requirements, and/or +2 for Out-of-Path acquisition) is **fully refunded** to the character's available AP pool as soon as the character meets the attribute requirement and/or acquires the parent Path.
-5. **Zero-Friction Oscillation Protection:** If a player temporarily shifts attributes during downtime such that an attribute drops below requirement, the armor's or shield's defensive stats downscale to reflect the lower attribute without imposing additional AP fees. Because its recorded `ap_cost` is already at baseline, returning to the higher attribute restores full stats but never triggers duplicate AP refunds.
+5. **Zero-Friction Oscillation Protection:** If a player temporarily shifts attributes during downtime such that an attribute drops below requirement, no additional AP fees are imposed. Because its recorded `ap_cost` is already at baseline, returning to the higher attribute restores full stats but never triggers duplicate AP refunds.
 6. **Default Gear Possession:** When armor or a shield is learned, the character is assumed to possess that physical item as standard mundane Gear (`⚙️`) by default (unless the GM determines otherwise based on campaign tone or narrative circumstances).
 
 ### 🛡️ Shields
