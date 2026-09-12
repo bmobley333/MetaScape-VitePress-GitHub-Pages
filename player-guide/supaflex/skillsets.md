@@ -138,7 +138,6 @@ Master indexed skill sets and atomic skills directory.
 | **Navigation** | 👁️ | Tech | Mountaineering, Sailing, Ship Office Astrogation, Urban Survival, Urban Survival🎓, Vehicle Driver |  |
 | **Negotiation** | 👁️ | General | Diplomacy, Mercantile |  |
 | **Nish** | 🏃 | General | Agility, Athletics | Short of Initiative. Nish is the per round turn order for characters and GM ran monsters and NPCs |
-| **Nish (mso)** | 🏃 | Universal |  | Short of Initiative. Nish is the per round turn order for characters and GM ran monsters and NPCs |
 | **Parkour** | 🏃 | Physical |  |  |
 | **Performance** | 👁️ | General | Bardic |  |
 | **Persuasion** | 👁️ | General | Bardic, Diplomacy |  |
