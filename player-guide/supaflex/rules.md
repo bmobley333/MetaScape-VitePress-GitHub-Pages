@@ -188,6 +188,8 @@ Emojis🙂 are to follow their key word(s) in nearly every case (other than head
 
 The five Attribute✅ (Atr) emojis🙂 can be used both following their key words as in: Might💪, Motion🏃, Mind👁️, Magic✨, and Moxie🫀, but also following any ability as an indicator as to which of the five attributes to roll for that ability. (e.g., “Stealth🏃” is the shorthand version of, and means the same thing as “Stealth roll using Motion🏃” or “Motion🏃 Stealth” and this shorthand is the preferred method.
 
+The **`⚡` emoji** strictly represents a **Bolt** (5 accumulated Sparks/Charges), NEVER an individual spark. Individual points are called Sparks or Spark Charges (synonymous terms). When a hero accumulates 5 sparks, they have a Bolt!
+
 Monster stats place the emojis before key numbers or number sets as in:
 
 4 Orc Guards (Heavy Leather, Scimitars, Bucklers) 🚩14, 👣10, ⚔️18/12, 🛡️16/2, ❤️12 – [💪18/🏃12/👁️10/✨10/🫀12] (Poisoned blades Magic✨ or Weakened).
@@ -204,6 +206,7 @@ Monster stats place the emojis before key numbers or number sets as in:
 | Artifacts🔮 | 🔮 |
 | Atr✅ | ✅ |
 | Block🛡️ | 🛡️ |
+| Bolt⚡ (5 Sparks) | ⚡ |
 | Camp Gear🏕️ | 🏕️ |
 | Clothing & Personal👕 | 👕 |
 | Combat⚔️ | ⚔️ |
@@ -331,7 +334,7 @@ Enc (Encounter) – The series of rounds that make up a combat event or distinc
 
 Equipment🧰 – Legacy synonym for Gear⚙️.
 
-Exclusive Stacking Master Rule – The +1 tactical bonus from beating ALL opponents' Initiative (Nish 🚩) and the +1 bonus from being in the Fully Sparked state (⚡) stack with each other AND stack with nearly all other rolls (subject to GM discretion). ALL other bonuses, buffs, power amplifiers, and numerical modifiers DO NOT STACK unless an ability explicitly states "stacks with..." or with explicit GM approval. When multiple passive buffs or powers offer competing modifiers to the same roll or trait, only the single highest value applies.
+Exclusive Stacking Master Rule – The +1 tactical bonus from beating ALL opponents' Initiative (Nish 🚩) and the +1 bonus from holding a full Bolt (⚡) stack with each other AND stack with nearly all other rolls (subject to GM discretion). ALL other bonuses, buffs, power amplifiers, and numerical modifiers DO NOT STACK unless an ability explicitly states "stacks with..." or with explicit GM approval. When multiple passive buffs or powers offer competing modifiers to the same roll or trait, only the single highest value applies.
 
 Exotic🧿 / Exotics🧿 – Any Gear that has OR potentially has (can accept an attached Mod) an actionable tactical Function🧿 or Trait🧬. Occupies 0–4 Function Slots on the character sheet based on tier (⭕ Free: 0 Slots, 🍺 Minor: 1 Slot, 🪄 Lesser: 2 Slots, 🪬 Greater: 3 Slots, 💫 Epic: 4 Slots) when actively readied, and is purchasable with Gold or Silver ($g/s$).
 
@@ -435,7 +438,7 @@ Free Trait(s)🧬 (Free) – AP FREE (0 AP) starting traits or elements granted 
 
 Tremendous🌟 – A natural 20 on any d20 in an ability roll.
 
-Usage🔄 – Standardized 9-option list for ability frequency: `1`, `2`, `3`, `1-⚡`, `1-🍀`, `1-Enc`, `2-Enc`, `3-Enc`, `1-Rnd`.
+Usage🔄 – Standardized 9-option list for ability frequency: `1`, `2`, `3`, `1-⚡` (1 Bolt), `1-🍀`, `1-Enc`, `2-Enc`, `3-Enc`, `1-Rnd`.
 
 Vault📦 – The unlimited repository for inactive Exotics🧿 and Artifacts🔮. Items in the Vault can be swapped into active Loadout Slots during a 5-minute out-of-combat breather.
 
@@ -1605,7 +1608,7 @@ SupaFlex adopts an **Auto-Readied Power Card** architecture. All learned powers 
 
 To maintain rock-solid mathematical balance, protect bounded accuracy, and prevent degenerate power creep:
 > **Exclusive Stacking Master Rule:**
-> 1. **Universal Stacking Exceptions:** The **+1 tactical bonus from beating ALL opponents' Initiative (Nish 🚩)** and the **+1 bonus from holding a full Spark (Fully Sparked state ⚡)** stack with each other AND stack with nearly all other bonuses and rolls (subject to standard GM discretion).
+> 1. **Universal Stacking Exceptions:** The **+1 tactical bonus from beating ALL opponents' Initiative (Nish 🚩)** and the **+1 bonus from holding a full Bolt (Full Bolt state ⚡)** stack with each other AND stack with nearly all other bonuses and rolls (subject to standard GM discretion).
 > 2. **Strict Default (NO STACKING):** ALL other bonuses, damage amplifiers, stat buffs, and tactical modifiers **DO NOT STACK** unless an ability explicitly states *"stacks with..."* or with explicit GM approval.
 > 3. **Highest Value Wins:** When two or more abilities, items, or situational factors grant competing modifiers or advantage/disadvantage to the same roll or trait, only the single highest value or best effect applies.
 
@@ -1622,7 +1625,7 @@ To prevent high-level characters from hoarding endless batteries of cheap 1-Enco
 
 #### 🪄 Magic Item Parity
 
-Magic Items function EXACTLY like Powers🔥 (they are simply powers granted by item ownership). All rules for action budgets (AMP), usage frequencies, Charge costs (1-⚡), and 1-AP augments apply identically to Magic Items. Unlike innate Powers, Magic Items require Loadout Capacity Slots (1–4 slots) to attune and integrate.
+Magic Items function EXACTLY like Powers🔥 (they are simply powers granted by item ownership). All rules for action budgets (AMP), usage frequencies, Bolt costs (1-⚡), and 1-AP augments apply identically to Magic Items. Unlike innate Powers, Magic Items require Loadout Capacity Slots (1–4 slots) to attune and integrate.
 
 #### 📜 System Architecture: Power & Magic Item Grammar
 
@@ -1639,7 +1642,7 @@ Example Entries:
 
 All abilities have a Usage🔄, Action🔷, Duration⏳, and Range🎯. Often these are self-evident and do not need verbose explanation.
 
-### 🔄 Usage & The Charge Engine (⚡)
+### 🔄 Usage & The Bolt / Spark Engine (⚡)
 
 How often an ability (Power🔥 or Magic Item✨) can be used:
 
@@ -1649,32 +1652,32 @@ How often an ability (Power🔥 or Magic Item✨) can be used:
 | **`2`** | **2 Uses Total:** Expended after 2 activations; empty/consumed. | Dual-dose vials, paired charges, or double-shot disposable gear. |
 | **`3`** | **3 Uses Total:** Expended after 3 activations; empty/consumed. | Multi-charge batteries, field bandages, or 3-dose elixir vials. *(Maximum consumable capacity).* |
 | **`1-🍀`** | **1 Luck:** Consumes 1 Luck chit (🍀) from player's pool. | Clutch cinematic interrupts, heroic saves, and auto-defenses. |
-| **`1-⚡`** | **1 Spark:** Consumes 1 Spark (5 Charges, ⚡). Max 1/encounter. | High-impact tactical burst, combos, or battlefield supremacy. |
+| **`1-⚡`** | **1 Bolt:** Consumes 1 Bolt (5 Sparks, ⚡). Max 1/encounter. | High-impact tactical burst, combos, or battlefield supremacy. |
 | **`1-Enc`** | **1 per Encounter:** Refreshes when combat/encounter resolves. | Major tactical abilities, special stances, and defensive shields. |
 | **`2-Enc`** | **2 per Encounter:** Refreshes when combat/encounter resolves. | Flexible encounter abilities and tactical weapon maneuvers. |
 | **`3-Enc`** | **3 per Encounter:** Refreshes when combat/encounter resolves. | High-frequency encounter utilities and reliable tactical powers. *(HARD CAP: SupaFlex will NEVER support more than 3 uses per encounter).* |
 | **`1-Rnd`** | **1 per Round:** Refreshes every round on Initiative (Nish🚩). | Core martial strikes, baseline spells, and primary combat actions. |
 
-#### ⚡ Charge Generation & Spark Rules
+#### ⚡ Spark Generation & Bolt Rules
 
-- **5 Charges = 1 Spark:** It ALWAYS takes 5 Charges (⚡) to build 1 Spark (the filled lightning bolt icon ⚡). All Spark abilities indicate this in the Usage column as **1-⚡** (representing 1 Spark). There are no 2-⚡ or 3-⚡ costs.
-- **Charge Generation Events:** Building a Spark occurs via Charges earned in gameplay:
-  - **Tremendous or Critical Rolls:** Gain +1 Charge for every natural 20 or natural 1 on the base d20 die of a typical ability roll.
-  - **Exploding Die Events:** Gain +1 Charge per exploding die roll (if a die explodes 4 times in a row, gain 4 Charges). Applies to ANY ability roll (Skill, Attack, Defense, Focus, etc.).
-- **Sparked State (+1 to All Rolls):** A character holding a full Spark (5 Charges) is "Fully Sparked" (or has "A Full Spark"). While Sparked, they gain a flat +1 bonus to ALL Ability Rolls, Defenses, and Damage rolls until they spend their Spark (⚡) or the encounter ends.
+- **5 Sparks = 1 Bolt:** A "spark" and "spark charge" are completely synonymous terms. It ALWAYS takes 5 Sparks (or Spark Charges) to build 1 Bolt (the filled lightning bolt icon ⚡). All Bolt abilities indicate this in the Usage column as **1-⚡** (representing 1 Bolt). There are no 2-⚡ or 3-⚡ costs.
+- **Spark Generation Events:** Building a Bolt occurs via Sparks earned in gameplay:
+  - **Tremendous or Critical Rolls:** Gain +1 Spark for every natural 20 or natural 1 on the base d20 die of a typical ability roll.
+  - **Exploding Die Events:** Gain +1 Spark per exploding die roll (if a die explodes 4 times in a row, gain 4 Sparks). Applies to ANY ability roll (Skill, Attack, Defense, Focus, etc.).
+- **Full Bolt State (+1 to All Rolls):** A character holding 5 Sparks has "A Full Bolt" (or is "Bolt Charged"). While holding a full Bolt, they gain a flat +1 bonus to ALL Ability Rolls, Defenses, and Damage rolls until they spend their Bolt (⚡) or the encounter ends.
 - **Encounter Transition & Zeroing Out:**
-  - If a character reaches a full Spark (5 Charges) in an encounter, then at the end of that encounter their Charges zero out (reset to 0).
-  - Otherwise, if they end an encounter with fewer than 5 Charges (<5 Charges), their Charges carry over into the next encounter. (Characters are continuously transitioning between encounter types, whether combat or roleplaying).
+  - If a character reaches a full Bolt (5 Sparks) in an encounter, then at the end of that encounter their Sparks zero out (reset to 0).
+  - Otherwise, if they end an encounter with fewer than 5 Sparks (<5 Sparks), their Sparks carry over into the next encounter. (Characters are continuously transitioning between encounter types, whether combat or roleplaying).
 
 > [!NOTE]
 > **Elimination of Daily Hoarding (X-Day)**
-> High-tier daily powers are converted into Spark powers (1-⚡) or 1-Luck powers. Players no longer hoard powerful abilities for boss fights that never come; they earn them dynamically in every fight through tactical play and dice momentum.
+> High-tier daily powers are converted into Bolt powers (1-⚡) or 1-Luck powers. Players no longer hoard powerful abilities for boss fights that never come; they earn them dynamically in every fight through tactical play and dice momentum.
 
 #### 🧠 Game Theory & Psychology ("My Game Theory")
 
-- **Built-in Delay:** Requires 5 Charges to gain a Spark, introducing natural tactical delay for high-impact abilities.
+- **Built-in Delay:** Requires 5 Sparks to gain a Bolt, introducing natural tactical delay for high-impact abilities.
 - **Dopamine Rewards:** Gives immediate positive feedback (dopamine hit) anytime a player rolls a Tremendous (nat 20), Critical (nat 1), or Exploding die.
-- **Pavlovian Random Anticipation:** Because a player could gain multiple Charges in a single round from exploding dice, players never know exactly when a full Spark (⚡) will hit, driving engagement.
+- **Pavlovian Random Anticipation:** Because a player could gain multiple Sparks in a single round from exploding dice, players never know exactly when a full Bolt (⚡) will hit, driving engagement.
 - **Active Play Incentive:** Directly rewards active participation in encounters (taking actions, making rolls, and Focusing to trigger exploding dice).
 
 ### 🔷 Actions
@@ -1837,7 +1840,7 @@ In SupaFlex, rarely if ever does a target (friend, foe, or PC) simply have an un
 When activating any Power🔥 or Magic Item✨, a player may spend 1 Luck chit (🍀) from their pool to apply a dynamic "Rule of 1" modification (+1 / -1) to that activation.
 
 Permitted "Rule of 1" Modifications (Pick One per Luck Chit):
-* **+1 Charge:** Immediately gain +1 Charge toward your Spark gauge (Limit: Max 2 converted per round).
+* **+1 Spark:** Immediately gain +1 Spark (Spark Charge) toward your Bolt gauge (Limit: Max 2 converted per round).
 * **-1 Action Budget:** Compress action cost by 1 step (AM → A → M → P → F). (e.g., Activate an Attack (A) power as a Partial (P) action).
 * **+1 Target:** Add +1 target to the power or magic item's effect. (e.g., Strike 2 adjacent foes with a single-target melee/spell power).
 * **+1 Die Tier:** Increase damage or healing die by 1 die step (d4 → d6 → d8 → d10 → d12).
@@ -1846,7 +1849,10 @@ Permitted "Rule of 1" Modifications (Pick One per Luck Chit):
 
 Play & Integration Rules:
 * **Limit:** Maximum 1 Luck Twist (🍀) per power/item activation (cannot stack multiple Luck chits on the exact same roll/activation).
-* **No Direct 1-⚡ Bypass:** Luck chits CANNOT be spent to directly activate 1-⚡ Powers or Magic Items. They only build toward the 5-Charge Spark requirement via Option 1 (+1 Charge).
+* **The Luck-for-Bolt Substitution Mandate (1 per Encounter):**
+  * **Rule (The What):** Per encounter, a player may expend **1 Luck box/chit (`🍀`)** directly in place of a **Bolt (`⚡`)** to activate any `1-⚡` Power, Magic Item, or Tactical Pivot. However, this substitution may be used **ONLY ONCE per encounter without GM approval**. Any subsequent Luck-for-Bolt substitutions within the same encounter strictly require explicit GM authorization.
+  * **Rationale (The Why):** High-impact tactical powers (`1-⚡`) require momentum (accumulating 5 sparks through nat 20s, nat 1s, or exploding dice). In climactic or fast-paced boss encounters where dice momentum has not yet built 5 sparks, burning a precious narrative resource (Luck chit) enables heroic cinematic intervention. Capping this at once per encounter without GM approval prevents players from bypassing the spark engine entirely to spam high-impact abilities.
+  * **Failure Mechanism (The What Breaks):** Prohibiting Luck substitution entirely causes `1-⚡` powers to go unused in short or unlucky encounters, frustrating players. Allowing unlimited Luck substitutions without GM permission breaks the action-economy pacing and encourages draining Luck reserves for consecutive alpha strikes.
 * **Instant Adjudication:** No character sheet editing required. Simply announce: "I'm burning a Luck chit 🍀 for a +1 Target / -1 Action Budget Twist!"
 * **Magic Item Parity:** Applies 100% identically to both Powers (🔥) and Magic Items (✨).
 
@@ -1866,7 +1872,7 @@ Starting Luck🍀: 3 chits.
 
 Earning Luck🍀: Awarded for cool, funny, or heroic play (max 5).
 
-Other Uses: May be spent for special learned Luck Powers🔥 (e.g., Lucky Dodge, Inspire Ally, Twist of Fate).
+Other Uses: May be spent for special learned Luck Powers🔥 (e.g., Lucky Dodge, Inspire Ally, Twist of Fate) or used once per encounter in place of a Bolt (⚡) to activate a 1-⚡ ability or Tactical Pivot.
 
 <!-- @rule:magic_items.basics anchor="#equipment-loadout" -->
 ## 🧿 Gear, Exotics & The Lineage Hierarchy {#equipment-loadout}
@@ -1940,7 +1946,7 @@ SupaFlex eliminates weight math, bulk values, and movement rate penalties. A cha
 
 #### Emergency Exotic Shunt Protocol
 * **Rule (The What):** In combat on the player's Nish, a character may execute an emergency exotic shunt to hot-swap powers between their active stance loadout and their Exotics Vault:
-  * **Cost:** Costs **ONLY 1 Luck Chit (`🍀`)** deducted from the character's Luck Pool. (Spark charges and Focus die degradation step costs are completely eliminated).
+  * **Cost:** Costs **ONLY 1 Luck Chit (`🍀`)** deducted from the character's Luck Pool. (Sparks and Focus die degradation step costs are completely eliminated).
   * **Action:** Costs **1 Free Action `[F]`** (as it already consumes a Luck Chit).
   * **Usage Frequency:** Can be executed on the character's Nish as a Free Action `[F]`, provided the character spends 1 Luck Chit.
   * **1 Add / N Removes Loadout Rule:** A shunt allows adding **exactly 1 exotic power** from the Exotics Vault into the active stance loadout. The player may unslot/remove **any number of active exotic powers** to balance their loadout capacity. Once an active power is removed during a shunt session, it is locked into Cold Storage and **cannot be added back**. The active stance loadout cannot exceed the character's total Exotic Slots Capacity when the shunt is applied.
@@ -2014,8 +2020,8 @@ The **Chaos Gauntlet** is an arcane or hyper-tech harness capable of focusing vo
 4. **Action Economy & Rate of Use:**
    * Activating a Chaos Gem is a **Free Action (`F`)**.
    * **Only 1 Chaos Gem may be used per combat round** without explicit GM approval.
-5. **Wrist Mega Slot & Spark Synergy:**
-   * The **Wrist Mega Slot Gem** operates like any standard gem, but with a unique empowered resonance: it can **ALSO be activated by spending a Spark (`⚡`)** instead of deducting from the gem's remaining usage count, preserving its durability.
+5. **Wrist Mega Slot & Bolt Synergy:**
+   * The **Wrist Mega Slot Gem** operates like any standard gem, but with a unique empowered resonance: it can **ALSO be activated by spending a Bolt (`⚡`)** instead of deducting from the gem's remaining usage count, preserving its durability.
 
 > [!TIP]
 > **Single Source of Truth Catalog:** All 97 canonized Chaos Gems are maintained in the Supabase database. Browse the interactive catalog or manage your hero's gauntlet directly within the SupaFlex Character Sheet.
