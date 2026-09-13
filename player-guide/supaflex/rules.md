@@ -50,12 +50,12 @@ The complete SupaFlex game system is structured around the **Trinity of Mechanic
          [ 🧠 ABILITIES ]                                 [ ⚙️ GEAR SHELVES ]
    ┌──────┬───────┼───────┬─────────┐      ┌────────────┬────────┬────────┬──────────┬──────────┐
    ▼      ▼       ▼       ▼         ▼      ▼            ▼        ▼        ▼          ▼          ▼
- [ ATR ] [SKILL] [SKILLSET][POWERS] [SPEC] [🎒SUPPLIES] [⚔️WEAP] [🥋ARMOR] [🛡️SHIELDS] [🔮EXOTICS] [📦KITS]
+ [ ATR ] [SKILL] [SKILLSET][POWERS] [SPEC] [🎒SUPPLIES] [⚔️WEAP] [🥋ARMOR] [🛡️SHIELDS] [🧿EXOTICS] [📦KITS]
   (✅)    (🎓)      (🎓)    (🔥)     (📜)   (Mundane)   (Martial)(Defensive)(Block)   (Tactical) (Bundles)
                                             (0 Slots)   (0 Slots)(0 Slots)(0 Slots)  (1–4 Slots)  (g/s)
                                                                                        │          │
                                                                                        ▼          ▼
-                                                                                [ 🔮 EXOTIC POWERS ] [ 🔌 MODS ]
+                                                                                [ 🧿 EXOTIC'S POWERS ] [ 🔌 MODS ]
                                                                                 [ (Artifacts & Gear) ] (Subordinate)
 ```
 
@@ -201,12 +201,12 @@ Monster stats place the emojis before key numbers or number sets as in:
 | AR🧥 | 🧥 |
 | Armor🧥 | 🧥 |
 | Art🎨 | 🎨 |
-| Artifacts🔮 (1–4 Slots) | 🔮 |
+| Artifacts🔮 | 🔮 |
 | Atr✅ | ✅ |
-| Block🧱 | 🛡️ |
+| Block🛡️ | 🛡️ |
 | Camp Gear🏕️ | 🏕️ |
 | Clothing & Personal👕 | 👕 |
-| Combat ⚔️ | ⚔️ |
+| Combat⚔️ | ⚔️ |
 | Containers🧺 | 🧺 |
 | Critical💀 | 💀 |
 | Days📅 | 📅 |
@@ -218,21 +218,19 @@ Monster stats place the emojis before key numbers or number sets as in:
 | Entertainment & Instruments🎵 | 🎵 |
 | Epic💫 (4 Slots • Exotic / Artifact) | 💫 |
 | Equipment🧰 (Legacy Synonym for Gear) | 🧰 |
-| Exotics🧿 (1–4 Slots) | 🧿 |
+| Exotic Slots🧿 | 🧿 |
+| Exotic's Powers🧿 | 🧿 |
+| Exotics🧿 | 🧿 |
 | Food & Drink🥖 | 🥖 |
-| Function Slots🧿 | 🧿 |
-| Functions🧿 (1–4 Slots) | 🧿 |
 | Gear⚙️ (Universal Physical Items) | ⚙️ |
 | GM🔎 | 🔎 |
 | Greater🪬 (3 Slots • Exotic / Artifact) | 🪬 |
 | Hazard💀 | 💀 |
 | Junk🗑️ | 🗑️ |
 | Kits📦 (Hardware Suites & Bundles) | 📦 |
-| Supplies🎒 (Mundane Adventuring Gear) | 🎒 |
 | Lesser🪄 (2 Slots • Exotic / Artifact) | 🪄 |
 | Level⭐ | ⭐ |
 | Luck🍀 | 🍀 |
-| Magic Item✨ (Exotic / Artifact) | ✨ |
 | Magic✨ | ✨ |
 | Martial Arts🥋 | 🥋 |
 | Medical & Healing Supplies⚕️ | ⚕️ |
@@ -241,7 +239,7 @@ Monster stats place the emojis before key numbers or number sets as in:
 | Minor🍺 (1 Slot • Exotic / Artifact) | 🍺 |
 | Mods🔌 (Modular Attachments) | 🔌 |
 | Money💰 | 💰 |
-| Monster 🐉 | 🐉 |
+| Monster🐉 | 🐉 |
 | Motion🏃 | 🏃 |
 | Moxie🫀 | 🫀 |
 | MR👣 | 👣 |
@@ -249,30 +247,26 @@ Monster stats place the emojis before key numbers or number sets as in:
 | Nish🚩 | 🚩 |
 | Notesℹ️ | ℹ️ |
 | Paths🧭 (Capability Suites) | 🧭 |
-| Power Card🔥 | 🔥 |
 | Power🔥 | 🔥 |
-| Racial 🧬 | 🧬 |
+| Racial🧬 | 🧬 |
 | Range🎯 | 🎯 |
-| Resist✨ | ✨ |
 | Rules📜 | 📜 |
-| Save✨ | ✨ |
 | Shields🛡️ | 🛡️ |
 | Single Weapon🗡️ | 🗡️ |
-| Skill Set🎓 | 🎓 |
 | Skill🎓 | 🎓 |
-| Exotic🧿 (Extraordinary / Functions) | 🧿 |
-| Artifact🔮 (Found Treasure / Legendary Gear) | 🔮 |
-| Traits🧬 (Modular Boons & Inherent Rules) | 🧬 |
+| Skill Set🎓 | 🎓 |
+| Supplies🎒 (Mundane Adventuring Gear) | 🎒 |
 | Term📖 | 📖 |
 | Tools & Equipment🛠️ | 🛠️ |
+| Traits🧬 (Modular Boons & Inherent Rules) | 🧬 |
 | Travel & Animals🐴 | 🐴 |
 | Tremendous🌟 | 🌟 |
-| Unarmed 🥊 | 🥊 |
+| Unarmed🥊 | 🥊 |
 | Usage🔄 | 🔄 |
 | Vault📦 | 📦 |
 | Vit❤️ | ❤️ |
-| Weapon & Shield🛡️ | 🛡️ |
 | Weapon⚔️ | ⚔️ |
+| Weapon & Shield🛡️ | 🛡️ |
 | Wnd🩸 | 🩸 |
 | Writing & Communication✒️ | ✒️ |
 
@@ -1875,7 +1869,7 @@ Earning Luck🍀: Awarded for cool, funny, or heroic play (max 5).
 Other Uses: May be spent for special learned Luck Powers🔥 (e.g., Lucky Dodge, Inspire Ally, Twist of Fate).
 
 <!-- @rule:magic_items.basics anchor="#equipment-loadout" -->
-## 🔮 Gear, Exotics & The Lineage Hierarchy {#equipment-loadout}
+## 🧿 Gear, Exotics & The Lineage Hierarchy {#equipment-loadout}
 
 <!-- @popover:magic_items.basics -->
 ::: details ⚡ Quick Reference: Equipment & Loadout Slots
@@ -1907,12 +1901,12 @@ SupaFlex eliminates weight math, bulk values, and movement rate penalties. A cha
                 ▼                                                     ▼
           MUNDANE UTILITY                                     TACTICAL BANDWIDTH
       (0 Slots • Gear Drawer)                               (1–4 Slots • Live Sheet)
-   [ 🎒 SUPPLIES, ⚔️ WEAPONS,                                [ 🔮 EXOTIC POWERS ]
+   [ 🎒 SUPPLIES, ⚔️ WEAPONS,                                [ 🧿 EXOTIC'S POWERS ]
      🥋 ARMOR, 🛡️ SHIELDS ]                                           │
                                            ┌──────────────────────────┴──────────────────────────┐
                                            ▼                                                     ▼
                                    UNPURCHASABLE LOOT                                    STORE / CRAFTED
-                                    [ 🔮 ARTIFACTS ]                                      [ 🔮 EXOTICS ]
+                                    [ 🔮 ARTIFACTS ]                                      [ 🧿 EXOTICS ]
                                    (Found Treasure)                                      (Purchasable)
                                            │                                                     │
                                            └─────────────────────┬───────────────────────────────┘
@@ -1921,7 +1915,7 @@ SupaFlex eliminates weight math, bulk values, and movement rate penalties. A cha
                                                    (Inactive Exotic Powers Pool)
                                                                  │
                                                                  ▼
-                                                     [ EXOTIC POWER'S MANAGER ]
+                                                     [ 🧿 EXOTIC POWER'S MANAGER ]
                                                 (Ready 1–4 Slots to Live Sheet)
 ```
 
