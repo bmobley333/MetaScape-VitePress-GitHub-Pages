@@ -35,7 +35,7 @@ outline: 2
 The complete SupaFlex game system is structured around the **Trinity of Mechanics**:
 1. **Ownership (What you Know & Possess):** Intangible character capabilities (**Paths 🧭**) are unlocked with AP; tangible hardware packages (**Kits 📦**) are purchased with Currency (Gold / Silver) or found as treasure.
 2. **Execution (What you Do in Combat):** Governed by the 4-channel Action Economy ($1\text{ Attack [A]} + 1\text{ Move [M]} + 1\text{ Partial [P]} + \text{Unlimited Free [F]}$, with hybrid $\text{Attack \& Move [AM]}$) with **Auto-Readied Powers** on the active Power Card.
-3. **Capacity (What you Attune / Ready Simultaneously):** Exceptional equipment abilities draw from a single, shared **Function Slots Pool 🧿** (Base 4 Function Slots at Level 1).
+3. **Capacity (What you Attune / Ready Simultaneously):** Exceptional equipment abilities draw from a single, shared **Exotic Slots Pool 🧿** (Base 4 Exotic Slots at Level 1).
 
 ```text
                                   [ 🌟 ELEMENTS ]
@@ -50,13 +50,13 @@ The complete SupaFlex game system is structured around the **Trinity of Mechanic
          [ 🧠 ABILITIES ]                                 [ ⚙️ GEAR SHELVES ]
    ┌──────┬───────┼───────┬─────────┐      ┌────────────┬────────┬────────┬──────────┬──────────┐
    ▼      ▼       ▼       ▼         ▼      ▼            ▼        ▼        ▼          ▼          ▼
- [ ATR ] [SKILL] [SKILLSET][POWERS] [SPEC] [🎒SUPPLIES] [⚔️WEAP] [🥋ARMOR] [🛡️SHIELDS] [🧿EXOTICS] [📦KITS]
+ [ ATR ] [SKILL] [SKILLSET][POWERS] [SPEC] [🎒SUPPLIES] [⚔️WEAP] [🥋ARMOR] [🛡️SHIELDS] [🔮EXOTICS] [📦KITS]
   (✅)    (🎓)      (🎓)    (🔥)     (📜)   (Mundane)   (Martial)(Defensive)(Block)   (Tactical) (Bundles)
                                             (0 Slots)   (0 Slots)(0 Slots)(0 Slots)  (1–4 Slots)  (g/s)
                                                                                        │          │
                                                                                        ▼          ▼
-                                                                                [ 🧿 FUNCTIONS ] [ 🔌 MODS ]
-                                                                                [ 🔮 ARTIFACTS ] (Subordinate)
+                                                                                [ 🔮 EXOTIC POWERS ] [ 🔌 MODS ]
+                                                                                [ (Artifacts & Gear) ] (Subordinate)
 ```
 
 ### 🏛️ The Gear Taxonomy & Lineage Hierarchy
@@ -64,15 +64,15 @@ The complete SupaFlex game system is structured around the **Trinity of Mechanic
 | Entity | Contained Sub-Elements | Attributes & Scope |
 | :--- | :--- | :--- |
 | **Gear (`⚙️`)** | Supplies, Weapons, Armor, Shields, Exotics, Kits, Artifacts | Universal master category for all physical items, hardware, and equipment. |
-| **Supplies (`🎒`)** | Mundane Tools, Electronics, Consumables, Survival Gear | Baseline mundane adventuring equipment (0 Function Slots, no attached Function). Priced in $g / s$. |
-| **Weapons (`⚔️`)** | Melee, Ranged, Natural, Tech Weapons | Martial offensive hardware. Baseline 0 Function Slots (unless promoted to Exotic via Function/Mod). Priced in $g / s$. |
-| **Armor (`🥋`)** | Light, Medium, Heavy, Powered, Environmental | Protective combat hardware providing AR. Baseline 0 Function Slots (unless promoted to Exotic via Function/Mod). Priced in $g / s$. |
-| **Shields (`🛡️`)** | Bucklers, Medium Shields, Tower, Force Shields | Protective combat hardware providing Block. Baseline 0 Function Slots (unless promoted to Exotic via Function/Mod). Priced in $g / s$. |
-| **Exotic (`🧿`)** | Tactical Functions, Cyberware, Biotech, Tech Hardware | Any Gear that has or potentially has an actionable tactical Function (either directly or via a compatible Mod). Occupies 1–4 Function Slots when attuned/readied. Priced in $g / s$. |
-| **Artifact (`🔮`)** | Functions, Traits, Legendary Powers | Ancient, magical, or alien treasures (1–4 Function Slots). Non-commercial market treasure (Cost = `"Artifact"`). Reserved for loot tables and discovery. |
-| **Mod (`🔌`)** | Functions, Traits, Hardware Upgrades | Subordinate gear extension layer (NOT a top-level catalog category). Optional modification, module, or hardware attachment uniquely linked via `belongs_to` to parent gear (Weapons, Armor, Shields, Supplies, Exotics). Carries a financial cost ($g/s$) unless standard factory equipment (`free Trait`). |
+| **Supplies (`🎒`)** | Mundane Tools, Electronics, Consumables, Survival Gear | Baseline mundane adventuring equipment (0 Exotic Slots, no attached Exotic Power). Priced in $g / s$. |
+| **Weapons (`⚔️`)** | Melee, Ranged, Natural, Tech Weapons | Martial offensive hardware. Baseline 0 Exotic Slots (unless promoted to Exotic via Exotic Power/Mod). Priced in $g / s$. |
+| **Armor (`🥋`)** | Light, Medium, Heavy, Powered, Environmental | Protective combat hardware providing AR. Baseline 0 Exotic Slots (unless promoted to Exotic via Exotic Power/Mod). Priced in $g / s$. |
+| **Shields (`🛡️`)** | Bucklers, Medium Shields, Tower, Force Shields | Protective combat hardware providing Block. Baseline 0 Exotic Slots (unless promoted to Exotic via Exotic Power/Mod). Priced in $g / s$. |
+| **Exotic (`🔮`)** | Tactical Exotic Powers, Cyberware, Biotech, Tech Hardware, Artifact Relics | Any Gear that has an actionable tactical Exotic Power (whether purchasable with money/gold or found as unpurchasable artifact treasure). Occupies 1–4 Exotic Slots when attuned/readied. |
+| **Artifact (`🔮`)** | Exotic Powers, Traits, Legendary Powers | Ancient, magical, or alien treasures possessing one or more Exotic Powers (1–4 Exotic Slots). Non-commercial market treasure (Cost = `"Artifact"`). Reserved for loot tables and discovery. All artifacts with powers are Exotics. |
+| **Mod (`🔌`)** | Exotic Powers, Traits, Hardware Upgrades | Subordinate gear extension layer (NOT a top-level catalog category). Optional modification, module, or hardware attachment uniquely linked via `belongs_to` to parent gear (Weapons, Armor, Shields, Supplies, Exotics). Carries a financial cost ($g/s$) unless standard factory equipment (`free Trait`). |
 | **Kit (`📦`)** | Supplies, Weapons, Armor, Shields, Exotics, Mods | Master pre-assembled gear package / hardware bundle. Has overall package cost (e.g. `45s`, `120g`). |
-| **Function (`🧿`)** | *(Actionable Rules Execution)* | Tactical equipment ability nearly identical to a Power (`Action`, `Usage`, `Effect`, `Tier`). Consumes Function Slots ($0\text{–}4$, with `Free ⭕` costing 0 Slots). NEVER carries a financial cost ($0s$) and is universally free once the host gear/mod is owned. Belongs to either a `Mod:` or `Gear:`. |
+| **Exotic Power (`🔮`)** | *(Actionable Rules Execution)* | Tactical equipment ability nearly identical to a Power (`Action`, `Usage`, `Effect`, `Tier`). Consumes Exotic Slots ($0\text{–}4$, with `Free ⭕` costing 0 Slots). NEVER carries a financial cost ($0s$) and is universally free once the host gear/mod is owned. Belongs to either a `Mod:` or `Gear:`. |
 | **Trait (`🧬`)** | *(Modular Traits & Physiological Boons)* | Innate biology, physiological boons, tactical modifications, or modular trait hooks queried from the `traits` database table. |
 | **System Rules (`📜`)** | *(Core Game Engine Mechanics)* | Overarching game system rules, core mechanics, combat economy, and resolution engine. |
 
@@ -80,13 +80,13 @@ The complete SupaFlex game system is structured around the **Trinity of Mechanic
 
 1. **🌟 Elements = 🧠 Abilities + ⚙️ Gear:**
    * **🧠 Abilities (Intangible Features):** Unlocked via AP and packaged into **Paths (`🧭`)**. Subdivided into **✅ Attributes**, **🎓 Skills**, **🎓 Skill Sets**, **🔥 Powers**, and **🧬 Traits**.
-   * **⚙️ Gear (Physical Items & Hardware):** Purchased with Gold / Silver or found as treasure. Subdivided into **🎒 Supplies** (mundane tools/consumables, 0 slots), **⚔️ Weapons**, **🥋 Armor**, **🛡️ Shields**, **🧿 Exotics** (extraordinary, 0–4 slots), **🔮 Artifacts** (1–4 slots, cost = `"Artifact"`), and **🔌 Mods** (subordinate modular attachments).
+   * **⚙️ Gear (Physical Items & Hardware):** Purchased with Gold / Silver or found as treasure. Subdivided into **🎒 Supplies** (mundane tools/consumables, 0 slots), **⚔️ Weapons**, **🥋 Armor**, **🛡️ Shields**, **🔮 Exotics** (any gear with an Exotic Power, 0–4 slots, including purchasable gear and unpurchasable artifacts), and **🔌 Mods** (subordinate modular attachments).
 
 2. **⚙️ The Dual-State Progression of Gear & Zero-Purgatory Invariant:**
-   * **Mundane Gear (`⚙️`):** Standard physical items readily available in the economy (0 Function Slots, no attached Function, cost in $g/s$).
-   * **Exotic (`🧿`):** Any Gear that has OR potentially has (can accept an attached Mod) an actionable tactical **Function (`🧿`)**. This ensures base cyberware frames, modular weapons, and tech suits never sit in purgatory between Supplies and Exotics. Function Slots ($0\text{–}4$) are only consumed when a Function is actively installed and readied on the character sheet (`Free ⭕` costs 0 slots).
-   * **Artifact (`🔮`):** Legendary or unique treasures possessing one or more **Functions (`🧿`)** (occupying 1–4 Function Slots, cost = `"Artifact"`).
-   * **Mod Reversion & Detachment:** If an Exotic item has its Functions or Mods detached or removed, it reverts to standard baseline Gear. A Mod has no standalone utility or market existence apart from its host gear.
+   * **Mundane Gear (`⚙️`):** Standard physical items readily available in the economy (0 Exotic Slots, no attached Exotic Power, cost in $g/s$).
+   * **Exotic (`🔮`):** Any Gear that has an actionable tactical **Exotic Power (`🔮`)**. This encompasses both purchasable Exotics and unique Artifact treasures. Exotic Slots ($0\text{–}4$) are only consumed when an Exotic Power is actively installed and readied on the character sheet (`Free ⭕` costs 0 slots).
+   * **Artifact (`🔮`):** Legendary or unique treasures possessing one or more **Exotic Powers (`🔮`)** (occupying 1–4 Exotic Slots, cost = `"Artifact"`). All artifacts with powers are Exotics.
+   * **Mod Reversion & Detachment:** If an Exotic item has its Exotic Powers or Mods detached or removed, it reverts to standard baseline Gear. A Mod has no standalone utility or market existence apart from its host gear.
    * **Commercial Non-Purchasability of Artifacts:** Any item carrying `cost: "Artifact"` is strictly excluded from commercial retail catalogs and store purchases. Artifacts are acquired exclusively through discovery, GM rewards, and loot tables.
 
 3. **🧭 Paths vs. 📦 Kits Taxonomy:**
@@ -1875,7 +1875,7 @@ Earning Luck🍀: Awarded for cool, funny, or heroic play (max 5).
 Other Uses: May be spent for special learned Luck Powers🔥 (e.g., Lucky Dodge, Inspire Ally, Twist of Fate).
 
 <!-- @rule:magic_items.basics anchor="#equipment-loadout" -->
-## ⚙️ Gear, Functions & The Lineage Hierarchy {#equipment-loadout}
+## 🔮 Gear, Exotics & The Lineage Hierarchy {#equipment-loadout}
 
 <!-- @popover:magic_items.basics -->
 ::: details ⚡ Quick Reference: Equipment & Loadout Slots
@@ -1898,7 +1898,7 @@ Loadout vs. Vault:
 :::
 <!-- /popover:magic_items.basics -->
 
-SupaFlex eliminates weight math, bulk values, and movement rate penalties. A character’s tactical capability is bounded not by what they can carry, but by their active **Function Slots Capacity**.
+SupaFlex eliminates weight math, bulk values, and movement rate penalties. A character’s tactical capability is bounded not by what they can carry, but by their active **Exotic Slots Capacity**.
 
 ```text
                                     [ ⚙️ ALL GEAR ]
@@ -1907,50 +1907,50 @@ SupaFlex eliminates weight math, bulk values, and movement rate penalties. A cha
                 ▼                                                     ▼
           MUNDANE UTILITY                                     TACTICAL BANDWIDTH
       (0 Slots • Gear Drawer)                               (1–4 Slots • Live Sheet)
-   [ 🎒 SUPPLIES, ⚔️ WEAPONS,                                  [ 🧿 FUNCTIONS ]
+   [ 🎒 SUPPLIES, ⚔️ WEAPONS,                                [ 🔮 EXOTIC POWERS ]
      🥋 ARMOR, 🛡️ SHIELDS ]                                           │
                                            ┌──────────────────────────┴──────────────────────────┐
                                            ▼                                                     ▼
                                    UNPURCHASABLE LOOT                                    STORE / CRAFTED
-                                    [ 🔮 ARTIFACTS ]                                      [ 🧿 EXOTICS ]
+                                    [ 🔮 ARTIFACTS ]                                      [ 🔮 EXOTICS ]
                                    (Found Treasure)                                      (Purchasable)
                                            │                                                     │
                                            └─────────────────────┬───────────────────────────────┘
                                                                  ▼
-                                                         [ THE VAULT ]
-                                                   (Inactive Functions Pool)
+                                                         [ EXOTICS VAULT ]
+                                                   (Inactive Exotic Powers Pool)
                                                                  │
                                                                  ▼
-                                                      [ FUNCTIONS MANAGER ]
+                                                     [ EXOTIC POWER'S MANAGER ]
                                                 (Ready 1–4 Slots to Live Sheet)
 ```
 
-### 1. The Functions Vault vs. Active Function Slots & Dual Combat Stances
-* **The Functions Vault (📦):** An unlimited repository where inactive Functions rest when not readied for immediate combat or encounter use.
-* **Active Function Slots (🧿):** The equipment abilities actively integrated and available for tactical execution. Every character begins with **4 Function Slots** (0 AP) at Level 1 and can expand capacity using the uncapped soft-slope AP schedule.
-* **Breather Swap:** Characters may freely swap functions between their Vault and active Function Slots during any **5-minute out-of-combat breather**.
+### 1. The Exotics Vault vs. Active Exotic Slots & Dual Combat Stances
+* **The Exotics Vault (🏺):** An unlimited repository where inactive Exotic Powers rest when not readied for immediate combat or encounter use.
+* **Active Exotic Slots (🧿):** The equipment abilities actively integrated and available for tactical execution. Every character begins with **4 Exotic Slots** (0 AP) at Level 1 and can expand capacity using the uncapped soft-slope AP schedule.
+* **Breather Swap:** Characters may freely swap exotic powers between their Exotics Vault and active Exotic Slots during any **5-minute out-of-combat breather**.
 
 #### Non-Destructive Vault Repertoire & Dual-Stance Assignment Invariant
-* **Rule (The What):** The Functions Vault (`character_vault`) functions strictly as a character's **permanent hardware repertoire** (analogous to a wizard's known spellbook or an engineer's installed blueprint archive). Equipping a function into Stance Alpha (`spell_slots`) or Stance Beta (`stance_beta_slots`) **never deletes or removes** the function from the Vault. The identical function may be equipped into **both Stance Alpha and Stance Beta** simultaneously. Unequipping a function from an active stance removes it from that stance's combat slots while leaving it safely preserved in the Vault.
-* **Rationale (The Why):** If equipping a function deleted it from the Vault, a player could never include their favorite primary attack or core defensive function in both combat stances (Alpha and Beta). Furthermore, accidental unequip actions would permanently destroy equipment abilities, leading to catastrophic character sheet data loss and player frustration.
-* **Failure Mechanism (The What Breaks):** Destructive vault operations force players to choose which stance gets an essential function, breaking seamless mode switching (e.g. losing an active force shield or primary weapon function when entering sniper mode). It also creates state desynchronization between physical gear items and character abilities.
+* **Rule (The What):** The Exotics Vault (`character_vault`) functions strictly as a character's **permanent hardware repertoire** (analogous to a wizard's known spellbook or an engineer's installed blueprint archive). Equipping an exotic power into Stance Alpha (`spell_slots`) or Stance Beta (`stance_beta_slots`) **never deletes or removes** the power from the Exotics Vault. The identical power may be equipped into **both Stance Alpha and Stance Beta** simultaneously. Unequipping an exotic power from an active stance removes it from that stance's combat slots while leaving it safely preserved in the Exotics Vault.
+* **Rationale (The Why):** If equipping an exotic power deleted it from the Vault, a player could never include their favorite primary attack or core defensive power in both combat stances (Alpha and Beta). Furthermore, accidental unequip actions would permanently destroy equipment abilities, leading to catastrophic character sheet data loss and player frustration.
+* **Failure Mechanism (The What Breaks):** Destructive vault operations force players to choose which stance gets an essential power, breaking seamless mode switching (e.g. losing an active force shield or primary weapon power when entering sniper mode). It also creates state desynchronization between physical gear items and character abilities.
 
 #### Dual Combat Stances (🅰️ Stance Alpha & 🅱️ Stance Beta) Protocol
-* **Rule (The What):** During any out-of-combat breather, characters can configure two distinct combat loadouts: **Stance Alpha (`🅰️`)** and **Stance Beta (`🅱️`)**. Both stances independently adhere to the character's active Loadout Capacity. In combat on the player's Nish:
+* **Rule (The What):** During any out-of-combat breather, characters can configure two distinct combat loadouts: **Stance Alpha (`🅰️`)** and **Stance Beta (`🅱️`)**. Both stances independently adhere to the character's active Exotic Slots Capacity. In combat on the player's Nish:
   * **First Stance Switch in Encounter:** Costs **1 Move Action `[M]`** (`1-Enc`).
   * **Subsequent Stance Switches:** Costs **Attack + Move `[AM]`** (the character commits their main action turn, retaining only Partial `[P]` and Free `[F]` actions).
   * **Zero Reaction Actions:** SupaFlex does not utilize reaction actions `[R]`; all stance switches take place on the player's turn/Nish.
-  * **Shared Usage Synchronization:** Functions equipped in both Stance Alpha and Stance Beta share the same live usage checkmarks. Consuming a use in Stance Alpha immediately marks that use consumed in Stance Beta.
-* **Rationale (The Why):** Resolves the "Destron Armor Dilemma" where complex modular gear or exosuits carry 15–20 functions but 60–80% are inaccessible during an encounter under rigid breather lockouts. Dual stances provide tactical mode switching (e.g., Offensive Assault vs. Defensive Evasion) without overwhelming players with cognitive overload or mid-combat catalog browsing.
-* **Failure Mechanism (The What Breaks):** Without stance switching, high-tier modular gear feels artificially constrained and players avoid equipping utility functions. Allowing unlimited free switches would cause debilitating analysis paralysis, ballooning combat turns into 15-minute spreadsheet optimization sessions.
+  * **Shared Usage Synchronization:** Exotic Powers equipped in both Stance Alpha and Stance Beta share the same live usage checkmarks. Consuming a use in Stance Alpha immediately marks that use consumed in Stance Beta.
+* **Rationale (The Why):** Resolves the "Destron Armor Dilemma" where complex modular gear or exosuits carry 15–20 exotic powers but 60–80% are inaccessible during an encounter under rigid breather lockouts. Dual stances provide tactical mode switching (e.g., Offensive Assault vs. Defensive Evasion) without overwhelming players with cognitive overload or mid-combat catalog browsing.
+* **Failure Mechanism (The What Breaks):** Without stance switching, high-tier modular gear feels artificially constrained and players avoid equipping utility powers. Allowing unlimited free switches would cause debilitating analysis paralysis, ballooning combat turns into 15-minute spreadsheet optimization sessions.
 
-#### Emergency Hardware Shunt Protocol
-* **Rule (The What):** In combat on the player's Nish, a character may execute a hardware shunt to hot-swap functions between their active stance loadout and their Hardware Vault:
+#### Emergency Exotic Shunt Protocol
+* **Rule (The What):** In combat on the player's Nish, a character may execute an emergency exotic shunt to hot-swap powers between their active stance loadout and their Exotics Vault:
   * **Cost:** Costs **ONLY 1 Luck Chit (`🍀`)** deducted from the character's Luck Pool. (Spark charges and Focus die degradation step costs are completely eliminated).
   * **Action:** Costs **1 Free Action `[F]`** (as it already consumes a Luck Chit).
   * **Usage Frequency:** Can be executed on the character's Nish as a Free Action `[F]`, provided the character spends 1 Luck Chit.
-  * **1 Add / N Removes Loadout Rule:** A shunt allows adding **exactly 1 function** from the Vault into the active stance loadout. The player may unslot/remove **any number of active functions** to balance their loadout capacity. Once an active function is removed during a shunt session, it is locked into Cold Storage and **cannot be added back**. The active stance loadout cannot exceed the character's total Loadout Capacity when the shunt is applied.
-  * **Cold Storage Lockout:** All outgoing functions displaced or removed during a shunt are immediately placed into **Cold Storage**. They are completely locked out from being re-equipped, shunted, or activated for the remainder of the encounter until an encounter/breather reset.
+  * **1 Add / N Removes Loadout Rule:** A shunt allows adding **exactly 1 exotic power** from the Exotics Vault into the active stance loadout. The player may unslot/remove **any number of active exotic powers** to balance their loadout capacity. Once an active power is removed during a shunt session, it is locked into Cold Storage and **cannot be added back**. The active stance loadout cannot exceed the character's total Exotic Slots Capacity when the shunt is applied.
+  * **Cold Storage Lockout:** All outgoing powers displaced or removed during a shunt are immediately placed into **Cold Storage**. They are completely locked out from being re-equipped, shunted, or activated for the remainder of the encounter until an encounter/breather reset.
 * **Rationale (The Why):** Consuming a universal Luck Chit (`🍀`) serves as the tactical commitment and balancing resource, enabling emergency shunting as a Free Action `[F]` without draining character action tempo. The "1 Add / N Removes" protocol guarantees loadout integrity while empowering players to adapt to encounter emergencies.
 * **Failure Mechanism (The What Breaks):** Without the Luck Chit cost, players would cycle through their entire Vault mid-turn with zero tactical tradeoff. Without Cold Storage lockouts, characters could exploit infinite rotating hot-bars without committing to loadout specialization.
 
@@ -1958,17 +1958,17 @@ SupaFlex eliminates weight math, bulk values, and movement rate penalties. A cha
 * **Rule (The What):** Triggering `Clear Uses` on the character sheet or concluding an encounter/breather automatically:
   * Clears all usage checkmarks across both Stance Alpha and Stance Beta.
   * Resets the in-combat stance switch counter to 0 (restoring the first switch cost to `[M]`).
-  * Releases all functions from Cold Storage back to standard Vault readiness.
+  * Releases all exotic powers from Cold Storage back to standard Exotics Vault readiness.
 * **Rationale (The Why):** Guarantees complete determinism and eliminates stale encounter state across scene transitions.
 * **Failure Mechanism (The What Breaks):** Lingering switch counters or locked cold storage across combat scenes permanently penalizes players into subsequent encounters.
 
-### 2. Taxonomy & Function Slot Costs
-* **Mundane Gear (`⚙️` 0 Slots):** Standard utility items, weapons, armor, and shields providing narrative permissions and baseline combat stats without consuming Function Slots.
-* **0-Slot Utility Functions (`⚙️` 0 Slots):** Environmental, sensory, and life-support functions (such as Atmospheric Recycler, Thermal Regulator, Radiation Scrubber, Sub-Dermal Comms, Flashlight Beam) retain explicit Action codes (`[P]`, `[M]`, etc.), Usage frequencies (`Continuous`, `1-Enc`), and mechanical rules effects, but cost **0 Function Slots** against active Loadout Capacity.
+### 2. Taxonomy & Exotic Slot Costs
+* **Mundane Gear (`⚙️` 0 Slots):** Standard utility items, weapons, armor, and shields providing narrative permissions and baseline combat stats without consuming Exotic Slots.
+* **0-Slot Utility Powers (`⚙️` 0 Slots):** Environmental, sensory, and life-support exotic powers (such as Atmospheric Recycler, Thermal Regulator, Radiation Scrubber, Sub-Dermal Comms, Flashlight Beam) retain explicit Action codes (`[P]`, `[M]`, etc.), Usage frequencies (`Continuous`, `1-Enc`), and mechanical rules effects, but cost **0 Exotic Slots** against active Exotic Slots Capacity.
 
-#### The 5 Standard Function Tiers
+#### The 5 Standard Exotic Power Tiers
  
-| Function Tier | Slot Cost | Tactical Capability & Complexity | Typical Item Examples |
+| Exotic Power Tier | Slot Cost | Tactical Capability & Complexity | Typical Item Examples |
 | :---: | :---: | :--- | :--- |
 | **`⭕ Free`** | **0 Slots** | Mundane field utilities, environmental survival, non-combat sensory tools, and communications. | *Atmospheric Air Filter*, *Communicator*, *Candle Spark*, *DeCipher*, *Bioluminescent Glow*. |
 | **`🍺 Minor`** | **1 Slot** | Localized tactical utility, single activations, and handy field conveniences. | *Wand of Sparks*, *Stun Baton*, *Plasma Torch*, *Night-Vision Lens*. |
@@ -1976,9 +1976,9 @@ SupaFlex eliminates weight math, bulk values, and movement rate penalties. A cha
 | **`🪬 Greater`** | **3 Slots** | Multi-target, high-damage, or encounter-defining combat and tactical systems. | *Flaming Greatsword*, *Heavy Combat Drone*, *Mil-Spec Exosuit*. |
 | **`💫 Epic`** | **4 Slots** | Reality-bending prototypes and ancient artifacts occupying major physical/neural bandwidth. | *Orb of Storms*, *Dimensional Void Bag*, *Orbital Target Painter*. |
 
-### 3. Blake's Uncapped Soft-Slope Function Slots AP Schedule
+### 3. Blake's Uncapped Soft-Slope Exotic Slots AP Schedule
 
-| Total Function Slots | Expansion Step | Additional Slots Gained | AP Cost for This Step | Cumulative AP Invested |
+| Total Exotic Slots | Expansion Step | Additional Slots Gained | AP Cost for This Step | Cumulative AP Invested |
 | :---: | :--- | :---: | :---: | :---: |
 | **4 Slots** | **Baseline (Level 1)** | — | **0 AP** | **0 AP** |
 | **6 Slots** | **Expansion I** | +2 Slots | **1 AP** | **1 AP** |
@@ -2002,7 +2002,7 @@ SupaFlex eliminates weight math, bulk values, and movement rate penalties. A cha
 | **Epic💫 (4 Slots)** | Orb of Storms [A] | Prototype Railgun [A] | Neural Matrix Core [F] | Dimensional Shifter [M] |
 
 ### 5. Master Techniques & Signature Devices
-* **🔥 Loadout Burn (Master Technique • 5 AP):** As a Free Action [F], a character with this Master Technique can push any active slotted Exotic (`🧿`) or Artifact (`🔮`) item to output its maximum/Epic💫 effect for 1 round. At the end of the round, the item's core melts into inert slag and is destroyed, immediately freeing its Loadout Slots mid-combat. *(Does not apply to flat consumables with usage `1`, `2`, or `3`).*
+* **🔥 Loadout Burn (Master Technique • 5 AP):** As a Free Action [F], a character with this Master Technique can push any active slotted Exotic (`🔮`) item to output its maximum/Epic💫 effect for 1 round. At the end of the round, the item's core melts into inert slag and is destroyed, immediately freeing its Exotic Slots mid-combat. *(Does not apply to flat consumables with usage `1`, `2`, or `3`).*
 * **🖨️ Omni-Fab (Minor🍺 • 1 Slot Exotic):** Usage: `3-Enc`, Action: `[P]`. Materializes any mundane utility tool or standard field supply on the fly. The materialized item dissolves at the end of the encounter. Cost: 150s.
 
 ## 💎 Chaos Gauntlet & Chaos Gems
