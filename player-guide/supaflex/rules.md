@@ -334,7 +334,7 @@ Enc (Encounter) – The series of rounds that make up a combat event or distinc
 
 Equipment🧰 – Legacy synonym for Gear⚙️.
 
-Exclusive Stacking Master Rule – The +1 tactical bonus from beating ALL opponents' Initiative (Nish 🚩) and the +1 bonus from holding a full Bolt (⚡) stack with each other AND stack with nearly all other rolls (subject to GM discretion). ALL other bonuses, buffs, power amplifiers, and numerical modifiers DO NOT STACK unless an ability explicitly states "stacks with..." or with explicit GM approval. When multiple passive buffs or powers offer competing modifiers to the same roll or trait, only the single highest value applies.
+Exclusive Stacking Master Rule – The optional +1 tactical bonus from beating ALL opponents' Initiative (if using the optional Fast Reflexes rule under GM Tricks, Nish 🚩) and the +1 bonus from holding a full Bolt (⚡) stack with each other AND stack with nearly all other rolls (subject to GM discretion). ALL other bonuses, buffs, power amplifiers, and numerical modifiers DO NOT STACK unless an ability explicitly states "stacks with..." or with explicit GM approval. When multiple passive buffs or powers offer competing modifiers to the same roll or trait, only the single highest value applies.
 
 Exotic🧿 / Exotics🧿 – Any Gear that has OR potentially has (can accept an attached Mod) an actionable tactical Function🧿 or Trait🧬. Occupies 0–4 Function Slots on the character sheet based on tier (⭕ Free: 0 Slots, 🍺 Minor: 1 Slot, 🪄 Lesser: 2 Slots, 🪬 Greater: 3 Slots, 💫 Epic: 4 Slots) when actively readied, and is purchasable with Gold or Silver ($g/s$).
 
@@ -1536,13 +1536,13 @@ Nish🚩 Check: PCs roll Motion🏃 vs Monster Initiative.
 
 Order of Play:
 
-All PCs above Monster Initiative🚩 (+1 to all rolls).
+All PCs above Monster Initiative🚩.
 
 All Monsters (as a group).
 
 All PCs below Monster Initiative🚩.
 
-Nish Reward: PCs who beat Monster Initiative🚩 gain +1 on all rolls until the monster’s turn.
+Nish Reward (Optional): In core standard rules, initiative strictly determines turn order. GMs wishing to reward swift reflexes may optionally use the +1 Nish Reward rule (see GM Tricks: Optional Rule - Fast Reflexes).
 
 Round Sequence:
 
@@ -1593,6 +1593,7 @@ Range:
 
 The Luck Twist (Rule of 1):
 * Apply one instant "Rule of 1" boost per Luck chit (Max 1 Luck Twist per activation): -1 Action Budget, +1 Target, +1 Die Tier, +1 Range Band, +1 Push/Move.
+* Luck-for-Bolt Substitution — Per encounter, spend 1 Luck chit (🍀) in place of a Bolt (⚡) to activate a 1-⚡ power (Max 1/encounter without GM approval; additional uses require GM authorization).
 
 :::
 <!-- /popover:powers.basics -->
@@ -1608,7 +1609,7 @@ SupaFlex adopts an **Auto-Readied Power Card** architecture. All learned powers 
 
 To maintain rock-solid mathematical balance, protect bounded accuracy, and prevent degenerate power creep:
 > **Exclusive Stacking Master Rule:**
-> 1. **Universal Stacking Exceptions:** The **+1 tactical bonus from beating ALL opponents' Initiative (Nish 🚩)** and the **+1 bonus from holding a full Bolt (Full Bolt state ⚡)** stack with each other AND stack with nearly all other bonuses and rolls (subject to standard GM discretion).
+> 1. **Universal Stacking Exceptions:** The **optional +1 tactical bonus from beating ALL opponents' Initiative (if using the optional Fast Reflexes rule under GM Tricks, Nish 🚩)** and the **+1 bonus from holding a full Bolt (Full Bolt state ⚡)** stack with each other AND stack with nearly all other bonuses and rolls (subject to standard GM discretion).
 > 2. **Strict Default (NO STACKING):** ALL other bonuses, damage amplifiers, stat buffs, and tactical modifiers **DO NOT STACK** unless an ability explicitly states *"stacks with..."* or with explicit GM approval.
 > 3. **Highest Value Wins:** When two or more abilities, items, or situational factors grant competing modifiers or advantage/disadvantage to the same roll or trait, only the single highest value or best effect applies.
 
@@ -2139,6 +2140,13 @@ To keep Flex simple, the designers have gone out of their way to avoid effects t
 ## Avoid Complexity - Usage beyond 3
 
 To keep Flex simple, the designers have also gone out of their way to avoid Usage past 3. So it is recommended to NOT allow an ability (Power or Magic Item) to progress to 4-Day nor 4-Enc. If the GM decides to allow a Usage progression past 3-Day the next step should be 1-Enc and if the GM decides to allow Usage past 3-Enc, it should become 1-Rnd. That said, both of these steps are a considerable upgrade, especially the 1-Rnd. GM, think about such upgrades carefully and consider game balance.
+
+## Optional Rule: Fast Reflexes (+1 Nish Reward)
+
+When running combat encounters, the GM may optionally reward swift reflexes:
+* **Rule:** If a PC rolls higher than **ALL** monsters in the encounter on their Initiative (Nish 🚩) check, that PC gains a **+1 tactical bonus** on all rolls (Attacks, Defenses, Saves, Skills) until the monsters take their turn.
+* **Stacking:** Per the Exclusive Stacking Master Rule, this bonus stacks with the +1 bonus from holding a full Bolt (⚡), but only applies during the opening tempo before the monsters act.
+* **GM Guidance:** Recommended for heroic, high-energy campaigns where players invest heavily in Motion 🏃 or the Nish skill. For grittier campaigns or simplified table management, omit this bonus to keep monster threat flat.
 
 ## Nish Options
 
