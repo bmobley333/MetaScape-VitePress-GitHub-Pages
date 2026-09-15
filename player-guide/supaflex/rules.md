@@ -1926,42 +1926,31 @@ SupaFlex eliminates weight math, bulk values, and movement rate penalties. A cha
                                                  (Ready 1–4 Slots to Live Sheet)
 ```
 
-### 1. The Exotics Vault vs. Active Exotic Slots & Dual Combat Stances
+#### 1. The Exotics Vault vs. Active Exotic Slots
 * **The Exotics Vault (🏺):** An unlimited repository where inactive Exotic Powers rest when not readied for immediate combat or encounter use.
-* **Active Exotic Slots (🧿):** The equipment abilities actively integrated and available for tactical execution. Every character begins with **4 Exotic Slots** (0 AP) at Level 1 and can expand capacity using the uncapped soft-slope AP schedule.
+* **Active Exotic Slots (🧿):** The equipment abilities actively integrated and available for tactical execution. Every character begins with **5 Exotic Slots** (0 AP) at Level 1 and can expand capacity indefinitely at **1 AP per additional slot**.
 * **Breather Swap:** Characters may freely swap exotic powers between their Exotics Vault and active Exotic Slots during any **5-minute out-of-combat breather**.
 
-#### Non-Destructive Vault Repertoire & Dual-Stance Assignment Invariant
-* **Rule (The What):** The Exotics Vault (`character_vault`) functions strictly as a character's **permanent hardware repertoire** (analogous to a wizard's known spellbook or an engineer's installed blueprint archive). Equipping an exotic power into Stance Alpha (`spell_slots`) or Stance Beta (`stance_beta_slots`) **never deletes or removes** the power from the Exotics Vault. The identical power may be equipped into **both Stance Alpha and Stance Beta** simultaneously. Unequipping an exotic power from an active stance removes it from that stance's combat slots while leaving it safely preserved in the Exotics Vault.
-* **Rationale (The Why):** If equipping an exotic power deleted it from the Vault, a player could never include their favorite primary attack or core defensive power in both combat stances (Alpha and Beta). Furthermore, accidental unequip actions would permanently destroy equipment abilities, leading to catastrophic character sheet data loss and player frustration.
-* **Failure Mechanism (The What Breaks):** Destructive vault operations force players to choose which stance gets an essential power, breaking seamless mode switching (e.g. losing an active force shield or primary weapon power when entering sniper mode). It also creates state desynchronization between physical gear items and character abilities.
-
-#### Dual Combat Stances (🅰️ Stance Alpha & 🅱️ Stance Beta) Protocol
-* **Rule (The What):** During any out-of-combat breather, characters can configure two distinct combat loadouts: **Stance Alpha (`🅰️`)** and **Stance Beta (`🅱️`)**. Both stances independently adhere to the character's active Exotic Slots Capacity. In combat on the player's Nish:
-  * **First Stance Switch in Encounter:** Costs **1 Move Action `[M]`** (`1-Enc`).
-  * **Subsequent Stance Switches:** Costs **Attack + Move `[AM]`** (the character commits their main action turn, retaining only Partial `[P]` and Free `[F]` actions).
-  * **Zero Reaction Actions:** SupaFlex does not utilize reaction actions `[R]`; all stance switches take place on the player's turn/Nish.
-  * **Shared Usage Synchronization:** Exotic Powers equipped in both Stance Alpha and Stance Beta share the same live usage checkmarks. Consuming a use in Stance Alpha immediately marks that use consumed in Stance Beta.
-* **Rationale (The Why):** Resolves the "Destron Armor Dilemma" where complex modular gear or exosuits carry 15–20 exotic powers but 60–80% are inaccessible during an encounter under rigid breather lockouts. Dual stances provide tactical mode switching (e.g., Offensive Assault vs. Defensive Evasion) without overwhelming players with cognitive overload or mid-combat catalog browsing.
-* **Failure Mechanism (The What Breaks):** Without stance switching, high-tier modular gear feels artificially constrained and players avoid equipping utility powers. Allowing unlimited free switches would cause debilitating analysis paralysis, ballooning combat turns into 15-minute spreadsheet optimization sessions.
+#### Non-Destructive Vault Repertoire Invariant
+* **Rule (The What):** The Exotics Vault (`character_vault`) functions strictly as a character's **permanent hardware repertoire** (analogous to a wizard's known spellbook or an engineer's installed blueprint archive). Equipping an exotic power into Active Exotic Slots (`spell_slots`) **never deletes or removes** the power from the Exotics Vault. Unequipping an exotic power from active slots removes it from the combat loadout while leaving it safely preserved in the Exotics Vault.
+* **Rationale (The Why):** If equipping an exotic power deleted it from the Vault, accidental unequip actions would permanently destroy equipment abilities, leading to catastrophic character sheet data loss and player frustration.
+* **Failure Mechanism (The What Breaks):** Destructive vault operations create state desynchronization between physical gear items and character abilities, permanently erasing player equipment functions.
 
 #### Emergency Exotic Shunt Protocol
-* **Rule (The What):** In combat on the player's Nish, a character may execute an emergency exotic shunt to hot-swap powers between their active stance loadout and their Exotics Vault:
-  * **Cost:** Costs **ONLY 1 Luck Chit (`🍀`)** deducted from the character's Luck Pool. (Sparks and Focus die degradation step costs are completely eliminated).
-  * **Action:** Costs **1 Free Action `[F]`** (as it already consumes a Luck Chit).
-  * **Usage Frequency:** Can be executed on the character's Nish as a Free Action `[F]`, provided the character spends 1 Luck Chit.
-  * **1 Add / N Removes Loadout Rule:** A shunt allows adding **exactly 1 exotic power** from the Exotics Vault into the active stance loadout. The player may unslot/remove **any number of active exotic powers** to balance their loadout capacity. Once an active power is removed during a shunt session, it is locked into Cold Storage and **cannot be added back**. The active stance loadout cannot exceed the character's total Exotic Slots Capacity when the shunt is applied.
+* **Rule (The What):** In combat on the player's Nish, a character may execute an emergency exotic shunt to hot-swap powers between their active loadout and their Exotics Vault:
+  * **Cost:** Costs **1 Luck Chit (`🍀`)** deducted from the character's Luck Pool.
+  * **Action:** Costs **1 Move Action `[M]`**.
+  * **1 Add / N Removes Loadout Rule:** A shunt allows adding **exactly 1 exotic power** from the Exotics Vault into the active loadout. The player may unslot/remove **any number of active exotic powers** to balance their loadout capacity. Once an active power is removed during a shunt session, it is locked into Cold Storage and **cannot be added back**. The active loadout cannot exceed the character's total Exotic Slots Capacity when the shunt is applied.
   * **Cold Storage Lockout:** All outgoing powers displaced or removed during a shunt are immediately placed into **Cold Storage**. They are completely locked out from being re-equipped, shunted, or activated for the remainder of the encounter until an encounter/breather reset.
-* **Rationale (The Why):** Consuming a universal Luck Chit (`🍀`) serves as the tactical commitment and balancing resource, enabling emergency shunting as a Free Action `[F]` without draining character action tempo. The "1 Add / N Removes" protocol guarantees loadout integrity while empowering players to adapt to encounter emergencies.
-* **Failure Mechanism (The What Breaks):** Without the Luck Chit cost, players would cycle through their entire Vault mid-turn with zero tactical tradeoff. Without Cold Storage lockouts, characters could exploit infinite rotating hot-bars without committing to loadout specialization.
+* **Rationale (The Why):** Consuming a universal Luck Chit (`🍀`) and a Move Action `[M]` provides balanced tactical commitment, enabling emergency shunting without allowing players to freely browse their entire vault every turn. The "1 Add / N Removes" protocol guarantees loadout integrity while empowering players to adapt to encounter emergencies.
+* **Failure Mechanism (The What Breaks):** Without the Luck Chit and Move Action cost, players would cycle through their entire Vault mid-turn with zero tactical tradeoff. Without Cold Storage lockouts, characters could exploit infinite rotating hot-bars without committing to loadout specialization.
 
 #### Encounter & Breather Reset Protocol
 * **Rule (The What):** Triggering `Clear Uses` on the character sheet or concluding an encounter/breather automatically:
-  * Clears all usage checkmarks across both Stance Alpha and Stance Beta.
-  * Resets the in-combat stance switch counter to 0 (restoring the first switch cost to `[M]`).
+  * Clears all usage checkmarks across active exotic power slots.
   * Releases all exotic powers from Cold Storage back to standard Exotics Vault readiness.
 * **Rationale (The Why):** Guarantees complete determinism and eliminates stale encounter state across scene transitions.
-* **Failure Mechanism (The What Breaks):** Lingering switch counters or locked cold storage across combat scenes permanently penalizes players into subsequent encounters.
+* **Failure Mechanism (The What Breaks):** Lingering cold storage across combat scenes permanently penalizes players into subsequent encounters.
 
 ### 2. Taxonomy & Exotic Slot Costs
 * **Mundane Gear (`⚙️` 0 Slots):** Standard utility items, weapons, armor, and shields providing narrative permissions and baseline combat stats without consuming Exotic Slots.
@@ -1977,20 +1966,17 @@ SupaFlex eliminates weight math, bulk values, and movement rate penalties. A cha
 | **`🪬 Greater`** | **3 Slots** | Multi-target, high-damage, or encounter-defining combat and tactical systems. | *Flaming Greatsword*, *Heavy Combat Drone*, *Mil-Spec Exosuit*. |
 | **`💫 Epic`** | **4 Slots** | Reality-bending prototypes and ancient artifacts occupying major physical/neural bandwidth. | *Orb of Storms*, *Dimensional Void Bag*, *Orbital Target Painter*. |
 
-### 3. Blake's Uncapped Soft-Slope Exotic Slots AP Schedule
+### 3. Blake's Uncapped Flat Exotic Slots AP Schedule
 
 | Total Exotic Slots | Expansion Step | Additional Slots Gained | AP Cost for This Step | Cumulative AP Invested |
 | :---: | :--- | :---: | :---: | :---: |
-| **4 Slots** | **Baseline (Level 1)** | — | **0 AP** | **0 AP** |
-| **6 Slots** | **Expansion I** | +2 Slots | **1 AP** | **1 AP** |
-| **8 Slots** | **Expansion II** | +2 Slots | **2 AP** | **3 AP** |
-| **10 Slots** | **Expansion III** | +2 Slots | **3 AP** | **6 AP** |
-| **12 Slots** | **Expansion IV** | +2 Slots | **4 AP** | **10 AP** |
-| **14 Slots** | **Expansion V** | +2 Slots | **5 AP** | **15 AP** |
-| **16 Slots** | **Expansion VI** | +2 Slots | **6 AP** | **21 AP** |
-| **18 Slots** | **Expansion VII** | +2 Slots | **7 AP** | **28 AP** |
-| **20 Slots** | **Expansion VIII** | +2 Slots | **8 AP** | **36 AP** |
-| **$4 + (2 \times k)$ Slots** | **Expansion $k$** | +2 Slots | **$k$ AP** | **$\frac{k(k+1)}{2}$ AP** |
+| **5 Slots** | **Baseline (Level 1)** | — | **0 AP** | **0 AP** |
+| **6 Slots** | **Expansion 1** | +1 Slot | **1 AP** | **1 AP** |
+| **7 Slots** | **Expansion 2** | +1 Slot | **1 AP** | **2 AP** |
+| **8 Slots** | **Expansion 3** | +1 Slot | **1 AP** | **3 AP** |
+| **9 Slots** | **Expansion 4** | +1 Slot | **1 AP** | **4 AP** |
+| **10 Slots** | **Expansion 5** | +1 Slot | **1 AP** | **5 AP** |
+| **$5 + k$ Slots** | **Expansion $k$** | +1 Slot | **1 AP** | **$k$ AP** |
 
 ### 4. Multi-Genre Parity Matrix
 
