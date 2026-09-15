@@ -55,7 +55,7 @@ The complete SupaFlex game system is structured around the **Trinity of Mechanic
                                             (0 Slots)   (0 Slots)(0 Slots)(0 Slots)  (1–4 Slots)  (g/s)
                                                                                        │          │
                                                                                        ▼          ▼
-                                                                                [ 🧿 EXOTIC'S POWERS ] [ 🔌 MODS ]
+                                                                                [ 🧿 EXOTIC GEAR POWERS ] [ 🔌 MODS ]
                                                                                 [ (Artifacts & Gear) ] (Subordinate)
 ```
 
@@ -222,7 +222,7 @@ Monster stats place the emojis before key numbers or number sets as in:
 | Epic💫 (4 Slots • Exotic / Artifact) | 💫 |
 | Equipment🧰 (Legacy Synonym for Gear) | 🧰 |
 | Exotic Slots🧿 | 🧿 |
-| Exotic's Powers🧿 | 🧿 |
+| Exotic Gear Powers🧿 | 🧿 |
 | Exotics🧿 | 🧿 |
 | Food & Drink🥖 | 🥖 |
 | Gear⚙️ (Universal Physical Items) | ⚙️ |
@@ -1907,22 +1907,22 @@ SupaFlex eliminates weight math, bulk values, and movement rate penalties. A cha
                 ▼                                                     ▼
           MUNDANE UTILITY                                     TACTICAL BANDWIDTH
       (0 Slots • Gear Drawer)                               (1–4 Slots • Live Sheet)
-   [ 🎒 SUPPLIES, ⚔️ WEAPONS,                                [ 🧿 EXOTIC'S POWERS ]
-     🥋 ARMOR, 🛡️ SHIELDS ]                                           │
-                                           ┌──────────────────────────┴──────────────────────────┐
-                                           ▼                                                     ▼
-                                   UNPURCHASABLE LOOT                                    STORE / CRAFTED
-                                    [ 🔮 ARTIFACTS ]                                      [ 🧿 EXOTICS ]
-                                   (Found Treasure)                                      (Purchasable)
-                                           │                                                     │
-                                           └─────────────────────┬───────────────────────────────┘
-                                                                 ▼
-                                                         [ EXOTICS VAULT ]
-                                                   (Inactive Exotic Powers Pool)
-                                                                 │
-                                                                 ▼
-                                                     [ 🧿 EXOTIC POWER'S MANAGER ]
-                                                (Ready 1–4 Slots to Live Sheet)
+    [ 🎒 SUPPLIES, ⚔️ WEAPONS,                                [ 🧿 EXOTIC GEAR POWERS ]
+      🥋 ARMOR, 🛡️ SHIELDS ]                                           │
+                                            ┌──────────────────────────┴──────────────────────────┐
+                                            ▼                                                     ▼
+                                    UNPURCHASABLE LOOT                                    STORE / CRAFTED
+                                     [ 🔮 ARTIFACTS ]                                      [ 🧿 EXOTICS ]
+                                    (Found Treasure)                                      (Purchasable)
+                                            │                                                     │
+                                            └─────────────────────┬───────────────────────────────┘
+                                                                  ▼
+                                                          [ EXOTICS VAULT ]
+                                                    (Inactive Exotic Powers Pool)
+                                                                  │
+                                                                  ▼
+                                                      [ 🧿 EXOTIC GEAR POWERS MANAGER ]
+                                                 (Ready 1–4 Slots to Live Sheet)
 ```
 
 ### 1. The Exotics Vault vs. Active Exotic Slots & Dual Combat Stances
