@@ -1926,11 +1926,16 @@ Across the Character Sheet Main Card (`GearPowersCard`), the `ManageGearPowersMo
 
 #### 3. Streamlined Header & Combat Usages
 The Gear Powers Card header features a clean, high-density HUD layout:
-* **Identifier Badges:** `🧿 GEAR POWERS`, `[X] Powers Learned`, and `[Y] Host Items`.
-* **Clear Uses Action:** A single dedicated **`🔄 Clear Uses`** button to instantaneously reset all tracked usage checkmarks at the start of an encounter or after a breather.
-* **Manage Action:** A dedicated **`Manage`** button opening the 2-column Gear Powers Manager modal.
+* **Interactive Header & Pencil Button:** Clicking either the title (`🧿 GEAR POWERS`) or the canonical minimalist pencil button (`✏️`) opens the Gear Powers Manager modal.
+* **Centered Clear Uses Action:** A mathematically centered **`🔄 Clear Uses`** button positioned in the exact horizontal middle of the header bar to instantaneously reset all tracked usage checkmarks at the start of an encounter or after a breather.
 
-#### 4. Multi-Genre Parity Matrix
+#### 4. Gear Powers Manager 2-Pane Architecture & Item Deletion Rules
+* **Active Gear Powers (Left Pane):** Displays all physically owned gear that features **owned/installed mods** and/or **actively learned gear powers**. Inherent powers and installed mods render in full interactive drawers with red `Unlearn (1 AP)` buttons for learned powers and green `+ Learn (1 AP)` buttons for unlearned powers under installed chassis.
+* **My Exotic Gear (Right Pane):** Catalogs all physically owned gear that features compatible mods, installed mods, or inherent gear powers (Exotics, Artifacts, and moddable gear). Mundane supplies lacking mods/powers are strictly filtered out.
+* **Alphabetical Hierarchy:** Gear items in both panes, inherent powers (`📦 Inherent (No Mod)` pinned first), mods, and powers under mods are strictly sorted in alphabetical order (A–Z).
+* **Gear Deletion & AP Refund Invariant:** Players can drop/delete any gear item directly from either pane using its dedicated trash can button (`Trash2`). Dropping an item removes it from `simple_gear` and automatically calculates and refunds all AP invested in learned powers rooted on that host item or its child mods ($1\text{ AP} \times N$). AP refunds are automatically logged in `ap_log`. Currency (Gold and Silver) spent on hardware chassis or mods is non-refundable.
+
+#### 5. Multi-Genre Parity Matrix
 
 | Category | High Fantasy | Modern / Delta Green | Cyberpunk | Space Opera / Sci-Fi |
 | :--- | :--- | :--- | :--- | :--- |
@@ -1938,7 +1943,7 @@ The Gear Powers Card header features a clean, high-density HUD layout:
 | **Free Utility ⭕ (0 AP)** | Candle Spark [P], Clean Water [A] | Penlight [F], Radio Earbud [P] | Sub-Dermal Comms [P], Biomonitor [P] | Atmospheric Scrubber [P], Nav-Beacon [P] |
 | **Standard Gear Powers 🧿 (1 AP)** | Wand of Sparks [A], Boots of Speed [M], Flaming Greatsword [A] | Taser [A], Night-Vision [P], Tactical Exosuit [P] | Plasma Torch [A], Optical Camo [M], Smart-Lens [P] | Personal Deflector [P], Jetpack [M], Combat Drone [A] |
 
-#### 5. Master Techniques & Signature Devices
+#### 6. Master Techniques & Signature Devices
 * **🔥 Loadout Burn (Master Technique • 5 AP):** As a Free Action [F], a character with this Master Technique can push any active Gear Power (`🧿`) item to output its maximum effect for 1 round. At the end of the round, the item's core melts into inert slag and is destroyed. *(Does not apply to flat consumables with usage `1`, `2`, or `3`).*
 * **🖨️ Omni-Fab (1 AP Gear Power):** Usage: `3-Enc`, Action: `[P]`. Materializes any mundane utility tool or standard field supply on the fly. The materialized item dissolves at the end of the encounter. Cost: 150s.
 
