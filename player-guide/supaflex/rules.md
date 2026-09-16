@@ -35,7 +35,7 @@ outline: 2
 The complete SupaFlex game system is structured around the **Trinity of Mechanics**:
 1. **Ownership (What you Know & Possess):** Intangible character capabilities (**Paths 🧭**) are unlocked with AP; tangible hardware packages (**Kits 📦**) are purchased with Currency (Gold / Silver) or found as treasure.
 2. **Execution (What you Do in Combat):** Governed by the 4-channel Action Economy ($1\text{ Attack [A]} + 1\text{ Move [M]} + 1\text{ Partial [P]} + \text{Unlimited Free [F]}$, with hybrid $\text{Attack \& Move [AM]}$) with **Auto-Readied Powers** on the active Power Card.
-3. **Capacity (What you Attune / Ready Simultaneously):** Exceptional equipment abilities draw from a single, shared **Gear Power Slots Pool 🧿** (Base 5 Gear Power Slots at Level 1).
+3. **Capacity (What you Attune / Ready Simultaneously):** Tactical equipment abilities (**Gear Powers 🧿**) cost exactly **1 AP** to learn (with `Free ⭕` utilities costing 0 AP) and are rooted physically in owned host gear chassis and installed mods.
 
 ```text
                                   [ 🌟 ELEMENTS ]
@@ -52,7 +52,7 @@ The complete SupaFlex game system is structured around the **Trinity of Mechanic
    ▼      ▼       ▼       ▼         ▼      ▼            ▼        ▼        ▼          ▼          ▼
  [ ATR ] [SKILL] [SKILLSET][POWERS] [SPEC] [🎒SUPPLIES] [⚔️WEAP] [🥋ARMOR] [🛡️SHIELDS] [🧿GEAR POWERS] [📦KITS]
    (✅)    (🎓)      (🎓)    (🔥)     (📜)   (Mundane)   (Martial)(Defensive)(Block)   (Tactical) (Bundles)
-                                             (0 Slots)   (0 Slots)(0 Slots)(0 Slots)  (0–1 Slots)  (g/s)
+                                             (0 Slots)   (0 Slots)(0 Slots)(0 Slots)  (1 AP)        (g/s)
                                                                                         │          │
                                                                                         ▼          ▼
                                                                                  [ 🧿 GEAR POWERS ] [ 🔌 MODS ]
@@ -68,11 +68,11 @@ The complete SupaFlex game system is structured around the **Trinity of Mechanic
 | **Weapons (`⚔️`)** | Melee, Ranged, Natural, Tech Weapons | Martial offensive hardware. Baseline 0 Gear Power Slots (unless equipped with a Gear Power/Mod). Priced in $g / s$. |
 | **Armor (`🥋`)** | Light, Medium, Heavy, Powered, Environmental | Protective combat hardware providing AR. Baseline 0 Gear Power Slots (unless equipped with a Gear Power/Mod). Priced in $g / s$. |
 | **Shields (`🛡️`)** | Bucklers, Medium Shields, Tower, Force Shields | Protective combat hardware providing Block. Baseline 0 Gear Power Slots (unless equipped with a Gear Power/Mod). Priced in $g / s$. |
-| **Gear Power (`🧿`)** | Tactical Gear Powers, Cyberware, Biotech, Tech Hardware, Artifact Relics | Actionable tactical abilities residing on physical gear or found as unpurchasable artifact treasure. Occupies 0 (Free ⭕) or 1 (Standard) Gear Power Slot when attuned/readied. |
-| **Artifact (`🔮`)** | Gear Powers, Traits, Legendary Powers | Ancient, magical, or alien treasures possessing one or more Gear Powers (0–1 Gear Power Slots). Non-commercial market treasure (Cost = `"Artifact"`). Reserved for loot tables and discovery. |
+| **Gear Power (`🧿`)** | Tactical Gear Powers, Cyberware, Biotech, Tech Hardware, Artifact Relics | Actionable tactical abilities residing on physical gear or found as unpurchasable artifact treasure. Learned for 1 AP (Free ⭕ costs 0 AP) directly from owned host gear or installed mods. |
+| **Artifact (`🔮`)** | Gear Powers, Traits, Legendary Powers | Ancient, magical, or alien treasures possessing one or more Gear Powers (1 AP or inherent). Non-commercial market treasure (Cost = `"Artifact"`). Reserved for loot tables and discovery. |
 | **Mod (`🔌`)** | Gear Powers, Traits, Hardware Upgrades | Subordinate gear extension layer (NOT a top-level catalog category). Optional modification, module, or hardware attachment uniquely linked via `belongs_to` to parent gear (Weapons, Armor, Shields, Supplies). Carries a financial cost ($g/s$) unless standard factory equipment (`free Trait`). |
 | **Kit (`📦`)** | Supplies, Weapons, Armor, Shields, Gear Powers, Mods | Master pre-assembled gear package / hardware bundle. Has overall package cost (e.g. `45s`, `120g`). |
-| **Gear Power (`🧿`)** | *(Actionable Rules Execution)* | Tactical equipment ability nearly identical to a Power (`Action`, `Usage`, `Effect`). Consumes Gear Power Slots (0 for `Free ⭕`, 1 for standard). NEVER carries a financial cost ($0s$) and is universally free once the host gear/mod is owned. Belongs to either a `Mod:` or `Gear:`. |
+| **Gear Power (`🧿`)** | *(Actionable Rules Execution)* | Tactical equipment ability nearly identical to a Power (`Action`, `Usage`, `Effect`). Costs 1 AP to learn (Free ⭕ costs 0 AP). NEVER carries a financial purchase cost ($0s$). Rooted physically in an owned host gear chassis or installed mod. Belongs to either a `Mod:` or `Gear:`. |
 | **Trait (`🧬`)** | *(Modular Traits & Physiological Boons)* | Innate biology, physiological boons, tactical modifications, or modular trait hooks queried from the `traits` database table. |
 | **System Rules (`📜`)** | *(Core Game Engine Mechanics)* | Overarching game system rules, core mechanics, combat economy, and resolution engine. |
 
@@ -1892,96 +1892,55 @@ Gear Powers vs. Vault:
 :::
 <!-- /popover:magic_items.basics -->
 
-SupaFlex eliminates weight math, bulk values, and movement rate penalties. A character’s tactical capability is bounded not by what they can carry, but by their active **Gear Power Slots Capacity**.
+SupaFlex eliminates weight math, bulk values, and movement rate penalties. A character’s tactical equipment capabilities are organized through a clean, physical **Lineage Hierarchy Tree**:
 
 ```text
-                                    [ ⚙️ ALL GEAR ]
-                                           │
-                ┌──────────────────────────┴──────────────────────────┐
-                ▼                                                     ▼
-          MUNDANE UTILITY                                     TACTICAL BANDWIDTH
-      (0 Slots • Gear Drawer)                               (1–4 Slots • Live Sheet)
-    [ 🎒 SUPPLIES, ⚔️ WEAPONS,                                [ 🧿 GEAR POWERS ]
-      🥋 ARMOR, 🛡️ SHIELDS ]                                           │
-                                            ┌──────────────────────────┴──────────────────────────┐
-                                            ▼                                                     ▼
-                                    UNPURCHASABLE LOOT                                    STORE / CRAFTED
-                                     [ 🔮 ARTIFACTS ]                                      [ ⚙️ GEAR ]
-                                    (Found Treasure)                                      (Purchasable)
-                                            │                                                     │
-                                            └─────────────────────┬───────────────────────────────┘
-                                                                  ▼
-                                                          [ GEAR POWERS VAULT ]
-                                                    (Inactive Gear Powers Pool)
-                                                                  │
-                                                                  ▼
-                                                      [ 🧿 GEAR POWERS MANAGER ]
-                                                 (Ready 0–1 Slots to Live Sheet)
+                                      [ ⚙️ OWNED GEAR CHASSIS ]
+                                    (Weapons, Armor, Shields, Gear)
+                                                 │
+                  ┌──────────────────────────────┴──────────────────────────────┐
+                  ▼                                                             ▼
+        [ 📦 INHERENT (NO MOD) ]                                         [ 🔌 INSTALLED MODS ]
+      (Factory Inherent Capabilities)                               (Aftermarket Modules with g/s Cost)
+                  │                                                             │
+                  ▼                                                             ▼
+        [ 🧿 GEAR POWERS (1 AP) ]                                     [ 🧿 GEAR POWERS (1 AP) ]
+      (Active Combat Rules Execution)                               (Active Combat Rules Execution)
 ```
 
-#### 1. The Gear Powers Vault vs. Active Gear Power Slots
-* **The Gear Powers Vault (🏺):** An unlimited repository where inactive Gear Powers rest when not readied for immediate combat or encounter use.
-* **Active Gear Power Slots (🧿):** The equipment abilities actively integrated and available for tactical execution. Every character begins with **5 Gear Power Slots** (0 AP) at Level 1 and can expand capacity indefinitely at **1 AP per additional slot**.
-* **Breather Swap:** Characters may freely swap gear powers between their Gear Powers Vault and active Gear Power Slots during any **5-minute out-of-combat breather**.
+#### 1. The 1-AP Universal Learning Model & Ownership Lineage
+* **Physical Ownership Gate:** Characters cannot learn or browse unowned catalog hardware in the Gear Powers card or manager. To access a Gear Power, the character must physically own the host gear item in their inventory (`simple_gear`).
+* **Universal 1 AP Learning:** Every standard Gear Power costs exactly **1 AP** to learn. Essential environmental/mundane utilities marked as `Free ⭕` cost **0 AP**.
+* **Installed Mod Dependency:** Gear Powers tied to a specific modification (`Mod: [Name]`) require that mod to be installed on the host gear item before the power can be learned.
+* **In-Modal Mod Commerce:** To minimize modal bouncing, players can purchase and install compatible mods with Gold/Silver directly inside the Gear Powers Manager catalog drawer.
+* **Unlearn / Refund at Will:** Players may unlearn a learned Gear Power at any time, immediately refunding the 1 AP back to their character's available AP pool.
 
-#### Non-Destructive Vault Repertoire Invariant
-* **Rule (The What):** The Gear Powers Vault (`character_vault`) functions strictly as a character's **permanent hardware repertoire** (analogous to a wizard's known spellbook or an engineer's installed blueprint archive). Equipping a gear power into Active Gear Power Slots (`spell_slots`) **never deletes or removes** the power from the Gear Powers Vault. Unequipping a gear power from active slots removes it from the combat loadout while leaving it safely preserved in the Gear Powers Vault.
-* **Rationale (The Why):** If equipping a gear power deleted it from the Vault, accidental unequip actions would permanently destroy equipment abilities, leading to catastrophic character sheet data loss and player frustration.
-* **Failure Mechanism (The What Breaks):** Destructive vault operations create state desynchronization between physical gear items and character abilities, permanently erasing player equipment functions.
+#### 2. The 2-Level Expandable Hierarchy Tree
+Across the Character Sheet Main Card (`GearPowersCard`), the `ManageGearPowersModal`, and the `GearCard` (Gear Manager), equipment capabilities are organized in an intuitive 2-level expandable tree:
+* **Level 1 (Host & Mods):** Displays the host gear chassis with expandable drawer showing `📦 Inherent (No Mod)` (with `ℹ️` notes popover) and all compatible/installed mods (`✓ [Mod Name]` with `ℹ️` notes popover).
+* **Level 2 (Gear Powers):** Underneath each mod or inherent node, displays the actionable Gear Powers featuring:
+  * **Action Badges:** Standard action badges (`[A]`, `[M]`, `[P]`, `[F]`, `[AM]`).
+  * **Usage Cadence:** Standard frequency (`1-Enc`, `1-⚡`, `1-Rnd`, `Continuous`).
+  * **Interactive Combat Checkboxes:** Live on-card checkboxes tracking encounter usages.
+  * **Rules Effect:** Full, un-truncated tactical effect string.
 
-#### Emergency Gear Shunt Protocol
-* **Rule (The What):** In combat on the player's Nish, a character may execute an emergency gear shunt to hot-swap powers between their active loadout and their Gear Powers Vault:
-  * **Cost:** Costs **1 Luck Chit (`🍀`)** deducted from the character's Luck Pool.
-  * **Action:** Costs **1 Move Action `[M]`**.
-  * **1 Add / N Removes Loadout Rule:** A shunt allows adding **exactly 1 gear power** from the Gear Powers Vault into the active loadout. The player may unslot/remove **any number of active gear powers** to balance their loadout capacity. Once an active power is removed during a shunt session, it is locked into Cold Storage and **cannot be added back**. The active loadout cannot exceed the character's total Gear Power Slots Capacity when the shunt is applied.
-  * **Cold Storage Lockout:** All outgoing powers displaced or removed during a shunt are immediately placed into **Cold Storage**. They are completely locked out from being re-equipped, shunted, or activated for the remainder of the encounter until an encounter/breather reset.
-* **Rationale (The Why):** Consuming a universal Luck Chit (`🍀`) and a Move Action `[M]` provides balanced tactical commitment, enabling emergency shunting without allowing players to freely browse their entire vault every turn. The "1 Add / N Removes" protocol guarantees loadout integrity while empowering players to adapt to encounter emergencies.
-* **Failure Mechanism (The What Breaks):** Without the Luck Chit and Move Action cost, players would cycle through their entire Vault mid-turn with zero tactical tradeoff. Without Cold Storage lockouts, characters could exploit infinite rotating hot-bars without committing to loadout specialization.
+#### 3. Streamlined Header & Combat Usages
+The Gear Powers Card header features a clean, high-density HUD layout:
+* **Identifier Badges:** `🧿 GEAR POWERS`, `[X] Powers Learned`, and `[Y] Host Items`.
+* **Clear Uses Action:** A single dedicated **`🔄 Clear Uses`** button to instantaneously reset all tracked usage checkmarks at the start of an encounter or after a breather.
+* **Manage Action:** A dedicated **`Manage`** button opening the 2-column Gear Powers Manager modal.
 
-#### Encounter & Breather Reset Protocol
-* **Rule (The What):** Triggering `Clear Uses` on the character sheet or concluding an encounter/breather automatically:
-  * Clears all usage checkmarks across active gear power slots.
-  * Releases all gear powers from Cold Storage back to standard Gear Powers Vault readiness.
-* **Rationale (The Why):** Guarantees complete determinism and eliminates stale encounter state across scene transitions.
-* **Failure Mechanism (The What Breaks):** Lingering cold storage across combat scenes permanently penalizes players into subsequent encounters.
-
-### 2. Taxonomy & Exotic Slot Costs
-* **Mundane Gear (`⚙️` 0 Slots):** Standard utility items, weapons, armor, and shields providing narrative permissions and baseline combat stats without consuming Exotic Slots.
-* **0-Slot Utility Powers (`⚙️` 0 Slots):** Environmental, sensory, and life-support exotic powers (such as Atmospheric Recycler, Thermal Regulator, Radiation Scrubber, Sub-Dermal Comms, Flashlight Beam) retain explicit Action codes (`[P]`, `[M]`, etc.), Usage frequencies (`Continuous`, `1-Enc`), and mechanical rules effects, but cost **0 Exotic Slots** against active Exotic Slots Capacity.
-
-#### The 5 Standard Exotic Power Tiers
- 
-| Exotic Power Tier | Slot Cost | Tactical Capability & Complexity | Typical Item Examples |
-| :---: | :---: | :--- | :--- |
-| **`⭕ Free`** | **0 Slots** | Mundane field utilities, environmental survival, non-combat sensory tools, and communications. | *Atmospheric Air Filter*, *Communicator*, *Candle Spark*, *DeCipher*, *Bioluminescent Glow*. |
-| **`🍺 Minor`** | **1 Slot** | Localized tactical utility, single activations, and handy field conveniences. | *Wand of Sparks*, *Stun Baton*, *Plasma Torch*, *Night-Vision Lens*. |
-| **`🪄 Lesser`** | **2 Slots** | Substantial encounter-altering mobility, protection, or automated utility. | *Boots of Speed*, *Personal Deflector Shield*, *AeroJet Thrusters*, *Optical Camo*. |
-| **`🪬 Greater`** | **3 Slots** | Multi-target, high-damage, or encounter-defining combat and tactical systems. | *Flaming Greatsword*, *Heavy Combat Drone*, *Mil-Spec Exosuit*. |
-| **`💫 Epic`** | **4 Slots** | Reality-bending prototypes and ancient artifacts occupying major physical/neural bandwidth. | *Orb of Storms*, *Dimensional Void Bag*, *Orbital Target Painter*. |
-
-### 3. Blake's Uncapped Flat Gear Power Slots AP Schedule
-
-| Total Gear Power Slots | Expansion Step | Additional Slots Gained | AP Cost for This Step | Cumulative AP Invested |
-| :---: | :--- | :---: | :---: | :---: |
-| **5 Slots** | **Baseline (Level 1)** | — | **0 AP** | **0 AP** |
-| **6 Slots** | **Expansion 1** | +1 Slot | **1 AP** | **1 AP** |
-| **7 Slots** | **Expansion 2** | +1 Slot | **1 AP** | **2 AP** |
-| **8 Slots** | **Expansion 3** | +1 Slot | **1 AP** | **3 AP** |
-| **9 Slots** | **Expansion 4** | +1 Slot | **1 AP** | **4 AP** |
-| **10 Slots** | **Expansion 5** | +1 Slot | **1 AP** | **5 AP** |
-| **$5 + k$ Slots** | **Expansion $k$** | +1 Slot | **1 AP** | **$k$ AP** |
-
-### 4. Multi-Genre Parity Matrix
+#### 4. Multi-Genre Parity Matrix
 
 | Category | High Fantasy | Modern / Delta Green | Cyberpunk | Space Opera / Sci-Fi |
 | :--- | :--- | :--- | :--- | :--- |
-| **Mundane (0 Slots)** | Rope, Torch, Flint | Phone, Zip-ties, Flashlight | Credstick, Multi-tool | Comms Beacon, Rebreather |
-| **Free Utility ⭕ (0 Slots)** | Candle Spark [P], Clean Water [A] | Penlight [F], Radio Earbud [P] | Sub-Dermal Comms [P], Biomonitor [P] | Atmospheric Scrubber [P], Nav-Beacon [P] |
-| **Standard Gear Powers 🧿 (1 Slot)** | Wand of Sparks [A], Boots of Speed [M], Flaming Greatsword [A] | Taser [A], Night-Vision [P], Tactical Exosuit [P] | Plasma Torch [A], Optical Camo [M], Smart-Lens [P] | Personal Deflector [P], Jetpack [M], Combat Drone [A] |
+| **Mundane Gear** | Rope, Torch, Flint | Phone, Zip-ties, Flashlight | Credstick, Multi-tool | Comms Beacon, Rebreather |
+| **Free Utility ⭕ (0 AP)** | Candle Spark [P], Clean Water [A] | Penlight [F], Radio Earbud [P] | Sub-Dermal Comms [P], Biomonitor [P] | Atmospheric Scrubber [P], Nav-Beacon [P] |
+| **Standard Gear Powers 🧿 (1 AP)** | Wand of Sparks [A], Boots of Speed [M], Flaming Greatsword [A] | Taser [A], Night-Vision [P], Tactical Exosuit [P] | Plasma Torch [A], Optical Camo [M], Smart-Lens [P] | Personal Deflector [P], Jetpack [M], Combat Drone [A] |
 
-### 5. Master Techniques & Signature Devices
-* **🔥 Loadout Burn (Master Technique • 5 AP):** As a Free Action [F], a character with this Master Technique can push any active slotted Gear Power (`🧿`) item to output its maximum effect for 1 round. At the end of the round, the item's core melts into inert slag and is destroyed, immediately freeing its Gear Power Slot mid-combat. *(Does not apply to flat consumables with usage `1`, `2`, or `3`).*
-* **🖨️ Omni-Fab (1 Slot Gear Power):** Usage: `3-Enc`, Action: `[P]`. Materializes any mundane utility tool or standard field supply on the fly. The materialized item dissolves at the end of the encounter. Cost: 150s.
+#### 5. Master Techniques & Signature Devices
+* **🔥 Loadout Burn (Master Technique • 5 AP):** As a Free Action [F], a character with this Master Technique can push any active Gear Power (`🧿`) item to output its maximum effect for 1 round. At the end of the round, the item's core melts into inert slag and is destroyed. *(Does not apply to flat consumables with usage `1`, `2`, or `3`).*
+* **🖨️ Omni-Fab (1 AP Gear Power):** Usage: `3-Enc`, Action: `[P]`. Materializes any mundane utility tool or standard field supply on the fly. The materialized item dissolves at the end of the encounter. Cost: 150s.
 
 ## 💎 Chaos Gauntlet & Chaos Gems
 
