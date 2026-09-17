@@ -16391,7 +16391,7 @@
       "action": "P",
       "usage": "1-Enc",
       "effect": "Life support mask; 1 hr breathable air.",
-      "belongs_to": "Mod: Suit Oxygenator (mso), Supplies: Oxygenator Mask (mso)",
+      "belongs_to": "Mod: Oxygenator, Suit (mso), Supplies: Oxygenator Mask (mso)",
       "genres": [
         "SciFi"
       ],
@@ -16405,7 +16405,7 @@
       "action": "M",
       "usage": "1-Enc",
       "effect": "Atmospheric flight pack; fly 👣+8.",
-      "belongs_to": "Mod: Suit Turbo Pack (mso), Supplies: Turbo Pack (mso)",
+      "belongs_to": "Mod: Turbo Pack, Suit (mso), Supplies: Turbo Pack (mso)",
       "genres": [
         "SciFi"
       ],
@@ -16575,7 +16575,7 @@
       "action": "M",
       "usage": "1-Enc",
       "effect": "Rng Long; teleport self to memorized point.",
-      "belongs_to": "Mod: Suit Personal Transporter (mso), Supplies: Personal Transporter (mso)",
+      "belongs_to": "Mod: Personal Transporter, Suit (mso), Supplies: Personal Transporter (mso)",
       "genres": [
         "SciFi"
       ],
@@ -17800,7 +17800,7 @@
       "action": "A",
       "usage": "1-Enc",
       "effect": "Dimensional flux field; +2 Def vs all Atk.",
-      "belongs_to": "Mod: Suit Phase Deviator (mso), Supplies: Phase Deviator (mso)",
+      "belongs_to": "Mod: Phase Deviator, Suit (mso), Supplies: Phase Deviator (mso)",
       "genres": [
         "SciFi"
       ],
@@ -18964,7 +18964,7 @@
       "action": "P",
       "usage": "2-Enc",
       "effect": "Rng Medium; hand-held sensor; 👁️+2^hidden.",
-      "belongs_to": "Mod: Suit Personal Scanner (mso), Supplies: Personal Scanner (mso)",
+      "belongs_to": "Mod: Personal Scanner, Suit (mso), Supplies: Personal Scanner (mso)",
       "genres": [
         "SciFi"
       ],
@@ -19033,22 +19033,6 @@
       "tier": null
     },
     {
-      "id": 36,
-      "name": "Healing",
-      "action": "A",
-      "usage": "1-⚡",
-      "effect": "Heal Self 2d4.",
-      "belongs_to": "Supplies: Amulet of Healing",
-      "genres": [
-        "Medieval",
-        "Modern",
-        "SciFi"
-      ],
-      "notes": "Amulet of Healing is engineered with high-durability composite materials for reliable field operations.",
-      "created_at": "2026-09-03T20:14:29.977879+00:00",
-      "tier": null
-    },
-    {
       "id": 192,
       "name": "Healing",
       "action": "P",
@@ -19061,6 +19045,22 @@
         "SciFi"
       ],
       "notes": "Potion of Healing is engineered with high-durability composite materials for reliable field operations.",
+      "created_at": "2026-09-03T20:14:29.977879+00:00",
+      "tier": null
+    },
+    {
+      "id": 36,
+      "name": "Healing",
+      "action": "A",
+      "usage": "1-⚡",
+      "effect": "Heal Self 2d4.",
+      "belongs_to": "Supplies: Amulet of Healing",
+      "genres": [
+        "Medieval",
+        "Modern",
+        "SciFi"
+      ],
+      "notes": "Amulet of Healing is engineered with high-durability composite materials for reliable field operations.",
       "created_at": "2026-09-03T20:14:29.977879+00:00",
       "tier": null
     },
@@ -19242,7 +19242,7 @@
       "action": "P",
       "usage": "2-Enc",
       "effect": "Holographic disguise; ^👁️ to detect.",
-      "belongs_to": "Mod: Suit Hologuise (mso), Supplies: Hologuise (mso)",
+      "belongs_to": "Mod: Hologuise, Suit (mso), Supplies: Hologuise (mso)",
       "genres": [
         "SciFi"
       ],
@@ -19663,7 +19663,7 @@
       "action": "AM",
       "usage": "1-⚡",
       "effect": "Rng Long; teleport self to another dimension.",
-      "belongs_to": "Mod: Suit Dimensional Transporter (mso), Supplies: Dimensional Transporter (mso)",
+      "belongs_to": "Mod: Dimensional Transporter, Suit (mso), Supplies: Dimensional Transporter (mso)",
       "genres": [
         "SciFi"
       ],
@@ -20195,7 +20195,7 @@
       "action": "M",
       "usage": "2-Enc",
       "effect": "Magnetic boots; immune to knockback.",
-      "belongs_to": "Mod: Suit Ultralock Boots (mso), Supplies: Ultralock Boots (mso)",
+      "belongs_to": "Mod: Ultralock Boots, Suit (mso), Supplies: Ultralock Boots (mso)",
       "genres": [
         "SciFi"
       ],
@@ -22369,7 +22369,7 @@
       "action": "AM",
       "usage": "1-⚡",
       "effect": "Rng Long; teleport to sight; phased this Rnd.",
-      "belongs_to": "Mod: Suit Dimensional Shifter (mso), Supplies: Dimensional Shifter (mso)",
+      "belongs_to": "Mod: Dimensional Shifter, Suit (mso), Supplies: Dimensional Shifter (mso)",
       "genres": [
         "SciFi"
       ],
@@ -22592,7 +22592,7 @@
       "action": "P",
       "usage": "2-Enc",
       "effect": "Wrist band; store non-living object in stasis.",
-      "belongs_to": "Mod: Suit Palmstores (mso), Supplies: Palmstore (mso)",
+      "belongs_to": "Mod: Palmstores, Suit (mso), Supplies: Palmstore (mso)",
       "genres": [
         "SciFi"
       ],
@@ -23155,7 +23155,7 @@
       "action": "P",
       "usage": "2-Enc",
       "effect": "Displays vital signs, Vit, and Wnds.",
-      "belongs_to": "Mod: Suit Biometer (mso), Supplies: Biometer (mso)",
+      "belongs_to": "Mod: Biometer, Suit (mso), Supplies: Biometer (mso)",
       "genres": [
         "SciFi"
       ],
@@ -23306,7 +23306,7 @@
       "action": "F",
       "usage": "3-Enc",
       "effect": "Rng Short; thermal vision; 👁️+2^hidden.",
-      "belongs_to": "Mod: Suit Macrovisor (mso), Supplies: Macrovisor (mso)",
+      "belongs_to": "Mod: Macrovisor, Suit (mso), Supplies: Macrovisor (mso)",
       "genres": [
         "SciFi"
       ],
@@ -23366,7 +23366,7 @@
       "action": "M",
       "usage": "1-Enc",
       "effect": "Leap up to 30ft vertically or 50ft horizontally",
-      "belongs_to": "Mod: Thruster Jump, Mod: Suit Jump-Pack",
+      "belongs_to": "Mod: Thruster Jump, Mod: Jump-Pack, Suit",
       "genres": [
         "SciFi"
       ],
@@ -23380,7 +23380,7 @@
       "action": "M",
       "usage": "1-Enc",
       "effect": "Psychosomatic leap; jump 👣+6; safe landing.",
-      "belongs_to": "Mod: Suit Jump-Pack (mso), Supplies: Jump-Pack (mso)",
+      "belongs_to": "Mod: Jump-Pack, Suit (mso), Supplies: Jump-Pack (mso)",
       "genres": [
         "SciFi"
       ],
@@ -23640,7 +23640,7 @@
       "action": "P",
       "usage": "2-Enc",
       "effect": "Durable plasteel gear pack with ultralock straps.",
-      "belongs_to": "Mod: Suit Tech Pack (mso), Supplies: Tech Pack (mso)",
+      "belongs_to": "Mod: Tech Pack, Suit (mso), Supplies: Tech Pack (mso)",
       "genres": [
         "SciFi"
       ],
@@ -23654,7 +23654,7 @@
       "action": "F",
       "usage": "2-Enc",
       "effect": "Magnetic utility clamp; draw or stow item instantly.",
-      "belongs_to": "Mod: Suit Ultralock Utility Belt (mso), Supplies: Ultralock Utility Belt (mso)",
+      "belongs_to": "Mod: Ultralock Utility Belt, Suit (mso), Supplies: Ultralock Utility Belt (mso)",
       "genres": [
         "SciFi"
       ],
