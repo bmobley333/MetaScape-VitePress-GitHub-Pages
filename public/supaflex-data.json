@@ -16646,22 +16646,6 @@
       "tier": null
     },
     {
-      "id": 49,
-      "name": "Bell of Worlds End",
-      "action": "AM",
-      "usage": "1",
-      "effect": "Summon omen of cataclysm (major effect as per GM).",
-      "belongs_to": "Supplies: Bell of Worlds End",
-      "genres": [
-        "Medieval",
-        "Modern",
-        "SciFi"
-      ],
-      "notes": "Bell of Worlds End is engineered with high-durability composite materials for reliable field operations.",
-      "created_at": "2026-09-03T20:14:29.977879+00:00",
-      "tier": null
-    },
-    {
       "id": 358,
       "name": "Bioluminescent Fungal Culture (mso)",
       "action": "P",
@@ -16829,7 +16813,7 @@
       "id": 469,
       "name": "Bunker-Buster AI Penetrator (mso)",
       "action": "A",
-      "usage": "3",
+      "usage": "1-⚡",
       "effect": "Rng Long; AI deep pursuit; penetrates obstacles and armor; Atk 👁️ Dmg 3d10; ignores cover.",
       "belongs_to": "Supplies: Missile: Seeker (Bunker-Buster) (mso)",
       "genres": [
@@ -17914,7 +17898,7 @@
       "id": 467,
       "name": "Dual-Thruster Hunter Strike (mso)",
       "action": "A",
-      "usage": "3",
+      "usage": "1-⚡",
       "effect": "Rng Long; dual-thruster lock; Atk 👁️ Dmg 3d8; tracks target for Encounter until impact.",
       "belongs_to": "Supplies: Missile: Hunter (Dual-Thruster) (mso)",
       "genres": [
@@ -18398,7 +18382,7 @@
       "id": 447,
       "name": "Flash-Bang Concussion Blast (mso)",
       "action": "A",
-      "usage": "3",
+      "usage": "1-⚡",
       "effect": "Rng Short; AoE 3x3; Save 🫀 or Blinded and Deafened for Encounter; failed by 5+ = Stunned for Encounter.",
       "belongs_to": "Supplies: Grenade: Flash-Bang (Stun Core) (mso)",
       "genres": [
@@ -18992,7 +18976,7 @@
       "id": 445,
       "name": "HE High-Yield Demolition (mso)",
       "action": "A",
-      "usage": "3",
+      "usage": "1-⚡",
       "effect": "Rng Short; AoE 3x3; Atk 🏃 Dmg 2d8; Wnds = knocked Prone and pushed 2 sq.",
       "belongs_to": "Supplies: Grenade: HE (Military Warhead) (mso)",
       "genres": [
@@ -19068,7 +19052,7 @@
       "id": 465,
       "name": "Heavy Demolition Missile (mso)",
       "action": "A",
-      "usage": "3",
+      "usage": "1-⚡",
       "effect": "Rng Long; heavy ordnance; AoE 5x5; Atk 👁️ Dmg 3d8; Wnds = structural breach and pushed 3 sq.",
       "belongs_to": "Supplies: Missile: Explosive (Demolition) (mso)",
       "genres": [
@@ -19096,7 +19080,7 @@
       "id": 457,
       "name": "Heavy Neuro-Aerosol Cloud (mso)",
       "action": "A",
-      "usage": "3",
+      "usage": "1-⚡",
       "effect": "Rng Short; AoE 5x5; heavy lingering neuro-aerosol; covers area for Encounter.",
       "belongs_to": "Supplies: Grenade: Gas (Neuro-Aerosol) (mso)",
       "genres": [
@@ -19110,7 +19094,7 @@
       "id": 451,
       "name": "Heavy Sonic Overload (mso)",
       "action": "A",
-      "usage": "3",
+      "usage": "1-⚡",
       "effect": "Rng Short; AoE 3x3; sonic blast; Save 🫀 or Unconscious for Encounter; robots/cyberware Stunned for Encounter.",
       "belongs_to": "Supplies: Grenade: Shock (Sonic EMP) (mso)",
       "genres": [
@@ -19181,7 +19165,7 @@
       "id": 455,
       "name": "High-Tensile Tangler Web (mso)",
       "action": "A",
-      "usage": "3",
+      "usage": "1-⚡",
       "effect": "Rng Short; AoE 3x3; industrial resin; Save 🏃 or Entangled (👣 0; requires 💪^14 check to break free).",
       "belongs_to": "Supplies: Grenade: Tangler (High-Tensile) (mso)",
       "genres": [
@@ -19799,7 +19783,7 @@
       "id": 483,
       "name": "Joc-Tun Neuro-Paralysis (mso)",
       "action": "A",
-      "usage": "3",
+      "usage": "1-⚡",
       "effect": "Intravenous strike; Save 🫀 or Paralyzed for Encounter (can think/sense, but cannot move or act).",
       "belongs_to": "Supplies: Poison: Paralysis (Joc-Tun Dose) (mso)",
       "genres": [
@@ -19875,7 +19859,7 @@
       "id": 459,
       "name": "Kinetic Blast Shot (mso)",
       "action": "A",
-      "usage": "3",
+      "usage": "1-⚡",
       "effect": "Weapon shot; on hit, +d10 Dmg and knocks target Prone.",
       "belongs_to": "Supplies: Tip: Kinetic Blast (Heavy) (mso)",
       "genres": [
@@ -20021,7 +20005,7 @@
       "id": 475,
       "name": "Kryllian Acidic Liquefaction (mso)",
       "action": "A",
-      "usage": "3",
+      "usage": "1-⚡",
       "effect": "Weapon hit or contact; burns living tissue; target takes d8 acid Dmg each turn for Encounter; reduces target AR by 2.",
       "belongs_to": "Supplies: Poison: Corrosive (Acidic Core) (mso)",
       "genres": [
@@ -20331,7 +20315,7 @@
       "id": 479,
       "name": "Medical Anesthetic Dose (mso)",
       "action": "A",
-      "usage": "3",
+      "usage": "1-⚡",
       "effect": "Intravenous or oral; Save 🫀 or Unconscious for Encounter (wakes upon taking Dmg).",
       "belongs_to": "Supplies: Poison: Knockout (Anesthetic Vial) (mso)",
       "genres": [
@@ -20387,7 +20371,7 @@
       "id": 461,
       "name": "Micro-Warhead Shot (mso)",
       "action": "A",
-      "usage": "3",
+      "usage": "1-⚡",
       "effect": "Weapon shot; on hit, explodes in AoE 3x3; targets suffer Atk 🏃 Dmg +d8; Wnds = pushed 2 sq.",
       "belongs_to": "Supplies: Tip: Micro-Warhead (Heavy) (mso)",
       "genres": [
@@ -20415,7 +20399,7 @@
       "id": 169,
       "name": "Mindstone Charm",
       "action": "P",
-      "usage": "1",
+      "usage": "1-⚡",
       "effect": "Gain Advantage on 1 👁️ roll this Rnd.",
       "belongs_to": "Supplies: Mindstone Charm",
       "genres": [
@@ -20766,7 +20750,7 @@
       "id": 481,
       "name": "Neuro-Hysteria Gas Cloud (mso)",
       "action": "A",
-      "usage": "3",
+      "usage": "1-⚡",
       "effect": "Rng Short; AoE 3x3; gas cloud; Save 👁️ or incapacitated laughing and exhausted for Encounter.",
       "belongs_to": "Supplies: Poison: Laughing (Euphoria Cloud) (mso)",
       "genres": [
@@ -21804,7 +21788,7 @@
       "id": 211,
       "name": "Rune Flask of Blackaxe Ale Healing",
       "action": "P",
-      "usage": "1",
+      "usage": "1-⚡",
       "effect": "Drink; Heal self 1 Vit.",
       "belongs_to": "Supplies: Rune Flask of Blackaxe Ale",
       "genres": [
@@ -21984,7 +21968,7 @@
       "id": 485,
       "name": "Setchie Coma Dose (mso)",
       "action": "A",
-      "usage": "3",
+      "usage": "1-⚡",
       "effect": "Ingested or coated; Save 🫀 or falls into deep sleep for Encounter (wakes if vigorously shaken or taking Dmg; Shanask immune).",
       "belongs_to": "Supplies: Poison: Sleep (Setchie Coma Dose) (mso)",
       "genres": [
@@ -21998,7 +21982,7 @@
       "id": 218,
       "name": "Shadow Thread",
       "action": "F",
-      "usage": "2",
+      "usage": "1-⚡",
       "effect": "Stich a normal item to your clothing; Will always reattach as if hooked.",
       "belongs_to": "Supplies: Shadow Thread",
       "genres": [
@@ -22057,22 +22041,6 @@
       "notes": "Shard of Echo is engineered with high-durability composite materials for reliable field operations.",
       "created_at": "2026-09-03T20:14:29.977879+00:00",
       "tier": "Free ⭕"
-    },
-    {
-      "id": 221,
-      "name": "Shard of Infinity",
-      "action": "AM",
-      "usage": "1",
-      "effect": "Suggest plot alteration (results at GM’s discretion).",
-      "belongs_to": "Supplies: Shard of Infinity",
-      "genres": [
-        "Medieval",
-        "Modern",
-        "SciFi"
-      ],
-      "notes": "Shard of Infinity is engineered with high-durability composite materials for reliable field operations.",
-      "created_at": "2026-09-03T20:14:29.977879+00:00",
-      "tier": null
     },
     {
       "id": 222,
@@ -23008,7 +22976,7 @@
       "id": 473,
       "name": "Suffocating Calamorian Cloud (mso)",
       "action": "A",
-      "usage": "3",
+      "usage": "1-⚡",
       "effect": "Rng Short; AoE 3x3; gas cloud; Save 🫀 or Suffocating (takes d8 Dmg each turn for Encounter; can only gasp for air).",
       "belongs_to": "Supplies: Poison: Choking (Milc-Ti Dose) (mso)",
       "genres": [
@@ -23052,7 +23020,7 @@
       "id": 261,
       "name": "Sunpetal Brooch Healing",
       "action": "P",
-      "usage": "1",
+      "usage": "1-⚡",
       "effect": "On use; Heal self 1 Vit and emit light 2sq for 1 Enc.",
       "belongs_to": "Supplies: Sunpetal Brooch",
       "genres": [
@@ -23290,7 +23258,7 @@
       "id": 453,
       "name": "Thermal Heavy Smoke (mso)",
       "action": "A",
-      "usage": "3",
+      "usage": "1-⚡",
       "effect": "Rng Short; AoE 5x5; thermal-blocking smoke; blocks visual and sensor targeting; lasts for Encounter.",
       "belongs_to": "Supplies: Grenade: Smoke (Heavy Thermal) (mso)",
       "genres": [
@@ -23580,7 +23548,7 @@
       "id": 463,
       "name": "Tungsten Harpoon Shot (mso)",
       "action": "A",
-      "usage": "3",
+      "usage": "1-⚡",
       "effect": "Weapon shot; tungsten drill lodges into target; deals +d8 Dmg each turn for Encounter; requires 👁️^16 Medtech check to remove or suffering extra d8 Dmg.",
       "belongs_to": "Supplies: Tip: Tungsten Harpoon (Heavy) (mso)",
       "genres": [
@@ -23726,7 +23694,7 @@
       "id": 277,
       "name": "Vial of Sacred Dust",
       "action": "A",
-      "usage": "1",
+      "usage": "1-⚡",
       "effect": "AoE 2r; throw dust: ✨ Atk^undead; d4 radiant Dmg and Weakened.",
       "belongs_to": "Supplies: Vial of Sacred Dust",
       "genres": [
@@ -23774,7 +23742,7 @@
       "id": 307,
       "name": "Visor Optical Auto-Targeting",
       "action": "A",
-      "usage": "1/Rnd",
+      "usage": "1-Rnd",
       "effect": "Controls hardpoint servos via eye-tracking, firing mounted weapon while leaving hands free for other actions.",
       "belongs_to": "Mod: Targeting Computer",
       "genres": [
@@ -23976,7 +23944,7 @@
       "id": 449,
       "name": "White-Hot Phosphorous Storm (mso)",
       "action": "A",
-      "usage": "3",
+      "usage": "1-⚡",
       "effect": "Rng Short; AoE 3x3; Atk 🏃 Dmg d10 fire; targets catch Fire (Dmg d6 each turn for Encounter).",
       "belongs_to": "Supplies: Grenade: Incendiary (Phosphorous Core) (mso)",
       "genres": [
@@ -24022,7 +23990,7 @@
       "id": 293,
       "name": "Wooden Charm",
       "action": "F",
-      "usage": "3",
+      "usage": "1-⚡",
       "effect": "Break charm: ✨+5^magic for Encounter.",
       "belongs_to": "Supplies: Wooden Charm",
       "genres": [
@@ -45513,23 +45481,6 @@
       "belongs_to": null
     },
     {
-      "id": 184,
-      "category": "Artifact",
-      "name": "Bell of Worlds End",
-      "cost": "Artifact",
-      "created_at": "2026-09-03T20:14:29.977879+00:00",
-      "genres": [
-        "Medieval",
-        "Modern",
-        "SciFi"
-      ],
-      "notes": "Bell of Worlds End is engineered with high-durability composite materials for reliable field operations.",
-      "pic": null,
-      "domain": "Void Magic",
-      "path": "Void Magic Relics",
-      "belongs_to": null
-    },
-    {
       "id": 185,
       "category": "Artifact",
       "name": "Belt of Many Knots",
@@ -48822,23 +48773,6 @@
         "SciFi"
       ],
       "notes": "Shard of Echo is engineered with high-durability composite materials for reliable field operations.",
-      "pic": null,
-      "domain": "Void Magic",
-      "path": "Void Magic Relics",
-      "belongs_to": null
-    },
-    {
-      "id": 362,
-      "category": "Artifact",
-      "name": "Shard of Infinity",
-      "cost": "Artifact",
-      "created_at": "2026-09-03T20:14:29.977879+00:00",
-      "genres": [
-        "Medieval",
-        "Modern",
-        "SciFi"
-      ],
-      "notes": "Shard of Infinity is engineered with high-durability composite materials for reliable field operations.",
       "pic": null,
       "domain": "Void Magic",
       "path": "Void Magic Relics",
@@ -55154,23 +55088,6 @@
       "belongs_to": null
     },
     {
-      "id": 184,
-      "category": "Artifact",
-      "name": "Bell of Worlds End",
-      "cost": "Artifact",
-      "created_at": "2026-09-03T20:14:29.977879+00:00",
-      "genres": [
-        "Medieval",
-        "Modern",
-        "SciFi"
-      ],
-      "notes": "Bell of Worlds End is engineered with high-durability composite materials for reliable field operations.",
-      "pic": null,
-      "domain": "Void Magic",
-      "path": "Void Magic Relics",
-      "belongs_to": null
-    },
-    {
       "id": 185,
       "category": "Artifact",
       "name": "Belt of Many Knots",
@@ -58463,23 +58380,6 @@
         "SciFi"
       ],
       "notes": "Shard of Echo is engineered with high-durability composite materials for reliable field operations.",
-      "pic": null,
-      "domain": "Void Magic",
-      "path": "Void Magic Relics",
-      "belongs_to": null
-    },
-    {
-      "id": 362,
-      "category": "Artifact",
-      "name": "Shard of Infinity",
-      "cost": "Artifact",
-      "created_at": "2026-09-03T20:14:29.977879+00:00",
-      "genres": [
-        "Medieval",
-        "Modern",
-        "SciFi"
-      ],
-      "notes": "Shard of Infinity is engineered with high-durability composite materials for reliable field operations.",
       "pic": null,
       "domain": "Void Magic",
       "path": "Void Magic Relics",
@@ -64795,23 +64695,6 @@
       "belongs_to": null
     },
     {
-      "id": 184,
-      "category": "Artifact",
-      "name": "Bell of Worlds End",
-      "cost": "Artifact",
-      "created_at": "2026-09-03T20:14:29.977879+00:00",
-      "genres": [
-        "Medieval",
-        "Modern",
-        "SciFi"
-      ],
-      "notes": "Bell of Worlds End is engineered with high-durability composite materials for reliable field operations.",
-      "pic": null,
-      "domain": "Void Magic",
-      "path": "Void Magic Relics",
-      "belongs_to": null
-    },
-    {
       "id": 185,
       "category": "Artifact",
       "name": "Belt of Many Knots",
@@ -68104,23 +67987,6 @@
         "SciFi"
       ],
       "notes": "Shard of Echo is engineered with high-durability composite materials for reliable field operations.",
-      "pic": null,
-      "domain": "Void Magic",
-      "path": "Void Magic Relics",
-      "belongs_to": null
-    },
-    {
-      "id": 362,
-      "category": "Artifact",
-      "name": "Shard of Infinity",
-      "cost": "Artifact",
-      "created_at": "2026-09-03T20:14:29.977879+00:00",
-      "genres": [
-        "Medieval",
-        "Modern",
-        "SciFi"
-      ],
-      "notes": "Shard of Infinity is engineered with high-durability composite materials for reliable field operations.",
       "pic": null,
       "domain": "Void Magic",
       "path": "Void Magic Relics",

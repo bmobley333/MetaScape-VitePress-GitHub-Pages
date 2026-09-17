@@ -55,7 +55,6 @@ Master indexed gear directory.
 | Artifact | **Banner of Eternity** | Artifact |
 | Artifact | **Bell of Guidance** | Artifact |
 | Artifact | **Bell of Rallying** | Artifact |
-| Artifact | **Bell of Worlds End** | Artifact |
 | Artifact | **Belt of Many Knots** | Artifact |
 | Artifact | **Blade of Final Memory** | Artifact |
 | Artifact | **Blade of Thought (Longsword)** | Artifact |
@@ -256,7 +255,6 @@ Master indexed gear directory.
 | Artifact | **Shadow Thread** | Artifact |
 | Artifact | **ShadowBand** | Artifact |
 | Artifact | **Shard of Echo** | Artifact |
-| Artifact | **Shard of Infinity** | Artifact |
 | Artifact | **Shardstorm [Weapon]** | Artifact |
 | Artifact | **Shield of Echoes** | Artifact |
 | Artifact | **Shimmer Veil [Armor]** | Artifact |

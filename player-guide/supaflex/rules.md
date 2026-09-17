@@ -28,7 +28,7 @@ outline: 2
 
 🎯 KISS & Data De-Duplication – Keep It Simple & Single-source-of-truth. Never duplicate database-backed tables (Weapons, Armor, Shields, Gear, Powers, Magic Items, Skill Sets, Monsters, and Treasure) as static text in markdown rules documents; query Supabase or link to interactive catalogs to maintain single-source-of-truth DRY alignment.
 
-🔄 Standardized Usage Options – All usage dropdowns, database entries, and ability definitions across SupaFlex enforce this exact 9-option list and order: `1`, `2`, `3`, `1-⚡`, `1-🍀`, `1-Enc`, `2-Enc`, `3-Enc`, `1-Rnd`.
+🔄 Standardized Usage Options – All usage dropdowns, database entries, and ability definitions across SupaFlex enforce this exact 6-option list and order: `1-⚡` (1 Bolt), `1-🍀` (1 Luck), `1-Enc`, `2-Enc`, `3-Enc`, `1-Rnd`. Finite numerical charges (`3, 2, 1`) are strictly reserved for physical Chaos Gauntlet Gems (which crack and auto-shatter upon using the 3rd charge) and mundane inventory supply item quantities.
 
 ### 🏛️ System Taxonomy: Paths, Kits, Elements, Gear & Abilities
 
@@ -435,7 +435,7 @@ Free Trait(s)🧬 (Free) – AP FREE (0 AP) starting traits or elements granted 
 
 Tremendous🌟 – A natural 20 on any d20 in an ability roll.
 
-Usage🔄 – Standardized 9-option list for ability frequency: `1`, `2`, `3`, `1-⚡` (1 Bolt), `1-🍀`, `1-Enc`, `2-Enc`, `3-Enc`, `1-Rnd`.
+Usage🔄 – Standardized 6-option list for ability frequency: `1-⚡` (1 Bolt), `1-🍀`, `1-Enc`, `2-Enc`, `3-Enc`, `1-Rnd`.
 
 Vault📦 – The unlimited repository for inactive Exotics🧿 and Artifacts🔮. Items in the Vault can be swapped into active Loadout Slots during a 5-minute out-of-combat breather.
 
@@ -1645,15 +1645,17 @@ How often an ability (Power🔥 or Magic Item✨) can be used:
 
 | Usage Option | Refresh & Mechanical Execution | Pacing & Table Utility |
 | :---: | :--- | :--- |
-| **`1`** | **1 Use Total:** Expended upon single activation; empty/consumed. | Single-use potions, scrolls, one-shot trinkets, or finite explosives. *(Hard Limit: SupaFlex will NEVER support more than 3 uses).* |
-| **`2`** | **2 Uses Total:** Expended after 2 activations; empty/consumed. | Dual-dose vials, paired charges, or double-shot disposable gear. |
-| **`3`** | **3 Uses Total:** Expended after 3 activations; empty/consumed. | Multi-charge batteries, field bandages, or 3-dose elixir vials. *(Maximum consumable capacity).* |
+| **`1-⚡`** | **1 Bolt:** Consumes 1 Bolt (5 Sparks, ⚡). Max 1/encounter. | High-impact tactical burst, overdrive munitions, combat elixirs, combos, or battlefield supremacy. |
 | **`1-🍀`** | **1 Luck:** Consumes 1 Luck chit (🍀) from player's pool. | Clutch cinematic interrupts, heroic saves, and auto-defenses. |
-| **`1-⚡`** | **1 Bolt:** Consumes 1 Bolt (5 Sparks, ⚡). Max 1/encounter. | High-impact tactical burst, combos, or battlefield supremacy. |
 | **`1-Enc`** | **1 per Encounter:** Refreshes when combat/encounter resolves. | Major tactical abilities, special stances, and defensive shields. |
 | **`2-Enc`** | **2 per Encounter:** Refreshes when combat/encounter resolves. | Flexible encounter abilities and tactical weapon maneuvers. |
 | **`3-Enc`** | **3 per Encounter:** Refreshes when combat/encounter resolves. | High-frequency encounter utilities and reliable tactical powers. *(HARD CAP: SupaFlex will NEVER support more than 3 uses per encounter).* |
-| **`1-Rnd`** | **1 per Round:** Refreshes every round on Initiative (Nish🚩). | Core martial strikes, baseline spells, and primary combat actions. |
+| **`1-Rnd`** | **1 per Round:** Refreshes every round on Initiative (Nish🚩). | Core martial strikes, baseline spells, stance toggles, and primary combat actions. |
+
+> [!IMPORTANT]
+> **Universal Combat Usage Standard & Chaos Gem Durability:**
+> 1. **Overdrive Munitions & Combat Elixirs:** All combat-grade munitions (missiles, specialized warhead tips, tactical grenades, delivery poisons) and alchemical combat elixirs/potions slotted into character Gear Power or Function slots use **`1-⚡`** (1 Bolt) or per-encounter frequencies (`1-Enc`). Flat numeric usages (`1, 2, 3`) are strictly prohibited for slotted combat abilities.
+> 2. **Chaos Gem Finite Durability:** Socketed Chaos Gauntlet gems strictly retain **3 finite charges** (`[false, false, false]`) that auto-shatter upon checking the 3rd box. Spending a Bolt (`1-⚡`) to activate a gem without consuming a charge is strictly reserved for the **Wrist Mega Slot**.
 
 #### ⚡ Spark Generation & Bolt Rules
 
@@ -2403,7 +2405,7 @@ This appendix provides player-facing and GM guidelines for authoring custom **El
 2. **Strict Separation of Notes vs. Effects:**
    * **Notes:** Reserved exclusively for tactile physical descriptions, narrative worldbuilding, lore flavor, and non-combat utility. Base notes must NEVER contain combat math, die codes, Caret checks, or status condition triggers.
    * **Effects:** Reserved exclusively for mechanical rules, dice, action economy, ranges, Caret checks, and condition applications.
-3. **No Redundant Action or Usage Badges:** Action types (`AM`, `A`, `M`, `P`, `F`) and Usages (`1`, `2`, `3`, `1-🍀`, `1-⚡`, `1-Enc`, `2-Enc`, `3-Enc`, `1-Rnd`) are tracked in dedicated application columns and UI badges. Never repeat action costs or usage limits in the effect text itself.
+3. **No Redundant Action or Usage Badges:** Action types (`AM`, `A`, `M`, `P`, `F`) and Usages (`1-⚡`, `1-🍀`, `1-Enc`, `2-Enc`, `3-Enc`, `1-Rnd`) are tracked in dedicated application columns and UI badges. Never repeat action costs or usage limits in the effect text itself.
 4. **Zero Resource Tracking:** Never track bullet counts, ammo magazines, battery percentages, or fuel tallies. SupaFlex operates on clean, cinematic resource tracking.
 5. **Zero Encumbrance Tracking:** SupaFlex never tracks pounds, kilograms, carrying limits, or encumbrance penalties. Never write *"encumbered"* or *"weight limit"*.
 
