@@ -16377,7 +16377,7 @@
       "action": "P",
       "usage": "1-Enc",
       "effect": "Rng Medium; deployable micro-ramjet; lies dormant up to 24 hrs; launches automatically when specified target enters range; Atk 👁️ Dmg 2d8.",
-      "belongs_to": "Supplies: Missile: Assassin (Proximity Ambush) (mso) {Free}",
+      "belongs_to": "Supplies: Missile: Assassin (Proximity Ambush) (mso)",
       "genres": [
         "SciFi"
       ],
@@ -16831,7 +16831,7 @@
       "action": "A",
       "usage": "3",
       "effect": "Rng Long; AI deep pursuit; penetrates obstacles and armor; Atk 👁️ Dmg 3d10; ignores cover.",
-      "belongs_to": "Supplies: Missile: Seeker (Bunker-Buster) (mso) {Free}",
+      "belongs_to": "Supplies: Missile: Seeker (Bunker-Buster) (mso)",
       "genres": [
         "SciFi"
       ],
@@ -16921,7 +16921,7 @@
       "action": "A",
       "usage": "1-Enc",
       "effect": "Weapon hit; severe cardiac shock; Save 🫀 or Stunned for Encounter and takes -d8 Vit.",
-      "belongs_to": "Supplies: Poison: Death (Blade Reservoir) (mso) {Free}",
+      "belongs_to": "Supplies: Poison: Death (Blade Reservoir) (mso)",
       "genres": [
         "SciFi"
       ],
@@ -17133,7 +17133,7 @@
       "action": "A",
       "usage": "2-Enc",
       "effect": "Weapon hit or contact; Save 🫀 or throat constricts; unable to speak; -2 to all checks for Encounter.",
-      "belongs_to": "Supplies: Poison: Choking (Blade Reservoir) (mso) {Free}",
+      "belongs_to": "Supplies: Poison: Choking (Blade Reservoir) (mso)",
       "genres": [
         "SciFi"
       ],
@@ -17360,7 +17360,7 @@
       "action": "A",
       "usage": "2-Enc",
       "effect": "Weapon hit; acidic enzyme burns flesh; target takes d6 acid Dmg each turn for Encounter; reduces target AR by 1.",
-      "belongs_to": "Supplies: Poison: Corrosive (Blade Reservoir) (mso) {Free}",
+      "belongs_to": "Supplies: Poison: Corrosive (Blade Reservoir) (mso)",
       "genres": [
         "SciFi"
       ],
@@ -17728,7 +17728,7 @@
       "action": "A",
       "usage": "2-Enc",
       "effect": "Weapon hit or contact; Save 🫀 or falls asleep for Encounter (Shanask immune).",
-      "belongs_to": "Supplies: Poison: Sleep (Blade Reservoir) (mso) {Free}",
+      "belongs_to": "Supplies: Poison: Sleep (Blade Reservoir) (mso)",
       "genres": [
         "SciFi"
       ],
@@ -17916,7 +17916,7 @@
       "action": "A",
       "usage": "3",
       "effect": "Rng Long; dual-thruster lock; Atk 👁️ Dmg 3d8; tracks target for Encounter until impact.",
-      "belongs_to": "Supplies: Missile: Hunter (Dual-Thruster) (mso) {Free}",
+      "belongs_to": "Supplies: Missile: Hunter (Dual-Thruster) (mso)",
       "genres": [
         "SciFi"
       ],
@@ -18132,7 +18132,7 @@
       "action": "A",
       "usage": "2-Enc",
       "effect": "Inhaled or contact; Save 👁️ or fits of uncontrollable laughter; 👣 1 sq max; cannot take Atk actions for Encounter.",
-      "belongs_to": "Supplies: Poison: Laughing (Blade Reservoir) (mso) {Free}",
+      "belongs_to": "Supplies: Poison: Laughing (Blade Reservoir) (mso)",
       "genres": [
         "SciFi"
       ],
@@ -18146,7 +18146,7 @@
       "action": "P",
       "usage": "1-⚡",
       "effect": "Rng Medium; hyper-velocity ramjet; lies dormant up to 7 days; Atk 👁️ Dmg 3d10; Wnds = Stunned for Encounter.",
-      "belongs_to": "Supplies: Missile: Assassin (Ramjet) (mso) {Free}",
+      "belongs_to": "Supplies: Missile: Assassin (Ramjet) (mso)",
       "genres": [
         "SciFi"
       ],
@@ -18174,7 +18174,7 @@
       "action": "A",
       "usage": "2-Enc",
       "effect": "Weapon shot; on hit, triggers kinetic blast dealing +d6 Dmg to primary target.",
-      "belongs_to": "Supplies: Tip: Exploding (Burst) (mso) {Free}",
+      "belongs_to": "Supplies: Tip: Exploding (Burst) (mso)",
       "genres": [
         "SciFi"
       ],
@@ -18188,7 +18188,7 @@
       "action": "A",
       "usage": "1-Enc",
       "effect": "Weapon shot; on hit, explodes in AoE 2x2; primary and adjacent targets suffer Atk 🏃 Dmg +d6.",
-      "belongs_to": "Supplies: Tip: Explosive Blast (Tactical) (mso) {Free}",
+      "belongs_to": "Supplies: Tip: Explosive Blast (Tactical) (mso)",
       "genres": [
         "SciFi"
       ],
@@ -18202,7 +18202,7 @@
       "action": "A",
       "usage": "1-Enc",
       "effect": "Rng Long; launched missile; AoE 3x3; Atk 👁️ Dmg 2d8; Wnds = knocked Prone.",
-      "belongs_to": "Supplies: Missile: Explosive (Tactical) (mso) {Free}",
+      "belongs_to": "Supplies: Missile: Explosive (Tactical) (mso)",
       "genres": [
         "SciFi"
       ],
@@ -18400,7 +18400,7 @@
       "action": "A",
       "usage": "3",
       "effect": "Rng Short; AoE 3x3; Save 🫀 or Blinded and Deafened for Encounter; failed by 5+ = Stunned for Encounter.",
-      "belongs_to": "Supplies: Grenade: Flash-Bang (Stun Core) (mso) {Free}",
+      "belongs_to": "Supplies: Grenade: Flash-Bang (Stun Core) (mso)",
       "genres": [
         "SciFi"
       ],
@@ -18414,7 +18414,7 @@
       "action": "A",
       "usage": "2-Enc",
       "effect": "Rng Short; AoE 3x3; Save 🫀 or Blinded and Deafened for Encounter.",
-      "belongs_to": "Supplies: Grenade: Flash-Bang (Tactical) (mso) {Free}",
+      "belongs_to": "Supplies: Grenade: Flash-Bang (Tactical) (mso)",
       "genres": [
         "SciFi"
       ],
@@ -18628,7 +18628,7 @@
       "action": "A",
       "usage": "2-Enc",
       "effect": "Rng Short; AoE 3x3; disperses loaded chemical payload in cloud; targets inhale gas; lasts for Encounter.",
-      "belongs_to": "Supplies: Grenade: Gas (Tactical) (mso) {Free}",
+      "belongs_to": "Supplies: Grenade: Gas (Tactical) (mso)",
       "genres": [
         "SciFi"
       ],
@@ -18994,7 +18994,7 @@
       "action": "A",
       "usage": "3",
       "effect": "Rng Short; AoE 3x3; Atk 🏃 Dmg 2d8; Wnds = knocked Prone and pushed 2 sq.",
-      "belongs_to": "Supplies: Grenade: HE (Military Warhead) (mso) {Free}",
+      "belongs_to": "Supplies: Grenade: HE (Military Warhead) (mso)",
       "genres": [
         "SciFi"
       ],
@@ -19008,7 +19008,7 @@
       "action": "A",
       "usage": "2-Enc",
       "effect": "Rng Short; AoE 3x3; Atk 🏃 Dmg d8; Wnds = knocked Prone.",
-      "belongs_to": "Supplies: Grenade: HE (Tactical Pack) (mso) {Free}",
+      "belongs_to": "Supplies: Grenade: HE (Tactical Pack) (mso)",
       "genres": [
         "SciFi"
       ],
@@ -19033,22 +19033,6 @@
       "tier": null
     },
     {
-      "id": 192,
-      "name": "Healing",
-      "action": "P",
-      "usage": "1-⚡",
-      "effect": "Heal self d✨.",
-      "belongs_to": "Supplies: Potion of Healing",
-      "genres": [
-        "Medieval",
-        "Modern",
-        "SciFi"
-      ],
-      "notes": "Potion of Healing is engineered with high-durability composite materials for reliable field operations.",
-      "created_at": "2026-09-03T20:14:29.977879+00:00",
-      "tier": null
-    },
-    {
       "id": 36,
       "name": "Healing",
       "action": "A",
@@ -19065,12 +19049,28 @@
       "tier": null
     },
     {
+      "id": 192,
+      "name": "Healing",
+      "action": "P",
+      "usage": "1-⚡",
+      "effect": "Heal self d✨.",
+      "belongs_to": "Supplies: Potion of Healing",
+      "genres": [
+        "Medieval",
+        "Modern",
+        "SciFi"
+      ],
+      "notes": "Potion of Healing is engineered with high-durability composite materials for reliable field operations.",
+      "created_at": "2026-09-03T20:14:29.977879+00:00",
+      "tier": null
+    },
+    {
       "id": 465,
       "name": "Heavy Demolition Missile (mso)",
       "action": "A",
       "usage": "3",
       "effect": "Rng Long; heavy ordnance; AoE 5x5; Atk 👁️ Dmg 3d8; Wnds = structural breach and pushed 3 sq.",
-      "belongs_to": "Supplies: Missile: Explosive (Demolition) (mso) {Free}",
+      "belongs_to": "Supplies: Missile: Explosive (Demolition) (mso)",
       "genres": [
         "SciFi"
       ],
@@ -19098,7 +19098,7 @@
       "action": "A",
       "usage": "3",
       "effect": "Rng Short; AoE 5x5; heavy lingering neuro-aerosol; covers area for Encounter.",
-      "belongs_to": "Supplies: Grenade: Gas (Neuro-Aerosol) (mso) {Free}",
+      "belongs_to": "Supplies: Grenade: Gas (Neuro-Aerosol) (mso)",
       "genres": [
         "SciFi"
       ],
@@ -19112,7 +19112,7 @@
       "action": "A",
       "usage": "3",
       "effect": "Rng Short; AoE 3x3; sonic blast; Save 🫀 or Unconscious for Encounter; robots/cyberware Stunned for Encounter.",
-      "belongs_to": "Supplies: Grenade: Shock (Sonic EMP) (mso) {Free}",
+      "belongs_to": "Supplies: Grenade: Shock (Sonic EMP) (mso)",
       "genres": [
         "SciFi"
       ],
@@ -19183,7 +19183,7 @@
       "action": "A",
       "usage": "3",
       "effect": "Rng Short; AoE 3x3; industrial resin; Save 🏃 or Entangled (👣 0; requires 💪^14 check to break free).",
-      "belongs_to": "Supplies: Grenade: Tangler (High-Tensile) (mso) {Free}",
+      "belongs_to": "Supplies: Grenade: Tangler (High-Tensile) (mso)",
       "genres": [
         "SciFi"
       ],
@@ -19374,7 +19374,7 @@
       "action": "A",
       "usage": "1-Enc",
       "effect": "Rng Long; homing lock; Atk 👁️ Dmg 2d8; if Atk misses, missile re-attacks target each turn for Encounter until impact.",
-      "belongs_to": "Supplies: Missile: Hunter (Tracker) (mso) {Free}",
+      "belongs_to": "Supplies: Missile: Hunter (Tracker) (mso)",
       "genres": [
         "SciFi"
       ],
@@ -19419,7 +19419,7 @@
       "action": "F",
       "usage": "2-Enc",
       "effect": "Hydraulic servo assistance granting 💪+2.",
-      "belongs_to": "Mod: Strength Enhancers",
+      "belongs_to": "Mod: Strength Enhancers, Armor: Power Frame",
       "genres": [
         "SciFi"
       ],
@@ -19433,7 +19433,7 @@
       "action": "F",
       "usage": "2-Enc",
       "effect": "Hydraulic servo assistance granting 💪+2.",
-      "belongs_to": "Mod: Strength Enhancers (mso)",
+      "belongs_to": "Mod: Strength Enhancers (mso), Armor: Power Frame, Armor: Destron Armor (mso)",
       "genres": [
         "SciFi"
       ],
@@ -19531,7 +19531,7 @@
       "action": "A",
       "usage": "2-Enc",
       "effect": "Rng Short; AoE 3x3; Atk 🏃 Dmg d6 fire; flammable targets catch Fire (Dmg d4 each turn for Encounter).",
-      "belongs_to": "Supplies: Grenade: Incendiary (Tactical) (mso) {Free}",
+      "belongs_to": "Supplies: Grenade: Incendiary (Tactical) (mso)",
       "genres": [
         "SciFi"
       ],
@@ -19649,7 +19649,7 @@
       "action": "P",
       "usage": "1-Enc",
       "effect": "Stealth 🏃+2^👁️.",
-      "belongs_to": "Armor: Scout Armor (mso)",
+      "belongs_to": "Armor: Scout Armor (mso), Armor: Scout Armor",
       "genres": [
         "SciFi"
       ],
@@ -19801,7 +19801,7 @@
       "action": "A",
       "usage": "3",
       "effect": "Intravenous strike; Save 🫀 or Paralyzed for Encounter (can think/sense, but cannot move or act).",
-      "belongs_to": "Supplies: Poison: Paralysis (Joc-Tun Dose) (mso) {Free}",
+      "belongs_to": "Supplies: Poison: Paralysis (Joc-Tun Dose) (mso)",
       "genres": [
         "SciFi"
       ],
@@ -19877,7 +19877,7 @@
       "action": "A",
       "usage": "3",
       "effect": "Weapon shot; on hit, +d10 Dmg and knocks target Prone.",
-      "belongs_to": "Supplies: Tip: Kinetic Blast (Heavy) (mso) {Free}",
+      "belongs_to": "Supplies: Tip: Kinetic Blast (Heavy) (mso)",
       "genres": [
         "SciFi"
       ],
@@ -20009,7 +20009,7 @@
       "action": "A",
       "usage": "2-Enc",
       "effect": "Weapon hit or contact; Save 🫀 or Unconscious for Encounter.",
-      "belongs_to": "Supplies: Poison: Knockout (Blade Reservoir) (mso) {Free}",
+      "belongs_to": "Supplies: Poison: Knockout (Blade Reservoir) (mso)",
       "genres": [
         "SciFi"
       ],
@@ -20023,7 +20023,7 @@
       "action": "A",
       "usage": "3",
       "effect": "Weapon hit or contact; burns living tissue; target takes d8 acid Dmg each turn for Encounter; reduces target AR by 2.",
-      "belongs_to": "Supplies: Poison: Corrosive (Acidic Core) (mso) {Free}",
+      "belongs_to": "Supplies: Poison: Corrosive (Acidic Core) (mso)",
       "genres": [
         "SciFi"
       ],
@@ -20333,7 +20333,7 @@
       "action": "A",
       "usage": "3",
       "effect": "Intravenous or oral; Save 🫀 or Unconscious for Encounter (wakes upon taking Dmg).",
-      "belongs_to": "Supplies: Poison: Knockout (Anesthetic Vial) (mso) {Free}",
+      "belongs_to": "Supplies: Poison: Knockout (Anesthetic Vial) (mso)",
       "genres": [
         "SciFi"
       ],
@@ -20389,7 +20389,7 @@
       "action": "A",
       "usage": "3",
       "effect": "Weapon shot; on hit, explodes in AoE 3x3; targets suffer Atk 🏃 Dmg +d8; Wnds = pushed 2 sq.",
-      "belongs_to": "Supplies: Tip: Micro-Warhead (Heavy) (mso) {Free}",
+      "belongs_to": "Supplies: Tip: Micro-Warhead (Heavy) (mso)",
       "genres": [
         "SciFi"
       ],
@@ -20768,7 +20768,7 @@
       "action": "A",
       "usage": "3",
       "effect": "Rng Short; AoE 3x3; gas cloud; Save 👁️ or incapacitated laughing and exhausted for Encounter.",
-      "belongs_to": "Supplies: Poison: Laughing (Euphoria Cloud) (mso) {Free}",
+      "belongs_to": "Supplies: Poison: Laughing (Euphoria Cloud) (mso)",
       "genres": [
         "SciFi"
       ],
@@ -20910,7 +20910,7 @@
       "action": "A",
       "usage": "2-Enc",
       "effect": "Weapon hit or contact; Save 🫀 or Paralyzed for Encounter (can think/sense, but cannot move or act).",
-      "belongs_to": "Supplies: Poison: Paralysis (Blade Reservoir) (mso) {Free}",
+      "belongs_to": "Supplies: Poison: Paralysis (Blade Reservoir) (mso)",
       "genres": [
         "SciFi"
       ],
@@ -21902,7 +21902,7 @@
       "action": "A",
       "usage": "1-⚡",
       "effect": "Intravenous strike; Save 🫀^14 or cardiac arrest; drops to 0 Vit and dying; fatal by end of Encounter unless Kalos II kicta antidote or 👁️^14 Medtech check succeeds.",
-      "belongs_to": "Supplies: Poison: Death (Sea Zimil Dose) (mso) {Free}",
+      "belongs_to": "Supplies: Poison: Death (Sea Zimil Dose) (mso)",
       "genres": [
         "SciFi"
       ],
@@ -21916,7 +21916,7 @@
       "action": "F",
       "usage": "1-Enc",
       "effect": "Airtight space-worthy seal providing breathable air in void, underwater, and toxic environments; lasts for Encounter.",
-      "belongs_to": "Mod: Sealed",
+      "belongs_to": "Mod: Sealed, Armor: Space Suit, Armor: Marine Armor, Armor: Assault Armor",
       "genres": [
         "SciFi"
       ],
@@ -21930,7 +21930,7 @@
       "action": "F",
       "usage": "1-Enc",
       "effect": "Airtight space-worthy seal providing breathable air in void, underwater, and toxic environments; lasts for Encounter.",
-      "belongs_to": "Mod: Sealed (mso)",
+      "belongs_to": "Mod: Sealed (mso), Armor: Space Suit, Armor: Marine Armor (mso), Armor: Assault Armor (mso), Armor: Destron Armor (mso)",
       "genres": [
         "SciFi"
       ],
@@ -21958,7 +21958,7 @@
       "action": "A",
       "usage": "1-Enc",
       "effect": "Rng Long; AI autonomous pursuit; ignores cover and line-of-sight; Atk 👁️ Dmg 2d8.",
-      "belongs_to": "Supplies: Missile: Seeker (Smart Guidance) (mso) {Free}",
+      "belongs_to": "Supplies: Missile: Seeker (Smart Guidance) (mso)",
       "genres": [
         "SciFi"
       ],
@@ -21986,7 +21986,7 @@
       "action": "A",
       "usage": "3",
       "effect": "Ingested or coated; Save 🫀 or falls into deep sleep for Encounter (wakes if vigorously shaken or taking Dmg; Shanask immune).",
-      "belongs_to": "Supplies: Poison: Sleep (Setchie Coma Dose) (mso) {Free}",
+      "belongs_to": "Supplies: Poison: Sleep (Setchie Coma Dose) (mso)",
       "genres": [
         "SciFi"
       ],
@@ -22112,7 +22112,7 @@
       "action": "A",
       "usage": "2-Enc",
       "effect": "Rng Short; AoE 3x3; sonic blast; Save 🫀 or Stunned for Encounter; robots/cyberware take d6 ion Dmg.",
-      "belongs_to": "Supplies: Grenade: Shock (Tactical) (mso) {Free}",
+      "belongs_to": "Supplies: Grenade: Shock (Tactical) (mso)",
       "genres": [
         "SciFi"
       ],
@@ -22205,7 +22205,7 @@
       "action": "A",
       "usage": "2-Enc",
       "effect": "Rng Short; AoE 3x3; dense particulate; blocks line-of-sight; Adv(Stealth🏃); lasts for Encounter.",
-      "belongs_to": "Supplies: Grenade: Smoke (Tactical) (mso) {Free}",
+      "belongs_to": "Supplies: Grenade: Smoke (Tactical) (mso)",
       "genres": [
         "SciFi"
       ],
@@ -22504,7 +22504,7 @@
       "action": "A",
       "usage": "2-Enc",
       "effect": "Weapon shot; drills into flesh; target takes +d4 Dmg each turn for Encounter until removed via 👁️^12 First Aid check or suffering extra d6 Dmg.",
-      "belongs_to": "Supplies: Tip: Spinning Drill (Tactical) (mso) {Free}",
+      "belongs_to": "Supplies: Tip: Spinning Drill (Tactical) (mso)",
       "genres": [
         "SciFi"
       ],
@@ -23010,7 +23010,7 @@
       "action": "A",
       "usage": "3",
       "effect": "Rng Short; AoE 3x3; gas cloud; Save 🫀 or Suffocating (takes d8 Dmg each turn for Encounter; can only gasp for air).",
-      "belongs_to": "Supplies: Poison: Choking (Milc-Ti Dose) (mso) {Free}",
+      "belongs_to": "Supplies: Poison: Choking (Milc-Ti Dose) (mso)",
       "genres": [
         "SciFi"
       ],
@@ -23126,7 +23126,7 @@
       "action": "A",
       "usage": "2-Enc",
       "effect": "Rng Short; AoE 3x3; sticky resin; Save 🏃 or Entangled (👣 0; requires 💪^10 check to break free).",
-      "belongs_to": "Supplies: Grenade: Tangler (Tactical) (mso) {Free}",
+      "belongs_to": "Supplies: Grenade: Tangler (Tactical) (mso)",
       "genres": [
         "SciFi"
       ],
@@ -23292,7 +23292,7 @@
       "action": "A",
       "usage": "3",
       "effect": "Rng Short; AoE 5x5; thermal-blocking smoke; blocks visual and sensor targeting; lasts for Encounter.",
-      "belongs_to": "Supplies: Grenade: Smoke (Heavy Thermal) (mso) {Free}",
+      "belongs_to": "Supplies: Grenade: Smoke (Heavy Thermal) (mso)",
       "genres": [
         "SciFi"
       ],
@@ -23582,7 +23582,7 @@
       "action": "A",
       "usage": "3",
       "effect": "Weapon shot; tungsten drill lodges into target; deals +d8 Dmg each turn for Encounter; requires 👁️^16 Medtech check to remove or suffering extra d8 Dmg.",
-      "belongs_to": "Supplies: Tip: Tungsten Harpoon (Heavy) (mso) {Free}",
+      "belongs_to": "Supplies: Tip: Tungsten Harpoon (Heavy) (mso)",
       "genres": [
         "SciFi"
       ],
@@ -23978,7 +23978,7 @@
       "action": "A",
       "usage": "3",
       "effect": "Rng Short; AoE 3x3; Atk 🏃 Dmg d10 fire; targets catch Fire (Dmg d6 each turn for Encounter).",
-      "belongs_to": "Supplies: Grenade: Incendiary (Phosphorous Core) (mso) {Free}",
+      "belongs_to": "Supplies: Grenade: Incendiary (Phosphorous Core) (mso)",
       "genres": [
         "SciFi"
       ],
