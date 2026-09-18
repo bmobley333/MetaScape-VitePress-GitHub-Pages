@@ -1302,7 +1302,7 @@
       "name": "Aether Leap",
       "usage": "2-Enc",
       "action": "M",
-      "effect": "Leap(d🏃+2); Leave a psionic afterimage Believe Image(👁️)^👁️.",
+      "effect": "Leap(d👣+2); Leave a psionic afterimage Believe Image(👁️)^👁️.",
       "created_at": "2026-08-13T21:26:29.251053+00:00",
       "genres": [
         "Medieval",
@@ -3861,7 +3861,7 @@
       "name": "Dark Form",
       "usage": "1-Enc",
       "action": "M",
-      "effect": "Dire Wolf form; 👣 12; jump d🏃+2; bite Atk 💪 Dmg d💪.",
+      "effect": "Dire Wolf form; 👣 12; jump d👣+2; bite Atk 💪 Dmg d💪.",
       "created_at": "2026-08-13T21:26:29.343213+00:00",
       "genres": [
         "Medieval",
@@ -7898,7 +7898,7 @@
       "name": "Leap of the Colossus",
       "usage": "1-Enc",
       "action": "P",
-      "effect": "Jump up to 5sq: making Brawl Atk/Dmg to target.",
+      "effect": "Jump up to 5sq: making Brawl Atk 💪 Dmg d💪 to target.",
       "created_at": "2026-08-13T21:26:29.524874+00:00",
       "genres": [
         "Medieval",
@@ -8434,7 +8434,7 @@
       "name": "Lycanthropy",
       "usage": "1-Enc",
       "action": "M",
-      "effect": "Transform into: Dire Wolf: MR(12), Jumps(d🏃+2), bite Atk 💪 Dmg d💪+1; if hit -> Bite can Latch for Dmg d💪 each round.",
+      "effect": "Transform into: Dire Wolf: MR(12), Jumps(d👣+2), bite Atk 💪 Dmg d💪+1; if hit -> Bite can Latch for Dmg d💪 each round.",
       "created_at": "2026-08-13T21:26:29.524874+00:00",
       "genres": [
         "Medieval",

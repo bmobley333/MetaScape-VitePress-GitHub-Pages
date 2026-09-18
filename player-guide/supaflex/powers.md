@@ -70,7 +70,7 @@ Select one of the many sub-sets of powers such as Class👤, Race🧬, Combat St
 | 1-Enc | A | **Double Grab** | Grab 2 adjacent foes; 💪 Brawl Atk & Dmg on both. |
 | 1-Enc | P | **Iron Endurance** | Heal self 2 Vit. |
 | 1-⚡ | P | **Juggernaut** | AR+2 vs all Atks while in Giant form for encounter. |
-| 1-Enc | P | **Leap of the Colossus** | Jump up to 5sq: making Brawl Atk/Dmg to target. |
+| 1-Enc | P | **Leap of the Colossus** | Jump up to 5sq: making Brawl Atk 💪 Dmg d💪 to target. |
 | 1-Enc | P | **Rip & Throw** | Brawl Atk 💪 Dmg d💪 and grab target and hurl them up to d6sq. |
 | 1-Enc | A | **Skull Crusher** | On hit with unarmed; 💪 or target is Stunned. |
 | 1-⚡ | P | **Titan’s Grip** | Can wield massive objects as improvised weapons (Dmg+2) for encounter. |
@@ -538,7 +538,7 @@ Select one of the many sub-sets of powers such as Class👤, Race🧬, Combat St
 | --- | --- | --- | --- |
 | 1-Enc | M | **Aether Burst** | Melee weapon's Wnds+2. |
 | 1-⚡ | A | **Aether Clone** | Clone is totally real and can do anything the caster can (powers, weapons, etc.); clone vanishes upon receiving wounds. |
-| 2-Enc | M | **Aether Leap** | Leap(d🏃+2); Leave a psionic afterimage Believe Image(👁️)^👁️. |
+| 2-Enc | M | **Aether Leap** | Leap(d👣+2); Leave a psionic afterimage Believe Image(👁️)^👁️. |
 | 2-Enc | AM | **Aether Step** | Shuriken Atk 🏃 Dmg d🏃; Double normal range; Teleport to target. |
 | 1-⚡ | A | **Blade Barrier** | Tight radius AoE Atk ✨ Dmg d✨ on PC's Nish. |
 | 1-⚡ | F | **Enhanced Reflexes** | Caster gains 🏃+2; MR(+3). |
@@ -562,7 +562,7 @@ Select one of the many sub-sets of powers such as Class👤, Race🧬, Combat St
 | 1-⚡ | A | **Fury Blast** | Tight radius AoE: all Knockback(✨)^💪 (feet = success); if 10+ ft → prone & Wnds = ft/10. |
 | 1-Enc | M | **Gaze of Terror** | 1 target: Intimidation(💪)^👁️ or frozen with terror (auto-hit, but additional Save if wounded). |
 | 1-Rnd | P | **Lupine Agility** | Substitute for Parkour, Acrobatics, Jump, Climb, or Balance; Agility(🏃+2). |
-| 1-Enc | M | **Lycanthropy** | Transform into: Dire Wolf: MR(12), Jumps(d🏃+2), bite Atk 💪 Dmg d💪+1; if hit -> Bite can Latch for Dmg d💪 each round. |
+| 1-Enc | M | **Lycanthropy** | Transform into: Dire Wolf: MR(12), Jumps(d👣+2), bite Atk 💪 Dmg d💪+1; if hit -> Bite can Latch for Dmg d💪 each round. |
 | 1-Enc | AM | **Pack Tactics** | For all allies, Each ally that attacks the same target Wnds + (# of Allies attacking that target)*3; requires at least 2 allies per target. |
 | 1-⚡ | M | **Predator's Leap** | Leap distance MR(+4); optional landing Atk 💪*1.1 Dmg d💪*1.1. |
 | 1-⚡ | M | **Rage Leap** | Leap MR(*1.5), min distance MR; landing Atk 💪+1 Dmg d💪+1. |
@@ -623,7 +623,7 @@ Select one of the many sub-sets of powers such as Class👤, Race🧬, Combat St
 | 1-⚡ | AM | **Blood Pact** | As target recieves Wnds -> Caster Blinks to target, auto-hit bite no Dmg; Blood Link(✨)^✨ -> All target's wounds halved, Caster takes 1 2nd Deg Wnd each time; Willing targets may skip save. |
 | 1-⚡ | A | **Blood Strike** | Each blade hit: Atk 💪 Dmg d💪; +5 cumulative Wnd bonus; heals 1st Deg Wnd. |
 | 1-⚡ | P | **Bloodbond** | Caster must have caused bite Dmg: Any new target wounds regenerate cast for 1/2 value. |
-| 1-Enc | M | **Dark Form** | Dire Wolf form; 👣 12; jump d🏃+2; bite Atk 💪 Dmg d💪. |
+| 1-Enc | M | **Dark Form** | Dire Wolf form; 👣 12; jump d👣+2; bite Atk 💪 Dmg d💪. |
 | 1-⚡ | F | **Diamond Skin** | AR(💪+5); MR(½); Immune to fire/heat/plasma. |
 | 1-⚡ | F | **Eclipse Veil** | 4×4 AoE. Within veil: caster's Stealth has Advantage; if caster wounds target, Intimidation(👁️)^👁️ or succumb to fear. |
 | 1-⚡ | M | **Elemental Str Surge** | Superhuman Strength: 💪+3; Melee Atk 💪 Dmg d💪+2. |

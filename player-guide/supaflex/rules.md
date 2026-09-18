@@ -692,13 +692,13 @@ Attribute shorthand in SupaFlex follows a strict, four-tier grammar standard acr
 | :--- | :--- | :--- | :--- | :--- |
 | **`[Atr]`** | **Ability Roll** | `2H20 + d[Atr]` (Skilled) or `1d20 + d[Atr]` (Unskilled) | `Atk ✨`, `Atk 💪+2`, `Awareness 👁️` | Attack hit rolls, skill checks, general attribute tests. |
 | **`[Atr]^[Target/Dif]`** | **Opposed / Caret Roll** | Player rolls Ability Check vs. static target score or `Dif` | `💪^💪`, `✨^🫀`, `👁️^👁️`, `🏃^Dif`, `🫀^20` | Offensive spell effects, status afflictions, grappling, saves. |
-| **`d[Atr]`** | **Flat Attribute Die** | 1 flat die of current attribute size (d4, d6, d8, d10, d12) | `Dmg d💪`, `AR d✨`, `restore d✨ Vit`, `jump d🏃` | Damage rolls, armor absorption, vitality healing, jumps. |
-| **`[A]d[Atr][±#]`** | **Multiple Attribute Dice** | `A` flat dice of attribute size plus/minus static bonus | `2d🏃`, `2d✨`, `d💪+2`, `2d👁️+1` | Multi-die jump bonuses, empowered damage, scaled abilities. |
+| **`d[Atr]`** | **Flat Attribute Die** | 1 flat die of current attribute size (d4, d6, d8, d10, d12) | `Dmg d💪`, `AR d✨`, `restore d✨ Vit` | Damage rolls, armor absorption, vitality healing. |
+| **`[A]d[Atr][±#]`** | **Multiple Attribute Dice** | `A` flat dice of attribute size plus/minus static bonus | `2d✨`, `d💪+2`, `2d👁️+1` | Empowered damage, scaled abilities. |
 | **`Val([Atr])`** | **Exact Static Score** | Static numerical rating of the attribute (4, 6, 8, 10, 12) | `Vit Val(✨)`, `within Val(✨) sq`, `grows Val(✨) in` | Static vitality capacity, growth limits, teleport ranges, flat bonuses. |
 
 #### 💥 Universal Explosion Rule for Attribute Rolls
 * **Attribute Die Only Explodes:** In any Ability Roll (`2H20 + Atr Die` or `1d20 + Atr Die`), **ONLY the Attribute die explodes** on its maximum face (e.g. rolling 6 on a d6). The d20 **NEVER** explodes (a 20 on a d20 is a Tremendous roll, not an exploding die).
-* **Universal Explosion Directive:** **ALL Attribute-based rolls (whether an Ability roll or a flat attribute die roll) explode on maximum face unless specifically stated otherwise.** Thus, all Damage (`Dmg d[Atr]`), Armor reduction (`AR d[Atr]`), Healing (`restore d[Atr] Vit`), and Jumps (`jump d[Atr]`) explode!
+* **Universal Explosion Directive:** **ALL Attribute-based rolls (whether an Ability roll or a flat attribute die roll) explode on maximum face unless specifically stated otherwise.** Thus, all Damage (`Dmg d[Atr]`), Armor reduction (`AR d[Atr]`), Healing (`restore d[Atr] Vit`), and Jumps (`jump d👣`) explode!
 
 ---
 
@@ -725,10 +725,11 @@ Attribute shorthand in SupaFlex follows a strict, four-tier grammar standard acr
 
 #### 3. 💥 Flat Attribute Dice: `d[Atr]` & `[A]d[Atr][±#]` Notation (Triad Format)
 * **Rule (The What):**
-  Whenever a game mechanic rolls the character's attribute die for **Damage (`Dmg`), Armor reduction (`AR`), Vitality Healing (`restore/heals ... Vit`), Wounds, or Jump distances**, it MUST prepend a lowercase **`d`**: **`d[Atr Icon]`** (e.g. **`d💪`**, **`d✨`**, **`d👁️`**, **`d🏃`**, **`d🫀`**).
-  * If multiple dice are rolled, an integer prefix `A` precedes the `d`: **`[A]d[Atr Icon]`** (e.g. **`2d🏃`**, **`2d✨`**).
+  Whenever a game mechanic rolls the character's attribute die for **Damage (`Dmg`), Armor reduction (`AR`), Vitality Healing (`restore/heals ... Vit`), or Wounds**, it MUST prepend a lowercase **`d`**: **`d[Atr Icon]`** (e.g. **`d💪`**, **`d✨`**, **`d👁️`**, **`d🏃`**, **`d🫀`**).
+  * If multiple dice are rolled, an integer prefix `A` precedes the `d`: **`[A]d[Atr Icon]`** (e.g. **`2d✨`**, **`2d💪`**).
   * **The Invariant Rule of `A` and `d`:** Where `A` is an integer count of attribute dice: **IF there is an `A`, there WILL be a `d`, but there can be a `d` without an `A`, and there can be neither `A` nor `d`.**
-  * **Universal Explosion:** Flat attribute dice explode on their maximum face unless specifically noted otherwise.
+  * **Movement Rate Exception for Jumps (`d👣`):** While Damage, Armor reduction, and Vitality Healing roll attribute dice (`d[Atr]`), **Jumps scale from the Movement Rate die: `jump d👣`, `jump d👣+2`, `Jumps(d👣+2)`**, where `d👣` represents rolling the die corresponding to the character's Movement Rate (`d(MR) ≤ MR`, e.g. MR 6 rolls a d6). This prevents high-Motion characters from leaping further than their standard ground movement rate.
+  * **Universal Explosion:** Flat attribute and movement dice explode on their maximum face unless specifically noted otherwise.
   * Slashed shorthand notations like `Atk/Dmg [Atr]` or `Def/AR [Atr]` are strictly prohibited. Always write: **`Atk [Atr] Dmg d[Atr]`** and **`Def [Atr] AR d[Atr]`**.
 * **Rationale (The Why):**
   Tabletop players and digital parsers need an immediate, foolproof visual distinction between rolling a d20 ability check (no `d`) and rolling the attribute die itself (with `d`).
@@ -1758,7 +1759,7 @@ Every combat round, each character receives an action allocation of **1 Attack (
 * **Standard Attack & Move Sequence:** If you do not make an Attack (A), you may freely pause and resume your Move (M) (move $\rightarrow$ pause $\rightarrow$ move). However, taking an Attack (A) action immediately concludes your turn's movement; any unused Movement Rate (MR) is forfeit.
 * **Mobile Striker Clause:** Specialized Move (M) or Partial (P) powers or items can explicitly grant split-movement ("You may split your movement before and after this attack"), providing tactical identity for mobility builds.
 * **Skill Action Cost:** Skills🎓 default to a Partial (P) action unless an ability or GM specifies Free (F). GM-initiated awareness or perception checks are always Free (F).
-* **Jumping Actions:** Standing Jump is **d🏃** squares as a Move (**M**) action. Running Jump is running up to **MR 👣** on the ground plus a **d🏃** jump as an Attack & Move (**AM**) action.
+* **Jumping Actions:** Standing Jump is **d👣** squares as a Move (**M**) action. Running Jump is running up to **MR 👣** on the ground plus a **d👣** jump as an Attack & Move (**AM**) action (using Movement Rate die `d(MR) ≤ MR`).
 
 Examples of Partial (P) Actions:
 
@@ -2135,12 +2136,13 @@ I roughly base the Dmg on feet fallen and landing surface (bolder field vs spike
 ### 🏃 Jumps & Leaping Mechanics
 
 * **Rule (The What):**
-  1. **Standing Jump (Move Action `M`):** A character may jump a distance of **`d🏃`** squares (or increments of 5 ft) as a standard **Move (`M`)** action.
-  2. **Running Jump (Attack & Move Action `AM`):** A running jump allows the character to run up to their full Movement Rate (**`MR 👣`**) on the ground and then leap an additional **`d🏃`** squares in the air, resolved as a full **Attack & Move (`AM`)** action.
+  1. **Standing Jump (Move Action `M`):** A character may jump a distance of **`d👣`** squares (or increments of 5 ft) as a standard **Move (`M`)** action, rolling their Movement Rate die (`d(MR) ≤ MR`, e.g. MR 6 rolls a d6).
+  2. **Running Jump (Attack & Move Action `AM`):** A running jump allows the character to run up to their full Movement Rate (**`MR 👣`**) on the ground and then leap an additional **`d👣`** squares in the air, resolved as a full **Attack & Move (`AM`)** action.
+  3. **Exploding Jump Dice:** Like all flat attribute and movement dice, `d👣` explodes on its maximum face unless specifically noted otherwise.
 * **Rationale (The Why):**
-  Jumping utilizes the active, explosive propulsion of the Motion attribute die (`d🏃`). A running jump requires building momentum and physical commitment across the turn, properly consuming an AM action channel, while a standing leap fits cleanly within standard Move (M) economy.
+  Jumping distance must scale from the character's Movement Rate (`d👣` / `d(MR)` where die $\le$ MR), rather than the Motion attribute die (`d🏃`). If jumps were governed by `d🏃`, high-Motion characters would roll larger dice (d10–d12) than their entire normal ground movement rate (typically 6), making it mechanically optimal to jump everywhere for standard Move actions instead of walking or running. Tying jumping to `d👣` ensures a standing leap (e.g. d6 for MR 6) naturally remains within normal movement bounds while still allowing explosive leaps that can clear chasms.
 * **Failure Mechanism (The What Breaks):**
-  Without explicit action channels and die notation for jumping, players treat jump distances as static integers rather than rolled dice, argue over whether running leaps permit standard attacks in the same round, or attempt to move full distance and leap without action expenditure.
+  Using `d🏃` creates a bizarre tactical exploit where high-Motion characters hop constantly across battle maps because jumping yields greater average distance than walking for a single Move action.
 
 ## Avoid Auto-Hazards
 
