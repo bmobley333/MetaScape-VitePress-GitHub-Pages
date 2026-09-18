@@ -61,7 +61,7 @@ Index of purchasable Gear Powers (🧿) and treasure Artifacts (🔮) derived fr
 | 2-Enc | F | **Shadows** | Cloak of Shadows | While in shadows or darkness: 🏃 Stealth rolls gain Advantage for 1 Rnd. |
 | 2-Enc | F | **Concealed Mine Arming (mso)** | Cloaking Mines (mso) | Mines gain Stealth 🏃. |
 | 2-Enc | F | **Force Shield Ward (mso)** | Cloaking Shield (mso) | Deploy force shield; +2 AR for encounter. |
-| 1-⚡ | A | **Clockwork [Ranged Weapon]** | Clockwork [Ranged Weapon] | Fire twice. |
+| 1-⚡ | A | **Clockwork [Weapon]** | Clockwork [Weapon] | Fire twice. |
 | 1-⚡ | A | **Codex of All Names** | Codex of All Names | Speak target's true name: all rolls +2^target for Encounter. |
 | 1-Enc | P | **Compass of True North** | Compass of True North | Always points to chosen destination for Encounter. |
 | 1-Enc | P | **Concealed Dagger** | Concealed Dagger | Gain Advantage on 1 Atk this Rnd. |

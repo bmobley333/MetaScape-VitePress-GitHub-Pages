@@ -17191,11 +17191,11 @@
     },
     {
       "id": 80,
-      "name": "Clockwork [Ranged Weapon]",
+      "name": "Clockwork [Weapon]",
       "action": "A",
       "usage": "1-⚡",
       "effect": "Fire twice.",
-      "belongs_to": "Supplies: Clockwork [Ranged Weapon]",
+      "belongs_to": "Supplies: Clockwork [Weapon]",
       "genres": [
         "Medieval",
         "Modern",
@@ -46067,7 +46067,7 @@
     {
       "id": 214,
       "category": "Artifact",
-      "name": "Clockwork [Ranged Weapon]",
+      "name": "Clockwork [Weapon]",
       "cost": "Artifact",
       "created_at": "2026-09-03T20:14:29.977879+00:00",
       "genres": [
@@ -55674,7 +55674,7 @@
     {
       "id": 214,
       "category": "Artifact",
-      "name": "Clockwork [Ranged Weapon]",
+      "name": "Clockwork [Weapon]",
       "cost": "Artifact",
       "created_at": "2026-09-03T20:14:29.977879+00:00",
       "genres": [
@@ -65281,7 +65281,7 @@
     {
       "id": 214,
       "category": "Artifact",
-      "name": "Clockwork [Ranged Weapon]",
+      "name": "Clockwork [Weapon]",
       "cost": "Artifact",
       "created_at": "2026-09-03T20:14:29.977879+00:00",
       "genres": [

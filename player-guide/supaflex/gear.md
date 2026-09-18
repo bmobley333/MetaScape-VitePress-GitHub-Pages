@@ -90,7 +90,7 @@ Master indexed gear directory.
 | Artifact | **Cloak of Shadows** | Artifact |
 | Artifact | **Cloaking Mines (mso)** | Artifact |
 | Artifact | **Cloaking Shield (mso)** | Artifact |
-| Artifact | **Clockwork [Ranged Weapon]** | Artifact |
+| Artifact | **Clockwork [Weapon]** | Artifact |
 | Artifact | **Codex of All Names** | Artifact |
 | Artifact | **Compass of True North** | Artifact |
 | Artifact | **Concealed Dagger** | Artifact |
