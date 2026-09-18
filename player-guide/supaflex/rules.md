@@ -682,10 +682,62 @@ All Attributes are equally important. Mgt💪 is not inherently better than Mnd�
 
 All abilities and items show their governing Atr: Might💪, Motion🏃, Mind👁️, Magic✨, or Moxie🫀 that they provide a buff to or use as an ability roll.
 
-### 🎯 Exact Attribute Values: Val([Atr]) Notation
+### 📜 Attribute Notation Grammar in Effects & Mechanics
 
+Attribute shorthand in SupaFlex follows a strict, four-tier grammar standard across powers, gear powers, items, and combat mechanics. This eliminates ambiguity between making an ability roll, rolling flat dice, or checking an exact static score.
+
+#### 📊 Quick Reference Matrix
+
+| Notation Syntax | Grammar Class | What is Rolled / Evaluated | Canonical Examples | Primary Use Cases |
+| :--- | :--- | :--- | :--- | :--- |
+| **`[Atr]`** | **Ability Roll** | `2H20 + d[Atr]` (Skilled) or `1d20 + d[Atr]` (Unskilled) | `Atk ✨`, `Atk 💪+2`, `Awareness 👁️` | Attack hit rolls, skill checks, general attribute tests. |
+| **`[Atr]^[Target/Dif]`** | **Opposed / Caret Roll** | Player rolls Ability Check vs. static target score or `Dif` | `💪^💪`, `✨^🫀`, `👁️^👁️`, `🏃^Dif`, `🫀^20` | Offensive spell effects, status afflictions, grappling, saves. |
+| **`d[Atr]`** | **Flat Attribute Die** | 1 flat die of current attribute size (d4, d6, d8, d10, d12) | `Dmg d💪`, `AR d✨`, `restore d✨ Vit`, `jump d🏃` | Damage rolls, armor absorption, vitality healing, jumps. |
+| **`[A]d[Atr][±#]`** | **Multiple Attribute Dice** | `A` flat dice of attribute size plus/minus static bonus | `2d🏃`, `2d✨`, `d💪+2`, `2d👁️+1` | Multi-die jump bonuses, empowered damage, scaled abilities. |
+| **`Val([Atr])`** | **Exact Static Score** | Static numerical rating of the attribute (4, 6, 8, 10, 12) | `Vit Val(✨)`, `within Val(✨) sq`, `grows Val(✨) in` | Static vitality capacity, growth limits, teleport ranges, flat bonuses. |
+
+#### 💥 Universal Explosion Rule for Attribute Rolls
+* **Attribute Die Only Explodes:** In any Ability Roll (`2H20 + Atr Die` or `1d20 + Atr Die`), **ONLY the Attribute die explodes** on its maximum face (e.g. rolling 6 on a d6). The d20 **NEVER** explodes (a 20 on a d20 is a Tremendous roll, not an exploding die).
+* **Universal Explosion Directive:** **ALL Attribute-based rolls (whether an Ability roll or a flat attribute die roll) explode on maximum face unless specifically stated otherwise.** Thus, all Damage (`Dmg d[Atr]`), Armor reduction (`AR d[Atr]`), Healing (`restore d[Atr] Vit`), and Jumps (`jump d[Atr]`) explode!
+
+---
+
+#### 1. 🎲 Ability Check: Bare Attribute Icon (`[Atr]`) (Triad Format)
 * **Rule (The What):**
-  Whenever an ability, power, spell, or game mechanic requires referencing the **exact numerical attribute score or flat value** (rather than rolling an attribute die `d[Atr]` or making an ability check `[Atr]^...`), it MUST be written as **`Val([Atr Icon])`** (e.g. **`Val(✨)`**, **`Val(🏃)`**, **`Val(💪)`**, **`Val(👁️)`**, **`Val(🫀)`**), or modified expressions such as **`Val(✨-1)`** or **`Val(✨+3)`**. Legacy notations such as `=(✨)` or `_✨` are strictly prohibited.
+  An attribute icon standing alone or with an additive modifier (e.g. `✨`, `💪`, `🏃+2`, `Atk 👁️`) represents an active **Ability Roll**.
+  * If the character is **Skilled**: roll `2H20 + Atr Die + Bonus` vs. Monster Def or Difficulty (where `2H20` means roll two d20s and take the higher result).
+  * If the character is **Unskilled**: roll `1d20 + Atr Die + Bonus` vs. Monster Def or Difficulty.
+  * In comparison rolls, ONLY the Attribute die explodes indefinitely on its maximum face (the d20 never explodes).
+* **Rationale (The Why):**
+  The bare icon signifies the core resolution engine of SupaFlex, where an action or skill test combines d20 training with the character's innate attribute die.
+* **Failure Mechanism (The What Breaks):**
+  Treating bare icons as flat dice rolls invalidates character skill training (`2H20`) and breaks the mathematical foundation of combat resolution.
+
+#### 2. ⚔️ Opposed & Difficulty Checks: Caret Notation (`[Atr]^[Target / Dif]`) (Triad Format)
+* **Rule (The What):**
+  When an ability roll is directed against an opponent, environmental obstacle, or fixed difficulty, it MUST use Caret syntax: **`[Player Roll]^[Static Target / Opponent Score / Dif]`** (e.g. `💪^💪`, `✨^🫀`, `👁️^👁️`, `🏃^Dif`, `🫀^20`, `✨^🚩`).
+  * Under the **Player-Only Rolling Doctrine**, opponents and monsters NEVER roll saving throws. Hostile attacks and status afflictions always roll the player's active attribute check against the opponent's static attribute score.
+  * The word *"vs"* is strictly prohibited in mechanical check formulas.
+* **Rationale (The Why):**
+  Guarantees that only players roll dice, keeping combat fast, cinematic, and GM-light. The caret (`^`) provides an unambiguous operator representing *"versus"* in both tabletop play and automated VTT sheet parsers.
+* **Failure Mechanism (The What Breaks):**
+  Writing legacy "target saves" forces the GM to roll dice, slows turn pacing, and violates the fundamental design tenets of SupaFlex.
+
+#### 3. 💥 Flat Attribute Dice: `d[Atr]` & `[A]d[Atr][±#]` Notation (Triad Format)
+* **Rule (The What):**
+  Whenever a game mechanic rolls the character's attribute die for **Damage (`Dmg`), Armor reduction (`AR`), Vitality Healing (`restore/heals ... Vit`), Wounds, or Jump distances**, it MUST prepend a lowercase **`d`**: **`d[Atr Icon]`** (e.g. **`d💪`**, **`d✨`**, **`d👁️`**, **`d🏃`**, **`d🫀`**).
+  * If multiple dice are rolled, an integer prefix `A` precedes the `d`: **`[A]d[Atr Icon]`** (e.g. **`2d🏃`**, **`2d✨`**).
+  * **The Invariant Rule of `A` and `d`:** Where `A` is an integer count of attribute dice: **IF there is an `A`, there WILL be a `d`, but there can be a `d` without an `A`, and there can be neither `A` nor `d`.**
+  * **Universal Explosion:** Flat attribute dice explode on their maximum face unless specifically noted otherwise.
+  * Slashed shorthand notations like `Atk/Dmg [Atr]` or `Def/AR [Atr]` are strictly prohibited. Always write: **`Atk [Atr] Dmg d[Atr]`** and **`Def [Atr] AR d[Atr]`**.
+* **Rationale (The Why):**
+  Tabletop players and digital parsers need an immediate, foolproof visual distinction between rolling a d20 ability check (no `d`) and rolling the attribute die itself (with `d`).
+* **Failure Mechanism (The What Breaks):**
+  Omitting `d` leads players and digital tools to mistakenly add static integers rather than rolling dice for damage, healing, or jumping.
+
+#### 4. 🎯 Exact Attribute Value Standard: `Val([Atr])` Notation (Triad Format)
+* **Rule (The What):**
+  Whenever a game mechanic, power, trait, or hazard requires referencing the **exact numerical attribute score or flat integer rating** (rather than rolling an attribute die `d[Atr]` or making an ability check `[Atr]^...`), it MUST be written as **`Val([Atr Icon])`** (e.g. **`Val(✨)`**, **`Val(🏃)`**, **`Val(💪)`**, **`Val(👁️)`**, **`Val(🫀)`**), or modified expressions such as **`Val(✨-1)`** or **`Val(✨+3)`**. Legacy notations like `=(✨)` or `_✨` are strictly prohibited.
 * **Rationale (The Why):**
   Disambiguates between rolling an ability check (`✨`), rolling an attribute die (`d✨`), and referencing the character's static numeric rating (`Val(✨)`).
 * **Failure Mechanism (The What Breaks):**
