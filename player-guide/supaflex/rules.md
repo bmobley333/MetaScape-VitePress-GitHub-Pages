@@ -682,6 +682,15 @@ All Attributes are equally important. Mgt💪 is not inherently better than Mnd�
 
 All abilities and items show their governing Atr: Might💪, Motion🏃, Mind👁️, Magic✨, or Moxie🫀 that they provide a buff to or use as an ability roll.
 
+### 🎯 Exact Attribute Values: Val([Atr]) Notation
+
+* **Rule (The What):**
+  Whenever an ability, power, spell, or game mechanic requires referencing the **exact numerical attribute score or flat value** (rather than rolling an attribute die `d[Atr]` or making an ability check `[Atr]^...`), it MUST be written as **`Val([Atr Icon])`** (e.g. **`Val(✨)`**, **`Val(🏃)`**, **`Val(💪)`**, **`Val(👁️)`**, **`Val(🫀)`**), or modified expressions such as **`Val(✨-1)`** or **`Val(✨+3)`**. Legacy notations such as `=(✨)` or `_✨` are strictly prohibited.
+* **Rationale (The Why):**
+  Disambiguates between rolling an ability check (`✨`), rolling an attribute die (`d✨`), and referencing the character's static numeric rating (`Val(✨)`).
+* **Failure Mechanism (The What Breaks):**
+  Using archaic `=(✨)` or `_✨` confuses automated digital character sheet parsers and players, who mistake the equal sign for conditional trigger syntax (`Wnds = ...`) or dice roll formulas.
+
 <!-- @rule:focus.basics anchor="#focus-die" -->
 ## 🔮 Focus Die
 
@@ -1697,6 +1706,7 @@ Every combat round, each character receives an action allocation of **1 Attack (
 * **Standard Attack & Move Sequence:** If you do not make an Attack (A), you may freely pause and resume your Move (M) (move $\rightarrow$ pause $\rightarrow$ move). However, taking an Attack (A) action immediately concludes your turn's movement; any unused Movement Rate (MR) is forfeit.
 * **Mobile Striker Clause:** Specialized Move (M) or Partial (P) powers or items can explicitly grant split-movement ("You may split your movement before and after this attack"), providing tactical identity for mobility builds.
 * **Skill Action Cost:** Skills🎓 default to a Partial (P) action unless an ability or GM specifies Free (F). GM-initiated awareness or perception checks are always Free (F).
+* **Jumping Actions:** Standing Jump is **d🏃** squares as a Move (**M**) action. Running Jump is running up to **MR 👣** on the ground plus a **d🏃** jump as an Attack & Move (**AM**) action.
 
 Examples of Partial (P) Actions:
 
@@ -2069,6 +2079,16 @@ Often you will need to determine a random direction such as when someone is disa
 Simple version - when a character falls, the GM assigns an amount of Dmg (e.g. 10) and the player rolls AR🧥 vs that Dmg. There is no Def as you cannot block or dodge the ground - it will Hit you!
 
 I roughly base the Dmg on feet fallen and landing surface (bolder field vs spikes vs sand vs water, etc.). I also reduce the Dmg if the jump was intentional or if the character hung down from a ledge and then dropped the rest of the distance, etc. Finally, realize that setting falling Dmg at 20 is much worse than setting it at 10 as no normal AR🧥 can absorb up all of Dmg 20, but larger armor can absorb most or all of Dmg 10 on a good roll. So Dmg is NOT linear from a character’s point of view.
+
+### 🏃 Jumps & Leaping Mechanics
+
+* **Rule (The What):**
+  1. **Standing Jump (Move Action `M`):** A character may jump a distance of **`d🏃`** squares (or increments of 5 ft) as a standard **Move (`M`)** action.
+  2. **Running Jump (Attack & Move Action `AM`):** A running jump allows the character to run up to their full Movement Rate (**`MR 👣`**) on the ground and then leap an additional **`d🏃`** squares in the air, resolved as a full **Attack & Move (`AM`)** action.
+* **Rationale (The Why):**
+  Jumping utilizes the active, explosive propulsion of the Motion attribute die (`d🏃`). A running jump requires building momentum and physical commitment across the turn, properly consuming an AM action channel, while a standing leap fits cleanly within standard Move (M) economy.
+* **Failure Mechanism (The What Breaks):**
+  Without explicit action channels and die notation for jumping, players treat jump distances as static integers rather than rolled dice, argue over whether running leaps permit standard attacks in the same round, or attempt to move full distance and leap without action expenditure.
 
 ## Avoid Auto-Hazards
 

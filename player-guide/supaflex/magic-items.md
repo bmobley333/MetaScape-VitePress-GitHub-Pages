@@ -162,7 +162,7 @@ Index of purchasable Gear Powers (🧿) and treasure Artifacts (🔮) derived fr
 | 1-Enc | A | **Marbles of Mischief** | Marbles of Mischief | Scatter marbles in 3x3sq; AoE MR👣-2; bag auto refills. |
 | 1-Rnd | F | **Mask of Eternity** | Mask of Eternity | Ignore aging; narrative effect only. |
 | 1-Enc | P | **Mask of Whispers** | Mask of Whispers | 👁️+2 for 1 Rnd. |
-| 1-⚡ | P | **Mech Core** | Mech Core | Deploy 10' Mech; MR(8), Blaster Rifle Atk 👁️Dmg d👁️+1, Power claw Atk ✨-1 Dmg d✨+2, Dod ✨-1 AR d✨+1 Vit =(✨+1). |
+| 1-⚡ | P | **Mech Core** | Mech Core | Deploy 10' Mech; MR(8), Blaster Rifle Atk 👁️ Dmg d👁️+1, Power claw Atk ✨-1 Dmg d✨+2, Dod ✨-1 AR d✨+1 Vit Val(✨+1). |
 | 1-Enc | P | **Medallion of Calm** | Medallion of Calm | Remove Weakened. |
 | 2-Enc | P | **Amnestic Memory Wipe (mso)** | Mind Wipe (mso) | Rng Touch; 👁️^👁️ or target suffers amnesia. |
 | 1-⚡ | P | **Mindstone Charm** | Mindstone Charm | Gain Advantage on 1 👁️ roll this Rnd. |
@@ -298,7 +298,7 @@ Index of purchasable Gear Powers (🧿) and treasure Artifacts (🔮) derived fr
 | 1-Enc | A | **Whisper [Weapon] Cloak** | Whisper [Weapon] | On Atk: cloak whispers enemy locations (👁️+5^hidden to pinpoint invisible foes). |
 | 3-Enc | P | **Willstone** | Willstone | When held: Domination(👁️)^🫀; Perm Men(*2) while on person. |
 | 1-Enc | A | **Wind Flute** | Wind Flute | Play note; next Nish🚩 roll with Advantage. |
-| 1-⚡ | F | **Wooden Charm** | Wooden Charm | Break charm: ✨+5^magic for Encounter. |
+| 1-⚡ | F | **Wooden Charm** | Wooden Charm | Break charm: ✨+5^✨ for Encounter. |
 | 2-Enc | P | **X-Ray Structural Scan (mso)** | X-Ray Eye (mso) | Rng Short; penetrating vision; 👁️+3^hidden. |
 | 1-Enc | M | **Zephyr Feather** | Zephyr Feather | MR👣+2 this rnd. |
 | 1-Enc | P | **Zinc Dust** | Zinc Dust | Sprinkle; totally instantly corrodes 1 normal metal object. |

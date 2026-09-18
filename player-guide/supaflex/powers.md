@@ -149,7 +149,7 @@ Select one of the many sub-sets of powers such as Class👤, Race🧬, Combat St
 
 | Usage | Action | Name | Effect |
 | --- | --- | --- | --- |
-| 1-⚡ | AM | **Carnivorous Plants** | 6' tall, MR(4), Atk ✨ Dmg d✨, Dod ✨-1 AR d✨-1 Vit=(✨). If hit -> Held(💪)^💪 Affliction. |
+| 1-⚡ | AM | **Carnivorous Plants** | 6' tall, MR(4), Atk ✨ Dmg d✨, Dod ✨-1 AR d✨-1 Vit Val(✨). If hit -> Held(💪)^💪 Affliction. |
 | 2-Enc | A | **Entangling Shot** | If Atk 👁️+1 hits -> no Dmg but all in short to Rng Medium (or 1 target) encased in self-repairing vine cage at Cage Str(💪)^💪. |
 | 2-Enc | A | **Healing Grove** | 3×3 sq grove; Allies in grove regenerate 2d4 1st Deg wounds per round. |
 | 2-Enc | A | **Healing Touch** | Heal 1st Deg(✨-1), Heal 2nd Deg(✨-1), Heal 3rd Deg(✨-2), or Cure(✨+2) Poison or Disease. |
@@ -161,8 +161,8 @@ Select one of the many sub-sets of powers such as Class👤, Race🧬, Combat St
 | 2-Enc | M | **Rooted Armor** | Willing target: MR(1), Dod(/3), but gain AR+25 and absorbs first 10 Wnds of each hit. |
 | 2-Enc | A | **Spore Cloud** | tight radius. ✨^👁️ or cannot see in/through; if inside and blind: 👁️^👁️ or all actions random direction. |
 | 1-Enc | M | **Thorn Shield** | AR(✨+13) armor. |
-| 2-Enc | A | **Thorn Spitter** | Max 1 plant, MR(0), Atk ✨ Dmg d✨ spit thorn at a target; Dod ✨-1 AR d✨*.7 Vit=(✨-1). |
-| 2-Enc | A | **Thorn Wall** | 4 sq, up to 8 ft high. Per 1×1 sq: Atk ✨ Dmg d✨, Vit =(✨) , Dod ✨-2 AR d✨, Tough(💪+2)^💪 to break through. |
+| 2-Enc | A | **Thorn Spitter** | Max 1 plant, MR(0), Atk ✨ Dmg d✨ spit thorn at a target; Dod ✨-1 AR d✨*.7 Vit Val(✨-1). |
+| 2-Enc | A | **Thorn Wall** | 4 sq, up to 8 ft high. Per 1×1 sq: Atk ✨ Dmg d✨, Vit Val(✨), Dod ✨-2 AR d✨, Tough(💪+2)^💪 to break through. |
 | 2-Enc | M | **Verdant Parry** | Melee Blk ✨: on failure, you may still attempt a standard Dodge (Def 🏃). |
 | 1-⚡ | M | **Verdant Strider** | Vines carry at MR; climb/swim/lift/suspend at MR(*.5) via Acrobatics(🏃) or Athletics(💪). |
 | 1-⚡ | A | **Vine Snare** | Rng Short; ✨^🫀 or target is ensnared (MR reduced to 4; Atks targeting them gain Advantage). |
@@ -205,13 +205,13 @@ Select one of the many sub-sets of powers such as Class👤, Race🧬, Combat St
 | 2-Enc | AM | **Pitfall** | 1×short distance pit, Rng Medium deep. Stealth(✨) hidden; Trap(✨)^👁️ or fall in; escape Climb(🏃)^🏃. |
 | 2-Enc | A | **Portal Ward** | Glyph is max 1sq wide; without password triggers 1r Atk ✨+2 Dmg d✨+2 explosion. Glyph is hidden Stealth(✨)^👁️. |
 | 2-Enc | M | **Putty Portal** | Tunnel Earth(✨) feet of earth, Tunnel Stone(✨) inches of stone, Tunnel Metal(✨-2) inches of metal. |
-| 1-⚡ | A | **Rockslide** | 2 adjacent sq debris =(✨-2) ft height; Atk ✨ Dmg d✨ and if hit -> affliction Stuck ✨^💪. |
+| 1-⚡ | A | **Rockslide** | 2 adjacent sq debris Val(✨-2) ft height; Atk ✨ Dmg d✨ and if hit -> affliction Stuck ✨^💪. |
 | 1-⚡ | A | **Sand Dune** | 3×3 sq; each sq costs 2 MR and Slip & Fall(✨)^🏃 to ANY who try to cross. Caster immune. |
 | 1-⚡ | A | **Sinkhole** | Rng Short; 1sq; ✨^🏃 on cast and start of each Nish: on failure, target is submerged and Atks targeting them gain Advantage. |
 | 1-⚡ | A | **Stone Fist** | 8' fist, MR(0), Rng 2: Atk ✨ Dmg d✨+2, Dod ✨-1 AR d✨ Vit(✨+1). Smash or GTH held & crush ½ Wnds or Athletics(💪)^💪 throw. |
 | 2-Enc | A | **Stone Skin** | All Wnds halved. |
 | 1-Rnd | P | **Stoneform Skin** | AR+1 for Encounter. |
-| 1-Enc | AM | **Summon Golem** | MR(6). Atk ✨ Dmg d✨ Dod ✨ AR d✨; Vit =(✨), punches only. Instruct in (LoS). |
+| 1-Enc | AM | **Summon Golem** | MR(6). Atk ✨ Dmg d✨ Dod ✨ AR d✨; Vit Val(✨), punches only. Instruct in (LoS). |
 
 ### 👤 **Mage - Magnetic Powers** (20 Abilities)
 
@@ -247,14 +247,14 @@ Select one of the many sub-sets of powers such as Class👤, Race🧬, Combat St
 | 3-Enc | A | **Choke** | Block windpipe (no effect on non-breathers): Choke(✨)^🫀; victim MR1, limited defense, +1c to hit. Save each rnd to break. Max targets per Ver. |
 | 2-Enc | A | **Dark Surge** | Caster and 1 ally gain Advantage to Atk/Dmg OR Dod/AR. |
 | 1-⚡ | A | **Death Ray** | Ray of Sorce energy: Resist(✨+2)^🫀 or living target dies (crumbles). Living only. |
-| 2-Enc | P | **Displace** | Vanish and reappear: distance =(✨) sq; no intervening movement. If held: Displace(✨)^Dif then roll distance. |
-| 1-Enc | P | **Displace Group** | Willing targets (including caster) vanish and reappear at chosen square within =(✨) sq. Group arrives adjacent; facing unchanged. |
+| 2-Enc | P | **Displace** | Vanish and reappear: distance Val(✨) sq; no intervening movement. If held: Displace(✨)^Dif then roll distance. |
+| 1-Enc | P | **Displace Group** | Willing targets (including caster) vanish and reappear at chosen square within Val(✨) sq. Group arrives adjacent; facing unchanged. |
 | 1-Rnd | P | **Dissolution** | Store/Retrived a held non-living item in Wraith space. |
 | 2-Enc | P | **Door Hand** | Open or close any portal: Door Hand(✨)^Dif. |
 | 1-Rnd | F | **Echoing Whispers** | Rng Long; telepathic whisper in target's ear; bypasses all barriers. |
 | 1-⚡ | A | **Eclipse** | Tight radius total darkness (no visible light, no starlight) to others; Caster sees normally; All of caster's Dark/Void powers gain +15 while inside Eclipse. |
 | 3-Enc | A | **Energy Bolt** | Bolt from hand: Atk ✨ Dmg d✨; if hit -> greater Wnds of as rolled or 5; Bypasses magic/energy fields. |
-| 1-Enc | P | **Ghost Walk** | Become insubstantial; walk through walls. Tether =(✨) sq from cast square. MR each rnd in ghost dimension. Only affected by others in same dimension. |
+| 1-Enc | P | **Ghost Walk** | Become insubstantial; walk through walls. Tether Val(✨) sq from cast square. MR each rnd in ghost dimension. Only affected by others in same dimension. |
 | 2-Enc | P | **Glow Globe** | Soft light in radius. Center attached to target (Glow(✨)^🫀 if unwilling) or moves at MR; center may not leave LOS. |
 | 1-Enc | F | **Hide in Shadows** | MR(3). Take 20 Wnds immediately and each round (on Nish) if not in shadows or when crossing between shadows. |
 | 1-⚡ | P | **Immortal Stance** | Bond to surface: gain ✨+10^forced movement, AR+2, and Resist✨^explosions, heat, and cold for Encounter. |
@@ -372,7 +372,7 @@ Select one of the many sub-sets of powers such as Class👤, Race🧬, Combat St
 | 2-Enc | A | **Blow** | Kinetic fist Atk ✨ Dmg d✨; on hit target may be knocked back Shove(✨)^💪. |
 | 1-Enc | A | **Comprehend Languages** | Understand written and spoken words; no roll. |
 | 2-Enc | A | **Encase** | Restrain one target: Encase(✨)^💪 to hit; immobilized. Each rnd Break Free(💪)^✨ or remain encased; caster may move target at MR. |
-| 2-Enc | P | **Force Shield** | Barrier of mental energy: +=(✨-1) to AR+ (or similar bonus per Ver). |
+| 2-Enc | P | **Force Shield** | Barrier of mental energy: +Val(✨-1) to AR+ (or similar bonus per Ver). |
 | 2-Enc | A | **Hallucination** | All minds in range see false images: Hallucination(✨)^Dif (WP+Adj). Persists while concentrating; targets may 👁️+^Dif each rnd to break. |
 | 2-Enc | A | **Haze** | Psychic fog in victim's mind: Haze(✨)^🫀. Victim penalty on mind-affecting rolls until save. |
 | 2-Enc | A | **Hurl** | Throw hurled weapon with mind: Atk ✨ Dmg d✨ at range; weapon and target in range. |
@@ -389,7 +389,7 @@ Select one of the many sub-sets of powers such as Class👤, Race🧬, Combat St
 | 1-Enc | A | **Rend** | Telekinetic rip: Rend(✨)^🫀; no AR Wnds(✨-1). No effect through energy fields. |
 | 2-Enc | P | **Return** | Items with psychic residue (handled 10+ min or carried 1+ hr) return to hand/person. Held: ✨^💪 to break free. |
 | 2-Enc | A | **Shove** | Shove target with mind: Shove(✨)^💪; on success target slides max distance. Hit solid object: 1 Wnd per sq, AR(🫀). |
-| 2-Enc | P | **Telepathy** | Send thoughts to one individual; range in squares = =(✨). Unwilling: Telepathy(✨)^🫀. |
+| 2-Enc | P | **Telepathy** | Send thoughts to one individual; range in squares = Val(✨). Unwilling: Telepathy(✨)^🫀. |
 
 ### 👤 **Psionics - Sentinel Powers** (20 Abilities)
 
@@ -491,14 +491,14 @@ Select one of the many sub-sets of powers such as Class👤, Race🧬, Combat St
 | 1-⚡ | M | **Combat Prowess** | Target's Atk, Dmg, Dod gain +10. |
 | 1-Enc | A | **Encapsulation Beetle** | Beetle runs at MR(8) to encapsulate: Atk ✨ if hit → Hibernation(✨)^🫀 or target in deep hibernation (no bleeding, no death checks, no Defense). |
 | 1-Enc | A | **Entangling Burst** | Rng Short; Tight radius AoE; all targets Atk ✨; Wnds = Entangled ✨^💪. |
-| 1-⚡ | A | **Growth Hormone** | Target grows =(✨) inches; melee, Might, AR all at Adv. |
+| 1-⚡ | A | **Growth Hormone** | Target grows Val(✨) inches; melee, 💪, AR all at Adv. |
 | 1-Enc | M | **Hive Link Swarm** | Swarm 10r; unsealed allies in AoE share all active thoughts and vision. |
-| 1-Enc | M | **Increased Stamina** | Target's: Moxie Atr and Skills gain *1.5; Abosbs 5 Wnds per hit. |
+| 1-Enc | M | **Increased Stamina** | Target's: 🫀 Skills gain *1.5; Absorbs 5 Wnds per hit. |
 | 1-⚡ | A | **Mantis Targeter** | Flies MR(3); shot weapons only: shot weapon gains Atk 👁️+1 Dmg d👁️. |
 | 2-Enc | M | **Rapid Reflexes** | Target's 🏃, all 🏃 skills, and Dodge gain Adv. |
 | 1-Enc | F | **Scorpion's Sting** | Poison d6 Wnds per round. |
-| 1-Enc | A | **Spider Armor** | Runs to target MR(8); +=(✨-1) to AR. |
-| 2-Enc | A | **Symbiotic Boost** | Symbiote on target: e.g. joints = Might(*2); eyes = Awareness; frame = Fortitude; skull = Mind . |
+| 1-Enc | A | **Spider Armor** | Runs to target MR(8); +Val(✨-1) to AR. |
+| 2-Enc | A | **Symbiotic Boost** | Symbiote on target: e.g. joints = 💪(*2); eyes = Awareness; frame = Fortitude; skull = 👁️. |
 | 1-Enc | M | **Tactical Insight** | Target gains Act(+1) for 1–2 rnds. |
 
 ### 👤 **Warlock (mso) Powers** (1 Abilities)
@@ -541,7 +541,7 @@ Select one of the many sub-sets of powers such as Class👤, Race🧬, Combat St
 | 2-Enc | M | **Aether Leap** | Leap(d🏃+2); Leave a psionic afterimage Believe Image(👁️)^👁️. |
 | 2-Enc | AM | **Aether Step** | Shuriken Atk 🏃 Dmg d🏃; Double normal range; Teleport to target. |
 | 1-⚡ | A | **Blade Barrier** | Tight radius AoE Atk ✨ Dmg d✨ on PC's Nish. |
-| 1-⚡ | F | **Enhanced Reflexes** | Caster gains Motion & Skills(🏃+2) ; MR(+3). |
+| 1-⚡ | F | **Enhanced Reflexes** | Caster gains 🏃+2; MR(+3). |
 | 2-Enc | F | **Parry Mastery** | Using melee weapon, can Blk/AR(💪+2.5)/(+). |
 | 2-Enc | F | **Phantom Cloak** | Stealth(🏃+2); Unknown melee blade is Atk 💪+3 Dmg d💪+3. |
 | 2-Enc | A | **Phasing Thrust** | If Atk 💪 hits, skip AR; causes Wnds(💪-1) - no AR. |
@@ -558,7 +558,7 @@ Select one of the many sub-sets of powers such as Class👤, Race🧬, Combat St
 | 2-Enc | F | **Alpha Link** | Max 3 allies; pack can mentally talk and allies may choose to use Alpha's Nish instead of their own. |
 | 1-⚡ | A | **Blood Frenzy** | MR(+2), 2 melee Atks per Rnd, Atk 💪-1 Dmg d💪+1; To Break Frenzy(👁️)^(50-5 per round) or continue Frenzy. |
 | 1-⚡ | A | **Devastating Strike** | Rage Axe Atk 💪 Dmg d💪+4. |
-| 1-⚡ | AM | **Feral Rally** | Allies in AoE: +=(👁️-1) to melee Atk/Dmg; Foes in AoE: Intimidation(💪)^👁️ or demoralized (flee or ½ Atk and ½ Dmg) as affliction. |
+| 1-⚡ | AM | **Feral Rally** | Allies in AoE: +Val(👁️-1) to melee Atk/Dmg; Foes in AoE: Intimidation(💪)^👁️ or demoralized (flee or ½ Atk and ½ Dmg) as affliction. |
 | 1-⚡ | A | **Fury Blast** | Tight radius AoE: all Knockback(✨)^💪 (feet = success); if 10+ ft → prone & Wnds = ft/10. |
 | 1-Enc | M | **Gaze of Terror** | 1 target: Intimidation(💪)^👁️ or frozen with terror (auto-hit, but additional Save if wounded). |
 | 1-Rnd | P | **Lupine Agility** | Substitute for Parkour, Acrobatics, Jump, Climb, or Balance; Agility(🏃+2). |
@@ -601,7 +601,7 @@ Select one of the many sub-sets of powers such as Class👤, Race🧬, Combat St
 | 1-⚡ | P | **Blazing Trail** | narrow, waist-high flame trail (max short length) dealing flame Atk ✨ Dmg d✨. |
 | 1-⚡ | A | **Comet** | Atk ✨ Dmg d✨; up to 1 adjacent target takes splash = ½ Wounds. |
 | 1-Enc | A | **Cyber Helm** | Sealed with air supply; 👁️+2; Nish+10. |
-| 1-⚡ | P | **Cyber Servos** | Def 🏃+1+ AR d🏃+1+, Motion & Skills(🏃+1), MR(+3). |
+| 1-⚡ | P | **Cyber Servos** | Def 🏃+1+ AR d🏃+1+, 🏃+1, MR(+3). |
 | 1-⚡ | F | **Cyber Vision** | Vision(👁️+2.5); A Shot Atk 👁️+2 Dmg d👁️; Shot Rng increased. |
 | 1-Enc | F | **Cybernetic Strength** | Strength(💪+2) or Melee Atk 💪 Dmg d💪+2. |
 | 2-Enc | M | **Flame Cloak** | Enemies attacking with Brawl: Burn(✨)^🫀 or suffer Dmg d✨. |
@@ -626,7 +626,7 @@ Select one of the many sub-sets of powers such as Class👤, Race🧬, Combat St
 | 1-Enc | M | **Dark Form** | Dire Wolf form; 👣 12; jump d🏃+2; bite Atk 💪 Dmg d💪. |
 | 1-⚡ | F | **Diamond Skin** | AR(💪+5); MR(½); Immune to fire/heat/plasma. |
 | 1-⚡ | F | **Eclipse Veil** | 4×4 AoE. Within veil: caster's Stealth has Advantage; if caster wounds target, Intimidation(👁️)^👁️ or succumb to fear. |
-| 1-⚡ | M | **Elemental Str Surge** | Superhuman Might: Might & Skills(💪+3); Melee Atk 💪 Dmg d💪+2. |
+| 1-⚡ | M | **Elemental Str Surge** | Superhuman Strength: 💪+3; Melee Atk 💪 Dmg d💪+2. |
 | 1-Enc | F | **Fill The Red Pool** | Spend 1st Deg Wounds to fill the Red Pool (1:2 ratio). Pool may add to melee Atk Result (turn miss to a hit) or increase melee Wnds. |
 | 2-Enc | AM | **Mesmerise** | Persuasion(✨)^👁️; or order "Reveal Secrets" (one question, one sentence). Target must see and hear caster. |
 | 1-⚡ | M | **Necro Skin** | If caster is attacked with body weapon (touched): Necrosis(✨)^✨ → 1d4 Wnds/rnd, cummulative, so if a 2nd Atk and Necrosis(✨)^✨then 2d4, etc. |
@@ -858,7 +858,7 @@ Select one of the many sub-sets of powers such as Class👤, Race🧬, Combat St
 
 | Usage | Action | Name | Effect |
 | --- | --- | --- | --- |
-| 1-Enc | F | **Bond of the Glade** | 👁️Sense nearby illusions, glamours, or nature magic. |
+| 1-Enc | F | **Bond of the Glade** | 👁️ Sense nearby illusions, glamours, or nature magic. |
 | 1-Enc | AM | **Dance of Light & Shadow** | Move double MR; 👁️^👁️ or nearby foes are Weakened. |
 | 1-⚡ | P | **Fey Resilience** | Adv(Resist✨)^charm/fear for Encounter. |
 | 1-⚡ | F | **Feytongue** | 👁️ speak any language for encounter. |
@@ -914,7 +914,7 @@ Select one of the many sub-sets of powers such as Class👤, Race🧬, Combat St
 | Combat | 1-🍀 | F | **Fortunate Timing** | take turn immediately even if before your Nish🚩. |
 | Combat | 1-Enc | F | **Guard Swap** | Swap weapon or stance; no P cost. |
 | Combat | 1-Rnd | M | **Guarded Step** | Move up to 3sq; attempt Block with weapon to aid ally. |
-| Combat | 1-Rnd | P | **Hearing Boost** | Enhance hearing: Awareness (hearing) at bonus =(👁️-1) or similar. Cannot stack with Super Hearing. |
+| Combat | 1-Rnd | P | **Hearing Boost** | Enhance hearing: Awareness (hearing) at bonus Val(👁️-1) or similar. Cannot stack with Super Hearing. |
 | Combat | 1-Enc | P | **Hurl King** | Draw and throw 1 hurled weapon as second Atk/Dmg. |
 | Combat | 1-🍀 | P | **Inspire Ally** | Ally’s next roll has Advantage. |
 | Combat | 1-Enc | P | **Iron Bulwark** | Allies directly behind you gain Dod+2 for 1 Rnd. |
@@ -966,10 +966,10 @@ Select one of the many sub-sets of powers such as Class👤, Race🧬, Combat St
 | Combat | 2-Enc | A | **Sweep Kick** | Atk all adjacent foes for normal Dmg; wounded targets fall Prone. |
 | Combat | 1-Enc | F | **Swift Ready** | Swap to new weapon; no P cost. |
 | Combat | 2-Enc | A | **Tiger Claw** | Make 2 unarmed Atk; if both hit, each is Dmg+1. |
-| Combat | 2-Enc | P | **Tough Skin** | Skin becomes leathery to rocky: +=(💪-1) AR+ or similar (per Ver). |
+| Combat | 2-Enc | P | **Tough Skin** | Skin becomes leathery to rocky: +Val(💪-1) AR+ or similar (per Ver). |
 | Combat | 1-Enc | A | **Twin Threat** | Make Atk with main-hand; if miss, immediately Atk with off-hand. |
 | Combat | 2-Enc | P | **Vision Boost** | Improve optic efficiency: telescopic sight; 👁️+ for vision improved. |
-| Combat | 1-⚡ | P | **Vitalize** | Temporary +=(🫀) Vit (temp pool); extra Vit may not be healed. |
+| Combat | 1-⚡ | P | **Vitalize** | Temporary +Val(🫀) Vit (temp pool); extra Vit may not be healed. |
 | Combat | 1-Enc | P | **Wall of Steel** | Blk+2 this Rnd; MR is 0 this Rnd. |
 | Combat | 1-Enc | AM | **Wall Run Kick** | Run along wall/obstacle up to MR👣; normal Atk & Dmg on landing. |
 | Combat | 2-Enc | P | **Weapon & Board** | If you hit with a weapon on your last turn: Atk+1 and Def+1 for 1 Rnd. |

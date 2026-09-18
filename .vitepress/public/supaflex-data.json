@@ -2751,7 +2751,7 @@
       "name": "Bond of the Glade",
       "usage": "1-Enc",
       "action": "F",
-      "effect": "👁️Sense nearby illusions, glamours, or nature magic.",
+      "effect": "👁️ Sense nearby illusions, glamours, or nature magic.",
       "created_at": "2026-08-13T21:26:29.251053+00:00",
       "genres": [
         "Medieval",
@@ -2947,7 +2947,7 @@
       "name": "Carnivorous Plants",
       "usage": "1-⚡",
       "action": "AM",
-      "effect": "6' tall, MR(4), Atk ✨ Dmg d✨, Dod ✨-1 AR d✨-1 Vit=(✨). If hit -> Held(💪)^💪 Affliction.",
+      "effect": "6' tall, MR(4), Atk ✨ Dmg d✨, Dod ✨-1 AR d✨-1 Vit Val(✨). If hit -> Held(💪)^💪 Affliction.",
       "created_at": "2026-08-13T21:26:29.343213+00:00",
       "genres": [
         "Medieval",
@@ -3761,7 +3761,7 @@
       "name": "Cyber Servos",
       "usage": "1-⚡",
       "action": "P",
-      "effect": "Def 🏃+1+ AR d🏃+1+, Motion & Skills(🏃+1), MR(+3).",
+      "effect": "Def 🏃+1+ AR d🏃+1+, 🏃+1, MR(+3).",
       "created_at": "2026-08-13T21:26:29.343213+00:00",
       "genres": [
         "SciFi"
@@ -4297,7 +4297,7 @@
       "name": "Displace",
       "usage": "2-Enc",
       "action": "P",
-      "effect": "Vanish and reappear: distance =(✨) sq; no intervening movement. If held: Displace(✨)^Dif then roll distance.",
+      "effect": "Vanish and reappear: distance Val(✨) sq; no intervening movement. If held: Displace(✨)^Dif then roll distance.",
       "created_at": "2026-08-13T21:26:29.343213+00:00",
       "genres": [
         "Medieval",
@@ -4331,7 +4331,7 @@
       "name": "Displace Group",
       "usage": "1-Enc",
       "action": "P",
-      "effect": "Willing targets (including caster) vanish and reappear at chosen square within =(✨) sq. Group arrives adjacent; facing unchanged.",
+      "effect": "Willing targets (including caster) vanish and reappear at chosen square within Val(✨) sq. Group arrives adjacent; facing unchanged.",
       "created_at": "2026-08-13T21:26:29.343213+00:00",
       "genres": [
         "Medieval",
@@ -4965,7 +4965,7 @@
       "name": "Elemental Str Surge",
       "usage": "1-⚡",
       "action": "M",
-      "effect": "Superhuman Might: Might & Skills(💪+3); Melee Atk 💪 Dmg d💪+2.",
+      "effect": "Superhuman Strength: 💪+3; Melee Atk 💪 Dmg d💪+2.",
       "created_at": "2026-08-13T21:26:29.436163+00:00",
       "genres": [
         "Medieval",
@@ -5118,7 +5118,7 @@
       "name": "Enhanced Reflexes",
       "usage": "1-⚡",
       "action": "F",
-      "effect": "Caster gains Motion & Skills(🏃+2) ; MR(+3).",
+      "effect": "Caster gains 🏃+2; MR(+3).",
       "created_at": "2026-08-13T21:26:29.436163+00:00",
       "genres": [
         "Medieval",
@@ -5420,7 +5420,7 @@
       "name": "Feral Rally",
       "usage": "1-⚡",
       "action": "AM",
-      "effect": "Allies in AoE: +=(👁️-1) to melee Atk/Dmg; Foes in AoE: Intimidation(💪)^👁️ or demoralized (flee or ½ Atk and ½ Dmg) as affliction.",
+      "effect": "Allies in AoE: +Val(👁️-1) to melee Atk/Dmg; Foes in AoE: Intimidation(💪)^👁️ or demoralized (flee or ½ Atk and ½ Dmg) as affliction.",
       "created_at": "2026-08-13T21:26:29.436163+00:00",
       "genres": [
         "Medieval",
@@ -5887,7 +5887,7 @@
       "name": "Force Shield",
       "usage": "2-Enc",
       "action": "P",
-      "effect": "Barrier of mental energy: +=(✨-1) to AR+ (or similar bonus per Ver).",
+      "effect": "Barrier of mental energy: +Val(✨-1) to AR+ (or similar bonus per Ver).",
       "created_at": "2026-08-13T21:26:29.436163+00:00",
       "genres": [
         "Medieval",
@@ -6139,7 +6139,7 @@
       "name": "Ghost Walk",
       "usage": "1-Enc",
       "action": "P",
-      "effect": "Become insubstantial; walk through walls. Tether =(✨) sq from cast square. MR each rnd in ghost dimension. Only affected by others in same dimension.",
+      "effect": "Become insubstantial; walk through walls. Tether Val(✨) sq from cast square. MR each rnd in ghost dimension. Only affected by others in same dimension.",
       "created_at": "2026-08-13T21:26:29.436163+00:00",
       "genres": [
         "Medieval",
@@ -6423,7 +6423,7 @@
       "name": "Growth Hormone",
       "usage": "1-⚡",
       "action": "A",
-      "effect": "Target grows =(✨) inches; melee, Might, AR all at Adv.",
+      "effect": "Target grows Val(✨) inches; melee, 💪, AR all at Adv.",
       "created_at": "2026-08-13T21:26:29.436163+00:00",
       "genres": [
         "Modern",
@@ -6738,7 +6738,7 @@
       "name": "Hearing Boost",
       "usage": "1-Rnd",
       "action": "P",
-      "effect": "Enhance hearing: Awareness (hearing) at bonus =(👁️-1) or similar. Cannot stack with Super Hearing.",
+      "effect": "Enhance hearing: Awareness (hearing) at bonus Val(👁️-1) or similar. Cannot stack with Super Hearing.",
       "created_at": "2026-08-13T21:26:29.524874+00:00",
       "genres": [
         "Medieval",
@@ -7261,7 +7261,7 @@
       "name": "Increased Stamina",
       "usage": "1-Enc",
       "action": "M",
-      "effect": "Target's: Moxie Atr and Skills gain *1.5; Abosbs 5 Wnds per hit.",
+      "effect": "Target's: 🫀 Skills gain *1.5; Absorbs 5 Wnds per hit.",
       "created_at": "2026-08-13T21:26:29.524874+00:00",
       "genres": [
         "Modern",
@@ -11635,7 +11635,7 @@
       "name": "Rockslide",
       "usage": "1-⚡",
       "action": "A",
-      "effect": "2 adjacent sq debris =(✨-2) ft height; Atk ✨ Dmg d✨ and if hit -> affliction Stuck ✨^💪.",
+      "effect": "2 adjacent sq debris Val(✨-2) ft height; Atk ✨ Dmg d✨ and if hit -> affliction Stuck ✨^💪.",
       "created_at": "2026-08-13T21:26:29.72558+00:00",
       "genres": [
         "Medieval",
@@ -13254,7 +13254,7 @@
       "name": "Spider Armor",
       "usage": "1-Enc",
       "action": "A",
-      "effect": "Runs to target MR(8); +=(✨-1) to AR.",
+      "effect": "Runs to target MR(8); +Val(✨-1) to AR.",
       "created_at": "2026-08-13T21:26:29.821451+00:00",
       "genres": [
         "Modern",
@@ -13923,7 +13923,7 @@
       "name": "Summon Golem",
       "usage": "1-Enc",
       "action": "AM",
-      "effect": "MR(6). Atk ✨ Dmg d✨ Dod ✨ AR d✨; Vit =(✨), punches only. Instruct in (LoS).",
+      "effect": "MR(6). Atk ✨ Dmg d✨ Dod ✨ AR d✨; Vit Val(✨), punches only. Instruct in (LoS).",
       "created_at": "2026-08-13T21:26:29.912709+00:00",
       "genres": [
         "Medieval",
@@ -14099,7 +14099,7 @@
       "name": "Symbiotic Boost",
       "usage": "2-Enc",
       "action": "A",
-      "effect": "Symbiote on target: e.g. joints = Might(*2); eyes = Awareness; frame = Fortitude; skull = Mind .",
+      "effect": "Symbiote on target: e.g. joints = 💪(*2); eyes = Awareness; frame = Fortitude; skull = 👁️.",
       "created_at": "2026-08-13T21:26:29.912709+00:00",
       "genres": [
         "Modern",
@@ -14341,7 +14341,7 @@
       "name": "Telepathy",
       "usage": "2-Enc",
       "action": "P",
-      "effect": "Send thoughts to one individual; range in squares = =(✨). Unwilling: Telepathy(✨)^🫀.",
+      "effect": "Send thoughts to one individual; range in squares = Val(✨). Unwilling: Telepathy(✨)^🫀.",
       "created_at": "2026-08-13T21:26:29.912709+00:00",
       "genres": [
         "Medieval",
@@ -14461,7 +14461,7 @@
       "name": "Thorn Spitter",
       "usage": "2-Enc",
       "action": "A",
-      "effect": "Max 1 plant, MR(0), Atk ✨ Dmg d✨ spit thorn at a target; Dod ✨-1 AR d✨*.7 Vit=(✨-1).",
+      "effect": "Max 1 plant, MR(0), Atk ✨ Dmg d✨ spit thorn at a target; Dod ✨-1 AR d✨*.7 Vit Val(✨-1).",
       "created_at": "2026-08-13T21:26:29.912709+00:00",
       "genres": [
         "Medieval",
@@ -14479,7 +14479,7 @@
       "name": "Thorn Wall",
       "usage": "2-Enc",
       "action": "A",
-      "effect": "4 sq, up to 8 ft high. Per 1×1 sq: Atk ✨ Dmg d✨, Vit =(✨) , Dod ✨-2 AR d✨, Tough(💪+2)^💪 to break through.",
+      "effect": "4 sq, up to 8 ft high. Per 1×1 sq: Atk ✨ Dmg d✨, Vit Val(✨), Dod ✨-2 AR d✨, Tough(💪+2)^💪 to break through.",
       "created_at": "2026-08-13T21:26:29.912709+00:00",
       "genres": [
         "Medieval",
@@ -14789,7 +14789,7 @@
       "name": "Tough Skin",
       "usage": "2-Enc",
       "action": "P",
-      "effect": "Skin becomes leathery to rocky: +=(💪-1) AR+ or similar (per Ver).",
+      "effect": "Skin becomes leathery to rocky: +Val(💪-1) AR+ or similar (per Ver).",
       "created_at": "2026-08-13T21:26:29.912709+00:00",
       "genres": [
         "Medieval",
@@ -15517,7 +15517,7 @@
       "name": "Vitalize",
       "usage": "1-⚡",
       "action": "P",
-      "effect": "Temporary +=(🫀) Vit (temp pool); extra Vit may not be healed.",
+      "effect": "Temporary +Val(🫀) Vit (temp pool); extra Vit may not be healed.",
       "created_at": "2026-08-13T21:26:29.990524+00:00",
       "genres": [
         "Medieval",
@@ -20286,7 +20286,7 @@
       "name": "Mech Core",
       "action": "P",
       "usage": "1-⚡",
-      "effect": "Deploy 10' Mech; MR(8), Blaster Rifle Atk 👁️Dmg d👁️+1, Power claw Atk ✨-1 Dmg d✨+2, Dod ✨-1 AR d✨+1 Vit =(✨+1).",
+      "effect": "Deploy 10' Mech; MR(8), Blaster Rifle Atk 👁️ Dmg d👁️+1, Power claw Atk ✨-1 Dmg d✨+2, Dod ✨-1 AR d✨+1 Vit Val(✨+1).",
       "belongs_to": "Supplies: Mech Core",
       "genres": [
         "SciFi"
@@ -23991,7 +23991,7 @@
       "name": "Wooden Charm",
       "action": "F",
       "usage": "1-⚡",
-      "effect": "Break charm: ✨+5^magic for Encounter.",
+      "effect": "Break charm: ✨+5^✨ for Encounter.",
       "belongs_to": "Supplies: Wooden Charm",
       "genres": [
         "Medieval",
