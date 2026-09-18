@@ -1757,9 +1757,26 @@ Every combat round, each character receives an action allocation of **1 Attack (
 
 #### Tactical Movement & The Mobile Striker Clause
 * **Standard Attack & Move Sequence:** If you do not make an Attack (A), you may freely pause and resume your Move (M) (move $\rightarrow$ pause $\rightarrow$ move). However, taking an Attack (A) action immediately concludes your turn's movement; any unused Movement Rate (MR) is forfeit.
+* **Running (Sprinting):** Running requires an Attack & Move (**AM**) action and grants full ground movement of **MR + d👣** squares (`👣+d👣` sq).
 * **Mobile Striker Clause:** Specialized Move (M) or Partial (P) powers or items can explicitly grant split-movement ("You may split your movement before and after this attack"), providing tactical identity for mobility builds.
 * **Skill Action Cost:** Skills🎓 default to a Partial (P) action unless an ability or GM specifies Free (F). GM-initiated awareness or perception checks are always Free (F).
 * **Jumping Actions:** Standing Jump is **d👣** squares as a Move (**M**) action. Running Jump is running up to **MR 👣** on the ground plus a **d👣** jump as an Attack & Move (**AM**) action (using Movement Rate die `d(MR) ≤ MR`).
+
+<!-- @popover:movement_rate.basics -->
+::: details ⚡ Quick Reference: Movement Rate (MR 👣) & Jumping Rules
+
+Tactical Movement:
+* Standard Move (M Action) — Move up to your full Movement Rate (MR 👣) in squares (1 sq = 5 ft).
+* Running / Sprinting (AM Action) — Running requires an Attack & Move (AM) action and grants full MR 👣 + d👣 squares (👣+d👣 sq).
+* Movement Flow — If taking no Attack (A), you may freely pause and resume your movement (move ➔ pause ➔ move). Taking an Attack (A) immediately concludes your turn's movement.
+
+Jumping Rules:
+* Standing Jump (M Action) — Jump a distance of d👣 squares (or 5 ft increments) as a Move (M) action, rolling your Movement Rate die (d(MR) ≤ MR, e.g. MR 6 rolls a d6).
+* Running Jump (AM Action) — Run up to full MR 👣 on the ground plus leap an additional d👣 squares in the air as an Attack & Move (AM) action.
+* Universal Explosion — Like all flat attribute and movement dice, d👣 explodes on its maximum face unless specifically noted otherwise.
+
+:::
+<!-- /popover:movement_rate.basics -->
 
 Examples of Partial (P) Actions:
 
@@ -2133,14 +2150,14 @@ Simple version - when a character falls, the GM assigns an amount of Dmg (e.g. 1
 
 I roughly base the Dmg on feet fallen and landing surface (bolder field vs spikes vs sand vs water, etc.). I also reduce the Dmg if the jump was intentional or if the character hung down from a ledge and then dropped the rest of the distance, etc. Finally, realize that setting falling Dmg at 20 is much worse than setting it at 10 as no normal AR🧥 can absorb up all of Dmg 20, but larger armor can absorb most or all of Dmg 10 on a good roll. So Dmg is NOT linear from a character’s point of view.
 
-### 🏃 Jumps & Leaping Mechanics
+### 🦘 Jumps & Leaping Mechanics
 
 * **Rule (The What):**
   1. **Standing Jump (Move Action `M`):** A character may jump a distance of **`d👣`** squares (or increments of 5 ft) as a standard **Move (`M`)** action, rolling their Movement Rate die (`d(MR) ≤ MR`, e.g. MR 6 rolls a d6).
   2. **Running Jump (Attack & Move Action `AM`):** A running jump allows the character to run up to their full Movement Rate (**`MR 👣`**) on the ground and then leap an additional **`d👣`** squares in the air, resolved as a full **Attack & Move (`AM`)** action.
   3. **Exploding Jump Dice:** Like all flat attribute and movement dice, `d👣` explodes on its maximum face unless specifically noted otherwise.
 * **Rationale (The Why):**
-  Jumping distance must scale from the character's Movement Rate (`d👣` / `d(MR)` where die $\le$ MR), rather than the Motion attribute die (`d🏃`). If jumps were governed by `d🏃`, high-Motion characters would roll larger dice (d10–d12) than their entire normal ground movement rate (typically 6), making it mechanically optimal to jump everywhere for standard Move actions instead of walking or running. Tying jumping to `d👣` ensures a standing leap (e.g. d6 for MR 6) naturally remains within normal movement bounds while still allowing explosive leaps that can clear chasms.
+  Jumping distance must scale from the character's Movement Rate (`d👣` / `d(MR)` where die <= MR), rather than the Motion attribute die (`d🏃`). If jumps were governed by `d🏃`, high-Motion characters would roll larger dice (d10–d12) than their entire normal ground movement rate (typically 6), making it mechanically optimal to jump everywhere for standard Move actions instead of walking or running. Tying jumping to `d👣` ensures a standing leap (e.g. d6 for MR 6) naturally remains within normal movement bounds while still allowing explosive leaps that can clear chasms.
 * **Failure Mechanism (The What Breaks):**
   Using `d🏃` creates a bizarre tactical exploit where high-Motion characters hop constantly across battle maps because jumping yields greater average distance than walking for a single Move action.
 
