@@ -41113,9 +41113,9 @@
     {
       "id": 1,
       "name": "Arcane Wardsuit",
-      "requirement": "💪 S",
-      "ar": "🧥S",
-      "mr": "👣7",
+      "requirement": "💪 12",
+      "ar": "🧥12",
+      "mr": "👣8",
       "cost": "20g",
       "created_at": "2026-08-13T21:26:27.615956+00:00",
       "genres": [
@@ -41480,9 +41480,9 @@
     {
       "id": 16,
       "name": "Carapace Armor",
-      "requirement": "💪 S",
-      "ar": "🧥S",
-      "mr": "👣7",
+      "requirement": "💪 12",
+      "ar": "🧥12",
+      "mr": "👣8",
       "cost": "5g",
       "created_at": "2026-08-13T21:26:27.615956+00:00",
       "genres": [
@@ -41711,9 +41711,9 @@
     {
       "id": 23,
       "name": "Dragon Scale Armor",
-      "requirement": "💪 S",
-      "ar": "🧥S",
-      "mr": "👣7",
+      "requirement": "💪 12",
+      "ar": "🧥12",
+      "mr": "👣8",
       "cost": "12g",
       "created_at": "2026-08-13T21:26:27.615956+00:00",
       "genres": [
@@ -41837,9 +41837,9 @@
     {
       "id": 28,
       "name": "Full Plate",
-      "requirement": "💪 S",
-      "ar": "🧥S",
-      "mr": "👣7",
+      "requirement": "💪 12",
+      "ar": "🧥12",
+      "mr": "👣8",
       "cost": "10g",
       "created_at": "2026-08-13T21:26:27.615956+00:00",
       "genres": [
@@ -41856,9 +41856,9 @@
     {
       "id": 29,
       "name": "Fury",
-      "requirement": "💪 S",
-      "ar": "🧥S",
-      "mr": "👣7",
+      "requirement": "💪 12",
+      "ar": "🧥12",
+      "mr": "👣8",
       "cost": "16g",
       "created_at": "2026-08-13T21:26:27.615956+00:00",
       "genres": [
@@ -42063,9 +42063,9 @@
     {
       "id": 39,
       "name": "Juggernaut Armor",
-      "requirement": "💪 S",
-      "ar": "🧥S",
-      "mr": "👣7",
+      "requirement": "💪 12",
+      "ar": "🧥12",
+      "mr": "👣8",
       "cost": "8g",
       "created_at": "2026-08-13T21:26:27.615956+00:00",
       "genres": [
@@ -42188,9 +42188,9 @@
     {
       "id": 44,
       "name": "Mithril Mail",
-      "requirement": "💪 S",
-      "ar": "🧥S",
-      "mr": "👣7",
+      "requirement": "💪 12",
+      "ar": "🧥12",
+      "mr": "👣8",
       "cost": "15g",
       "created_at": "2026-08-13T21:26:27.615956+00:00",
       "genres": [
@@ -42207,9 +42207,9 @@
     {
       "id": 45,
       "name": "Obsidian Carapace",
-      "requirement": "💪 S",
-      "ar": "🧥S",
-      "mr": "👣7",
+      "requirement": "💪 12",
+      "ar": "🧥12",
+      "mr": "👣8",
       "cost": "15g",
       "created_at": "2026-08-13T21:26:27.615956+00:00",
       "genres": [
@@ -42609,9 +42609,9 @@
     {
       "id": 62,
       "name": "Tower Shield Harness",
-      "requirement": "💪 S",
-      "ar": "🧥S",
-      "mr": "👣7",
+      "requirement": "💪 12",
+      "ar": "🧥12",
+      "mr": "👣8",
       "cost": "9g",
       "created_at": "2026-08-13T21:26:27.615956+00:00",
       "genres": [

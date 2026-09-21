@@ -4,7 +4,7 @@ Master indexed armor directory.
 
 | Armor | Requirement | AR | MR | Cost |
 | --- | --- | --- | --- | --- |
-| **Arcane Wardsuit** | 💪 S | 🧥S | 👣7 | 20g |
+| **Arcane Wardsuit** | 💪 12 | 🧥12 | 👣8 | 20g |
 | **Archaic Partial A** | 💪 8 | 🧥8 | 👣10 | 2g |
 | **Archaic Partial G** | 💪 12 | 🧥12 | 👣8 | 4g |
 | **Archaic Partial H** | 💪 10 | 🧥10 | 👣9 | 4g |
@@ -24,7 +24,7 @@ Master indexed armor directory.
 | **Calemora Chain (mso)** | 💪 6 | 🧥6 | 👣11 | 3g |
 | **Calemora Plate (mso)** | 💪 10 | 🧥10 | 👣9 | 6g |
 | **Carapace (mso)** | 💪 10 | 🧥10 | 👣9 | 9g 50s |
-| **Carapace Armor** | 💪 S | 🧥S | 👣7 | 5g |
+| **Carapace Armor** | 💪 12 | 🧥12 | 👣8 | 5g |
 | **Chain Shirt** | 💪 8 | 🧥8 | 👣10 | 2g |
 | **Cyber A** | 💪 8 | 🧥8 | 👣10 | 7g |
 | **Cyber G** | 💪 12 | 🧥12 | 👣8 | 6g |
@@ -37,15 +37,15 @@ Master indexed armor directory.
 | **Denim Battle Vest** | 💪 6 | 🧥6 | 👣11 | 1g |
 | **Destron Armor (mso)** | 💪 12 | 🧥12 | 👣8 | 20g |
 | **Destron Chassis** | 💪 10 | 10 | -1 | 150g |
-| **Dragon Scale Armor** | 💪 S | 🧥S | 👣7 | 12g |
+| **Dragon Scale Armor** | 💪 12 | 🧥12 | 👣8 | 12g |
 | **Ethereal** | 💪 6 | 🧥6 | 👣11 | 3g |
 | **Expedition Armor** | 💪 12 | 🧥12 | 👣8 | 4g |
 | **Expedition Armor (mso)** | 💪 8 | 🧥8 | 👣10 | 10g |
 | **Field Plate** | 💪 12 | 🧥12 | 👣8 | 7g |
 | **Flak** | 💪 6 | 🧥6 | 👣11 | 2g |
 | **Flak (mso)** | 💪 4 | 🧥4 | 👣12 | 2g 50s |
-| **Full Plate** | 💪 S | 🧥S | 👣7 | 10g |
-| **Fury** | 💪 S | 🧥S | 👣7 | 16g |
+| **Full Plate** | 💪 12 | 🧥12 | 👣8 | 10g |
+| **Fury** | 💪 12 | 🧥12 | 👣8 | 16g |
 | **Gaia** | 💪 6 | 🧥6 | 👣11 | 3g |
 | **Gambeson** | 💪 6 | 🧥6 | 👣11 | 2g |
 | **Geomantic** | 💪 12 | 🧥12 | 👣8 | 8g |
@@ -56,15 +56,15 @@ Master indexed armor directory.
 | **Hide Armor** | 💪 8 | 🧥8 | 👣10 | 1g |
 | **Husk (mso)** | 💪 6 | 🧥6 | 👣11 | 4g |
 | **Husk Armor** | 💪 12 | 🧥12 | 👣8 | 4g |
-| **Juggernaut Armor** | 💪 S | 🧥S | 👣7 | 8g |
+| **Juggernaut Armor** | 💪 12 | 🧥12 | 👣8 | 8g |
 | **Lamellar Armor** | 💪 8 | 🧥8 | 👣10 | 3g |
 | **Leaf (mso)** | 💪 4 | 🧥4 | 👣12 | 2g |
 | **Leaf Armor** | 💪 6 | 🧥6 | 👣11 | 3g |
 | **Leather Jacket** | 💪 6 | 🧥6 | 👣11 | 1g |
 | **Marine Armor** | 💪 8 | 🧥8 | 👣10 | 5g |
 | **Marine Armor (mso)** | 💪 10 | 🧥10 | 👣9 | 12g |
-| **Mithril Mail** | 💪 S | 🧥S | 👣7 | 15g |
-| **Obsidian Carapace** | 💪 S | 🧥S | 👣7 | 15g |
+| **Mithril Mail** | 💪 12 | 🧥12 | 👣8 | 15g |
+| **Obsidian Carapace** | 💪 12 | 🧥12 | 👣8 | 15g |
 | **Padded Cloth** | 💪 6 | 🧥6 | 👣11 | 5s |
 | **Plate Harness** | 💪 10 | 🧥10 | 👣9 | 5g |
 | **Pod (mso)** | 💪 6 | 🧥6 | 👣11 | 3g |
@@ -86,7 +86,7 @@ Master indexed armor directory.
 | **Splint Mail** | 💪 10 | 🧥10 | 👣9 | 5g |
 | **Stoneform Armor** | 💪 10 | 🧥10 | 👣9 | 6g |
 | **Tactical Vest** | 💪 8 | 🧥8 | 👣10 | 3g |
-| **Tower Shield Harness** | 💪 S | 🧥S | 👣7 | 9g |
+| **Tower Shield Harness** | 💪 12 | 🧥12 | 👣8 | 9g |
 | **Traveler’s Cloak** | 💪 6 | 🧥6 | 👣11 | 1g |
 | **Trooper Armor** | 💪 8 | 🧥8 | 👣10 | 4g |
 | **Trooper Armor (mso)** | 💪 6 | 🧥6 | 👣11 | 4g 50s |
