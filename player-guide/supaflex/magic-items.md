@@ -148,7 +148,7 @@ Index of purchasable Gear Powers (🧿) and treasure Artifacts (🔮) derived fr
 | 1-Enc | A | **Keeth’s Shadowform Flight** | Keeth’s Shadowform | Summon Keeth as (Nymph Sized) mount; fly MR👣; for Encounter. |
 | 1-Enc | P | **Kinetic War Band** | Kinetic War Band | Swung melee Dmg(+5), thrusting melee Dmg(+3). |
 | 1-Rnd | M | **Knife of Infinite Cloning** | Knife of Infinite Cloning | Can split one knife into 2 knives (new knives last for encounter). |
-| 1-⚡ | P | **Knight’s [Shield]** | Knight’s [Shield] | Negate 1 Vit completely. |
+| 1-⚡ | P | **Knight’s [Shield]** | Knight’s [Shield] | All Wnds-1 for Encounter |
 | 1-Enc | P | **Lantern of Clarity** | Lantern of Clarity | All illusions in 6sq dispelled for encounter. |
 | 1-Enc | P | **Lantern of Truth** | Lantern of Truth | AoE 3r; reveal hidden and invisible creatures and objects (✨+5^hidden). |
 | 1-⚡ | P | **Lantern of Whispers** | Lantern of Whispers | Perception has Advantage. |

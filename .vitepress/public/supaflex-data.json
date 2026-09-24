@@ -1324,7 +1324,6 @@
       "discipline": "Universal",
       "stat_hook": null,
       "notes": null,
-      "category": null,
       "owner": "Designer"
     },
     {
@@ -1343,7 +1342,6 @@
       "discipline": "Universal",
       "stat_hook": null,
       "notes": null,
-      "category": null,
       "owner": "Designer"
     },
     {
@@ -1362,7 +1360,6 @@
       "discipline": "Universal",
       "stat_hook": null,
       "notes": null,
-      "category": null,
       "owner": "Designer"
     },
     {
@@ -1379,7 +1376,6 @@
       "discipline": "Sorce",
       "stat_hook": null,
       "notes": "The sorcist molecularly bonds to a surface, rendering them completely immovable and rooted in place against push and displacement hazards.",
-      "category": "Discipline",
       "owner": "Designer"
     },
     {
@@ -1398,7 +1394,6 @@
       "discipline": "Universal",
       "stat_hook": null,
       "notes": null,
-      "category": null,
       "owner": "Designer"
     },
     {
@@ -1417,7 +1412,6 @@
       "discipline": "Universal",
       "stat_hook": null,
       "notes": null,
-      "category": null,
       "owner": "Designer"
     },
     {
@@ -1436,7 +1430,6 @@
       "discipline": "Universal",
       "stat_hook": null,
       "notes": null,
-      "category": null,
       "owner": "Designer"
     },
     {
@@ -1455,7 +1448,6 @@
       "discipline": "Universal",
       "stat_hook": null,
       "notes": null,
-      "category": null,
       "owner": "Designer"
     },
     {
@@ -1474,7 +1466,6 @@
       "discipline": "Psionics",
       "stat_hook": null,
       "notes": null,
-      "category": null,
       "owner": "Designer"
     },
     {
@@ -1493,7 +1484,6 @@
       "discipline": "Universal",
       "stat_hook": null,
       "notes": null,
-      "category": null,
       "owner": "Designer"
     },
     {
@@ -1512,7 +1502,6 @@
       "discipline": "Universal",
       "stat_hook": null,
       "notes": null,
-      "category": null,
       "owner": "Designer"
     },
     {
@@ -1529,7 +1518,6 @@
       "discipline": "Martial",
       "stat_hook": null,
       "notes": "This enhancement grants a +1 bonus for each full round which a character spends aiming at a single target. The target may move during this time, but may never go out of sight, or the entire bonus is lost. After two rounds of aiming, the bonus to hit is +2, and after three rounds it is +3 — this is the maximum aiming bonus allowed. Purchased at 3 levels: All Ranged/Hurled, One Class, or One Weapon.",
-      "category": "General",
       "owner": "Designer"
     },
     {
@@ -1548,7 +1536,6 @@
       "discipline": "Universal",
       "stat_hook": null,
       "notes": null,
-      "category": null,
       "owner": "Designer"
     },
     {
@@ -1567,7 +1554,6 @@
       "discipline": "Sorce",
       "stat_hook": null,
       "notes": null,
-      "category": null,
       "owner": "Designer"
     },
     {
@@ -1586,7 +1572,6 @@
       "discipline": "Psionics",
       "stat_hook": null,
       "notes": null,
-      "category": null,
       "owner": "Designer"
     },
     {
@@ -1605,7 +1590,6 @@
       "discipline": "Physical",
       "stat_hook": null,
       "notes": null,
-      "category": null,
       "owner": "Designer"
     },
     {
@@ -1622,7 +1606,6 @@
       "discipline": "Physical",
       "stat_hook": null,
       "notes": "This enhancement allows an individual to use both hands equally well. This means that such activities as writing, throwing, eating, etc. can be done easily with either hand. While this enhancement allows individuals to use a weapon in either hand, it does not allow the individual to make two attacks in a round.",
-      "category": "General",
       "owner": "Designer"
     },
     {
@@ -1641,7 +1624,6 @@
       "discipline": "Universal",
       "stat_hook": null,
       "notes": null,
-      "category": null,
       "owner": "Designer"
     },
     {
@@ -1660,7 +1642,6 @@
       "discipline": "Universal",
       "stat_hook": null,
       "notes": null,
-      "category": null,
       "owner": "Designer"
     },
     {
@@ -1679,7 +1660,6 @@
       "discipline": "Universal",
       "stat_hook": null,
       "notes": null,
-      "category": null,
       "owner": "Designer"
     },
     {
@@ -1698,7 +1678,6 @@
       "discipline": "Universal",
       "stat_hook": null,
       "notes": null,
-      "category": null,
       "owner": "Designer"
     },
     {
@@ -1717,7 +1696,6 @@
       "discipline": "Universal",
       "stat_hook": null,
       "notes": null,
-      "category": null,
       "owner": "Designer"
     },
     {
@@ -1736,7 +1714,6 @@
       "discipline": "Psionics",
       "stat_hook": null,
       "notes": null,
-      "category": null,
       "owner": "Designer"
     },
     {
@@ -1755,7 +1732,6 @@
       "discipline": "Psionics",
       "stat_hook": null,
       "notes": null,
-      "category": null,
       "owner": "Designer"
     },
     {
@@ -1772,7 +1748,6 @@
       "discipline": "Martial",
       "stat_hook": null,
       "notes": "Characters with this enhancement may increase Dmg vs vehicles by +3. Applies only when personal type weapons are used vs vehicles (i.e., only weapons which an individual carries). Purchased at 3 levels: All Weapon Classes, One Class, or One Weapon.",
-      "category": "General",
       "owner": "Designer"
     },
     {
@@ -1791,7 +1766,6 @@
       "discipline": "Universal",
       "stat_hook": null,
       "notes": null,
-      "category": null,
       "owner": "Designer"
     },
     {
@@ -1810,7 +1784,6 @@
       "discipline": "Universal",
       "stat_hook": null,
       "notes": null,
-      "category": null,
       "owner": "Designer"
     },
     {
@@ -1829,7 +1802,6 @@
       "discipline": "Sorce",
       "stat_hook": null,
       "notes": null,
-      "category": null,
       "owner": "Designer"
     },
     {
@@ -1846,7 +1818,6 @@
       "discipline": "Martial",
       "stat_hook": null,
       "notes": "Characters with the armor penetration enhancement have studied the weak points of armor, and how their particular weapon may be used to best effect. When a character with this enhancement attacks an armored opponent, the GM reduces the opponent’s armor value by half (e.g. an AR of 30 becomes 15). Purchased at 3 levels.",
-      "category": "General",
       "owner": "Designer"
     },
     {
@@ -1865,7 +1836,6 @@
       "discipline": "Universal",
       "stat_hook": null,
       "notes": null,
-      "category": null,
       "owner": "Designer"
     },
     {
@@ -1884,7 +1854,6 @@
       "discipline": "Universal",
       "stat_hook": null,
       "notes": null,
-      "category": null,
       "owner": "Designer"
     },
     {
@@ -1903,7 +1872,6 @@
       "discipline": "Universal",
       "stat_hook": null,
       "notes": null,
-      "category": null,
       "owner": "Designer"
     },
     {
@@ -1922,7 +1890,6 @@
       "discipline": "Universal",
       "stat_hook": null,
       "notes": null,
-      "category": null,
       "owner": "Designer"
     },
     {
@@ -1941,7 +1908,6 @@
       "discipline": "Universal",
       "stat_hook": null,
       "notes": null,
-      "category": null,
       "owner": "Designer"
     },
     {
@@ -1960,7 +1926,6 @@
       "discipline": "Universal",
       "stat_hook": null,
       "notes": null,
-      "category": null,
       "owner": "Designer"
     },
     {
@@ -1979,7 +1944,6 @@
       "discipline": "Universal",
       "stat_hook": null,
       "notes": null,
-      "category": null,
       "owner": "Designer"
     },
     {
@@ -1996,7 +1960,6 @@
       "discipline": "Martial",
       "stat_hook": null,
       "notes": "An attack pool is a reserve of points used to enhance attack die rolls. If a character misses an attack roll, attack pool points may be utilized to increase the roll until a sufficient score is obtained to hit. Attack pool points are like luck in that they are replenished after each adventure. They may not be used to increase damage, improve defense or armor rolls, etc.",
-      "category": "General",
       "owner": "Designer"
     },
     {
@@ -2015,7 +1978,6 @@
       "discipline": "Universal",
       "stat_hook": null,
       "notes": null,
-      "category": null,
       "owner": "Designer"
     },
     {
@@ -2034,7 +1996,6 @@
       "discipline": "Universal",
       "stat_hook": null,
       "notes": null,
-      "category": null,
       "owner": "Designer"
     },
     {
@@ -2053,7 +2014,6 @@
       "discipline": "Psionics",
       "stat_hook": null,
       "notes": null,
-      "category": null,
       "owner": "Designer"
     },
     {
@@ -2072,7 +2032,6 @@
       "discipline": "Universal",
       "stat_hook": null,
       "notes": null,
-      "category": null,
       "owner": "Designer"
     },
     {
@@ -2091,7 +2050,6 @@
       "discipline": "Universal",
       "stat_hook": null,
       "notes": null,
-      "category": null,
       "owner": "Designer"
     },
     {
@@ -2110,7 +2068,6 @@
       "discipline": "Universal",
       "stat_hook": null,
       "notes": null,
-      "category": null,
       "owner": "Designer"
     },
     {
@@ -2129,7 +2086,6 @@
       "discipline": "Universal",
       "stat_hook": null,
       "notes": null,
-      "category": null,
       "owner": "Designer"
     },
     {
@@ -2146,7 +2102,6 @@
       "discipline": "Physical",
       "stat_hook": null,
       "notes": "Characters with this enhancement may make enhanced balance checks. This grants them +3 to all 🏃 check related to maintaining footing on narrow ledges, during starship turbulence, or on slippery surfaces.",
-      "category": "General",
       "owner": "Designer"
     },
     {
@@ -2165,7 +2120,6 @@
       "discipline": "Universal",
       "stat_hook": null,
       "notes": null,
-      "category": null,
       "owner": "Designer"
     },
     {
@@ -2184,7 +2138,6 @@
       "discipline": "Universal",
       "stat_hook": null,
       "notes": null,
-      "category": null,
       "owner": "Designer"
     },
     {
@@ -2203,7 +2156,6 @@
       "discipline": "Psionics",
       "stat_hook": null,
       "notes": null,
-      "category": null,
       "owner": "Designer"
     },
     {
@@ -2222,7 +2174,6 @@
       "discipline": "Universal",
       "stat_hook": null,
       "notes": null,
-      "category": null,
       "owner": "Designer"
     },
     {
@@ -2241,7 +2192,6 @@
       "discipline": "Universal",
       "stat_hook": null,
       "notes": null,
-      "category": null,
       "owner": "Designer"
     },
     {
@@ -2260,7 +2210,6 @@
       "discipline": "Psionics",
       "stat_hook": null,
       "notes": null,
-      "category": null,
       "owner": "Designer"
     },
     {
@@ -2279,7 +2228,6 @@
       "discipline": "Universal",
       "stat_hook": null,
       "notes": null,
-      "category": null,
       "owner": "Designer"
     },
     {
@@ -2298,7 +2246,6 @@
       "discipline": "Universal",
       "stat_hook": null,
       "notes": null,
-      "category": null,
       "owner": "Designer"
     },
     {
@@ -2317,7 +2264,6 @@
       "discipline": "Universal",
       "stat_hook": null,
       "notes": null,
-      "category": null,
       "owner": "Designer"
     },
     {
@@ -2334,7 +2280,6 @@
       "discipline": "Social",
       "stat_hook": null,
       "notes": "Beauty is physical attractiveness to members of the same, or similar, species (such as Zin-Shee and Anthropos). Individuals with this feature gain enhanced Cha checks (+3 or normal checks when others make related checks) when dealing with opposite sex members of their own, or similar, species.",
-      "category": "General",
       "owner": "Designer"
     },
     {
@@ -2351,7 +2296,6 @@
       "discipline": "Mental",
       "stat_hook": null,
       "notes": "Berserk puts the individual in a primal state of mind. It can be turned on automatically with no roll needed. While berserk, the character ignores pain and fear and gains substantial physical bonuses, but cannot distinguish friend from foe, potentially resulting in the deaths of close friends or innocent bystanders.",
-      "category": "General",
       "owner": "Designer"
     },
     {
@@ -2370,7 +2314,6 @@
       "discipline": "Universal",
       "stat_hook": null,
       "notes": null,
-      "category": null,
       "owner": "Designer"
     },
     {
@@ -2389,7 +2332,6 @@
       "discipline": "Sorce",
       "stat_hook": null,
       "notes": null,
-      "category": null,
       "owner": "Designer"
     },
     {
@@ -2406,7 +2348,6 @@
       "discipline": "Sorce",
       "stat_hook": null,
       "notes": "This binds another individual to an agreement with the sorcist. This may be a promise, a task, a quest, a secret, etc. The bound individual must freely accept the binding or it will not work. If at any time the bound individual breaks the agreement, roll the sorcist’s skill against the bound individual’s Vit. If the sorcist succeeds, the victim will crumble into dust.",
-      "category": "Discipline",
       "owner": "Designer"
     },
     {
@@ -2424,7 +2365,6 @@
       "discipline": "Universal",
       "stat_hook": null,
       "notes": null,
-      "category": null,
       "owner": "Designer"
     },
     {
@@ -2443,7 +2383,6 @@
       "discipline": "Universal",
       "stat_hook": null,
       "notes": null,
-      "category": null,
       "owner": "Designer"
     },
     {
@@ -2462,7 +2401,6 @@
       "discipline": "Universal",
       "stat_hook": null,
       "notes": null,
-      "category": null,
       "owner": "Designer"
     },
     {
@@ -2481,7 +2419,6 @@
       "discipline": "Universal",
       "stat_hook": null,
       "notes": null,
-      "category": null,
       "owner": "Designer"
     },
     {
@@ -2500,7 +2437,6 @@
       "discipline": "Universal",
       "stat_hook": null,
       "notes": null,
-      "category": null,
       "owner": "Designer"
     },
     {
@@ -2519,7 +2455,6 @@
       "discipline": "Universal",
       "stat_hook": null,
       "notes": null,
-      "category": null,
       "owner": "Designer"
     },
     {
@@ -2538,7 +2473,6 @@
       "discipline": "Universal",
       "stat_hook": null,
       "notes": null,
-      "category": null,
       "owner": "Designer"
     },
     {
@@ -2557,7 +2491,6 @@
       "discipline": "Martial",
       "stat_hook": null,
       "notes": null,
-      "category": null,
       "owner": "Designer"
     },
     {
@@ -2576,7 +2509,6 @@
       "discipline": "Psionics",
       "stat_hook": null,
       "notes": null,
-      "category": null,
       "owner": "Designer"
     },
     {
@@ -2593,7 +2525,6 @@
       "discipline": "Psionics",
       "stat_hook": null,
       "notes": "Blast creates a fist-shaped mass of kinetic energy approximately 18\" across, which then strikes any target in range. Attack and damage are equal to the psionicist’s skill rating at +3.",
-      "category": "Discipline",
       "owner": "Designer"
     },
     {
@@ -2612,7 +2543,6 @@
       "discipline": "Universal",
       "stat_hook": null,
       "notes": null,
-      "category": null,
       "owner": "Designer"
     },
     {
@@ -2631,7 +2561,6 @@
       "discipline": "Universal",
       "stat_hook": null,
       "notes": null,
-      "category": null,
       "owner": "Designer"
     },
     {
@@ -2650,7 +2579,6 @@
       "discipline": "Universal",
       "stat_hook": null,
       "notes": null,
-      "category": null,
       "owner": "Designer"
     },
     {
@@ -2669,7 +2597,6 @@
       "discipline": "Universal",
       "stat_hook": null,
       "notes": null,
-      "category": null,
       "owner": "Designer"
     },
     {
@@ -2688,7 +2615,6 @@
       "discipline": "Sorce",
       "stat_hook": null,
       "notes": null,
-      "category": null,
       "owner": "Designer"
     },
     {
@@ -2705,7 +2631,6 @@
       "discipline": "Martial",
       "stat_hook": null,
       "notes": "This skill is effective against ranged or hurled weapons of relatively low velocity, such as arrows, spears, throwing axes, rocks, etc. It cannot affect projectiles shot from firearms or non-muscle powered devices. The character must be armed with a weapon (or have Martial Arts Punch) to make an Atk roll vs the opponent's Atk to block it.",
-      "category": "General",
       "owner": "Designer"
     },
     {
@@ -2724,7 +2649,6 @@
       "discipline": "Martial",
       "stat_hook": null,
       "notes": null,
-      "category": null,
       "owner": "Designer"
     },
     {
@@ -2743,7 +2667,6 @@
       "discipline": "Universal",
       "stat_hook": null,
       "notes": null,
-      "category": null,
       "owner": "Designer"
     },
     {
@@ -2762,7 +2685,6 @@
       "discipline": "Universal",
       "stat_hook": null,
       "notes": null,
-      "category": null,
       "owner": "Designer"
     },
     {
@@ -2781,7 +2703,6 @@
       "discipline": "Universal",
       "stat_hook": null,
       "notes": null,
-      "category": null,
       "owner": "Designer"
     },
     {
@@ -2800,7 +2721,6 @@
       "discipline": "Universal",
       "stat_hook": null,
       "notes": null,
-      "category": null,
       "owner": "Designer"
     },
     {
@@ -2819,7 +2739,6 @@
       "discipline": "Universal",
       "stat_hook": null,
       "notes": null,
-      "category": null,
       "owner": "Designer"
     },
     {
@@ -2838,7 +2757,6 @@
       "discipline": "Universal",
       "stat_hook": null,
       "notes": null,
-      "category": null,
       "owner": "Designer"
     },
     {
@@ -2857,7 +2775,6 @@
       "discipline": "Universal",
       "stat_hook": null,
       "notes": null,
-      "category": null,
       "owner": "Designer"
     },
     {
@@ -2876,7 +2793,6 @@
       "discipline": "Martial",
       "stat_hook": null,
       "notes": null,
-      "category": null,
       "owner": "Designer"
     },
     {
@@ -2895,7 +2811,6 @@
       "discipline": "Universal",
       "stat_hook": null,
       "notes": null,
-      "category": null,
       "owner": "Designer"
     },
     {
@@ -2914,7 +2829,6 @@
       "discipline": "Universal",
       "stat_hook": null,
       "notes": null,
-      "category": null,
       "owner": "Designer"
     },
     {
@@ -2933,7 +2847,6 @@
       "discipline": "Psionics",
       "stat_hook": null,
       "notes": null,
-      "category": null,
       "owner": "Designer"
     },
     {
@@ -2950,7 +2863,6 @@
       "discipline": "Psionics",
       "stat_hook": null,
       "notes": "Blow is a lesser form of blast. It functions in the same manner, creating a near-invisible mass of kinetic energy approximately 10\" across. Attack and damage are equal to the psionicist’s skill rating at +1.",
-      "category": "Discipline",
       "owner": "Designer"
     },
     {
@@ -2969,7 +2881,6 @@
       "discipline": "Somatics",
       "stat_hook": null,
       "notes": null,
-      "category": null,
       "owner": "Designer"
     },
     {
@@ -2986,7 +2897,6 @@
       "discipline": "Somatics",
       "stat_hook": null,
       "notes": "Body heal allows psychosomaticists to heal damage to their bodies. To use this power, the psychosomaticist concentrates upon the wounded area, sending self-healing impulses. The enhancement then automatically heals an amount of damage equal to the skill’s level.",
-      "category": "Discipline",
       "owner": "Designer"
     },
     {
@@ -3005,7 +2915,6 @@
       "discipline": "Psionics",
       "stat_hook": null,
       "notes": null,
-      "category": null,
       "owner": "Designer"
     },
     {
@@ -3024,7 +2933,6 @@
       "discipline": "Universal",
       "stat_hook": null,
       "notes": null,
-      "category": null,
       "owner": "Designer"
     },
     {
@@ -3043,7 +2951,6 @@
       "discipline": "Universal",
       "stat_hook": null,
       "notes": null,
-      "category": null,
       "owner": "Designer"
     },
     {
@@ -3062,7 +2969,6 @@
       "discipline": "Universal",
       "stat_hook": null,
       "notes": null,
-      "category": null,
       "owner": "Designer"
     },
     {
@@ -3081,7 +2987,6 @@
       "discipline": "Universal",
       "stat_hook": null,
       "notes": null,
-      "category": null,
       "owner": "Designer"
     },
     {
@@ -3100,7 +3005,6 @@
       "discipline": "Universal",
       "stat_hook": null,
       "notes": null,
-      "category": null,
       "owner": "Designer"
     },
     {
@@ -3119,7 +3023,6 @@
       "discipline": "Universal",
       "stat_hook": null,
       "notes": null,
-      "category": null,
       "owner": "Designer"
     },
     {
@@ -3138,7 +3041,6 @@
       "discipline": "Universal",
       "stat_hook": null,
       "notes": null,
-      "category": null,
       "owner": "Designer"
     },
     {
@@ -3157,7 +3059,6 @@
       "discipline": "Universal",
       "stat_hook": null,
       "notes": null,
-      "category": null,
       "owner": "Designer"
     },
     {
@@ -3176,7 +3077,6 @@
       "discipline": "Universal",
       "stat_hook": null,
       "notes": null,
-      "category": null,
       "owner": "Designer"
     },
     {
@@ -3195,7 +3095,6 @@
       "discipline": "Universal",
       "stat_hook": null,
       "notes": null,
-      "category": null,
       "owner": "Designer"
     },
     {
@@ -3212,7 +3111,6 @@
       "discipline": "Physical",
       "stat_hook": null,
       "notes": "This enhancement allows a character to move normally with a larger encumbrance. The character simply moves at one MR box better than is indicated on the MR/Carry table on the character’s back sheet.",
-      "category": "General",
       "owner": "Designer"
     },
     {
@@ -3229,7 +3127,6 @@
       "discipline": "Physical",
       "stat_hook": null,
       "notes": "Characters with this enhancement receive an enhanced roll to catch objects thrown to them, falling items, or tossed gear (note that this does not apply to active weapon attacks).",
-      "category": "General",
       "owner": "Designer"
     },
     {
@@ -3246,7 +3143,6 @@
       "discipline": "Martial",
       "stat_hook": null,
       "notes": "This skill works only against hurled and muscle-powered missile weapons such as arrows, spears, rocks, etc. It is not effective against firearms or energy weapons. A character with this enhancement may roll Spe (or Martial Arts Punch) in place of Defense when attacked. If successful, the weapon is caught and causes no damage.",
-      "category": "General",
       "owner": "Designer"
     },
     {
@@ -3265,7 +3161,6 @@
       "discipline": "Universal",
       "stat_hook": null,
       "notes": null,
-      "category": null,
       "owner": "Designer"
     },
     {
@@ -3284,7 +3179,6 @@
       "discipline": "Martial",
       "stat_hook": null,
       "notes": null,
-      "category": null,
       "owner": "Designer"
     },
     {
@@ -3303,7 +3197,6 @@
       "discipline": "Psionics",
       "stat_hook": null,
       "notes": null,
-      "category": null,
       "owner": "Designer"
     },
     {
@@ -3322,7 +3215,6 @@
       "discipline": "Psionics",
       "stat_hook": null,
       "notes": null,
-      "category": null,
       "owner": "Designer"
     },
     {
@@ -3341,7 +3233,6 @@
       "discipline": "Psionics",
       "stat_hook": null,
       "notes": null,
-      "category": null,
       "owner": "Designer"
     },
     {
@@ -3360,7 +3251,6 @@
       "discipline": "Universal",
       "stat_hook": null,
       "notes": null,
-      "category": null,
       "owner": "Designer"
     },
     {
@@ -3379,7 +3269,6 @@
       "discipline": "Sorce",
       "stat_hook": null,
       "notes": null,
-      "category": null,
       "owner": "Designer"
     },
     {
@@ -3396,7 +3285,6 @@
       "discipline": "Sorce",
       "stat_hook": null,
       "notes": "Sorcists using this enhancement can create a Sorce-based blockage in the target’s windpipe. It does not, of course, work on creatures which do not breathe. If the sorcist’s skill roll exceeds the victim’s FR, the victim is incapacitated and cannot speak, but for a whisper, or take any action other than movement of one square per round. Choke lasts for as long as the sorcist concentrates, but the victim may roll FR vs the sorcist’s skill each round to break free.",
-      "category": "Discipline",
       "owner": "Designer"
     },
     {
@@ -3415,7 +3303,6 @@
       "discipline": "Psionics",
       "stat_hook": null,
       "notes": null,
-      "category": null,
       "owner": "Designer"
     },
     {
@@ -3434,7 +3321,6 @@
       "discipline": "Sorce",
       "stat_hook": null,
       "notes": null,
-      "category": null,
       "owner": "Designer"
     },
     {
@@ -3453,7 +3339,6 @@
       "discipline": "Psionics",
       "stat_hook": null,
       "notes": null,
-      "category": null,
       "owner": "Designer"
     },
     {
@@ -3472,7 +3357,6 @@
       "discipline": "Universal",
       "stat_hook": null,
       "notes": null,
-      "category": null,
       "owner": "Designer"
     },
     {
@@ -3491,7 +3375,6 @@
       "discipline": "Universal",
       "stat_hook": null,
       "notes": null,
-      "category": null,
       "owner": "Designer"
     },
     {
@@ -3510,7 +3393,6 @@
       "discipline": "Universal",
       "stat_hook": null,
       "notes": null,
-      "category": null,
       "owner": "Designer"
     },
     {
@@ -3529,7 +3411,6 @@
       "discipline": "Psionics",
       "stat_hook": null,
       "notes": null,
-      "category": null,
       "owner": "Designer"
     },
     {
@@ -3548,7 +3429,6 @@
       "discipline": "Universal",
       "stat_hook": null,
       "notes": null,
-      "category": null,
       "owner": "Designer"
     },
     {
@@ -3567,7 +3447,6 @@
       "discipline": "Universal",
       "stat_hook": null,
       "notes": null,
-      "category": null,
       "owner": "Designer"
     },
     {
@@ -3586,7 +3465,6 @@
       "discipline": "Universal",
       "stat_hook": null,
       "notes": null,
-      "category": null,
       "owner": "Designer"
     },
     {
@@ -3605,7 +3483,6 @@
       "discipline": "Universal",
       "stat_hook": null,
       "notes": null,
-      "category": null,
       "owner": "Designer"
     },
     {
@@ -3624,7 +3501,6 @@
       "discipline": "Universal",
       "stat_hook": null,
       "notes": null,
-      "category": null,
       "owner": "Designer"
     },
     {
@@ -3643,7 +3519,6 @@
       "discipline": "Universal",
       "stat_hook": null,
       "notes": null,
-      "category": null,
       "owner": "Designer"
     },
     {
@@ -3660,7 +3535,6 @@
       "discipline": "Mental",
       "stat_hook": null,
       "notes": "This enhancement is largely a roleplaying effect. GMs should give such characters special breaks. If the party is doing something 'foolish,' the GM informs those with common sense of their folly. These characters also make enhanced checks when common sense is involved.",
-      "category": "General",
       "owner": "Designer"
     },
     {
@@ -3679,7 +3553,6 @@
       "discipline": "Universal",
       "stat_hook": null,
       "notes": null,
-      "category": null,
       "owner": "Designer"
     },
     {
@@ -3698,7 +3571,6 @@
       "discipline": "Universal",
       "stat_hook": null,
       "notes": null,
-      "category": null,
       "owner": "Designer"
     },
     {
@@ -3717,7 +3589,6 @@
       "discipline": "Psionics",
       "stat_hook": null,
       "notes": null,
-      "category": null,
       "owner": "Designer"
     },
     {
@@ -3736,7 +3607,6 @@
       "discipline": "Universal",
       "stat_hook": null,
       "notes": null,
-      "category": null,
       "owner": "Designer"
     },
     {
@@ -3755,7 +3625,6 @@
       "discipline": "Sorce",
       "stat_hook": null,
       "notes": null,
-      "category": null,
       "owner": "Designer"
     },
     {
@@ -3774,7 +3643,6 @@
       "discipline": "Universal",
       "stat_hook": null,
       "notes": null,
-      "category": null,
       "owner": "Designer"
     },
     {
@@ -3793,7 +3661,6 @@
       "discipline": "Universal",
       "stat_hook": null,
       "notes": null,
-      "category": null,
       "owner": "Designer"
     },
     {
@@ -3812,7 +3679,6 @@
       "discipline": "Universal",
       "stat_hook": null,
       "notes": null,
-      "category": null,
       "owner": "Designer"
     },
     {
@@ -3831,7 +3697,6 @@
       "discipline": "Martial",
       "stat_hook": null,
       "notes": null,
-      "category": null,
       "owner": "Designer"
     },
     {
@@ -3850,7 +3715,6 @@
       "discipline": "Universal",
       "stat_hook": null,
       "notes": null,
-      "category": null,
       "owner": "Designer"
     },
     {
@@ -3867,7 +3731,6 @@
       "discipline": "Martial",
       "stat_hook": null,
       "notes": "Following a successful grab or hold attack, characters with this enhancement may use their raw Strength rating as flat wounding damage (rather than making a Str-related roll vs a target's defense or armor) when crushing a held opponent.",
-      "category": "General",
       "owner": "Designer"
     },
     {
@@ -3886,7 +3749,6 @@
       "discipline": "Universal",
       "stat_hook": null,
       "notes": null,
-      "category": null,
       "owner": "Designer"
     },
     {
@@ -3905,7 +3767,6 @@
       "discipline": "Universal",
       "stat_hook": null,
       "notes": null,
-      "category": null,
       "owner": "Designer"
     },
     {
@@ -3924,7 +3785,6 @@
       "discipline": "Sorce",
       "stat_hook": null,
       "notes": null,
-      "category": null,
       "owner": "Designer"
     },
     {
@@ -3943,7 +3803,6 @@
       "discipline": "Universal",
       "stat_hook": null,
       "notes": null,
-      "category": null,
       "owner": "Designer"
     },
     {
@@ -3962,7 +3821,6 @@
       "discipline": "Universal",
       "stat_hook": null,
       "notes": null,
-      "category": null,
       "owner": "Designer"
     },
     {
@@ -3981,7 +3839,6 @@
       "discipline": "Universal",
       "stat_hook": null,
       "notes": null,
-      "category": null,
       "owner": "Designer"
     },
     {
@@ -4000,7 +3857,6 @@
       "discipline": "Psionics",
       "stat_hook": null,
       "notes": null,
-      "category": null,
       "owner": "Designer"
     },
     {
@@ -4019,7 +3875,6 @@
       "discipline": "Universal",
       "stat_hook": null,
       "notes": null,
-      "category": null,
       "owner": "Designer"
     },
     {
@@ -4036,7 +3891,6 @@
       "discipline": "Universal",
       "stat_hook": null,
       "notes": null,
-      "category": null,
       "owner": "Designer"
     },
     {
@@ -4053,7 +3907,6 @@
       "discipline": "Universal",
       "stat_hook": null,
       "notes": null,
-      "category": null,
       "owner": "Designer"
     },
     {
@@ -4070,7 +3923,6 @@
       "discipline": "Universal",
       "stat_hook": null,
       "notes": null,
-      "category": null,
       "owner": "Designer"
     },
     {
@@ -4087,7 +3939,6 @@
       "discipline": "Universal",
       "stat_hook": null,
       "notes": null,
-      "category": null,
       "owner": "Designer"
     },
     {
@@ -4106,7 +3957,6 @@
       "discipline": "Universal",
       "stat_hook": null,
       "notes": null,
-      "category": null,
       "owner": "Designer"
     },
     {
@@ -4125,7 +3975,6 @@
       "discipline": "Psionics",
       "stat_hook": null,
       "notes": null,
-      "category": null,
       "owner": "Designer"
     },
     {
@@ -4142,7 +3991,6 @@
       "discipline": "Mental",
       "stat_hook": null,
       "notes": "This is the ability to sense potential hazard: if a character is being followed, if an ambush is imminent, etc. Characters are allowed an 👁️ Perception check if a potentially dangerous situation is about to occur. If the roll succeeds, the GM informs the player that potential danger exists (high rolls reveal precise threat nature).",
-      "category": "General",
       "owner": "Designer"
     },
     {
@@ -4161,7 +4009,6 @@
       "discipline": "Universal",
       "stat_hook": null,
       "notes": null,
-      "category": null,
       "owner": "Designer"
     },
     {
@@ -4180,7 +4027,6 @@
       "discipline": "Universal",
       "stat_hook": null,
       "notes": null,
-      "category": null,
       "owner": "Designer"
     },
     {
@@ -4199,7 +4045,6 @@
       "discipline": "Universal",
       "stat_hook": null,
       "notes": null,
-      "category": null,
       "owner": "Designer"
     },
     {
@@ -4218,7 +4063,6 @@
       "discipline": "Sorce",
       "stat_hook": null,
       "notes": null,
-      "category": null,
       "owner": "Designer"
     },
     {
@@ -4237,7 +4081,6 @@
       "discipline": "Somatics",
       "stat_hook": null,
       "notes": null,
-      "category": null,
       "owner": "Designer"
     },
     {
@@ -4254,7 +4097,6 @@
       "discipline": "Somatics",
       "stat_hook": null,
       "notes": "This enhancement enables the user to focus mental energy through a physical blow. The energy is then channeled into the target, crushing tissue, causing massive damage, and resulting in death. Death blow can be activated after the psychosomaticist has struck a damaging blow. The psychosomaticist then makes a skill roll against the victim’s FR. If the roll succeeds, the target is dead. PCs who are victims of this attack are reduced to 10 Vit.",
-      "category": "Discipline",
       "owner": "Designer"
     },
     {
@@ -4273,7 +4115,6 @@
       "discipline": "Sorce",
       "stat_hook": null,
       "notes": null,
-      "category": null,
       "owner": "Designer"
     },
     {
@@ -4290,7 +4131,6 @@
       "discipline": "Sorce",
       "stat_hook": null,
       "notes": "This power shoots a ray of pure Sorce energy, engulfing and draining a victim’s life energy. If a skill roll exceeds the victim’s Def and Vit, the victim dies and crumbles to dust, life energies completely annihilated. This enhancement works only on living targets.",
-      "category": "Discipline",
       "owner": "Designer"
     },
     {
@@ -4309,7 +4149,6 @@
       "discipline": "Universal",
       "stat_hook": null,
       "notes": null,
-      "category": null,
       "owner": "Designer"
     },
     {
@@ -4326,7 +4165,6 @@
       "discipline": "Martial",
       "stat_hook": null,
       "notes": "This enhancement grants a permanent +1 bonus to the character's Defense rating specifically when defending against body-class weapons, natural claws, teeth, or tail strikes.",
-      "category": "General",
       "owner": "Designer"
     },
     {
@@ -4343,7 +4181,6 @@
       "discipline": "Martial",
       "stat_hook": null,
       "notes": "This enhancement grants a permanent +1 bonus to the character's Defense rating specifically when defending against hurled weapons such as spears, throwing knives, or Mantas.",
-      "category": "General",
       "owner": "Designer"
     },
     {
@@ -4360,7 +4197,6 @@
       "discipline": "Martial",
       "stat_hook": null,
       "notes": "This enhancement grants a permanent +1 bonus to the character's Defense rating specifically when defending against melee-class weapons such as swords, clubs, and laser blades.",
-      "category": "General",
       "owner": "Designer"
     },
     {
@@ -4377,7 +4213,6 @@
       "discipline": "Martial",
       "stat_hook": null,
       "notes": "This enhancement grants a permanent +1 bonus to the character's Defense rating specifically when defending against ranged-class projectile and energy weapons such as blasters, rifles, and disk weapons.",
-      "category": "General",
       "owner": "Designer"
     },
     {
@@ -4396,7 +4231,6 @@
       "discipline": "Universal",
       "stat_hook": null,
       "notes": null,
-      "category": null,
       "owner": "Designer"
     },
     {
@@ -4415,7 +4249,6 @@
       "discipline": "Universal",
       "stat_hook": null,
       "notes": null,
-      "category": null,
       "owner": "Designer"
     },
     {
@@ -4434,7 +4267,6 @@
       "discipline": "Universal",
       "stat_hook": null,
       "notes": null,
-      "category": null,
       "owner": "Designer"
     },
     {
@@ -4453,7 +4285,6 @@
       "discipline": "Universal",
       "stat_hook": null,
       "notes": null,
-      "category": null,
       "owner": "Designer"
     },
     {
@@ -4472,7 +4303,6 @@
       "discipline": "Martial",
       "stat_hook": null,
       "notes": null,
-      "category": null,
       "owner": "Designer"
     },
     {
@@ -4491,7 +4321,6 @@
       "discipline": "Universal",
       "stat_hook": null,
       "notes": null,
-      "category": null,
       "owner": "Designer"
     },
     {
@@ -4510,7 +4339,6 @@
       "discipline": "Universal",
       "stat_hook": null,
       "notes": null,
-      "category": null,
       "owner": "Designer"
     },
     {
@@ -4527,7 +4355,6 @@
       "discipline": "Martial",
       "stat_hook": null,
       "notes": "Opponents’ weapons may be torn from their hands using this skill. A character must be armed with a melee or body weapon (or have Martial Arts Punch) to use this skill. The character makes an Atk roll vs the higher of the opponent’s Atk or Str rating. If the roll succeeds, the opponent is disarmed. Purchased at 3 levels.",
-      "category": "General",
       "owner": "Designer"
     },
     {
@@ -4546,7 +4373,6 @@
       "discipline": "Sorce",
       "stat_hook": null,
       "notes": null,
-      "category": null,
       "owner": "Designer"
     },
     {
@@ -4565,7 +4391,6 @@
       "discipline": "Universal",
       "stat_hook": null,
       "notes": null,
-      "category": null,
       "owner": "Designer"
     },
     {
@@ -4584,7 +4409,6 @@
       "discipline": "Martial",
       "stat_hook": null,
       "notes": null,
-      "category": null,
       "owner": "Designer"
     },
     {
@@ -4603,7 +4427,6 @@
       "discipline": "Sorce",
       "stat_hook": null,
       "notes": null,
-      "category": null,
       "owner": "Designer"
     },
     {
@@ -4622,7 +4445,6 @@
       "discipline": "Sorce",
       "stat_hook": null,
       "notes": null,
-      "category": null,
       "owner": "Designer"
     },
     {
@@ -4639,7 +4461,6 @@
       "discipline": "Sorce",
       "stat_hook": null,
       "notes": "Displace causes its user to vanish and reappear some distance away. The sorcist may select the direction and distance of the displacement up to a maximum number of squares equal to a skill roll. The sorcist does not move over the intervening distance, but simply disappears from one spot then appears in the other. Displacing through walls or into areas which the sorcist can’t view is dangerous as the sorcist may end up displaced into a solid object. If this occurs refer to RB, hazards.",
-      "category": "Discipline",
       "owner": "Designer"
     },
     {
@@ -4658,7 +4479,6 @@
       "discipline": "Sorce",
       "stat_hook": null,
       "notes": null,
-      "category": null,
       "owner": "Designer"
     },
     {
@@ -4675,7 +4495,6 @@
       "discipline": "Sorce",
       "stat_hook": null,
       "notes": "Displace group transports a group of individuals from one place to another. The sorcist may displace himself and up to a number of other individuals equal to his skill’s level. For each additional individual, the enhancement’s cost increases by two. Otherwise, this enhancement works as Displace, moving the group a number of squares up to the amount of a skill roll.",
-      "category": "Discipline",
       "owner": "Designer"
     },
     {
@@ -4694,7 +4513,6 @@
       "discipline": "Universal",
       "stat_hook": null,
       "notes": null,
-      "category": null,
       "owner": "Designer"
     },
     {
@@ -4713,7 +4531,6 @@
       "discipline": "Psionics",
       "stat_hook": null,
       "notes": null,
-      "category": null,
       "owner": "Designer"
     },
     {
@@ -4732,7 +4549,6 @@
       "discipline": "Sorce",
       "stat_hook": null,
       "notes": null,
-      "category": null,
       "owner": "Designer"
     },
     {
@@ -4749,7 +4565,6 @@
       "discipline": "Sorce",
       "stat_hook": null,
       "notes": "This enhancement allows the sorcist to instantly open or close a portal: doors, lids, etc., without physically touching them. The portal must be one which the sorcist could normally open without using this enhancement.",
-      "category": "Discipline",
       "owner": "Designer"
     },
     {
@@ -4766,7 +4581,6 @@
       "discipline": "Sorce",
       "stat_hook": null,
       "notes": "This enhancement will open or close any portal, regardless of size or how it is secured. The sorcist simply needs to succeed at a skill check vs the portal’s Dif (as set by the GM). This enhancement’s effects are instantaneous — even a complex portal will open immediately.",
-      "category": "Discipline",
       "owner": "Designer"
     },
     {
@@ -4785,7 +4599,6 @@
       "discipline": "Psionics",
       "stat_hook": null,
       "notes": null,
-      "category": null,
       "owner": "Designer"
     },
     {
@@ -4802,7 +4615,6 @@
       "discipline": "Martial",
       "stat_hook": null,
       "notes": "This enhancement allows a character to attack twice with one weapon in the same round as a complete action. Purchased at 3 levels: All eligible classes, One class (Body, Melee, or Ranged), or One specific weapon.",
-      "category": "General",
       "owner": "Designer"
     },
     {
@@ -4821,7 +4633,6 @@
       "discipline": "Universal",
       "stat_hook": null,
       "notes": null,
-      "category": null,
       "owner": "Designer"
     },
     {
@@ -4838,7 +4649,6 @@
       "discipline": "Mental",
       "stat_hook": null,
       "notes": "This enhancement represents an extraordinary reservoir of fortune. It allows the player to purchase extra luck boxes at half AP cost and grants a +3 bonus when spending luck points to permanently alter a crucial fail roll into a success (synthesized from Rule Book doubling mechanics).",
-      "category": "General",
       "owner": "Designer"
     },
     {
@@ -4857,7 +4667,6 @@
       "discipline": "Martial",
       "stat_hook": null,
       "notes": null,
-      "category": null,
       "owner": "Designer"
     },
     {
@@ -4876,7 +4685,6 @@
       "discipline": "Martial",
       "stat_hook": null,
       "notes": null,
-      "category": null,
       "owner": "Designer"
     },
     {
@@ -4893,7 +4701,6 @@
       "discipline": "Universal",
       "stat_hook": null,
       "notes": "Marital artists undergo intensive conditioning, honing their reflexes, physical power, and muscle memory. Activating this conditioning allows the wielder to roll with Advantage on Dexterity, Strength, Melee attacks, and Martial Arts maneuvers for the duration of the encounter.",
-      "category": "Class",
       "owner": "Designer"
     },
     {
@@ -4912,7 +4719,6 @@
       "discipline": "Universal",
       "stat_hook": null,
       "notes": null,
-      "category": null,
       "owner": "Designer"
     },
     {
@@ -4931,7 +4737,6 @@
       "discipline": "Universal",
       "stat_hook": null,
       "notes": null,
-      "category": null,
       "owner": "Designer"
     },
     {
@@ -4950,7 +4755,6 @@
       "discipline": "Universal",
       "stat_hook": null,
       "notes": null,
-      "category": null,
       "owner": "Designer"
     },
     {
@@ -4969,7 +4773,6 @@
       "discipline": "Universal",
       "stat_hook": null,
       "notes": null,
-      "category": null,
       "owner": "Designer"
     },
     {
@@ -4988,7 +4791,6 @@
       "discipline": "Psionics",
       "stat_hook": null,
       "notes": null,
-      "category": null,
       "owner": "Designer"
     },
     {
@@ -5007,7 +4809,6 @@
       "discipline": "Psionics",
       "stat_hook": null,
       "notes": null,
-      "category": null,
       "owner": "Designer"
     },
     {
@@ -5026,7 +4827,6 @@
       "discipline": "Psionics",
       "stat_hook": null,
       "notes": null,
-      "category": null,
       "owner": "Designer"
     },
     {
@@ -5045,7 +4845,6 @@
       "discipline": "Universal",
       "stat_hook": null,
       "notes": null,
-      "category": null,
       "owner": "Designer"
     },
     {
@@ -5064,7 +4863,6 @@
       "discipline": "Universal",
       "stat_hook": null,
       "notes": null,
-      "category": null,
       "owner": "Designer"
     },
     {
@@ -5083,7 +4881,6 @@
       "discipline": "Universal",
       "stat_hook": null,
       "notes": null,
-      "category": null,
       "owner": "Designer"
     },
     {
@@ -5102,7 +4899,6 @@
       "discipline": "Martial",
       "stat_hook": null,
       "notes": null,
-      "category": null,
       "owner": "Designer"
     },
     {
@@ -5121,7 +4917,6 @@
       "discipline": "Martial",
       "stat_hook": null,
       "notes": null,
-      "category": null,
       "owner": "Designer"
     },
     {
@@ -5140,7 +4935,6 @@
       "discipline": "Sorce",
       "stat_hook": null,
       "notes": null,
-      "category": null,
       "owner": "Designer"
     },
     {
@@ -5159,7 +4953,6 @@
       "discipline": "Martial",
       "stat_hook": null,
       "notes": null,
-      "category": null,
       "owner": "Designer"
     },
     {
@@ -5178,7 +4971,6 @@
       "discipline": "Universal",
       "stat_hook": null,
       "notes": null,
-      "category": null,
       "owner": "Designer"
     },
     {
@@ -5197,7 +4989,6 @@
       "discipline": "Universal",
       "stat_hook": null,
       "notes": null,
-      "category": null,
       "owner": "Designer"
     },
     {
@@ -5216,7 +5007,6 @@
       "discipline": "Universal",
       "stat_hook": null,
       "notes": null,
-      "category": null,
       "owner": "Designer"
     },
     {
@@ -5235,7 +5025,6 @@
       "discipline": "Universal",
       "stat_hook": null,
       "notes": null,
-      "category": null,
       "owner": "Designer"
     },
     {
@@ -5254,7 +5043,6 @@
       "discipline": "Somatics",
       "stat_hook": null,
       "notes": null,
-      "category": null,
       "owner": "Designer"
     },
     {
@@ -5271,7 +5059,6 @@
       "discipline": "Somatics",
       "stat_hook": null,
       "notes": "This power allows the psychosomaticist to deliver a powerful electric charge, when his hand strikes an opponent. This power may be used after the psychosomaticist has made a damaging attack. This enhancement inflicts additional damage equal to the skill’s level. By expending more than one power point, the psychosomaticist may channel multiple doses of damage into the opponent — however, the player must state the number of doses initially and it can’t be changed.",
-      "category": "Discipline",
       "owner": "Designer"
     },
     {
@@ -5290,7 +5077,6 @@
       "discipline": "Universal",
       "stat_hook": null,
       "notes": null,
-      "category": null,
       "owner": "Designer"
     },
     {
@@ -5309,7 +5095,6 @@
       "discipline": "Sorce",
       "stat_hook": null,
       "notes": null,
-      "category": null,
       "owner": "Designer"
     },
     {
@@ -5328,7 +5113,6 @@
       "discipline": "Universal",
       "stat_hook": null,
       "notes": null,
-      "category": null,
       "owner": "Designer"
     },
     {
@@ -5347,7 +5131,6 @@
       "discipline": "Psionics",
       "stat_hook": null,
       "notes": null,
-      "category": null,
       "owner": "Designer"
     },
     {
@@ -5365,7 +5148,6 @@
       "discipline": "Universal",
       "stat_hook": null,
       "notes": null,
-      "category": null,
       "owner": "Designer"
     },
     {
@@ -5384,7 +5166,6 @@
       "discipline": "Psionics",
       "stat_hook": null,
       "notes": null,
-      "category": null,
       "owner": "Designer"
     },
     {
@@ -5401,7 +5182,6 @@
       "discipline": "Psionics",
       "stat_hook": null,
       "notes": "Erects a translucent cubic cage of solid psionic force around a target, anchoring them in place and shielding them from outside interference until breached from within.",
-      "category": "Discipline",
       "owner": "Designer"
     },
     {
@@ -5420,7 +5200,6 @@
       "discipline": "Sorce",
       "stat_hook": null,
       "notes": null,
-      "category": null,
       "owner": "Designer"
     },
     {
@@ -5437,7 +5216,6 @@
       "discipline": "Sorce",
       "stat_hook": null,
       "notes": "This allows a sorcist to fire a bolt of blaster-like energy from his hand. Damage and attack are both equal to the sorcist’s skill rating. Moreover, only one roll is made and counted as both the Atk roll and the Dmg roll. The bolt completely bypasses Sorce fields.",
-      "category": "Discipline",
       "owner": "Designer"
     },
     {
@@ -5454,7 +5232,6 @@
       "discipline": "Mental",
       "stat_hook": null,
       "notes": "This enhancement provides a highly sensitive auditory system. The character may make enhanced rolls (+3 or normal rolls where others must make related rolls) for any hearing attempt.",
-      "category": "General",
       "owner": "Designer"
     },
     {
@@ -5471,7 +5248,6 @@
       "discipline": "Physical",
       "stat_hook": null,
       "notes": "The character may make enhanced rolls (+3) for any attempt to jump. This dramatically increases both horizontal leaping distance and vertical height, reducing any penalties for short run-ups.",
-      "category": "General",
       "owner": "Designer"
     },
     {
@@ -5490,7 +5266,6 @@
       "discipline": "Universal",
       "stat_hook": null,
       "notes": null,
-      "category": null,
       "owner": "Designer"
     },
     {
@@ -5507,7 +5282,6 @@
       "discipline": "Mental",
       "stat_hook": null,
       "notes": "The character's olfactory nerves are exceptionally sensitive. The character may make enhanced rolls (+3) for any attempt to smell toxins, tracking scents, or chemical compounds.",
-      "category": "General",
       "owner": "Designer"
     },
     {
@@ -5524,7 +5298,6 @@
       "discipline": "Mental",
       "stat_hook": null,
       "notes": "The character's taste buds are highly refined, allowing them to make enhanced rolls (+3) to detect subtle poisons, spoiled rations, or chemical additives in food or drink.",
-      "category": "General",
       "owner": "Designer"
     },
     {
@@ -5541,7 +5314,6 @@
       "discipline": "Mental",
       "stat_hook": null,
       "notes": "The character's tactile sensitivity is outstanding. They make enhanced rolls (+3) for any attempt to touch or feel subtle textures, hidden panel seams, micro-vibrations, or microscopic fractures.",
-      "category": "General",
       "owner": "Designer"
     },
     {
@@ -5558,7 +5330,6 @@
       "discipline": "Tech",
       "stat_hook": null,
       "notes": "This enhancement is intended to allow a character to use a single equipment item which has too high a Tech, Cyber, or BioT requirement. A character selectively increases their science rating to the minimum required for that specific item only.",
-      "category": "General",
       "owner": "Designer"
     },
     {
@@ -5575,7 +5346,6 @@
       "discipline": "Mental",
       "stat_hook": null,
       "notes": "The character's visual acuity is superhuman. They make enhanced rolls (+3) for any visual attempt, including spotting hidden details, scanning distant Horizons, or reading micro-text.",
-      "category": "General",
       "owner": "Designer"
     },
     {
@@ -5592,7 +5362,6 @@
       "discipline": "Universal",
       "stat_hook": null,
       "notes": null,
-      "category": null,
       "owner": "Designer"
     },
     {
@@ -5611,7 +5380,6 @@
       "discipline": "Martial",
       "stat_hook": null,
       "notes": null,
-      "category": null,
       "owner": "Designer"
     },
     {
@@ -5630,7 +5398,6 @@
       "discipline": "Universal",
       "stat_hook": null,
       "notes": null,
-      "category": null,
       "owner": "Designer"
     },
     {
@@ -5649,7 +5416,6 @@
       "discipline": "Universal",
       "stat_hook": null,
       "notes": null,
-      "category": null,
       "owner": "Designer"
     },
     {
@@ -5666,7 +5432,6 @@
       "discipline": "Physical",
       "stat_hook": null,
       "notes": "This enhancement allows the character to make running and sprinting rolls at a +3 bonus, significantly increasing their tactical mobility across hazardous terrain.",
-      "category": "General",
       "owner": "Designer"
     },
     {
@@ -5685,7 +5450,6 @@
       "discipline": "Universal",
       "stat_hook": null,
       "notes": null,
-      "category": null,
       "owner": "Designer"
     },
     {
@@ -5702,7 +5466,6 @@
       "discipline": "Mental",
       "stat_hook": null,
       "notes": "This useful enhancement simply allows a player to spend two luck boxes on a single task, instead of one. Using this enhancement a character may, for example, expend a luck before rolling to gain a +3 bonus, and then reroll the result (spending another luck) if it is not satisfactory. The only penalty is using up luck faster.",
-      "category": "General",
       "owner": "Designer"
     },
     {
@@ -5721,7 +5484,6 @@
       "discipline": "Universal",
       "stat_hook": null,
       "notes": null,
-      "category": null,
       "owner": "Designer"
     },
     {
@@ -5738,7 +5500,6 @@
       "discipline": "Social",
       "stat_hook": null,
       "notes": "Characters with this enhancement are celebrities (holovid stars, military heroes, authors). They gain enhanced Cha rolls when dealing with anyone who knows of them, and receive favored treatment from officials. Disadvantage: easily recognized, making covert operations extremely difficult without a disguise.",
-      "category": "General",
       "owner": "Designer"
     },
     {
@@ -5755,7 +5516,6 @@
       "discipline": "Physical",
       "stat_hook": null,
       "notes": "Individuals with this enhancement possess an accelerated metabolic recovery rate. They may make with disadvantage healing checks to recover wounds every two hours instead of the standard four hours.",
-      "category": "General",
       "owner": "Designer"
     },
     {
@@ -5772,7 +5532,6 @@
       "discipline": "Mental",
       "stat_hook": null,
       "notes": "Fearless characters may make enhanced checks versus fear. They receive a +3 bonus on Will Power rolls to resist fear effects (scared, fearful, terror). Note that normal Shock rolls are not considered fear.",
-      "category": "General",
       "owner": "Designer"
     },
     {
@@ -5791,7 +5550,6 @@
       "discipline": "Universal",
       "stat_hook": null,
       "notes": null,
-      "category": null,
       "owner": "Designer"
     },
     {
@@ -5810,7 +5568,6 @@
       "discipline": "Universal",
       "stat_hook": null,
       "notes": null,
-      "category": null,
       "owner": "Designer"
     },
     {
@@ -5829,7 +5586,6 @@
       "discipline": "Universal",
       "stat_hook": null,
       "notes": null,
-      "category": null,
       "owner": "Designer"
     },
     {
@@ -5848,7 +5604,6 @@
       "discipline": "Universal",
       "stat_hook": null,
       "notes": null,
-      "category": null,
       "owner": "Designer"
     },
     {
@@ -5867,7 +5622,6 @@
       "discipline": "Universal",
       "stat_hook": null,
       "notes": null,
-      "category": null,
       "owner": "Designer"
     },
     {
@@ -5886,7 +5640,6 @@
       "discipline": "Universal",
       "stat_hook": null,
       "notes": null,
-      "category": null,
       "owner": "Designer"
     },
     {
@@ -5905,7 +5658,6 @@
       "discipline": "Universal",
       "stat_hook": null,
       "notes": null,
-      "category": null,
       "owner": "Designer"
     },
     {
@@ -5924,7 +5676,6 @@
       "discipline": "Universal",
       "stat_hook": null,
       "notes": null,
-      "category": null,
       "owner": "Designer"
     },
     {
@@ -5943,7 +5694,6 @@
       "discipline": "Universal",
       "stat_hook": null,
       "notes": null,
-      "category": null,
       "owner": "Designer"
     },
     {
@@ -5962,7 +5712,6 @@
       "discipline": "Psionics",
       "stat_hook": null,
       "notes": null,
-      "category": null,
       "owner": "Designer"
     },
     {
@@ -5981,7 +5730,6 @@
       "discipline": "Universal",
       "stat_hook": null,
       "notes": null,
-      "category": null,
       "owner": "Designer"
     },
     {
@@ -6000,7 +5748,6 @@
       "discipline": "Universal",
       "stat_hook": null,
       "notes": null,
-      "category": null,
       "owner": "Designer"
     },
     {
@@ -6019,7 +5766,6 @@
       "discipline": "Sorce",
       "stat_hook": null,
       "notes": null,
-      "category": null,
       "owner": "Designer"
     },
     {
@@ -6038,7 +5784,6 @@
       "discipline": "Sorce",
       "stat_hook": null,
       "notes": null,
-      "category": null,
       "owner": "Designer"
     },
     {
@@ -6056,7 +5801,6 @@
       "discipline": "Universal",
       "stat_hook": null,
       "notes": null,
-      "category": null,
       "owner": "Designer"
     },
     {
@@ -6075,7 +5819,6 @@
       "discipline": "Universal",
       "stat_hook": null,
       "notes": null,
-      "category": null,
       "owner": "Designer"
     },
     {
@@ -6094,7 +5837,6 @@
       "discipline": "Universal",
       "stat_hook": null,
       "notes": null,
-      "category": null,
       "owner": "Designer"
     },
     {
@@ -6113,7 +5855,6 @@
       "discipline": "Sorce",
       "stat_hook": null,
       "notes": null,
-      "category": null,
       "owner": "Designer"
     },
     {
@@ -6132,7 +5873,6 @@
       "discipline": "Universal",
       "stat_hook": null,
       "notes": null,
-      "category": null,
       "owner": "Designer"
     },
     {
@@ -6151,7 +5891,6 @@
       "discipline": "Universal",
       "stat_hook": null,
       "notes": null,
-      "category": null,
       "owner": "Designer"
     },
     {
@@ -6170,7 +5909,6 @@
       "discipline": "Universal",
       "stat_hook": null,
       "notes": null,
-      "category": null,
       "owner": "Designer"
     },
     {
@@ -6189,7 +5927,6 @@
       "discipline": "Universal",
       "stat_hook": null,
       "notes": null,
-      "category": null,
       "owner": "Designer"
     },
     {
@@ -6208,7 +5945,6 @@
       "discipline": "Martial",
       "stat_hook": null,
       "notes": null,
-      "category": null,
       "owner": "Designer"
     },
     {
@@ -6227,7 +5963,6 @@
       "discipline": "Martial",
       "stat_hook": null,
       "notes": null,
-      "category": null,
       "owner": "Designer"
     },
     {
@@ -6246,7 +5981,6 @@
       "discipline": "Universal",
       "stat_hook": null,
       "notes": null,
-      "category": null,
       "owner": "Designer"
     },
     {
@@ -6265,7 +5999,6 @@
       "discipline": "Universal",
       "stat_hook": null,
       "notes": null,
-      "category": null,
       "owner": "Designer"
     },
     {
@@ -6284,7 +6017,6 @@
       "discipline": "Martial",
       "stat_hook": null,
       "notes": null,
-      "category": null,
       "owner": "Designer"
     },
     {
@@ -6303,7 +6035,6 @@
       "discipline": "Psionics",
       "stat_hook": null,
       "notes": null,
-      "category": null,
       "owner": "Designer"
     },
     {
@@ -6322,7 +6053,6 @@
       "discipline": "Sorce",
       "stat_hook": null,
       "notes": null,
-      "category": null,
       "owner": "Designer"
     },
     {
@@ -6341,7 +6071,6 @@
       "discipline": "Universal",
       "stat_hook": null,
       "notes": null,
-      "category": null,
       "owner": "Designer"
     },
     {
@@ -6360,7 +6089,6 @@
       "discipline": "Universal",
       "stat_hook": null,
       "notes": null,
-      "category": null,
       "owner": "Designer"
     },
     {
@@ -6379,7 +6107,6 @@
       "discipline": "Universal",
       "stat_hook": null,
       "notes": null,
-      "category": null,
       "owner": "Designer"
     },
     {
@@ -6398,7 +6125,6 @@
       "discipline": "Universal",
       "stat_hook": null,
       "notes": null,
-      "category": null,
       "owner": "Designer"
     },
     {
@@ -6417,7 +6143,6 @@
       "discipline": "Universal",
       "stat_hook": null,
       "notes": null,
-      "category": null,
       "owner": "Designer"
     },
     {
@@ -6436,7 +6161,6 @@
       "discipline": "Sorce",
       "stat_hook": null,
       "notes": null,
-      "category": null,
       "owner": "Designer"
     },
     {
@@ -6455,7 +6179,6 @@
       "discipline": "Universal",
       "stat_hook": null,
       "notes": null,
-      "category": null,
       "owner": "Designer"
     },
     {
@@ -6474,7 +6197,6 @@
       "discipline": "Universal",
       "stat_hook": null,
       "notes": null,
-      "category": null,
       "owner": "Designer"
     },
     {
@@ -6493,7 +6215,6 @@
       "discipline": "Universal",
       "stat_hook": null,
       "notes": null,
-      "category": null,
       "owner": "Designer"
     },
     {
@@ -6512,7 +6233,6 @@
       "discipline": "Psionics",
       "stat_hook": null,
       "notes": null,
-      "category": null,
       "owner": "Designer"
     },
     {
@@ -6531,7 +6251,6 @@
       "discipline": "Universal",
       "stat_hook": null,
       "notes": null,
-      "category": null,
       "owner": "Designer"
     },
     {
@@ -6550,7 +6269,6 @@
       "discipline": "Universal",
       "stat_hook": null,
       "notes": null,
-      "category": null,
       "owner": "Designer"
     },
     {
@@ -6569,7 +6287,6 @@
       "discipline": "Sorce",
       "stat_hook": null,
       "notes": null,
-      "category": null,
       "owner": "Designer"
     },
     {
@@ -6586,7 +6303,6 @@
       "discipline": "Sorce",
       "stat_hook": null,
       "notes": "Shifts the sorcist and carried gear into an ethereal border dimension, allowing them to pass freely through solid walls, bulkheads, and living beings while appearing as a dim, transparent phantom.",
-      "category": "Discipline",
       "owner": "Designer"
     },
     {
@@ -6605,7 +6321,6 @@
       "discipline": "Universal",
       "stat_hook": null,
       "notes": null,
-      "category": null,
       "owner": "Designer"
     },
     {
@@ -6624,7 +6339,6 @@
       "discipline": "Psionics",
       "stat_hook": null,
       "notes": null,
-      "category": null,
       "owner": "Designer"
     },
     {
@@ -6643,7 +6357,6 @@
       "discipline": "Universal",
       "stat_hook": null,
       "notes": null,
-      "category": null,
       "owner": "Designer"
     },
     {
@@ -6662,7 +6375,6 @@
       "discipline": "Psionics",
       "stat_hook": null,
       "notes": null,
-      "category": null,
       "owner": "Designer"
     },
     {
@@ -6681,7 +6393,6 @@
       "discipline": "Universal",
       "stat_hook": null,
       "notes": null,
-      "category": null,
       "owner": "Designer"
     },
     {
@@ -6700,7 +6411,6 @@
       "discipline": "Universal",
       "stat_hook": null,
       "notes": null,
-      "category": null,
       "owner": "Designer"
     },
     {
@@ -6719,7 +6429,6 @@
       "discipline": "Sorce",
       "stat_hook": null,
       "notes": null,
-      "category": null,
       "owner": "Designer"
     },
     {
@@ -6736,7 +6445,6 @@
       "discipline": "Sorce",
       "stat_hook": null,
       "notes": "Glow globe creates a soft, white light source which illuminates a radius equal to the sorcist’s skill value in squares. Each hour the radius shrinks by one square until gone. The globe is a sphere the size of a marble. Normally stationary, it may be attached to an object, moving with it as the sorcist desires. Unwilling subjects (i.e., opponents) require a successful punch Atk roll.",
-      "category": "Discipline",
       "owner": "Designer"
     },
     {
@@ -6755,7 +6463,6 @@
       "discipline": "Universal",
       "stat_hook": null,
       "notes": null,
-      "category": null,
       "owner": "Designer"
     },
     {
@@ -6774,7 +6481,6 @@
       "discipline": "Universal",
       "stat_hook": null,
       "notes": null,
-      "category": null,
       "owner": "Designer"
     },
     {
@@ -6793,7 +6499,6 @@
       "discipline": "Universal",
       "stat_hook": null,
       "notes": null,
-      "category": null,
       "owner": "Designer"
     },
     {
@@ -6812,7 +6517,6 @@
       "discipline": "Sorce",
       "stat_hook": null,
       "notes": null,
-      "category": null,
       "owner": "Designer"
     },
     {
@@ -6831,7 +6535,6 @@
       "discipline": "Psionics",
       "stat_hook": null,
       "notes": null,
-      "category": null,
       "owner": "Designer"
     },
     {
@@ -6850,7 +6553,6 @@
       "discipline": "Universal",
       "stat_hook": null,
       "notes": null,
-      "category": null,
       "owner": "Designer"
     },
     {
@@ -6868,7 +6570,6 @@
       "discipline": "Universal",
       "stat_hook": null,
       "notes": null,
-      "category": null,
       "owner": "Designer"
     },
     {
@@ -6887,7 +6588,6 @@
       "discipline": "Universal",
       "stat_hook": null,
       "notes": null,
-      "category": null,
       "owner": "Designer"
     },
     {
@@ -6906,7 +6606,6 @@
       "discipline": "Universal",
       "stat_hook": null,
       "notes": null,
-      "category": null,
       "owner": "Designer"
     },
     {
@@ -6925,7 +6624,6 @@
       "discipline": "Universal",
       "stat_hook": null,
       "notes": null,
-      "category": null,
       "owner": "Designer"
     },
     {
@@ -6944,7 +6642,6 @@
       "discipline": "Universal",
       "stat_hook": null,
       "notes": null,
-      "category": null,
       "owner": "Designer"
     },
     {
@@ -6963,7 +6660,6 @@
       "discipline": "Psionics",
       "stat_hook": null,
       "notes": null,
-      "category": null,
       "owner": "Designer"
     },
     {
@@ -6980,7 +6676,6 @@
       "discipline": "Psionics",
       "stat_hook": null,
       "notes": "Using this enhancement, the psionicist causes an individual to see an image that is not really there. The psionicist must roll skill vs the targets’ WP in order to succeed. The images created must be described to the GM, who then determines the effects.",
-      "category": "Discipline",
       "owner": "Designer"
     },
     {
@@ -6999,7 +6694,6 @@
       "discipline": "Martial",
       "stat_hook": null,
       "notes": null,
-      "category": null,
       "owner": "Designer"
     },
     {
@@ -7018,7 +6712,6 @@
       "discipline": "Universal",
       "stat_hook": null,
       "notes": null,
-      "category": null,
       "owner": "Designer"
     },
     {
@@ -7037,7 +6730,6 @@
       "discipline": "Psionics",
       "stat_hook": null,
       "notes": null,
-      "category": null,
       "owner": "Designer"
     },
     {
@@ -7054,7 +6746,6 @@
       "discipline": "Psionics",
       "stat_hook": null,
       "notes": "Haze creates an eerie, psychic fog in the mind of a victim. Victims are unable to see or think clearly — all skill rolls, attacks, etc., are made at a -3 penalty for the duration of the haze. The haze exists only in the victim’s mind, and is not visible to others. To succeed, the psionicist must roll skill vs the target’s WP.",
-      "category": "Discipline",
       "owner": "Designer"
     },
     {
@@ -7071,7 +6762,6 @@
       "discipline": "Sorce",
       "stat_hook": null,
       "notes": "Heal all will cure all of the damage that an individual has if the sorcist succeeds at the enhancement. Unlike most enhancements, however, the cost of heal all exactly matches the victim’s current damage (i.e., the cost will vary from use to use). If the roll fails (and additional power points aren’t spent to make it succeed), then no damage is healed. This power may only be used on living subjects, including the sorcist.",
-      "category": "Discipline",
       "owner": "Designer"
     },
     {
@@ -7088,7 +6778,6 @@
       "discipline": "Sorce",
       "stat_hook": null,
       "notes": "This enhancement will heal a number of vitality points equal to the sorcist’s skill roll. Healing can only be used on living subjects, including the sorcist.",
-      "category": "Discipline",
       "owner": "Designer"
     },
     {
@@ -7107,7 +6796,6 @@
       "discipline": "Universal",
       "stat_hook": null,
       "notes": null,
-      "category": null,
       "owner": "Designer"
     },
     {
@@ -7126,7 +6814,6 @@
       "discipline": "Universal",
       "stat_hook": null,
       "notes": null,
-      "category": null,
       "owner": "Designer"
     },
     {
@@ -7145,7 +6832,6 @@
       "discipline": "Universal",
       "stat_hook": null,
       "notes": null,
-      "category": null,
       "owner": "Designer"
     },
     {
@@ -7164,7 +6850,6 @@
       "discipline": "Universal",
       "stat_hook": null,
       "notes": null,
-      "category": null,
       "owner": "Designer"
     },
     {
@@ -7183,7 +6868,6 @@
       "discipline": "Universal",
       "stat_hook": null,
       "notes": null,
-      "category": null,
       "owner": "Designer"
     },
     {
@@ -7202,7 +6886,6 @@
       "discipline": "Somatics",
       "stat_hook": null,
       "notes": null,
-      "category": null,
       "owner": "Designer"
     },
     {
@@ -7219,7 +6902,6 @@
       "discipline": "Somatics",
       "stat_hook": null,
       "notes": "This discipline makes the psychosomaticist’s skin more sensitive to vibrations in the air, greatly enhancing hearing. Hearing boost allows the psychosomaticist to make his or her hearing-based 👁️ Perception check at +1.",
-      "category": "Discipline",
       "owner": "Designer"
     },
     {
@@ -7238,7 +6920,6 @@
       "discipline": "Universal",
       "stat_hook": null,
       "notes": null,
-      "category": null,
       "owner": "Designer"
     },
     {
@@ -7257,7 +6938,6 @@
       "discipline": "Universal",
       "stat_hook": null,
       "notes": null,
-      "category": null,
       "owner": "Designer"
     },
     {
@@ -7276,7 +6956,6 @@
       "discipline": "Universal",
       "stat_hook": null,
       "notes": null,
-      "category": null,
       "owner": "Designer"
     },
     {
@@ -7295,7 +6974,6 @@
       "discipline": "Universal",
       "stat_hook": null,
       "notes": null,
-      "category": null,
       "owner": "Designer"
     },
     {
@@ -7314,7 +6992,6 @@
       "discipline": "Universal",
       "stat_hook": null,
       "notes": null,
-      "category": null,
       "owner": "Designer"
     },
     {
@@ -7333,7 +7010,6 @@
       "discipline": "Universal",
       "stat_hook": null,
       "notes": null,
-      "category": null,
       "owner": "Designer"
     },
     {
@@ -7352,7 +7028,6 @@
       "discipline": "Universal",
       "stat_hook": null,
       "notes": null,
-      "category": null,
       "owner": "Designer"
     },
     {
@@ -7369,7 +7044,6 @@
       "discipline": "Physical",
       "stat_hook": null,
       "notes": "This powerful biological enhancement allows a character’s critical wounds to accumulate up to 15 points (instead of the standard 10) before mandatory death checks are triggered, allowing them to survive devastating damage.",
-      "category": "General",
       "owner": "Designer"
     },
     {
@@ -7387,7 +7061,6 @@
       "discipline": "Universal",
       "stat_hook": null,
       "notes": null,
-      "category": null,
       "owner": "Designer"
     },
     {
@@ -7404,7 +7077,6 @@
       "discipline": "Universal",
       "stat_hook": null,
       "notes": null,
-      "category": null,
       "owner": "Designer"
     },
     {
@@ -7421,7 +7093,6 @@
       "discipline": "Universal",
       "stat_hook": null,
       "notes": null,
-      "category": null,
       "owner": "Designer"
     },
     {
@@ -7440,7 +7111,6 @@
       "discipline": "Universal",
       "stat_hook": null,
       "notes": null,
-      "category": null,
       "owner": "Designer"
     },
     {
@@ -7459,7 +7129,6 @@
       "discipline": "Universal",
       "stat_hook": null,
       "notes": null,
-      "category": null,
       "owner": "Designer"
     },
     {
@@ -7478,7 +7147,6 @@
       "discipline": "Universal",
       "stat_hook": null,
       "notes": null,
-      "category": null,
       "owner": "Designer"
     },
     {
@@ -7497,7 +7165,6 @@
       "discipline": "Psionics",
       "stat_hook": null,
       "notes": null,
-      "category": null,
       "owner": "Designer"
     },
     {
@@ -7514,7 +7181,6 @@
       "discipline": "Psionics",
       "stat_hook": null,
       "notes": "Focuses mental momentum behind a thrown weapon, hurling it with psychic velocity without physical muscle effort.",
-      "category": "Discipline",
       "owner": "Designer"
     },
     {
@@ -7533,7 +7199,6 @@
       "discipline": "Universal",
       "stat_hook": null,
       "notes": null,
-      "category": null,
       "owner": "Designer"
     },
     {
@@ -7552,7 +7217,6 @@
       "discipline": "Psionics",
       "stat_hook": null,
       "notes": null,
-      "category": null,
       "owner": "Designer"
     },
     {
@@ -7571,7 +7235,6 @@
       "discipline": "Universal",
       "stat_hook": null,
       "notes": null,
-      "category": null,
       "owner": "Designer"
     },
     {
@@ -7590,7 +7253,6 @@
       "discipline": "Universal",
       "stat_hook": null,
       "notes": null,
-      "category": null,
       "owner": "Designer"
     },
     {
@@ -7609,7 +7271,6 @@
       "discipline": "Psionics",
       "stat_hook": null,
       "notes": null,
-      "category": null,
       "owner": "Designer"
     },
     {
@@ -7628,7 +7289,6 @@
       "discipline": "Psionics",
       "stat_hook": null,
       "notes": null,
-      "category": null,
       "owner": "Designer"
     },
     {
@@ -7647,7 +7307,6 @@
       "discipline": "Sorce",
       "stat_hook": null,
       "notes": null,
-      "category": null,
       "owner": "Designer"
     },
     {
@@ -7664,7 +7323,6 @@
       "discipline": "Sorce",
       "stat_hook": null,
       "notes": "The sorcist bonds molecularly with the ground beneath their feet, becoming an immovable pillar of stone-like fortitude that resists even midair displacement if the ground beneath is sheared away.",
-      "category": "Discipline",
       "owner": "Designer"
     },
     {
@@ -7681,7 +7339,6 @@
       "discipline": "Martial",
       "stat_hook": null,
       "notes": "Characters with hurled weapons, bows, etc., may use this to pin an opponent against a wall or other solid obstruction. The target must be within one square of a suitable obstruction. Wounds are calculated normally; if wounds result, the opponent is pinned with a Dif equal to twice the wounding damage (Str is used to break free).",
-      "category": "General",
       "owner": "Designer"
     },
     {
@@ -7698,7 +7355,6 @@
       "discipline": "Mental",
       "stat_hook": null,
       "notes": "Characters with this enhancement increase their peripheral vision. Those races which begin with a 90-degree field of vision are increased to 180 degrees, those with 180 are increased to 270, and those with 270 are increased to a full 360 degrees, eliminating blind spots.",
-      "category": "General",
       "owner": "Designer"
     },
     {
@@ -7717,7 +7373,6 @@
       "discipline": "Universal",
       "stat_hook": null,
       "notes": null,
-      "category": null,
       "owner": "Designer"
     },
     {
@@ -7736,7 +7391,6 @@
       "discipline": "Universal",
       "stat_hook": null,
       "notes": null,
-      "category": null,
       "owner": "Designer"
     },
     {
@@ -7754,7 +7408,6 @@
       "discipline": "Universal",
       "stat_hook": null,
       "notes": null,
-      "category": null,
       "owner": "Designer"
     },
     {
@@ -7773,7 +7426,6 @@
       "discipline": "Martial",
       "stat_hook": null,
       "notes": null,
-      "category": null,
       "owner": "Designer"
     },
     {
@@ -7792,7 +7444,6 @@
       "discipline": "Universal",
       "stat_hook": null,
       "notes": null,
-      "category": null,
       "owner": "Designer"
     },
     {
@@ -7811,7 +7462,6 @@
       "discipline": "Universal",
       "stat_hook": null,
       "notes": null,
-      "category": null,
       "owner": "Designer"
     },
     {
@@ -7830,7 +7480,6 @@
       "discipline": "Universal",
       "stat_hook": null,
       "notes": null,
-      "category": null,
       "owner": "Designer"
     },
     {
@@ -7849,7 +7498,6 @@
       "discipline": "Universal",
       "stat_hook": null,
       "notes": null,
-      "category": null,
       "owner": "Designer"
     },
     {
@@ -7866,7 +7514,6 @@
       "discipline": "Universal",
       "stat_hook": null,
       "notes": null,
-      "category": null,
       "owner": "Designer"
     },
     {
@@ -7885,7 +7532,6 @@
       "discipline": "Psionics",
       "stat_hook": null,
       "notes": null,
-      "category": null,
       "owner": "Designer"
     },
     {
@@ -7904,7 +7550,6 @@
       "discipline": "Universal",
       "stat_hook": null,
       "notes": null,
-      "category": null,
       "owner": "Designer"
     },
     {
@@ -7923,7 +7568,6 @@
       "discipline": "Universal",
       "stat_hook": null,
       "notes": null,
-      "category": null,
       "owner": "Designer"
     },
     {
@@ -7942,7 +7586,6 @@
       "discipline": "Universal",
       "stat_hook": null,
       "notes": null,
-      "category": null,
       "owner": "Designer"
     },
     {
@@ -7961,7 +7604,6 @@
       "discipline": "Universal",
       "stat_hook": null,
       "notes": null,
-      "category": null,
       "owner": "Designer"
     },
     {
@@ -7980,7 +7622,6 @@
       "discipline": "Universal",
       "stat_hook": null,
       "notes": null,
-      "category": null,
       "owner": "Designer"
     },
     {
@@ -7999,7 +7640,6 @@
       "discipline": "Universal",
       "stat_hook": null,
       "notes": null,
-      "category": null,
       "owner": "Designer"
     },
     {
@@ -8016,7 +7656,6 @@
       "discipline": "Somatics",
       "stat_hook": null,
       "notes": "Psychosomaticists may use this enhancement to temporarily transform their flesh into iron-hard, near-impenetrable tissue. Iron skin grants a +3 bonus to AR (regardless of armor worn), and lasts a number of rounds equal the skill’s level. This can not be used in conjunction with rough or tough skin, and is considered gone if the user is rendered unconscious.",
-      "category": "Discipline",
       "owner": "Designer"
     },
     {
@@ -8035,7 +7674,6 @@
       "discipline": "Universal",
       "stat_hook": null,
       "notes": null,
-      "category": null,
       "owner": "Designer"
     },
     {
@@ -8054,7 +7692,6 @@
       "discipline": "Universal",
       "stat_hook": null,
       "notes": null,
-      "category": null,
       "owner": "Designer"
     },
     {
@@ -8073,7 +7710,6 @@
       "discipline": "Psionics",
       "stat_hook": null,
       "notes": null,
-      "category": null,
       "owner": "Designer"
     },
     {
@@ -8090,7 +7726,6 @@
       "discipline": "Psionics",
       "stat_hook": null,
       "notes": "Violently grips a target object with telekinetic force, wrenching it from an opponent's grasp and hurling it through the air in a straight trajectory.",
-      "category": "Discipline",
       "owner": "Designer"
     },
     {
@@ -8109,7 +7744,6 @@
       "discipline": "Universal",
       "stat_hook": null,
       "notes": null,
-      "category": null,
       "owner": "Designer"
     },
     {
@@ -8128,7 +7762,6 @@
       "discipline": "Somatics",
       "stat_hook": null,
       "notes": null,
-      "category": null,
       "owner": "Designer"
     },
     {
@@ -8145,7 +7778,6 @@
       "discipline": "Somatics",
       "stat_hook": null,
       "notes": "This enhancement gives the psychosomaticist greatly enhanced jumping and leaping abilities. The effect is to add +3 to Spe when a character is making a jump.",
-      "category": "Discipline",
       "owner": "Designer"
     },
     {
@@ -8164,7 +7796,6 @@
       "discipline": "Psionics",
       "stat_hook": null,
       "notes": null,
-      "category": null,
       "owner": "Designer"
     },
     {
@@ -8183,7 +7814,6 @@
       "discipline": "Universal",
       "stat_hook": null,
       "notes": null,
-      "category": null,
       "owner": "Designer"
     },
     {
@@ -8202,7 +7832,6 @@
       "discipline": "Universal",
       "stat_hook": null,
       "notes": null,
-      "category": null,
       "owner": "Designer"
     },
     {
@@ -8221,7 +7850,6 @@
       "discipline": "Universal",
       "stat_hook": null,
       "notes": null,
-      "category": null,
       "owner": "Designer"
     },
     {
@@ -8240,7 +7868,6 @@
       "discipline": "Universal",
       "stat_hook": null,
       "notes": null,
-      "category": null,
       "owner": "Designer"
     },
     {
@@ -8259,7 +7886,6 @@
       "discipline": "Universal",
       "stat_hook": null,
       "notes": null,
-      "category": null,
       "owner": "Designer"
     },
     {
@@ -8278,7 +7904,6 @@
       "discipline": "Universal",
       "stat_hook": null,
       "notes": null,
-      "category": null,
       "owner": "Designer"
     },
     {
@@ -8297,7 +7922,6 @@
       "discipline": "Universal",
       "stat_hook": null,
       "notes": null,
-      "category": null,
       "owner": "Designer"
     },
     {
@@ -8316,7 +7940,6 @@
       "discipline": "Universal",
       "stat_hook": null,
       "notes": null,
-      "category": null,
       "owner": "Designer"
     },
     {
@@ -8335,7 +7958,6 @@
       "discipline": "Psionics",
       "stat_hook": null,
       "notes": null,
-      "category": null,
       "owner": "Designer"
     },
     {
@@ -8352,7 +7974,6 @@
       "discipline": "Psionics",
       "stat_hook": null,
       "notes": "Landing creates a cushion of mental force which will slow a fall and absorb damage. This may be used to affect one target in range (including the psionicist). The psionicist must make a normal skill roll, and reduces the target’s falling damage by the amount obtained. If there is any falling damage left, the normal falling rules still apply (i.e., an AR check is still allowed).",
-      "category": "Discipline",
       "owner": "Designer"
     },
     {
@@ -8371,7 +7992,6 @@
       "discipline": "Universal",
       "stat_hook": null,
       "notes": null,
-      "category": null,
       "owner": "Designer"
     },
     {
@@ -8390,7 +8010,6 @@
       "discipline": "Universal",
       "stat_hook": null,
       "notes": null,
-      "category": null,
       "owner": "Designer"
     },
     {
@@ -8409,7 +8028,6 @@
       "discipline": "Sorce",
       "stat_hook": null,
       "notes": null,
-      "category": null,
       "owner": "Designer"
     },
     {
@@ -8428,7 +8046,6 @@
       "discipline": "Universal",
       "stat_hook": null,
       "notes": null,
-      "category": null,
       "owner": "Designer"
     },
     {
@@ -8447,7 +8064,6 @@
       "discipline": "Martial",
       "stat_hook": null,
       "notes": null,
-      "category": null,
       "owner": "Designer"
     },
     {
@@ -8466,7 +8082,6 @@
       "discipline": "Universal",
       "stat_hook": null,
       "notes": null,
-      "category": null,
       "owner": "Designer"
     },
     {
@@ -8485,7 +8100,6 @@
       "discipline": "Universal",
       "stat_hook": null,
       "notes": null,
-      "category": null,
       "owner": "Designer"
     },
     {
@@ -8504,7 +8118,6 @@
       "discipline": "Psionics",
       "stat_hook": null,
       "notes": null,
-      "category": null,
       "owner": "Designer"
     },
     {
@@ -8521,7 +8134,6 @@
       "discipline": "Psionics",
       "stat_hook": null,
       "notes": "This creates a disk of psionic energy which can lift any one Anthropos sized being. Larger beings require a skill check to overcome the added size (Dif set by GM). Each round a new skill check is made to determine the number of feet the disk rises or lowers (psionicist’s option). The disk may not move horizontally. The disk lasts as long as the user maintains concentration. If used against an enemy, the first lift roll must exceeds the enemy’s Def, otherwise he simply hops to the side of the disk. At any later time the victim may, of course, jump off, but would suffer normal falling damage.",
-      "category": "Discipline",
       "owner": "Designer"
     },
     {
@@ -8540,7 +8152,6 @@
       "discipline": "Psionics",
       "stat_hook": null,
       "notes": null,
-      "category": null,
       "owner": "Designer"
     },
     {
@@ -8557,7 +8168,6 @@
       "discipline": "Psionics",
       "stat_hook": null,
       "notes": "This power creates a psionic disk beneath the user, which may lift the psionicist and anything carried. As with levitate others, the disk will move up or down (only) a number of feet each round equal to the psionicist’s skill roll that round. Levitate self lasts while being concentrated on. However, unlike most concentration enhancements, the psionicist may still make an Atk action each round.",
-      "category": "Discipline",
       "owner": "Designer"
     },
     {
@@ -8574,7 +8184,6 @@
       "discipline": "Sorce",
       "stat_hook": null,
       "notes": "Life balance allows a sorcist to distribute damage between two living beings. The total amount of damage from both beings is added together. The sorcist then distributes the total as desired (i.e., all to one none to the other, half and half, etc.). A sorcist must make a successful punch attack to touch any unwilling subject. Subjects are not allowed an armor roll, not even for Natural Armor.",
-      "category": "Discipline",
       "owner": "Designer"
     },
     {
@@ -8593,7 +8202,6 @@
       "discipline": "Sorce",
       "stat_hook": null,
       "notes": null,
-      "category": null,
       "owner": "Designer"
     },
     {
@@ -8610,7 +8218,6 @@
       "discipline": "Sorce",
       "stat_hook": null,
       "notes": "This allows the sorcist to drain Vitality. Thin beams emerge from a sorcist’s fingers when using this enhancement. An attack roll is then made based on the sorcist’s skill rating. If the roll hits, that number of maximum Vitality points are permanently drained from the victim. No armor rolls are allowed, not even for Natural Armor. This attack has no effect on non-living targets, such as androids. Due to the devastating effects of this enhancement, GMs should not allow one player character to use it upon another.",
-      "category": "Discipline",
       "owner": "Designer"
     },
     {
@@ -8627,7 +8234,6 @@
       "discipline": "Physical",
       "stat_hook": null,
       "notes": "Life freeze allows a character to go into a form of hibernation, and slow all of the body’s natural functions to almost a complete stop. Used voluntarily at any point (no roll needed). If critically wounded, all Vitality drain stops. The character appears dead, and may recover with a successful WP check vs a Dif equal to rounds spent in freeze.",
-      "category": "General",
       "owner": "Designer"
     },
     {
@@ -8644,7 +8250,6 @@
       "discipline": "Sorce",
       "stat_hook": null,
       "notes": "Light healing will heal a number of vitality points equal to the sorcist’s skill roll at -1 (cost is 8). Healing can only be used on living subjects, including the sorcist.",
-      "category": "Discipline",
       "owner": "Designer"
     },
     {
@@ -8661,7 +8266,6 @@
       "discipline": "Mental",
       "stat_hook": null,
       "notes": "This lets a character make enhanced 👁️ Perception check while sleeping. If a sleeping character’s 👁️ Perception check succeeds, the character may awaken immediately if desired, preventing them from being caught flat-footed by midnight ambushes.",
-      "category": "General",
       "owner": "Designer"
     },
     {
@@ -8680,7 +8284,6 @@
       "discipline": "Universal",
       "stat_hook": null,
       "notes": null,
-      "category": null,
       "owner": "Designer"
     },
     {
@@ -8699,7 +8302,6 @@
       "discipline": "Sorce",
       "stat_hook": null,
       "notes": null,
-      "category": null,
       "owner": "Designer"
     },
     {
@@ -8718,7 +8320,6 @@
       "discipline": "Universal",
       "stat_hook": null,
       "notes": null,
-      "category": null,
       "owner": "Designer"
     },
     {
@@ -8735,7 +8336,6 @@
       "discipline": "Martial",
       "stat_hook": null,
       "notes": "This enhancement doubles all of a weapon’s ranges, drastically reducing range attenuation penalties. It should only be used if the GM is using the optional ranged weapon rules. Purchased at 3 levels.",
-      "category": "General",
       "owner": "Designer"
     },
     {
@@ -8754,7 +8354,6 @@
       "discipline": "Universal",
       "stat_hook": null,
       "notes": null,
-      "category": null,
       "owner": "Designer"
     },
     {
@@ -8773,7 +8372,6 @@
       "discipline": "Universal",
       "stat_hook": null,
       "notes": null,
-      "category": null,
       "owner": "Designer"
     },
     {
@@ -8792,7 +8390,6 @@
       "discipline": "Universal",
       "stat_hook": null,
       "notes": null,
-      "category": null,
       "owner": "Designer"
     },
     {
@@ -8811,7 +8408,6 @@
       "discipline": "Universal",
       "stat_hook": null,
       "notes": null,
-      "category": null,
       "owner": "Designer"
     },
     {
@@ -8828,7 +8424,6 @@
       "discipline": "Mental",
       "stat_hook": null,
       "notes": "This powerful enhancement enables a character to permanently sacrifice a luck box in exchange for a massive die roll bonus. If burned before rolling, the resulting die roll is increased by with advantage. If burned after rolling, a +3 bonus applies. Can be used on spent boxes or stacked with normal luck expenditure.",
-      "category": "General",
       "owner": "Designer"
     },
     {
@@ -8845,7 +8440,6 @@
       "discipline": "Mental",
       "stat_hook": null,
       "notes": "Once per session, a character can make a Luck check vs their total luck value. If successful, they immediately restore all expended luck boxes for that adventure. If the roll fails, no further restoration attempts are allowed during the current gaming session.",
-      "category": "General",
       "owner": "Designer"
     },
     {
@@ -8862,7 +8456,6 @@
       "discipline": "Mental",
       "stat_hook": null,
       "notes": "This enhancement enables a character to spend a luck box after rolling the dice to double the final result of any check. A d8 die roll resulting in 40 would therefore be doubled for a final result of 80!",
-      "category": "General",
       "owner": "Designer"
     },
     {
@@ -8881,7 +8474,6 @@
       "discipline": "Universal",
       "stat_hook": null,
       "notes": null,
-      "category": null,
       "owner": "Designer"
     },
     {
@@ -8900,7 +8492,6 @@
       "discipline": "Universal",
       "stat_hook": null,
       "notes": null,
-      "category": null,
       "owner": "Designer"
     },
     {
@@ -8919,7 +8510,6 @@
       "discipline": "Universal",
       "stat_hook": null,
       "notes": null,
-      "category": null,
       "owner": "Designer"
     },
     {
@@ -8938,7 +8528,6 @@
       "discipline": "Martial",
       "stat_hook": null,
       "notes": null,
-      "category": null,
       "owner": "Designer"
     },
     {
@@ -8957,7 +8546,6 @@
       "discipline": "Psionics",
       "stat_hook": null,
       "notes": null,
-      "category": null,
       "owner": "Designer"
     },
     {
@@ -8976,7 +8564,6 @@
       "discipline": "Universal",
       "stat_hook": null,
       "notes": null,
-      "category": null,
       "owner": "Designer"
     },
     {
@@ -8995,7 +8582,6 @@
       "discipline": "Universal",
       "stat_hook": null,
       "notes": null,
-      "category": null,
       "owner": "Designer"
     },
     {
@@ -9014,7 +8600,6 @@
       "discipline": "Universal",
       "stat_hook": null,
       "notes": null,
-      "category": null,
       "owner": "Designer"
     },
     {
@@ -9031,7 +8616,6 @@
       "discipline": "CyberTech",
       "stat_hook": null,
       "notes": "Cyber warriors undergo extensive physiological and neural augmentation, harmonizing flesh with high-grade cybernetics. Activating this conditioning triggers combat subroutines that grant Advantage on Technology, Strength, Cyberware activations, and 🫀 check for the encounter.",
-      "category": "Class",
       "owner": "Designer"
     },
     {
@@ -9050,7 +8634,6 @@
       "discipline": "Universal",
       "stat_hook": null,
       "notes": null,
-      "category": null,
       "owner": "Designer"
     },
     {
@@ -9069,7 +8652,6 @@
       "discipline": "Sorce",
       "stat_hook": null,
       "notes": null,
-      "category": null,
       "owner": "Designer"
     },
     {
@@ -9088,7 +8670,6 @@
       "discipline": "Universal",
       "stat_hook": null,
       "notes": null,
-      "category": null,
       "owner": "Designer"
     },
     {
@@ -9107,7 +8688,6 @@
       "discipline": "Sorce",
       "stat_hook": null,
       "notes": null,
-      "category": null,
       "owner": "Designer"
     },
     {
@@ -9126,7 +8706,6 @@
       "discipline": "Universal",
       "stat_hook": null,
       "notes": null,
-      "category": null,
       "owner": "Designer"
     },
     {
@@ -9145,7 +8724,6 @@
       "discipline": "Universal",
       "stat_hook": null,
       "notes": null,
-      "category": null,
       "owner": "Designer"
     },
     {
@@ -9164,7 +8742,6 @@
       "discipline": "Psionics",
       "stat_hook": null,
       "notes": null,
-      "category": null,
       "owner": "Designer"
     },
     {
@@ -9183,7 +8760,6 @@
       "discipline": "Universal",
       "stat_hook": null,
       "notes": null,
-      "category": null,
       "owner": "Designer"
     },
     {
@@ -9201,7 +8777,6 @@
       "discipline": "Universal",
       "stat_hook": null,
       "notes": null,
-      "category": null,
       "owner": "Designer"
     },
     {
@@ -9220,7 +8795,6 @@
       "discipline": "Universal",
       "stat_hook": null,
       "notes": null,
-      "category": null,
       "owner": "Designer"
     },
     {
@@ -9239,7 +8813,6 @@
       "discipline": "Universal",
       "stat_hook": null,
       "notes": null,
-      "category": null,
       "owner": "Designer"
     },
     {
@@ -9258,7 +8831,6 @@
       "discipline": "Psionics",
       "stat_hook": null,
       "notes": null,
-      "category": null,
       "owner": "Designer"
     },
     {
@@ -9277,7 +8849,6 @@
       "discipline": "Universal",
       "stat_hook": null,
       "notes": null,
-      "category": null,
       "owner": "Designer"
     },
     {
@@ -9296,7 +8867,6 @@
       "discipline": "Universal",
       "stat_hook": null,
       "notes": null,
-      "category": null,
       "owner": "Designer"
     },
     {
@@ -9315,7 +8885,6 @@
       "discipline": "Universal",
       "stat_hook": null,
       "notes": null,
-      "category": null,
       "owner": "Designer"
     },
     {
@@ -9332,7 +8901,6 @@
       "discipline": "Universal",
       "stat_hook": null,
       "notes": "Warriors undergo brutal close-quarters combat conditioning. When activated, the warrior channels intense focus and kinetic momentum to roll with Advantage on Strength, Dexterity, Melee weapon strikes, and Melee Defense checks for the encounter.",
-      "category": "Class",
       "owner": "Designer"
     },
     {
@@ -9349,7 +8917,6 @@
       "discipline": "Psionics",
       "stat_hook": null,
       "notes": "Seers and Mensi practitioners cultivate disciplined psionic neural networks. Activating this state expands consciousness, granting Advantage on all Mind attribute checks, Psionic power manifestations, Sensory Awareness, and Willpower checks for the encounter.",
-      "category": "Class",
       "owner": "Designer"
     },
     {
@@ -9368,7 +8935,6 @@
       "discipline": "Universal",
       "stat_hook": null,
       "notes": null,
-      "category": null,
       "owner": "Designer"
     },
     {
@@ -9387,7 +8953,6 @@
       "discipline": "Universal",
       "stat_hook": null,
       "notes": null,
-      "category": null,
       "owner": "Designer"
     },
     {
@@ -9406,7 +8971,6 @@
       "discipline": "Universal",
       "stat_hook": null,
       "notes": null,
-      "category": null,
       "owner": "Designer"
     },
     {
@@ -9425,7 +8989,6 @@
       "discipline": "Universal",
       "stat_hook": null,
       "notes": null,
-      "category": null,
       "owner": "Designer"
     },
     {
@@ -9444,7 +9007,6 @@
       "discipline": "Universal",
       "stat_hook": null,
       "notes": null,
-      "category": null,
       "owner": "Designer"
     },
     {
@@ -9463,7 +9025,6 @@
       "discipline": "Sorce",
       "stat_hook": null,
       "notes": null,
-      "category": null,
       "owner": "Designer"
     },
     {
@@ -9482,7 +9043,6 @@
       "discipline": "Psionics",
       "stat_hook": null,
       "notes": null,
-      "category": null,
       "owner": "Designer"
     },
     {
@@ -9499,7 +9059,6 @@
       "discipline": "Psionics",
       "stat_hook": null,
       "notes": "This grueling enhancement allows a psionicist to probe into a subject’s inner thoughts and long term memory. The player should inform the GM what information their character is probing for. Then a skill check is made vs the subject’s WP. Success indicates that the information is uncovered (assuming the subject actually knows the information).",
-      "category": "Discipline",
       "owner": "Designer"
     },
     {
@@ -9518,7 +9077,6 @@
       "discipline": "Psionics",
       "stat_hook": null,
       "notes": null,
-      "category": null,
       "owner": "Designer"
     },
     {
@@ -9537,7 +9095,6 @@
       "discipline": "Psionics",
       "stat_hook": null,
       "notes": null,
-      "category": null,
       "owner": "Designer"
     },
     {
@@ -9554,7 +9111,6 @@
       "discipline": "Psionics",
       "stat_hook": null,
       "notes": "This allows the psionicist to send thoughts to another individual within a number of squares equal to the skill’s value. This can only be done between telepaths. The cost of the enhancement depends upon the individual to whom the message is being sent — cost is zero to other telepaths who speak the same language, and can receive worded messages. Cost is one when sending to telepaths who don’t speak the same language. Such individuals only receive pictures and other non-verbal images.",
-      "category": "Discipline",
       "owner": "Designer"
     },
     {
@@ -9573,7 +9129,6 @@
       "discipline": "Psionics",
       "stat_hook": null,
       "notes": null,
-      "category": null,
       "owner": "Designer"
     },
     {
@@ -9592,7 +9147,6 @@
       "discipline": "Universal",
       "stat_hook": null,
       "notes": null,
-      "category": null,
       "owner": "Designer"
     },
     {
@@ -9611,7 +9165,6 @@
       "discipline": "Universal",
       "stat_hook": null,
       "notes": null,
-      "category": null,
       "owner": "Designer"
     },
     {
@@ -9630,7 +9183,6 @@
       "discipline": "Universal",
       "stat_hook": null,
       "notes": null,
-      "category": null,
       "owner": "Designer"
     },
     {
@@ -9649,7 +9201,6 @@
       "discipline": "Psionics",
       "stat_hook": null,
       "notes": null,
-      "category": null,
       "owner": "Designer"
     },
     {
@@ -9668,7 +9219,6 @@
       "discipline": "Somatics",
       "stat_hook": null,
       "notes": null,
-      "category": null,
       "owner": "Designer"
     },
     {
@@ -9685,7 +9235,6 @@
       "discipline": "Somatics",
       "stat_hook": null,
       "notes": "This highly sophisticated discipline allows users to align the very molecules of their body in such a way as to pass through solid objects without harm. Psychosomaticists may pass directly through any solid object, living or non living, in their path. This power may be used to walk through walls, get behind opponents, etc. Once through, the psychosomaticist instantly reverts to their normal solid state. Thus, this enhancement may only be used to pass through one item at a time. If a psychosomatic with this enhancement states that they are activating it before making a Defense roll, then the attack misses as it passes right through them (effective on physical weapons only, not on energy weapons). Of course, the character must have Nish and spend their attack action on the enhancement as always.",
-      "category": "Discipline",
       "owner": "Designer"
     },
     {
@@ -9704,7 +9253,6 @@
       "discipline": "Universal",
       "stat_hook": null,
       "notes": null,
-      "category": null,
       "owner": "Designer"
     },
     {
@@ -9723,7 +9271,6 @@
       "discipline": "Universal",
       "stat_hook": null,
       "notes": null,
-      "category": null,
       "owner": "Designer"
     },
     {
@@ -9742,7 +9289,6 @@
       "discipline": "Universal",
       "stat_hook": null,
       "notes": null,
-      "category": null,
       "owner": "Designer"
     },
     {
@@ -9761,7 +9307,6 @@
       "discipline": "Universal",
       "stat_hook": null,
       "notes": null,
-      "category": null,
       "owner": "Designer"
     },
     {
@@ -9780,7 +9325,6 @@
       "discipline": "Universal",
       "stat_hook": null,
       "notes": null,
-      "category": null,
       "owner": "Designer"
     },
     {
@@ -9799,7 +9343,6 @@
       "discipline": "Universal",
       "stat_hook": null,
       "notes": null,
-      "category": null,
       "owner": "Designer"
     },
     {
@@ -9818,7 +9361,6 @@
       "discipline": "Universal",
       "stat_hook": null,
       "notes": null,
-      "category": null,
       "owner": "Designer"
     },
     {
@@ -9835,7 +9377,6 @@
       "discipline": "Martial",
       "stat_hook": null,
       "notes": "Normally, characters must take their move action strictly before or after their attack action. This enhancement allows characters to move part of their MR, make an attack, and then move the remainder. This does not grant any extra actions, but enables dynamic 'split-move' tactics.",
-      "category": "General",
       "owner": "Designer"
     },
     {
@@ -9852,7 +9393,6 @@
       "discipline": "Psionics",
       "stat_hook": null,
       "notes": "Projects telekinetic force lines to lift, float, and manipulate unrestrained objects, tools, or hazardous materials at a distance.",
-      "category": "Discipline",
       "owner": "Designer"
     },
     {
@@ -9871,7 +9411,6 @@
       "discipline": "Psionics",
       "stat_hook": null,
       "notes": null,
-      "category": null,
       "owner": "Designer"
     },
     {
@@ -9890,7 +9429,6 @@
       "discipline": "Universal",
       "stat_hook": null,
       "notes": null,
-      "category": null,
       "owner": "Designer"
     },
     {
@@ -9907,7 +9445,6 @@
       "discipline": "Martial",
       "stat_hook": null,
       "notes": "Highly skilled fighters may engage more than one opponent in close combat (within 1 square). The character makes a single attack roll. The number obtained is applied to the first opponent. If it hits, half of that attack result is applied to a second opponent, half of that to a third, etc. Single damage roll applies to all hit.",
-      "category": "General",
       "owner": "Designer"
     },
     {
@@ -9926,7 +9463,6 @@
       "discipline": "Psionics",
       "stat_hook": null,
       "notes": null,
-      "category": null,
       "owner": "Designer"
     },
     {
@@ -9945,7 +9481,6 @@
       "discipline": "Universal",
       "stat_hook": null,
       "notes": null,
-      "category": null,
       "owner": "Designer"
     },
     {
@@ -9962,7 +9497,6 @@
       "discipline": "Universal",
       "stat_hook": null,
       "notes": null,
-      "category": null,
       "owner": "Designer"
     },
     {
@@ -9981,7 +9515,6 @@
       "discipline": "Universal",
       "stat_hook": null,
       "notes": null,
-      "category": null,
       "owner": "Designer"
     },
     {
@@ -10000,7 +9533,6 @@
       "discipline": "Universal",
       "stat_hook": null,
       "notes": null,
-      "category": null,
       "owner": "Designer"
     },
     {
@@ -10019,7 +9551,6 @@
       "discipline": "Universal",
       "stat_hook": null,
       "notes": null,
-      "category": null,
       "owner": "Designer"
     },
     {
@@ -10038,7 +9569,6 @@
       "discipline": "Universal",
       "stat_hook": null,
       "notes": null,
-      "category": null,
       "owner": "Designer"
     },
     {
@@ -10057,7 +9587,6 @@
       "discipline": "Universal",
       "stat_hook": null,
       "notes": null,
-      "category": null,
       "owner": "Designer"
     },
     {
@@ -10076,7 +9605,6 @@
       "discipline": "Universal",
       "stat_hook": null,
       "notes": null,
-      "category": null,
       "owner": "Designer"
     },
     {
@@ -10095,7 +9623,6 @@
       "discipline": "Universal",
       "stat_hook": null,
       "notes": null,
-      "category": null,
       "owner": "Designer"
     },
     {
@@ -10114,7 +9641,6 @@
       "discipline": "Psionics",
       "stat_hook": null,
       "notes": null,
-      "category": null,
       "owner": "Designer"
     },
     {
@@ -10133,7 +9659,6 @@
       "discipline": "Universal",
       "stat_hook": null,
       "notes": null,
-      "category": null,
       "owner": "Designer"
     },
     {
@@ -10152,7 +9677,6 @@
       "discipline": "Universal",
       "stat_hook": null,
       "notes": null,
-      "category": null,
       "owner": "Designer"
     },
     {
@@ -10171,7 +9695,6 @@
       "discipline": "Universal",
       "stat_hook": null,
       "notes": null,
-      "category": null,
       "owner": "Designer"
     },
     {
@@ -10188,7 +9711,6 @@
       "discipline": "Mental",
       "stat_hook": null,
       "notes": "This grants a character an enhanced roll (+3) to control emotions, suppress fear, or resist mental manipulation. The character shows little or no outward sign of their true emotional state, making them highly inscrutable to social analysis.",
-      "category": "General",
       "owner": "Designer"
     },
     {
@@ -10207,7 +9729,6 @@
       "discipline": "Universal",
       "stat_hook": null,
       "notes": null,
-      "category": null,
       "owner": "Designer"
     },
     {
@@ -10226,7 +9747,6 @@
       "discipline": "Sorce",
       "stat_hook": null,
       "notes": null,
-      "category": null,
       "owner": "Designer"
     },
     {
@@ -10245,7 +9765,6 @@
       "discipline": "Universal",
       "stat_hook": null,
       "notes": null,
-      "category": null,
       "owner": "Designer"
     },
     {
@@ -10264,7 +9783,6 @@
       "discipline": "Universal",
       "stat_hook": null,
       "notes": null,
-      "category": null,
       "owner": "Designer"
     },
     {
@@ -10281,7 +9799,6 @@
       "discipline": "BioTech",
       "stat_hook": null,
       "notes": "Odonata operatives undergo rigorous stealth, precision, and agility conditioning. Activating this conditioning heightens spatial awareness and muscle control, granting Advantage on Motion, Stealth, Dexterity, and Precision Ranged attacks for the encounter.",
-      "category": "Class",
       "owner": "Designer"
     },
     {
@@ -10300,7 +9817,6 @@
       "discipline": "Universal",
       "stat_hook": null,
       "notes": null,
-      "category": null,
       "owner": "Designer"
     },
     {
@@ -10319,7 +9835,6 @@
       "discipline": "Psionics",
       "stat_hook": null,
       "notes": null,
-      "category": null,
       "owner": "Designer"
     },
     {
@@ -10338,7 +9853,6 @@
       "discipline": "Universal",
       "stat_hook": null,
       "notes": null,
-      "category": null,
       "owner": "Designer"
     },
     {
@@ -10357,7 +9871,6 @@
       "discipline": "Universal",
       "stat_hook": null,
       "notes": null,
-      "category": null,
       "owner": "Designer"
     },
     {
@@ -10374,7 +9887,6 @@
       "discipline": "Martial",
       "stat_hook": null,
       "notes": "Allowed to give orders on their Nish (using an Atk action) directed at another character or NPC. If accepted, the target immediately performs a free Atk or Move action (regardless of their actual Nish) without consuming their own round's actions.",
-      "category": "General",
       "owner": "Designer"
     },
     {
@@ -10393,7 +9905,6 @@
       "discipline": "Universal",
       "stat_hook": null,
       "notes": null,
-      "category": null,
       "owner": "Designer"
     },
     {
@@ -10412,7 +9923,6 @@
       "discipline": "Universal",
       "stat_hook": null,
       "notes": null,
-      "category": null,
       "owner": "Designer"
     },
     {
@@ -10431,7 +9941,6 @@
       "discipline": "Somatics",
       "stat_hook": null,
       "notes": null,
-      "category": null,
       "owner": "Designer"
     },
     {
@@ -10448,7 +9957,6 @@
       "discipline": "Somatics",
       "stat_hook": null,
       "notes": "Oxygenate allows psychosomaticists to absorb oxygen from their body tissue. When used, the oxygen will sustain the user, eliminating any need for breathing, for a number of rounds equal to the skill’s value. This effects of this enhancement are in addition to the normal amount of time a character can go without air without making a suffocation check (see RB, hazards).",
-      "category": "Discipline",
       "owner": "Designer"
     },
     {
@@ -10467,7 +9975,6 @@
       "discipline": "Universal",
       "stat_hook": null,
       "notes": null,
-      "category": null,
       "owner": "Designer"
     },
     {
@@ -10486,7 +9993,6 @@
       "discipline": "Universal",
       "stat_hook": null,
       "notes": null,
-      "category": null,
       "owner": "Designer"
     },
     {
@@ -10505,7 +10011,6 @@
       "discipline": "Universal",
       "stat_hook": null,
       "notes": null,
-      "category": null,
       "owner": "Designer"
     },
     {
@@ -10524,7 +10029,6 @@
       "discipline": "Universal",
       "stat_hook": null,
       "notes": null,
-      "category": null,
       "owner": "Designer"
     },
     {
@@ -10543,7 +10047,6 @@
       "discipline": "Universal",
       "stat_hook": null,
       "notes": null,
-      "category": null,
       "owner": "Designer"
     },
     {
@@ -10560,7 +10063,6 @@
       "discipline": "Martial",
       "stat_hook": null,
       "notes": "A character with this enhancement may elect to parry melee or body attacks rather than defend against them. The character must be using a melee or body weapon (or Martial Arts Punch). A parry is made using the weapon’s Atk rating. If successful, the blow is blocked and does no damage. Purchased at 3 levels.",
-      "category": "General",
       "owner": "Designer"
     },
     {
@@ -10579,7 +10081,6 @@
       "discipline": "Martial",
       "stat_hook": null,
       "notes": null,
-      "category": null,
       "owner": "Designer"
     },
     {
@@ -10598,7 +10099,6 @@
       "discipline": "Universal",
       "stat_hook": null,
       "notes": null,
-      "category": null,
       "owner": "Designer"
     },
     {
@@ -10617,7 +10117,6 @@
       "discipline": "Universal",
       "stat_hook": null,
       "notes": null,
-      "category": null,
       "owner": "Designer"
     },
     {
@@ -10636,7 +10135,6 @@
       "discipline": "Universal",
       "stat_hook": null,
       "notes": null,
-      "category": null,
       "owner": "Designer"
     },
     {
@@ -10655,7 +10153,6 @@
       "discipline": "Universal",
       "stat_hook": null,
       "notes": null,
-      "category": null,
       "owner": "Designer"
     },
     {
@@ -10672,7 +10169,6 @@
       "discipline": "Universal",
       "stat_hook": null,
       "notes": null,
-      "category": null,
       "owner": "Designer"
     },
     {
@@ -10691,7 +10187,6 @@
       "discipline": "Universal",
       "stat_hook": null,
       "notes": null,
-      "category": null,
       "owner": "Designer"
     },
     {
@@ -10710,7 +10205,6 @@
       "discipline": "Sorce",
       "stat_hook": null,
       "notes": null,
-      "category": null,
       "owner": "Designer"
     },
     {
@@ -10729,7 +10223,6 @@
       "discipline": "Universal",
       "stat_hook": null,
       "notes": null,
-      "category": null,
       "owner": "Designer"
     },
     {
@@ -10748,7 +10241,6 @@
       "discipline": "Universal",
       "stat_hook": null,
       "notes": null,
-      "category": null,
       "owner": "Designer"
     },
     {
@@ -10767,7 +10259,6 @@
       "discipline": "Universal",
       "stat_hook": null,
       "notes": null,
-      "category": null,
       "owner": "Designer"
     },
     {
@@ -10786,7 +10277,6 @@
       "discipline": "Universal",
       "stat_hook": null,
       "notes": null,
-      "category": null,
       "owner": "Designer"
     },
     {
@@ -10805,7 +10295,6 @@
       "discipline": "Sorce",
       "stat_hook": null,
       "notes": null,
-      "category": null,
       "owner": "Designer"
     },
     {
@@ -10824,7 +10313,6 @@
       "discipline": "Psionics",
       "stat_hook": null,
       "notes": null,
-      "category": null,
       "owner": "Designer"
     },
     {
@@ -10843,7 +10331,6 @@
       "discipline": "Psionics",
       "stat_hook": null,
       "notes": null,
-      "category": null,
       "owner": "Designer"
     },
     {
@@ -10862,7 +10349,6 @@
       "discipline": "Martial",
       "stat_hook": null,
       "notes": null,
-      "category": null,
       "owner": "Designer"
     },
     {
@@ -10881,7 +10367,6 @@
       "discipline": "Universal",
       "stat_hook": null,
       "notes": null,
-      "category": null,
       "owner": "Designer"
     },
     {
@@ -10900,7 +10385,6 @@
       "discipline": "Psionics",
       "stat_hook": null,
       "notes": null,
-      "category": null,
       "owner": "Designer"
     },
     {
@@ -10917,7 +10401,6 @@
       "discipline": "Universal",
       "stat_hook": null,
       "notes": null,
-      "category": null,
       "owner": "Designer"
     },
     {
@@ -10934,7 +10417,6 @@
       "discipline": "Universal",
       "stat_hook": null,
       "notes": null,
-      "category": null,
       "owner": "Designer"
     },
     {
@@ -10953,7 +10435,6 @@
       "discipline": "Universal",
       "stat_hook": null,
       "notes": null,
-      "category": null,
       "owner": "Designer"
     },
     {
@@ -10972,7 +10453,6 @@
       "discipline": "Universal",
       "stat_hook": null,
       "notes": null,
-      "category": null,
       "owner": "Designer"
     },
     {
@@ -10991,7 +10471,6 @@
       "discipline": "Universal",
       "stat_hook": null,
       "notes": null,
-      "category": null,
       "owner": "Designer"
     },
     {
@@ -11010,7 +10489,6 @@
       "discipline": "Sorce",
       "stat_hook": null,
       "notes": null,
-      "category": null,
       "owner": "Designer"
     },
     {
@@ -11029,7 +10507,6 @@
       "discipline": "Universal",
       "stat_hook": null,
       "notes": null,
-      "category": null,
       "owner": "Designer"
     },
     {
@@ -11048,7 +10525,6 @@
       "discipline": "Universal",
       "stat_hook": null,
       "notes": null,
-      "category": null,
       "owner": "Designer"
     },
     {
@@ -11067,7 +10543,6 @@
       "discipline": "Somatics",
       "stat_hook": null,
       "notes": null,
-      "category": null,
       "owner": "Designer"
     },
     {
@@ -11084,7 +10559,6 @@
       "discipline": "Somatics",
       "stat_hook": null,
       "notes": "Power punch allows a psychosomaticist to increase muscle strength, momentarily enhancing the damage of any punching or kicking blow. The enhancement may be activated after the blow hits, but before damage is rolled. This discipline gives the psychosomaticist a surge of quick strength which increases damage by +3.",
-      "category": "Discipline",
       "owner": "Designer"
     },
     {
@@ -11103,7 +10577,6 @@
       "discipline": "Universal",
       "stat_hook": null,
       "notes": null,
-      "category": null,
       "owner": "Designer"
     },
     {
@@ -11120,7 +10593,6 @@
       "discipline": "Universal",
       "stat_hook": null,
       "notes": null,
-      "category": null,
       "owner": "Designer"
     },
     {
@@ -11139,7 +10611,6 @@
       "discipline": "Universal",
       "stat_hook": null,
       "notes": null,
-      "category": null,
       "owner": "Designer"
     },
     {
@@ -11158,7 +10629,6 @@
       "discipline": "Universal",
       "stat_hook": null,
       "notes": null,
-      "category": null,
       "owner": "Designer"
     },
     {
@@ -11177,7 +10647,6 @@
       "discipline": "Universal",
       "stat_hook": null,
       "notes": null,
-      "category": null,
       "owner": "Designer"
     },
     {
@@ -11196,7 +10665,6 @@
       "discipline": "Universal",
       "stat_hook": null,
       "notes": null,
-      "category": null,
       "owner": "Designer"
     },
     {
@@ -11215,7 +10683,6 @@
       "discipline": "Martial",
       "stat_hook": null,
       "notes": null,
-      "category": null,
       "owner": "Designer"
     },
     {
@@ -11234,7 +10701,6 @@
       "discipline": "Martial",
       "stat_hook": null,
       "notes": null,
-      "category": null,
       "owner": "Designer"
     },
     {
@@ -11253,7 +10719,6 @@
       "discipline": "Universal",
       "stat_hook": null,
       "notes": null,
-      "category": null,
       "owner": "Designer"
     },
     {
@@ -11272,7 +10737,6 @@
       "discipline": "Psionics",
       "stat_hook": null,
       "notes": null,
-      "category": null,
       "owner": "Designer"
     },
     {
@@ -11291,7 +10755,6 @@
       "discipline": "Universal",
       "stat_hook": null,
       "notes": null,
-      "category": null,
       "owner": "Designer"
     },
     {
@@ -11310,7 +10773,6 @@
       "discipline": "Sorce",
       "stat_hook": null,
       "notes": null,
-      "category": null,
       "owner": "Designer"
     },
     {
@@ -11329,7 +10791,6 @@
       "discipline": "Universal",
       "stat_hook": null,
       "notes": null,
-      "category": null,
       "owner": "Designer"
     },
     {
@@ -11346,7 +10807,6 @@
       "discipline": "Psionics",
       "stat_hook": null,
       "notes": "Punch creates a six-inch wide fist of telekinetic energy that attacks and does damage equal to the psionicist’s skill rating. Like blast and blow, punch is nearly invisible.",
-      "category": "Discipline",
       "owner": "Designer"
     },
     {
@@ -11365,7 +10825,6 @@
       "discipline": "Universal",
       "stat_hook": null,
       "notes": null,
-      "category": null,
       "owner": "Designer"
     },
     {
@@ -11384,7 +10843,6 @@
       "discipline": "Universal",
       "stat_hook": null,
       "notes": null,
-      "category": null,
       "owner": "Designer"
     },
     {
@@ -11403,7 +10861,6 @@
       "discipline": "Universal",
       "stat_hook": null,
       "notes": null,
-      "category": null,
       "owner": "Designer"
     },
     {
@@ -11422,7 +10879,6 @@
       "discipline": "Psionics",
       "stat_hook": null,
       "notes": null,
-      "category": null,
       "owner": "Designer"
     },
     {
@@ -11439,7 +10895,6 @@
       "discipline": "Universal",
       "stat_hook": null,
       "notes": null,
-      "category": null,
       "owner": "Designer"
     },
     {
@@ -11456,7 +10911,6 @@
       "discipline": "Universal",
       "stat_hook": null,
       "notes": null,
-      "category": null,
       "owner": "Designer"
     },
     {
@@ -11473,7 +10927,6 @@
       "discipline": "Martial",
       "stat_hook": null,
       "notes": "Trained instinctive muscle memory allowing instantaneous weapon draws, holster swaps, and rapid target acquisition.",
-      "category": "General",
       "owner": "Designer"
     },
     {
@@ -11492,7 +10945,6 @@
       "discipline": "Universal",
       "stat_hook": null,
       "notes": null,
-      "category": null,
       "owner": "Designer"
     },
     {
@@ -11511,7 +10963,6 @@
       "discipline": "Universal",
       "stat_hook": null,
       "notes": null,
-      "category": null,
       "owner": "Designer"
     },
     {
@@ -11530,7 +10981,6 @@
       "discipline": "Universal",
       "stat_hook": null,
       "notes": null,
-      "category": null,
       "owner": "Designer"
     },
     {
@@ -11549,7 +10999,6 @@
       "discipline": "Universal",
       "stat_hook": null,
       "notes": null,
-      "category": null,
       "owner": "Designer"
     },
     {
@@ -11568,7 +11017,6 @@
       "discipline": "Sorce",
       "stat_hook": null,
       "notes": null,
-      "category": null,
       "owner": "Designer"
     },
     {
@@ -11587,7 +11035,6 @@
       "discipline": "Sorce",
       "stat_hook": null,
       "notes": null,
-      "category": null,
       "owner": "Designer"
     },
     {
@@ -11604,7 +11051,6 @@
       "discipline": "Sorce",
       "stat_hook": null,
       "notes": "Radiate fear creates an aura of dread. It is always active for Shanasks unless it is consciously contained. Attacks against a fearful opponent are at +1 to the attack roll.",
-      "category": "Discipline",
       "owner": "Designer"
     },
     {
@@ -11623,7 +11069,6 @@
       "discipline": "Universal",
       "stat_hook": null,
       "notes": null,
-      "category": null,
       "owner": "Designer"
     },
     {
@@ -11642,7 +11087,6 @@
       "discipline": "Universal",
       "stat_hook": null,
       "notes": null,
-      "category": null,
       "owner": "Designer"
     },
     {
@@ -11661,7 +11105,6 @@
       "discipline": "Universal",
       "stat_hook": null,
       "notes": null,
-      "category": null,
       "owner": "Designer"
     },
     {
@@ -11680,7 +11123,6 @@
       "discipline": "Universal",
       "stat_hook": null,
       "notes": null,
-      "category": null,
       "owner": "Designer"
     },
     {
@@ -11699,7 +11141,6 @@
       "discipline": "Universal",
       "stat_hook": null,
       "notes": null,
-      "category": null,
       "owner": "Designer"
     },
     {
@@ -11718,7 +11159,6 @@
       "discipline": "Universal",
       "stat_hook": null,
       "notes": null,
-      "category": null,
       "owner": "Designer"
     },
     {
@@ -11737,7 +11177,6 @@
       "discipline": "Universal",
       "stat_hook": null,
       "notes": null,
-      "category": null,
       "owner": "Designer"
     },
     {
@@ -11756,7 +11195,6 @@
       "discipline": "Universal",
       "stat_hook": null,
       "notes": null,
-      "category": null,
       "owner": "Designer"
     },
     {
@@ -11775,7 +11213,6 @@
       "discipline": "Universal",
       "stat_hook": null,
       "notes": null,
-      "category": null,
       "owner": "Designer"
     },
     {
@@ -11794,7 +11231,6 @@
       "discipline": "Universal",
       "stat_hook": null,
       "notes": null,
-      "category": null,
       "owner": "Designer"
     },
     {
@@ -11813,7 +11249,6 @@
       "discipline": "Psionics",
       "stat_hook": null,
       "notes": null,
-      "category": null,
       "owner": "Designer"
     },
     {
@@ -11830,7 +11265,6 @@
       "discipline": "Psionics",
       "stat_hook": null,
       "notes": "This enhancement allows the psionicist to read the thoughts of another individual. The psionicist can only read the thoughts that are on the targets mind at that moment, and cannot see deep memories, thoughts that are being actively suppressed, etc. In other words, it reads what the subject is currently thinking.",
-      "category": "Discipline",
       "owner": "Designer"
     },
     {
@@ -11849,7 +11283,6 @@
       "discipline": "Universal",
       "stat_hook": null,
       "notes": null,
-      "category": null,
       "owner": "Designer"
     },
     {
@@ -11868,7 +11301,6 @@
       "discipline": "Martial",
       "stat_hook": null,
       "notes": null,
-      "category": null,
       "owner": "Designer"
     },
     {
@@ -11887,7 +11319,6 @@
       "discipline": "Universal",
       "stat_hook": null,
       "notes": null,
-      "category": null,
       "owner": "Designer"
     },
     {
@@ -11904,7 +11335,6 @@
       "discipline": "Physical",
       "stat_hook": null,
       "notes": "This biological enhancement allows a character to rapidly regenerate flesh wounds. After combat has concluded, the character may make a single healing roll at a with advantage bonus, recovering wounds instantly (can only be done if the character took damage in that combat).",
-      "category": "General",
       "owner": "Designer"
     },
     {
@@ -11923,7 +11353,6 @@
       "discipline": "Universal",
       "stat_hook": null,
       "notes": null,
-      "category": null,
       "owner": "Designer"
     },
     {
@@ -11942,7 +11371,6 @@
       "discipline": "Universal",
       "stat_hook": null,
       "notes": null,
-      "category": null,
       "owner": "Designer"
     },
     {
@@ -11961,7 +11389,6 @@
       "discipline": "Universal",
       "stat_hook": null,
       "notes": null,
-      "category": null,
       "owner": "Designer"
     },
     {
@@ -11980,7 +11407,6 @@
       "discipline": "Psionics",
       "stat_hook": null,
       "notes": null,
-      "category": null,
       "owner": "Designer"
     },
     {
@@ -11997,7 +11423,6 @@
       "discipline": "Psionics",
       "stat_hook": null,
       "notes": "This enhancement allows a psionicist to telekinetically rip an object or opponent apart, bypassing armor and attacking an individual directly. Attack and damage for this enhancement are equal to the psionicist’s skill rating. Targets may only roll against damage using their Natural Armor, unless they are wearing a suit or other contained armor.",
-      "category": "Discipline",
       "owner": "Designer"
     },
     {
@@ -12016,7 +11441,6 @@
       "discipline": "Physical",
       "stat_hook": null,
       "notes": null,
-      "category": null,
       "owner": "Designer"
     },
     {
@@ -12033,7 +11457,6 @@
       "discipline": "Somatics",
       "stat_hook": null,
       "notes": "Individuals with this enhancement are able to mentally strengthen their body’s tissues to minimize the effects of cold. When using this discipline, users receive a +3 to their FR when resisting cold. Armor rolls against cold based attacks are made at +1. Characters with this enhancement make enhanced Fortitude rolls (+3) versus the effects of cold. Armor rolls vs cold-based hazard damage are made at a +1 bonus.",
-      "category": "Discipline",
       "owner": "Designer"
     },
     {
@@ -12052,7 +11475,6 @@
       "discipline": "Universal",
       "stat_hook": null,
       "notes": null,
-      "category": null,
       "owner": "Designer"
     },
     {
@@ -12069,7 +11491,6 @@
       "discipline": "Physical",
       "stat_hook": null,
       "notes": "This enhancement provides a genetically or cybernetically reinforced immune system. The character receives an enhanced roll (+3) on all 🫀 check made to resist pathogens, bacterial infections, and biological agents.",
-      "category": "General",
       "owner": "Designer"
     },
     {
@@ -12088,7 +11509,6 @@
       "discipline": "Physical",
       "stat_hook": null,
       "notes": null,
-      "category": null,
       "owner": "Designer"
     },
     {
@@ -12105,7 +11525,6 @@
       "discipline": "Somatics",
       "stat_hook": null,
       "notes": "Individuals with this enhancement are able to mentally strengthen their body’s tissues to minimize the effects of heat. Those using this enhancement receive a +3 to their FR when resisting heat. Armor rolls against heat based attacks (including plasma weapons) are made at +1. Characters with this enhancement make enhanced Fortitude rolls (+3) versus the effects of heat. Armor rolls vs heat or plasma-based damage are made at a +1 bonus.",
-      "category": "Discipline",
       "owner": "Designer"
     },
     {
@@ -12122,7 +11541,6 @@
       "discipline": "Mental",
       "stat_hook": null,
       "notes": "Grants an enhanced roll (+3) versus any form of mind control, including psionics, Sorce, drugs, and poisons. Note: the effect must be mind-controlling or behavior-altering; direct damage psionics are not affected.",
-      "category": "General",
       "owner": "Designer"
     },
     {
@@ -12139,7 +11557,6 @@
       "discipline": "Physical",
       "stat_hook": null,
       "notes": "The character's liver and blood filtration systems are highly efficient. They receive an enhanced roll (+3) on all 🫀 check made to neutralize ingested, inhaled, contact, or intravenous toxins.",
-      "category": "General",
       "owner": "Designer"
     },
     {
@@ -12156,7 +11573,6 @@
       "discipline": "Mental",
       "stat_hook": null,
       "notes": "This creates a natural cognitive dampening field. The character receives an enhanced roll (+3) on all Will Power and saving checks made to resist the effects of all forms of psionic manipulation and mind blasts.",
-      "category": "General",
       "owner": "Designer"
     },
     {
@@ -12173,7 +11589,6 @@
       "discipline": "Mental",
       "stat_hook": null,
       "notes": "This rare enhancement creates an active disruption field against the magical energies of the Sorce. The character receives an enhanced roll (+3) on all Luck checks made to resist the reality-bending spells of sorcists.",
-      "category": "General",
       "owner": "Designer"
     },
     {
@@ -12192,7 +11607,6 @@
       "discipline": "Psionics",
       "stat_hook": null,
       "notes": null,
-      "category": null,
       "owner": "Designer"
     },
     {
@@ -12209,7 +11623,6 @@
       "discipline": "Psionics",
       "stat_hook": null,
       "notes": "This enhancement causes an item the psionicist recently threw or hurled to leap back into his or her hand. The item must be within a number of squares equal to a skill check.",
-      "category": "Discipline",
       "owner": "Designer"
     },
     {
@@ -12228,7 +11641,6 @@
       "discipline": "Universal",
       "stat_hook": null,
       "notes": null,
-      "category": null,
       "owner": "Designer"
     },
     {
@@ -12247,7 +11659,6 @@
       "discipline": "Universal",
       "stat_hook": null,
       "notes": null,
-      "category": null,
       "owner": "Designer"
     },
     {
@@ -12266,7 +11677,6 @@
       "discipline": "Universal",
       "stat_hook": null,
       "notes": null,
-      "category": null,
       "owner": "Designer"
     },
     {
@@ -12285,7 +11695,6 @@
       "discipline": "Universal",
       "stat_hook": null,
       "notes": null,
-      "category": null,
       "owner": "Designer"
     },
     {
@@ -12304,7 +11713,6 @@
       "discipline": "Psionics",
       "stat_hook": null,
       "notes": null,
-      "category": null,
       "owner": "Designer"
     },
     {
@@ -12323,7 +11731,6 @@
       "discipline": "Universal",
       "stat_hook": null,
       "notes": null,
-      "category": null,
       "owner": "Designer"
     },
     {
@@ -12340,7 +11747,6 @@
       "discipline": "Martial",
       "stat_hook": null,
       "notes": "A complex melee maneuver enabling a character to immediately attack following a highly successful parry (requires Parry). If the parry roll exceeds the attacker's Atk roll by enough to hit, the riposte is successful and damage is immediately rolled as a free action (does not consume an initiative action).",
-      "category": "General",
       "owner": "Designer"
     },
     {
@@ -12359,7 +11765,6 @@
       "discipline": "Universal",
       "stat_hook": null,
       "notes": null,
-      "category": null,
       "owner": "Designer"
     },
     {
@@ -12378,7 +11783,6 @@
       "discipline": "Universal",
       "stat_hook": null,
       "notes": null,
-      "category": null,
       "owner": "Designer"
     },
     {
@@ -12397,7 +11801,6 @@
       "discipline": "Universal",
       "stat_hook": null,
       "notes": null,
-      "category": null,
       "owner": "Designer"
     },
     {
@@ -12416,7 +11819,6 @@
       "discipline": "Universal",
       "stat_hook": null,
       "notes": null,
-      "category": null,
       "owner": "Designer"
     },
     {
@@ -12433,7 +11835,6 @@
       "discipline": "Somatics",
       "stat_hook": null,
       "notes": "Psychosomaticists with this discipline may thicken and toughen their skin, creating a rough, leathery surface which is highly resistant to damage. Users receive +1 to their AR (regardless of armor worn). Once activated, rough skin lasts for a number of rounds equal to their skill’s level. It may not be used in conjunction with tough skin or iron skin, and is considered gone if the user is rendered unconscious.",
-      "category": "Discipline",
       "owner": "Designer"
     },
     {
@@ -12452,7 +11853,6 @@
       "discipline": "Universal",
       "stat_hook": null,
       "notes": null,
-      "category": null,
       "owner": "Designer"
     },
     {
@@ -12471,7 +11871,6 @@
       "discipline": "Universal",
       "stat_hook": null,
       "notes": null,
-      "category": null,
       "owner": "Designer"
     },
     {
@@ -12490,7 +11889,6 @@
       "discipline": "Universal",
       "stat_hook": null,
       "notes": null,
-      "category": null,
       "owner": "Designer"
     },
     {
@@ -12509,7 +11907,6 @@
       "discipline": "Universal",
       "stat_hook": null,
       "notes": null,
-      "category": null,
       "owner": "Designer"
     },
     {
@@ -12528,7 +11925,6 @@
       "discipline": "Universal",
       "stat_hook": null,
       "notes": null,
-      "category": null,
       "owner": "Designer"
     },
     {
@@ -12547,7 +11943,6 @@
       "discipline": "Psionics",
       "stat_hook": null,
       "notes": null,
-      "category": null,
       "owner": "Designer"
     },
     {
@@ -12564,7 +11959,6 @@
       "discipline": "Martial",
       "stat_hook": null,
       "notes": "This allows a character to keep last round’s Initiative (Nish) roll if it was better than this round’s roll. However, this may only occur over one round (i.e. you cannot carry a single good roll across three consecutive rounds).",
-      "category": "General",
       "owner": "Designer"
     },
     {
@@ -12583,7 +11977,6 @@
       "discipline": "Universal",
       "stat_hook": null,
       "notes": null,
-      "category": null,
       "owner": "Designer"
     },
     {
@@ -12602,7 +11995,6 @@
       "discipline": "Universal",
       "stat_hook": null,
       "notes": null,
-      "category": null,
       "owner": "Designer"
     },
     {
@@ -12621,7 +12013,6 @@
       "discipline": "Martial",
       "stat_hook": null,
       "notes": null,
-      "category": null,
       "owner": "Designer"
     },
     {
@@ -12638,7 +12029,6 @@
       "discipline": "Martial",
       "stat_hook": null,
       "notes": "Normally, saved actions must be used by the end of the round or they are lost. This enhancement allows any unused actions from the previous round to be carried forward one round and used at any time (even before the character's current round's Nish).",
-      "category": "General",
       "owner": "Designer"
     },
     {
@@ -12657,7 +12047,6 @@
       "discipline": "Universal",
       "stat_hook": null,
       "notes": null,
-      "category": null,
       "owner": "Designer"
     },
     {
@@ -12676,7 +12065,6 @@
       "discipline": "Sorce",
       "stat_hook": null,
       "notes": null,
-      "category": null,
       "owner": "Designer"
     },
     {
@@ -12695,7 +12083,6 @@
       "discipline": "Universal",
       "stat_hook": null,
       "notes": null,
-      "category": null,
       "owner": "Designer"
     },
     {
@@ -12714,7 +12101,6 @@
       "discipline": "Universal",
       "stat_hook": null,
       "notes": null,
-      "category": null,
       "owner": "Designer"
     },
     {
@@ -12733,7 +12119,6 @@
       "discipline": "Universal",
       "stat_hook": null,
       "notes": null,
-      "category": null,
       "owner": "Designer"
     },
     {
@@ -12752,7 +12137,6 @@
       "discipline": "Universal",
       "stat_hook": null,
       "notes": null,
-      "category": null,
       "owner": "Designer"
     },
     {
@@ -12771,7 +12155,6 @@
       "discipline": "Universal",
       "stat_hook": null,
       "notes": null,
-      "category": null,
       "owner": "Designer"
     },
     {
@@ -12790,7 +12173,6 @@
       "discipline": "Universal",
       "stat_hook": null,
       "notes": null,
-      "category": null,
       "owner": "Designer"
     },
     {
@@ -12809,7 +12191,6 @@
       "discipline": "Psionics",
       "stat_hook": null,
       "notes": null,
-      "category": null,
       "owner": "Designer"
     },
     {
@@ -12828,7 +12209,6 @@
       "discipline": "Universal",
       "stat_hook": null,
       "notes": null,
-      "category": null,
       "owner": "Designer"
     },
     {
@@ -12847,7 +12227,6 @@
       "discipline": "Universal",
       "stat_hook": null,
       "notes": null,
-      "category": null,
       "owner": "Designer"
     },
     {
@@ -12866,7 +12245,6 @@
       "discipline": "Universal",
       "stat_hook": null,
       "notes": null,
-      "category": null,
       "owner": "Designer"
     },
     {
@@ -12885,7 +12263,6 @@
       "discipline": "Universal",
       "stat_hook": null,
       "notes": null,
-      "category": null,
       "owner": "Designer"
     },
     {
@@ -12904,7 +12281,6 @@
       "discipline": "Universal",
       "stat_hook": null,
       "notes": null,
-      "category": null,
       "owner": "Designer"
     },
     {
@@ -12923,7 +12299,6 @@
       "discipline": "Universal",
       "stat_hook": null,
       "notes": null,
-      "category": null,
       "owner": "Designer"
     },
     {
@@ -12942,7 +12317,6 @@
       "discipline": "Universal",
       "stat_hook": null,
       "notes": null,
-      "category": null,
       "owner": "Designer"
     },
     {
@@ -12961,7 +12335,6 @@
       "discipline": "Universal",
       "stat_hook": null,
       "notes": null,
-      "category": null,
       "owner": "Designer"
     },
     {
@@ -12980,7 +12353,6 @@
       "discipline": "Universal",
       "stat_hook": null,
       "notes": null,
-      "category": null,
       "owner": "Designer"
     },
     {
@@ -12999,7 +12371,6 @@
       "discipline": "Psionics",
       "stat_hook": null,
       "notes": null,
-      "category": null,
       "owner": "Designer"
     },
     {
@@ -13018,7 +12389,6 @@
       "discipline": "Universal",
       "stat_hook": null,
       "notes": null,
-      "category": null,
       "owner": "Designer"
     },
     {
@@ -13037,7 +12407,6 @@
       "discipline": "Universal",
       "stat_hook": null,
       "notes": null,
-      "category": null,
       "owner": "Designer"
     },
     {
@@ -13056,7 +12425,6 @@
       "discipline": "Universal",
       "stat_hook": null,
       "notes": null,
-      "category": null,
       "owner": "Designer"
     },
     {
@@ -13073,7 +12441,6 @@
       "discipline": "Martial",
       "stat_hook": null,
       "notes": "Sharp shooters are trained to fire at targets who are hiding behind cover if any portion of their bodies is visible. They shoot at such opponents with no penalty, completely negating any defensive bonuses the opponent would normally receive from partial cover.",
-      "category": "General",
       "owner": "Designer"
     },
     {
@@ -13090,7 +12457,6 @@
       "discipline": "Psionics",
       "stat_hook": null,
       "notes": "Manifests an invisible barrier of telekinetic deflection around the psionicist's body, absorbing physical impacts and energy blasts.",
-      "category": "Discipline",
       "owner": "Designer"
     },
     {
@@ -13109,7 +12475,6 @@
       "discipline": "Universal",
       "stat_hook": null,
       "notes": null,
-      "category": null,
       "owner": "Designer"
     },
     {
@@ -13128,7 +12493,6 @@
       "discipline": "Universal",
       "stat_hook": null,
       "notes": null,
-      "category": null,
       "owner": "Designer"
     },
     {
@@ -13147,7 +12511,6 @@
       "discipline": "Universal",
       "stat_hook": null,
       "notes": null,
-      "category": null,
       "owner": "Designer"
     },
     {
@@ -13166,7 +12529,6 @@
       "discipline": "Universal",
       "stat_hook": null,
       "notes": null,
-      "category": null,
       "owner": "Designer"
     },
     {
@@ -13185,7 +12547,6 @@
       "discipline": "Universal",
       "stat_hook": null,
       "notes": null,
-      "category": null,
       "owner": "Designer"
     },
     {
@@ -13204,7 +12565,6 @@
       "discipline": "Universal",
       "stat_hook": null,
       "notes": null,
-      "category": null,
       "owner": "Designer"
     },
     {
@@ -13223,7 +12583,6 @@
       "discipline": "Universal",
       "stat_hook": null,
       "notes": null,
-      "category": null,
       "owner": "Designer"
     },
     {
@@ -13242,7 +12601,6 @@
       "discipline": "Universal",
       "stat_hook": null,
       "notes": null,
-      "category": null,
       "owner": "Designer"
     },
     {
@@ -13261,7 +12619,6 @@
       "discipline": "Universal",
       "stat_hook": null,
       "notes": null,
-      "category": null,
       "owner": "Designer"
     },
     {
@@ -13280,7 +12637,6 @@
       "discipline": "Universal",
       "stat_hook": null,
       "notes": null,
-      "category": null,
       "owner": "Designer"
     },
     {
@@ -13297,7 +12653,6 @@
       "discipline": "Universal",
       "stat_hook": null,
       "notes": null,
-      "category": null,
       "owner": "Designer"
     },
     {
@@ -13316,7 +12671,6 @@
       "discipline": "Universal",
       "stat_hook": null,
       "notes": null,
-      "category": null,
       "owner": "Designer"
     },
     {
@@ -13335,7 +12689,6 @@
       "discipline": "Sorce",
       "stat_hook": null,
       "notes": null,
-      "category": null,
       "owner": "Designer"
     },
     {
@@ -13352,7 +12705,6 @@
       "discipline": "Sorce",
       "stat_hook": null,
       "notes": "This enhancement electrifies the sorcist’s body. The sorcist need not touch the target; any target within one square may be attacked. Attacks with this enhancement automatically hit, causing damage equal to a skill roll.",
-      "category": "Discipline",
       "owner": "Designer"
     },
     {
@@ -13371,7 +12723,6 @@
       "discipline": "Sorce",
       "stat_hook": null,
       "notes": null,
-      "category": null,
       "owner": "Designer"
     },
     {
@@ -13390,7 +12741,6 @@
       "discipline": "Psionics",
       "stat_hook": null,
       "notes": null,
-      "category": null,
       "owner": "Designer"
     },
     {
@@ -13407,7 +12757,6 @@
       "discipline": "Psionics",
       "stat_hook": null,
       "notes": "Using this enhancement, a psionicist forces an object or opponent backwards with sheer force of mind. The psionicist must roll skill vs the target’s Str in order to succeed. If successful, the enemy is shoved directly away from the psionicist a number of squares equal to the amount of the success (i.e. the amount that the skill roll exceeded the target’s Str). Opponents shoved in this manner take one point of damage for every square shoved if they strike an object in the course of their flight. This enhancement is very useful for pushing opponent’s into pits, over cliffs, etc.",
-      "category": "Discipline",
       "owner": "Designer"
     },
     {
@@ -13426,7 +12775,6 @@
       "discipline": "Universal",
       "stat_hook": null,
       "notes": null,
-      "category": null,
       "owner": "Designer"
     },
     {
@@ -13445,7 +12793,6 @@
       "discipline": "Universal",
       "stat_hook": null,
       "notes": null,
-      "category": null,
       "owner": "Designer"
     },
     {
@@ -13464,7 +12811,6 @@
       "discipline": "Universal",
       "stat_hook": null,
       "notes": null,
-      "category": null,
       "owner": "Designer"
     },
     {
@@ -13483,7 +12829,6 @@
       "discipline": "Universal",
       "stat_hook": null,
       "notes": null,
-      "category": null,
       "owner": "Designer"
     },
     {
@@ -13500,7 +12845,6 @@
       "discipline": "BioTech",
       "stat_hook": null,
       "notes": "Silvans integrate living biotech symbionts directly into their physiology. Triggering this conditioning synchronizes biological systems, granting Advantage on BioTech operations, Save 🫀, Environmental Perception, and Natural Resistances for the encounter.",
-      "category": "Class",
       "owner": "Designer"
     },
     {
@@ -13519,7 +12863,6 @@
       "discipline": "Universal",
       "stat_hook": null,
       "notes": null,
-      "category": null,
       "owner": "Designer"
     },
     {
@@ -13538,7 +12881,6 @@
       "discipline": "Universal",
       "stat_hook": null,
       "notes": null,
-      "category": null,
       "owner": "Designer"
     },
     {
@@ -13557,7 +12899,6 @@
       "discipline": "Universal",
       "stat_hook": null,
       "notes": null,
-      "category": null,
       "owner": "Designer"
     },
     {
@@ -13576,7 +12917,6 @@
       "discipline": "Universal",
       "stat_hook": null,
       "notes": null,
-      "category": null,
       "owner": "Designer"
     },
     {
@@ -13595,7 +12935,6 @@
       "discipline": "Psionics",
       "stat_hook": null,
       "notes": null,
-      "category": null,
       "owner": "Designer"
     },
     {
@@ -13614,7 +12953,6 @@
       "discipline": "Universal",
       "stat_hook": null,
       "notes": null,
-      "category": null,
       "owner": "Designer"
     },
     {
@@ -13631,7 +12969,6 @@
       "discipline": "Physical",
       "stat_hook": null,
       "notes": "If a character with slow drain takes critical damage, Vit drain may be stopped with a successful 🫀 check vs a difficulty equal to the critical damage (instead of the standard 5x). In any event, they only lose one Vitality point every two rounds instead of one point every round.",
-      "category": "General",
       "owner": "Designer"
     },
     {
@@ -13650,7 +12987,6 @@
       "discipline": "Universal",
       "stat_hook": null,
       "notes": null,
-      "category": null,
       "owner": "Designer"
     },
     {
@@ -13669,7 +13005,6 @@
       "discipline": "Universal",
       "stat_hook": null,
       "notes": null,
-      "category": null,
       "owner": "Designer"
     },
     {
@@ -13688,7 +13023,6 @@
       "discipline": "Universal",
       "stat_hook": null,
       "notes": null,
-      "category": null,
       "owner": "Designer"
     },
     {
@@ -13707,7 +13041,6 @@
       "discipline": "Universal",
       "stat_hook": null,
       "notes": null,
-      "category": null,
       "owner": "Designer"
     },
     {
@@ -13726,7 +13059,6 @@
       "discipline": "Universal",
       "stat_hook": null,
       "notes": null,
-      "category": null,
       "owner": "Designer"
     },
     {
@@ -13745,7 +13077,6 @@
       "discipline": "Universal",
       "stat_hook": null,
       "notes": null,
-      "category": null,
       "owner": "Designer"
     },
     {
@@ -13762,7 +13093,6 @@
       "discipline": "Universal",
       "stat_hook": null,
       "notes": null,
-      "category": null,
       "owner": "Designer"
     },
     {
@@ -13779,7 +13109,6 @@
       "discipline": "Universal",
       "stat_hook": null,
       "notes": null,
-      "category": null,
       "owner": "Designer"
     },
     {
@@ -13797,7 +13126,6 @@
       "discipline": "Martial",
       "stat_hook": null,
       "notes": null,
-      "category": null,
       "owner": "Designer"
     },
     {
@@ -13814,7 +13142,6 @@
       "discipline": "Social",
       "stat_hook": null,
       "notes": "The character is a member of the 'upper crust' (such as a titled noble, count, or baron among the Zin-Shee). They receive a +3 bonus on all Charisma and social checks when interacting with high-society circles, officials, or hierarchical social orders.",
-      "category": "General",
       "owner": "Designer"
     },
     {
@@ -13833,7 +13160,6 @@
       "discipline": "Sorce",
       "stat_hook": null,
       "notes": null,
-      "category": null,
       "owner": "Designer"
     },
     {
@@ -13852,7 +13178,6 @@
       "discipline": "Universal",
       "stat_hook": null,
       "notes": null,
-      "category": null,
       "owner": "Designer"
     },
     {
@@ -13871,7 +13196,6 @@
       "discipline": "Universal",
       "stat_hook": null,
       "notes": null,
-      "category": null,
       "owner": "Designer"
     },
     {
@@ -13888,7 +13212,6 @@
       "discipline": "Somatics",
       "stat_hook": null,
       "notes": "Somatic masters train their minds to manipulate cellular density and autonomic biological functions. Activating this state grants Advantage on Fortitude, Might, Physical Regeneration, and Body Integrity checks for the encounter.",
-      "category": "Class",
       "owner": "Designer"
     },
     {
@@ -13907,7 +13230,6 @@
       "discipline": "Psionics",
       "stat_hook": null,
       "notes": null,
-      "category": null,
       "owner": "Designer"
     },
     {
@@ -13926,7 +13248,6 @@
       "discipline": "Sorce",
       "stat_hook": null,
       "notes": null,
-      "category": null,
       "owner": "Designer"
     },
     {
@@ -13945,7 +13266,6 @@
       "discipline": "Psionics",
       "stat_hook": null,
       "notes": null,
-      "category": null,
       "owner": "Designer"
     },
     {
@@ -13962,7 +13282,6 @@
       "discipline": "Sorce",
       "stat_hook": null,
       "notes": "Warlocks attune their spirit to ambient Sorce energy conduits. Activating this awakening floods the wielder with mystical resonance, granting Advantage on Sorce spellcraft, Magic attribute rolls, Mystic Awareness, and Counter-✨ check for the encounter.",
-      "category": "Class",
       "owner": "Designer"
     },
     {
@@ -13979,7 +13298,6 @@
       "discipline": "Sorce",
       "stat_hook": null,
       "notes": "Envelops the sorcist in a shimmering aegis of woven arcane force that deflects physical strikes, energy beams, and sorce attacks.",
-      "category": "Discipline",
       "owner": "Designer"
     },
     {
@@ -13998,7 +13316,6 @@
       "discipline": "Psionics",
       "stat_hook": null,
       "notes": null,
-      "category": null,
       "owner": "Designer"
     },
     {
@@ -14017,7 +13334,6 @@
       "discipline": "Universal",
       "stat_hook": null,
       "notes": null,
-      "category": null,
       "owner": "Designer"
     },
     {
@@ -14034,7 +13350,6 @@
       "discipline": "Martial",
       "stat_hook": null,
       "notes": "The character has trained extensively to fight a favorite opponent race (e.g. Anthropos, Draca, katha, horak). All attacks and damage against that selected race are permanently at +1. May be selected multiple times for different races.",
-      "category": "General",
       "owner": "Designer"
     },
     {
@@ -14053,7 +13368,6 @@
       "discipline": "Somatics",
       "stat_hook": null,
       "notes": null,
-      "category": null,
       "owner": "Designer"
     },
     {
@@ -14070,7 +13384,6 @@
       "discipline": "Somatics",
       "stat_hook": null,
       "notes": "Accelerates internal physiology, muscle contraction, and synaptic reflexes to move with supernatural speed.",
-      "category": "Discipline",
       "owner": "Designer"
     },
     {
@@ -14088,7 +13401,6 @@
       "discipline": "Universal",
       "stat_hook": null,
       "notes": null,
-      "category": null,
       "owner": "Designer"
     },
     {
@@ -14107,7 +13419,6 @@
       "discipline": "Universal",
       "stat_hook": null,
       "notes": null,
-      "category": null,
       "owner": "Designer"
     },
     {
@@ -14126,7 +13437,6 @@
       "discipline": "Universal",
       "stat_hook": null,
       "notes": null,
-      "category": null,
       "owner": "Designer"
     },
     {
@@ -14145,7 +13455,6 @@
       "discipline": "Sorce",
       "stat_hook": null,
       "notes": null,
-      "category": null,
       "owner": "Designer"
     },
     {
@@ -14164,7 +13473,6 @@
       "discipline": "Universal",
       "stat_hook": null,
       "notes": null,
-      "category": null,
       "owner": "Designer"
     },
     {
@@ -14183,7 +13491,6 @@
       "discipline": "Universal",
       "stat_hook": null,
       "notes": null,
-      "category": null,
       "owner": "Designer"
     },
     {
@@ -14200,7 +13507,6 @@
       "discipline": "Mental",
       "stat_hook": null,
       "notes": "The character's eyes are adapted to capture minimal light (such as starlight or a computer diode), allowing them to see without penalty in low-light conditions. A single candle illuminates an entire stadium-sized area for them.",
-      "category": "General",
       "owner": "Designer"
     },
     {
@@ -14219,7 +13525,6 @@
       "discipline": "Universal",
       "stat_hook": null,
       "notes": null,
-      "category": null,
       "owner": "Designer"
     },
     {
@@ -14238,7 +13543,6 @@
       "discipline": "Universal",
       "stat_hook": null,
       "notes": null,
-      "category": null,
       "owner": "Designer"
     },
     {
@@ -14257,7 +13561,6 @@
       "discipline": "Universal",
       "stat_hook": null,
       "notes": null,
-      "category": null,
       "owner": "Designer"
     },
     {
@@ -14276,7 +13579,6 @@
       "discipline": "Universal",
       "stat_hook": null,
       "notes": null,
-      "category": null,
       "owner": "Designer"
     },
     {
@@ -14295,7 +13597,6 @@
       "discipline": "Universal",
       "stat_hook": null,
       "notes": null,
-      "category": null,
       "owner": "Designer"
     },
     {
@@ -14314,7 +13615,6 @@
       "discipline": "Universal",
       "stat_hook": null,
       "notes": null,
-      "category": null,
       "owner": "Designer"
     },
     {
@@ -14333,7 +13633,6 @@
       "discipline": "Sorce",
       "stat_hook": null,
       "notes": null,
-      "category": null,
       "owner": "Designer"
     },
     {
@@ -14352,7 +13651,6 @@
       "discipline": "Universal",
       "stat_hook": null,
       "notes": null,
-      "category": null,
       "owner": "Designer"
     },
     {
@@ -14371,7 +13669,6 @@
       "discipline": "Universal",
       "stat_hook": null,
       "notes": null,
-      "category": null,
       "owner": "Designer"
     },
     {
@@ -14390,7 +13687,6 @@
       "discipline": "Universal",
       "stat_hook": null,
       "notes": null,
-      "category": null,
       "owner": "Designer"
     },
     {
@@ -14409,7 +13705,6 @@
       "discipline": "Universal",
       "stat_hook": null,
       "notes": null,
-      "category": null,
       "owner": "Designer"
     },
     {
@@ -14428,7 +13723,6 @@
       "discipline": "Universal",
       "stat_hook": null,
       "notes": null,
-      "category": null,
       "owner": "Designer"
     },
     {
@@ -14447,7 +13741,6 @@
       "discipline": "Universal",
       "stat_hook": null,
       "notes": null,
-      "category": null,
       "owner": "Designer"
     },
     {
@@ -14466,7 +13759,6 @@
       "discipline": "Universal",
       "stat_hook": null,
       "notes": null,
-      "category": null,
       "owner": "Designer"
     },
     {
@@ -14485,7 +13777,6 @@
       "discipline": "Universal",
       "stat_hook": null,
       "notes": null,
-      "category": null,
       "owner": "Designer"
     },
     {
@@ -14504,7 +13795,6 @@
       "discipline": "Universal",
       "stat_hook": null,
       "notes": null,
-      "category": null,
       "owner": "Designer"
     },
     {
@@ -14523,7 +13813,6 @@
       "discipline": "Sorce",
       "stat_hook": null,
       "notes": null,
-      "category": null,
       "owner": "Designer"
     },
     {
@@ -14542,7 +13831,6 @@
       "discipline": "Universal",
       "stat_hook": null,
       "notes": null,
-      "category": null,
       "owner": "Designer"
     },
     {
@@ -14561,7 +13849,6 @@
       "discipline": "Universal",
       "stat_hook": null,
       "notes": null,
-      "category": null,
       "owner": "Designer"
     },
     {
@@ -14580,7 +13867,6 @@
       "discipline": "Psionics",
       "stat_hook": null,
       "notes": null,
-      "category": null,
       "owner": "Designer"
     },
     {
@@ -14599,7 +13885,6 @@
       "discipline": "Somatics",
       "stat_hook": null,
       "notes": null,
-      "category": null,
       "owner": "Designer"
     },
     {
@@ -14616,7 +13901,6 @@
       "discipline": "Somatics",
       "stat_hook": null,
       "notes": "Strength surge is much like strengthen in that muscle efficiency is increased. Also, biochemical stimulants are released to enhance muscle strength. Strength surge gives the user +3 to strength for any one action (i.e. one roll). This enhancement may not be used in conjunction with strengthen.",
-      "category": "Discipline",
       "owner": "Designer"
     },
     {
@@ -14635,7 +13919,6 @@
       "discipline": "Somatics",
       "stat_hook": null,
       "notes": null,
-      "category": null,
       "owner": "Designer"
     },
     {
@@ -14652,7 +13935,6 @@
       "discipline": "Somatics",
       "stat_hook": null,
       "notes": "Users of this discipline increase the efficiency of communication between the brain and musculature, allowing muscles to react more efficiently. Strengthen increases the user’s strength by +1 for the duration of one action. This enhancement may not be used in conjunction with strength surge.",
-      "category": "Discipline",
       "owner": "Designer"
     },
     {
@@ -14669,7 +13951,6 @@
       "discipline": "Mental",
       "stat_hook": null,
       "notes": "A character with this enhancement is allowed an enhanced roll (+3) on all Will Power and 🫀 check to stay conscious as a result of critical damage, suffocation, toxic gases, or knock-out poisons.",
-      "category": "General",
       "owner": "Designer"
     },
     {
@@ -14686,7 +13967,6 @@
       "discipline": "Martial",
       "stat_hook": null,
       "notes": "Characters with this skill specialize in doing damage to buildings, walls, doors, etc. They possess an inherent understanding of a structure's physical stress points. Damage against structures is calculated at +3. Cannot be used against ships, vehicles, or ATMs.",
-      "category": "General",
       "owner": "Designer"
     },
     {
@@ -14705,7 +13985,6 @@
       "discipline": "Somatics",
       "stat_hook": null,
       "notes": null,
-      "category": null,
       "owner": "Designer"
     },
     {
@@ -14722,7 +14001,6 @@
       "discipline": "Somatics",
       "stat_hook": null,
       "notes": "The psychosomaticist focuses neural kinetic energy into a physical unarmed strike, channeling disruptive shock directly into the target's nerve clusters upon impact. The character may choose to focus entirely on non-lethal stunning force, or inflict normal damage in addition to the stun.",
-      "category": "Discipline",
       "owner": "Designer"
     },
     {
@@ -14739,7 +14017,6 @@
       "discipline": "Martial",
       "stat_hook": null,
       "notes": "Delivers a concussive strike to vulnerable pressure points or skull sutures to induce temporary shock and disorientation.",
-      "category": "General",
       "owner": "Designer"
     },
     {
@@ -14758,7 +14035,6 @@
       "discipline": "Psionics",
       "stat_hook": null,
       "notes": null,
-      "category": null,
       "owner": "Designer"
     },
     {
@@ -14777,7 +14053,6 @@
       "discipline": "Universal",
       "stat_hook": null,
       "notes": null,
-      "category": null,
       "owner": "Designer"
     },
     {
@@ -14796,7 +14071,6 @@
       "discipline": "Universal",
       "stat_hook": null,
       "notes": null,
-      "category": null,
       "owner": "Designer"
     },
     {
@@ -14815,7 +14089,6 @@
       "discipline": "Universal",
       "stat_hook": null,
       "notes": null,
-      "category": null,
       "owner": "Designer"
     },
     {
@@ -14834,7 +14107,6 @@
       "discipline": "Universal",
       "stat_hook": null,
       "notes": null,
-      "category": null,
       "owner": "Designer"
     },
     {
@@ -14853,7 +14125,6 @@
       "discipline": "Universal",
       "stat_hook": null,
       "notes": null,
-      "category": null,
       "owner": "Designer"
     },
     {
@@ -14872,7 +14143,6 @@
       "discipline": "Somatics",
       "stat_hook": null,
       "notes": null,
-      "category": null,
       "owner": "Designer"
     },
     {
@@ -14889,7 +14159,6 @@
       "discipline": "Somatics",
       "stat_hook": null,
       "notes": "This enhancement increases a psychosomaticist’s hearing, granting a +3 bonus to a character’s hearing based 👁️ Perception check. It may not be used in conjunction with hearing boost.",
-      "category": "Discipline",
       "owner": "Designer"
     },
     {
@@ -14908,7 +14177,6 @@
       "discipline": "Somatics",
       "stat_hook": null,
       "notes": null,
-      "category": null,
       "owner": "Designer"
     },
     {
@@ -14925,7 +14193,6 @@
       "discipline": "Somatics",
       "stat_hook": null,
       "notes": "Super vision enhances and improves optical efficiency, granting the user a +3 bonus to a character’s sight based 👁️ Perception check. It may not be used in conjunction with vision boost.",
-      "category": "Discipline",
       "owner": "Designer"
     },
     {
@@ -14944,7 +14211,6 @@
       "discipline": "Universal",
       "stat_hook": null,
       "notes": null,
-      "category": null,
       "owner": "Designer"
     },
     {
@@ -14963,7 +14229,6 @@
       "discipline": "Universal",
       "stat_hook": null,
       "notes": null,
-      "category": null,
       "owner": "Designer"
     },
     {
@@ -14981,7 +14246,6 @@
       "discipline": "Psionics",
       "stat_hook": null,
       "notes": null,
-      "category": null,
       "owner": "Designer"
     },
     {
@@ -14998,7 +14262,6 @@
       "discipline": "Martial",
       "stat_hook": null,
       "notes": "Used to observe an opponent’s fighting style. The character must purposely miss (no attack roll needed) one or more consecutive attacks. For each round spent analyzing in this way, the character receives a +1 bonus to hit that opponent on subsequent rounds, up to a maximum of +3.",
-      "category": "General",
       "owner": "Designer"
     },
     {
@@ -15017,7 +14280,6 @@
       "discipline": "Universal",
       "stat_hook": null,
       "notes": null,
-      "category": null,
       "owner": "Designer"
     },
     {
@@ -15035,7 +14297,6 @@
       "discipline": "Universal",
       "stat_hook": null,
       "notes": null,
-      "category": null,
       "owner": "Designer"
     },
     {
@@ -15052,7 +14313,6 @@
       "discipline": "Universal",
       "stat_hook": null,
       "notes": null,
-      "category": null,
       "owner": "Designer"
     },
     {
@@ -15069,7 +14329,6 @@
       "discipline": "Physical",
       "stat_hook": null,
       "notes": "A venomous barbed natural tail spike unique to Kryll physiology, capable of injecting paralytic soporific neurotoxins.",
-      "category": "General",
       "owner": "Designer"
     },
     {
@@ -15088,7 +14347,6 @@
       "discipline": "Universal",
       "stat_hook": null,
       "notes": null,
-      "category": null,
       "owner": "Designer"
     },
     {
@@ -15105,7 +14363,6 @@
       "discipline": "Tech",
       "stat_hook": null,
       "notes": null,
-      "category": null,
       "owner": "Designer"
     },
     {
@@ -15124,7 +14381,6 @@
       "discipline": "Psionics",
       "stat_hook": null,
       "notes": null,
-      "category": null,
       "owner": "Designer"
     },
     {
@@ -15143,7 +14399,6 @@
       "discipline": "Psionics",
       "stat_hook": null,
       "notes": null,
-      "category": null,
       "owner": "Designer"
     },
     {
@@ -15162,7 +14417,6 @@
       "discipline": "Psionics",
       "stat_hook": null,
       "notes": null,
-      "category": null,
       "owner": "Designer"
     },
     {
@@ -15181,7 +14435,6 @@
       "discipline": "Psionics",
       "stat_hook": null,
       "notes": null,
-      "category": null,
       "owner": "Designer"
     },
     {
@@ -15200,7 +14453,6 @@
       "discipline": "Universal",
       "stat_hook": null,
       "notes": null,
-      "category": null,
       "owner": "Designer"
     },
     {
@@ -15219,7 +14471,6 @@
       "discipline": "Universal",
       "stat_hook": null,
       "notes": null,
-      "category": null,
       "owner": "Designer"
     },
     {
@@ -15238,7 +14489,6 @@
       "discipline": "Psionics",
       "stat_hook": null,
       "notes": null,
-      "category": null,
       "owner": "Designer"
     },
     {
@@ -15255,7 +14505,6 @@
       "discipline": "Psionics",
       "stat_hook": null,
       "notes": "This enhancement allows the psionicist to send thoughts to another individual within a number of squares equal to the skill’s value. The subject need not be a telepath, but must speak the same language in order to receive a linguistic message — otherwise the subject may only receive images and impressions. Characters sending messages to others who do not speak their language should describe the images being sent, and the GM will determine whether the subject understands or not.",
-      "category": "Discipline",
       "owner": "Designer"
     },
     {
@@ -15272,7 +14521,6 @@
       "discipline": "Sorce",
       "stat_hook": null,
       "notes": "This allows a sorcist to teleport instantly to another location. The sorcist selects the new location and describes it to the GM, who then determines the enhancement’s cost. Possible costs follow, although they should be reduced (up to half) based upon how familiar the sorcist is with the intended teleport sight: 10' (Dif 5), 100' (Dif 10), 1 mile (Dif 15), 10 miles (Dif 20), 100 miles (Dif 20), 1000 miles (Dif 20), On planet (Dif 20), Adjacent planet (Dif 20), In system (Dif 20). Risk of materializing in a solid object exists.",
-      "category": "Discipline",
       "owner": "Designer"
     },
     {
@@ -15291,7 +14539,6 @@
       "discipline": "Universal",
       "stat_hook": null,
       "notes": null,
-      "category": null,
       "owner": "Designer"
     },
     {
@@ -15310,7 +14557,6 @@
       "discipline": "Psionics",
       "stat_hook": null,
       "notes": null,
-      "category": null,
       "owner": "Designer"
     },
     {
@@ -15327,7 +14573,6 @@
       "discipline": "Universal",
       "stat_hook": null,
       "notes": null,
-      "category": null,
       "owner": "Designer"
     },
     {
@@ -15346,7 +14591,6 @@
       "discipline": "Universal",
       "stat_hook": null,
       "notes": null,
-      "category": null,
       "owner": "Designer"
     },
     {
@@ -15365,7 +14609,6 @@
       "discipline": "Universal",
       "stat_hook": null,
       "notes": null,
-      "category": null,
       "owner": "Designer"
     },
     {
@@ -15384,7 +14627,6 @@
       "discipline": "Universal",
       "stat_hook": null,
       "notes": null,
-      "category": null,
       "owner": "Designer"
     },
     {
@@ -15403,7 +14645,6 @@
       "discipline": "Universal",
       "stat_hook": null,
       "notes": null,
-      "category": null,
       "owner": "Designer"
     },
     {
@@ -15420,7 +14661,6 @@
       "discipline": "Martial",
       "stat_hook": null,
       "notes": "This enhancement enables a character to throw melee weapons which normally cannot be thrown, such as swords, clubs, or krays. Thrown melee weapons use normal range attenuation rules (no penalty at 2 squares, -1 at 4, -2 at 6, etc.) and cause normal damage minus the Melee Damage adjustment.",
-      "category": "General",
       "owner": "Designer"
     },
     {
@@ -15439,7 +14679,6 @@
       "discipline": "Universal",
       "stat_hook": null,
       "notes": null,
-      "category": null,
       "owner": "Designer"
     },
     {
@@ -15458,7 +14697,6 @@
       "discipline": "Psionics",
       "stat_hook": null,
       "notes": null,
-      "category": null,
       "owner": "Designer"
     },
     {
@@ -15477,7 +14715,6 @@
       "discipline": "Universal",
       "stat_hook": null,
       "notes": null,
-      "category": null,
       "owner": "Designer"
     },
     {
@@ -15494,7 +14731,6 @@
       "discipline": "Physical",
       "stat_hook": null,
       "notes": "This gives a character an enhanced 💪 check (+3) when rolling to hold on to anything, resist being disarmed of their weapon, or climbing ropes under severe strain.",
-      "category": "General",
       "owner": "Designer"
     },
     {
@@ -15511,7 +14747,6 @@
       "discipline": "Martial",
       "stat_hook": null,
       "notes": "Many battles take place in narrow starship corridors, alien tunnels, or cramped ruins. The tight quarters enhancement enables characters to fight in such surroundings without incurring any of the standard movement or combat attack penalties.",
-      "category": "General",
       "owner": "Designer"
     },
     {
@@ -15530,7 +14765,6 @@
       "discipline": "Universal",
       "stat_hook": null,
       "notes": null,
-      "category": null,
       "owner": "Designer"
     },
     {
@@ -15549,7 +14783,6 @@
       "discipline": "Universal",
       "stat_hook": null,
       "notes": null,
-      "category": null,
       "owner": "Designer"
     },
     {
@@ -15568,7 +14801,6 @@
       "discipline": "Sorce",
       "stat_hook": null,
       "notes": null,
-      "category": null,
       "owner": "Designer"
     },
     {
@@ -15587,7 +14819,6 @@
       "discipline": "Universal",
       "stat_hook": null,
       "notes": null,
-      "category": null,
       "owner": "Designer"
     },
     {
@@ -15606,7 +14837,6 @@
       "discipline": "Universal",
       "stat_hook": null,
       "notes": null,
-      "category": null,
       "owner": "Designer"
     },
     {
@@ -15625,7 +14855,6 @@
       "discipline": "Sorce",
       "stat_hook": null,
       "notes": null,
-      "category": null,
       "owner": "Designer"
     },
     {
@@ -15642,7 +14871,6 @@
       "discipline": "Physical",
       "stat_hook": null,
       "notes": "Characters with this enhancement have highly resilient skeletons or padding. They may add a permanent +1 bonus to their Armor Rating (AR) checks when defending against blunt weapons (punches, clubs, rocks, maces).",
-      "category": "General",
       "owner": "Designer"
     },
     {
@@ -15659,7 +14887,6 @@
       "discipline": "Physical",
       "stat_hook": null,
       "notes": "The character's skin or protective field is reinforced. They may add a permanent +1 bonus to their Armor Rating (AR) checks when defending against edged weapons (swords, daggers, krays).",
-      "category": "General",
       "owner": "Designer"
     },
     {
@@ -15676,7 +14903,6 @@
       "discipline": "Physical",
       "stat_hook": null,
       "notes": "This enhancement grants the character a permanent +1 bonus to their Armor Rating (AR) checks when defending against energy weapons (blasters, lasers, plasma swords).",
-      "category": "General",
       "owner": "Designer"
     },
     {
@@ -15693,7 +14919,6 @@
       "discipline": "Physical",
       "stat_hook": null,
       "notes": "This enhancement grants the character a permanent +1 bonus to their Armor Rating (AR) checks when defending against physical kinetic projectiles (renders, disk weapons, scythe cannons).",
-      "category": "General",
       "owner": "Designer"
     },
     {
@@ -15712,7 +14937,6 @@
       "discipline": "Somatics",
       "stat_hook": null,
       "notes": null,
-      "category": null,
       "owner": "Designer"
     },
     {
@@ -15729,7 +14953,6 @@
       "discipline": "Somatics",
       "stat_hook": null,
       "notes": "This discipline transforms the user’s skin into a tough, rocky sheath, even more resistant to damage than rough skin. Tough skin gives psychosomaticists +2 to AR (regardless of armor worn), and lasts for a number of rounds equal to their skill’s level. Tough skin can not be used in conjunction with rough skin or iron skin, and is considered gone if the user is rendered unconscious.",
-      "category": "Discipline",
       "owner": "Designer"
     },
     {
@@ -15748,7 +14971,6 @@
       "discipline": "Universal",
       "stat_hook": null,
       "notes": null,
-      "category": null,
       "owner": "Designer"
     },
     {
@@ -15767,7 +14989,6 @@
       "discipline": "Universal",
       "stat_hook": null,
       "notes": null,
-      "category": null,
       "owner": "Designer"
     },
     {
@@ -15786,7 +15007,6 @@
       "discipline": "Universal",
       "stat_hook": null,
       "notes": null,
-      "category": null,
       "owner": "Designer"
     },
     {
@@ -15805,7 +15025,6 @@
       "discipline": "Universal",
       "stat_hook": null,
       "notes": null,
-      "category": null,
       "owner": "Designer"
     },
     {
@@ -15824,7 +15043,6 @@
       "discipline": "Universal",
       "stat_hook": null,
       "notes": null,
-      "category": null,
       "owner": "Designer"
     },
     {
@@ -15843,7 +15061,6 @@
       "discipline": "Psionics",
       "stat_hook": null,
       "notes": null,
-      "category": null,
       "owner": "Designer"
     },
     {
@@ -15862,7 +15079,6 @@
       "discipline": "Universal",
       "stat_hook": null,
       "notes": null,
-      "category": null,
       "owner": "Designer"
     },
     {
@@ -15881,7 +15097,6 @@
       "discipline": "Universal",
       "stat_hook": null,
       "notes": null,
-      "category": null,
       "owner": "Designer"
     },
     {
@@ -15900,7 +15115,6 @@
       "discipline": "Psionics",
       "stat_hook": null,
       "notes": null,
-      "category": null,
       "owner": "Designer"
     },
     {
@@ -15919,7 +15133,6 @@
       "discipline": "Sorce",
       "stat_hook": null,
       "notes": null,
-      "category": null,
       "owner": "Designer"
     },
     {
@@ -15938,7 +15151,6 @@
       "discipline": "Universal",
       "stat_hook": null,
       "notes": null,
-      "category": null,
       "owner": "Designer"
     },
     {
@@ -15957,7 +15169,6 @@
       "discipline": "Universal",
       "stat_hook": null,
       "notes": null,
-      "category": null,
       "owner": "Designer"
     },
     {
@@ -15976,7 +15187,6 @@
       "discipline": "Universal",
       "stat_hook": null,
       "notes": null,
-      "category": null,
       "owner": "Designer"
     },
     {
@@ -15995,7 +15205,6 @@
       "discipline": "Universal",
       "stat_hook": null,
       "notes": null,
-      "category": null,
       "owner": "Designer"
     },
     {
@@ -16014,7 +15223,6 @@
       "discipline": "Martial",
       "stat_hook": null,
       "notes": null,
-      "category": null,
       "owner": "Designer"
     },
     {
@@ -16033,7 +15241,6 @@
       "discipline": "Universal",
       "stat_hook": null,
       "notes": null,
-      "category": null,
       "owner": "Designer"
     },
     {
@@ -16050,7 +15257,6 @@
       "discipline": "Martial",
       "stat_hook": null,
       "notes": "This enhancement enables a character to fight with two melee weapons — one in each hand. The character may roll to hit once or twice, but both rolls are made at the same rating — equal to the worst weapon’s Atk or -2 less than the best weapon’s Atk (whichever is the lower). Must be taken for both weapons.",
-      "category": "General",
       "owner": "Designer"
     },
     {
@@ -16069,7 +15275,6 @@
       "discipline": "Universal",
       "stat_hook": null,
       "notes": null,
-      "category": null,
       "owner": "Designer"
     },
     {
@@ -16088,7 +15293,6 @@
       "discipline": "Universal",
       "stat_hook": null,
       "notes": null,
-      "category": null,
       "owner": "Designer"
     },
     {
@@ -16107,7 +15311,6 @@
       "discipline": "Universal",
       "stat_hook": null,
       "notes": null,
-      "category": null,
       "owner": "Designer"
     },
     {
@@ -16126,7 +15329,6 @@
       "discipline": "Universal",
       "stat_hook": null,
       "notes": null,
-      "category": null,
       "owner": "Designer"
     },
     {
@@ -16145,7 +15347,6 @@
       "discipline": "Universal",
       "stat_hook": null,
       "notes": null,
-      "category": null,
       "owner": "Designer"
     },
     {
@@ -16164,7 +15365,6 @@
       "discipline": "Universal",
       "stat_hook": null,
       "notes": null,
-      "category": null,
       "owner": "Designer"
     },
     {
@@ -16183,7 +15383,6 @@
       "discipline": "Universal",
       "stat_hook": null,
       "notes": null,
-      "category": null,
       "owner": "Designer"
     },
     {
@@ -16202,7 +15401,6 @@
       "discipline": "Universal",
       "stat_hook": null,
       "notes": null,
-      "category": null,
       "owner": "Designer"
     },
     {
@@ -16221,7 +15419,6 @@
       "discipline": "Universal",
       "stat_hook": null,
       "notes": null,
-      "category": null,
       "owner": "Designer"
     },
     {
@@ -16238,7 +15435,6 @@
       "discipline": "Sorce",
       "stat_hook": null,
       "notes": "Channels predatory necrotic sorcery through touch, siphoning the living life essence of an organic victim directly into the caster's own body to mend wounds.",
-      "category": "Discipline",
       "owner": "Designer"
     },
     {
@@ -16257,7 +15453,6 @@
       "discipline": "Universal",
       "stat_hook": null,
       "notes": null,
-      "category": null,
       "owner": "Designer"
     },
     {
@@ -16274,7 +15469,6 @@
       "discipline": "Universal",
       "stat_hook": null,
       "notes": "Marines undergo intensive physical and genetic enhancements (enlarged chest cavities, modified adrenal glands, strengthened immune system, and reinforced muscle fibers). Activating this conditioning grants Advantage on Technology, Dexterity, Strength, Fortitude Resistance (FR), and Ranged attacks for the encounter.",
-      "category": "Class",
       "owner": "Designer"
     },
     {
@@ -16293,7 +15487,6 @@
       "discipline": "Universal",
       "stat_hook": null,
       "notes": null,
-      "category": null,
       "owner": "Designer"
     },
     {
@@ -16312,7 +15505,6 @@
       "discipline": "Psionics",
       "stat_hook": null,
       "notes": null,
-      "category": null,
       "owner": "Designer"
     },
     {
@@ -16331,7 +15523,6 @@
       "discipline": "Psionics",
       "stat_hook": null,
       "notes": null,
-      "category": null,
       "owner": "Designer"
     },
     {
@@ -16350,7 +15541,6 @@
       "discipline": "Universal",
       "stat_hook": null,
       "notes": null,
-      "category": null,
       "owner": "Designer"
     },
     {
@@ -16369,7 +15559,6 @@
       "discipline": "Martial",
       "stat_hook": null,
       "notes": null,
-      "category": null,
       "owner": "Designer"
     },
     {
@@ -16388,7 +15577,6 @@
       "discipline": "Universal",
       "stat_hook": null,
       "notes": null,
-      "category": null,
       "owner": "Designer"
     },
     {
@@ -16407,7 +15595,6 @@
       "discipline": "Universal",
       "stat_hook": null,
       "notes": null,
-      "category": null,
       "owner": "Designer"
     },
     {
@@ -16426,7 +15613,6 @@
       "discipline": "Universal",
       "stat_hook": null,
       "notes": null,
-      "category": null,
       "owner": "Designer"
     },
     {
@@ -16445,7 +15631,6 @@
       "discipline": "Somatics",
       "stat_hook": null,
       "notes": null,
-      "category": null,
       "owner": "Designer"
     },
     {
@@ -16462,7 +15647,6 @@
       "discipline": "Somatics",
       "stat_hook": null,
       "notes": "Psychosomaticists with this enhancement can effect the efficiency of their optic nerves, improving vision and providing a form of telescopic sight. Vision boost gives the psychosomaticist +1 to his vision related 👁️ Perception check.",
-      "category": "Discipline",
       "owner": "Designer"
     },
     {
@@ -16481,7 +15665,6 @@
       "discipline": "Somatics",
       "stat_hook": null,
       "notes": null,
-      "category": null,
       "owner": "Designer"
     },
     {
@@ -16498,7 +15681,6 @@
       "discipline": "Somatics",
       "stat_hook": null,
       "notes": "Using this enhancement, psychosomaticists may temporarily increase their bodily Vitality, and are able to take additional damage in combat. This power may only be used when the psychosomaticist is healthy and unwounded. It adds the psychosomaticist’s skill’s value to his Vit maximum (temporarily, don’t actually change the number in the maximum box). The additional Vit points must be the first ones lost in combat, and they may not be healed once lost. These extra Vit points last for a number of rounds equal to the skill’s value.",
-      "category": "Discipline",
       "owner": "Designer"
     },
     {
@@ -16517,7 +15699,6 @@
       "discipline": "Martial",
       "stat_hook": null,
       "notes": null,
-      "category": null,
       "owner": "Designer"
     },
     {
@@ -16536,7 +15717,6 @@
       "discipline": "Sorce",
       "stat_hook": null,
       "notes": null,
-      "category": null,
       "owner": "Designer"
     },
     {
@@ -16555,7 +15735,6 @@
       "discipline": "Universal",
       "stat_hook": null,
       "notes": null,
-      "category": null,
       "owner": "Designer"
     },
     {
@@ -16574,7 +15753,6 @@
       "discipline": "Universal",
       "stat_hook": null,
       "notes": null,
-      "category": null,
       "owner": "Designer"
     },
     {
@@ -16593,7 +15771,6 @@
       "discipline": "Universal",
       "stat_hook": null,
       "notes": null,
-      "category": null,
       "owner": "Designer"
     },
     {
@@ -16612,7 +15789,6 @@
       "discipline": "Martial",
       "stat_hook": null,
       "notes": null,
-      "category": null,
       "owner": "Designer"
     },
     {
@@ -16631,7 +15807,6 @@
       "discipline": "Universal",
       "stat_hook": null,
       "notes": null,
-      "category": null,
       "owner": "Designer"
     },
     {
@@ -16650,7 +15825,6 @@
       "discipline": "Sorce",
       "stat_hook": null,
       "notes": null,
-      "category": null,
       "owner": "Designer"
     },
     {
@@ -16667,7 +15841,6 @@
       "discipline": "Universal",
       "stat_hook": null,
       "notes": "Destrons undergo extreme physiological, genetic, and heavy-weapons training. Activating this conditioning allows the Destron to effortlessly brace and fire massive ordnance, granting Advantage on Technology, Strength, Heavy Weapons, Ranged attacks, and Armor checks for the encounter.",
-      "category": "Class",
       "owner": "Designer"
     },
     {
@@ -16686,7 +15859,6 @@
       "discipline": "Universal",
       "stat_hook": null,
       "notes": null,
-      "category": null,
       "owner": "Designer"
     },
     {
@@ -16705,7 +15877,6 @@
       "discipline": "Universal",
       "stat_hook": null,
       "notes": null,
-      "category": null,
       "owner": "Designer"
     },
     {
@@ -16724,7 +15895,6 @@
       "discipline": "Universal",
       "stat_hook": null,
       "notes": null,
-      "category": null,
       "owner": "Designer"
     },
     {
@@ -16743,7 +15913,6 @@
       "discipline": "Psionics",
       "stat_hook": null,
       "notes": null,
-      "category": null,
       "owner": "Designer"
     },
     {
@@ -16762,7 +15931,6 @@
       "discipline": "Universal",
       "stat_hook": null,
       "notes": null,
-      "category": null,
       "owner": "Designer"
     },
     {
@@ -16779,7 +15947,6 @@
       "discipline": "Social",
       "stat_hook": null,
       "notes": "The character comes from a background of significant financial resources. This translates directly to doubling their starting credits during character creation or receiving double pay/allowance under specific conditions (synthesized from Rule Book currency mechanics).",
-      "category": "General",
       "owner": "Designer"
     },
     {
@@ -16798,7 +15965,6 @@
       "discipline": "Universal",
       "stat_hook": null,
       "notes": null,
-      "category": null,
       "owner": "Designer"
     },
     {
@@ -16817,7 +15983,6 @@
       "discipline": "Universal",
       "stat_hook": null,
       "notes": null,
-      "category": null,
       "owner": "Designer"
     },
     {
@@ -16836,7 +16001,6 @@
       "discipline": "Universal",
       "stat_hook": null,
       "notes": null,
-      "category": null,
       "owner": "Designer"
     },
     {
@@ -16855,7 +16019,6 @@
       "discipline": "Universal",
       "stat_hook": null,
       "notes": null,
-      "category": null,
       "owner": "Designer"
     },
     {
@@ -16872,7 +16035,6 @@
       "discipline": "Martial",
       "stat_hook": null,
       "notes": "Allows the character to demonstrate their mastery of a weapon, displaying trick shooting or flourishes to overawe opponents. Takes an Atk action; roll Atk skill vs opponent’s Shock. If successful, opponents are afraid of the character, and attacks against them are made at a +1 bonus.",
-      "category": "General",
       "owner": "Designer"
     },
     {
@@ -16891,7 +16053,6 @@
       "discipline": "Universal",
       "stat_hook": null,
       "notes": null,
-      "category": null,
       "owner": "Designer"
     },
     {
@@ -16910,7 +16071,6 @@
       "discipline": "Universal",
       "stat_hook": null,
       "notes": null,
-      "category": null,
       "owner": "Designer"
     },
     {
@@ -16929,7 +16089,6 @@
       "discipline": "Universal",
       "stat_hook": null,
       "notes": null,
-      "category": null,
       "owner": "Designer"
     },
     {
@@ -16948,7 +16107,6 @@
       "discipline": "Martial",
       "stat_hook": null,
       "notes": null,
-      "category": null,
       "owner": "Designer"
     },
     {
@@ -16967,7 +16125,6 @@
       "discipline": "Universal",
       "stat_hook": null,
       "notes": null,
-      "category": null,
       "owner": "Designer"
     },
     {
@@ -16986,7 +16143,6 @@
       "discipline": "Sorce",
       "stat_hook": null,
       "notes": null,
-      "category": null,
       "owner": "Designer"
     },
     {
@@ -17005,7 +16161,6 @@
       "discipline": "Universal",
       "stat_hook": null,
       "notes": null,
-      "category": null,
       "owner": "Designer"
     },
     {
@@ -17024,7 +16179,6 @@
       "discipline": "Universal",
       "stat_hook": null,
       "notes": null,
-      "category": null,
       "owner": "Designer"
     },
     {
@@ -17043,7 +16197,6 @@
       "discipline": "Universal",
       "stat_hook": null,
       "notes": null,
-      "category": null,
       "owner": "Designer"
     },
     {
@@ -17062,7 +16215,6 @@
       "discipline": "Universal",
       "stat_hook": null,
       "notes": null,
-      "category": null,
       "owner": "Designer"
     },
     {
@@ -17081,7 +16233,6 @@
       "discipline": "Universal",
       "stat_hook": null,
       "notes": null,
-      "category": null,
       "owner": "Designer"
     },
     {
@@ -17098,7 +16249,6 @@
       "discipline": "Physical",
       "stat_hook": null,
       "notes": "Combatants unfamiliar with zero-gravity are at a serious disadvantage. Zero-Gravity specialists have trained extensively to deal with the three-dimensional physics and movement restrictions of low-g or zero-g space, allowing them to move and fight without penalty.",
-      "category": "General",
       "owner": "Designer"
     }
   ],
@@ -21222,7 +20372,7 @@
       "name": "Knight’s [Shield]",
       "action": "P",
       "usage": "1-⚡",
-      "effect": "Negate 1 Vit completely.",
+      "effect": "All Wnds-1 for Encounter",
       "belongs_to": "Supplies: Knight’s [Shield]",
       "genres": [
         "Medieval",
