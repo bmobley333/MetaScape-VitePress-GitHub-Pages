@@ -1033,7 +1033,7 @@ Select one of the many sub-sets of powers such as Class👤, Race🧬, Combat St
 | Combat | 1-Enc | F | **Quick Recovery** | Stand from Prone; no P cost. |
 | Combat | 1-Enc | P | **Radiate Fear (mso)** | Radiate fear creates an aura of dread. |
 | Combat | 2-Enc | P | **Read Surface Thoughts (mso)** | the psionicist to read the thoughts of another individual. |
-| Combat | 1-Enc | P | **Regeneration (mso)** | Cellular repair; regain 1 Vit per Rnd. |
+| Combat | 1-Enc | P | **Regeneration (mso)** | Regain 1 Vit per Rnd for Encounter. |
 | Combat | 1-Enc | F | **Relentless Flow** | If hitting same target 2 consecutive rounds: Dmg+1 for Encounter. |
 | Combat | 1-Enc | F | **Relentless Pressure** | If you hit with both weapons in same rnd; Atk+1 for Encounter. |
 | Combat | 2-Enc | A | **Rend (mso)** | Rng Short; telekinetically rip target; Atk ✨ Dmg d✨; ignores AR. |
