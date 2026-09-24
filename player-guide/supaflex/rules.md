@@ -26,7 +26,7 @@ outline: 2
 
 📉 Minimal Tracking – Players should track only Vit and Luck chits whenever possible. Low overhead means more energy spent on roleplay, tactics, and fun.
 
-🎯 KISS & Data De-Duplication – Keep It Simple & Single-source-of-truth. Never duplicate database-backed tables (Weapons, Armor, Shields, Gear, Powers, Magic Items, Skill Sets, Monsters, and Treasure) as static text in markdown rules documents; query Supabase or link to interactive catalogs to maintain single-source-of-truth DRY alignment.
+🎯 KISS & Data De-Duplication – Keep It Simple & Single-source-of-truth. Never duplicate database-backed tables (Weapons, Armor, Shields, Gear, Powers, Artifacts, Skill Sets, Monsters, and Treasure) as static text in markdown rules documents; query Supabase or link to interactive catalogs to maintain single-source-of-truth DRY alignment.
 
 🔄 Standardized Usage Options – All usage dropdowns, database entries, and ability definitions across SupaFlex enforce this exact 6-option list and order: `1-⚡` (1 Bolt), `1-🍀` (1 Luck), `1-Enc`, `2-Enc`, `3-Enc`, `1-Rnd`. Finite numerical charges (`3, 2, 1`) are strictly reserved for physical Chaos Gauntlet Gems (which crack and auto-shatter upon using the 3rd charge) and mundane inventory supply item quantities.
 
@@ -323,7 +323,7 @@ Dis (Disadvantage) – Roll one fewer d20 (or 2L20 if unskilled) during an abil
 
 Dmg (Damage) – The raw amount of harm caused by an attack or ability.
 
-Effect – The outcome of using an ability, gear power, artifact, or magic item.
+Effect – The outcome of using an ability, gear power, exotic, or artifact.
 
 Element(s)🌟 – The universal parent category encompassing every physical item and non-physical feature in the game (ALL Gear⚙️ and ALL Abilities🧠).
 
@@ -333,7 +333,7 @@ Equipment🧰 – Legacy synonym for Gear⚙️.
 
 Exclusive Stacking Master Rule – The optional +1 tactical bonus from beating ALL opponents' Initiative (if using the optional Fast Reflexes rule under GM Tricks, Nish 🚩) and the +1 bonus from holding a full Bolt (⚡) stack with each other AND stack with nearly all other rolls (subject to GM discretion). ALL other bonuses, buffs, power amplifiers, and numerical modifiers DO NOT STACK unless an ability explicitly states "stacks with..." or with explicit GM approval. When multiple passive buffs or powers offer competing modifiers to the same roll or trait, only the single highest value applies.
 
-Exotic🧿 / Exotics🧿 – Any Gear that has OR potentially has (can accept an attached Mod) an actionable tactical Function🧿 or Trait🧬. Occupies 0–4 Function Slots on the character sheet based on tier (⭕ Free: 0 Slots, 🍺 Minor: 1 Slot, 🪄 Lesser: 2 Slots, 🪬 Greater: 3 Slots, 💫 Epic: 4 Slots) when actively readied, and is purchasable with Gold or Silver ($g/s$).
+Exotic🧿 / Exotics🧿 – Any Gear that has OR potentially has (can accept an attached Mod) an actionable tactical Function🧿 or Trait🧬. Occupies 1 Loadout Slot (or 0 Slots for Free ⭕ utilities) on the character sheet when actively readied, and is purchasable with Gold or Silver ($g/s$).
 
 Ext Rng (Extended/Long Range) – A greater range (at disadvantage) that a weapon, ability, or item can reach.
 
@@ -369,11 +369,9 @@ Luck🍀 – Metacurrency chits spent for full roll rerolls (pure variance miti
 
 M/H/S (Melee, Hurled, Shot) – Shorthand for weapon types.
 
-Magic Item✨ – Magical items categorized as Minor🍺 (1 Slot), Lesser🪄 (2 Slots), Greater🪬 (3 Slots), or Epic💫 (4 Slots) (synonymous with magical Exotics and Artifacts).
+Artifact🔮 / Artifacts🔮 – Powerful, enchanted, or legendary relics discovered as quest or treasure loot that cannot simply be bought in a store. Occupies 1 Loadout Slot when actively attuned on the character sheet.
 
 Mod(s)🔌 – Named modular modifications, hardware attachments, or enchantments (e.g. *Joint Locks*, *Flood Lights*, *Undead Slayer Coating*) belonging to Gear that grant Gear Powers🧿 or Traits🧬.
-
-Artifacts🔮 – Rare, unique, or enchanted Exotics discovered as treasure loot that cannot simply be bought in a store.
 
 Spec Gear🚀 – High-tier, military-specification, or commissioned Exotics carrying a commercial or commission price tag in gold or silver ($g / s$).
 
@@ -899,9 +897,9 @@ Choose one personal item of significance (e.g., crown, holy symbol, named sword)
 
 Starting gear is free; GM🔎 may also grant quirky items.
 
-🍺 Starting Minor Magic Item
+🔮 Starting Artifact
 
-Begin with one randomly rolled Minor🍺 Magic Item✨ (1 Loadout Slot) from the general or personal table.
+Begin with one randomly rolled Artifact🔮 (1 Loadout Slot) from the general or personal table.
 
 🍀 Starting Luck
 
@@ -1133,9 +1131,9 @@ This includes Nish🚩, Saves✨, Resistances✨, all weapons⚔️, all Armor�
 
 Anything learned via AP🧩 is skilled — including a weapon⚔️, Armor🧥, Power🔥, skill🎓, or Skill Set🎓.
 
-Exception: Magic Items✨ are always skilled. This prevents messy tracking and fits the theme. A magical Dagger of Dancing does not grant dagger skill — its Dancing Power🔥 is skilled, but normal Atk⚔️ with the dagger is still unskilled unless Daggers are learned with AP🧩. The same applies to Armor🧥 and shields🛡️.
+Exception: Artifacts🔮 are always skilled. This prevents messy tracking and fits the theme. An Artifact Dagger of Dancing does not grant dagger skill — its Dancing Power🔥 is skilled, but normal Atk⚔️ with the dagger is still unskilled unless Daggers are learned with AP🧩. The same applies to Armor🧥 and shields🛡️.
 
-When a skill🎓 is rolled, its Atr✅ is used (e.g., Acrobatics🏃 = Motion🏃 check). All skills🎓 may be attempted unskilled. This includes Stealth🏃, climbing, identifying a Magic Item✨, etc.
+When a skill🎓 is rolled, its Atr✅ is used (e.g., Acrobatics🏃 = Motion🏃 check). All skills🎓 may be attempted unskilled. This includes Stealth🏃, climbing, identifying an Artifact🔮, etc.
 
 ### 🎓 Skill Negotiation
 
@@ -1294,7 +1292,7 @@ If a PC or monster disengages from melee before the opponent’s Nish🚩, the 
 
 If a PC or monster disengages from melee on or after the opponent has Nish🚩, it creates an immediate opportunity attack by all opponents engaged in that melee (regardless of who engaged first).
 
-Opp Atks (Opportunity Attacks) may only use the melee weapon in hand or Brawl (no ranged weapons, Powers🔥 or Magic Item enhancements).
+Opp Atks (Opportunity Attacks) may only use the melee weapon in hand or Brawl (no ranged weapons, Powers🔥 or Artifact🔮 enhancements).
 
 Other actions that count as a “Break From Melee” include:
 
@@ -1366,7 +1364,7 @@ With GM🔎 approval, non-hurled weapons⚔️ (such as a short sword) may be th
 
 #### Off-Hand Use
 
-A free off-hand (when using a one-handed weapon⚔️) allows carrying utility items such as a torch, lantern, Magic Item✨, or flask.
+A free off-hand (when using a one-handed weapon⚔️) allows carrying utility items such as a torch, lantern, Artifact🔮, or flask.
 
 With two-handed weapons⚔️, this still applies: you may temporarily shift the weapon⚔️ into one hand to free the other for item use.
 
@@ -1463,7 +1461,7 @@ Special Rule — Opportunity Attacks
 
 An Opp Atk means that an immediate (no action cost) Atk⚔️ may be made.
 
-Normally, Opp Atks must be a vanilla Atk⚔️ (no Power🔥 or Magic Item✨ use).
+Normally, Opp Atks must be a vanilla Atk⚔️ (no Power🔥 or Artifact🔮 use).
 
 Notes:
 
@@ -1623,7 +1621,7 @@ Roleplaying Enc Rest (after battle): Regain d4 Vit❤️. Max 1 rest per Enc.
 
 Day Rest (sleep/new Day📅): Regain 2d4 Vit❤️, resets all #-Day abilities.
 
-## Abilities (Powers🔥, Magic Items✨, Skills🎓)
+## Abilities (Powers🔥, Artifacts🔮, Skills🎓)
 
 <!-- @popover:powers.basics -->
 ::: details ⚡ Quick Reference: Powers & Combat Rules
@@ -1682,13 +1680,13 @@ To prevent high-level characters from hoarding endless batteries of cheap 1-Enco
 | **Powers 10–14 (Tier 2 Scaling)** | $+2\text{ AP}$ | **3 AP** |
 | **Powers 15+ (Tier 3 Scaling)** | $+3\text{ AP}$ | **4 AP** |
 
-#### 🪄 Magic Item Parity
+#### 🔮 Artifact Parity
 
-Magic Items function EXACTLY like Powers🔥 (they are simply powers granted by item ownership). All rules for action budgets (AMP), usage frequencies, Bolt costs (1-⚡), and 1-AP augments apply identically to Magic Items. Unlike innate Powers, Magic Items require Loadout Capacity Slots (1–4 slots) to attune and integrate.
+Artifacts function EXACTLY like Powers🔥 (they are simply powers granted by item ownership). All rules for action budgets (AMP), usage frequencies, Bolt costs (1-⚡), and 1-AP augments apply identically to Artifacts. Unlike innate Powers, Artifacts require Loadout Capacity Slots (1 slot) to attune and integrate.
 
-#### 📜 System Architecture: Power & Magic Item Grammar
+#### 📜 System Architecture: Power & Artifact Grammar
 
-To ensure absolute clarity without rulebook arguments or bloat, every Power🔥 and Magic Item✨ follows a standardized, single-sentence Power Grammar:
+To ensure absolute clarity without rulebook arguments or bloat, every Power🔥 and Artifact🔮 follows a standardized, single-sentence Power Grammar:
 
 **Name | Budget (Action / Usage) | 1-Sentence Mechanical Effect**
 
@@ -1697,13 +1695,13 @@ Example Entries:
 * **Cyclone Kick** | A / 1-Enc → 1-⚡ → Motion🏃 attack dealing d8 Dmg and pushing target d4 sq.
 * **Blade Parry** | F / 2-Enc → On hit in Melee: Auto-succeed a weapon Block🛡️ (up to Block Cap).
 * **Bardic Bluff** | P / 1-Enc → Mind👁️ check vs target's Mind👁️ with Advantage (2H20) to deceive or distract.
-* **Frost Pebble (Minor Item)** | A / 1-Enc → Hurled Motion🏃 attack vs Short target for Magic✨ + d4 Cold Dmg.
+* **Frost Pebble (Artifact)** | A / 1-Enc → Hurled Motion🏃 attack vs Short target for Magic✨ + d4 Cold Dmg.
 
 All abilities have a Usage🔄, Action🔷, Duration⏳, and Range🎯. Often these are self-evident and do not need verbose explanation.
 
 ### 🔄 Usage & The Bolt / Spark Engine (⚡)
 
-How often an ability (Power🔥 or Magic Item✨) can be used:
+How often an ability (Power🔥 or Artifact🔮) can be used:
 
 | Usage Option | Refresh & Mechanical Execution | Pacing & Table Utility |
 | :---: | :--- | :--- |
@@ -1856,7 +1854,7 @@ Design Goal: Minimal tracking. Durations should be obvious, instant, 1 rnd, or 
 
 ### 🎯 Range
 
-Powers🔥, Magic Items✨, and Equipment🧰 eliminate fiddly footage counting in favor of 9 standard Tactical Range Bands:
+Powers🔥, Artifacts🔮, and Equipment🧰 eliminate fiddly footage counting in favor of 9 standard Tactical Range Bands:
 
 #### The 9 Tactical Range Bands
 
@@ -1916,12 +1914,12 @@ In SupaFlex, rarely if ever does a target (friend, foe, or PC) simply have an un
 
 #### 🍀 The Luck Twist (Rule of 1)
 
-When activating any Power🔥 or Magic Item✨, a player may spend 1 Luck chit (🍀) from their pool to apply a dynamic "Rule of 1" modification (+1 / -1) to that activation.
+When activating any Power🔥 or Artifact🔮, a player may spend 1 Luck chit (🍀) from their pool to apply a dynamic "Rule of 1" modification (+1 / -1) to that activation.
 
 Permitted "Rule of 1" Modifications (Pick One per Luck Chit):
 * **+1 Spark:** Immediately gain +1 Spark (Spark Charge) toward your Bolt gauge (Limit: Max 2 converted per round).
 * **-1 Action Budget:** Compress action cost by 1 step (AM → A → M → P → F). (e.g., Activate an Attack (A) power as a Partial (P) action).
-* **+1 Target:** Add +1 target to the power or magic item's effect. (e.g., Strike 2 adjacent foes with a single-target melee/spell power).
+* **+1 Target:** Add +1 target to the power or artifact's effect. (e.g., Strike 2 adjacent foes with a single-target melee/spell power).
 * **+1 Die Tier:** Increase damage or healing die by 1 die step (d4 → d6 → d8 → d10 → d12).
 * **+1 Range Band:** Expand range by 1 Range Band (Touch → Short → Medium → Long → Extreme).
 * **+1 Push / Move:** Add +1 sq to any movement, push, or pull effect.
@@ -1929,11 +1927,11 @@ Permitted "Rule of 1" Modifications (Pick One per Luck Chit):
 Play & Integration Rules:
 * **Limit:** Maximum 1 Luck Twist (🍀) per power/item activation (cannot stack multiple Luck chits on the exact same roll/activation).
 * **The Luck-for-Bolt Substitution Mandate (1 per Encounter):**
-  * **Rule (The What):** Per encounter, a player may expend **1 Luck box/chit (`🍀`)** directly in place of a **Bolt (`⚡`)** to activate any `1-⚡` Power, Magic Item, or Tactical Pivot. However, this substitution may be used **ONLY ONCE per encounter without GM approval**. Any subsequent Luck-for-Bolt substitutions within the same encounter strictly require explicit GM authorization.
+  * **Rule (The What):** Per encounter, a player may expend **1 Luck box/chit (`🍀`)** directly in place of a **Bolt (`⚡`)** to activate any `1-⚡` Power, Artifact, or Tactical Pivot. However, this substitution may be used **ONLY ONCE per encounter without GM approval**. Any subsequent Luck-for-Bolt substitutions within the same encounter strictly require explicit GM authorization.
   * **Rationale (The Why):** High-impact tactical powers (`1-⚡`) require momentum (accumulating 5 sparks through nat 20s, nat 1s, or exploding dice). In climactic or fast-paced boss encounters where dice momentum has not yet built 5 sparks, burning a precious narrative resource (Luck chit) enables heroic cinematic intervention. Capping this at once per encounter without GM approval prevents players from bypassing the spark engine entirely to spam high-impact abilities.
   * **Failure Mechanism (The What Breaks):** Prohibiting Luck substitution entirely causes `1-⚡` powers to go unused in short or unlucky encounters, frustrating players. Allowing unlimited Luck substitutions without GM permission breaks the action-economy pacing and encourages draining Luck reserves for consecutive alpha strikes.
 * **Instant Adjudication:** No character sheet editing required. Simply announce: "I'm burning a Luck chit 🍀 for a +1 Target / -1 Action Budget Twist!"
-* **Magic Item Parity:** Applies 100% identically to both Powers (🔥) and Magic Items (✨).
+* **Artifact Parity:** Applies 100% identically to both Powers (🔥) and Artifacts (🔮).
 
 Default Use: Reroll entire roll (all dice), keep best (original or reroll).
 
@@ -2083,7 +2081,7 @@ The **Chaos Gauntlet** is an arcane or hyper-tech harness capable of focusing vo
 
 
 > [!TIP]
-> All SupaFlex game tables—including Weapons⚔️, Armor🧥, Shields🛡️, Gear🧰, Monsters🐉, Powers🔥, Magic Items✨, Skill Sets🎓, and Treasure💰—have been migrated to our structured database catalog.
+> All SupaFlex game tables—including Weapons⚔️, Armor🧥, Shields🛡️, Gear🧰, Monsters🐉, Powers🔥, Artifacts🔮, Skill Sets🎓, and Treasure💰—have been migrated to our structured database catalog.
 > - Browse the **[Interactive Tables Catalog](/player-guide/supaflex/tables)** to filter, search, and view all game stats dynamically.
 > - Or explore individual reference manuals:
 >   - ⚔️ **[Weapons Reference Manual](/player-guide/supaflex/weapons)**
@@ -2092,7 +2090,7 @@ The **Chaos Gauntlet** is an arcane or hyper-tech harness capable of focusing vo
 >   - 🧰 **[Gear Catalog](/player-guide/supaflex/gear)**
 >   - 🐉 **[Monsters Bestiary](/player-guide/supaflex/monsters)**
 >   - 🔥 **[Powers Reference Manual](/player-guide/supaflex/powers)**
->   - ✨ **[Magic Items Catalog](/player-guide/supaflex/magic-items)**
+>   - 🔮 **[Artifacts Catalog](/player-guide/supaflex/magic-items)**
 >   - 🎓 **[Skill Sets Directory](/player-guide/supaflex/skillsets)**
 >   - 💰 **[Treasure Tables & Loot Matrix](/player-guide/supaflex/tables)**
 
@@ -2112,21 +2110,21 @@ If the encounter does not list specific treasure, a treasure roll is typical aft
 
 ### 🧪 Essence & Disenchanting Engine
 
-Unwanted loot drops may be disenchanted directly into personal **Essence Core** progress. Filling the Essence Core allows players to craft custom or targeted magic items from the Essence Crafting Modal.
+Unwanted loot drops may be disenchanted directly into personal **Essence Core** progress. Filling the Essence Core to 50% allows players to craft custom or targeted Artifacts from the Essence Crafting Modal.
 
-#### 50% Disenchant Recycling Ratios
-Disenchanting an item returns **50% of the Essence required to craft a new item of that same tier**:
+#### Disenchant Recycling Ratios
+Disenchanting an item returns Essence based on item category:
 
-| Item Tier / Drop Type | Crafting Cost | Disenchant Yield | Recycle Ratio |
-| :--- | :---: | :---: | :---: |
-| **Minor / Standard Drop (`🍺`)** | 15% | **+8%** | 53% |
-| **Lesser Magic Item (`🪄`)** | 25% | **+12%** | 48% |
-| **Greater Magic Item (`✨`)** | 50% | **+25%** | 50% |
-| **Epic Magic Item (`💫`)** | 100% | **+50%** | 50% |
+| Item / Drop Type | Disenchant Yield |
+| :--- | :---: |
+| **Standard Gear / Valuables** | **+8%** |
+| **Exotic Device (`🧿`)** | **+15%** |
+| **Chaos Gem (`💎`)** | **+15%** |
+| **Artifact (`🔮`)** | **+25%** |
 
 #### 🛡️ Essence Protection Rule
-- **Single Subtraction Vector:** Claiming a crafted reward in the `ESSENCE CRAFTING!` modal is the **ONLY** event permitted to subtract or consume Essence Core progress.
-- **Zero-Loss Deconstructing:** Closing or deconstructing a draft choice discards the draft choices while preserving current Essence 100% intact.
+- **Single Subtraction Vector:** Claiming a crafted reward in the `ESSENCE CRAFTING!` modal is the **ONLY** event permitted to subtract or consume Essence Core progress (consumes 50% Essence).
+- **Zero-Loss Deconstructing:** Closing or deconstructing a draft choice discards the draft choices while cutting current Essence in half.
 
 ## 🔎 GM Tricks
 
@@ -2179,7 +2177,7 @@ To keep Flex simple, the designers have gone out of their way to avoid effects t
 
 ## Avoid Complexity - Usage beyond 3
 
-To keep Flex simple, the designers have also gone out of their way to avoid Usage past 3. So it is recommended to NOT allow an ability (Power or Magic Item) to progress to 4-Day nor 4-Enc. If the GM decides to allow a Usage progression past 3-Day the next step should be 1-Enc and if the GM decides to allow Usage past 3-Enc, it should become 1-Rnd. That said, both of these steps are a considerable upgrade, especially the 1-Rnd. GM, think about such upgrades carefully and consider game balance.
+To keep Flex simple, the designers have also gone out of their way to avoid Usage past 3. So it is recommended to NOT allow an ability (Power or Artifact) to progress to 4-Day nor 4-Enc. If the GM decides to allow a Usage progression past 3-Day the next step should be 1-Enc and if the GM decides to allow Usage past 3-Enc, it should become 1-Rnd. That said, both of these steps are a considerable upgrade, especially the 1-Rnd. GM, think about such upgrades carefully and consider game balance.
 
 ## Optional Rule: Fast Reflexes (+1 Nish Reward)
 
@@ -2300,7 +2298,7 @@ Google's NotebookLM is great for two main purposes. If the rules are supplied, i
 
 Im, playing a Fire Mage, what are the three best powers for me to take at Level 1. Please show these in table format.
 
-Please roll me a random minor magic item and show it to me in table format.
+Please roll me a random artifact and show it to me in table format.
 
 My PC’s Might is 6, what are the best melee weapons I qualify for? Show them to me in table format.
 
@@ -2316,7 +2314,7 @@ Show me Room 2 of the Stone Keep.
 
 The monsters in the Stone Keep’s kitchen just rushed into the Main hall. Please show me all monsters from both rooms in a single combined table.
 
-Please roll me a random Lesser Magic item.
+Please roll me a random artifact.
 
 What is Grond’s family name and what is his greatest fear?
 

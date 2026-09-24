@@ -23143,7 +23143,7 @@
       "name": "Rotary Plasma Gatling Stream",
       "action": "A",
       "usage": "1-Enc",
-      "effect": "2x2; Atk 👁️ Dmg d👁️+3",
+      "effect": "2x3; Atk 👁️ Dmg d👁️+3",
       "belongs_to": "Weapon: TurboPlaz (mso)",
       "genres": [
         "SciFi"
@@ -24480,6 +24480,23 @@
       ],
       "notes": "Sunpetal Brooch is engineered with high-durability composite materials for reliable field operations.",
       "created_at": "2026-09-03T20:14:29.977879+00:00",
+      "tier": null,
+      "owner": "Designer"
+    },
+    {
+      "id": 539,
+      "name": "Suppressive Fire",
+      "action": "AM",
+      "usage": "1-Enc",
+      "effect": "AoE 5x5; Immediate Atk/Dmg to ANY Atk from within or 👣 out of AoE; Lasts Event or ends on any other Action",
+      "belongs_to": "Weapon: TurboPlaz (mso)",
+      "genres": [
+        "Medieval",
+        "Modern",
+        "SciFi"
+      ],
+      "notes": null,
+      "created_at": "2026-09-24T02:07:13.936+00:00",
       "tier": null,
       "owner": "Designer"
     },
