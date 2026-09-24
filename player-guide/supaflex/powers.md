@@ -1049,7 +1049,6 @@ Select one of the many sub-sets of powers such as Class👤, Race🧬, Combat St
 | General | 1-Enc | P | **Beauty (mso)** | +3 to 👁️ social checks. |
 | General | 2-Enc | P | **Berserk (mso)** | Primal rage; +2 Atk 💪 Dmg d💪; cannot distinguish friend from foe. |
 | General | 2-Enc | F | **Block Ranged (mso)** | +2 Blk vs arrows, spears, and low-velocity projectiles. |
-| General | 1-Enc | P | **Bridge Officer (mso)** | Proficiency in starship helm, sensors, and weapons. |
 | General | 1-Enc | P | **Carry More (mso)** | +4 to carrying capacity and heavy lifting. |
 | General | 1-Enc | P | **Catch Object (mso)** | Catch falling item or tossed object with 🏃. |
 | General | 2-Enc | F | **Catch Ranged (mso)** | Catch low-velocity hurled weapon with 🏃. |
