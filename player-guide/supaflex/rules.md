@@ -2110,7 +2110,9 @@ If the encounter does not list specific treasure, a treasure roll is typical aft
 
 ### 🧪 Essence & Disenchanting Engine
 
-Unwanted loot drops may be disenchanted directly into personal **Essence Core** progress. Filling the Essence Core to 50% allows players to craft custom or targeted Artifacts from the Essence Crafting Modal.
+Unwanted loot drops may be disenchanted directly into personal **Essence Core** progress. The Essence Flask utilizes a **Graduated Overcharge** architecture:
+- **Basic Infusion (50% Essence):** Reaching 50% Essence allows a player to synthesize a single **Artifact** roll. The player may claim the Artifact to their sheet (consuming 50% Essence) or deconstruct it (cutting current Essence in half to 25%).
+- **Overcharged Master Synthesis (100% Essence):** Saving the flask until it is 100% full unlocks the **Master 3-Card Smart Draft** (offering two distinct Artifact options plus one Art & Gem Treasure Cache). The player selects one reward to claim to their sheet (consuming 100% Essence) or may deconstruct the draft (cutting current Essence in half to 50%).
 
 #### Disenchant Recycling Ratios
 Disenchanting an item returns Essence based on item category:
@@ -2118,12 +2120,12 @@ Disenchanting an item returns Essence based on item category:
 | Item / Drop Type | Disenchant Yield |
 | :--- | :---: |
 | **Standard Gear / Valuables** | **+8%** |
-| **Exotic Device (`🧿`)** | **+15%** |
+| **Exotic (`🧿`)** | **+15%** |
 | **Chaos Gem (`💎`)** | **+15%** |
 | **Artifact (`🔮`)** | **+25%** |
 
 #### 🛡️ Essence Protection Rule
-- **Single Subtraction Vector:** Claiming a crafted reward in the `ESSENCE CRAFTING!` modal is the **ONLY** event permitted to subtract or consume Essence Core progress (consumes 50% Essence).
+- **Single Subtraction Vector:** Claiming a crafted reward in the Essence Crafting modal is the **ONLY** event permitted to subtract or consume Essence Core progress (consumes 50% for Basic Infusion, or 100% for Overcharged Master Draft).
 - **Zero-Loss Deconstructing:** Closing or deconstructing a draft choice discards the draft choices while cutting current Essence in half.
 
 ## 🔎 GM Tricks
