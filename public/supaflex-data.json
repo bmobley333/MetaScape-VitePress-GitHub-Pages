@@ -6,7 +6,8 @@
       "category": "Race",
       "description": "Humanity lineage and adaptive humanoid archetype in SciFi setting.",
       "created_at": "2026-09-05T23:12:06.131356+00:00",
-      "owner": "Designer"
+      "owner": "Designer",
+      "linked_elements": []
     },
     {
       "id": "6c6ca2a6-d649-4197-81fa-df617605ca02",
@@ -14,7 +15,8 @@
       "category": "Combat Style",
       "description": "Precision bow and kinetic archery specialist.",
       "created_at": "2026-09-05T23:12:06.037047+00:00",
-      "owner": "Designer"
+      "owner": "Designer",
+      "linked_elements": []
     },
     {
       "id": "66159040-b06b-4906-8bad-63df58ec9301",
@@ -22,7 +24,8 @@
       "category": "Class",
       "description": "Inspirational performers wielding sonic harmonies, tactical buffs, and hypnotic tricks.",
       "created_at": "2026-08-30T21:26:11.603538+00:00",
-      "owner": "Designer"
+      "owner": "Designer",
+      "linked_elements": []
     },
     {
       "id": "ff39897f-f791-4ece-94ad-4b05d6066f2b",
@@ -30,7 +33,8 @@
       "category": "Innate",
       "description": "Baseline universal physical capabilities and natural weapon/unarmored proficiencies common to all characters.",
       "created_at": "2026-09-09T17:23:09.993126+00:00",
-      "owner": "Designer"
+      "owner": "Designer",
+      "linked_elements": []
     },
     {
       "id": "61371716-0eac-4096-997e-222dd8f0c917",
@@ -38,7 +42,8 @@
       "category": "Class",
       "description": "Bio-weaponry and heavy organic munitions specialist.",
       "created_at": "2026-09-05T23:12:06.037047+00:00",
-      "owner": "Designer"
+      "owner": "Designer",
+      "linked_elements": []
     },
     {
       "id": "697597a8-315f-4194-9a8b-8f7ea9ef6f2d",
@@ -46,7 +51,8 @@
       "category": "Class",
       "description": "Genetically modified biological combat vanguard.",
       "created_at": "2026-09-05T23:12:06.037047+00:00",
-      "owner": "Designer"
+      "owner": "Designer",
+      "linked_elements": []
     },
     {
       "id": "f3b54d3b-675b-4a64-a1ce-4768e708d75b",
@@ -54,7 +60,8 @@
       "category": "Supplies",
       "description": "Proficiency with living organic gadgets, symbiotes, and bio-technological gear.",
       "created_at": "2026-09-05T23:12:06.131356+00:00",
-      "owner": "Designer"
+      "owner": "Designer",
+      "linked_elements": []
     },
     {
       "id": "bd068d62-57c5-405f-8cdc-8fe94a411400",
@@ -62,7 +69,8 @@
       "category": "Combat Style",
       "description": "Master of energy sidearms, quick-draw firing, and overcharge blasts.",
       "created_at": "2026-09-05T23:12:06.037047+00:00",
-      "owner": "Designer"
+      "owner": "Designer",
+      "linked_elements": []
     },
     {
       "id": "a5ce7e9a-655f-4144-a421-995c2d68dc10",
@@ -70,7 +78,8 @@
       "category": "Race",
       "description": "Proud, powerful humanoid race known for honorable combat and heavy weaponry.",
       "created_at": "2026-09-05T23:12:06.131356+00:00",
-      "owner": "Designer"
+      "owner": "Designer",
+      "linked_elements": []
     },
     {
       "id": "cab015f3-8f2c-4e01-806e-8ec02ff62639",
@@ -78,7 +87,8 @@
       "category": "Combat Style",
       "description": "Medium-range carbine marksman specializing in rapid bursts and skirmishing.",
       "created_at": "2026-09-05T23:12:06.037047+00:00",
-      "owner": "Designer"
+      "owner": "Designer",
+      "linked_elements": []
     },
     {
       "id": "3d500cbe-d5ff-4712-9fc9-f64e65e596c5",
@@ -86,7 +96,8 @@
       "category": "Other",
       "description": "Fundamental core competencies across physical and mental attributes.",
       "created_at": "2026-08-30T21:26:12.514482+00:00",
-      "owner": "Designer"
+      "owner": "Designer",
+      "linked_elements": []
     },
     {
       "id": "9b195ea2-cc92-44c7-ba03-7a225da74bd9",
@@ -94,7 +105,8 @@
       "category": "Class",
       "description": "Cybernetically enhanced DHA frontline fighter.",
       "created_at": "2026-09-05T23:12:06.037047+00:00",
-      "owner": "Designer"
+      "owner": "Designer",
+      "linked_elements": []
     },
     {
       "id": "473c2a35-9db8-4d9d-a906-3f39d50689f2",
@@ -102,7 +114,8 @@
       "category": "Supplies",
       "description": "Proficiency with mechanical implants, cybernetic hardware, and prosthetic tools.",
       "created_at": "2026-09-05T23:12:06.131356+00:00",
-      "owner": "Designer"
+      "owner": "Designer",
+      "linked_elements": []
     },
     {
       "id": "399187e7-4d3e-402e-a013-be83d19cf1a3",
@@ -110,7 +123,8 @@
       "category": "Class",
       "description": "Heavy demolition and destructive warfare operative.",
       "created_at": "2026-09-05T23:12:06.037047+00:00",
-      "owner": "Designer"
+      "owner": "Designer",
+      "linked_elements": []
     },
     {
       "id": "72faa8d7-e306-41dc-bc30-812e5e67ad11",
@@ -118,7 +132,8 @@
       "category": "Race",
       "description": "Reptilian/draconic lineage with natural resilience and predatory instincts.",
       "created_at": "2026-09-05T23:12:06.131356+00:00",
-      "owner": "Designer"
+      "owner": "Designer",
+      "linked_elements": []
     },
     {
       "id": "7a90ae75-9914-47d1-860a-f83a637619f3",
@@ -126,7 +141,8 @@
       "category": "Class",
       "description": "Elite DHA heavy assault operative with incendiary arsenal.",
       "created_at": "2026-09-05T23:12:06.037047+00:00",
-      "owner": "Designer"
+      "owner": "Designer",
+      "linked_elements": []
     },
     {
       "id": "05bd2e73-ef4c-4231-a803-795f890dcbd1",
@@ -134,7 +150,8 @@
       "category": "Combat Style",
       "description": "Combat style specializing in paired weapons and off-hand strikes.",
       "created_at": "2026-08-30T21:26:12.545374+00:00",
-      "owner": "Designer"
+      "owner": "Designer",
+      "linked_elements": []
     },
     {
       "id": "ec8c5bb1-d1ad-4f4f-877c-78839e932cc3",
@@ -142,7 +159,8 @@
       "category": "Race",
       "description": "Dwarf racial archetype and ancestral traits.",
       "created_at": "2026-08-30T21:26:11.219767+00:00",
-      "owner": "Designer"
+      "owner": "Designer",
+      "linked_elements": []
     },
     {
       "id": "d778d550-29d9-427b-b846-3a8b1898c772",
@@ -150,7 +168,8 @@
       "category": "Race",
       "description": "Subclan of mountain dwarves renowned for tunnel bastions and iron resilience.",
       "created_at": "2026-08-30T21:26:11.257461+00:00",
-      "owner": "Designer"
+      "owner": "Designer",
+      "linked_elements": []
     },
     {
       "id": "8c1b8090-5a9f-4523-a5e3-782b0c7f511b",
@@ -158,7 +177,8 @@
       "category": "Race",
       "description": "Elven grace, keen senses, and woodland mobility.",
       "created_at": "2026-08-30T21:26:11.289027+00:00",
-      "owner": "Designer"
+      "owner": "Designer",
+      "linked_elements": []
     },
     {
       "id": "373293b0-4a1d-44f3-afa3-abee5339362c",
@@ -166,7 +186,8 @@
       "category": "Race",
       "description": "Fey-touched tricksters and illusion weavers with natural flight.",
       "created_at": "2026-08-30T21:26:11.319522+00:00",
-      "owner": "Designer"
+      "owner": "Designer",
+      "linked_elements": []
     },
     {
       "id": "94d8a26a-788b-442e-9760-62fd16754ccb",
@@ -174,7 +195,8 @@
       "category": "Class",
       "description": "Colossal martial power, iron endurance, and unstoppable momentum.",
       "created_at": "2026-08-30T21:26:11.635358+00:00",
-      "owner": "Designer"
+      "owner": "Designer",
+      "linked_elements": []
     },
     {
       "id": "d6b4971b-7375-4c7a-a31d-7f9cac22d5a1",
@@ -182,7 +204,8 @@
       "category": "Class",
       "description": "Glamour assault, graceful evasion, and enchanting battlefield presence.",
       "created_at": "2026-08-30T21:26:11.666772+00:00",
-      "owner": "Designer"
+      "owner": "Designer",
+      "linked_elements": []
     },
     {
       "id": "d5172c6e-350f-4c79-9aed-a38b240c3ca6",
@@ -190,7 +213,8 @@
       "category": "Class",
       "description": "Microscopic combatant with tiny terror strikes and illusory swarms.",
       "created_at": "2026-08-30T21:26:11.698041+00:00",
-      "owner": "Designer"
+      "owner": "Designer",
+      "linked_elements": []
     },
     {
       "id": "7cba056f-1020-4499-8775-86a7721c2122",
@@ -198,7 +222,8 @@
       "category": "Other",
       "description": "Universal adventuring skills available to all characters.",
       "created_at": "2026-08-30T21:26:12.576378+00:00",
-      "owner": "Designer"
+      "owner": "Designer",
+      "linked_elements": []
     },
     {
       "id": "ebfa6632-7ef0-4368-b4d2-b9b86eb37e99",
@@ -206,7 +231,8 @@
       "category": "Race",
       "description": "Resourceful inventors and cunning gadgeteers.",
       "created_at": "2026-08-30T21:26:11.352152+00:00",
-      "owner": "Designer"
+      "owner": "Designer",
+      "linked_elements": []
     },
     {
       "id": "1baaefc5-59a9-4af2-9cae-17f227936769",
@@ -214,7 +240,8 @@
       "category": "Race",
       "description": "Scrappy survivalists and trash-tech scavengers.",
       "created_at": "2026-08-30T21:26:11.384516+00:00",
-      "owner": "Designer"
+      "owner": "Designer",
+      "linked_elements": []
     },
     {
       "id": "48cb8275-2a54-4e32-984d-8ffa95087683",
@@ -222,7 +249,8 @@
       "category": "Race",
       "description": "Umbral warriors balancing primal stamina with tactical ferocity.",
       "created_at": "2026-08-30T21:26:11.415872+00:00",
-      "owner": "Designer"
+      "owner": "Designer",
+      "linked_elements": []
     },
     {
       "id": "3c544d27-8852-44db-9da7-47705ada5220",
@@ -230,7 +258,8 @@
       "category": "Other",
       "description": "Character flaws, physical handicaps, and roleplay restrictions.",
       "created_at": "2026-08-30T21:26:12.607724+00:00",
-      "owner": "Designer"
+      "owner": "Designer",
+      "linked_elements": []
     },
     {
       "id": "d87952d1-8d90-415d-9648-c0d3389d8c1b",
@@ -238,7 +267,8 @@
       "category": "Class",
       "description": "Master of restoration, protective wards, and curative vital energies.",
       "created_at": "2026-08-30T21:26:11.728908+00:00",
-      "owner": "Designer"
+      "owner": "Designer",
+      "linked_elements": []
     },
     {
       "id": "b23f64d5-ef4b-48b2-b093-febaeb368e6a",
@@ -246,7 +276,8 @@
       "category": "Class",
       "description": "Solar conduit channeling radiant beams and blazing vitality.",
       "created_at": "2026-08-30T21:26:11.761839+00:00",
-      "owner": "Designer"
+      "owner": "Designer",
+      "linked_elements": []
     },
     {
       "id": "2b6f2ad8-f790-43b9-8935-011a68c5adc8",
@@ -254,7 +285,8 @@
       "category": "Class",
       "description": "Druidic protector cultivating healing groves and herbal remedies.",
       "created_at": "2026-08-30T21:26:11.79436+00:00",
-      "owner": "Designer"
+      "owner": "Designer",
+      "linked_elements": []
     },
     {
       "id": "7e7991fb-5de3-4666-9a17-7fdf7b426c82",
@@ -262,7 +294,8 @@
       "category": "Race",
       "description": "Versatile, ambitious, and resolute core humanoid archetype.",
       "created_at": "2026-08-30T21:26:11.446721+00:00",
-      "owner": "Designer"
+      "owner": "Designer",
+      "linked_elements": []
     },
     {
       "id": "ed124c78-526c-4e99-b058-f32d591e5b99",
@@ -270,7 +303,8 @@
       "category": "Race",
       "description": "Lineage carrying ancient bloodlines and veiled psionic whispers.",
       "created_at": "2026-08-30T21:26:11.47748+00:00",
-      "owner": "Designer"
+      "owner": "Designer",
+      "linked_elements": []
     },
     {
       "id": "bf5831cc-d495-4766-9139-c8aa78f71c80",
@@ -278,7 +312,8 @@
       "category": "Race",
       "description": "Insectoid species possessing chitinous armor, rapid swarming, and hive mind reflexes.",
       "created_at": "2026-09-05T23:12:06.131356+00:00",
-      "owner": "Designer"
+      "owner": "Designer",
+      "linked_elements": []
     },
     {
       "id": "fdceec10-c8af-495a-82ee-bbdc20c4f30b",
@@ -286,7 +321,8 @@
       "category": "Specialist",
       "description": "Grants +1 to all checks using: Feeder, Oxygenator Worm, Platelet Mites, Tube-Worms.",
       "created_at": "2026-09-05T23:12:06.037047+00:00",
-      "owner": "Designer"
+      "owner": "Designer",
+      "linked_elements": []
     },
     {
       "id": "955e1c69-b023-4c43-b76b-37985a68351c",
@@ -294,7 +330,8 @@
       "category": "Specialist",
       "description": "Grants +1 to all checks using: Bionoculars, Audio-Beetle.",
       "created_at": "2026-09-05T23:12:06.037047+00:00",
-      "owner": "Designer"
+      "owner": "Designer",
+      "linked_elements": []
     },
     {
       "id": "e86ddeaa-ca3b-482a-99a2-da7f18311e14",
@@ -302,7 +339,8 @@
       "category": "Specialist",
       "description": "Grants +1 to all checks using: Cyber-Legs (Speed), Cyber-Legs (Strength), Joint Locks, Power Joints.",
       "created_at": "2026-09-05T23:12:06.037047+00:00",
-      "owner": "Designer"
+      "owner": "Designer",
+      "linked_elements": []
     },
     {
       "id": "4aa28b34-0c32-4aa8-893b-68029bc7f54d",
@@ -310,7 +348,8 @@
       "category": "Other",
       "description": "Fortune-manipulating powers and second chance rolls.",
       "created_at": "2026-08-30T21:26:12.639226+00:00",
-      "owner": "Designer"
+      "owner": "Designer",
+      "linked_elements": []
     },
     {
       "id": "2fd2c87e-57a0-4cb7-8903-121fb288ddac",
@@ -318,7 +357,8 @@
       "category": "Class",
       "description": "Elemental sorcery commanding lava pools, fireballs, and lightning spirals.",
       "created_at": "2026-08-30T21:26:11.825225+00:00",
-      "owner": "Designer"
+      "owner": "Designer",
+      "linked_elements": []
     },
     {
       "id": "12cc5fea-2712-4696-bd1d-57dc7fa1d43b",
@@ -326,7 +366,8 @@
       "category": "Class",
       "description": "Earth shaper manipulating stone, sinkholes, and earthen portals.",
       "created_at": "2026-08-30T21:26:11.856452+00:00",
-      "owner": "Designer"
+      "owner": "Designer",
+      "linked_elements": []
     },
     {
       "id": "72ff3e9e-6113-4725-a58b-2ce453d76fbc",
@@ -334,7 +375,8 @@
       "category": "Class",
       "description": "Kinetic telekinetic specialist weaponizing ferrous blades and metal storms.",
       "created_at": "2026-08-30T21:26:11.887173+00:00",
-      "owner": "Designer"
+      "owner": "Designer",
+      "linked_elements": []
     },
     {
       "id": "0d85c025-d956-4e99-bbf4-27f13612fe2f",
@@ -342,7 +384,8 @@
       "category": "Class",
       "description": "Occult void channeler conjuring dark surges and eclipse shadows.",
       "created_at": "2026-08-30T21:26:11.917762+00:00",
-      "owner": "Designer"
+      "owner": "Designer",
+      "linked_elements": []
     },
     {
       "id": "3eb45671-50f0-461d-af8b-e6b067c4012a",
@@ -350,7 +393,8 @@
       "category": "Class",
       "description": "DHA frontline marine specialist in heavy combat operations.",
       "created_at": "2026-09-05T23:12:06.037047+00:00",
-      "owner": "Designer"
+      "owner": "Designer",
+      "linked_elements": []
     },
     {
       "id": "2d21d3b9-e117-4a71-bb9f-30e81aa7f258",
@@ -358,7 +402,8 @@
       "category": "Class",
       "description": "Dual-blade perfectionist mastering rapid sweeps and unbending parries.",
       "created_at": "2026-08-30T21:26:11.948708+00:00",
-      "owner": "Designer"
+      "owner": "Designer",
+      "linked_elements": []
     },
     {
       "id": "d24dc63e-05ba-4685-ab4a-5d3de3655d95",
@@ -366,7 +411,8 @@
       "category": "Combat Style",
       "description": "Unarmed combat specialist wielding hand-to-hand strikes and defensive blocks.",
       "created_at": "2026-09-05T23:12:06.037047+00:00",
-      "owner": "Designer"
+      "owner": "Designer",
+      "linked_elements": []
     },
     {
       "id": "050e1932-59da-4896-8d0d-9589f30e3deb",
@@ -374,7 +420,8 @@
       "category": "Combat Style",
       "description": "Unarmed combat maneuvers, palm strikes, and iron fist techniques.",
       "created_at": "2026-08-30T21:26:12.669833+00:00",
-      "owner": "Designer"
+      "owner": "Designer",
+      "linked_elements": []
     },
     {
       "id": "a59ff367-4257-4ac5-ac38-465540a05314",
@@ -382,7 +429,8 @@
       "category": "Profession",
       "description": "Field technician adept at repairing vehicles, hardware, and machinery.",
       "created_at": "2026-09-05T23:12:06.131356+00:00",
-      "owner": "Designer"
+      "owner": "Designer",
+      "linked_elements": []
     },
     {
       "id": "5b794094-bf13-44a1-9b0a-cb1bf40ed5eb",
@@ -390,7 +438,8 @@
       "category": "Class",
       "description": "Psionic and mental warfare specialist within DHA.",
       "created_at": "2026-09-05T23:12:06.037047+00:00",
-      "owner": "Designer"
+      "owner": "Designer",
+      "linked_elements": []
     },
     {
       "id": "8f6c45c6-3907-4a1c-9e3a-6b1c3b4d61d6",
@@ -398,7 +447,8 @@
       "category": "Class",
       "description": "Disciplined ascetic channeling ki strikes, inner peace, and agile martial arts.",
       "created_at": "2026-08-30T21:26:11.979831+00:00",
-      "owner": "Designer"
+      "owner": "Designer",
+      "linked_elements": []
     },
     {
       "id": "8251d4bc-69bd-494f-ab60-14b729d6ec04",
@@ -406,7 +456,8 @@
       "category": "Class",
       "description": "Mutated DHA operative with bio-adaptive combat abilities.",
       "created_at": "2026-09-05T23:12:06.037047+00:00",
-      "owner": "Designer"
+      "owner": "Designer",
+      "linked_elements": []
     },
     {
       "id": "d0f2ecc7-e304-494b-8268-d248681aea63",
@@ -414,7 +465,8 @@
       "category": "Race",
       "description": "Fey-hybrid forest folk with nimble reflexes and cheerful bluffing.",
       "created_at": "2026-08-30T21:26:11.508776+00:00",
-      "owner": "Designer"
+      "owner": "Designer",
+      "linked_elements": []
     },
     {
       "id": "19151894-ce78-47a6-973c-6f45d5917e09",
@@ -422,7 +474,8 @@
       "category": "Race",
       "description": "Nature spirits wielding glamour shifts and terrain deception.",
       "created_at": "2026-08-30T21:26:11.540175+00:00",
-      "owner": "Designer"
+      "owner": "Designer",
+      "linked_elements": []
     },
     {
       "id": "42d96d82-d8d3-49c8-bc6e-cd0bc118978d",
@@ -430,7 +483,8 @@
       "category": "Race",
       "description": "Powerful martial tribe members possessing iron stamina and fierce clan bonds.",
       "created_at": "2026-08-30T21:26:11.571502+00:00",
-      "owner": "Designer"
+      "owner": "Designer",
+      "linked_elements": []
     },
     {
       "id": "18c978b8-8538-4cfb-8623-80ab0f73dad8",
@@ -438,7 +492,8 @@
       "category": "Combat Style",
       "description": "Dual-wielding and rapid-fire pistol gunslinger.",
       "created_at": "2026-09-05T23:12:06.037047+00:00",
-      "owner": "Designer"
+      "owner": "Designer",
+      "linked_elements": []
     },
     {
       "id": "1df51f71-8c0c-4c70-aa4a-7a04a1015c09",
@@ -446,7 +501,8 @@
       "category": "Class",
       "description": "Mentalist bending kinetic force, telepathy, and levitation.",
       "created_at": "2026-08-30T21:26:12.011485+00:00",
-      "owner": "Designer"
+      "owner": "Designer",
+      "linked_elements": []
     },
     {
       "id": "1b2a36ae-f37f-4aef-9fd6-cd151ebad1a7",
@@ -454,7 +510,8 @@
       "category": "Class",
       "description": "Mental bastion forming thought blades and cognitive shields.",
       "created_at": "2026-08-30T21:26:12.042+00:00",
-      "owner": "Designer"
+      "owner": "Designer",
+      "linked_elements": []
     },
     {
       "id": "bb400f71-93ee-45e4-8e83-ad03735bfc9c",
@@ -462,7 +519,8 @@
       "category": "Class",
       "description": "Body-mind bio-enhancer supercharging physical durability and leaping bounds.",
       "created_at": "2026-08-30T21:26:12.072944+00:00",
-      "owner": "Designer"
+      "owner": "Designer",
+      "linked_elements": []
     },
     {
       "id": "ac0e75ac-8c79-48fe-8a40-2d8072d0ed61",
@@ -470,7 +528,8 @@
       "category": "Combat Style",
       "description": "Specialist in directed pulse lasers, armor piercing, and pinpoint beam fire.",
       "created_at": "2026-09-05T23:12:06.037047+00:00",
-      "owner": "Designer"
+      "owner": "Designer",
+      "linked_elements": []
     },
     {
       "id": "d0b64008-5489-4290-993e-9e06ef5998d9",
@@ -478,7 +537,8 @@
       "category": "Combat Style",
       "description": "Long-range precision rifleman and designated marksman.",
       "created_at": "2026-09-05T23:12:06.037047+00:00",
-      "owner": "Designer"
+      "owner": "Designer",
+      "linked_elements": []
     },
     {
       "id": "e9ed1f3a-879e-4e1c-ad28-245a08b3bf2b",
@@ -486,7 +546,8 @@
       "category": "Specialist",
       "description": "Grants +1 to all checks using: Audial Transceiver, Multi-Spectrum Eye, Micro-Laser, Comm Link.",
       "created_at": "2026-09-05T23:12:06.037047+00:00",
-      "owner": "Designer"
+      "owner": "Designer",
+      "linked_elements": []
     },
     {
       "id": "22e1d31c-b497-4626-8702-f8cdb885064b",
@@ -494,7 +555,8 @@
       "category": "Race",
       "description": "Ancient super-race of reality architects with unmatched psionic and cosmic mastery.",
       "created_at": "2026-09-05T23:12:06.131356+00:00",
-      "owner": "Designer"
+      "owner": "Designer",
+      "linked_elements": []
     },
     {
       "id": "d970eef2-8518-4a51-a1af-bb0dde5461aa",
@@ -502,7 +564,8 @@
       "category": "Ship Officer",
       "description": "Hyperspace and stellar navigation specialist calculating jump vectors.",
       "created_at": "2026-09-05T23:12:06.131356+00:00",
-      "owner": "Designer"
+      "owner": "Designer",
+      "linked_elements": []
     },
     {
       "id": "22c8aa74-72d4-43d0-85a6-cafc6c5024a8",
@@ -510,7 +573,8 @@
       "category": "Ship Officer",
       "description": "Commanding officer directing starship operations, crew morale, and overall tactical strategy.",
       "created_at": "2026-09-05T23:12:06.131356+00:00",
-      "owner": "Designer"
+      "owner": "Designer",
+      "linked_elements": []
     },
     {
       "id": "1704f6f6-8f40-41a5-ba9c-76572ea97237",
@@ -518,7 +582,8 @@
       "category": "Ship Officer",
       "description": "Communications officer managing sensor arrays, electronic warfare, and transmissions.",
       "created_at": "2026-09-05T23:12:06.131356+00:00",
-      "owner": "Designer"
+      "owner": "Designer",
+      "linked_elements": []
     },
     {
       "id": "6de04972-fc04-4cd5-9b03-8fa0619add95",
@@ -526,7 +591,8 @@
       "category": "Ship Officer",
       "description": "Chief engineer managing reactor cores, power distribution, and vessel damage control.",
       "created_at": "2026-09-05T23:12:06.131356+00:00",
-      "owner": "Designer"
+      "owner": "Designer",
+      "linked_elements": []
     },
     {
       "id": "679b048c-0308-4bc9-9251-ba2afbfe3344",
@@ -534,7 +600,8 @@
       "category": "Ship Officer",
       "description": "Ace starfighter pilot excelling in dogfights, escort missions, and space interception.",
       "created_at": "2026-09-05T23:12:06.131356+00:00",
-      "owner": "Designer"
+      "owner": "Designer",
+      "linked_elements": []
     },
     {
       "id": "bc0dcada-3728-4335-bade-641527579430",
@@ -542,7 +609,8 @@
       "category": "Ship Officer",
       "description": "Flight navigator and helmsman executing orbital maneuvers, docking, and evasive flight.",
       "created_at": "2026-09-05T23:12:06.131356+00:00",
-      "owner": "Designer"
+      "owner": "Designer",
+      "linked_elements": []
     },
     {
       "id": "eb4336dc-ffcd-4aa9-a180-d56e4602409d",
@@ -550,7 +618,8 @@
       "category": "Ship Officer",
       "description": "Chief medical officer providing trauma care, bio-scans, and crew life support.",
       "created_at": "2026-09-05T23:12:06.131356+00:00",
-      "owner": "Designer"
+      "owner": "Designer",
+      "linked_elements": []
     },
     {
       "id": "6c6a3342-22d0-49de-8f0a-76ef14be437d",
@@ -558,7 +627,8 @@
       "category": "Ship Officer",
       "description": "Cyber warfare and shipboard mainframe specialist managing AI firewalls and subroutines.",
       "created_at": "2026-09-05T23:12:06.131356+00:00",
-      "owner": "Designer"
+      "owner": "Designer",
+      "linked_elements": []
     },
     {
       "id": "a6b487b2-5e61-40ae-9a53-f8398da85a43",
@@ -566,7 +636,8 @@
       "category": "Ship Officer",
       "description": "Science officer conducting planetary scans, anomalous analysis, and research.",
       "created_at": "2026-09-05T23:12:06.131356+00:00",
-      "owner": "Designer"
+      "owner": "Designer",
+      "linked_elements": []
     },
     {
       "id": "d59ba844-d990-4281-8b6a-c4b8ef854bec",
@@ -574,7 +645,8 @@
       "category": "Ship Officer",
       "description": "Weapons officer operating starship turrets, torpedo banks, and shield harmonics.",
       "created_at": "2026-09-05T23:12:06.131356+00:00",
-      "owner": "Designer"
+      "owner": "Designer",
+      "linked_elements": []
     },
     {
       "id": "a9129c50-85db-4deb-bb98-e4f766b0b21d",
@@ -582,7 +654,8 @@
       "category": "Ship Officer",
       "description": "Maintenance and hardware technician keeping ship systems and drones operational.",
       "created_at": "2026-09-05T23:12:06.131356+00:00",
-      "owner": "Designer"
+      "owner": "Designer",
+      "linked_elements": []
     },
     {
       "id": "ca8a2c87-afb6-44e7-9616-7633d69a4db8",
@@ -590,7 +663,8 @@
       "category": "Combat Style",
       "description": "One-handed weapon mastery, dueling focus, and throwing techniques.",
       "created_at": "2026-08-30T21:26:12.701717+00:00",
-      "owner": "Designer"
+      "owner": "Designer",
+      "linked_elements": []
     },
     {
       "id": "044cad7e-09a3-42d9-8935-910659e0219e",
@@ -598,7 +672,8 @@
       "category": "Specialist",
       "description": "Grants +1 to all checks using: Titanium Endoskeleton, Spine Support, Heavy Rib Cage.",
       "created_at": "2026-09-05T23:12:06.037047+00:00",
-      "owner": "Designer"
+      "owner": "Designer",
+      "linked_elements": []
     },
     {
       "id": "32874d19-6168-4ac8-a8a8-b4883f843e9a",
@@ -606,7 +681,8 @@
       "category": "Profession",
       "description": "Infiltration, espionage, and covert intelligence operative.",
       "created_at": "2026-09-05T23:12:06.131356+00:00",
-      "owner": "Designer"
+      "owner": "Designer",
+      "linked_elements": []
     },
     {
       "id": "5c719048-606a-48b4-b6a3-8e6f2a10f7f9",
@@ -614,7 +690,8 @@
       "category": "Class",
       "description": "Cosmic tracker and precision marksman with nano-targeting optics.",
       "created_at": "2026-08-30T21:26:12.10437+00:00",
-      "owner": "Designer"
+      "owner": "Designer",
+      "linked_elements": []
     },
     {
       "id": "e6ccab2f-c2ac-4af5-98f4-ce9bcd32561a",
@@ -622,7 +699,8 @@
       "category": "Profession",
       "description": "Wilderness and hostile environment survival expert.",
       "created_at": "2026-09-05T23:12:06.131356+00:00",
-      "owner": "Designer"
+      "owner": "Designer",
+      "linked_elements": []
     },
     {
       "id": "d74b75ea-b98c-40e5-9ae6-157b70ffc988",
@@ -630,7 +708,8 @@
       "category": "Supplies",
       "description": "Proficiency with standard technological tools, communicators, and field electronics.",
       "created_at": "2026-09-05T23:12:06.131356+00:00",
-      "owner": "Designer"
+      "owner": "Designer",
+      "linked_elements": []
     },
     {
       "id": "07dba07a-8145-45c1-9627-38a333b3f015",
@@ -638,7 +717,8 @@
       "category": "Supplies",
       "description": "Cybernetic implants, high-tech gadgets, and biological upgrades.",
       "created_at": "2026-08-30T21:26:12.766158+00:00",
-      "owner": "Designer"
+      "owner": "Designer",
+      "linked_elements": []
     },
     {
       "id": "6258a0c9-9cc0-4fce-b3a0-5a73654930a8",
@@ -646,7 +726,8 @@
       "category": "Class",
       "description": "Shadow operative specializing in stealth strikes, poisons, and vanishing acts.",
       "created_at": "2026-08-30T21:26:12.138152+00:00",
-      "owner": "Designer"
+      "owner": "Designer",
+      "linked_elements": []
     },
     {
       "id": "61582e14-0bab-4584-9ad4-c2c3c33fa1f3",
@@ -654,7 +735,8 @@
       "category": "Profession",
       "description": "Stealth, lockpicking, pickpocketing, and agility expert.",
       "created_at": "2026-09-05T23:12:06.131356+00:00",
-      "owner": "Designer"
+      "owner": "Designer",
+      "linked_elements": []
     },
     {
       "id": "b0232465-7798-4cbc-9341-aa191b3da38f",
@@ -662,7 +744,8 @@
       "category": "Class",
       "description": "Illusionist and misdirection expert using smoke bombs and feints.",
       "created_at": "2026-08-30T21:26:12.168773+00:00",
-      "owner": "Designer"
+      "owner": "Designer",
+      "linked_elements": []
     },
     {
       "id": "26465476-595b-46e3-9fa4-551f333244ad",
@@ -670,7 +753,8 @@
       "category": "Class",
       "description": "Genetic modifier deploying biological weaponry and hive swarms.",
       "created_at": "2026-08-30T21:26:12.201154+00:00",
-      "owner": "Designer"
+      "owner": "Designer",
+      "linked_elements": []
     },
     {
       "id": "ab90cb63-0d84-44b6-9226-c5a3e28c39ba",
@@ -678,7 +762,8 @@
       "category": "Other",
       "description": "Special boons, personality quirks, and unique special rules.",
       "created_at": "2026-08-30T21:26:12.796925+00:00",
-      "owner": "Designer"
+      "owner": "Designer",
+      "linked_elements": []
     },
     {
       "id": "823f460a-9b95-4163-9b39-8e057f2d8fc9",
@@ -686,7 +771,8 @@
       "category": "Universal",
       "description": "Heroic stunts, clutch fortune, and general utility abilities accessible to all adventurers.",
       "created_at": "2026-09-09T17:23:09.993126+00:00",
-      "owner": "Designer"
+      "owner": "Designer",
+      "linked_elements": []
     },
     {
       "id": "92ebff09-bfd2-4907-9f91-a175fbe40ceb",
@@ -694,7 +780,8 @@
       "category": "Profession",
       "description": "Expert operator of ground, hover, and planetary transport vehicles.",
       "created_at": "2026-09-05T23:12:06.131356+00:00",
-      "owner": "Designer"
+      "owner": "Designer",
+      "linked_elements": []
     },
     {
       "id": "7e0cc17f-045b-4977-ad1c-b1b4bc905550",
@@ -702,7 +789,8 @@
       "category": "Class",
       "description": "Dark sorcery and occult-tech combat conduit.",
       "created_at": "2026-09-05T23:12:06.037047+00:00",
-      "owner": "Designer"
+      "owner": "Designer",
+      "linked_elements": []
     },
     {
       "id": "d6ff1445-bcd1-4ebe-a83d-cbb85bc0a760",
@@ -710,7 +798,8 @@
       "category": "Class",
       "description": "Battle-tested frontline fighter mastering combat stances and battle trances.",
       "created_at": "2026-08-30T21:26:12.231973+00:00",
-      "owner": "Designer"
+      "owner": "Designer",
+      "linked_elements": []
     },
     {
       "id": "dd17e416-bc71-444e-89d5-824a7214ad52",
@@ -718,7 +807,8 @@
       "category": "Class",
       "description": "Phasing skirmisher blending weapon strikes with dimensional blinks.",
       "created_at": "2026-08-30T21:26:12.26314+00:00",
-      "owner": "Designer"
+      "owner": "Designer",
+      "linked_elements": []
     },
     {
       "id": "ca4951a9-9bf1-42a9-a8c6-721a03f603a0",
@@ -726,7 +816,8 @@
       "category": "Class",
       "description": "Ferocious rage-fueled berserker channeling predatory frenzy and lifesteal.",
       "created_at": "2026-08-30T21:26:12.293832+00:00",
-      "owner": "Designer"
+      "owner": "Designer",
+      "linked_elements": []
     },
     {
       "id": "69af6145-2a7f-430a-8873-767368030b83",
@@ -734,7 +825,8 @@
       "category": "Class",
       "description": "Unyielding phalanx defender fueled by the fallen and stubborn defiance.",
       "created_at": "2026-08-30T21:26:12.324402+00:00",
-      "owner": "Designer"
+      "owner": "Designer",
+      "linked_elements": []
     },
     {
       "id": "306509ac-81b3-4a3d-b5ed-daaae7ff757f",
@@ -742,7 +834,8 @@
       "category": "Class",
       "description": "Heavily armored vanguard unleashing molten core bursts and cybernetic power.",
       "created_at": "2026-08-30T21:26:12.355341+00:00",
-      "owner": "Designer"
+      "owner": "Designer",
+      "linked_elements": []
     },
     {
       "id": "17fa01ac-3565-4fa3-81c6-4630bdda8601",
@@ -750,7 +843,8 @@
       "category": "Class",
       "description": "Vampiric dread knight draining enemy vitality into dark shields.",
       "created_at": "2026-08-30T21:26:12.387904+00:00",
-      "owner": "Designer"
+      "owner": "Designer",
+      "linked_elements": []
     },
     {
       "id": "8783764f-fc9f-4cbf-93de-5e5a56415420",
@@ -758,7 +852,8 @@
       "category": "Class",
       "description": "Gritty street brawler wielding improvised weapons and adrenaline surges.",
       "created_at": "2026-08-30T21:26:12.418951+00:00",
-      "owner": "Designer"
+      "owner": "Designer",
+      "linked_elements": []
     },
     {
       "id": "107d43c4-af5f-4cb3-9df8-f7e8e64e13d9",
@@ -766,7 +861,8 @@
       "category": "Class",
       "description": "Wilderness scout excelling in acrobatics, rapid evasion, and ranged volleys.",
       "created_at": "2026-08-30T21:26:12.450485+00:00",
-      "owner": "Designer"
+      "owner": "Designer",
+      "linked_elements": []
     },
     {
       "id": "2196616a-c079-46f1-b673-2e21b5afd379",
@@ -774,7 +870,8 @@
       "category": "Class",
       "description": "Bulwark guardian executing avalanche drives and ancestral shield blocks.",
       "created_at": "2026-08-30T21:26:12.483279+00:00",
-      "owner": "Designer"
+      "owner": "Designer",
+      "linked_elements": []
     },
     {
       "id": "1f56fc3b-8aa4-4cf2-b8aa-c1104d75c05d",
@@ -782,7 +879,8 @@
       "category": "Class",
       "description": "DHA assault warrior specializing in melee and tactical combat.",
       "created_at": "2026-09-05T23:12:06.037047+00:00",
-      "owner": "Designer"
+      "owner": "Designer",
+      "linked_elements": []
     },
     {
       "id": "9cbadb48-8d31-4539-99f6-7786ed53b20e",
@@ -790,7 +888,8 @@
       "category": "Combat Style",
       "description": "Sword-and-board combat style maximizing blocking and shield bashes.",
       "created_at": "2026-08-30T21:26:12.830067+00:00",
-      "owner": "Designer"
+      "owner": "Designer",
+      "linked_elements": []
     },
     {
       "id": "16f28081-4498-4dfb-9e34-6ba2ed6ffb1b",
@@ -798,7 +897,8 @@
       "category": "Race",
       "description": "Zin-Shee matriarchal lineage with formidable physical and tactical prowess.",
       "created_at": "2026-09-05T23:12:06.131356+00:00",
-      "owner": "Designer"
+      "owner": "Designer",
+      "linked_elements": []
     },
     {
       "id": "488ac6d5-026d-49e8-8109-3990017ba108",
@@ -806,7 +906,8 @@
       "category": "Race",
       "description": "Zin-Shee male warrior caste with disciplined martial endurance.",
       "created_at": "2026-09-05T23:12:06.131356+00:00",
-      "owner": "Designer"
+      "owner": "Designer",
+      "linked_elements": []
     }
   ],
   "sets": [
