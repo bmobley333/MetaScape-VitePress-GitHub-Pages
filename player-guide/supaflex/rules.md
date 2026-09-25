@@ -256,6 +256,7 @@ Monster stats place the emojis before key numbers or number sets as in:
 | Racial🧬 | 🧬 |
 | Range🎯 | 🎯 |
 | Rules📜 | 📜 |
+| Sets🗂️ | 🗂️ |
 | Shields🛡️ | 🛡️ |
 | Single Weapon🗡️ | 🗡️ |
 | Skill🎓 | 🎓 |
