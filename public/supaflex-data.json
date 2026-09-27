@@ -20110,81 +20110,6 @@
       "updated_at": "2026-09-24T23:21:57.992223+00:00"
     },
     {
-      "id": "aebd8570-426f-4eb3-9b09-df16799a6f44",
-      "name": "Psionic Field Set (mso)",
-      "category": "Powers",
-      "description": "Grants +1 to all checks using: Encase, Shield.",
-      "paths": [],
-      "genres": [
-        "Medieval",
-        "Modern",
-        "SciFi"
-      ],
-      "owner": "Designer",
-      "created_at": "2026-09-24T23:21:57.992223+00:00",
-      "updated_at": "2026-09-24T23:21:57.992223+00:00"
-    },
-    {
-      "id": "69c4520f-a24f-4120-ba5e-878b661229da",
-      "name": "Psionic Force Set (mso)",
-      "category": "Powers",
-      "description": "Grants +1 to all checks using: Blast, Blow, Landing, Punch, Shove.",
-      "paths": [],
-      "genres": [
-        "Medieval",
-        "Modern",
-        "SciFi"
-      ],
-      "owner": "Designer",
-      "created_at": "2026-09-24T23:21:57.992223+00:00",
-      "updated_at": "2026-09-24T23:21:57.992223+00:00"
-    },
-    {
-      "id": "c0891699-dc8b-4124-bbc4-3d2865652a76",
-      "name": "Psionic Mental Set (mso)",
-      "category": "Powers",
-      "description": "Grants +1 to all checks using: Minor Telepathy, Mind Probe, Read Surface Thoughts, Telepathy.",
-      "paths": [],
-      "genres": [
-        "Medieval",
-        "Modern",
-        "SciFi"
-      ],
-      "owner": "Designer",
-      "created_at": "2026-09-24T23:21:57.992223+00:00",
-      "updated_at": "2026-09-24T23:21:57.992223+00:00"
-    },
-    {
-      "id": "8d6a6586-2f2b-4482-b163-b49ff400938d",
-      "name": "Psionic Reality Set (mso)",
-      "category": "Powers",
-      "description": "Grants +1 to all checks using: Hallucination, Haze.",
-      "paths": [],
-      "genres": [
-        "Medieval",
-        "Modern",
-        "SciFi"
-      ],
-      "owner": "Designer",
-      "created_at": "2026-09-24T23:21:57.992223+00:00",
-      "updated_at": "2026-09-24T23:21:57.992223+00:00"
-    },
-    {
-      "id": "8f578a2b-cdb7-437b-abec-440a566deb9e",
-      "name": "Psionic Telekinesis Set (mso)",
-      "category": "Powers",
-      "description": "Grants +1 to all checks using: Hurl, Jerk, Levitate Other, Levitate Self, Move Object, Rend, Return.",
-      "paths": [],
-      "genres": [
-        "Medieval",
-        "Modern",
-        "SciFi"
-      ],
-      "owner": "Designer",
-      "created_at": "2026-09-24T23:21:57.992223+00:00",
-      "updated_at": "2026-09-24T23:21:57.992223+00:00"
-    },
-    {
       "id": "62c87b96-2081-4432-b77a-19229b6eaaa4",
       "name": "Psionics (mso)",
       "category": "Powers",
@@ -20192,96 +20117,6 @@
       "paths": [
         "Mensi (mso)"
       ],
-      "genres": [
-        "Medieval",
-        "Modern",
-        "SciFi"
-      ],
-      "owner": "Designer",
-      "created_at": "2026-09-24T23:21:57.992223+00:00",
-      "updated_at": "2026-09-24T23:21:57.992223+00:00"
-    },
-    {
-      "id": "19122fbb-3513-41e7-acf6-4e726b4b988a",
-      "name": "Psychosomatic Alteration Set (mso)",
-      "category": "Powers",
-      "description": "Grants +1 to all checks using: Molecular Diffusion.",
-      "paths": [],
-      "genres": [
-        "Medieval",
-        "Modern",
-        "SciFi"
-      ],
-      "owner": "Designer",
-      "created_at": "2026-09-24T23:21:57.992223+00:00",
-      "updated_at": "2026-09-24T23:21:57.992223+00:00"
-    },
-    {
-      "id": "45ee9757-3b9b-4630-b8b4-e170fb234bc2",
-      "name": "Psychosomatic Defensive Set (mso)",
-      "category": "Powers",
-      "description": "Grants +1 to all checks using: Body Heal, Iron Skin, Rough Skin, Tough Skin, Vitalize.",
-      "paths": [],
-      "genres": [
-        "Medieval",
-        "Modern",
-        "SciFi"
-      ],
-      "owner": "Designer",
-      "created_at": "2026-09-24T23:21:57.992223+00:00",
-      "updated_at": "2026-09-24T23:21:57.992223+00:00"
-    },
-    {
-      "id": "aed68550-4514-4262-8584-99eb6163daf4",
-      "name": "Psychosomatic Muscular Set (mso)",
-      "category": "Powers",
-      "description": "Grants +1 to all checks using: Jump, Speed, Strength Surge, Strengthen.",
-      "paths": [],
-      "genres": [
-        "Medieval",
-        "Modern",
-        "SciFi"
-      ],
-      "owner": "Designer",
-      "created_at": "2026-09-24T23:21:57.992223+00:00",
-      "updated_at": "2026-09-24T23:21:57.992223+00:00"
-    },
-    {
-      "id": "45a53edf-d2a1-404b-bb16-edbd84b5d25d",
-      "name": "Psychosomatic Offensive Set (mso)",
-      "category": "Powers",
-      "description": "Grants +1 to all checks using: Death Blow, Electric Palm, Power Punch, Stun.",
-      "paths": [],
-      "genres": [
-        "Medieval",
-        "Modern",
-        "SciFi"
-      ],
-      "owner": "Designer",
-      "created_at": "2026-09-24T23:21:57.992223+00:00",
-      "updated_at": "2026-09-24T23:21:57.992223+00:00"
-    },
-    {
-      "id": "b2f40600-83ee-4212-bbb6-ea2b1fbd5c59",
-      "name": "Psychosomatic Sensory Set (mso)",
-      "category": "Powers",
-      "description": "Grants +1 to all checks using: Hearing Boost, Super Hearing, Super Vision, Vision Boost.",
-      "paths": [],
-      "genres": [
-        "Medieval",
-        "Modern",
-        "SciFi"
-      ],
-      "owner": "Designer",
-      "created_at": "2026-09-24T23:21:57.992223+00:00",
-      "updated_at": "2026-09-24T23:21:57.992223+00:00"
-    },
-    {
-      "id": "bb9c50c4-37e4-4e43-884d-2f16ff1dcd84",
-      "name": "Psychosomatic Survival Set (mso)",
-      "category": "Powers",
-      "description": "Grants +1 to all checks using: Oxygenate, Resist Cold, Resist Heat.",
-      "paths": [],
       "genres": [
         "Medieval",
         "Modern",
@@ -20628,21 +20463,6 @@
       "updated_at": "2026-09-24T23:21:57.992223+00:00"
     },
     {
-      "id": "7337ac97-61a5-42f0-bfa9-cc3379f4e7b9",
-      "name": "Somatic Combat Set (mso)",
-      "category": "Powers",
-      "description": "Grants +1 to all checks using: Electric Palm, Iron Skin, Claws & Fangs, Molecular Diffusion, Density Increase.",
-      "paths": [],
-      "genres": [
-        "Medieval",
-        "Modern",
-        "SciFi"
-      ],
-      "owner": "Designer",
-      "created_at": "2026-09-24T23:21:57.992223+00:00",
-      "updated_at": "2026-09-24T23:21:57.992223+00:00"
-    },
-    {
       "id": "6b488b42-4230-4c20-8c4b-a7b57786b41e",
       "name": "Sorce (mso)",
       "category": "Powers",
@@ -20660,115 +20480,10 @@
       "updated_at": "2026-09-24T23:21:57.992223+00:00"
     },
     {
-      "id": "1f0e2c5c-fc18-44e0-a422-13e150548b96",
-      "name": "Sorce Associative Set (mso)",
-      "category": "Powers",
-      "description": "Grants +1 to all checks using: Binding Word, Radiate Fear.",
-      "paths": [],
-      "genres": [
-        "Medieval",
-        "Modern",
-        "SciFi"
-      ],
-      "owner": "Designer",
-      "created_at": "2026-09-24T23:21:57.992223+00:00",
-      "updated_at": "2026-09-24T23:21:57.992223+00:00"
-    },
-    {
-      "id": "98db6dae-d0bb-40ca-81ef-8d00e555a3e5",
-      "name": "Sorce Defensive Set (mso)",
-      "category": "Powers",
-      "description": "Grants +1 to all checks using: Adhere, Immortal Stance, Sorce Field.",
-      "paths": [],
-      "genres": [
-        "Medieval",
-        "Modern",
-        "SciFi"
-      ],
-      "owner": "Designer",
-      "created_at": "2026-09-24T23:21:57.992223+00:00",
-      "updated_at": "2026-09-24T23:21:57.992223+00:00"
-    },
-    {
-      "id": "f0db7799-874d-4fbd-a275-127f45216917",
-      "name": "Sorce Destructive Set (mso)",
-      "category": "Powers",
-      "description": "Grants +1 to all checks using: Death Ray, Energy Bolt, Fireball, Lightning Strike.",
-      "paths": [],
-      "genres": [
-        "Medieval",
-        "Modern",
-        "SciFi"
-      ],
-      "owner": "Designer",
-      "created_at": "2026-09-24T23:21:57.992223+00:00",
-      "updated_at": "2026-09-24T23:21:57.992223+00:00"
-    },
-    {
-      "id": "7b1cbb33-de4a-44a8-a821-6bfb048a140c",
-      "name": "Sorce Environmental Set (mso)",
-      "category": "Powers",
-      "description": "Grants +1 to all checks using: Door Hand, Door Master, Glow Globe.",
-      "paths": [],
-      "genres": [
-        "Medieval",
-        "Modern",
-        "SciFi"
-      ],
-      "owner": "Designer",
-      "created_at": "2026-09-24T23:21:57.992223+00:00",
-      "updated_at": "2026-09-24T23:21:57.992223+00:00"
-    },
-    {
-      "id": "bd7c9628-a275-4ff8-ba0c-a8fb03efc819",
-      "name": "Sorce Healing Set (mso)",
-      "category": "Powers",
-      "description": "Grants +1 to all checks using: Heal All, Healing, Life Balance, Light Healing.",
-      "paths": [],
-      "genres": [
-        "Medieval",
-        "Modern",
-        "SciFi"
-      ],
-      "owner": "Designer",
-      "created_at": "2026-09-24T23:21:57.992223+00:00",
-      "updated_at": "2026-09-24T23:21:57.992223+00:00"
-    },
-    {
-      "id": "48711055-5ce3-4bbb-877b-4f3eb3b89e18",
-      "name": "Sorce Offensive Set (mso)",
-      "category": "Powers",
-      "description": "Grants +1 to all checks using: Choke, Death Ray, Energy Bolt, Life Drain, Shockblast, Vampire Touch.",
-      "paths": [],
-      "genres": [
-        "Medieval",
-        "Modern",
-        "SciFi"
-      ],
-      "owner": "Designer",
-      "created_at": "2026-09-24T23:21:57.992223+00:00",
-      "updated_at": "2026-09-24T23:21:57.992223+00:00"
-    },
-    {
       "id": "e9198173-3194-40fe-a872-ea6c152f863f",
       "name": "Sorce Relics",
       "category": "Powers",
       "description": "Magical artifacts, staves, and enchanted relics.",
-      "paths": [],
-      "genres": [
-        "Medieval",
-        "Modern",
-        "SciFi"
-      ],
-      "owner": "Designer",
-      "created_at": "2026-09-24T23:21:57.992223+00:00",
-      "updated_at": "2026-09-24T23:21:57.992223+00:00"
-    },
-    {
-      "id": "a5cf6578-f482-4fe6-bfb7-f4a829b189a4",
-      "name": "Sorce Transportal Set (mso)",
-      "category": "Powers",
-      "description": "Grants +1 to all checks using: Displace, Displace Group, Ghost Walk, Teleport.",
       "paths": [],
       "genres": [
         "Medieval",
@@ -21100,36 +20815,6 @@
       "name": "Tech Suit Armor (mso)",
       "category": "Armor",
       "description": "Heavy powered assault rigs and mechanized exoskeleton combat suits.",
-      "paths": [],
-      "genres": [
-        "Medieval",
-        "Modern",
-        "SciFi"
-      ],
-      "owner": "Designer",
-      "created_at": "2026-09-24T23:21:57.992223+00:00",
-      "updated_at": "2026-09-24T23:21:57.992223+00:00"
-    },
-    {
-      "id": "c4c189ff-72d0-448b-bf04-bb5a2cc80aae",
-      "name": "Telekinetic Force Set (mso)",
-      "category": "Powers",
-      "description": "Grants +1 to all checks using: Blast, Encase, Levitate Self, Levitate Object, Kinetic Wall, Kinetic Shield.",
-      "paths": [],
-      "genres": [
-        "Medieval",
-        "Modern",
-        "SciFi"
-      ],
-      "owner": "Designer",
-      "created_at": "2026-09-24T23:21:57.992223+00:00",
-      "updated_at": "2026-09-24T23:21:57.992223+00:00"
-    },
-    {
-      "id": "bf5f6a5a-d4c1-4c00-8fb2-7bc7e9cd1a6d",
-      "name": "Telepathic Mind Set (mso)",
-      "category": "Powers",
-      "description": "Grants +1 to all checks using: Mind Probe, Mental Shield, Telepathy, Hallucination, Suggestion.",
       "paths": [],
       "genres": [
         "Medieval",
