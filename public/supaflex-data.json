@@ -19871,23 +19871,6 @@
       "updated_at": "2026-09-24T23:21:57.992223+00:00"
     },
     {
-      "id": "c7888dd2-2295-443a-8014-2615afce99c7",
-      "name": "Kryll Racial Weapons (mso)",
-      "category": "Weapons",
-      "description": "Specialized biological symbiote weaponry and living bio-blades of the Kryll.",
-      "paths": [
-        "Kryll (mso)"
-      ],
-      "genres": [
-        "Medieval",
-        "Modern",
-        "SciFi"
-      ],
-      "owner": "Designer",
-      "created_at": "2026-09-24T23:21:57.992223+00:00",
-      "updated_at": "2026-09-24T23:21:57.992223+00:00"
-    },
-    {
       "id": "fc420d14-4a4d-49ce-9146-8da4bb24fd05",
       "name": "Magnetism",
       "category": "Skills",
@@ -20470,21 +20453,6 @@
       "paths": [
         "Warlock (mso)"
       ],
-      "genres": [
-        "Medieval",
-        "Modern",
-        "SciFi"
-      ],
-      "owner": "Designer",
-      "created_at": "2026-09-24T23:21:57.992223+00:00",
-      "updated_at": "2026-09-24T23:21:57.992223+00:00"
-    },
-    {
-      "id": "e9198173-3194-40fe-a872-ea6c152f863f",
-      "name": "Sorce Relics",
-      "category": "Powers",
-      "description": "Magical artifacts, staves, and enchanted relics.",
-      "paths": [],
       "genres": [
         "Medieval",
         "Modern",
@@ -22710,7 +22678,9 @@
       "stat_hook": null,
       "notes": null,
       "owner": "Designer",
-      "sets": []
+      "sets": [
+        "Psychosomatics (mso)"
+      ]
     },
     {
       "id": 844,
@@ -22727,7 +22697,9 @@
       "stat_hook": null,
       "notes": "Body heal allows psychosomaticists to heal damage to their bodies. To use this power, the psychosomaticist concentrates upon the wounded area, sending self-healing impulses. The enhancement then automatically heals an amount of damage equal to the skill’s level.",
       "owner": "Designer",
-      "sets": []
+      "sets": [
+        "Psychosomatics (mso)"
+      ]
     },
     {
       "id": 91,
@@ -23982,7 +23954,9 @@
       "stat_hook": null,
       "notes": null,
       "owner": "Designer",
-      "sets": []
+      "sets": [
+        "Psychosomatics (mso)"
+      ]
     },
     {
       "id": 892,
@@ -23999,7 +23973,9 @@
       "stat_hook": null,
       "notes": "This enhancement enables the user to focus mental energy through a physical blow. The energy is then channeled into the target, crushing tissue, causing massive damage, and resulting in death. Death blow can be activated after the psychosomaticist has struck a damaging blow. The psychosomaticist then makes a skill roll against the victim’s FR. If the roll succeeds, the target is dead. PCs who are victims of this attack are reduced to 10 Vit.",
       "owner": "Designer",
-      "sets": []
+      "sets": [
+        "Psychosomatics (mso)"
+      ]
     },
     {
       "id": 154,
@@ -25015,7 +24991,9 @@
       "stat_hook": null,
       "notes": null,
       "owner": "Designer",
-      "sets": []
+      "sets": [
+        "Psychosomatics (mso)"
+      ]
     },
     {
       "id": 886,
@@ -25032,7 +25010,9 @@
       "stat_hook": null,
       "notes": "This power allows the psychosomaticist to deliver a powerful electric charge, when his hand strikes an opponent. This power may be used after the psychosomaticist has made a damaging attack. This enhancement inflicts additional damage equal to the skill’s level. By expending more than one power point, the psychosomaticist may channel multiple doses of damage into the opponent — however, the player must state the number of doses initially and it can’t be changed.",
       "owner": "Designer",
-      "sets": []
+      "sets": [
+        "Psychosomatics (mso)"
+      ]
     },
     {
       "id": 207,
@@ -26981,7 +26961,9 @@
       "stat_hook": null,
       "notes": null,
       "owner": "Designer",
-      "sets": []
+      "sets": [
+        "Psychosomatics (mso)"
+      ]
     },
     {
       "id": 879,
@@ -26998,7 +26980,9 @@
       "stat_hook": null,
       "notes": "This discipline makes the psychosomaticist’s skin more sensitive to vibrations in the air, greatly enhancing hearing. Hearing boost allows the psychosomaticist to make his or her hearing-based 👁️ Perception check at +1.",
       "owner": "Designer",
-      "sets": []
+      "sets": [
+        "Psychosomatics (mso)"
+      ]
     },
     {
       "id": 303,
@@ -27801,7 +27785,9 @@
       "stat_hook": null,
       "notes": "Psychosomaticists may use this enhancement to temporarily transform their flesh into iron-hard, near-impenetrable tissue. Iron skin grants a +3 bonus to AR (regardless of armor worn), and lasts a number of rounds equal the skill’s level. This can not be used in conjunction with rough or tough skin, and is considered gone if the user is rendered unconscious.",
       "owner": "Designer",
-      "sets": []
+      "sets": [
+        "Psychosomatics (mso)"
+      ]
     },
     {
       "id": 350,
@@ -27915,7 +27901,9 @@
       "stat_hook": null,
       "notes": null,
       "owner": "Designer",
-      "sets": []
+      "sets": [
+        "Psychosomatics (mso)"
+      ]
     },
     {
       "id": 875,
@@ -27932,7 +27920,9 @@
       "stat_hook": null,
       "notes": "This enhancement gives the psychosomaticist greatly enhanced jumping and leaping abilities. The effect is to add +3 to Spe when a character is making a jump.",
       "owner": "Designer",
-      "sets": []
+      "sets": [
+        "Psychosomatics (mso)"
+      ]
     },
     {
       "id": 356,
@@ -29477,7 +29467,9 @@
       "stat_hook": null,
       "notes": null,
       "owner": "Designer",
-      "sets": []
+      "sets": [
+        "Psychosomatics (mso)"
+      ]
     },
     {
       "id": 868,
@@ -29494,7 +29486,9 @@
       "stat_hook": null,
       "notes": "This highly sophisticated discipline allows users to align the very molecules of their body in such a way as to pass through solid objects without harm. Psychosomaticists may pass directly through any solid object, living or non living, in their path. This power may be used to walk through walls, get behind opponents, etc. Once through, the psychosomaticist instantly reverts to their normal solid state. Thus, this enhancement may only be used to pass through one item at a time. If a psychosomatic with this enhancement states that they are activating it before making a Defense roll, then the attack misses as it passes right through them (effective on physical weapons only, not on energy weapons). Of course, the character must have Nish and spend their attack action on the enhancement as always.",
       "owner": "Designer",
-      "sets": []
+      "sets": [
+        "Psychosomatics (mso)"
+      ]
     },
     {
       "id": 433,
@@ -30242,7 +30236,9 @@
       "stat_hook": null,
       "notes": null,
       "owner": "Designer",
-      "sets": []
+      "sets": [
+        "Psychosomatics (mso)"
+      ]
     },
     {
       "id": 867,
@@ -30259,7 +30255,9 @@
       "stat_hook": null,
       "notes": "Oxygenate allows psychosomaticists to absorb oxygen from their body tissue. When used, the oxygen will sustain the user, eliminating any need for breathing, for a number of rounds equal to the skill’s value. This effects of this enhancement are in addition to the normal amount of time a character can go without air without making a suffocation check (see RB, hazards).",
       "owner": "Designer",
-      "sets": []
+      "sets": [
+        "Psychosomatics (mso)"
+      ]
     },
     {
       "id": 476,
@@ -30880,7 +30878,9 @@
       "stat_hook": null,
       "notes": null,
       "owner": "Designer",
-      "sets": []
+      "sets": [
+        "Psychosomatics (mso)"
+      ]
     },
     {
       "id": 866,
@@ -30897,7 +30897,9 @@
       "stat_hook": null,
       "notes": "Power punch allows a psychosomaticist to increase muscle strength, momentarily enhancing the damage of any punching or kicking blow. The enhancement may be activated after the blow hits, but before damage is rolled. This discipline gives the psychosomaticist a surge of quick strength which increases damage by +3.",
       "owner": "Designer",
-      "sets": []
+      "sets": [
+        "Psychosomatics (mso)"
+      ]
     },
     {
       "id": 516,
@@ -31856,7 +31858,9 @@
       "stat_hook": null,
       "notes": "Individuals with this enhancement are able to mentally strengthen their body’s tissues to minimize the effects of cold. When using this discipline, users receive a +3 to their FR when resisting cold. Armor rolls against cold based attacks are made at +1. Characters with this enhancement make enhanced Fortitude rolls (+3) versus the effects of cold. Armor rolls vs cold-based hazard damage are made at a +1 bonus.",
       "owner": "Designer",
-      "sets": []
+      "sets": [
+        "Psychosomatics (mso)"
+      ]
     },
     {
       "id": 570,
@@ -31928,7 +31932,9 @@
       "stat_hook": null,
       "notes": "Individuals with this enhancement are able to mentally strengthen their body’s tissues to minimize the effects of heat. Those using this enhancement receive a +3 to their FR when resisting heat. Armor rolls against heat based attacks (including plasma weapons) are made at +1. Characters with this enhancement make enhanced Fortitude rolls (+3) versus the effects of heat. Armor rolls vs heat or plasma-based damage are made at a +1 bonus.",
       "owner": "Designer",
-      "sets": []
+      "sets": [
+        "Psychosomatics (mso)"
+      ]
     },
     {
       "id": 969,
@@ -32258,7 +32264,9 @@
       "stat_hook": null,
       "notes": "Psychosomaticists with this discipline may thicken and toughen their skin, creating a rough, leathery surface which is highly resistant to damage. Users receive +1 to their AR (regardless of armor worn). Once activated, rough skin lasts for a number of rounds equal to their skill’s level. It may not be used in conjunction with tough skin or iron skin, and is considered gone if the user is rendered unconscious.",
       "owner": "Designer",
-      "sets": []
+      "sets": [
+        "Psychosomatics (mso)"
+      ]
     },
     {
       "id": 587,
@@ -33723,7 +33731,9 @@
       "stat_hook": null,
       "notes": "Somatic masters train their minds to manipulate cellular density and autonomic biological functions. Activating this state grants Advantage on Fortitude, Might, Physical Regeneration, and Body Integrity checks for the encounter.",
       "owner": "Designer",
-      "sets": []
+      "sets": [
+        "Psychosomatics (mso)"
+      ]
     },
     {
       "id": 669,
@@ -33890,7 +33900,9 @@
       "stat_hook": null,
       "notes": null,
       "owner": "Designer",
-      "sets": []
+      "sets": [
+        "Psychosomatics (mso)"
+      ]
     },
     {
       "id": 855,
@@ -33907,7 +33919,9 @@
       "stat_hook": null,
       "notes": "Accelerates internal physiology, muscle contraction, and synaptic reflexes to move with supernatural speed.",
       "owner": "Designer",
-      "sets": []
+      "sets": [
+        "Psychosomatics (mso)"
+      ]
     },
     {
       "id": 675,
@@ -34438,7 +34452,9 @@
       "stat_hook": null,
       "notes": null,
       "owner": "Designer",
-      "sets": []
+      "sets": [
+        "Psychosomatics (mso)"
+      ]
     },
     {
       "id": 854,
@@ -34455,7 +34471,9 @@
       "stat_hook": null,
       "notes": "Strength surge is much like strengthen in that muscle efficiency is increased. Also, biochemical stimulants are released to enhance muscle strength. Strength surge gives the user +3 to strength for any one action (i.e. one roll). This enhancement may not be used in conjunction with strengthen.",
       "owner": "Designer",
-      "sets": []
+      "sets": [
+        "Psychosomatics (mso)"
+      ]
     },
     {
       "id": 708,
@@ -34474,7 +34492,9 @@
       "stat_hook": null,
       "notes": null,
       "owner": "Designer",
-      "sets": []
+      "sets": [
+        "Psychosomatics (mso)"
+      ]
     },
     {
       "id": 853,
@@ -34491,7 +34511,9 @@
       "stat_hook": null,
       "notes": "Users of this discipline increase the efficiency of communication between the brain and musculature, allowing muscles to react more efficiently. Strengthen increases the user’s strength by +1 for the duration of one action. This enhancement may not be used in conjunction with strength surge.",
       "owner": "Designer",
-      "sets": []
+      "sets": [
+        "Psychosomatics (mso)"
+      ]
     },
     {
       "id": 981,
@@ -34544,7 +34566,9 @@
       "stat_hook": null,
       "notes": null,
       "owner": "Designer",
-      "sets": []
+      "sets": [
+        "Psychosomatics (mso)"
+      ]
     },
     {
       "id": 852,
@@ -34561,7 +34585,9 @@
       "stat_hook": null,
       "notes": "The psychosomaticist focuses neural kinetic energy into a physical unarmed strike, channeling disruptive shock directly into the target's nerve clusters upon impact. The character may choose to focus entirely on non-lethal stunning force, or inflict normal damage in addition to the stun.",
       "owner": "Designer",
-      "sets": []
+      "sets": [
+        "Psychosomatics (mso)"
+      ]
     },
     {
       "id": 983,
@@ -34711,7 +34737,9 @@
       "stat_hook": null,
       "notes": null,
       "owner": "Designer",
-      "sets": []
+      "sets": [
+        "Psychosomatics (mso)"
+      ]
     },
     {
       "id": 851,
@@ -34728,7 +34756,9 @@
       "stat_hook": null,
       "notes": "This enhancement increases a psychosomaticist’s hearing, granting a +3 bonus to a character’s hearing based 👁️ Perception check. It may not be used in conjunction with hearing boost.",
       "owner": "Designer",
-      "sets": []
+      "sets": [
+        "Psychosomatics (mso)"
+      ]
     },
     {
       "id": 719,
@@ -34747,7 +34777,9 @@
       "stat_hook": null,
       "notes": null,
       "owner": "Designer",
-      "sets": []
+      "sets": [
+        "Psychosomatics (mso)"
+      ]
     },
     {
       "id": 850,
@@ -34764,7 +34796,9 @@
       "stat_hook": null,
       "notes": "Super vision enhances and improves optical efficiency, granting the user a +3 bonus to a character’s sight based 👁️ Perception check. It may not be used in conjunction with vision boost.",
       "owner": "Designer",
-      "sets": []
+      "sets": [
+        "Psychosomatics (mso)"
+      ]
     },
     {
       "id": 720,
@@ -35559,7 +35593,9 @@
       "stat_hook": null,
       "notes": null,
       "owner": "Designer",
-      "sets": []
+      "sets": [
+        "Psychosomatics (mso)"
+      ]
     },
     {
       "id": 848,
@@ -35576,7 +35612,9 @@
       "stat_hook": null,
       "notes": "This discipline transforms the user’s skin into a tough, rocky sheath, even more resistant to damage than rough skin. Tough skin gives psychosomaticists +2 to AR (regardless of armor worn), and lasts for a number of rounds equal to their skill’s level. Tough skin can not be used in conjunction with rough skin or iron skin, and is considered gone if the user is rendered unconscious.",
       "owner": "Designer",
-      "sets": []
+      "sets": [
+        "Psychosomatics (mso)"
+      ]
     },
     {
       "id": 763,
@@ -36294,7 +36332,9 @@
       "stat_hook": null,
       "notes": null,
       "owner": "Designer",
-      "sets": []
+      "sets": [
+        "Psychosomatics (mso)"
+      ]
     },
     {
       "id": 847,
@@ -36311,7 +36351,9 @@
       "stat_hook": null,
       "notes": "Psychosomaticists with this enhancement can effect the efficiency of their optic nerves, improving vision and providing a form of telescopic sight. Vision boost gives the psychosomaticist +1 to his vision related 👁️ Perception check.",
       "owner": "Designer",
-      "sets": []
+      "sets": [
+        "Psychosomatics (mso)"
+      ]
     },
     {
       "id": 809,
@@ -36330,7 +36372,9 @@
       "stat_hook": null,
       "notes": null,
       "owner": "Designer",
-      "sets": []
+      "sets": [
+        "Psychosomatics (mso)"
+      ]
     },
     {
       "id": 846,
@@ -36347,7 +36391,9 @@
       "stat_hook": null,
       "notes": "Using this enhancement, psychosomaticists may temporarily increase their bodily Vitality, and are able to take additional damage in combat. This power may only be used when the psychosomaticist is healthy and unwounded. It adds the psychosomaticist’s skill’s value to his Vit maximum (temporarily, don’t actually change the number in the maximum box). The additional Vit points must be the first ones lost in combat, and they may not be healed once lost. These extra Vit points last for a number of rounds equal to the skill’s value.",
       "owner": "Designer",
-      "sets": []
+      "sets": [
+        "Psychosomatics (mso)"
+      ]
     },
     {
       "id": 811,
@@ -51302,101 +51348,6 @@
       "sets": []
     },
     {
-      "id": 363,
-      "name": "Psionic Field Set (mso)",
-      "effect": "Encase, Shield gain a +1 to all rolls",
-      "stat_hook": null,
-      "genres": [
-        "SciFi"
-      ],
-      "discipline": "Psionics",
-      "path": "Psionic Field Set (mso) {Free}",
-      "notes": "Set synergy bonus for Power Set: Psionic Field Set",
-      "created_at": "2026-09-05T23:12:09.171701+00:00",
-      "cost": "0s",
-      "belongs_to": null,
-      "owner": "Designer",
-      "sets": [
-        "Psionic Field Set (mso)"
-      ]
-    },
-    {
-      "id": 364,
-      "name": "Psionic Force Set (mso)",
-      "effect": "Blast, Blow, Landing, Punch, Shove gain a +1 to all rolls",
-      "stat_hook": null,
-      "genres": [
-        "SciFi"
-      ],
-      "discipline": "Psionics",
-      "path": "Psionic Force Set (mso) {Free}",
-      "notes": "Set synergy bonus for Power Set: Psionic Force Set",
-      "created_at": "2026-09-05T23:12:09.171701+00:00",
-      "cost": "0s",
-      "belongs_to": null,
-      "owner": "Designer",
-      "sets": [
-        "Psionic Force Set (mso)"
-      ]
-    },
-    {
-      "id": 365,
-      "name": "Psionic Mental Set (mso)",
-      "effect": "Minor Telepathy, Mind Probe, Read Surface Thoughts, Telepathy gain a +1 to all rolls",
-      "stat_hook": null,
-      "genres": [
-        "SciFi"
-      ],
-      "discipline": "Psionics",
-      "path": "Psionic Mental Set (mso) {Free}",
-      "notes": "Set synergy bonus for Power Set: Psionic Mental Set",
-      "created_at": "2026-09-05T23:12:09.171701+00:00",
-      "cost": "0s",
-      "belongs_to": null,
-      "owner": "Designer",
-      "sets": [
-        "Psionic Mental Set (mso)"
-      ]
-    },
-    {
-      "id": 366,
-      "name": "Psionic Reality Set (mso)",
-      "effect": "Hallucination, Haze gain a +1 to all rolls",
-      "stat_hook": null,
-      "genres": [
-        "SciFi"
-      ],
-      "discipline": "Psionics",
-      "path": "Psionic Reality Set (mso) {Free}",
-      "notes": "Set synergy bonus for Power Set: Psionic Reality Set",
-      "created_at": "2026-09-05T23:12:09.171701+00:00",
-      "cost": "0s",
-      "belongs_to": null,
-      "owner": "Designer",
-      "sets": [
-        "Psionic Reality Set (mso)"
-      ]
-    },
-    {
-      "id": 367,
-      "name": "Psionic Telekinesis Set (mso)",
-      "effect": "Hurl, Jerk, Levitate Other, Levitate Self, Move Object, Rend, Return gain a +1 to all rolls",
-      "stat_hook": null,
-      "genres": [
-        "SciFi"
-      ],
-      "discipline": "Psionics",
-      "path": "Psionic Telekinesis Set (mso) {Free}",
-      "notes": "Set synergy bonus for Power Set: Psionic Telekinesis Set",
-      "created_at": "2026-09-05T23:12:09.171701+00:00",
-      "cost": "0s",
-      "belongs_to": null,
-      "owner": "Designer",
-      "sets": [
-        "Psionic Telekinesis Set (mso)"
-      ]
-    },
-    {
       "id": 443,
       "name": "Psionics Kit (mso)",
       "effect": "Gain Psionics (mso) Kit for Free",
@@ -51429,120 +51380,6 @@
       "belongs_to": null,
       "owner": "Designer",
       "sets": []
-    },
-    {
-      "id": 368,
-      "name": "Psychosomatic Alteration Set (mso)",
-      "effect": "Molecular Diffusion gain a +1 to all rolls",
-      "stat_hook": null,
-      "genres": [
-        "SciFi"
-      ],
-      "discipline": "Somatics",
-      "path": "Psychosomatic Alteration Set (mso) {Free}",
-      "notes": "Set synergy bonus for Power Set: Psychosomatic Alteration Set",
-      "created_at": "2026-09-05T23:12:09.171701+00:00",
-      "cost": "0s",
-      "belongs_to": null,
-      "owner": "Designer",
-      "sets": [
-        "Psychosomatic Alteration Set (mso)"
-      ]
-    },
-    {
-      "id": 369,
-      "name": "Psychosomatic Defensive Set (mso)",
-      "effect": "Body Heal, Iron Skin, Rough Skin, Tough Skin, Vitalize gain a +1 to all rolls",
-      "stat_hook": null,
-      "genres": [
-        "SciFi"
-      ],
-      "discipline": "Somatics",
-      "path": "Psychosomatic Defensive Set (mso) {Free}",
-      "notes": "Set synergy bonus for Power Set: Psychosomatic Defensive Set",
-      "created_at": "2026-09-05T23:12:09.171701+00:00",
-      "cost": "0s",
-      "belongs_to": null,
-      "owner": "Designer",
-      "sets": [
-        "Psychosomatic Defensive Set (mso)"
-      ]
-    },
-    {
-      "id": 370,
-      "name": "Psychosomatic Muscular Set (mso)",
-      "effect": "Jump, Speed, Strength Surge, Strengthen gain a +1 to all rolls",
-      "stat_hook": null,
-      "genres": [
-        "SciFi"
-      ],
-      "discipline": "Somatics",
-      "path": "Psychosomatic Muscular Set (mso) {Free}",
-      "notes": "Set synergy bonus for Power Set: Psychosomatic Muscular Set",
-      "created_at": "2026-09-05T23:12:09.171701+00:00",
-      "cost": "0s",
-      "belongs_to": null,
-      "owner": "Designer",
-      "sets": [
-        "Psychosomatic Muscular Set (mso)"
-      ]
-    },
-    {
-      "id": 371,
-      "name": "Psychosomatic Offensive Set (mso)",
-      "effect": "Death Blow, Electric Palm, Power Punch, Stun gain a +1 to all rolls",
-      "stat_hook": null,
-      "genres": [
-        "SciFi"
-      ],
-      "discipline": "Somatics",
-      "path": "Psychosomatic Offensive Set (mso) {Free}",
-      "notes": "Set synergy bonus for Power Set: Psychosomatic Offensive Set",
-      "created_at": "2026-09-05T23:12:09.171701+00:00",
-      "cost": "0s",
-      "belongs_to": null,
-      "owner": "Designer",
-      "sets": [
-        "Psychosomatic Offensive Set (mso)"
-      ]
-    },
-    {
-      "id": 372,
-      "name": "Psychosomatic Sensory Set (mso)",
-      "effect": "Hearing Boost, Super Hearing, Super Vision, Vision Boost gain a +1 to all rolls",
-      "stat_hook": null,
-      "genres": [
-        "SciFi"
-      ],
-      "discipline": "Somatics",
-      "path": "Psychosomatic Sensory Set (mso) {Free}",
-      "notes": "Set synergy bonus for Power Set: Psychosomatic Sensory Set",
-      "created_at": "2026-09-05T23:12:09.293796+00:00",
-      "cost": "0s",
-      "belongs_to": null,
-      "owner": "Designer",
-      "sets": [
-        "Psychosomatic Sensory Set (mso)"
-      ]
-    },
-    {
-      "id": 373,
-      "name": "Psychosomatic Survival Set (mso)",
-      "effect": "Oxygenate, Resist Cold, Resist Heat gain a +1 to all rolls",
-      "stat_hook": null,
-      "genres": [
-        "SciFi"
-      ],
-      "discipline": "Somatics",
-      "path": "Psychosomatic Survival Set (mso) {Free}",
-      "notes": "Set synergy bonus for Power Set: Psychosomatic Survival Set",
-      "created_at": "2026-09-05T23:12:09.293796+00:00",
-      "cost": "0s",
-      "belongs_to": null,
-      "owner": "Designer",
-      "sets": [
-        "Psychosomatic Survival Set (mso)"
-      ]
     },
     {
       "id": 446,
@@ -52042,120 +51879,6 @@
       "sets": []
     },
     {
-      "id": 394,
-      "name": "Somatic Combat Set (mso)",
-      "effect": "Electric Palm, Iron Skin, Claws & Fangs, Molecular Diffusion, Density Increase gain a +1 to all rolls",
-      "stat_hook": null,
-      "genres": [
-        "SciFi"
-      ],
-      "discipline": "Somatics",
-      "path": "Somatic Combat Set (mso) {Free}",
-      "notes": "Set synergy bonus for Power Set: Somatic Combat Set",
-      "created_at": "2026-09-05T23:12:09.293796+00:00",
-      "cost": "0s",
-      "belongs_to": null,
-      "owner": "Designer",
-      "sets": [
-        "Somatic Combat Set (mso)"
-      ]
-    },
-    {
-      "id": 395,
-      "name": "Sorce Associative Set (mso)",
-      "effect": "Binding Word, Radiate Fear gain a +1 to all rolls",
-      "stat_hook": null,
-      "genres": [
-        "SciFi"
-      ],
-      "discipline": "Void Magic",
-      "path": "Sorce Associative Set (mso) {Free}",
-      "notes": "Set synergy bonus for Power Set: Sorce Associative Set",
-      "created_at": "2026-09-05T23:12:09.293796+00:00",
-      "cost": "0s",
-      "belongs_to": null,
-      "owner": "Designer",
-      "sets": [
-        "Sorce Associative Set (mso)"
-      ]
-    },
-    {
-      "id": 396,
-      "name": "Sorce Defensive Set (mso)",
-      "effect": "Adhere, Immortal Stance, Sorce Field gain a +1 to all rolls",
-      "stat_hook": null,
-      "genres": [
-        "SciFi"
-      ],
-      "discipline": "Void Magic",
-      "path": "Sorce Defensive Set (mso) {Free}",
-      "notes": "Set synergy bonus for Power Set: Sorce Defensive Set",
-      "created_at": "2026-09-05T23:12:09.293796+00:00",
-      "cost": "0s",
-      "belongs_to": null,
-      "owner": "Designer",
-      "sets": [
-        "Sorce Defensive Set (mso)"
-      ]
-    },
-    {
-      "id": 397,
-      "name": "Sorce Destructive Set (mso)",
-      "effect": "Death Ray, Energy Bolt, Fireball, Lightning Strike gain a +1 to all rolls",
-      "stat_hook": null,
-      "genres": [
-        "SciFi"
-      ],
-      "discipline": "Void Magic",
-      "path": "Sorce Destructive Set (mso) {Free}",
-      "notes": "Set synergy bonus for Power Set: Sorce Destructive Set",
-      "created_at": "2026-09-05T23:12:09.293796+00:00",
-      "cost": "0s",
-      "belongs_to": null,
-      "owner": "Designer",
-      "sets": [
-        "Sorce Destructive Set (mso)"
-      ]
-    },
-    {
-      "id": 398,
-      "name": "Sorce Environmental Set (mso)",
-      "effect": "Door Hand, Door Master, Glow Globe gain a +1 to all rolls",
-      "stat_hook": null,
-      "genres": [
-        "SciFi"
-      ],
-      "discipline": "Void Magic",
-      "path": "Sorce Environmental Set (mso) {Free}",
-      "notes": "Set synergy bonus for Power Set: Sorce Environmental Set",
-      "created_at": "2026-09-05T23:12:09.293796+00:00",
-      "cost": "0s",
-      "belongs_to": null,
-      "owner": "Designer",
-      "sets": [
-        "Sorce Environmental Set (mso)"
-      ]
-    },
-    {
-      "id": 399,
-      "name": "Sorce Healing Set (mso)",
-      "effect": "Heal All, Healing, Life Balance, Light Healing gain a +1 to all rolls",
-      "stat_hook": null,
-      "genres": [
-        "SciFi"
-      ],
-      "discipline": "Void Magic",
-      "path": "Sorce Healing Set (mso) {Free}",
-      "notes": "Set synergy bonus for Power Set: Sorce Healing Set",
-      "created_at": "2026-09-05T23:12:09.293796+00:00",
-      "cost": "0s",
-      "belongs_to": null,
-      "owner": "Designer",
-      "sets": [
-        "Sorce Healing Set (mso)"
-      ]
-    },
-    {
       "id": 449,
       "name": "Sorce Kit (mso)",
       "effect": "Gain Sorce (mso) Kit for Free",
@@ -52171,44 +51894,6 @@
       "belongs_to": null,
       "owner": "Designer",
       "sets": []
-    },
-    {
-      "id": 400,
-      "name": "Sorce Offensive Set (mso)",
-      "effect": "Choke, Death Ray, Energy Bolt, Life Drain, Shockblast, Vampire Touch gain a +1 to all rolls",
-      "stat_hook": null,
-      "genres": [
-        "SciFi"
-      ],
-      "discipline": "Void Magic",
-      "path": "Sorce Offensive Set (mso) {Free}",
-      "notes": "Set synergy bonus for Power Set: Sorce Offensive Set",
-      "created_at": "2026-09-05T23:12:09.293796+00:00",
-      "cost": "0s",
-      "belongs_to": null,
-      "owner": "Designer",
-      "sets": [
-        "Sorce Offensive Set (mso)"
-      ]
-    },
-    {
-      "id": 401,
-      "name": "Sorce Transportal Set (mso)",
-      "effect": "Displace, Displace Group, Ghost Walk, Teleport gain a +1 to all rolls",
-      "stat_hook": null,
-      "genres": [
-        "SciFi"
-      ],
-      "discipline": "Void Magic",
-      "path": "Sorce Transportal Set (mso) {Free}",
-      "notes": "Set synergy bonus for Power Set: Sorce Transportal Set",
-      "created_at": "2026-09-05T23:12:09.293796+00:00",
-      "cost": "0s",
-      "belongs_to": null,
-      "owner": "Designer",
-      "sets": [
-        "Sorce Transportal Set (mso)"
-      ]
     },
     {
       "id": 306,
@@ -52455,44 +52140,6 @@
       "belongs_to": null,
       "owner": "Designer",
       "sets": []
-    },
-    {
-      "id": 402,
-      "name": "Telekinetic Force Set (mso)",
-      "effect": "Blast, Encase, Levitate Self, Levitate Object, Kinetic Wall, Kinetic Shield gain a +1 to all rolls",
-      "stat_hook": null,
-      "genres": [
-        "SciFi"
-      ],
-      "discipline": "Psionics",
-      "path": "Telekinetic Force Set (mso) {Free}",
-      "notes": "Set synergy bonus for Power Set: Telekinetic Force Set",
-      "created_at": "2026-09-05T23:12:09.293796+00:00",
-      "cost": "0s",
-      "belongs_to": null,
-      "owner": "Designer",
-      "sets": [
-        "Telekinetic Force Set (mso)"
-      ]
-    },
-    {
-      "id": 403,
-      "name": "Telepathic Mind Set (mso)",
-      "effect": "Mind Probe, Mental Shield, Telepathy, Hallucination, Suggestion gain a +1 to all rolls",
-      "stat_hook": null,
-      "genres": [
-        "SciFi"
-      ],
-      "discipline": "Psionics",
-      "path": "Telepathic Mind Set (mso) {Free}",
-      "notes": "Set synergy bonus for Power Set: Telepathic Mind Set",
-      "created_at": "2026-09-05T23:12:09.293796+00:00",
-      "cost": "0s",
-      "belongs_to": null,
-      "owner": "Designer",
-      "sets": [
-        "Telepathic Mind Set (mso)"
-      ]
     },
     {
       "id": 478,
@@ -54705,101 +54352,6 @@
       "sets": []
     },
     {
-      "id": 363,
-      "name": "Psionic Field Set (mso)",
-      "effect": "Encase, Shield gain a +1 to all rolls",
-      "stat_hook": null,
-      "genres": [
-        "SciFi"
-      ],
-      "discipline": "Psionics",
-      "path": "Psionic Field Set (mso) {Free}",
-      "notes": "Set synergy bonus for Power Set: Psionic Field Set",
-      "created_at": "2026-09-05T23:12:09.171701+00:00",
-      "cost": "0s",
-      "belongs_to": null,
-      "owner": "Designer",
-      "sets": [
-        "Psionic Field Set (mso)"
-      ]
-    },
-    {
-      "id": 364,
-      "name": "Psionic Force Set (mso)",
-      "effect": "Blast, Blow, Landing, Punch, Shove gain a +1 to all rolls",
-      "stat_hook": null,
-      "genres": [
-        "SciFi"
-      ],
-      "discipline": "Psionics",
-      "path": "Psionic Force Set (mso) {Free}",
-      "notes": "Set synergy bonus for Power Set: Psionic Force Set",
-      "created_at": "2026-09-05T23:12:09.171701+00:00",
-      "cost": "0s",
-      "belongs_to": null,
-      "owner": "Designer",
-      "sets": [
-        "Psionic Force Set (mso)"
-      ]
-    },
-    {
-      "id": 365,
-      "name": "Psionic Mental Set (mso)",
-      "effect": "Minor Telepathy, Mind Probe, Read Surface Thoughts, Telepathy gain a +1 to all rolls",
-      "stat_hook": null,
-      "genres": [
-        "SciFi"
-      ],
-      "discipline": "Psionics",
-      "path": "Psionic Mental Set (mso) {Free}",
-      "notes": "Set synergy bonus for Power Set: Psionic Mental Set",
-      "created_at": "2026-09-05T23:12:09.171701+00:00",
-      "cost": "0s",
-      "belongs_to": null,
-      "owner": "Designer",
-      "sets": [
-        "Psionic Mental Set (mso)"
-      ]
-    },
-    {
-      "id": 366,
-      "name": "Psionic Reality Set (mso)",
-      "effect": "Hallucination, Haze gain a +1 to all rolls",
-      "stat_hook": null,
-      "genres": [
-        "SciFi"
-      ],
-      "discipline": "Psionics",
-      "path": "Psionic Reality Set (mso) {Free}",
-      "notes": "Set synergy bonus for Power Set: Psionic Reality Set",
-      "created_at": "2026-09-05T23:12:09.171701+00:00",
-      "cost": "0s",
-      "belongs_to": null,
-      "owner": "Designer",
-      "sets": [
-        "Psionic Reality Set (mso)"
-      ]
-    },
-    {
-      "id": 367,
-      "name": "Psionic Telekinesis Set (mso)",
-      "effect": "Hurl, Jerk, Levitate Other, Levitate Self, Move Object, Rend, Return gain a +1 to all rolls",
-      "stat_hook": null,
-      "genres": [
-        "SciFi"
-      ],
-      "discipline": "Psionics",
-      "path": "Psionic Telekinesis Set (mso) {Free}",
-      "notes": "Set synergy bonus for Power Set: Psionic Telekinesis Set",
-      "created_at": "2026-09-05T23:12:09.171701+00:00",
-      "cost": "0s",
-      "belongs_to": null,
-      "owner": "Designer",
-      "sets": [
-        "Psionic Telekinesis Set (mso)"
-      ]
-    },
-    {
       "id": 443,
       "name": "Psionics Kit (mso)",
       "effect": "Gain Psionics (mso) Kit for Free",
@@ -54832,120 +54384,6 @@
       "belongs_to": null,
       "owner": "Designer",
       "sets": []
-    },
-    {
-      "id": 368,
-      "name": "Psychosomatic Alteration Set (mso)",
-      "effect": "Molecular Diffusion gain a +1 to all rolls",
-      "stat_hook": null,
-      "genres": [
-        "SciFi"
-      ],
-      "discipline": "Somatics",
-      "path": "Psychosomatic Alteration Set (mso) {Free}",
-      "notes": "Set synergy bonus for Power Set: Psychosomatic Alteration Set",
-      "created_at": "2026-09-05T23:12:09.171701+00:00",
-      "cost": "0s",
-      "belongs_to": null,
-      "owner": "Designer",
-      "sets": [
-        "Psychosomatic Alteration Set (mso)"
-      ]
-    },
-    {
-      "id": 369,
-      "name": "Psychosomatic Defensive Set (mso)",
-      "effect": "Body Heal, Iron Skin, Rough Skin, Tough Skin, Vitalize gain a +1 to all rolls",
-      "stat_hook": null,
-      "genres": [
-        "SciFi"
-      ],
-      "discipline": "Somatics",
-      "path": "Psychosomatic Defensive Set (mso) {Free}",
-      "notes": "Set synergy bonus for Power Set: Psychosomatic Defensive Set",
-      "created_at": "2026-09-05T23:12:09.171701+00:00",
-      "cost": "0s",
-      "belongs_to": null,
-      "owner": "Designer",
-      "sets": [
-        "Psychosomatic Defensive Set (mso)"
-      ]
-    },
-    {
-      "id": 370,
-      "name": "Psychosomatic Muscular Set (mso)",
-      "effect": "Jump, Speed, Strength Surge, Strengthen gain a +1 to all rolls",
-      "stat_hook": null,
-      "genres": [
-        "SciFi"
-      ],
-      "discipline": "Somatics",
-      "path": "Psychosomatic Muscular Set (mso) {Free}",
-      "notes": "Set synergy bonus for Power Set: Psychosomatic Muscular Set",
-      "created_at": "2026-09-05T23:12:09.171701+00:00",
-      "cost": "0s",
-      "belongs_to": null,
-      "owner": "Designer",
-      "sets": [
-        "Psychosomatic Muscular Set (mso)"
-      ]
-    },
-    {
-      "id": 371,
-      "name": "Psychosomatic Offensive Set (mso)",
-      "effect": "Death Blow, Electric Palm, Power Punch, Stun gain a +1 to all rolls",
-      "stat_hook": null,
-      "genres": [
-        "SciFi"
-      ],
-      "discipline": "Somatics",
-      "path": "Psychosomatic Offensive Set (mso) {Free}",
-      "notes": "Set synergy bonus for Power Set: Psychosomatic Offensive Set",
-      "created_at": "2026-09-05T23:12:09.171701+00:00",
-      "cost": "0s",
-      "belongs_to": null,
-      "owner": "Designer",
-      "sets": [
-        "Psychosomatic Offensive Set (mso)"
-      ]
-    },
-    {
-      "id": 372,
-      "name": "Psychosomatic Sensory Set (mso)",
-      "effect": "Hearing Boost, Super Hearing, Super Vision, Vision Boost gain a +1 to all rolls",
-      "stat_hook": null,
-      "genres": [
-        "SciFi"
-      ],
-      "discipline": "Somatics",
-      "path": "Psychosomatic Sensory Set (mso) {Free}",
-      "notes": "Set synergy bonus for Power Set: Psychosomatic Sensory Set",
-      "created_at": "2026-09-05T23:12:09.293796+00:00",
-      "cost": "0s",
-      "belongs_to": null,
-      "owner": "Designer",
-      "sets": [
-        "Psychosomatic Sensory Set (mso)"
-      ]
-    },
-    {
-      "id": 373,
-      "name": "Psychosomatic Survival Set (mso)",
-      "effect": "Oxygenate, Resist Cold, Resist Heat gain a +1 to all rolls",
-      "stat_hook": null,
-      "genres": [
-        "SciFi"
-      ],
-      "discipline": "Somatics",
-      "path": "Psychosomatic Survival Set (mso) {Free}",
-      "notes": "Set synergy bonus for Power Set: Psychosomatic Survival Set",
-      "created_at": "2026-09-05T23:12:09.293796+00:00",
-      "cost": "0s",
-      "belongs_to": null,
-      "owner": "Designer",
-      "sets": [
-        "Psychosomatic Survival Set (mso)"
-      ]
     },
     {
       "id": 446,
@@ -55445,120 +54883,6 @@
       "sets": []
     },
     {
-      "id": 394,
-      "name": "Somatic Combat Set (mso)",
-      "effect": "Electric Palm, Iron Skin, Claws & Fangs, Molecular Diffusion, Density Increase gain a +1 to all rolls",
-      "stat_hook": null,
-      "genres": [
-        "SciFi"
-      ],
-      "discipline": "Somatics",
-      "path": "Somatic Combat Set (mso) {Free}",
-      "notes": "Set synergy bonus for Power Set: Somatic Combat Set",
-      "created_at": "2026-09-05T23:12:09.293796+00:00",
-      "cost": "0s",
-      "belongs_to": null,
-      "owner": "Designer",
-      "sets": [
-        "Somatic Combat Set (mso)"
-      ]
-    },
-    {
-      "id": 395,
-      "name": "Sorce Associative Set (mso)",
-      "effect": "Binding Word, Radiate Fear gain a +1 to all rolls",
-      "stat_hook": null,
-      "genres": [
-        "SciFi"
-      ],
-      "discipline": "Void Magic",
-      "path": "Sorce Associative Set (mso) {Free}",
-      "notes": "Set synergy bonus for Power Set: Sorce Associative Set",
-      "created_at": "2026-09-05T23:12:09.293796+00:00",
-      "cost": "0s",
-      "belongs_to": null,
-      "owner": "Designer",
-      "sets": [
-        "Sorce Associative Set (mso)"
-      ]
-    },
-    {
-      "id": 396,
-      "name": "Sorce Defensive Set (mso)",
-      "effect": "Adhere, Immortal Stance, Sorce Field gain a +1 to all rolls",
-      "stat_hook": null,
-      "genres": [
-        "SciFi"
-      ],
-      "discipline": "Void Magic",
-      "path": "Sorce Defensive Set (mso) {Free}",
-      "notes": "Set synergy bonus for Power Set: Sorce Defensive Set",
-      "created_at": "2026-09-05T23:12:09.293796+00:00",
-      "cost": "0s",
-      "belongs_to": null,
-      "owner": "Designer",
-      "sets": [
-        "Sorce Defensive Set (mso)"
-      ]
-    },
-    {
-      "id": 397,
-      "name": "Sorce Destructive Set (mso)",
-      "effect": "Death Ray, Energy Bolt, Fireball, Lightning Strike gain a +1 to all rolls",
-      "stat_hook": null,
-      "genres": [
-        "SciFi"
-      ],
-      "discipline": "Void Magic",
-      "path": "Sorce Destructive Set (mso) {Free}",
-      "notes": "Set synergy bonus for Power Set: Sorce Destructive Set",
-      "created_at": "2026-09-05T23:12:09.293796+00:00",
-      "cost": "0s",
-      "belongs_to": null,
-      "owner": "Designer",
-      "sets": [
-        "Sorce Destructive Set (mso)"
-      ]
-    },
-    {
-      "id": 398,
-      "name": "Sorce Environmental Set (mso)",
-      "effect": "Door Hand, Door Master, Glow Globe gain a +1 to all rolls",
-      "stat_hook": null,
-      "genres": [
-        "SciFi"
-      ],
-      "discipline": "Void Magic",
-      "path": "Sorce Environmental Set (mso) {Free}",
-      "notes": "Set synergy bonus for Power Set: Sorce Environmental Set",
-      "created_at": "2026-09-05T23:12:09.293796+00:00",
-      "cost": "0s",
-      "belongs_to": null,
-      "owner": "Designer",
-      "sets": [
-        "Sorce Environmental Set (mso)"
-      ]
-    },
-    {
-      "id": 399,
-      "name": "Sorce Healing Set (mso)",
-      "effect": "Heal All, Healing, Life Balance, Light Healing gain a +1 to all rolls",
-      "stat_hook": null,
-      "genres": [
-        "SciFi"
-      ],
-      "discipline": "Void Magic",
-      "path": "Sorce Healing Set (mso) {Free}",
-      "notes": "Set synergy bonus for Power Set: Sorce Healing Set",
-      "created_at": "2026-09-05T23:12:09.293796+00:00",
-      "cost": "0s",
-      "belongs_to": null,
-      "owner": "Designer",
-      "sets": [
-        "Sorce Healing Set (mso)"
-      ]
-    },
-    {
       "id": 449,
       "name": "Sorce Kit (mso)",
       "effect": "Gain Sorce (mso) Kit for Free",
@@ -55574,44 +54898,6 @@
       "belongs_to": null,
       "owner": "Designer",
       "sets": []
-    },
-    {
-      "id": 400,
-      "name": "Sorce Offensive Set (mso)",
-      "effect": "Choke, Death Ray, Energy Bolt, Life Drain, Shockblast, Vampire Touch gain a +1 to all rolls",
-      "stat_hook": null,
-      "genres": [
-        "SciFi"
-      ],
-      "discipline": "Void Magic",
-      "path": "Sorce Offensive Set (mso) {Free}",
-      "notes": "Set synergy bonus for Power Set: Sorce Offensive Set",
-      "created_at": "2026-09-05T23:12:09.293796+00:00",
-      "cost": "0s",
-      "belongs_to": null,
-      "owner": "Designer",
-      "sets": [
-        "Sorce Offensive Set (mso)"
-      ]
-    },
-    {
-      "id": 401,
-      "name": "Sorce Transportal Set (mso)",
-      "effect": "Displace, Displace Group, Ghost Walk, Teleport gain a +1 to all rolls",
-      "stat_hook": null,
-      "genres": [
-        "SciFi"
-      ],
-      "discipline": "Void Magic",
-      "path": "Sorce Transportal Set (mso) {Free}",
-      "notes": "Set synergy bonus for Power Set: Sorce Transportal Set",
-      "created_at": "2026-09-05T23:12:09.293796+00:00",
-      "cost": "0s",
-      "belongs_to": null,
-      "owner": "Designer",
-      "sets": [
-        "Sorce Transportal Set (mso)"
-      ]
     },
     {
       "id": 306,
@@ -55858,44 +55144,6 @@
       "belongs_to": null,
       "owner": "Designer",
       "sets": []
-    },
-    {
-      "id": 402,
-      "name": "Telekinetic Force Set (mso)",
-      "effect": "Blast, Encase, Levitate Self, Levitate Object, Kinetic Wall, Kinetic Shield gain a +1 to all rolls",
-      "stat_hook": null,
-      "genres": [
-        "SciFi"
-      ],
-      "discipline": "Psionics",
-      "path": "Telekinetic Force Set (mso) {Free}",
-      "notes": "Set synergy bonus for Power Set: Telekinetic Force Set",
-      "created_at": "2026-09-05T23:12:09.293796+00:00",
-      "cost": "0s",
-      "belongs_to": null,
-      "owner": "Designer",
-      "sets": [
-        "Telekinetic Force Set (mso)"
-      ]
-    },
-    {
-      "id": 403,
-      "name": "Telepathic Mind Set (mso)",
-      "effect": "Mind Probe, Mental Shield, Telepathy, Hallucination, Suggestion gain a +1 to all rolls",
-      "stat_hook": null,
-      "genres": [
-        "SciFi"
-      ],
-      "discipline": "Psionics",
-      "path": "Telepathic Mind Set (mso) {Free}",
-      "notes": "Set synergy bonus for Power Set: Telepathic Mind Set",
-      "created_at": "2026-09-05T23:12:09.293796+00:00",
-      "cost": "0s",
-      "belongs_to": null,
-      "owner": "Designer",
-      "sets": [
-        "Telepathic Mind Set (mso)"
-      ]
     },
     {
       "id": 478,
@@ -58108,101 +57356,6 @@
       "sets": []
     },
     {
-      "id": 363,
-      "name": "Psionic Field Set (mso)",
-      "effect": "Encase, Shield gain a +1 to all rolls",
-      "stat_hook": null,
-      "genres": [
-        "SciFi"
-      ],
-      "discipline": "Psionics",
-      "path": "Psionic Field Set (mso) {Free}",
-      "notes": "Set synergy bonus for Power Set: Psionic Field Set",
-      "created_at": "2026-09-05T23:12:09.171701+00:00",
-      "cost": "0s",
-      "belongs_to": null,
-      "owner": "Designer",
-      "sets": [
-        "Psionic Field Set (mso)"
-      ]
-    },
-    {
-      "id": 364,
-      "name": "Psionic Force Set (mso)",
-      "effect": "Blast, Blow, Landing, Punch, Shove gain a +1 to all rolls",
-      "stat_hook": null,
-      "genres": [
-        "SciFi"
-      ],
-      "discipline": "Psionics",
-      "path": "Psionic Force Set (mso) {Free}",
-      "notes": "Set synergy bonus for Power Set: Psionic Force Set",
-      "created_at": "2026-09-05T23:12:09.171701+00:00",
-      "cost": "0s",
-      "belongs_to": null,
-      "owner": "Designer",
-      "sets": [
-        "Psionic Force Set (mso)"
-      ]
-    },
-    {
-      "id": 365,
-      "name": "Psionic Mental Set (mso)",
-      "effect": "Minor Telepathy, Mind Probe, Read Surface Thoughts, Telepathy gain a +1 to all rolls",
-      "stat_hook": null,
-      "genres": [
-        "SciFi"
-      ],
-      "discipline": "Psionics",
-      "path": "Psionic Mental Set (mso) {Free}",
-      "notes": "Set synergy bonus for Power Set: Psionic Mental Set",
-      "created_at": "2026-09-05T23:12:09.171701+00:00",
-      "cost": "0s",
-      "belongs_to": null,
-      "owner": "Designer",
-      "sets": [
-        "Psionic Mental Set (mso)"
-      ]
-    },
-    {
-      "id": 366,
-      "name": "Psionic Reality Set (mso)",
-      "effect": "Hallucination, Haze gain a +1 to all rolls",
-      "stat_hook": null,
-      "genres": [
-        "SciFi"
-      ],
-      "discipline": "Psionics",
-      "path": "Psionic Reality Set (mso) {Free}",
-      "notes": "Set synergy bonus for Power Set: Psionic Reality Set",
-      "created_at": "2026-09-05T23:12:09.171701+00:00",
-      "cost": "0s",
-      "belongs_to": null,
-      "owner": "Designer",
-      "sets": [
-        "Psionic Reality Set (mso)"
-      ]
-    },
-    {
-      "id": 367,
-      "name": "Psionic Telekinesis Set (mso)",
-      "effect": "Hurl, Jerk, Levitate Other, Levitate Self, Move Object, Rend, Return gain a +1 to all rolls",
-      "stat_hook": null,
-      "genres": [
-        "SciFi"
-      ],
-      "discipline": "Psionics",
-      "path": "Psionic Telekinesis Set (mso) {Free}",
-      "notes": "Set synergy bonus for Power Set: Psionic Telekinesis Set",
-      "created_at": "2026-09-05T23:12:09.171701+00:00",
-      "cost": "0s",
-      "belongs_to": null,
-      "owner": "Designer",
-      "sets": [
-        "Psionic Telekinesis Set (mso)"
-      ]
-    },
-    {
       "id": 443,
       "name": "Psionics Kit (mso)",
       "effect": "Gain Psionics (mso) Kit for Free",
@@ -58235,120 +57388,6 @@
       "belongs_to": null,
       "owner": "Designer",
       "sets": []
-    },
-    {
-      "id": 368,
-      "name": "Psychosomatic Alteration Set (mso)",
-      "effect": "Molecular Diffusion gain a +1 to all rolls",
-      "stat_hook": null,
-      "genres": [
-        "SciFi"
-      ],
-      "discipline": "Somatics",
-      "path": "Psychosomatic Alteration Set (mso) {Free}",
-      "notes": "Set synergy bonus for Power Set: Psychosomatic Alteration Set",
-      "created_at": "2026-09-05T23:12:09.171701+00:00",
-      "cost": "0s",
-      "belongs_to": null,
-      "owner": "Designer",
-      "sets": [
-        "Psychosomatic Alteration Set (mso)"
-      ]
-    },
-    {
-      "id": 369,
-      "name": "Psychosomatic Defensive Set (mso)",
-      "effect": "Body Heal, Iron Skin, Rough Skin, Tough Skin, Vitalize gain a +1 to all rolls",
-      "stat_hook": null,
-      "genres": [
-        "SciFi"
-      ],
-      "discipline": "Somatics",
-      "path": "Psychosomatic Defensive Set (mso) {Free}",
-      "notes": "Set synergy bonus for Power Set: Psychosomatic Defensive Set",
-      "created_at": "2026-09-05T23:12:09.171701+00:00",
-      "cost": "0s",
-      "belongs_to": null,
-      "owner": "Designer",
-      "sets": [
-        "Psychosomatic Defensive Set (mso)"
-      ]
-    },
-    {
-      "id": 370,
-      "name": "Psychosomatic Muscular Set (mso)",
-      "effect": "Jump, Speed, Strength Surge, Strengthen gain a +1 to all rolls",
-      "stat_hook": null,
-      "genres": [
-        "SciFi"
-      ],
-      "discipline": "Somatics",
-      "path": "Psychosomatic Muscular Set (mso) {Free}",
-      "notes": "Set synergy bonus for Power Set: Psychosomatic Muscular Set",
-      "created_at": "2026-09-05T23:12:09.171701+00:00",
-      "cost": "0s",
-      "belongs_to": null,
-      "owner": "Designer",
-      "sets": [
-        "Psychosomatic Muscular Set (mso)"
-      ]
-    },
-    {
-      "id": 371,
-      "name": "Psychosomatic Offensive Set (mso)",
-      "effect": "Death Blow, Electric Palm, Power Punch, Stun gain a +1 to all rolls",
-      "stat_hook": null,
-      "genres": [
-        "SciFi"
-      ],
-      "discipline": "Somatics",
-      "path": "Psychosomatic Offensive Set (mso) {Free}",
-      "notes": "Set synergy bonus for Power Set: Psychosomatic Offensive Set",
-      "created_at": "2026-09-05T23:12:09.171701+00:00",
-      "cost": "0s",
-      "belongs_to": null,
-      "owner": "Designer",
-      "sets": [
-        "Psychosomatic Offensive Set (mso)"
-      ]
-    },
-    {
-      "id": 372,
-      "name": "Psychosomatic Sensory Set (mso)",
-      "effect": "Hearing Boost, Super Hearing, Super Vision, Vision Boost gain a +1 to all rolls",
-      "stat_hook": null,
-      "genres": [
-        "SciFi"
-      ],
-      "discipline": "Somatics",
-      "path": "Psychosomatic Sensory Set (mso) {Free}",
-      "notes": "Set synergy bonus for Power Set: Psychosomatic Sensory Set",
-      "created_at": "2026-09-05T23:12:09.293796+00:00",
-      "cost": "0s",
-      "belongs_to": null,
-      "owner": "Designer",
-      "sets": [
-        "Psychosomatic Sensory Set (mso)"
-      ]
-    },
-    {
-      "id": 373,
-      "name": "Psychosomatic Survival Set (mso)",
-      "effect": "Oxygenate, Resist Cold, Resist Heat gain a +1 to all rolls",
-      "stat_hook": null,
-      "genres": [
-        "SciFi"
-      ],
-      "discipline": "Somatics",
-      "path": "Psychosomatic Survival Set (mso) {Free}",
-      "notes": "Set synergy bonus for Power Set: Psychosomatic Survival Set",
-      "created_at": "2026-09-05T23:12:09.293796+00:00",
-      "cost": "0s",
-      "belongs_to": null,
-      "owner": "Designer",
-      "sets": [
-        "Psychosomatic Survival Set (mso)"
-      ]
     },
     {
       "id": 446,
@@ -58848,120 +57887,6 @@
       "sets": []
     },
     {
-      "id": 394,
-      "name": "Somatic Combat Set (mso)",
-      "effect": "Electric Palm, Iron Skin, Claws & Fangs, Molecular Diffusion, Density Increase gain a +1 to all rolls",
-      "stat_hook": null,
-      "genres": [
-        "SciFi"
-      ],
-      "discipline": "Somatics",
-      "path": "Somatic Combat Set (mso) {Free}",
-      "notes": "Set synergy bonus for Power Set: Somatic Combat Set",
-      "created_at": "2026-09-05T23:12:09.293796+00:00",
-      "cost": "0s",
-      "belongs_to": null,
-      "owner": "Designer",
-      "sets": [
-        "Somatic Combat Set (mso)"
-      ]
-    },
-    {
-      "id": 395,
-      "name": "Sorce Associative Set (mso)",
-      "effect": "Binding Word, Radiate Fear gain a +1 to all rolls",
-      "stat_hook": null,
-      "genres": [
-        "SciFi"
-      ],
-      "discipline": "Void Magic",
-      "path": "Sorce Associative Set (mso) {Free}",
-      "notes": "Set synergy bonus for Power Set: Sorce Associative Set",
-      "created_at": "2026-09-05T23:12:09.293796+00:00",
-      "cost": "0s",
-      "belongs_to": null,
-      "owner": "Designer",
-      "sets": [
-        "Sorce Associative Set (mso)"
-      ]
-    },
-    {
-      "id": 396,
-      "name": "Sorce Defensive Set (mso)",
-      "effect": "Adhere, Immortal Stance, Sorce Field gain a +1 to all rolls",
-      "stat_hook": null,
-      "genres": [
-        "SciFi"
-      ],
-      "discipline": "Void Magic",
-      "path": "Sorce Defensive Set (mso) {Free}",
-      "notes": "Set synergy bonus for Power Set: Sorce Defensive Set",
-      "created_at": "2026-09-05T23:12:09.293796+00:00",
-      "cost": "0s",
-      "belongs_to": null,
-      "owner": "Designer",
-      "sets": [
-        "Sorce Defensive Set (mso)"
-      ]
-    },
-    {
-      "id": 397,
-      "name": "Sorce Destructive Set (mso)",
-      "effect": "Death Ray, Energy Bolt, Fireball, Lightning Strike gain a +1 to all rolls",
-      "stat_hook": null,
-      "genres": [
-        "SciFi"
-      ],
-      "discipline": "Void Magic",
-      "path": "Sorce Destructive Set (mso) {Free}",
-      "notes": "Set synergy bonus for Power Set: Sorce Destructive Set",
-      "created_at": "2026-09-05T23:12:09.293796+00:00",
-      "cost": "0s",
-      "belongs_to": null,
-      "owner": "Designer",
-      "sets": [
-        "Sorce Destructive Set (mso)"
-      ]
-    },
-    {
-      "id": 398,
-      "name": "Sorce Environmental Set (mso)",
-      "effect": "Door Hand, Door Master, Glow Globe gain a +1 to all rolls",
-      "stat_hook": null,
-      "genres": [
-        "SciFi"
-      ],
-      "discipline": "Void Magic",
-      "path": "Sorce Environmental Set (mso) {Free}",
-      "notes": "Set synergy bonus for Power Set: Sorce Environmental Set",
-      "created_at": "2026-09-05T23:12:09.293796+00:00",
-      "cost": "0s",
-      "belongs_to": null,
-      "owner": "Designer",
-      "sets": [
-        "Sorce Environmental Set (mso)"
-      ]
-    },
-    {
-      "id": 399,
-      "name": "Sorce Healing Set (mso)",
-      "effect": "Heal All, Healing, Life Balance, Light Healing gain a +1 to all rolls",
-      "stat_hook": null,
-      "genres": [
-        "SciFi"
-      ],
-      "discipline": "Void Magic",
-      "path": "Sorce Healing Set (mso) {Free}",
-      "notes": "Set synergy bonus for Power Set: Sorce Healing Set",
-      "created_at": "2026-09-05T23:12:09.293796+00:00",
-      "cost": "0s",
-      "belongs_to": null,
-      "owner": "Designer",
-      "sets": [
-        "Sorce Healing Set (mso)"
-      ]
-    },
-    {
       "id": 449,
       "name": "Sorce Kit (mso)",
       "effect": "Gain Sorce (mso) Kit for Free",
@@ -58977,44 +57902,6 @@
       "belongs_to": null,
       "owner": "Designer",
       "sets": []
-    },
-    {
-      "id": 400,
-      "name": "Sorce Offensive Set (mso)",
-      "effect": "Choke, Death Ray, Energy Bolt, Life Drain, Shockblast, Vampire Touch gain a +1 to all rolls",
-      "stat_hook": null,
-      "genres": [
-        "SciFi"
-      ],
-      "discipline": "Void Magic",
-      "path": "Sorce Offensive Set (mso) {Free}",
-      "notes": "Set synergy bonus for Power Set: Sorce Offensive Set",
-      "created_at": "2026-09-05T23:12:09.293796+00:00",
-      "cost": "0s",
-      "belongs_to": null,
-      "owner": "Designer",
-      "sets": [
-        "Sorce Offensive Set (mso)"
-      ]
-    },
-    {
-      "id": 401,
-      "name": "Sorce Transportal Set (mso)",
-      "effect": "Displace, Displace Group, Ghost Walk, Teleport gain a +1 to all rolls",
-      "stat_hook": null,
-      "genres": [
-        "SciFi"
-      ],
-      "discipline": "Void Magic",
-      "path": "Sorce Transportal Set (mso) {Free}",
-      "notes": "Set synergy bonus for Power Set: Sorce Transportal Set",
-      "created_at": "2026-09-05T23:12:09.293796+00:00",
-      "cost": "0s",
-      "belongs_to": null,
-      "owner": "Designer",
-      "sets": [
-        "Sorce Transportal Set (mso)"
-      ]
     },
     {
       "id": 306,
@@ -59261,44 +58148,6 @@
       "belongs_to": null,
       "owner": "Designer",
       "sets": []
-    },
-    {
-      "id": 402,
-      "name": "Telekinetic Force Set (mso)",
-      "effect": "Blast, Encase, Levitate Self, Levitate Object, Kinetic Wall, Kinetic Shield gain a +1 to all rolls",
-      "stat_hook": null,
-      "genres": [
-        "SciFi"
-      ],
-      "discipline": "Psionics",
-      "path": "Telekinetic Force Set (mso) {Free}",
-      "notes": "Set synergy bonus for Power Set: Telekinetic Force Set",
-      "created_at": "2026-09-05T23:12:09.293796+00:00",
-      "cost": "0s",
-      "belongs_to": null,
-      "owner": "Designer",
-      "sets": [
-        "Telekinetic Force Set (mso)"
-      ]
-    },
-    {
-      "id": 403,
-      "name": "Telepathic Mind Set (mso)",
-      "effect": "Mind Probe, Mental Shield, Telepathy, Hallucination, Suggestion gain a +1 to all rolls",
-      "stat_hook": null,
-      "genres": [
-        "SciFi"
-      ],
-      "discipline": "Psionics",
-      "path": "Telepathic Mind Set (mso) {Free}",
-      "notes": "Set synergy bonus for Power Set: Telepathic Mind Set",
-      "created_at": "2026-09-05T23:12:09.293796+00:00",
-      "cost": "0s",
-      "belongs_to": null,
-      "owner": "Designer",
-      "sets": [
-        "Telepathic Mind Set (mso)"
-      ]
     },
     {
       "id": 478,
