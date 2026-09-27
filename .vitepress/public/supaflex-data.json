@@ -609,16 +609,6 @@
       "owner": "Designer",
       "linked_elements": [
         {
-          "id": "477f7e4a-1157-4a8e-970e-4172d093bcf2",
-          "tag": "1 AP",
-          "name": "BioTech Weapons (mso)",
-          "type": "set",
-          "isFree": false,
-          "details": "Weapons",
-          "is_free": false,
-          "element_type": "set"
-        },
-        {
           "id": "c6afc21d-5546-40cc-b344-edab0115ec45",
           "tag": "1 AP",
           "name": "BioTech Ranged Weapons (mso)",
@@ -754,28 +744,6 @@
           "element_type": "trait"
         },
         {
-          "id": 416,
-          "tag": "Free",
-          "name": "Ship Officer Kit (mso)",
-          "type": "trait",
-          "effect": "May pick ONE Ship Officer Kit and Learn it for Free.",
-          "isFree": true,
-          "details": "May pick ONE Ship Officer Kit and Learn it for Free.",
-          "is_free": true,
-          "element_type": "trait"
-        },
-        {
-          "id": 417,
-          "tag": "Free",
-          "name": "Language, Guildspeak (mso)",
-          "type": "trait",
-          "effect": "Can speak: GuildSpeak",
-          "isFree": true,
-          "details": "Can speak: GuildSpeak",
-          "is_free": true,
-          "element_type": "trait"
-        },
-        {
           "id": 418,
           "tag": "Free",
           "name": "Bio-Gunner Focus (mso)",
@@ -798,28 +766,6 @@
           "element_type": "trait"
         },
         {
-          "id": 420,
-          "tag": "Free",
-          "name": "BioTech Armor Kit (mso)",
-          "type": "trait",
-          "effect": "Gain BioTech Armor Kit for Free",
-          "isFree": true,
-          "details": "Gain BioTech Armor Kit for Free",
-          "is_free": true,
-          "element_type": "trait"
-        },
-        {
-          "id": 421,
-          "tag": "Free",
-          "name": "BioTech Ranged Weapons Kit (mso)",
-          "type": "trait",
-          "effect": "Gain BioTech Ranged Weapons Kit for Free",
-          "isFree": true,
-          "details": "Gain BioTech Ranged Weapons Kit for Free",
-          "is_free": true,
-          "element_type": "trait"
-        },
-        {
           "id": 141,
           "tag": "Free",
           "name": "Belly Gun (mso)",
@@ -838,6 +784,16 @@
           "details": "AR 🧥4",
           "is_free": true,
           "element_type": "armor"
+        },
+        {
+          "id": "c5f834b0-4c0a-40a6-97de-ffc8de8ad509",
+          "tag": "Free",
+          "name": "Dha Traits",
+          "type": "set",
+          "isFree": true,
+          "details": "Traits",
+          "is_free": true,
+          "element_type": "set"
         }
       ]
     },
@@ -849,16 +805,6 @@
       "created_at": "2026-09-05T23:12:06.037047+00:00",
       "owner": "Designer",
       "linked_elements": [
-        {
-          "id": "477f7e4a-1157-4a8e-970e-4172d093bcf2",
-          "tag": "1 AP",
-          "name": "BioTech Weapons (mso)",
-          "type": "set",
-          "isFree": false,
-          "details": "Weapons",
-          "is_free": false,
-          "element_type": "set"
-        },
         {
           "id": "2f5dc6d8-d1a6-445f-aebb-9697a02d166c",
           "tag": "1 AP",
@@ -995,39 +941,6 @@
           "element_type": "trait"
         },
         {
-          "id": 416,
-          "tag": "Free",
-          "name": "Ship Officer Kit (mso)",
-          "type": "trait",
-          "effect": "May pick ONE Ship Officer Kit and Learn it for Free.",
-          "isFree": true,
-          "details": "May pick ONE Ship Officer Kit and Learn it for Free.",
-          "is_free": true,
-          "element_type": "trait"
-        },
-        {
-          "id": 417,
-          "tag": "Free",
-          "name": "Language, Guildspeak (mso)",
-          "type": "trait",
-          "effect": "Can speak: GuildSpeak",
-          "isFree": true,
-          "details": "Can speak: GuildSpeak",
-          "is_free": true,
-          "element_type": "trait"
-        },
-        {
-          "id": 420,
-          "tag": "Free",
-          "name": "BioTech Armor Kit (mso)",
-          "type": "trait",
-          "effect": "Gain BioTech Armor Kit for Free",
-          "isFree": true,
-          "details": "Gain BioTech Armor Kit for Free",
-          "is_free": true,
-          "element_type": "trait"
-        },
-        {
           "id": 422,
           "tag": "Free",
           "name": "Bio-Warrior Focus (mso)",
@@ -1050,17 +963,6 @@
           "element_type": "trait"
         },
         {
-          "id": 424,
-          "tag": "Free",
-          "name": "BioTech Melee Weapons Kit (mso)",
-          "type": "trait",
-          "effect": "Gain BioTech Melee Weapons Kit for Free",
-          "isFree": true,
-          "details": "Gain BioTech Melee Weapons Kit for Free",
-          "is_free": true,
-          "element_type": "trait"
-        },
-        {
           "id": 142,
           "tag": "Free",
           "name": "Bioblades (Adolescent) (mso)",
@@ -1079,6 +981,16 @@
           "details": "AR 🧥8",
           "is_free": true,
           "element_type": "armor"
+        },
+        {
+          "id": "c5f834b0-4c0a-40a6-97de-ffc8de8ad509",
+          "tag": "Free",
+          "name": "Dha Traits",
+          "type": "set",
+          "isFree": true,
+          "details": "Traits",
+          "is_free": true,
+          "element_type": "set"
         }
       ]
     },
@@ -1615,34 +1527,12 @@
         },
         {
           "id": 375,
-          "tag": "1 AP",
+          "tag": "Free",
           "name": "Ranks of the Cyber Lord (mso)",
           "type": "trait",
           "effect": "Progression within the chapter ranks: 0-Initiate, 1-Mech-1, 2-Mech-2, 3-Mech-3, 4-Mech-4, 5-Mech-5, 6-Cyborg-1, 7-Cyborg-2, 8-Cyborg-3, 9-Cyber Knight, 10+-Cybe",
-          "isFree": false,
+          "isFree": true,
           "details": "Progression within the chapter ranks: 0-Initiate, 1-Mech-1, 2-Mech-2, 3-Mech-3, 4-Mech-4, 5-Mech-5, 6-Cyborg-1, 7-Cyborg-2, 8-Cyborg-3, 9-Cyber Knight, 10+-Cybe",
-          "is_free": false,
-          "element_type": "trait"
-        },
-        {
-          "id": 416,
-          "tag": "Free",
-          "name": "Ship Officer Kit (mso)",
-          "type": "trait",
-          "effect": "May pick ONE Ship Officer Kit and Learn it for Free.",
-          "isFree": true,
-          "details": "May pick ONE Ship Officer Kit and Learn it for Free.",
-          "is_free": true,
-          "element_type": "trait"
-        },
-        {
-          "id": 417,
-          "tag": "Free",
-          "name": "Language, Guildspeak (mso)",
-          "type": "trait",
-          "effect": "Can speak: GuildSpeak",
-          "isFree": true,
-          "details": "Can speak: GuildSpeak",
           "is_free": true,
           "element_type": "trait"
         },
@@ -1680,26 +1570,34 @@
           "element_type": "trait"
         },
         {
-          "id": 428,
-          "tag": "Free",
-          "name": "CyberTech Weapons Kit (mso)",
-          "type": "trait",
-          "effect": "Gain CyberTech Weapons Kit for Free",
-          "isFree": true,
-          "details": "Gain CyberTech Weapons Kit for Free",
-          "is_free": true,
-          "element_type": "trait"
+          "id": "de0f3a2c-3fa8-49b9-95e6-10ca90a641bd",
+          "tag": "1 AP",
+          "name": "CyberTech Armor (mso)",
+          "type": "set",
+          "isFree": false,
+          "details": "Armor & Shields",
+          "is_free": false,
+          "element_type": "set"
         },
         {
-          "id": 429,
+          "id": "059c3362-e7e4-41b2-9108-cbbbaaa6421c",
+          "tag": "1 AP",
+          "name": "CyberTech Weapons (mso)",
+          "type": "set",
+          "isFree": false,
+          "details": "Weapons",
+          "is_free": false,
+          "element_type": "set"
+        },
+        {
+          "id": "c5f834b0-4c0a-40a6-97de-ffc8de8ad509",
           "tag": "Free",
-          "name": "CyberTech Armor Kit (mso)",
-          "type": "trait",
-          "effect": "Gain CyberTech Armor Kit for Free",
+          "name": "Dha Traits",
+          "type": "set",
           "isFree": true,
-          "details": "Gain CyberTech Armor Kit for Free",
+          "details": "Traits",
           "is_free": true,
-          "element_type": "trait"
+          "element_type": "set"
         }
       ]
     },
@@ -1721,29 +1619,9 @@
       "owner": "Designer",
       "linked_elements": [
         {
-          "id": "a12beb49-e5e5-423d-b6e9-7a6daa881420",
-          "tag": "1 AP",
-          "name": "Tech Suit Armor (mso)",
-          "type": "set",
-          "isFree": false,
-          "details": "Armor & Shields",
-          "is_free": false,
-          "element_type": "set"
-        },
-        {
           "id": "6899ee19-0096-4cf9-986c-a9bd0cd54d86",
           "tag": "1 AP",
           "name": "Tech Armor Heavy (mso)",
-          "type": "set",
-          "isFree": false,
-          "details": "Armor & Shields",
-          "is_free": false,
-          "element_type": "set"
-        },
-        {
-          "id": "c68f64a8-7273-4b61-97bb-1b6a8be325fc",
-          "tag": "1 AP",
-          "name": "Tech Shields (mso)",
           "type": "set",
           "isFree": false,
           "details": "Armor & Shields",
@@ -1892,28 +1770,6 @@
           "element_type": "trait"
         },
         {
-          "id": 416,
-          "tag": "Free",
-          "name": "Ship Officer Kit (mso)",
-          "type": "trait",
-          "effect": "May pick ONE Ship Officer Kit and Learn it for Free.",
-          "isFree": true,
-          "details": "May pick ONE Ship Officer Kit and Learn it for Free.",
-          "is_free": true,
-          "element_type": "trait"
-        },
-        {
-          "id": 417,
-          "tag": "Free",
-          "name": "Language, Guildspeak (mso)",
-          "type": "trait",
-          "effect": "Can speak: GuildSpeak",
-          "isFree": true,
-          "details": "Can speak: GuildSpeak",
-          "is_free": true,
-          "element_type": "trait"
-        },
-        {
           "id": 430,
           "tag": "Free",
           "name": "Destron Focus (mso)",
@@ -1936,39 +1792,6 @@
           "element_type": "trait"
         },
         {
-          "id": 432,
-          "tag": "Free",
-          "name": "Tech Armor Heavy Kit (mso)",
-          "type": "trait",
-          "effect": "Gain Tech Armor Heavy Kit for Free",
-          "isFree": true,
-          "details": "Gain Tech Armor Heavy Kit for Free",
-          "is_free": true,
-          "element_type": "trait"
-        },
-        {
-          "id": 433,
-          "tag": "Free",
-          "name": "Tech Heavy Ranged Weapons Kit (mso)",
-          "type": "trait",
-          "effect": "Gain Tech Heavy Ranged Weapons Kit for Free",
-          "isFree": true,
-          "details": "Gain Tech Heavy Ranged Weapons Kit for Free",
-          "is_free": true,
-          "element_type": "trait"
-        },
-        {
-          "id": 434,
-          "tag": "Free",
-          "name": "Tech Explosive Weapons Kit (mso)",
-          "type": "trait",
-          "effect": "Gain Tech Explosive Weapons Kit for Free",
-          "isFree": true,
-          "details": "Gain Tech Explosive Weapons Kit for Free",
-          "is_free": true,
-          "element_type": "trait"
-        },
-        {
           "id": 207,
           "tag": "Free",
           "name": "TurboPlaz (mso)",
@@ -1987,6 +1810,36 @@
           "details": "AR 🧥12",
           "is_free": true,
           "element_type": "armor"
+        },
+        {
+          "id": "ba1f72d4-84f4-4ee3-821a-4a49fb75a9ad",
+          "tag": "1 AP",
+          "name": "Tech Explosive Weapons (mso)",
+          "type": "set",
+          "isFree": false,
+          "details": "Weapons",
+          "is_free": false,
+          "element_type": "set"
+        },
+        {
+          "id": "6459f47e-39c6-4634-893d-ce57f7399a0e",
+          "tag": "1 AP",
+          "name": "Tech Heavy Ranged Weapons (mso)",
+          "type": "set",
+          "isFree": false,
+          "details": "Weapons",
+          "is_free": false,
+          "element_type": "set"
+        },
+        {
+          "id": "c5f834b0-4c0a-40a6-97de-ffc8de8ad509",
+          "tag": "Free",
+          "name": "Dha Traits",
+          "type": "set",
+          "isFree": true,
+          "details": "Traits",
+          "is_free": true,
+          "element_type": "set"
         }
       ]
     },
@@ -2427,17 +2280,6 @@
           "element_type": "skill"
         },
         {
-          "id": 437,
-          "tag": "Free",
-          "name": "Martial Arts Weapons Kit (mso)",
-          "type": "trait",
-          "effect": "Gain Martial Arts Weapons Kit for Free",
-          "isFree": true,
-          "details": "Gain Martial Arts Weapons Kit for Free",
-          "is_free": true,
-          "element_type": "trait"
-        },
-        {
           "id": 377,
           "tag": "Free",
           "name": "Ranks of the Grand Master (mso)",
@@ -2445,28 +2287,6 @@
           "effect": "Progression within the chapter ranks: 0-White, 1-Yellow, 2-Orange, 3-Green, 4-Blue, 5-Purple, 6-Red, 7-Brown, 8-Black, 9-Master, 10+-Grand Master.",
           "isFree": true,
           "details": "Progression within the chapter ranks: 0-White, 1-Yellow, 2-Orange, 3-Green, 4-Blue, 5-Purple, 6-Red, 7-Brown, 8-Black, 9-Master, 10+-Grand Master.",
-          "is_free": true,
-          "element_type": "trait"
-        },
-        {
-          "id": 416,
-          "tag": "Free",
-          "name": "Ship Officer Kit (mso)",
-          "type": "trait",
-          "effect": "May pick ONE Ship Officer Kit and Learn it for Free.",
-          "isFree": true,
-          "details": "May pick ONE Ship Officer Kit and Learn it for Free.",
-          "is_free": true,
-          "element_type": "trait"
-        },
-        {
-          "id": 417,
-          "tag": "Free",
-          "name": "Language, Guildspeak (mso)",
-          "type": "trait",
-          "effect": "Can speak: GuildSpeak",
-          "isFree": true,
-          "details": "Can speak: GuildSpeak",
           "is_free": true,
           "element_type": "trait"
         },
@@ -2493,17 +2313,6 @@
           "element_type": "trait"
         },
         {
-          "id": 438,
-          "tag": "Free",
-          "name": "Archaic Weapons Kit (mso)",
-          "type": "trait",
-          "effect": "Gain Archaic Weapons Kit for Free",
-          "isFree": true,
-          "details": "Gain Archaic Weapons Kit for Free",
-          "is_free": true,
-          "element_type": "trait"
-        },
-        {
           "id": 211,
           "tag": "Free",
           "name": "Brawl (mso)",
@@ -2512,6 +2321,36 @@
           "details": "💪-1d Melee",
           "is_free": true,
           "element_type": "weapon"
+        },
+        {
+          "id": "36f8bb8f-3c16-4430-9e6a-b110b7b6e00d",
+          "tag": "1 AP",
+          "name": "Archaic Weapons (mso)",
+          "type": "set",
+          "isFree": false,
+          "details": "Weapons",
+          "is_free": false,
+          "element_type": "set"
+        },
+        {
+          "id": "74213443-0f8b-4b8b-b626-a09921c2e918",
+          "tag": "1 AP",
+          "name": "Martial Arts Powers",
+          "type": "set",
+          "isFree": false,
+          "details": "Powers",
+          "is_free": false,
+          "element_type": "set"
+        },
+        {
+          "id": "c5f834b0-4c0a-40a6-97de-ffc8de8ad509",
+          "tag": "Free",
+          "name": "Dha Traits",
+          "type": "set",
+          "isFree": true,
+          "details": "Traits",
+          "is_free": true,
+          "element_type": "set"
         }
       ]
     },
@@ -6871,29 +6710,9 @@
           "element_type": "set"
         },
         {
-          "id": "a12beb49-e5e5-423d-b6e9-7a6daa881420",
-          "tag": "1 AP",
-          "name": "Tech Suit Armor (mso)",
-          "type": "set",
-          "isFree": false,
-          "details": "Armor & Shields",
-          "is_free": false,
-          "element_type": "set"
-        },
-        {
           "id": "84ade202-cec7-4e39-a267-bc5481472eed",
           "tag": "1 AP",
           "name": "Tech Armor Medium (mso)",
-          "type": "set",
-          "isFree": false,
-          "details": "Armor & Shields",
-          "is_free": false,
-          "element_type": "set"
-        },
-        {
-          "id": "c68f64a8-7273-4b61-97bb-1b6a8be325fc",
-          "tag": "1 AP",
-          "name": "Tech Shields (mso)",
           "type": "set",
           "isFree": false,
           "details": "Armor & Shields",
@@ -7081,28 +6900,6 @@
           "element_type": "trait"
         },
         {
-          "id": 416,
-          "tag": "Free",
-          "name": "Ship Officer Kit (mso)",
-          "type": "trait",
-          "effect": "May pick ONE Ship Officer Kit and Learn it for Free.",
-          "isFree": true,
-          "details": "May pick ONE Ship Officer Kit and Learn it for Free.",
-          "is_free": true,
-          "element_type": "trait"
-        },
-        {
-          "id": 417,
-          "tag": "Free",
-          "name": "Language, Guildspeak (mso)",
-          "type": "trait",
-          "effect": "Can speak: GuildSpeak",
-          "isFree": true,
-          "details": "Can speak: GuildSpeak",
-          "is_free": true,
-          "element_type": "trait"
-        },
-        {
           "id": 439,
           "tag": "Free",
           "name": "Marine Focus (mso)",
@@ -7125,28 +6922,6 @@
           "element_type": "trait"
         },
         {
-          "id": 441,
-          "tag": "Free",
-          "name": "Tech Ranged Weapons Kit (mso)",
-          "type": "trait",
-          "effect": "Gain Tech Ranged Weapons Kit for Free",
-          "isFree": true,
-          "details": "Gain Tech Ranged Weapons Kit for Free",
-          "is_free": true,
-          "element_type": "trait"
-        },
-        {
-          "id": 442,
-          "tag": "Free",
-          "name": "Tech Armor Medium Kit (mso)",
-          "type": "trait",
-          "effect": "Gain Tech Armor Medium Kit for Free",
-          "isFree": true,
-          "details": "Gain Tech Armor Medium Kit for Free",
-          "is_free": true,
-          "element_type": "trait"
-        },
-        {
           "id": 154,
           "tag": "Free",
           "name": "Combat Knife (mso)",
@@ -7165,6 +6940,16 @@
           "details": "AR 🧥10",
           "is_free": true,
           "element_type": "armor"
+        },
+        {
+          "id": "c5f834b0-4c0a-40a6-97de-ffc8de8ad509",
+          "tag": "Free",
+          "name": "Dha Traits",
+          "type": "set",
+          "isFree": true,
+          "details": "Traits",
+          "is_free": true,
+          "element_type": "set"
         }
       ]
     },
@@ -7995,39 +7780,6 @@
           "element_type": "trait"
         },
         {
-          "id": 416,
-          "tag": "Free",
-          "name": "Ship Officer Kit (mso)",
-          "type": "trait",
-          "effect": "May pick ONE Ship Officer Kit and Learn it for Free.",
-          "isFree": true,
-          "details": "May pick ONE Ship Officer Kit and Learn it for Free.",
-          "is_free": true,
-          "element_type": "trait"
-        },
-        {
-          "id": 417,
-          "tag": "Free",
-          "name": "Language, Guildspeak (mso)",
-          "type": "trait",
-          "effect": "Can speak: GuildSpeak",
-          "isFree": true,
-          "details": "Can speak: GuildSpeak",
-          "is_free": true,
-          "element_type": "trait"
-        },
-        {
-          "id": 443,
-          "tag": "Free",
-          "name": "Psionics Kit (mso)",
-          "type": "trait",
-          "effect": "Gain Psionics (mso) Kit for Free",
-          "isFree": true,
-          "details": "Gain Psionics (mso) Kit for Free",
-          "is_free": true,
-          "element_type": "trait"
-        },
-        {
           "id": 444,
           "tag": "Free",
           "name": "Mensi Focus (mso)",
@@ -8037,6 +7789,36 @@
           "details": "Paranormal telepath and telekineticist mastering physical reality manipulation and mind focus.",
           "is_free": true,
           "element_type": "trait"
+        },
+        {
+          "id": "c5f834b0-4c0a-40a6-97de-ffc8de8ad509",
+          "tag": "Free",
+          "name": "Dha Traits",
+          "type": "set",
+          "isFree": true,
+          "details": "Traits",
+          "is_free": true,
+          "element_type": "set"
+        },
+        {
+          "id": "62c87b96-2081-4432-b77a-19229b6eaaa4",
+          "tag": "1 AP",
+          "name": "Psionics (mso)",
+          "type": "set",
+          "isFree": false,
+          "details": "Powers",
+          "is_free": false,
+          "element_type": "set"
+        },
+        {
+          "id": 91,
+          "tag": "Free",
+          "name": "Unarmored (mso)",
+          "type": "armor",
+          "isFree": true,
+          "details": "No Armor, Clothing, or other non-armor gear",
+          "is_free": true,
+          "element_type": "armor"
         }
       ]
     },
@@ -8680,17 +8462,6 @@
           "element_type": "skill"
         },
         {
-          "id": 446,
-          "tag": "Free",
-          "name": "Psychosomatics Kit (mso)",
-          "type": "trait",
-          "effect": "Gain Psychosomatics (mso) Kit for Free",
-          "isFree": true,
-          "details": "Gain Psychosomatics (mso) Kit for Free",
-          "is_free": true,
-          "element_type": "trait"
-        },
-        {
           "id": 447,
           "tag": "Free",
           "name": "Mutak Focus (mso)",
@@ -8713,28 +8484,6 @@
           "element_type": "trait"
         },
         {
-          "id": 416,
-          "tag": "Free",
-          "name": "Ship Officer Kit (mso)",
-          "type": "trait",
-          "effect": "May pick ONE Ship Officer Kit and Learn it for Free.",
-          "isFree": true,
-          "details": "May pick ONE Ship Officer Kit and Learn it for Free.",
-          "is_free": true,
-          "element_type": "trait"
-        },
-        {
-          "id": 417,
-          "tag": "Free",
-          "name": "Language, Guildspeak (mso)",
-          "type": "trait",
-          "effect": "Can speak: GuildSpeak",
-          "isFree": true,
-          "details": "Can speak: GuildSpeak",
-          "is_free": true,
-          "element_type": "trait"
-        },
-        {
           "id": 383,
           "tag": "Free",
           "name": "Ranks of the Somatic Master (mso)",
@@ -8744,6 +8493,26 @@
           "details": "Progression within the chapter ranks: 0-White, 1-Yellow, 2-Orange, 3-Green, 4-Blue, 5-Purple, 6-Red, 7-Brown, 8-Black, 9-Master, 10+-Grand Master.",
           "is_free": true,
           "element_type": "trait"
+        },
+        {
+          "id": "c5f834b0-4c0a-40a6-97de-ffc8de8ad509",
+          "tag": "Free",
+          "name": "Dha Traits",
+          "type": "set",
+          "isFree": true,
+          "details": "Traits",
+          "is_free": true,
+          "element_type": "set"
+        },
+        {
+          "id": "6daaddcf-f0dd-4925-963f-923eb173abdd",
+          "tag": "1 AP",
+          "name": "Psychosomatics (mso)",
+          "type": "set",
+          "isFree": false,
+          "details": "Powers",
+          "is_free": false,
+          "element_type": "set"
         }
       ]
     },
@@ -16266,28 +16035,6 @@
           "element_type": "trait"
         },
         {
-          "id": 416,
-          "tag": "Free",
-          "name": "Ship Officer Kit (mso)",
-          "type": "trait",
-          "effect": "May pick ONE Ship Officer Kit and Learn it for Free.",
-          "isFree": true,
-          "details": "May pick ONE Ship Officer Kit and Learn it for Free.",
-          "is_free": true,
-          "element_type": "trait"
-        },
-        {
-          "id": 417,
-          "tag": "Free",
-          "name": "Language, Guildspeak (mso)",
-          "type": "trait",
-          "effect": "Can speak: GuildSpeak",
-          "isFree": true,
-          "details": "Can speak: GuildSpeak",
-          "is_free": true,
-          "element_type": "trait"
-        },
-        {
           "id": 197,
           "tag": "Free",
           "name": "Sorce Saber (mso)",
@@ -16296,6 +16043,26 @@
           "details": "💪 Melee",
           "is_free": true,
           "element_type": "weapon"
+        },
+        {
+          "id": "c5f834b0-4c0a-40a6-97de-ffc8de8ad509",
+          "tag": "Free",
+          "name": "Dha Traits",
+          "type": "set",
+          "isFree": true,
+          "details": "Traits",
+          "is_free": true,
+          "element_type": "set"
+        },
+        {
+          "id": "6b488b42-4230-4c20-8c4b-a7b57786b41e",
+          "tag": "1 AP",
+          "name": "Sorce (mso)",
+          "type": "set",
+          "isFree": false,
+          "details": "Powers",
+          "is_free": false,
+          "element_type": "set"
         }
       ]
     },
@@ -18258,39 +18025,9 @@
           "element_type": "set"
         },
         {
-          "id": "a12beb49-e5e5-423d-b6e9-7a6daa881420",
-          "tag": "1 AP",
-          "name": "Tech Suit Armor (mso)",
-          "type": "set",
-          "isFree": false,
-          "details": "Armor & Shields",
-          "is_free": false,
-          "element_type": "set"
-        },
-        {
           "id": "209172c1-5de5-411a-9043-d7246cc7f769",
           "tag": "1 AP",
           "name": "Tech Armor (mso)",
-          "type": "set",
-          "isFree": false,
-          "details": "Armor & Shields",
-          "is_free": false,
-          "element_type": "set"
-        },
-        {
-          "id": "6899ee19-0096-4cf9-986c-a9bd0cd54d86",
-          "tag": "1 AP",
-          "name": "Tech Armor Heavy (mso)",
-          "type": "set",
-          "isFree": false,
-          "details": "Armor & Shields",
-          "is_free": false,
-          "element_type": "set"
-        },
-        {
-          "id": "84ade202-cec7-4e39-a267-bc5481472eed",
-          "tag": "1 AP",
-          "name": "Tech Armor Medium (mso)",
           "type": "set",
           "isFree": false,
           "details": "Armor & Shields",
@@ -18564,28 +18301,6 @@
           "element_type": "trait"
         },
         {
-          "id": 454,
-          "tag": "Free",
-          "name": "Tech Melee Weapons Kit (mso)",
-          "type": "trait",
-          "effect": "Gain Tech Melee Weapons Kit for Free",
-          "isFree": true,
-          "details": "Gain Tech Melee Weapons Kit for Free",
-          "is_free": true,
-          "element_type": "trait"
-        },
-        {
-          "id": 455,
-          "tag": "Free",
-          "name": "Tech Armor Kit (mso)",
-          "type": "trait",
-          "effect": "Gain Tech Armor Kit for Free",
-          "isFree": true,
-          "details": "Gain Tech Armor Kit for Free",
-          "is_free": true,
-          "element_type": "trait"
-        },
-        {
           "id": 379,
           "tag": "Free",
           "name": "Ranks of the Marshal (mso)",
@@ -18593,28 +18308,6 @@
           "effect": "Progression within the chapter ranks: 0-Recruit, 1-Private, 2-Corporal, 3-Sergeant, 4-Lieutenant, 5-Captain, 6-Major, 7-Colonel, 8-General, 9-Brigadier General,",
           "isFree": true,
           "details": "Progression within the chapter ranks: 0-Recruit, 1-Private, 2-Corporal, 3-Sergeant, 4-Lieutenant, 5-Captain, 6-Major, 7-Colonel, 8-General, 9-Brigadier General,",
-          "is_free": true,
-          "element_type": "trait"
-        },
-        {
-          "id": 416,
-          "tag": "Free",
-          "name": "Ship Officer Kit (mso)",
-          "type": "trait",
-          "effect": "May pick ONE Ship Officer Kit and Learn it for Free.",
-          "isFree": true,
-          "details": "May pick ONE Ship Officer Kit and Learn it for Free.",
-          "is_free": true,
-          "element_type": "trait"
-        },
-        {
-          "id": 417,
-          "tag": "Free",
-          "name": "Language, Guildspeak (mso)",
-          "type": "trait",
-          "effect": "Can speak: GuildSpeak",
-          "isFree": true,
-          "details": "Can speak: GuildSpeak",
           "is_free": true,
           "element_type": "trait"
         },
@@ -18637,6 +18330,16 @@
           "details": "💪 Melee",
           "is_free": true,
           "element_type": "weapon"
+        },
+        {
+          "id": "c5f834b0-4c0a-40a6-97de-ffc8de8ad509",
+          "tag": "Free",
+          "name": "Dha Traits",
+          "type": "set",
+          "isFree": true,
+          "details": "Traits",
+          "is_free": true,
+          "element_type": "set"
         }
       ]
     },
@@ -19424,7 +19127,7 @@
     {
       "id": "bdf50fc6-e8b5-4561-9060-c8611a86d93d",
       "name": "Archaic Armor (mso)",
-      "category": "Armor & Shields",
+      "category": "Armor",
       "description": "Proficiency in traditional, medieval, and low-tech armor suits.",
       "paths": [
         "Warrior",
@@ -19443,7 +19146,7 @@
     {
       "id": "91daf1ee-0f07-4b5b-8d24-3bccb8498612",
       "name": "Archaic Shields (mso)",
-      "category": "Armor & Shields",
+      "category": "Shields",
       "description": "Proficiency and defensive stances utilizing traditional archaic and melee shields.",
       "paths": [
         "Warrior",
@@ -19467,7 +19170,8 @@
         "Warrior",
         "Paladin",
         "Barbarian",
-        "Ranger"
+        "Ranger",
+        "Dragon (mso)"
       ],
       "genres": [
         "Medieval",
@@ -19496,7 +19200,7 @@
     {
       "id": "89e54666-3c0f-4155-b81f-5f15de3b4b3c",
       "name": "Artifact Armor (mso)",
-      "category": "Armor & Shields",
+      "category": "Armor",
       "description": "Ancient, advanced, or legendary protective power armor.",
       "paths": [],
       "genres": [
@@ -19646,11 +19350,11 @@
     {
       "id": "df28d539-9a0a-4bb4-a77d-2adbb8fbaaf2",
       "name": "BioTech Armor (mso)",
-      "category": "Armor & Shields",
+      "category": "Armor",
       "description": "Proficiency with living chitinous, symbiotic, and organic defensive armor.",
       "paths": [
-        "Bio-Warrior (mso)",
-        "Bio-Gunner (mso)"
+        "Bio-Gunner (mso)",
+        "Bio-Warrior (mso)"
       ],
       "genres": [
         "Medieval",
@@ -19700,10 +19404,7 @@
       "name": "BioTech Weapons (mso)",
       "category": "Weapons",
       "description": "Proficiency with organic bio-munitions, living blasters, and symbiote weaponry.",
-      "paths": [
-        "Bio-Warrior (mso)",
-        "Bio-Gunner (mso)"
-      ],
+      "paths": [],
       "genres": [
         "Medieval",
         "Modern",
@@ -19823,9 +19524,11 @@
     {
       "id": "de0f3a2c-3fa8-49b9-95e6-10ca90a641bd",
       "name": "CyberTech Armor (mso)",
-      "category": "Armor & Shields",
+      "category": "Armor",
       "description": "Proficiency in integrated cybernetic subdermal plating and mechanized armor.",
-      "paths": [],
+      "paths": [
+        "Cyber Warrior (mso)"
+      ],
       "genres": [
         "Medieval",
         "Modern",
@@ -19840,7 +19543,9 @@
       "name": "CyberTech Weapons (mso)",
       "category": "Weapons",
       "description": "Proficiency with cybernetically integrated armaments, micro-lasers, and retractable blades.",
-      "paths": [],
+      "paths": [
+        "Cyber Warrior (mso)"
+      ],
       "genres": [
         "Medieval",
         "Modern",
@@ -19849,6 +19554,30 @@
       "owner": "Designer",
       "created_at": "2026-09-24T23:21:57.992223+00:00",
       "updated_at": "2026-09-24T23:21:57.992223+00:00"
+    },
+    {
+      "id": "c5f834b0-4c0a-40a6-97de-ffc8de8ad509",
+      "name": "Dha Traits",
+      "category": "Traits",
+      "description": "Traits of Dha members",
+      "paths": [
+        "Bio-Gunner (mso) {Free}",
+        "Bio-Warrior (mso) {Free}",
+        "Cyber Warrior (mso) {Free}",
+        "Destron (mso) {Free}",
+        "Dragon (mso) {Free}",
+        "Marine (mso) {Free}",
+        "Mensi (mso) {Free}",
+        "Mutak (mso) {Free}",
+        "Warlock (mso) {Free}",
+        "Warrior (mso) {Free}"
+      ],
+      "genres": [
+        "Medieval"
+      ],
+      "owner": "Designer",
+      "created_at": "2026-09-25T22:38:42.77+00:00",
+      "updated_at": "2026-09-25T22:38:42.77+00:00"
     },
     {
       "id": "42462bd6-de6f-459a-9506-48c2626cdceb",
@@ -20206,6 +19935,23 @@
       "updated_at": "2026-09-24T23:21:57.992223+00:00"
     },
     {
+      "id": "74213443-0f8b-4b8b-b626-a09921c2e918",
+      "name": "Martial Arts Powers",
+      "category": "Powers",
+      "description": "Powers for the Martial Artist",
+      "paths": [
+        "Dragon (mso)"
+      ],
+      "genres": [
+        "Medieval",
+        "Modern",
+        "SciFi"
+      ],
+      "owner": "Designer",
+      "created_at": "2026-09-25T22:33:50.108+00:00",
+      "updated_at": "2026-09-25T22:35:36.821+00:00"
+    },
+    {
       "id": "21d13a75-c97e-4662-897a-5047ebfcfab8",
       "name": "Martial Prowess",
       "category": "Skills",
@@ -20443,7 +20189,9 @@
       "name": "Psionics (mso)",
       "category": "Powers",
       "description": "SciFi psionic powers channeling mental force, telekinesis, and telepathy.",
-      "paths": [],
+      "paths": [
+        "Mensi (mso)"
+      ],
       "genres": [
         "Medieval",
         "Modern",
@@ -20548,7 +20296,9 @@
       "name": "Psychosomatics (mso)",
       "category": "Powers",
       "description": "Cellular bio-control powers governing adrenaline surges, cellular density, and physical conditioning.",
-      "paths": [],
+      "paths": [
+        "Mutak (mso)"
+      ],
       "genres": [
         "Medieval",
         "Modern",
@@ -20897,7 +20647,9 @@
       "name": "Sorce (mso)",
       "category": "Powers",
       "description": "Planar sorcery manipulating reality-warping occult energies and teleportation.",
-      "paths": [],
+      "paths": [
+        "Warlock (mso)"
+      ],
       "genres": [
         "Medieval",
         "Modern",
@@ -21192,7 +20944,7 @@
     {
       "id": "209172c1-5de5-411a-9043-d7246cc7f769",
       "name": "Tech Armor (mso)",
-      "category": "Armor & Shields",
+      "category": "Armor",
       "description": "Standard military and civilian technological armor suits and ballistic gear.",
       "paths": [
         "Warrior (mso)"
@@ -21209,10 +20961,9 @@
     {
       "id": "6899ee19-0096-4cf9-986c-a9bd0cd54d86",
       "name": "Tech Armor Heavy (mso)",
-      "category": "Armor & Shields",
+      "category": "Armor",
       "description": "Specialized heavy technological plating and frontline dreadnought armor.",
       "paths": [
-        "Warrior (mso)",
         "Destron (mso)"
       ],
       "genres": [
@@ -21227,10 +20978,9 @@
     {
       "id": "84ade202-cec7-4e39-a267-bc5481472eed",
       "name": "Tech Armor Medium (mso)",
-      "category": "Armor & Shields",
+      "category": "Armor",
       "description": "Tactical medium technological armor suits balancing protection and mobility.",
       "paths": [
-        "Warrior (mso)",
         "Marine (mso)"
       ],
       "genres": [
@@ -21247,7 +20997,9 @@
       "name": "Tech Explosive Weapons (mso)",
       "category": "Weapons",
       "description": "Proficiency with grenade launchers, micro-missiles, and area-of-effect munitions.",
-      "paths": [],
+      "paths": [
+        "Destron (mso)"
+      ],
       "genres": [
         "Medieval",
         "Modern",
@@ -21262,7 +21014,9 @@
       "name": "Tech Heavy Ranged Weapons (mso)",
       "category": "Weapons",
       "description": "Proficiency with heavy directed-energy cannons and high-caliber ranged platforms.",
-      "paths": [],
+      "paths": [
+        "Destron (mso)"
+      ],
       "genres": [
         "Medieval",
         "Modern",
@@ -21310,10 +21064,10 @@
       "category": "Weapons",
       "description": "Proficiency with standard high-tech firearms, blaster rifles, and projectile guns.",
       "paths": [
-        "Marine (mso)",
         "Archer (mso)",
         "Pistolier (mso)",
-        "Rifle Expert (mso)"
+        "Rifle Expert (mso)",
+        "Marine (mso)"
       ],
       "genres": [
         "Medieval",
@@ -21327,12 +21081,10 @@
     {
       "id": "c68f64a8-7273-4b61-97bb-1b6a8be325fc",
       "name": "Tech Shields (mso)",
-      "category": "Armor & Shields",
+      "category": "Shields",
       "description": "Proficiency in operating energized directional shields and high-tech energy barriers.",
       "paths": [
-        "Warrior (mso)",
-        "Marine (mso)",
-        "Destron (mso)"
+        "Warrior (mso)"
       ],
       "genres": [
         "Medieval",
@@ -21346,13 +21098,9 @@
     {
       "id": "a12beb49-e5e5-423d-b6e9-7a6daa881420",
       "name": "Tech Suit Armor (mso)",
-      "category": "Armor & Shields",
+      "category": "Armor",
       "description": "Heavy powered assault rigs and mechanized exoskeleton combat suits.",
-      "paths": [
-        "Warrior (mso)",
-        "Marine (mso)",
-        "Destron (mso)"
-      ],
+      "paths": [],
       "genres": [
         "Medieval",
         "Modern",
@@ -22410,7 +22158,9 @@
       "stat_hook": null,
       "notes": null,
       "owner": "Designer",
-      "sets": []
+      "sets": [
+        "Martial Arts Powers"
+      ]
     },
     {
       "id": 43,
@@ -23590,7 +23340,9 @@
       "stat_hook": null,
       "notes": null,
       "owner": "Designer",
-      "sets": []
+      "sets": [
+        "Martial Arts Powers"
+      ]
     },
     {
       "id": 104,
@@ -24894,7 +24646,9 @@
       "stat_hook": null,
       "notes": null,
       "owner": "Designer",
-      "sets": []
+      "sets": [
+        "Martial Arts Powers"
+      ]
     },
     {
       "id": 168,
@@ -25194,7 +24948,9 @@
       "stat_hook": null,
       "notes": null,
       "owner": "Designer",
-      "sets": []
+      "sets": [
+        "Martial Arts Powers"
+      ]
     },
     {
       "id": 908,
@@ -25553,7 +25309,9 @@
       "stat_hook": null,
       "notes": null,
       "owner": "Designer",
-      "sets": []
+      "sets": [
+        "Martial Arts Powers"
+      ]
     },
     {
       "id": 206,
@@ -26587,7 +26345,9 @@
       "stat_hook": null,
       "notes": null,
       "owner": "Designer",
-      "sets": []
+      "sets": [
+        "Martial Arts Powers"
+      ]
     },
     {
       "id": 254,
@@ -28299,7 +28059,9 @@
       "stat_hook": null,
       "notes": null,
       "owner": "Designer",
-      "sets": []
+      "sets": [
+        "Martial Arts Powers"
+      ]
     },
     {
       "id": 348,
@@ -28599,7 +28361,9 @@
       "stat_hook": null,
       "notes": null,
       "owner": "Designer",
-      "sets": []
+      "sets": [
+        "Martial Arts Powers"
+      ]
     },
     {
       "id": 362,
@@ -28789,7 +28553,9 @@
       "stat_hook": null,
       "notes": null,
       "owner": "Designer",
-      "sets": []
+      "sets": [
+        "Martial Arts Powers"
+      ]
     },
     {
       "id": 371,
@@ -29366,7 +29132,9 @@
       "stat_hook": null,
       "notes": null,
       "owner": "Designer",
-      "sets": []
+      "sets": [
+        "Martial Arts Powers"
+      ]
     },
     {
       "id": 909,
@@ -30882,7 +30650,9 @@
       "stat_hook": null,
       "notes": null,
       "owner": "Designer",
-      "sets": []
+      "sets": [
+        "Martial Arts Powers"
+      ]
     },
     {
       "id": 480,
@@ -31554,7 +31324,9 @@
       "stat_hook": null,
       "notes": null,
       "owner": "Designer",
-      "sets": []
+      "sets": [
+        "Martial Arts Powers"
+      ]
     },
     {
       "id": 525,
@@ -32517,7 +32289,7 @@
       "genres": [
         "SciFi"
       ],
-      "path": "[\"Mensi (mso) {Free}\", \"Zin-Shee Female (mso) {Free}\"]",
+      "path": "[\"Zin-Shee Female (mso)\",\"Mensi (mso) {Free}\"]",
       "discipline": "Mental",
       "stat_hook": null,
       "notes": "This creates a natural cognitive dampening field. The character receives an enhanced roll (+3) on all Will Power and saving checks made to resist the effects of all forms of psionic manipulation and mind blasts.",
@@ -32534,7 +32306,7 @@
       "genres": [
         "SciFi"
       ],
-      "path": "[\"Warlock (mso) {Free}\", \"Shanask (mso) {Free}\"]",
+      "path": "[\"Shanask (mso)\",\"Warlock (mso) {Free}\"]",
       "discipline": "Mental",
       "stat_hook": null,
       "notes": "This rare enhancement creates an active disruption field against the magical energies of the Sorce. The character receives an enhanced roll (+3) on all Luck checks made to resist the reality-bending spells of sorcists.",
@@ -32820,7 +32592,9 @@
       "stat_hook": null,
       "notes": null,
       "owner": "Designer",
-      "sets": []
+      "sets": [
+        "Martial Arts Powers"
+      ]
     },
     {
       "id": 588,
@@ -33819,7 +33593,9 @@
       "stat_hook": null,
       "notes": null,
       "owner": "Designer",
-      "sets": []
+      "sets": [
+        "Martial Arts Powers"
+      ]
     },
     {
       "id": 645,
@@ -34483,7 +34259,9 @@
       "stat_hook": null,
       "notes": null,
       "owner": "Designer",
-      "sets": []
+      "sets": [
+        "Martial Arts Powers"
+      ]
     },
     {
       "id": 678,
@@ -35320,7 +35098,9 @@
       "stat_hook": null,
       "notes": null,
       "owner": "Designer",
-      "sets": []
+      "sets": [
+        "Martial Arts Powers"
+      ]
     },
     {
       "id": 721,
@@ -35857,7 +35637,9 @@
       "stat_hook": null,
       "notes": null,
       "owner": "Designer",
-      "sets": []
+      "sets": [
+        "Martial Arts Powers"
+      ]
     },
     {
       "id": 986,
@@ -37106,7 +36888,9 @@
       "stat_hook": null,
       "notes": null,
       "owner": "Designer",
-      "sets": []
+      "sets": [
+        "Martial Arts Powers"
+      ]
     },
     {
       "id": 824,
@@ -46393,7 +46177,7 @@
         "SciFi"
       ],
       "discipline": "Tech",
-      "path": "[\"Ship Officer Astrogation (mso)\", \"Ship Officer Comms (mso)\", \"Ship Officer Engineer (mso)\", \"Ship Officer Fighter Pilot (mso)\", \"Ship Officer Helm (mso)\", \"Ship Officer Medic (mso)\", \"Ship Officer Programmer (mso)\", \"Ship Officer Scientist (mso)\", \"Ship Officer Tactical (mso)\", \"Marine (mso) {Free}\", \"Warrior (mso) {Free}\", \"Dragon (mso) {Free}\", \"Mutak (mso) {Free}\", \"Destron (mso) {Free}\", \"Mensi (mso) {Free}\", \"Warlock (mso) {Free}\", \"Cyber Warrior (mso) {Free}\", \"Bio-Gunner (mso) {Free}\", \"Bio-Warrior (mso) {Free}\"]",
+      "path": "[\"Ship Officer Astrogation (mso)\",\"Ship Officer Comms (mso)\",\"Ship Officer Engineer (mso)\",\"Ship Officer Fighter Pilot (mso)\",\"Ship Officer Helm (mso)\",\"Ship Officer Medic (mso)\",\"Ship Officer Programmer (mso)\",\"Ship Officer Scientist (mso)\",\"Ship Officer Tactical (mso)\",\"Bio-Gunner (mso)\",\"Bio-Warrior (mso)\",\"Cyber Warrior (mso)\",\"Destron (mso)\",\"Dragon (mso)\",\"Marine (mso)\",\"Mensi (mso)\",\"Mutak (mso)\",\"Warlock (mso)\",\"Warrior (mso) {Free}\"]",
       "notes": null,
       "created_at": "2026-09-05T23:12:07.946889+00:00",
       "owner": "Designer",
@@ -48632,7 +48416,7 @@
         "SciFi"
       ],
       "discipline": "Psionics",
-      "path": "[\"Mensi (mso) {Free}\"]",
+      "path": "Mensi (mso) {Free}",
       "notes": null,
       "created_at": "2026-09-05T23:12:08.03246+00:00",
       "owner": "Designer",
@@ -48646,7 +48430,7 @@
         "SciFi"
       ],
       "discipline": "Somatics",
-      "path": "[\"Mutak (mso) {Free}\"]",
+      "path": "Mutak (mso) {Free}",
       "notes": null,
       "created_at": "2026-09-05T23:12:08.03246+00:00",
       "owner": "Designer",
@@ -49444,7 +49228,7 @@
         "SciFi"
       ],
       "discipline": "Void Magic",
-      "path": "[\"Warlock (mso) {Free}\"]",
+      "path": "Warlock (mso) {Free}",
       "notes": null,
       "created_at": "2026-09-05T23:12:08.03246+00:00",
       "owner": "Designer",
@@ -50223,7 +50007,7 @@
         "SciFi"
       ],
       "discipline": "Archaic",
-      "path": "Dragon (mso) {Free}",
+      "path": "",
       "notes": "Dragons may become skilled in all Archaic Weapons.",
       "created_at": "2026-09-05T23:12:09.383227+00:00",
       "cost": "0s",
@@ -50376,7 +50160,7 @@
         "SciFi"
       ],
       "discipline": "BioTech",
-      "path": "[\"Bio-Gunner (mso) {Free}\", \"Bio-Warrior (mso) {Free}\"]",
+      "path": "",
       "notes": "Bio-Gunners may become skilled in all BioTech Armor.",
       "created_at": "2026-09-05T23:12:09.293796+00:00",
       "cost": "0s",
@@ -50393,7 +50177,7 @@
         "SciFi"
       ],
       "discipline": "BioTech",
-      "path": "Bio-Warrior (mso) {Free}",
+      "path": "",
       "notes": "Bio-Warriors may become skilled in all BioTech Melee and Body Weapons.",
       "created_at": "2026-09-05T23:12:09.383227+00:00",
       "cost": "0s",
@@ -50410,7 +50194,7 @@
         "SciFi"
       ],
       "discipline": "BioTech",
-      "path": "Bio-Gunner (mso) {Free}",
+      "path": "",
       "notes": "Bio-Gunners may become skilled in all BioTech Ranged and Hurled Weapons.",
       "created_at": "2026-09-05T23:12:09.293796+00:00",
       "cost": "0s",
@@ -50735,7 +50519,7 @@
         "SciFi"
       ],
       "discipline": "CyberTech",
-      "path": "Cyber Warrior (mso) {Free}",
+      "path": "",
       "notes": "Cyber Warriors may become skilled in all CyberTech Armor Implants.",
       "created_at": "2026-09-05T23:12:09.383227+00:00",
       "cost": "0s",
@@ -50752,7 +50536,7 @@
         "SciFi"
       ],
       "discipline": "CyberTech",
-      "path": "Cyber Warrior (mso) {Free}",
+      "path": "",
       "notes": "Cyber Warriors may become skilled in all CyberTech Weapons and Weapon Implants.",
       "created_at": "2026-09-05T23:12:09.383227+00:00",
       "cost": "0s",
@@ -51315,13 +51099,15 @@
         "SciFi"
       ],
       "discipline": "General",
-      "path": "[\"Marine (mso) {Free}\", \"Warrior (mso) {Free}\", \"Dragon (mso) {Free}\", \"Mutak (mso) {Free}\", \"Destron (mso) {Free}\", \"Mensi (mso) {Free}\", \"Warlock (mso) {Free}\", \"Cyber Warrior (mso) {Free}\", \"Bio-Gunner (mso) {Free}\", \"Bio-Warrior (mso) {Free}\"]",
+      "path": "",
       "notes": "Can speak: GuildSpeak",
       "created_at": "2026-09-05T23:12:09.293796+00:00",
       "cost": "0s",
       "belongs_to": null,
       "owner": "Designer",
-      "sets": []
+      "sets": [
+        "Dha Traits"
+      ]
     },
     {
       "id": 528,
@@ -51474,7 +51260,7 @@
         "SciFi"
       ],
       "discipline": "Martial",
-      "path": "Dragon (mso) {Free}",
+      "path": "",
       "notes": "Dragons may become skilled in all Martial Arts Melee and Monastic Weapons.",
       "created_at": "2026-09-05T23:12:09.383227+00:00",
       "cost": "0s",
@@ -51934,7 +51720,7 @@
         "SciFi"
       ],
       "discipline": "Tech",
-      "path": "Mensi (mso) {Free}",
+      "path": "",
       "notes": "Character may become skilled in all Psionic powers.",
       "created_at": "2026-09-05T23:12:09.383227+00:00",
       "cost": "0s",
@@ -52082,7 +51868,7 @@
         "SciFi"
       ],
       "discipline": "Somatics",
-      "path": "Mutak (mso) {Free}",
+      "path": "",
       "notes": "Character may become skilled in all Psychosomatic powers.",
       "created_at": "2026-09-05T23:12:09.383227+00:00",
       "cost": "0s",
@@ -52116,7 +51902,7 @@
         "SciFi"
       ],
       "discipline": "CyberTech",
-      "path": "Cyber Warrior (mso)",
+      "path": "Cyber Warrior (mso) {Free}",
       "notes": "Progression within the chapter ranks: 0-Initiate, 1-Mech-1, 2-Mech-2, 3-Mech-3, 4-Mech-4, 5-Mech-5, 6-Cyborg-1, 7-Cyborg-2, 8-Cyborg-3, 9-Cyber Knight, 10+-Cyber Lord (Chapter Master title).",
       "created_at": "2026-09-05T23:12:09.293796+00:00",
       "cost": "0s",
@@ -52492,13 +52278,15 @@
         "SciFi"
       ],
       "discipline": "General",
-      "path": "[\"Marine (mso) {Free}\", \"Warrior (mso) {Free}\", \"Dragon (mso) {Free}\", \"Mutak (mso) {Free}\", \"Destron (mso) {Free}\", \"Mensi (mso) {Free}\", \"Warlock (mso) {Free}\", \"Cyber Warrior (mso) {Free}\", \"Bio-Gunner (mso) {Free}\", \"Bio-Warrior (mso) {Free}\"]",
+      "path": "",
       "notes": "May pick ONE Ship Officer Kit and Learn for Free.",
       "created_at": "2026-09-05T23:12:09.293796+00:00",
       "cost": "0s",
       "belongs_to": null,
       "owner": "Designer",
-      "sets": []
+      "sets": [
+        "Dha Traits"
+      ]
     },
     {
       "id": 387,
@@ -52873,7 +52661,7 @@
         "SciFi"
       ],
       "discipline": "Tech",
-      "path": "Destron (mso) {Free}",
+      "path": "",
       "notes": "Destrons may become skilled in all Heavy Tech Armor.",
       "created_at": "2026-09-05T23:12:09.383227+00:00",
       "cost": "0s",
@@ -52890,7 +52678,7 @@
         "SciFi"
       ],
       "discipline": "Tech",
-      "path": "Warrior (mso) {Free}",
+      "path": "",
       "notes": "Warriors may become skilled in all Tech Armor suits.",
       "created_at": "2026-09-05T23:12:09.383227+00:00",
       "cost": "0s",
@@ -52907,7 +52695,7 @@
         "SciFi"
       ],
       "discipline": "Tech",
-      "path": "Marine (mso) {Free}",
+      "path": "",
       "notes": "Marines may become skilled in all Medium AR Tech Armor.",
       "created_at": "2026-09-05T23:12:09.383227+00:00",
       "cost": "0s",
@@ -52924,7 +52712,7 @@
         "SciFi"
       ],
       "discipline": "Tech",
-      "path": "Destron (mso) {Free}",
+      "path": "",
       "notes": "Destrons may become skilled in all Explosive Ordnance and Heavy Munitions.",
       "created_at": "2026-09-05T23:12:09.383227+00:00",
       "cost": "0s",
@@ -52941,7 +52729,7 @@
         "SciFi"
       ],
       "discipline": "Tech",
-      "path": "Destron (mso) {Free}",
+      "path": "",
       "notes": "Destrons may become skilled in all Heavy-Ranged Tech Weapons.",
       "created_at": "2026-09-05T23:12:09.383227+00:00",
       "cost": "0s",
@@ -52958,7 +52746,7 @@
         "SciFi"
       ],
       "discipline": "Tech",
-      "path": "Warrior (mso) {Free}",
+      "path": "",
       "notes": "Warriors may become skilled in all Tech Melee and Exotic Polearm Weapons.",
       "created_at": "2026-09-05T23:12:09.383227+00:00",
       "cost": "0s",
@@ -52975,7 +52763,7 @@
         "SciFi"
       ],
       "discipline": "Tech",
-      "path": "Marine (mso) {Free}",
+      "path": "",
       "notes": "Marines may become skilled in all Medium Tech Ranged Firearms.",
       "created_at": "2026-09-05T23:12:09.383227+00:00",
       "cost": "0s",
@@ -53622,7 +53410,7 @@
         "SciFi"
       ],
       "discipline": "Archaic",
-      "path": "Dragon (mso) {Free}",
+      "path": "",
       "notes": "Dragons may become skilled in all Archaic Weapons.",
       "created_at": "2026-09-05T23:12:09.383227+00:00",
       "cost": "0s",
@@ -53775,7 +53563,7 @@
         "SciFi"
       ],
       "discipline": "BioTech",
-      "path": "[\"Bio-Gunner (mso) {Free}\", \"Bio-Warrior (mso) {Free}\"]",
+      "path": "",
       "notes": "Bio-Gunners may become skilled in all BioTech Armor.",
       "created_at": "2026-09-05T23:12:09.293796+00:00",
       "cost": "0s",
@@ -53792,7 +53580,7 @@
         "SciFi"
       ],
       "discipline": "BioTech",
-      "path": "Bio-Warrior (mso) {Free}",
+      "path": "",
       "notes": "Bio-Warriors may become skilled in all BioTech Melee and Body Weapons.",
       "created_at": "2026-09-05T23:12:09.383227+00:00",
       "cost": "0s",
@@ -53809,7 +53597,7 @@
         "SciFi"
       ],
       "discipline": "BioTech",
-      "path": "Bio-Gunner (mso) {Free}",
+      "path": "",
       "notes": "Bio-Gunners may become skilled in all BioTech Ranged and Hurled Weapons.",
       "created_at": "2026-09-05T23:12:09.293796+00:00",
       "cost": "0s",
@@ -54134,7 +53922,7 @@
         "SciFi"
       ],
       "discipline": "CyberTech",
-      "path": "Cyber Warrior (mso) {Free}",
+      "path": "",
       "notes": "Cyber Warriors may become skilled in all CyberTech Armor Implants.",
       "created_at": "2026-09-05T23:12:09.383227+00:00",
       "cost": "0s",
@@ -54151,7 +53939,7 @@
         "SciFi"
       ],
       "discipline": "CyberTech",
-      "path": "Cyber Warrior (mso) {Free}",
+      "path": "",
       "notes": "Cyber Warriors may become skilled in all CyberTech Weapons and Weapon Implants.",
       "created_at": "2026-09-05T23:12:09.383227+00:00",
       "cost": "0s",
@@ -54714,13 +54502,15 @@
         "SciFi"
       ],
       "discipline": "General",
-      "path": "[\"Marine (mso) {Free}\", \"Warrior (mso) {Free}\", \"Dragon (mso) {Free}\", \"Mutak (mso) {Free}\", \"Destron (mso) {Free}\", \"Mensi (mso) {Free}\", \"Warlock (mso) {Free}\", \"Cyber Warrior (mso) {Free}\", \"Bio-Gunner (mso) {Free}\", \"Bio-Warrior (mso) {Free}\"]",
+      "path": "",
       "notes": "Can speak: GuildSpeak",
       "created_at": "2026-09-05T23:12:09.293796+00:00",
       "cost": "0s",
       "belongs_to": null,
       "owner": "Designer",
-      "sets": []
+      "sets": [
+        "Dha Traits"
+      ]
     },
     {
       "id": 528,
@@ -54873,7 +54663,7 @@
         "SciFi"
       ],
       "discipline": "Martial",
-      "path": "Dragon (mso) {Free}",
+      "path": "",
       "notes": "Dragons may become skilled in all Martial Arts Melee and Monastic Weapons.",
       "created_at": "2026-09-05T23:12:09.383227+00:00",
       "cost": "0s",
@@ -55333,7 +55123,7 @@
         "SciFi"
       ],
       "discipline": "Tech",
-      "path": "Mensi (mso) {Free}",
+      "path": "",
       "notes": "Character may become skilled in all Psionic powers.",
       "created_at": "2026-09-05T23:12:09.383227+00:00",
       "cost": "0s",
@@ -55481,7 +55271,7 @@
         "SciFi"
       ],
       "discipline": "Somatics",
-      "path": "Mutak (mso) {Free}",
+      "path": "",
       "notes": "Character may become skilled in all Psychosomatic powers.",
       "created_at": "2026-09-05T23:12:09.383227+00:00",
       "cost": "0s",
@@ -55515,7 +55305,7 @@
         "SciFi"
       ],
       "discipline": "CyberTech",
-      "path": "Cyber Warrior (mso)",
+      "path": "Cyber Warrior (mso) {Free}",
       "notes": "Progression within the chapter ranks: 0-Initiate, 1-Mech-1, 2-Mech-2, 3-Mech-3, 4-Mech-4, 5-Mech-5, 6-Cyborg-1, 7-Cyborg-2, 8-Cyborg-3, 9-Cyber Knight, 10+-Cyber Lord (Chapter Master title).",
       "created_at": "2026-09-05T23:12:09.293796+00:00",
       "cost": "0s",
@@ -55891,13 +55681,15 @@
         "SciFi"
       ],
       "discipline": "General",
-      "path": "[\"Marine (mso) {Free}\", \"Warrior (mso) {Free}\", \"Dragon (mso) {Free}\", \"Mutak (mso) {Free}\", \"Destron (mso) {Free}\", \"Mensi (mso) {Free}\", \"Warlock (mso) {Free}\", \"Cyber Warrior (mso) {Free}\", \"Bio-Gunner (mso) {Free}\", \"Bio-Warrior (mso) {Free}\"]",
+      "path": "",
       "notes": "May pick ONE Ship Officer Kit and Learn for Free.",
       "created_at": "2026-09-05T23:12:09.293796+00:00",
       "cost": "0s",
       "belongs_to": null,
       "owner": "Designer",
-      "sets": []
+      "sets": [
+        "Dha Traits"
+      ]
     },
     {
       "id": 387,
@@ -56272,7 +56064,7 @@
         "SciFi"
       ],
       "discipline": "Tech",
-      "path": "Destron (mso) {Free}",
+      "path": "",
       "notes": "Destrons may become skilled in all Heavy Tech Armor.",
       "created_at": "2026-09-05T23:12:09.383227+00:00",
       "cost": "0s",
@@ -56289,7 +56081,7 @@
         "SciFi"
       ],
       "discipline": "Tech",
-      "path": "Warrior (mso) {Free}",
+      "path": "",
       "notes": "Warriors may become skilled in all Tech Armor suits.",
       "created_at": "2026-09-05T23:12:09.383227+00:00",
       "cost": "0s",
@@ -56306,7 +56098,7 @@
         "SciFi"
       ],
       "discipline": "Tech",
-      "path": "Marine (mso) {Free}",
+      "path": "",
       "notes": "Marines may become skilled in all Medium AR Tech Armor.",
       "created_at": "2026-09-05T23:12:09.383227+00:00",
       "cost": "0s",
@@ -56323,7 +56115,7 @@
         "SciFi"
       ],
       "discipline": "Tech",
-      "path": "Destron (mso) {Free}",
+      "path": "",
       "notes": "Destrons may become skilled in all Explosive Ordnance and Heavy Munitions.",
       "created_at": "2026-09-05T23:12:09.383227+00:00",
       "cost": "0s",
@@ -56340,7 +56132,7 @@
         "SciFi"
       ],
       "discipline": "Tech",
-      "path": "Destron (mso) {Free}",
+      "path": "",
       "notes": "Destrons may become skilled in all Heavy-Ranged Tech Weapons.",
       "created_at": "2026-09-05T23:12:09.383227+00:00",
       "cost": "0s",
@@ -56357,7 +56149,7 @@
         "SciFi"
       ],
       "discipline": "Tech",
-      "path": "Warrior (mso) {Free}",
+      "path": "",
       "notes": "Warriors may become skilled in all Tech Melee and Exotic Polearm Weapons.",
       "created_at": "2026-09-05T23:12:09.383227+00:00",
       "cost": "0s",
@@ -56374,7 +56166,7 @@
         "SciFi"
       ],
       "discipline": "Tech",
-      "path": "Marine (mso) {Free}",
+      "path": "",
       "notes": "Marines may become skilled in all Medium Tech Ranged Firearms.",
       "created_at": "2026-09-05T23:12:09.383227+00:00",
       "cost": "0s",
@@ -57021,7 +56813,7 @@
         "SciFi"
       ],
       "discipline": "Archaic",
-      "path": "Dragon (mso) {Free}",
+      "path": "",
       "notes": "Dragons may become skilled in all Archaic Weapons.",
       "created_at": "2026-09-05T23:12:09.383227+00:00",
       "cost": "0s",
@@ -57174,7 +56966,7 @@
         "SciFi"
       ],
       "discipline": "BioTech",
-      "path": "[\"Bio-Gunner (mso) {Free}\", \"Bio-Warrior (mso) {Free}\"]",
+      "path": "",
       "notes": "Bio-Gunners may become skilled in all BioTech Armor.",
       "created_at": "2026-09-05T23:12:09.293796+00:00",
       "cost": "0s",
@@ -57191,7 +56983,7 @@
         "SciFi"
       ],
       "discipline": "BioTech",
-      "path": "Bio-Warrior (mso) {Free}",
+      "path": "",
       "notes": "Bio-Warriors may become skilled in all BioTech Melee and Body Weapons.",
       "created_at": "2026-09-05T23:12:09.383227+00:00",
       "cost": "0s",
@@ -57208,7 +57000,7 @@
         "SciFi"
       ],
       "discipline": "BioTech",
-      "path": "Bio-Gunner (mso) {Free}",
+      "path": "",
       "notes": "Bio-Gunners may become skilled in all BioTech Ranged and Hurled Weapons.",
       "created_at": "2026-09-05T23:12:09.293796+00:00",
       "cost": "0s",
@@ -57533,7 +57325,7 @@
         "SciFi"
       ],
       "discipline": "CyberTech",
-      "path": "Cyber Warrior (mso) {Free}",
+      "path": "",
       "notes": "Cyber Warriors may become skilled in all CyberTech Armor Implants.",
       "created_at": "2026-09-05T23:12:09.383227+00:00",
       "cost": "0s",
@@ -57550,7 +57342,7 @@
         "SciFi"
       ],
       "discipline": "CyberTech",
-      "path": "Cyber Warrior (mso) {Free}",
+      "path": "",
       "notes": "Cyber Warriors may become skilled in all CyberTech Weapons and Weapon Implants.",
       "created_at": "2026-09-05T23:12:09.383227+00:00",
       "cost": "0s",
@@ -58113,13 +57905,15 @@
         "SciFi"
       ],
       "discipline": "General",
-      "path": "[\"Marine (mso) {Free}\", \"Warrior (mso) {Free}\", \"Dragon (mso) {Free}\", \"Mutak (mso) {Free}\", \"Destron (mso) {Free}\", \"Mensi (mso) {Free}\", \"Warlock (mso) {Free}\", \"Cyber Warrior (mso) {Free}\", \"Bio-Gunner (mso) {Free}\", \"Bio-Warrior (mso) {Free}\"]",
+      "path": "",
       "notes": "Can speak: GuildSpeak",
       "created_at": "2026-09-05T23:12:09.293796+00:00",
       "cost": "0s",
       "belongs_to": null,
       "owner": "Designer",
-      "sets": []
+      "sets": [
+        "Dha Traits"
+      ]
     },
     {
       "id": 528,
@@ -58272,7 +58066,7 @@
         "SciFi"
       ],
       "discipline": "Martial",
-      "path": "Dragon (mso) {Free}",
+      "path": "",
       "notes": "Dragons may become skilled in all Martial Arts Melee and Monastic Weapons.",
       "created_at": "2026-09-05T23:12:09.383227+00:00",
       "cost": "0s",
@@ -58732,7 +58526,7 @@
         "SciFi"
       ],
       "discipline": "Tech",
-      "path": "Mensi (mso) {Free}",
+      "path": "",
       "notes": "Character may become skilled in all Psionic powers.",
       "created_at": "2026-09-05T23:12:09.383227+00:00",
       "cost": "0s",
@@ -58880,7 +58674,7 @@
         "SciFi"
       ],
       "discipline": "Somatics",
-      "path": "Mutak (mso) {Free}",
+      "path": "",
       "notes": "Character may become skilled in all Psychosomatic powers.",
       "created_at": "2026-09-05T23:12:09.383227+00:00",
       "cost": "0s",
@@ -58914,7 +58708,7 @@
         "SciFi"
       ],
       "discipline": "CyberTech",
-      "path": "Cyber Warrior (mso)",
+      "path": "Cyber Warrior (mso) {Free}",
       "notes": "Progression within the chapter ranks: 0-Initiate, 1-Mech-1, 2-Mech-2, 3-Mech-3, 4-Mech-4, 5-Mech-5, 6-Cyborg-1, 7-Cyborg-2, 8-Cyborg-3, 9-Cyber Knight, 10+-Cyber Lord (Chapter Master title).",
       "created_at": "2026-09-05T23:12:09.293796+00:00",
       "cost": "0s",
@@ -59290,13 +59084,15 @@
         "SciFi"
       ],
       "discipline": "General",
-      "path": "[\"Marine (mso) {Free}\", \"Warrior (mso) {Free}\", \"Dragon (mso) {Free}\", \"Mutak (mso) {Free}\", \"Destron (mso) {Free}\", \"Mensi (mso) {Free}\", \"Warlock (mso) {Free}\", \"Cyber Warrior (mso) {Free}\", \"Bio-Gunner (mso) {Free}\", \"Bio-Warrior (mso) {Free}\"]",
+      "path": "",
       "notes": "May pick ONE Ship Officer Kit and Learn for Free.",
       "created_at": "2026-09-05T23:12:09.293796+00:00",
       "cost": "0s",
       "belongs_to": null,
       "owner": "Designer",
-      "sets": []
+      "sets": [
+        "Dha Traits"
+      ]
     },
     {
       "id": 387,
@@ -59671,7 +59467,7 @@
         "SciFi"
       ],
       "discipline": "Tech",
-      "path": "Destron (mso) {Free}",
+      "path": "",
       "notes": "Destrons may become skilled in all Heavy Tech Armor.",
       "created_at": "2026-09-05T23:12:09.383227+00:00",
       "cost": "0s",
@@ -59688,7 +59484,7 @@
         "SciFi"
       ],
       "discipline": "Tech",
-      "path": "Warrior (mso) {Free}",
+      "path": "",
       "notes": "Warriors may become skilled in all Tech Armor suits.",
       "created_at": "2026-09-05T23:12:09.383227+00:00",
       "cost": "0s",
@@ -59705,7 +59501,7 @@
         "SciFi"
       ],
       "discipline": "Tech",
-      "path": "Marine (mso) {Free}",
+      "path": "",
       "notes": "Marines may become skilled in all Medium AR Tech Armor.",
       "created_at": "2026-09-05T23:12:09.383227+00:00",
       "cost": "0s",
@@ -59722,7 +59518,7 @@
         "SciFi"
       ],
       "discipline": "Tech",
-      "path": "Destron (mso) {Free}",
+      "path": "",
       "notes": "Destrons may become skilled in all Explosive Ordnance and Heavy Munitions.",
       "created_at": "2026-09-05T23:12:09.383227+00:00",
       "cost": "0s",
@@ -59739,7 +59535,7 @@
         "SciFi"
       ],
       "discipline": "Tech",
-      "path": "Destron (mso) {Free}",
+      "path": "",
       "notes": "Destrons may become skilled in all Heavy-Ranged Tech Weapons.",
       "created_at": "2026-09-05T23:12:09.383227+00:00",
       "cost": "0s",
@@ -59756,7 +59552,7 @@
         "SciFi"
       ],
       "discipline": "Tech",
-      "path": "Warrior (mso) {Free}",
+      "path": "",
       "notes": "Warriors may become skilled in all Tech Melee and Exotic Polearm Weapons.",
       "created_at": "2026-09-05T23:12:09.383227+00:00",
       "cost": "0s",
@@ -59773,7 +59569,7 @@
         "SciFi"
       ],
       "discipline": "Tech",
-      "path": "Marine (mso) {Free}",
+      "path": "",
       "notes": "Marines may become skilled in all Medium Tech Ranged Firearms.",
       "created_at": "2026-09-05T23:12:09.383227+00:00",
       "cost": "0s",
@@ -60480,7 +60276,7 @@
       "notes": "Range: Medium. A belly gun is torn from a strange knotted plant formed when garga beetles infest certain Kryllian trees, attracting belly spiders who spin a cocoon between two branches. Special secretions attract the garga beetles who scramble into the spider's den to be stung and stored as food. From time to time the spider defensively extrudes a glob of highly caustic (acidic) waste and hard, spiny beetle parts in a deadly burst of slimy filth that sears flesh and scars metal.",
       "pic": null,
       "domain": "BioTech",
-      "path": "[\"BioTech Weapons (mso)\", \"BioTech Ranged Weapons (mso)\", \"Bio-Gunner (mso) {Free}\"]",
+      "path": "[\"BioTech Weapons (mso)\",\"BioTech Ranged Weapons (mso)\",\"Bio-Gunner (mso) {Free}\"]",
       "belongs_to": null,
       "owner": "Designer",
       "sets": [
@@ -60574,7 +60370,7 @@
       "notes": "Range: 1. Adolescent bioblades are 11-21 years old and vary from two to four feet in length. Bioblades are living melee weapons which are grown to specific users, and gain combat abilities as they mature deep within the recesses of the Kryll hive. If broken or damaged in combat, regenerates blade mass at a rate of one inch per day. Need not be sharpened, but must be fed once per week by being placed in rich damp soil for at least two hours.",
       "pic": null,
       "domain": "BioTech",
-      "path": "[\"BioTech Weapons (mso)\", \"BioTech Melee Weapons (mso)\", \"Bio-Warrior (mso) {Free}\"]",
+      "path": "[\"BioTech Weapons (mso)\",\"BioTech Melee Weapons (mso)\",\"Bio-Warrior (mso) {Free}\"]",
       "belongs_to": null,
       "owner": "Designer",
       "sets": [
@@ -61083,7 +60879,7 @@
       "notes": "Range: 1sq Kick, punch, bite, tackle, and natural unarmed combat strikes.",
       "pic": null,
       "domain": "Archaic",
-      "path": "[\"Base\", \"Archaic Weapons (mso)\", \"Dragon (mso) {Free}\", \"Martial Artist (mso) {Free}\"]",
+      "path": "[\"Base\",\"Archaic Weapons (mso)\",\"Martial Artist (mso)\",\"Dragon (mso) {Free}\"]",
       "belongs_to": null,
       "owner": "Designer",
       "sets": [
@@ -61290,7 +61086,7 @@
       "notes": "Range: Short. This weapon is one of the ultimate survival devices, and a triumph of Anthropos design. A combat knife has an 8-inch blade edged along one side and serrated along the other, with a 6-inch hollow grip. The grip includes a digital compass which readjusts itself for gravity, a 10-sq spool of Ultrafilament line, one genesis capsule, one vial of death poison, two nutritabs, and a small distress transponder.",
       "pic": null,
       "domain": "Tech",
-      "path": "[\"Tech Melee Weapons (mso)\", \"Archaic Weapons (mso)\", \"Marine (mso) {Free}\", \"Anthropos Racial Weapons (mso)\"]",
+      "path": "[\"Tech Melee Weapons (mso)\",\"Archaic Weapons (mso)\",\"Anthropos Racial Weapons (mso)\",\"Marine (mso) {Free}\"]",
       "belongs_to": null,
       "owner": "Designer",
       "sets": [
@@ -64181,7 +63977,7 @@
       "notes": "Range: 1. A foot-long matte black cylinder housing a deep red gemstone focus. When activated by an attuned wielder, it projects a five-foot blade of pure coruscating magical energy that shears cleanly through matter.",
       "pic": null,
       "domain": "Void Magic",
-      "path": "[\"Warlock (mso) {Free}\", \"Shanask Racial Weapons (mso)\"]",
+      "path": "[\"Shanask Racial Weapons (mso)\",\"Warlock (mso) {Free}\"]",
       "belongs_to": null,
       "owner": "Designer",
       "sets": [
@@ -64411,7 +64207,7 @@
       "notes": "Range: 1. A standard military blade measuring approximately three feet in length, widely favored by boarding parties, shipboard marines, and martial orders across Known Space for close-quarters combat.",
       "pic": null,
       "domain": "Archaic",
-      "path": "[\"Tech Melee Weapons (mso)\", \"Archaic Weapons (mso)\", \"Warrior (mso) {Free}\", \"Calemoran Racial Weapons (mso)\"]",
+      "path": "[\"Tech Melee Weapons (mso)\",\"Archaic Weapons (mso)\",\"Calemoran Racial Weapons (mso)\",\"Warrior (mso) {Free}\"]",
       "belongs_to": null,
       "owner": "Designer",
       "sets": [
@@ -64857,7 +64653,7 @@
       "notes": "Range: Medium. A devastating six-barreled rotary heavy plasma cannon equipped with a pressurized liquid-nitrogen cooling jacket. Requires a backpack plasma precipitator pack to feed its rapid cyclic rate.",
       "pic": null,
       "domain": "Tech",
-      "path": "[\"Tech Heavy Weapons (mso)\", \"Tech Heavy Ranged Weapons (mso)\", \"Destron (mso) {Free}\"]",
+      "path": "[\"Tech Heavy Weapons (mso)\",\"Tech Heavy Ranged Weapons (mso)\",\"Destron (mso) {Free}\"]",
       "belongs_to": null,
       "owner": "Designer",
       "sets": [
@@ -65112,7 +64908,7 @@
       "notes": "Range: 1. A set of three razor-edged steel blades mounted to a plasteel wrist gauntlet and forearm harness, extending outward between the knuckles. Retracts flush into the forearm housing to leave the hands free for handling equipment.",
       "pic": null,
       "domain": "Tech",
-      "path": "[\"Tech Melee Weapons (mso)\", \"Archaic Weapons (mso)\", \"Warrior (mso) {Free}\", \"Zin-Shee  Racial Weapons (mso)\"]",
+      "path": "[\"Tech Melee Weapons (mso)\",\"Archaic Weapons (mso)\",\"Zin-Shee  Racial Weapons (mso)\",\"Warrior (mso) {Free}\"]",
       "belongs_to": null,
       "owner": "Designer",
       "sets": [
@@ -65884,7 +65680,7 @@
       "notes": "Heavily armored, power assisted, and armed to the teeth, the Destron warrior is a walking engine of destruction, easily capable of shrugging off attacks from even the deadliest heavy weapon. Standard systems (included free) are compensators, two external and one internal hard point, sealed, two flood lights, genjector, joint locks, strength enhancers, targeting computer, communicator kit, ultralock boot kit, and macrovisor kit.",
       "pic": null,
       "domain": "Tech",
-      "path": "[\"Tech Suit Armor (mso)\", \"Tech Armor Heavy (mso)\", \"Destron (mso) {Free}\"]",
+      "path": "[\"Tech Suit Armor (mso)\",\"Tech Armor Heavy (mso)\",\"Destron (mso) {Free}\"]",
       "belongs_to": null,
       "owner": "Designer",
       "sets": [
@@ -66363,7 +66159,7 @@
       "notes": "Leaf armor is a sort of symbiotic vine, which grows upon the host’s body (although it must be watered occasionally). The vine produces layers of tough, shingle-like leaves which absorb damage and fall away as they are hit. A single plant easily produces enough leaves to last during an adventure, and grows them back in a matter of days.",
       "pic": null,
       "domain": "BioTech",
-      "path": "[\"BioTech Armor (mso)\", \"Bio-Gunner (mso) {Free}\"]",
+      "path": "[\"BioTech Armor (mso)\",\"Bio-Gunner (mso) {Free}\"]",
       "belongs_to": null,
       "owner": "Designer",
       "sets": [
@@ -66446,7 +66242,7 @@
       "notes": "This heavy, well-defended armor is known throughout the Guild, and is the standard protection for the legendary known space marines. Standard systems (included free) are compensators, one external and one internal hard point, internal environment, sealed, strength enhancers, slap-o-matic, nutrijector, targeting computer, communicator kit, macrovisor kit, and illuminator kit.",
       "pic": null,
       "domain": "Tech",
-      "path": "[\"Tech Armor (mso)\", \"Tech Armor Heavy (mso)\", \"Tech Armor Medium (mso)\", \"Marine (mso) {Free}\"]",
+      "path": "[\"Tech Armor (mso)\",\"Tech Armor Heavy (mso)\",\"Tech Armor Medium (mso)\",\"Marine (mso) {Free}\"]",
       "belongs_to": null,
       "owner": "Designer",
       "sets": [
@@ -66781,7 +66577,7 @@
       "notes": "A suit of living Kryll bio-armor consisting of thousands of tiny semi-sentient arachnids swarming over the host’s body and interlocking their thorny legs like living chain mail. When struck, the arachnids rapidly shift across the body to seal breaches and restore coverage. The webbed lattice acts like a cargo net, holding small personal items securely against the suit.",
       "pic": null,
       "domain": "BioTech",
-      "path": "[\"BioTech Armor (mso)\", \"Bio-Warrior (mso) {Free}\"]",
+      "path": "[\"BioTech Armor (mso)\",\"Bio-Warrior (mso) {Free}\"]",
       "belongs_to": null,
       "owner": "Designer",
       "sets": [
@@ -67055,7 +66851,7 @@
       "notes": "No Armor, Clothing, or other non-armor gear",
       "pic": null,
       "domain": "Archaic",
-      "path": "[\"Base\", \"Archaic Armor (mso)\"]",
+      "path": "[\"Base\",\"Archaic Armor (mso)\",\"Mensi (mso) {Free}\"]",
       "belongs_to": null,
       "owner": "Designer",
       "sets": [

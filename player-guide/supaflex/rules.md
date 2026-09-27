@@ -2,7 +2,7 @@
 outline: 2
 ---
 
-# ⚡ SupaFlex Rules Manual
+# 🌌 SupaFlex Rules Manual
 
 ## 🔝 Top of Rules
 
@@ -50,13 +50,13 @@ The complete SupaFlex game system is structured around the **Trinity of Mechanic
          [ 🧠 ABILITIES ]                                 [ ⚙️ GEAR SHELVES ]
    ┌──────┬───────┼───────┬─────────┐      ┌────────────┬────────┬────────┬──────────┬──────────┐
    ▼      ▼       ▼       ▼         ▼      ▼            ▼        ▼        ▼          ▼          ▼
- [ ATR ] [SKILL] [SKILLSET][POWERS] [SPEC] [🎒SUPPLIES] [⚔️WEAP] [🥋ARMOR] [🛡️SHIELDS] [🧿GEAR POWERS] [📦KITS]
-   (✅)    (🎓)      (🎓)    (🔥)     (📜)   (Mundane)   (Martial)(Defensive)(Block)   (Tactical) (Bundles)
-                                             (0 Slots)   (0 Slots)(0 Slots)(0 Slots)  (1 AP)        (g/s)
-                                                                                        │          │
-                                                                                        ▼          ▼
-                                                                                 [ 🧿 GEAR POWERS ] [ 🔌 MODS ]
-                                                                                [ (Artifacts & Gear) ] (Subordinate)
+  [ ATR ] [SKILL] [SKILLSET][POWERS] [SPEC] [🎒SUPPLIES] [⚔️WEAP] [🧥ARMOR] [🛡️SHIELDS] [🧿GEAR POWERS] [📦KITS]
+    (✅)    (🎓)      (🎓)    (🔥)     (📜)   (Mundane)   (Martial)(Defensive)(Block)   (Tactical) (Bundles)
+                                              (0 Slots)   (0 Slots)(0 Slots)(0 Slots)  (1 AP)        (g/s)
+                                                                                         │          │
+                                                                                         ▼          ▼
+                                                                                  [ 🧿 GEAR POWERS ] [ 🔌 MODS ]
+                                                                                 [ (Artifacts & Gear) ] (Subordinate)
 ```
 
 ### 🏛️ The Gear Taxonomy & Lineage Hierarchy
@@ -66,7 +66,7 @@ The complete SupaFlex game system is structured around the **Trinity of Mechanic
 | **Gear (`⚙️`)** | Supplies, Weapons, Armor, Shields, Gear Powers, Kits, Artifacts | Universal master category for all physical items, hardware, and equipment. |
 | **Supplies (`🎒`)** | Mundane Tools, Electronics, Consumables, Survival Gear | Baseline mundane adventuring equipment (0 Gear Power Slots, no attached Gear Power). Priced in $g / s$. |
 | **Weapons (`⚔️`)** | Melee, Ranged, Natural, Tech Weapons | Martial offensive hardware. Baseline 0 Gear Power Slots (unless equipped with a Gear Power/Mod). Priced in $g / s$. |
-| **Armor (`🥋`)** | Light, Medium, Heavy, Powered, Environmental | Protective combat hardware providing AR. Baseline 0 Gear Power Slots (unless equipped with a Gear Power/Mod). Priced in $g / s$. |
+| **Armor (`🧥`)** | Light, Medium, Heavy, Powered, Environmental | Protective combat hardware providing AR. Baseline 0 Gear Power Slots (unless equipped with a Gear Power/Mod). Priced in $g / s$. |
 | **Shields (`🛡️`)** | Bucklers, Medium Shields, Tower, Force Shields | Protective combat hardware providing Block. Baseline 0 Gear Power Slots (unless equipped with a Gear Power/Mod). Priced in $g / s$. |
 | **Gear Power (`🧿`)** | Tactical Gear Powers, Cyberware, Biotech, Tech Hardware, Artifact Relics | Actionable tactical abilities residing on physical gear or found as unpurchasable artifact treasure. Learned for 1 AP (Free ⭕ costs 0 AP) directly from owned host gear or installed mods. |
 | **Artifact (`🔮`)** | Gear Powers, Traits, Legendary Powers | Ancient, magical, or alien treasures possessing one or more Gear Powers (1 AP or inherent). Non-commercial market treasure (Cost = `"Artifact"`). Reserved for loot tables and discovery. |
@@ -80,7 +80,7 @@ The complete SupaFlex game system is structured around the **Trinity of Mechanic
 
 1. **🌟 Elements = 🧠 Abilities + ⚙️ Gear:**
    * **🧠 Abilities (Intangible Features):** Unlocked via AP and packaged into **Paths (`🧭`)**. Subdivided into **✅ Attributes**, **🎓 Skills**, **🎓 Skill Sets**, **🔥 Powers**, and **🧬 Traits**.
-   * **⚙️ Gear (Physical Items & Hardware):** Purchased with Gold / Silver or found as treasure. Subdivided into **🎒 Supplies** (mundane tools/consumables, 0 slots), **⚔️ Weapons**, **🥋 Armor**, **🛡️ Shields**, **🧿 Gear Powers** (tactical abilities on gear, 0–1 slots, including purchasable gear and unpurchasable artifacts), and **🔌 Mods** (subordinate modular attachments).
+   * **⚙️ Gear (Physical Items & Hardware):** Purchased with Gold / Silver or found as treasure. Subdivided into **🎒 Supplies** (mundane tools/consumables, 0 slots), **⚔️ Weapons**, **🧥 Armor**, **🛡️ Shields**, **🧿 Gear Powers** (tactical abilities on gear, 0–1 slots, including purchasable gear and unpurchasable artifacts), and **🔌 Mods** (subordinate modular attachments).
 
 2. **⚙️ The Dual-State Progression of Gear & Zero-Purgatory Invariant:**
    * **Mundane Gear (`⚙️`):** Standard physical items readily available in the economy (0 Gear Power Slots, no attached Gear Power, cost in $g/s$).
@@ -100,7 +100,7 @@ The complete SupaFlex game system is structured around the **Trinity of Mechanic
    * **Universal Path Non-Purchasability Invariant:** Because Universal abilities are exceptionally potent, the Universal Path itself **CANNOT be learned or unlocked as a 4 AP Bonus Path**. It remains permanently at 3 AP per element for all characters. Its defining mechanical benefit is **Self-Service at 3 AP without requiring GM Approval**.
    * **Learning Bonus Paths:** Beyond foundational paths, additional discipline or martial Paths may be learned from the catalog for **4 AP WITH GM Approval** (e.g. unlocking a secondary martial or archetype path).
 
-4. **⚔️ Weapons, 🥋 Armor, and 🛡️ Shields as Gear:**
+4. **⚔️ Weapons, 🧥 Armor, and 🛡️ Shields as Gear:**
    * Weapons, Armor, and Shields are all categories of **Gear (`⚙️`)**.
    * Standard weapons, armor, and shields are baseline **Gear (`⚙️`)** (0 Gear Power Slots). Specialized, high-tech, or enchanted versions have **Gear Powers (`🧿`)** (occupying 0–1 Gear Power Slots) or can accept **Mods (`🔌`)**.
    * **Default Gear Possession Rule:** When a character learns or becomes skilled in a new weapon, armor, or shield (via starting Path or AP advancement), the default system rule is that they are assumed to possess the physical item as standard Gear (`⚙️`) (unless the GM determines otherwise based on campaign tone and narrative context).
@@ -353,7 +353,7 @@ Gear Powers🧿 – Actionable equipment-derived abilities (`Action`, `Usage`, `
 
 g / gp (Gold Piece) – Primary gold currency; 100 silver (s) = 1 gold (g).
 
-Gear⚙️ – The universal master category encompassing every physical item, tool, weapon, armor piece, shield, supply, hardware chassis, or object an adventurer can carry, wear, or utilize. Subdivided into 🎒 Supplies, ⚔️ Weapons, 🥋 Armor, 🛡️ Shields, 🧿 Exotics, 🔮 Artifacts, 📦 Kits, and subordinate 🔌 Mods.
+Gear⚙️ – The universal master category encompassing every physical item, tool, weapon, armor piece, shield, supply, hardware chassis, or object an adventurer can carry, wear, or utilize. Subdivided into 🎒 Supplies, ⚔️ Weapons, 🧥 Armor, 🛡️ Shields, 🧿 Exotics, 🔮 Artifacts, 📦 Kits, and subordinate 🔌 Mods.
 
 Kits📦 – Master pre-assembled gear suites and hardware packages (e.g. Powered Armor Suites, Survival Kits, Trauma Kits). Has an overall package price ($g/s$); constituent items possess `belongs_to: "Kit: [Name]"` linkages.
 
@@ -1767,7 +1767,7 @@ Every combat round, each character receives an action allocation of **1 Attack (
 * **Jumping Actions:** Standing Jump is **d👣** squares as a Move (**M**) action. Running Jump is running up to **MR 👣** on the ground plus a **d👣** jump as an Attack & Move (**AM**) action (using Movement Rate die `d(MR) ≤ MR`).
 
 <!-- @popover:movement_rate.basics -->
-::: details ⚡ Quick Reference: Movement Rate (MR 👣) & Jumping Rules
+::: details 👣 Quick Reference: Movement Rate (MR 👣) & Jumping Rules
 
 Tactical Movement:
 * Standard Move (M Action) — Move up to your full Movement Rate (MR 👣) in squares (1 sq = 5 ft).
