@@ -497,6 +497,26 @@
           "details": "Monster Nish🚩-4; if Nish🚩=0, target flees.",
           "is_free": false,
           "element_type": "power"
+        },
+        {
+          "id": "1c7b21e7-1b5c-4dfb-bf0a-cd716d449f56",
+          "tag": "1 AP",
+          "name": "Bard Weapons",
+          "type": "set",
+          "isFree": false,
+          "details": "Weapons",
+          "is_free": false,
+          "element_type": "set"
+        },
+        {
+          "id": "8844c090-0069-43b5-9c61-bf85926c43d4",
+          "tag": "1 AP",
+          "name": "Bard Armor",
+          "type": "set",
+          "isFree": false,
+          "details": "Armor",
+          "is_free": false,
+          "element_type": "set"
         }
       ]
     },
@@ -2351,6 +2371,16 @@
           "details": "Traits",
           "is_free": true,
           "element_type": "set"
+        },
+        {
+          "id": "bdf50fc6-e8b5-4561-9060-c8611a86d93d",
+          "tag": "1 AP",
+          "name": "Archaic Armor (mso)",
+          "type": "set",
+          "isFree": false,
+          "details": "Armor",
+          "is_free": false,
+          "element_type": "set"
         }
       ]
     },
@@ -2728,6 +2758,16 @@
           "details": "🫀+5^poison, toxins, and alcohol.",
           "is_free": false,
           "element_type": "trait"
+        },
+        {
+          "id": "5f6088fc-ebbb-4358-b780-6b91691ef13e",
+          "tag": "1 AP",
+          "name": "Dwarf Weapons",
+          "type": "set",
+          "isFree": false,
+          "details": "Weapons",
+          "is_free": false,
+          "element_type": "set"
         }
       ]
     },
@@ -2855,6 +2895,16 @@
           "details": "Fire mounted siege weapon; Dmg+2.",
           "is_free": false,
           "element_type": "power"
+        },
+        {
+          "id": "b72829a8-de1e-49a2-891f-160d8c3a3463",
+          "tag": "1 AP",
+          "name": "Blackaxe Clan Weapons",
+          "type": "set",
+          "isFree": false,
+          "details": "Weapons",
+          "is_free": false,
+          "element_type": "set"
         }
       ]
     },
@@ -3027,6 +3077,16 @@
           "details": "Ignore 👣 penalties in natural wilderness terrain.",
           "is_free": false,
           "element_type": "trait"
+        },
+        {
+          "id": "fc1400ff-6a56-4690-affb-a80d026064cd",
+          "tag": "1 AP",
+          "name": "Elf Weapons",
+          "type": "set",
+          "isFree": false,
+          "details": "Weapons",
+          "is_free": false,
+          "element_type": "set"
         }
       ]
     },
@@ -3165,6 +3225,16 @@
           "details": "Glide safely from any height; immune to fall Dmg.",
           "is_free": false,
           "element_type": "trait"
+        },
+        {
+          "id": "05e35240-b7e7-4fce-b8ce-7a74b3b6a89e",
+          "tag": "1 AP",
+          "name": "Fairy Weapons",
+          "type": "set",
+          "isFree": false,
+          "details": "Weapons",
+          "is_free": false,
+          "element_type": "set"
         }
       ]
     },
@@ -3292,6 +3362,36 @@
           "details": "On hit with unarmed; 💪 or target is Stunned.",
           "is_free": false,
           "element_type": "power"
+        },
+        {
+          "id": "e25e7ef9-4c7e-4f32-b0d2-d740235cf3b9",
+          "tag": "1 AP",
+          "name": "Giant Weapons",
+          "type": "set",
+          "isFree": false,
+          "details": "Weapons",
+          "is_free": false,
+          "element_type": "set"
+        },
+        {
+          "id": "a177388d-69e3-4ee8-be64-e85a93a870d3",
+          "tag": "1 AP",
+          "name": "Giant Armor",
+          "type": "set",
+          "isFree": false,
+          "details": "Armor",
+          "is_free": false,
+          "element_type": "set"
+        },
+        {
+          "id": "c8883fe8-a794-49f6-9147-6fea11a5a3da",
+          "tag": "1 AP",
+          "name": "Giant Shields",
+          "type": "set",
+          "isFree": false,
+          "details": "Shields",
+          "is_free": false,
+          "element_type": "set"
         }
       ]
     },
@@ -3419,6 +3519,26 @@
           "details": "Fly up to 8sq as swarm of ravens; Melee Atk foes in origin sq for d4 Dmg.",
           "is_free": false,
           "element_type": "power"
+        },
+        {
+          "id": "f48abc4b-57fe-4aad-9068-522004ed50a1",
+          "tag": "1 AP",
+          "name": "Nymph Weapons",
+          "type": "set",
+          "isFree": false,
+          "details": "Weapons",
+          "is_free": false,
+          "element_type": "set"
+        },
+        {
+          "id": "0c824b92-5c24-4d4e-a1b9-c34cb13b86b6",
+          "tag": "1 AP",
+          "name": "Nymph Attire",
+          "type": "set",
+          "isFree": false,
+          "details": "Armor",
+          "is_free": false,
+          "element_type": "set"
         }
       ]
     },
@@ -3546,6 +3666,26 @@
           "details": "👁️ (GM set Dif) or target obeys false order.",
           "is_free": false,
           "element_type": "power"
+        },
+        {
+          "id": "12657d5b-43a1-4446-aee2-736a539675da",
+          "tag": "1 AP",
+          "name": "Pixie Weapons",
+          "type": "set",
+          "isFree": false,
+          "details": "Weapons",
+          "is_free": false,
+          "element_type": "set"
+        },
+        {
+          "id": "a386c179-5a81-42fc-bb50-a0b863df619c",
+          "tag": "1 AP",
+          "name": "Pixie Shroud",
+          "type": "set",
+          "isFree": false,
+          "details": "Armor",
+          "is_free": false,
+          "element_type": "set"
         }
       ]
     },
@@ -3692,6 +3832,16 @@
           "details": "Create sound/image in 1sq; 👁️ or target disbelieves.",
           "is_free": false,
           "element_type": "power"
+        },
+        {
+          "id": "60352848-6191-4503-a91d-f51abcd4164d",
+          "tag": "1 AP",
+          "name": "Gnome Weapons",
+          "type": "set",
+          "isFree": false,
+          "details": "Weapons",
+          "is_free": false,
+          "element_type": "set"
         }
       ]
     },
@@ -3842,6 +3992,16 @@
           "details": "Toss a bomb; ✨ Atk for ✨+1 Dmg in 2x2sq.",
           "is_free": false,
           "element_type": "power"
+        },
+        {
+          "id": "b0a48e8c-eeab-45b1-b35c-fdea346cf3c7",
+          "tag": "1 AP",
+          "name": "Goblin Weapons",
+          "type": "set",
+          "isFree": false,
+          "details": "Weapons",
+          "is_free": false,
+          "element_type": "set"
         }
       ]
     },
@@ -3992,6 +4152,16 @@
           "details": "Immune to sleep and charm, and gain Resist✨^mental effects for 1 Rnd.",
           "is_free": false,
           "element_type": "power"
+        },
+        {
+          "id": "bb3c6235-b713-4f28-ac46-197bcd90b6a8",
+          "tag": "1 AP",
+          "name": "Half-Orc Weapons",
+          "type": "set",
+          "isFree": false,
+          "details": "Weapons",
+          "is_free": false,
+          "element_type": "set"
         }
       ]
     },
@@ -4275,6 +4445,36 @@
           "details": "Heal ally 2 Vit by touch.",
           "is_free": false,
           "element_type": "power"
+        },
+        {
+          "id": "99ac5377-7eaf-497a-9bdc-33cc01163d16",
+          "tag": "1 AP",
+          "name": "Healer Weapons",
+          "type": "set",
+          "isFree": false,
+          "details": "Weapons",
+          "is_free": false,
+          "element_type": "set"
+        },
+        {
+          "id": "0f9a0056-b87d-4878-80a3-8397468d8049",
+          "tag": "1 AP",
+          "name": "Healer Vestments",
+          "type": "set",
+          "isFree": false,
+          "details": "Armor",
+          "is_free": false,
+          "element_type": "set"
+        },
+        {
+          "id": "26a69cbb-973e-4dc7-b898-d926f707d502",
+          "tag": "1 AP",
+          "name": "Healer Shields",
+          "type": "set",
+          "isFree": false,
+          "details": "Shields",
+          "is_free": false,
+          "element_type": "set"
         }
       ]
     },
@@ -4480,6 +4680,36 @@
           "details": "AoE 2r; ✨ Atk; d4 radiant Dmg.",
           "is_free": false,
           "element_type": "power"
+        },
+        {
+          "id": "eb25531d-a6c8-4228-8514-21c7e9fb275c",
+          "tag": "1 AP",
+          "name": "Sun-Devoted Weapons",
+          "type": "set",
+          "isFree": false,
+          "details": "Weapons",
+          "is_free": false,
+          "element_type": "set"
+        },
+        {
+          "id": "6fc43ce8-a5ac-4f20-bd04-d693592b60ce",
+          "tag": "1 AP",
+          "name": "Sun-Devoted Armor",
+          "type": "set",
+          "isFree": false,
+          "details": "Armor",
+          "is_free": false,
+          "element_type": "set"
+        },
+        {
+          "id": "3d47e0b6-8df5-4486-a9eb-92e86326750a",
+          "tag": "1 AP",
+          "name": "Sun-Devoted Shields",
+          "type": "set",
+          "isFree": false,
+          "details": "Shields",
+          "is_free": false,
+          "element_type": "set"
         }
       ]
     },
@@ -4849,6 +5079,16 @@
           "details": "Learn 1 extra skill without skill restrictions.",
           "is_free": false,
           "element_type": "trait"
+        },
+        {
+          "id": "f27efbe6-8051-4106-9966-462a7422903a",
+          "tag": "1 AP",
+          "name": "Human Weapons",
+          "type": "set",
+          "isFree": false,
+          "details": "Weapons",
+          "is_free": false,
+          "element_type": "set"
         }
       ]
     },
@@ -5002,6 +5242,16 @@
           "details": "Adjacent ally’s AR+1 this rnd.",
           "is_free": false,
           "element_type": "power"
+        },
+        {
+          "id": "79441683-1f29-4705-8038-c4001e507fb0",
+          "tag": "1 AP",
+          "name": "Bloodmarked Weapons",
+          "type": "set",
+          "isFree": false,
+          "details": "Weapons",
+          "is_free": false,
+          "element_type": "set"
         }
       ]
     },
@@ -5013,16 +5263,6 @@
       "created_at": "2026-09-05T23:12:06.131356+00:00",
       "owner": "Designer",
       "linked_elements": [
-        {
-          "id": "c7888dd2-2295-443a-8014-2615afce99c7",
-          "tag": "1 AP",
-          "name": "Kryll Racial Weapons (mso)",
-          "type": "set",
-          "isFree": false,
-          "details": "Weapons",
-          "is_free": false,
-          "element_type": "set"
-        },
         {
           "id": 980,
           "tag": "Free",
@@ -5722,6 +5962,26 @@
           "details": "Place glowing rune in 1sq: trigger causes ✨^✨ or target takes d✨ Dmg.",
           "is_free": false,
           "element_type": "power"
+        },
+        {
+          "id": "5d1da280-a9dd-4a1f-8e10-9e2cc73c84c7",
+          "tag": "1 AP",
+          "name": "Elemental Mage Weapons",
+          "type": "set",
+          "isFree": false,
+          "details": "Weapons",
+          "is_free": false,
+          "element_type": "set"
+        },
+        {
+          "id": "c7ec44b7-07e5-437a-82f1-4bac954fe330",
+          "tag": "1 AP",
+          "name": "Elemental Robes",
+          "type": "set",
+          "isFree": false,
+          "details": "Armor",
+          "is_free": false,
+          "element_type": "set"
         }
       ]
     },
@@ -6223,6 +6483,36 @@
           "details": "Melee Atk with rapier; Atk+1 if foe wears metal armor for encounter.",
           "is_free": false,
           "element_type": "power"
+        },
+        {
+          "id": "da5f5e1b-2165-40d5-8133-63a3ce3ee710",
+          "tag": "1 AP",
+          "name": "Magnetic Mage Weapons",
+          "type": "set",
+          "isFree": false,
+          "details": "Weapons",
+          "is_free": false,
+          "element_type": "set"
+        },
+        {
+          "id": "9d5798b2-54bd-409a-b714-3318769ed2b6",
+          "tag": "1 AP",
+          "name": "Magnetic Armor",
+          "type": "set",
+          "isFree": false,
+          "details": "Armor",
+          "is_free": false,
+          "element_type": "set"
+        },
+        {
+          "id": "78b846b4-e7cc-4372-a142-f98a2a861666",
+          "tag": "1 AP",
+          "name": "Magnetic Shields",
+          "type": "set",
+          "isFree": false,
+          "details": "Shields",
+          "is_free": false,
+          "element_type": "set"
         }
       ]
     },
@@ -7246,6 +7536,26 @@
           "details": "Rally allies; nearby gain Nish🚩+1 this rnd.",
           "is_free": false,
           "element_type": "power"
+        },
+        {
+          "id": "996969a3-fa6a-44b5-b66f-40e5816a4492",
+          "tag": "1 AP",
+          "name": "Blade Saint Weapons",
+          "type": "set",
+          "isFree": false,
+          "details": "Weapons",
+          "is_free": false,
+          "element_type": "set"
+        },
+        {
+          "id": "c52c0b7d-b7a4-4b54-8df8-3e527084f4b7",
+          "tag": "1 AP",
+          "name": "Blade Saint Garb",
+          "type": "set",
+          "isFree": false,
+          "details": "Armor",
+          "is_free": false,
+          "element_type": "set"
         }
       ]
     },
@@ -8294,6 +8604,26 @@
           "details": "Restore 2 Vit to yourself.",
           "is_free": false,
           "element_type": "power"
+        },
+        {
+          "id": "cc45ff71-69fa-4835-aae4-52bdce35186d",
+          "tag": "1 AP",
+          "name": "Monk Weapons",
+          "type": "set",
+          "isFree": false,
+          "details": "Weapons",
+          "is_free": false,
+          "element_type": "set"
+        },
+        {
+          "id": "e85424e6-fcfe-4afe-985d-70b2b22b6e20",
+          "tag": "1 AP",
+          "name": "Monk Vestments",
+          "type": "set",
+          "isFree": false,
+          "details": "Armor",
+          "is_free": false,
+          "element_type": "set"
         }
       ]
     },
@@ -8513,6 +8843,26 @@
           "details": "Powers",
           "is_free": false,
           "element_type": "set"
+        },
+        {
+          "id": 21,
+          "tag": "Free",
+          "name": "Brawl",
+          "type": "weapon",
+          "isFree": true,
+          "details": "Kick, Punch, Bite, GTH, Tail, Tacklet, etc.",
+          "is_free": true,
+          "element_type": "weapon"
+        },
+        {
+          "id": 65,
+          "tag": "Free",
+          "name": "Unarmored",
+          "type": "armor",
+          "isFree": true,
+          "details": "No Armor, Clothing, or other non-armor gear",
+          "is_free": true,
+          "element_type": "armor"
         }
       ]
     },
@@ -8653,6 +9003,16 @@
           "details": "Ignore rough terrain and all MR👣 impairments this rnd.",
           "is_free": false,
           "element_type": "power"
+        },
+        {
+          "id": "8a96c88e-3029-48dd-96d3-f2375c894f9b",
+          "tag": "1 AP",
+          "name": "Nelf Weapons",
+          "type": "set",
+          "isFree": false,
+          "details": "Weapons",
+          "is_free": false,
+          "element_type": "set"
         }
       ]
     },
@@ -8793,6 +9153,16 @@
           "details": "Heal self 2 Vit or Heal ally 1 Vit.",
           "is_free": false,
           "element_type": "power"
+        },
+        {
+          "id": "f48abc4b-57fe-4aad-9068-522004ed50a1",
+          "tag": "1 AP",
+          "name": "Nymph Weapons",
+          "type": "set",
+          "isFree": false,
+          "details": "Weapons",
+          "is_free": false,
+          "element_type": "set"
         }
       ]
     },
@@ -8931,6 +9301,16 @@
           "details": "When reduced to 0 Vit; immediately remain at 1 Vit (1-Enc).",
           "is_free": false,
           "element_type": "trait"
+        },
+        {
+          "id": "9b0e58dd-8b03-4682-a9f1-cb1d5ac86d5f",
+          "tag": "1 AP",
+          "name": "Orc Weapons",
+          "type": "set",
+          "isFree": false,
+          "details": "Weapons",
+          "is_free": false,
+          "element_type": "set"
         }
       ]
     },
@@ -9323,6 +9703,26 @@
           "details": "Telekinetic rip: Rend(✨)^🫀; no AR Wnds(✨-1). No effect through energy fields.",
           "is_free": false,
           "element_type": "power"
+        },
+        {
+          "id": "be7a197e-3f2d-4106-9be3-84928e0ed449",
+          "tag": "1 AP",
+          "name": "Psionicist Weapons",
+          "type": "set",
+          "isFree": false,
+          "details": "Weapons",
+          "is_free": false,
+          "element_type": "set"
+        },
+        {
+          "id": "998b2d87-41c0-475b-86dd-61576e78d2af",
+          "tag": "1 AP",
+          "name": "Psionicist Robes",
+          "type": "set",
+          "isFree": false,
+          "details": "Armor",
+          "is_free": false,
+          "element_type": "set"
         }
       ]
     },
@@ -9593,6 +9993,36 @@
           "details": "Jump or vault up to MR👣 ignoring difficult terrain.",
           "is_free": false,
           "element_type": "power"
+        },
+        {
+          "id": "0ff9227f-e332-4de7-9ef3-6ba89c2eaae8",
+          "tag": "1 AP",
+          "name": "Psionic Sentinel Weapons",
+          "type": "set",
+          "isFree": false,
+          "details": "Weapons",
+          "is_free": false,
+          "element_type": "set"
+        },
+        {
+          "id": "e44b9558-1c37-4bfb-ab01-f55536faece3",
+          "tag": "1 AP",
+          "name": "Psionic Sentinel Armor",
+          "type": "set",
+          "isFree": false,
+          "details": "Armor",
+          "is_free": false,
+          "element_type": "set"
+        },
+        {
+          "id": "e3b3417e-c44c-4241-8dfc-371e555a0d4b",
+          "tag": "1 AP",
+          "name": "Psionic Sentinel Shields",
+          "type": "set",
+          "isFree": false,
+          "details": "Shields",
+          "is_free": false,
+          "element_type": "set"
         }
       ]
     },
@@ -9603,7 +10033,28 @@
       "description": "Body-mind bio-enhancer supercharging physical durability and leaping bounds.",
       "created_at": "2026-08-30T21:26:12.072944+00:00",
       "owner": "Designer",
-      "linked_elements": []
+      "linked_elements": [
+        {
+          "id": "02e5847e-cc9f-444a-8406-8631721f2026",
+          "tag": "1 AP",
+          "name": "Psychosomatic Weapons",
+          "type": "set",
+          "isFree": false,
+          "details": "Weapons",
+          "is_free": false,
+          "element_type": "set"
+        },
+        {
+          "id": "5c139e4b-dab2-4997-b522-896ee0fc99cc",
+          "tag": "1 AP",
+          "name": "Psychosomatic Attire",
+          "type": "set",
+          "isFree": false,
+          "details": "Armor",
+          "is_free": false,
+          "element_type": "set"
+        }
+      ]
     },
     {
       "id": "ac0e75ac-8c79-48fe-8a40-2d8072d0ed61",
@@ -12868,6 +13319,26 @@
           "details": "Study 1 foe: your next Atk targeting that foe gains Advantage.",
           "is_free": false,
           "element_type": "power"
+        },
+        {
+          "id": "470a86d2-644b-444b-94d0-1dc00e381a30",
+          "tag": "1 AP",
+          "name": "Assassin Weapons",
+          "type": "set",
+          "isFree": false,
+          "details": "Weapons",
+          "is_free": false,
+          "element_type": "set"
+        },
+        {
+          "id": "45e5335c-af1c-4d73-b6b6-1b26037cb232",
+          "tag": "1 AP",
+          "name": "Assassin Leathers",
+          "type": "set",
+          "isFree": false,
+          "details": "Armor",
+          "is_free": false,
+          "element_type": "set"
         }
       ]
     },
@@ -13148,6 +13619,26 @@
           "details": "Convince with jargon; 👁️ persuasion.",
           "is_free": false,
           "element_type": "power"
+        },
+        {
+          "id": "4494f33c-b5c8-4779-a382-89e1b11223ac",
+          "tag": "1 AP",
+          "name": "Trickster Weapons",
+          "type": "set",
+          "isFree": false,
+          "details": "Weapons",
+          "is_free": false,
+          "element_type": "set"
+        },
+        {
+          "id": "5b75537f-1238-4193-8de7-ea198f6ab7e8",
+          "tag": "1 AP",
+          "name": "Trickster Attire",
+          "type": "set",
+          "isFree": false,
+          "details": "Armor",
+          "is_free": false,
+          "element_type": "set"
         }
       ]
     },
@@ -16063,6 +16554,16 @@
           "details": "Powers",
           "is_free": false,
           "element_type": "set"
+        },
+        {
+          "id": 91,
+          "tag": "Free",
+          "name": "Unarmored (mso)",
+          "type": "armor",
+          "isFree": true,
+          "details": "No Armor, Clothing, or other non-armor gear",
+          "is_free": true,
+          "element_type": "armor"
         }
       ]
     },
@@ -16285,6 +16786,36 @@
           "details": "👁️ or target focuses Atks on you.",
           "is_free": false,
           "element_type": "power"
+        },
+        {
+          "id": "936d0c27-3233-4f40-bdd2-f068fea2d7fd",
+          "tag": "1 AP",
+          "name": "Warrior Weapons",
+          "type": "set",
+          "isFree": false,
+          "details": "Weapons",
+          "is_free": false,
+          "element_type": "set"
+        },
+        {
+          "id": "addcef77-1bf0-40b8-b00d-d39af773408f",
+          "tag": "1 AP",
+          "name": "Warrior Armor",
+          "type": "set",
+          "isFree": false,
+          "details": "Armor",
+          "is_free": false,
+          "element_type": "set"
+        },
+        {
+          "id": "88c46e4a-4675-48e0-b023-9ff066a46236",
+          "tag": "1 AP",
+          "name": "Warrior Shields",
+          "type": "set",
+          "isFree": false,
+          "details": "Shields",
+          "is_free": false,
+          "element_type": "set"
         }
       ]
     },
@@ -16926,6 +17457,36 @@
           "details": "Roll shield Def as Atk & Dmg(AR+1) and 💪 pushes target d4sq.",
           "is_free": false,
           "element_type": "power"
+        },
+        {
+          "id": "7c2edfc1-913a-41a2-bf39-4506511e5038",
+          "tag": "1 AP",
+          "name": "Cursed Spartan Weapons",
+          "type": "set",
+          "isFree": false,
+          "details": "Weapons",
+          "is_free": false,
+          "element_type": "set"
+        },
+        {
+          "id": "cf6de327-b5fb-4dc8-a8bc-5e562873e11c",
+          "tag": "1 AP",
+          "name": "Cursed Spartan Armor",
+          "type": "set",
+          "isFree": false,
+          "details": "Armor",
+          "is_free": false,
+          "element_type": "set"
+        },
+        {
+          "id": "c0ce64e7-c42e-4ece-b26c-a6f92b0a80d2",
+          "tag": "1 AP",
+          "name": "Cursed Spartan Shields",
+          "type": "set",
+          "isFree": false,
+          "details": "Shields",
+          "is_free": false,
+          "element_type": "set"
         }
       ]
     },
@@ -17606,6 +18167,36 @@
           "details": "When ally is hit; choose: ally AR+d4 or next Dmg+d4.",
           "is_free": false,
           "element_type": "power"
+        },
+        {
+          "id": "11398c4e-e460-497f-9dc3-58e1a3e9dfd4",
+          "tag": "1 AP",
+          "name": "Street Brawler Weapons",
+          "type": "set",
+          "isFree": false,
+          "details": "Weapons",
+          "is_free": false,
+          "element_type": "set"
+        },
+        {
+          "id": "574d9ed9-e77f-4a88-85e0-855291bc40bf",
+          "tag": "1 AP",
+          "name": "Brawler Leathers",
+          "type": "set",
+          "isFree": false,
+          "details": "Armor",
+          "is_free": false,
+          "element_type": "set"
+        },
+        {
+          "id": "34cc9ee9-64a9-4db5-9e71-f41df1f261b5",
+          "tag": "1 AP",
+          "name": "Brawler Shields",
+          "type": "set",
+          "isFree": false,
+          "details": "Shields",
+          "is_free": false,
+          "element_type": "set"
         }
       ]
     },
@@ -17746,6 +18337,26 @@
           "details": "+2 to 🏃 & 👁️ rolls in familiar terrain (forest, desert, etc.).",
           "is_free": false,
           "element_type": "power"
+        },
+        {
+          "id": "5e3b9aaa-c1c7-4adc-93d8-ee97496b9d91",
+          "tag": "1 AP",
+          "name": "Ranger Weapons",
+          "type": "set",
+          "isFree": false,
+          "details": "Weapons",
+          "is_free": false,
+          "element_type": "set"
+        },
+        {
+          "id": "78ebef68-391c-4dac-b6cc-4948fe4441ef",
+          "tag": "1 AP",
+          "name": "Ranger Armor",
+          "type": "set",
+          "isFree": false,
+          "details": "Armor",
+          "is_free": false,
+          "element_type": "set"
         }
       ]
     },
@@ -18003,6 +18614,36 @@
           "details": "Reroll 1 failed 💪 or 🏃 roll.",
           "is_free": false,
           "element_type": "power"
+        },
+        {
+          "id": "691fe366-4a52-4e92-8b68-885ee213c90b",
+          "tag": "1 AP",
+          "name": "Shield Warrior Weapons",
+          "type": "set",
+          "isFree": false,
+          "details": "Weapons",
+          "is_free": false,
+          "element_type": "set"
+        },
+        {
+          "id": "bcf332ce-788b-4797-bb70-13390c7156bb",
+          "tag": "1 AP",
+          "name": "Shield Warrior Armor",
+          "type": "set",
+          "isFree": false,
+          "details": "Armor",
+          "is_free": false,
+          "element_type": "set"
+        },
+        {
+          "id": "830e9a58-8c0d-412a-b73f-0f1916426e91",
+          "tag": "1 AP",
+          "name": "Shield Warrior Shields",
+          "type": "set",
+          "isFree": false,
+          "details": "Shields",
+          "is_free": false,
+          "element_type": "set"
         }
       ]
     },
@@ -18339,6 +18980,16 @@
           "isFree": true,
           "details": "Traits",
           "is_free": true,
+          "element_type": "set"
+        },
+        {
+          "id": "91daf1ee-0f07-4b5b-8d24-3bccb8498612",
+          "tag": "1 AP",
+          "name": "Archaic Shields (mso)",
+          "type": "set",
+          "isFree": false,
+          "details": "Shields",
+          "is_free": false,
           "element_type": "set"
         }
       ]
@@ -19132,7 +19783,8 @@
       "paths": [
         "Warrior",
         "Paladin",
-        "Knight"
+        "Knight",
+        "Dragon (mso)"
       ],
       "genres": [
         "Medieval",
@@ -19141,7 +19793,7 @@
       ],
       "owner": "Designer",
       "created_at": "2026-09-24T23:21:57.992223+00:00",
-      "updated_at": "2026-09-24T23:21:57.992223+00:00"
+      "updated_at": "2026-09-29T00:06:10.995+00:00"
     },
     {
       "id": "91daf1ee-0f07-4b5b-8d24-3bccb8498612",
@@ -19150,7 +19802,8 @@
       "description": "Proficiency and defensive stances utilizing traditional archaic and melee shields.",
       "paths": [
         "Warrior",
-        "Paladin"
+        "Paladin",
+        "Warrior (mso)"
       ],
       "genres": [
         "Medieval",
@@ -19180,7 +19833,7 @@
       ],
       "owner": "Designer",
       "created_at": "2026-09-24T23:21:57.992223+00:00",
-      "updated_at": "2026-09-24T23:21:57.992223+00:00"
+      "updated_at": "2026-09-29T00:15:45.289+00:00"
     },
     {
       "id": "55d5211e-a135-4be7-bfde-50844ff1f549",
@@ -19241,6 +19894,36 @@
       "owner": "Designer",
       "created_at": "2026-09-24T23:21:57.992223+00:00",
       "updated_at": "2026-09-24T23:21:57.992223+00:00"
+    },
+    {
+      "id": "45e5335c-af1c-4d73-b6b6-1b26037cb232",
+      "name": "Assassin Leathers",
+      "category": "Armor",
+      "description": "Silent leather jackets, muted gambesons, and shadow-woven cloaks designed for night work.",
+      "paths": [
+        "Thief - Assassin"
+      ],
+      "genres": [
+        "Medieval"
+      ],
+      "owner": "system",
+      "created_at": "2026-09-29T00:58:21.387811+00:00",
+      "updated_at": "2026-09-29T00:58:21.387811+00:00"
+    },
+    {
+      "id": "470a86d2-644b-444b-94d0-1dc00e381a30",
+      "name": "Assassin Weapons",
+      "category": "Weapons",
+      "description": "Poison daggers, hand crossbows, blowguns, chain whips, and concealed throwing steel.",
+      "paths": [
+        "Thief - Assassin"
+      ],
+      "genres": [
+        "Medieval"
+      ],
+      "owner": "system",
+      "created_at": "2026-09-29T00:58:21.387811+00:00",
+      "updated_at": "2026-09-29T00:58:21.387811+00:00"
     },
     {
       "id": "8c0cf567-b5d0-4c3a-91d4-32aa37eee5c4",
@@ -19333,6 +20016,36 @@
       "updated_at": "2026-09-24T23:21:57.992223+00:00"
     },
     {
+      "id": "8844c090-0069-43b5-9c61-bf85926c43d4",
+      "name": "Bard Armor",
+      "category": "Armor",
+      "description": "Supple gambesons, padded cloth, and travel cloaks providing fluid mobility for performance.",
+      "paths": [
+        "Bard"
+      ],
+      "genres": [
+        "Medieval"
+      ],
+      "owner": "system",
+      "created_at": "2026-09-29T00:58:21.387811+00:00",
+      "updated_at": "2026-09-29T00:58:21.387811+00:00"
+    },
+    {
+      "id": "1c7b21e7-1b5c-4dfb-bf0a-cd716d449f56",
+      "name": "Bard Weapons",
+      "category": "Weapons",
+      "description": "Finesse blades, thrown daggers, and light crossbows suited for agile performance combat.",
+      "paths": [
+        "Bard"
+      ],
+      "genres": [
+        "Medieval"
+      ],
+      "owner": "system",
+      "created_at": "2026-09-29T00:58:21.387811+00:00",
+      "updated_at": "2026-09-29T00:58:21.387811+00:00"
+    },
+    {
       "id": "d971f372-3123-4d0c-a336-555670293957",
       "name": "Bardic",
       "category": "Skills",
@@ -19415,6 +20128,51 @@
       "updated_at": "2026-09-24T23:21:57.992223+00:00"
     },
     {
+      "id": "b72829a8-de1e-49a2-891f-160d8c3a3463",
+      "name": "Blackaxe Clan Weapons",
+      "category": "Weapons",
+      "description": "Mountain bastion vanguard cleavers, siege-breaking mauls, and bastion tower crossbows.",
+      "paths": [
+        "Dwarf - Blackaxe Clan"
+      ],
+      "genres": [
+        "Medieval"
+      ],
+      "owner": "system",
+      "created_at": "2026-09-29T01:50:06.196804+00:00",
+      "updated_at": "2026-09-29T01:50:06.196804+00:00"
+    },
+    {
+      "id": "c52c0b7d-b7a4-4b54-8df8-3e527084f4b7",
+      "name": "Blade Saint Garb",
+      "category": "Armor",
+      "description": "Light, unrestrictive martial garments and lamellar layers allowing blinding sword sweeps.",
+      "paths": [
+        "Martial Artist - Blade Saint"
+      ],
+      "genres": [
+        "Medieval"
+      ],
+      "owner": "system",
+      "created_at": "2026-09-29T00:58:21.387811+00:00",
+      "updated_at": "2026-09-29T00:58:21.387811+00:00"
+    },
+    {
+      "id": "996969a3-fa6a-44b5-b66f-40e5816a4492",
+      "name": "Blade Saint Weapons",
+      "category": "Weapons",
+      "description": "Masterwork scimitars, longswords, bastard swords, and parrying daggers.",
+      "paths": [
+        "Martial Artist - Blade Saint"
+      ],
+      "genres": [
+        "Medieval"
+      ],
+      "owner": "system",
+      "created_at": "2026-09-29T00:58:21.387811+00:00",
+      "updated_at": "2026-09-29T00:58:21.387811+00:00"
+    },
+    {
       "id": "d0522ce5-5b09-4c68-9b6d-6db718620764",
       "name": "Blaster Expert",
       "category": "Skills",
@@ -19428,6 +20186,51 @@
       "owner": "Designer",
       "created_at": "2026-09-24T23:21:57.992223+00:00",
       "updated_at": "2026-09-24T23:21:57.992223+00:00"
+    },
+    {
+      "id": "79441683-1f29-4705-8038-c4001e507fb0",
+      "name": "Bloodmarked Weapons",
+      "category": "Weapons",
+      "description": "Occult bloodblades, concealed-projectile javelin-swords, heavy claymores, and ritualistic tridents.",
+      "paths": [
+        "Human - Bloodmarked"
+      ],
+      "genres": [
+        "Medieval"
+      ],
+      "owner": "system",
+      "created_at": "2026-09-29T01:50:06.196804+00:00",
+      "updated_at": "2026-09-29T01:50:06.196804+00:00"
+    },
+    {
+      "id": "574d9ed9-e77f-4a88-85e0-855291bc40bf",
+      "name": "Brawler Leathers",
+      "category": "Armor",
+      "description": "Reinforced denim vests, heavy leather jackets, padded vests, and intimidating spiked armor.",
+      "paths": [
+        "Warrior - Punk"
+      ],
+      "genres": [
+        "Medieval"
+      ],
+      "owner": "system",
+      "created_at": "2026-09-29T00:58:21.387811+00:00",
+      "updated_at": "2026-09-29T00:58:21.387811+00:00"
+    },
+    {
+      "id": "34cc9ee9-64a9-4db5-9e71-f41df1f261b5",
+      "name": "Brawler Shields",
+      "category": "Shields",
+      "description": "Improvised reinforced round bucklers and scavenged protective plating.",
+      "paths": [
+        "Warrior - Punk"
+      ],
+      "genres": [
+        "Medieval"
+      ],
+      "owner": "system",
+      "created_at": "2026-09-29T00:58:21.387811+00:00",
+      "updated_at": "2026-09-29T00:58:21.387811+00:00"
     },
     {
       "id": "01cd4b12-e0aa-4558-b3c9-60f1f9cd1060",
@@ -19444,7 +20247,7 @@
       ],
       "owner": "Designer",
       "created_at": "2026-09-24T23:21:57.992223+00:00",
-      "updated_at": "2026-09-24T23:21:57.992223+00:00"
+      "updated_at": "2026-09-29T00:16:47.971+00:00"
     },
     {
       "id": "0c826e33-a26e-483c-8cdf-cfed9273404d",
@@ -19522,6 +20325,51 @@
       "updated_at": "2026-09-24T23:21:57.992223+00:00"
     },
     {
+      "id": "cf6de327-b5fb-4dc8-a8bc-5e562873e11c",
+      "name": "Cursed Spartan Armor",
+      "category": "Armor",
+      "description": "Hardened lamellar cuirasses, scale armor, and bronze-fitted plate harnesses.",
+      "paths": [
+        "Warrior - Cursed Spartan"
+      ],
+      "genres": [
+        "Medieval"
+      ],
+      "owner": "system",
+      "created_at": "2026-09-29T00:58:21.387811+00:00",
+      "updated_at": "2026-09-29T00:58:21.387811+00:00"
+    },
+    {
+      "id": "c0ce64e7-c42e-4ece-b26c-a6f92b0a80d2",
+      "name": "Cursed Spartan Shields",
+      "category": "Shields",
+      "description": "Heavy concave round hoplons, kite shields, and immovable tower walls.",
+      "paths": [
+        "Warrior - Cursed Spartan"
+      ],
+      "genres": [
+        "Medieval"
+      ],
+      "owner": "system",
+      "created_at": "2026-09-29T00:58:21.387811+00:00",
+      "updated_at": "2026-09-29T00:58:21.387811+00:00"
+    },
+    {
+      "id": "7c2edfc1-913a-41a2-bf39-4506511e5038",
+      "name": "Cursed Spartan Weapons",
+      "category": "Weapons",
+      "description": "Hoplite thrusting spears, short swords, tridents, javelins, warhammers, and throwing axes.",
+      "paths": [
+        "Warrior - Cursed Spartan"
+      ],
+      "genres": [
+        "Medieval"
+      ],
+      "owner": "system",
+      "created_at": "2026-09-29T00:58:21.387811+00:00",
+      "updated_at": "2026-09-29T00:58:21.387811+00:00"
+    },
+    {
       "id": "de0f3a2c-3fa8-49b9-95e6-10ca90a641bd",
       "name": "CyberTech Armor (mso)",
       "category": "Armor",
@@ -19565,9 +20413,9 @@
         "Bio-Warrior (mso) {Free}",
         "Cyber Warrior (mso) {Free}",
         "Destron (mso) {Free}",
-        "Dragon (mso) {Free}",
         "Marine (mso) {Free}",
         "Mensi (mso) {Free}",
+        "Dragon (mso) {Free}",
         "Mutak (mso) {Free}",
         "Warlock (mso) {Free}",
         "Warrior (mso) {Free}"
@@ -19642,6 +20490,21 @@
       "updated_at": "2026-09-24T23:21:57.992223+00:00"
     },
     {
+      "id": "5f6088fc-ebbb-4358-b780-6b91691ef13e",
+      "name": "Dwarf Weapons",
+      "category": "Weapons",
+      "description": "Ancestral Dwarven masterwork hammers, forged battleaxes, tunnel picks, and heavy arbalests.",
+      "paths": [
+        "Dwarf"
+      ],
+      "genres": [
+        "Medieval"
+      ],
+      "owner": "system",
+      "created_at": "2026-09-29T01:50:06.196804+00:00",
+      "updated_at": "2026-09-29T01:50:06.196804+00:00"
+    },
+    {
       "id": "75feafff-2a3b-4062-8c01-bf1cd83deacc",
       "name": "Dwarven Skills",
       "category": "Skills",
@@ -19657,6 +20520,51 @@
       "owner": "Designer",
       "created_at": "2026-09-24T23:21:57.992223+00:00",
       "updated_at": "2026-09-24T23:21:57.992223+00:00"
+    },
+    {
+      "id": "5d1da280-a9dd-4a1f-8e10-9e2cc73c84c7",
+      "name": "Elemental Mage Weapons",
+      "category": "Weapons",
+      "description": "Focus blades, channeling quarterstaves, ceremonial sickles, and daggers.",
+      "paths": [
+        "Mage - Elemental"
+      ],
+      "genres": [
+        "Medieval"
+      ],
+      "owner": "system",
+      "created_at": "2026-09-29T00:58:21.387811+00:00",
+      "updated_at": "2026-09-29T00:58:21.387811+00:00"
+    },
+    {
+      "id": "c7ec44b7-07e5-437a-82f1-4bac954fe330",
+      "name": "Elemental Robes",
+      "category": "Armor",
+      "description": "Runic glowweave vestments and padded traveler cloaks insulated against arcane discharge.",
+      "paths": [
+        "Mage - Elemental"
+      ],
+      "genres": [
+        "Medieval"
+      ],
+      "owner": "system",
+      "created_at": "2026-09-29T00:58:21.387811+00:00",
+      "updated_at": "2026-09-29T00:58:21.387811+00:00"
+    },
+    {
+      "id": "fc1400ff-6a56-4690-affb-a80d026064cd",
+      "name": "Elf Weapons",
+      "category": "Weapons",
+      "description": "High elven composite recurves, ancestral longbows, graceful double-edged blades, and hunting spears.",
+      "paths": [
+        "Elf"
+      ],
+      "genres": [
+        "Medieval"
+      ],
+      "owner": "system",
+      "created_at": "2026-09-29T01:50:06.196804+00:00",
+      "updated_at": "2026-09-29T01:50:06.196804+00:00"
     },
     {
       "id": "8248f7a3-da78-4e94-a39c-81104eee7df8",
@@ -19708,6 +20616,21 @@
       "updated_at": "2026-09-24T23:21:57.992223+00:00"
     },
     {
+      "id": "05e35240-b7e7-4fce-b8ce-7a74b3b6a89e",
+      "name": "Fairy Weapons",
+      "category": "Weapons",
+      "description": "Diminutive fey venom dart blowguns, whistling aether shurikens, throwing stilettos, and focus staves.",
+      "paths": [
+        "Fairy"
+      ],
+      "genres": [
+        "Medieval"
+      ],
+      "owner": "system",
+      "created_at": "2026-09-29T01:50:06.196804+00:00",
+      "updated_at": "2026-09-29T01:50:06.196804+00:00"
+    },
+    {
       "id": "185771b4-e608-45a3-bd34-1a08361eacc2",
       "name": "Fighter Pilot",
       "category": "Skills",
@@ -19723,6 +20646,66 @@
       "owner": "Designer",
       "created_at": "2026-09-24T23:21:57.992223+00:00",
       "updated_at": "2026-09-24T23:21:57.992223+00:00"
+    },
+    {
+      "id": "a177388d-69e3-4ee8-be64-e85a93a870d3",
+      "name": "Giant Armor",
+      "category": "Armor",
+      "description": "Colossal hides, sculpted stone carapace, and dragon scales fit for enormous stature.",
+      "paths": [
+        "Form - Giant"
+      ],
+      "genres": [
+        "Medieval"
+      ],
+      "owner": "system",
+      "created_at": "2026-09-29T00:58:21.387811+00:00",
+      "updated_at": "2026-09-29T00:58:21.387811+00:00"
+    },
+    {
+      "id": "c8883fe8-a794-49f6-9147-6fea11a5a3da",
+      "name": "Giant Shields",
+      "category": "Shields",
+      "description": "Imposing tower barriers and monolithic siege walls wielded like personal cover.",
+      "paths": [
+        "Form - Giant"
+      ],
+      "genres": [
+        "Medieval"
+      ],
+      "owner": "system",
+      "created_at": "2026-09-29T00:58:21.387811+00:00",
+      "updated_at": "2026-09-29T00:58:21.387811+00:00"
+    },
+    {
+      "id": "e25e7ef9-4c7e-4f32-b0d2-d740235cf3b9",
+      "name": "Giant Weapons",
+      "category": "Weapons",
+      "description": "Massive two-handed mauls, heavy flails, battle hammers, and thrown boulders.",
+      "paths": [
+        "Form - Giant"
+      ],
+      "genres": [
+        "Medieval"
+      ],
+      "owner": "system",
+      "created_at": "2026-09-29T00:58:21.387811+00:00",
+      "updated_at": "2026-09-29T00:58:21.387811+00:00"
+    },
+    {
+      "id": "60352848-6191-4503-a91d-f51abcd4164d",
+      "name": "Gnome Weapons",
+      "category": "Weapons",
+      "description": "Ingenious spring-loaded wrist crossbows, workshop pipe wrenches, and improvised gear-contraptions.",
+      "paths": [
+        "Gnome"
+      ],
+      "genres": [
+        "Medieval"
+      ],
+      "owner": "system",
+      "created_at": "2026-09-29T01:50:06.196804+00:00",
+      "updated_at": "2026-09-29T01:50:06.196804+00:00"
     },
     {
       "id": "050ac849-4fdd-4911-b9f7-88c6b4bdb8b7",
@@ -19759,6 +20742,21 @@
       "updated_at": "2026-09-24T23:21:57.992223+00:00"
     },
     {
+      "id": "b0a48e8c-eeab-45b1-b35c-fdea346cf3c7",
+      "name": "Goblin Weapons",
+      "category": "Weapons",
+      "description": "Scrappy scavenged shortswords, jagged toothed gutting daggers, junk ambush crossbows, and vicious brawling.",
+      "paths": [
+        "Goblin"
+      ],
+      "genres": [
+        "Medieval"
+      ],
+      "owner": "system",
+      "created_at": "2026-09-29T01:50:06.196804+00:00",
+      "updated_at": "2026-09-29T01:50:06.196804+00:00"
+    },
+    {
       "id": "eb348c9c-ae93-452c-a4a5-d5d88ced4e57",
       "name": "Guard Skills",
       "category": "Skills",
@@ -19772,6 +20770,21 @@
       "owner": "Designer",
       "created_at": "2026-09-24T23:21:57.992223+00:00",
       "updated_at": "2026-09-24T23:21:57.992223+00:00"
+    },
+    {
+      "id": "bb3c6235-b713-4f28-ac46-197bcd90b6a8",
+      "name": "Half-Orc Weapons",
+      "category": "Weapons",
+      "description": "Disciplined hand-and-a-half bastard swords, shield-breaker flails, serrated mauls, and frontline ferocity.",
+      "paths": [
+        "Half-Orc"
+      ],
+      "genres": [
+        "Medieval"
+      ],
+      "owner": "system",
+      "created_at": "2026-09-29T01:50:06.196804+00:00",
+      "updated_at": "2026-09-29T01:50:06.196804+00:00"
     },
     {
       "id": "54f44441-c3ac-4455-9be7-84a423e3932e",
@@ -19789,6 +20802,51 @@
       "owner": "Designer",
       "created_at": "2026-09-24T23:21:57.992223+00:00",
       "updated_at": "2026-09-24T23:21:57.992223+00:00"
+    },
+    {
+      "id": "26a69cbb-973e-4dc7-b898-d926f707d502",
+      "name": "Healer Shields",
+      "category": "Shields",
+      "description": "Warded round and heater shields emblazoned with holy heraldry.",
+      "paths": [
+        "Healer"
+      ],
+      "genres": [
+        "Medieval"
+      ],
+      "owner": "system",
+      "created_at": "2026-09-29T00:58:21.387811+00:00",
+      "updated_at": "2026-09-29T00:58:21.387811+00:00"
+    },
+    {
+      "id": "0f9a0056-b87d-4878-80a3-8397468d8049",
+      "name": "Healer Vestments",
+      "category": "Armor",
+      "description": "Consecrated mail, padded vestments, and defensive plate harnesses for sanctuary keepers.",
+      "paths": [
+        "Healer"
+      ],
+      "genres": [
+        "Medieval"
+      ],
+      "owner": "system",
+      "created_at": "2026-09-29T00:58:21.387811+00:00",
+      "updated_at": "2026-09-29T00:58:21.387811+00:00"
+    },
+    {
+      "id": "99ac5377-7eaf-497a-9bdc-33cc01163d16",
+      "name": "Healer Weapons",
+      "category": "Weapons",
+      "description": "Traditional bludgeoning maces, warhammers, and staves that respect sacred oaths.",
+      "paths": [
+        "Healer"
+      ],
+      "genres": [
+        "Medieval"
+      ],
+      "owner": "system",
+      "created_at": "2026-09-29T00:58:21.387811+00:00",
+      "updated_at": "2026-09-29T00:58:21.387811+00:00"
     },
     {
       "id": "e80d183e-b530-4602-93b5-852b45af1cb3",
@@ -19821,6 +20879,21 @@
       "owner": "Designer",
       "created_at": "2026-09-24T23:21:57.992223+00:00",
       "updated_at": "2026-09-24T23:21:57.992223+00:00"
+    },
+    {
+      "id": "f27efbe6-8051-4106-9966-462a7422903a",
+      "name": "Human Weapons",
+      "category": "Weapons",
+      "description": "Versatile feudal knightly blades, military arbalests, hunting bows, and sidearm daggers.",
+      "paths": [
+        "Human"
+      ],
+      "genres": [
+        "Medieval"
+      ],
+      "owner": "system",
+      "created_at": "2026-09-29T01:50:06.196804+00:00",
+      "updated_at": "2026-09-29T01:50:06.196804+00:00"
     },
     {
       "id": "632e4c7e-a033-40ad-852b-b47304fc389b",
@@ -19869,6 +20942,51 @@
       "owner": "Designer",
       "created_at": "2026-09-24T23:21:57.992223+00:00",
       "updated_at": "2026-09-24T23:21:57.992223+00:00"
+    },
+    {
+      "id": "9d5798b2-54bd-409a-b714-3318769ed2b6",
+      "name": "Magnetic Armor",
+      "category": "Armor",
+      "description": "Interlinked chain shirts, lamellar scales, and metal harnesses responsive to magnetic polarities.",
+      "paths": [
+        "Mage - Magnetic"
+      ],
+      "genres": [
+        "Medieval"
+      ],
+      "owner": "system",
+      "created_at": "2026-09-29T00:58:21.387811+00:00",
+      "updated_at": "2026-09-29T00:58:21.387811+00:00"
+    },
+    {
+      "id": "da5f5e1b-2165-40d5-8133-63a3ce3ee710",
+      "name": "Magnetic Mage Weapons",
+      "category": "Weapons",
+      "description": "Honed steel blades, throwing knives, axes, and longswords guided by magnetic currents.",
+      "paths": [
+        "Mage - Magnetic"
+      ],
+      "genres": [
+        "Medieval"
+      ],
+      "owner": "system",
+      "created_at": "2026-09-29T00:58:21.387811+00:00",
+      "updated_at": "2026-09-29T00:58:21.387811+00:00"
+    },
+    {
+      "id": "78b846b4-e7cc-4372-a142-f98a2a861666",
+      "name": "Magnetic Shields",
+      "category": "Shields",
+      "description": "Ferrous heater and kite shields levitated and anchored by kinetic willpower.",
+      "paths": [
+        "Mage - Magnetic"
+      ],
+      "genres": [
+        "Medieval"
+      ],
+      "owner": "system",
+      "created_at": "2026-09-29T00:58:21.387811+00:00",
+      "updated_at": "2026-09-29T00:58:21.387811+00:00"
     },
     {
       "id": "fc420d14-4a4d-49ce-9146-8da4bb24fd05",
@@ -20029,6 +21147,36 @@
       "updated_at": "2026-09-24T23:21:57.992223+00:00"
     },
     {
+      "id": "e85424e6-fcfe-4afe-985d-70b2b22b6e20",
+      "name": "Monk Vestments",
+      "category": "Armor",
+      "description": "Simple woven robes and hide wraps allowing effortless kinetic flow and balance.",
+      "paths": [
+        "Monk"
+      ],
+      "genres": [
+        "Medieval"
+      ],
+      "owner": "system",
+      "created_at": "2026-09-29T00:58:21.387811+00:00",
+      "updated_at": "2026-09-29T00:58:21.387811+00:00"
+    },
+    {
+      "id": "cc45ff71-69fa-4835-aae4-52bdce35186d",
+      "name": "Monk Weapons",
+      "category": "Weapons",
+      "description": "Brawling strikes, quarterstaves, chain whips, sickles, and improvised martial tools.",
+      "paths": [
+        "Monk"
+      ],
+      "genres": [
+        "Medieval"
+      ],
+      "owner": "system",
+      "created_at": "2026-09-29T00:58:21.387811+00:00",
+      "updated_at": "2026-09-29T00:58:21.387811+00:00"
+    },
+    {
       "id": "4e5a554f-1743-41af-a467-fc750ba6a4c9",
       "name": "Mountaineering",
       "category": "Skills",
@@ -20042,6 +21190,52 @@
       "owner": "Designer",
       "created_at": "2026-09-24T23:21:57.992223+00:00",
       "updated_at": "2026-09-24T23:21:57.992223+00:00"
+    },
+    {
+      "id": "8a96c88e-3029-48dd-96d3-f2375c894f9b",
+      "name": "Nelf Weapons",
+      "category": "Weapons",
+      "description": "Nimble fey-halfling traveler shortswords, walking quarterstaves, pocket hurled stones, and hunting hatchets.",
+      "paths": [
+        "Nelf"
+      ],
+      "genres": [
+        "Medieval"
+      ],
+      "owner": "system",
+      "created_at": "2026-09-29T01:50:06.196804+00:00",
+      "updated_at": "2026-09-29T01:50:06.196804+00:00"
+    },
+    {
+      "id": "0c824b92-5c24-4d4e-a1b9-c34cb13b86b6",
+      "name": "Nymph Attire",
+      "category": "Armor",
+      "description": "Ethereal leaf weave, glowing wardrobes, and supple leather granting total movement freedom.",
+      "paths": [
+        "Form - Nymph"
+      ],
+      "genres": [
+        "Medieval"
+      ],
+      "owner": "system",
+      "created_at": "2026-09-29T00:58:21.387811+00:00",
+      "updated_at": "2026-09-29T00:58:21.387811+00:00"
+    },
+    {
+      "id": "f48abc4b-57fe-4aad-9068-522004ed50a1",
+      "name": "Nymph Weapons",
+      "category": "Weapons",
+      "description": "Living bio-vine whips, glade-grown symbiotic bows, elder hardwood staves, and sylvan blowguns.",
+      "paths": [
+        "Form - Nymph",
+        "Nymph"
+      ],
+      "genres": [
+        "Medieval"
+      ],
+      "owner": "system",
+      "created_at": "2026-09-29T00:58:21.387811+00:00",
+      "updated_at": "2026-09-29T01:50:06.196804+00:00"
     },
     {
       "id": "5edbde19-70db-4450-9940-3638f9bd0daa",
@@ -20061,6 +21255,21 @@
       "updated_at": "2026-09-24T23:21:57.992223+00:00"
     },
     {
+      "id": "9b0e58dd-8b03-4682-a9f1-cb1d5ac86d5f",
+      "name": "Orc Weapons",
+      "category": "Weapons",
+      "description": "Primal gate-smashing heavy mauls, berserker rage axes, crushing warhammers, and brutal claw-and-tusk strikes.",
+      "paths": [
+        "Orc"
+      ],
+      "genres": [
+        "Medieval"
+      ],
+      "owner": "system",
+      "created_at": "2026-09-29T01:50:06.196804+00:00",
+      "updated_at": "2026-09-29T01:50:06.196804+00:00"
+    },
+    {
       "id": "72dacf63-96f4-488a-bed5-983054e6e062",
       "name": "Pistolier",
       "category": "Skills",
@@ -20074,6 +21283,36 @@
       "owner": "Designer",
       "created_at": "2026-09-24T23:21:57.992223+00:00",
       "updated_at": "2026-09-24T23:21:57.992223+00:00"
+    },
+    {
+      "id": "a386c179-5a81-42fc-bb50-a0b863df619c",
+      "name": "Pixie Shroud",
+      "category": "Armor",
+      "description": "Featherlight leaf weave and glowing cloaks offering defense without hindering flight.",
+      "paths": [
+        "Form - Pixie"
+      ],
+      "genres": [
+        "Medieval"
+      ],
+      "owner": "system",
+      "created_at": "2026-09-29T00:58:21.387811+00:00",
+      "updated_at": "2026-09-29T00:58:21.387811+00:00"
+    },
+    {
+      "id": "12657d5b-43a1-4446-aee2-736a539675da",
+      "name": "Pixie Weapons",
+      "category": "Weapons",
+      "description": "Razor-fine daggers, toothed blades, venom blowguns, and precision throwing needles.",
+      "paths": [
+        "Form - Pixie"
+      ],
+      "genres": [
+        "Medieval"
+      ],
+      "owner": "system",
+      "created_at": "2026-09-29T00:58:21.387811+00:00",
+      "updated_at": "2026-09-29T00:58:21.387811+00:00"
     },
     {
       "id": "025f5baa-ffad-4648-b4b4-328fb68b7a77",
@@ -20093,6 +21332,81 @@
       "updated_at": "2026-09-24T23:21:57.992223+00:00"
     },
     {
+      "id": "e44b9558-1c37-4bfb-ab01-f55536faece3",
+      "name": "Psionic Sentinel Armor",
+      "category": "Armor",
+      "description": "Reinforced chain and plate harnesses fortified by telekinetic lattice reinforcement.",
+      "paths": [
+        "Psionics - Sentinel"
+      ],
+      "genres": [
+        "Medieval"
+      ],
+      "owner": "system",
+      "created_at": "2026-09-29T00:58:21.387811+00:00",
+      "updated_at": "2026-09-29T00:58:21.387811+00:00"
+    },
+    {
+      "id": "e3b3417e-c44c-4241-8dfc-371e555a0d4b",
+      "name": "Psionic Sentinel Shields",
+      "category": "Shields",
+      "description": "Round and heater shields serving as physical anchors for projected barrier barriers.",
+      "paths": [
+        "Psionics - Sentinel"
+      ],
+      "genres": [
+        "Medieval"
+      ],
+      "owner": "system",
+      "created_at": "2026-09-29T00:58:21.387811+00:00",
+      "updated_at": "2026-09-29T00:58:21.387811+00:00"
+    },
+    {
+      "id": "0ff9227f-e332-4de7-9ef3-6ba89c2eaae8",
+      "name": "Psionic Sentinel Weapons",
+      "category": "Weapons",
+      "description": "Focus blades, polearms, spears, and longswords serving as focal points for psychic power.",
+      "paths": [
+        "Psionics - Sentinel"
+      ],
+      "genres": [
+        "Medieval"
+      ],
+      "owner": "system",
+      "created_at": "2026-09-29T00:58:21.387811+00:00",
+      "updated_at": "2026-09-29T00:58:21.387811+00:00"
+    },
+    {
+      "id": "998b2d87-41c0-475b-86dd-61576e78d2af",
+      "name": "Psionicist Robes",
+      "category": "Armor",
+      "description": "Comfortable ascetic cloaks and padded vests that preserve mental clarity and focus.",
+      "paths": [
+        "Psionics"
+      ],
+      "genres": [
+        "Medieval"
+      ],
+      "owner": "system",
+      "created_at": "2026-09-29T00:58:21.387811+00:00",
+      "updated_at": "2026-09-29T00:58:21.387811+00:00"
+    },
+    {
+      "id": "be7a197e-3f2d-4106-9be3-84928e0ed449",
+      "name": "Psionicist Weapons",
+      "category": "Weapons",
+      "description": "Focus blades, balanced quarterstaves, and telekinetically propelled throwing knives.",
+      "paths": [
+        "Psionics"
+      ],
+      "genres": [
+        "Medieval"
+      ],
+      "owner": "system",
+      "created_at": "2026-09-29T00:58:21.387811+00:00",
+      "updated_at": "2026-09-29T00:58:21.387811+00:00"
+    },
+    {
       "id": "62c87b96-2081-4432-b77a-19229b6eaaa4",
       "name": "Psionics (mso)",
       "category": "Powers",
@@ -20108,6 +21422,36 @@
       "owner": "Designer",
       "created_at": "2026-09-24T23:21:57.992223+00:00",
       "updated_at": "2026-09-24T23:21:57.992223+00:00"
+    },
+    {
+      "id": "5c139e4b-dab2-4997-b522-896ee0fc99cc",
+      "name": "Psychosomatic Attire",
+      "category": "Armor",
+      "description": "Supple animal hides and padded gambesons that flex with hyper-accelerated musculature.",
+      "paths": [
+        "Psychosomatics"
+      ],
+      "genres": [
+        "Medieval"
+      ],
+      "owner": "system",
+      "created_at": "2026-09-29T00:58:21.387811+00:00",
+      "updated_at": "2026-09-29T00:58:21.387811+00:00"
+    },
+    {
+      "id": "02e5847e-cc9f-444a-8406-8631721f2026",
+      "name": "Psychosomatic Weapons",
+      "category": "Weapons",
+      "description": "Brutal unarmed fist weapons, clawed gauntlets, clubs, and heavy brawling implements.",
+      "paths": [
+        "Psychosomatics"
+      ],
+      "genres": [
+        "Medieval"
+      ],
+      "owner": "system",
+      "created_at": "2026-09-29T00:58:21.387811+00:00",
+      "updated_at": "2026-09-29T00:58:21.387811+00:00"
     },
     {
       "id": "6daaddcf-f0dd-4925-963f-923eb173abdd",
@@ -20140,6 +21484,36 @@
       "owner": "Designer",
       "created_at": "2026-09-24T23:21:57.992223+00:00",
       "updated_at": "2026-09-24T23:21:57.992223+00:00"
+    },
+    {
+      "id": "78ebef68-391c-4dac-b6cc-4948fe4441ef",
+      "name": "Ranger Armor",
+      "category": "Armor",
+      "description": "Camo traveler cloaks, flexible chain shirts, and supple wilderness hides.",
+      "paths": [
+        "Warrior - Ranger"
+      ],
+      "genres": [
+        "Medieval"
+      ],
+      "owner": "system",
+      "created_at": "2026-09-29T00:58:21.387811+00:00",
+      "updated_at": "2026-09-29T00:58:21.387811+00:00"
+    },
+    {
+      "id": "5e3b9aaa-c1c7-4adc-93d8-ee97496b9d91",
+      "name": "Ranger Weapons",
+      "category": "Weapons",
+      "description": "Longbows, recurve bows, light crossbows, hunting spears, shortswords, and throwing axes.",
+      "paths": [
+        "Warrior - Ranger"
+      ],
+      "genres": [
+        "Medieval"
+      ],
+      "owner": "system",
+      "created_at": "2026-09-29T00:58:21.387811+00:00",
+      "updated_at": "2026-09-29T00:58:21.387811+00:00"
     },
     {
       "id": "9113d484-ff0c-4c1f-9474-a2c849d12d10",
@@ -20249,6 +21623,51 @@
       "owner": "Designer",
       "created_at": "2026-09-24T23:21:57.992223+00:00",
       "updated_at": "2026-09-24T23:21:57.992223+00:00"
+    },
+    {
+      "id": "bcf332ce-788b-4797-bb70-13390c7156bb",
+      "name": "Shield Warrior Armor",
+      "category": "Armor",
+      "description": "Fortified knightly plate, half-plate, scale mail, and specialized tower shield harnesses.",
+      "paths": [
+        "Warrior - Shield"
+      ],
+      "genres": [
+        "Medieval"
+      ],
+      "owner": "system",
+      "created_at": "2026-09-29T00:58:21.387811+00:00",
+      "updated_at": "2026-09-29T00:58:21.387811+00:00"
+    },
+    {
+      "id": "830e9a58-8c0d-412a-b73f-0f1916426e91",
+      "name": "Shield Warrior Shields",
+      "category": "Shields",
+      "description": "The complete defensive array: round, heater, kite, tower, and monolithic siege wall shields.",
+      "paths": [
+        "Warrior - Shield"
+      ],
+      "genres": [
+        "Medieval"
+      ],
+      "owner": "system",
+      "created_at": "2026-09-29T00:58:21.387811+00:00",
+      "updated_at": "2026-09-29T00:58:21.387811+00:00"
+    },
+    {
+      "id": "691fe366-4a52-4e92-8b68-885ee213c90b",
+      "name": "Shield Warrior Weapons",
+      "category": "Weapons",
+      "description": "One-handed battleaxes, warhammers, flails, spears, and morningstars paired with a shield.",
+      "paths": [
+        "Warrior - Shield"
+      ],
+      "genres": [
+        "Medieval"
+      ],
+      "owner": "system",
+      "created_at": "2026-09-29T00:58:21.387811+00:00",
+      "updated_at": "2026-09-29T00:58:21.387811+00:00"
     },
     {
       "id": "a578ee48-6eaf-466c-ba1b-2945bbea670e",
@@ -20531,6 +21950,21 @@
       "updated_at": "2026-09-24T23:21:57.992223+00:00"
     },
     {
+      "id": "11398c4e-e460-497f-9dc3-58e1a3e9dfd4",
+      "name": "Street Brawler Weapons",
+      "category": "Weapons",
+      "description": "Bare-knuckle brawl, pipe wrenches, clubs, heavy chains, hand axes, and thrown wreckage.",
+      "paths": [
+        "Warrior - Punk"
+      ],
+      "genres": [
+        "Medieval"
+      ],
+      "owner": "system",
+      "created_at": "2026-09-29T00:58:21.387811+00:00",
+      "updated_at": "2026-09-29T00:58:21.387811+00:00"
+    },
+    {
       "id": "16a3de8a-cd47-4a15-ac72-44157d60db65",
       "name": "Streetwise",
       "category": "Skills",
@@ -20559,6 +21993,51 @@
       "owner": "Designer",
       "created_at": "2026-09-24T23:21:57.992223+00:00",
       "updated_at": "2026-09-24T23:21:57.992223+00:00"
+    },
+    {
+      "id": "6fc43ce8-a5ac-4f20-bd04-d693592b60ce",
+      "name": "Sun-Devoted Armor",
+      "category": "Armor",
+      "description": "Polished gilded plate, gleaming scale mail, and radiant harnesses that channel the sun.",
+      "paths": [
+        "Healer - Sun-Devoted"
+      ],
+      "genres": [
+        "Medieval"
+      ],
+      "owner": "system",
+      "created_at": "2026-09-29T00:58:21.387811+00:00",
+      "updated_at": "2026-09-29T00:58:21.387811+00:00"
+    },
+    {
+      "id": "3d47e0b6-8df5-4486-a9eb-92e86326750a",
+      "name": "Sun-Devoted Shields",
+      "category": "Shields",
+      "description": "Reflective round, heater, and kite shields that blind adversaries with deflected light.",
+      "paths": [
+        "Healer - Sun-Devoted"
+      ],
+      "genres": [
+        "Medieval"
+      ],
+      "owner": "system",
+      "created_at": "2026-09-29T00:58:21.387811+00:00",
+      "updated_at": "2026-09-29T00:58:21.387811+00:00"
+    },
+    {
+      "id": "eb25531d-a6c8-4228-8514-21c7e9fb275c",
+      "name": "Sun-Devoted Weapons",
+      "category": "Weapons",
+      "description": "Blazing sun-blades, sacred spears, flails, and morningstars radiant with solar fervor.",
+      "paths": [
+        "Healer - Sun-Devoted"
+      ],
+      "genres": [
+        "Medieval"
+      ],
+      "owner": "system",
+      "created_at": "2026-09-29T00:58:21.387811+00:00",
+      "updated_at": "2026-09-29T00:58:21.387811+00:00"
     },
     {
       "id": "01eb0bc0-f812-47c4-9340-e46e5876adf8",
@@ -20639,7 +22118,7 @@
       ],
       "owner": "Designer",
       "created_at": "2026-09-24T23:21:57.992223+00:00",
-      "updated_at": "2026-09-24T23:21:57.992223+00:00"
+      "updated_at": "2026-09-29T00:07:51.611+00:00"
     },
     {
       "id": "6899ee19-0096-4cf9-986c-a9bd0cd54d86",
@@ -20656,7 +22135,7 @@
       ],
       "owner": "Designer",
       "created_at": "2026-09-24T23:21:57.992223+00:00",
-      "updated_at": "2026-09-24T23:21:57.992223+00:00"
+      "updated_at": "2026-09-29T00:08:09.819+00:00"
     },
     {
       "id": "84ade202-cec7-4e39-a267-bc5481472eed",
@@ -20707,7 +22186,7 @@
       ],
       "owner": "Designer",
       "created_at": "2026-09-24T23:21:57.992223+00:00",
-      "updated_at": "2026-09-24T23:21:57.992223+00:00"
+      "updated_at": "2026-09-29T00:17:33.124+00:00"
     },
     {
       "id": "99a5d32c-6c47-463d-b908-2d5f8a390116",
@@ -20739,7 +22218,7 @@
       ],
       "owner": "Designer",
       "created_at": "2026-09-24T23:21:57.992223+00:00",
-      "updated_at": "2026-09-24T23:21:57.992223+00:00"
+      "updated_at": "2026-09-29T00:05:49.495+00:00"
     },
     {
       "id": "638757d4-9487-43ac-ad09-d82c0ee4fd30",
@@ -20759,7 +22238,7 @@
       ],
       "owner": "Designer",
       "created_at": "2026-09-24T23:21:57.992223+00:00",
-      "updated_at": "2026-09-24T23:21:57.992223+00:00"
+      "updated_at": "2026-09-29T00:19:32.224+00:00"
     },
     {
       "id": "c68f64a8-7273-4b61-97bb-1b6a8be325fc",
@@ -20791,7 +22270,7 @@
       ],
       "owner": "Designer",
       "created_at": "2026-09-24T23:21:57.992223+00:00",
-      "updated_at": "2026-09-24T23:21:57.992223+00:00"
+      "updated_at": "2026-09-29T00:08:55.403+00:00"
     },
     {
       "id": "de75be5e-2e56-43b5-a7b0-a08b91573077",
@@ -20841,6 +22320,36 @@
       "owner": "Designer",
       "created_at": "2026-09-24T23:21:57.992223+00:00",
       "updated_at": "2026-09-24T23:21:57.992223+00:00"
+    },
+    {
+      "id": "5b75537f-1238-4193-8de7-ea198f6ab7e8",
+      "name": "Trickster Attire",
+      "category": "Armor",
+      "description": "Reversible cloaks, colorful gambesons, and deceptive vestments with secret pockets.",
+      "paths": [
+        "Trickster"
+      ],
+      "genres": [
+        "Medieval"
+      ],
+      "owner": "system",
+      "created_at": "2026-09-29T00:58:21.387811+00:00",
+      "updated_at": "2026-09-29T00:58:21.387811+00:00"
+    },
+    {
+      "id": "4494f33c-b5c8-4779-a382-89e1b11223ac",
+      "name": "Trickster Weapons",
+      "category": "Weapons",
+      "description": "Concealed daggers, misdirection staves, chain whips, and erratic throwing projectiles.",
+      "paths": [
+        "Trickster"
+      ],
+      "genres": [
+        "Medieval"
+      ],
+      "owner": "system",
+      "created_at": "2026-09-29T00:58:21.387811+00:00",
+      "updated_at": "2026-09-29T00:58:21.387811+00:00"
     },
     {
       "id": "fbd9810a-a599-4a8f-acc7-4d9449c99e4b",
@@ -20903,6 +22412,51 @@
       "owner": "Designer",
       "created_at": "2026-09-24T23:21:57.992223+00:00",
       "updated_at": "2026-09-24T23:21:57.992223+00:00"
+    },
+    {
+      "id": "addcef77-1bf0-40b8-b00d-d39af773408f",
+      "name": "Warrior Armor",
+      "category": "Armor",
+      "description": "Comprehensive martial protection from chain shirts and scale mail to full knightly plate.",
+      "paths": [
+        "Warrior"
+      ],
+      "genres": [
+        "Medieval"
+      ],
+      "owner": "system",
+      "created_at": "2026-09-29T00:58:21.387811+00:00",
+      "updated_at": "2026-09-29T00:58:21.387811+00:00"
+    },
+    {
+      "id": "88c46e4a-4675-48e0-b023-9ff066a46236",
+      "name": "Warrior Shields",
+      "category": "Shields",
+      "description": "Complete frontline shield suite covering round, heater, kite, and infantry tower shields.",
+      "paths": [
+        "Warrior"
+      ],
+      "genres": [
+        "Medieval"
+      ],
+      "owner": "system",
+      "created_at": "2026-09-29T00:58:21.387811+00:00",
+      "updated_at": "2026-09-29T00:58:21.387811+00:00"
+    },
+    {
+      "id": "936d0c27-3233-4f40-bdd2-f068fea2d7fd",
+      "name": "Warrior Weapons",
+      "category": "Weapons",
+      "description": "Versatile battlefield armory encompassing longswords, poleaxes, warhammers, and bows.",
+      "paths": [
+        "Warrior"
+      ],
+      "genres": [
+        "Medieval"
+      ],
+      "owner": "system",
+      "created_at": "2026-09-29T00:58:21.387811+00:00",
+      "updated_at": "2026-09-29T00:58:21.387811+00:00"
     },
     {
       "id": "dbe47cb4-a2a4-4b21-9615-6bdd6590bb43",
@@ -22920,7 +24474,7 @@
       "genres": [
         "SciFi"
       ],
-      "path": "[\"Kryll (mso) {Free}\"]",
+      "path": "Kryll (mso) {Free}",
       "discipline": "Physical",
       "stat_hook": null,
       "notes": "This enhancement allows a character to move normally with a larger encumbrance. The character simply moves at one MR box better than is indicated on the MR/Carry table on the character’s back sheet.",
@@ -25247,7 +26801,7 @@
       "genres": [
         "SciFi"
       ],
-      "path": "[\"Kryll (mso) {Free}\", \"Zin-Shee Female (mso) {Free}\", \"Zin-Shee Male (mso) {Free}\"]",
+      "path": "[\"Zin-Shee Female (mso)\",\"Zin-Shee Male (mso)\",\"Kryll (mso) {Free}\"]",
       "discipline": "Mental",
       "stat_hook": null,
       "notes": "The character's olfactory nerves are exceptionally sensitive. The character may make enhanced rolls (+3) for any attempt to smell toxins, tracking scents, or chemical compounds.",
@@ -29988,7 +31542,7 @@
       "genres": [
         "SciFi"
       ],
-      "path": "[\"Calemora (mso) {Free}\", \"Kryll (mso) {Free}\", \"Shanask (mso) {Free}\"]",
+      "path": "[\"Calemora (mso)\",\"Shanask (mso)\",\"Kryll (mso) {Free}\"]",
       "discipline": "Mental",
       "stat_hook": null,
       "notes": "This grants a character an enhanced roll (+3) to control emotions, suppress fear, or resist mental manipulation. The character shows little or no outward sign of their true emotional state, making them highly inscrutable to social analysis.",
@@ -34048,7 +35602,7 @@
       "genres": [
         "SciFi"
       ],
-      "path": "[\"Spy (mso)\", \"Kryll (mso) {Free}\", \"Shanask (mso) {Free}\", \"Zin-Shee Female (mso) {Free}\", \"Zin-Shee Male (mso) {Free}\"]",
+      "path": "[\"Spy (mso)\",\"Shanask (mso)\",\"Zin-Shee Female (mso)\",\"Zin-Shee Male (mso)\",\"Kryll (mso) {Free}\"]",
       "discipline": "Mental",
       "stat_hook": null,
       "notes": "The character's eyes are adapted to capture minimal light (such as starlight or a computer diode), allowing them to see without penalty in low-light conditions. A single candle illuminates an entire stadium-sized area for them.",
@@ -34525,7 +36079,7 @@
       "genres": [
         "SciFi"
       ],
-      "path": "[\"Calemora (mso) {Free}\", \"Kryll (mso) {Free}\"]",
+      "path": "[\"Calemora (mso)\",\"Kryll (mso) {Free}\"]",
       "discipline": "Mental",
       "stat_hook": null,
       "notes": "A character with this enhancement is allowed an enhanced roll (+3) on all Will Power and 🫀 check to stay conscious as a result of critical damage, suffocation, toxic gases, or knock-out poisons.",
@@ -45643,7 +47197,7 @@
         "SciFi"
       ],
       "discipline": "Martial",
-      "path": "[\"Martial Artist (mso)\", \"Calemora (mso) {Free}\", \"Kryll (mso) {Free}\"]",
+      "path": "[\"Martial Artist (mso)\",\"Calemora (mso)\",\"Kryll (mso) {Free}\"]",
       "notes": null,
       "created_at": "2026-09-05T23:12:07.946889+00:00",
       "owner": "Designer",
@@ -45841,7 +47395,7 @@
         "SciFi"
       ],
       "discipline": "Tech",
-      "path": "[\"Ship Officer Engineer (mso)\", \"Mutak (mso)\", \"Kryll (mso) {Free}\", \"Shanask (mso) {Free}\"]",
+      "path": "[\"Ship Officer Engineer (mso)\",\"Mutak (mso)\",\"Shanask (mso)\",\"Kryll (mso) {Free}\"]",
       "notes": null,
       "created_at": "2026-09-05T23:12:07.946889+00:00",
       "owner": "Designer",
@@ -45908,7 +47462,7 @@
         "SciFi"
       ],
       "discipline": "Tech",
-      "path": "[\"Ship Officer Astrogation (mso)\",\"Ship Officer Comms (mso)\",\"Ship Officer Engineer (mso)\",\"Ship Officer Fighter Pilot (mso)\",\"Ship Officer Helm (mso)\",\"Ship Officer Medic (mso)\",\"Ship Officer Programmer (mso)\",\"Ship Officer Scientist (mso)\",\"Ship Officer Tactical (mso)\",\"Bio-Gunner (mso)\",\"Bio-Warrior (mso)\",\"Cyber Warrior (mso)\",\"Destron (mso)\",\"Dragon (mso)\",\"Marine (mso)\",\"Mensi (mso)\",\"Mutak (mso)\",\"Warlock (mso)\",\"Warrior (mso) {Free}\"]",
+      "path": "[\"Ship Officer Astrogation (mso)\",\"Ship Officer Comms (mso)\",\"Ship Officer Engineer (mso)\",\"Ship Officer Fighter Pilot (mso)\",\"Ship Officer Helm (mso)\",\"Ship Officer Medic (mso)\",\"Ship Officer Programmer (mso)\",\"Ship Officer Scientist (mso)\",\"Ship Officer Tactical (mso)\",\"Bio-Gunner (mso)\",\"Bio-Warrior (mso)\",\"Cyber Warrior (mso)\",\"Destron (mso)\",\"Marine (mso)\",\"Mensi (mso)\",\"Dragon (mso)\",\"Mutak (mso)\",\"Warlock (mso)\",\"Warrior (mso) {Free}\"]",
       "notes": null,
       "created_at": "2026-09-05T23:12:07.946889+00:00",
       "owner": "Designer",
@@ -46029,7 +47583,7 @@
         "SciFi"
       ],
       "discipline": "Physical",
-      "path": "[\"Spy (mso)\", \"Survivalist (mso)\", \"Warrior (mso)\", \"Kryll (mso) {Free}\"]",
+      "path": "[\"Spy (mso)\",\"Survivalist (mso)\",\"Warrior (mso)\",\"Kryll (mso) {Free}\"]",
       "notes": "This skill enables the character to climb sheer or precarious surfaces which would normally be too difficult to climb. The GM assesses a difficulty rating based on the surface; a successful check completes the climb, while a failure indicates a fall.",
       "created_at": "2026-09-05T23:12:07.946889+00:00",
       "owner": "Designer",
@@ -46941,7 +48495,7 @@
         "SciFi"
       ],
       "discipline": "Tech",
-      "path": "[\"Ship Officer Fighter Pilot (mso)\", \"Ship Officer Tactical (mso)\", \"Marine (mso)\", \"Warrior (mso)\", \"Calemora (mso) {Free}\", \"Kryll (mso) {Free}\", \"Shanask (mso) {Free}\"]",
+      "path": "[\"Ship Officer Fighter Pilot (mso)\",\"Ship Officer Tactical (mso)\",\"Marine (mso)\",\"Warrior (mso)\",\"Calemora (mso)\",\"Shanask (mso)\",\"Kryll (mso) {Free}\"]",
       "notes": null,
       "created_at": "2026-09-05T23:12:07.946889+00:00",
       "owner": "Designer",
@@ -46976,7 +48530,7 @@
         "SciFi"
       ],
       "discipline": "Medical",
-      "path": "[\"Ship Officer Medic (mso)\", \"Ship Officer Scientist (mso)\", \"Survivalist (mso)\", \"Bio-Gunner (mso)\", \"Bio-Warrior (mso)\", \"Marine (mso)\", \"Kryll (mso) {Free}\"]",
+      "path": "[\"Ship Officer Medic (mso)\",\"Ship Officer Scientist (mso)\",\"Survivalist (mso)\",\"Bio-Gunner (mso)\",\"Bio-Warrior (mso)\",\"Marine (mso)\",\"Kryll (mso) {Free}\"]",
       "notes": "First aid allows a character to heal damage to an injured individual. This skill restores a number of points equal to a single skill roll at -3, and it can only be used once per character after combat. It may also be used once every eight hours without penalty if the patient is under first aid care. It can also be used to stop Vitality drain by beating a difficulty of 5x the critical damage.",
       "created_at": "2026-09-05T23:12:07.946889+00:00",
       "owner": "Designer",
@@ -48535,7 +50089,7 @@
         "SciFi"
       ],
       "discipline": "Medical",
-      "path": "[\"Ship Officer Medic (mso)\", \"Kryll (mso) {Free}\"]",
+      "path": "[\"Ship Officer Medic (mso)\",\"Kryll (mso) {Free}\"]",
       "notes": null,
       "created_at": "2026-09-05T23:12:07.946889+00:00",
       "owner": "Designer",
@@ -48626,7 +50180,7 @@
         "SciFi"
       ],
       "discipline": "Covert",
-      "path": "[\"Spy (mso)\", \"Kryll (mso) {Free}\"]",
+      "path": "[\"Spy (mso)\",\"Kryll (mso) {Free}\"]",
       "notes": null,
       "created_at": "2026-09-05T23:12:07.946889+00:00",
       "owner": "Designer",
@@ -49174,6 +50728,24 @@
         "Assassination🎓",
         "Martial Prowess",
         "Ship Office Tactical"
+      ]
+    },
+    {
+      "id": 696,
+      "name": "Talk to Air",
+      "attribute": "👁️",
+      "genres": [
+        "Medieval",
+        "Modern",
+        "SciFi"
+      ],
+      "discipline": "Arcane",
+      "path": "Core Skills",
+      "notes": "asdfasdfasdf",
+      "created_at": "2026-09-27T18:03:33.696+00:00",
+      "owner": "Designer",
+      "sets": [
+        "Druidic"
       ]
     },
     {
@@ -49789,7 +51361,7 @@
         "SciFi"
       ],
       "discipline": "General",
-      "path": "[\"Kryll (mso) {Free}\", \"Shanask (mso) {Free}\"]",
+      "path": "[\"Shanask (mso)\",\"Kryll (mso) {Free}\"]",
       "notes": "A character with this handicap suffers a -3 penalty to all attempts to jump, either for height or distance.",
       "created_at": "2026-09-05T23:12:09.171701+00:00",
       "cost": "0s",
@@ -49806,7 +51378,7 @@
         "SciFi"
       ],
       "discipline": "General",
-      "path": "[\"Kryll (mso) {Free}\", \"Shanask (mso) {Free}\"]",
+      "path": "[\"Shanask (mso)\",\"Kryll (mso) {Free}\"]",
       "notes": "A character with this handicap suffers a -3 penalty to all rolls to run.",
       "created_at": "2026-09-05T23:12:09.171701+00:00",
       "cost": "0s",
@@ -51853,7 +53425,7 @@
         "SciFi"
       ],
       "discipline": "General",
-      "path": "[\"Kryll (mso) {Free}\"]",
+      "path": "Kryll (mso) {Free}",
       "notes": "The character is, in short, a slob. His or her living conditions and personal habits leave a great deal to be desired. Again, the player should expand upon this handicap, and roleplay for maximum effectiveness.",
       "created_at": "2026-09-05T23:12:09.293796+00:00",
       "cost": "0s",
@@ -52793,7 +54365,7 @@
         "SciFi"
       ],
       "discipline": "General",
-      "path": "[\"Kryll (mso) {Free}\", \"Shanask (mso) {Free}\"]",
+      "path": "[\"Shanask (mso)\",\"Kryll (mso) {Free}\"]",
       "notes": "A character with this handicap suffers a -3 penalty to all attempts to jump, either for height or distance.",
       "created_at": "2026-09-05T23:12:09.171701+00:00",
       "cost": "0s",
@@ -52810,7 +54382,7 @@
         "SciFi"
       ],
       "discipline": "General",
-      "path": "[\"Kryll (mso) {Free}\", \"Shanask (mso) {Free}\"]",
+      "path": "[\"Shanask (mso)\",\"Kryll (mso) {Free}\"]",
       "notes": "A character with this handicap suffers a -3 penalty to all rolls to run.",
       "created_at": "2026-09-05T23:12:09.171701+00:00",
       "cost": "0s",
@@ -54857,7 +56429,7 @@
         "SciFi"
       ],
       "discipline": "General",
-      "path": "[\"Kryll (mso) {Free}\"]",
+      "path": "Kryll (mso) {Free}",
       "notes": "The character is, in short, a slob. His or her living conditions and personal habits leave a great deal to be desired. Again, the player should expand upon this handicap, and roleplay for maximum effectiveness.",
       "created_at": "2026-09-05T23:12:09.293796+00:00",
       "cost": "0s",
@@ -55797,7 +57369,7 @@
         "SciFi"
       ],
       "discipline": "General",
-      "path": "[\"Kryll (mso) {Free}\", \"Shanask (mso) {Free}\"]",
+      "path": "[\"Shanask (mso)\",\"Kryll (mso) {Free}\"]",
       "notes": "A character with this handicap suffers a -3 penalty to all attempts to jump, either for height or distance.",
       "created_at": "2026-09-05T23:12:09.171701+00:00",
       "cost": "0s",
@@ -55814,7 +57386,7 @@
         "SciFi"
       ],
       "discipline": "General",
-      "path": "[\"Kryll (mso) {Free}\", \"Shanask (mso) {Free}\"]",
+      "path": "[\"Shanask (mso)\",\"Kryll (mso) {Free}\"]",
       "notes": "A character with this handicap suffers a -3 penalty to all rolls to run.",
       "created_at": "2026-09-05T23:12:09.171701+00:00",
       "cost": "0s",
@@ -57861,7 +59433,7 @@
         "SciFi"
       ],
       "discipline": "General",
-      "path": "[\"Kryll (mso) {Free}\"]",
+      "path": "Kryll (mso) {Free}",
       "notes": "The character is, in short, a slob. His or her living conditions and personal habits leave a great deal to be desired. Again, the player should expand upon this handicap, and roleplay for maximum effectiveness.",
       "created_at": "2026-09-05T23:12:09.293796+00:00",
       "cost": "0s",
@@ -58605,7 +60177,9 @@
       "path": null,
       "belongs_to": null,
       "owner": "Designer",
-      "sets": []
+      "sets": [
+        "Fairy Weapons"
+      ]
     },
     {
       "id": 2,
@@ -58673,7 +60247,10 @@
       "path": null,
       "belongs_to": null,
       "owner": "Designer",
-      "sets": []
+      "sets": [
+        "Magnetic Mage Weapons",
+        "Blackaxe Clan Weapons"
+      ]
     },
     {
       "id": 139,
@@ -58746,7 +60323,10 @@
       "path": null,
       "belongs_to": null,
       "owner": "Designer",
-      "sets": []
+      "sets": [
+        "Blade Saint Weapons",
+        "Half-Orc Weapons"
+      ]
     },
     {
       "id": 6,
@@ -58769,7 +60349,13 @@
       "path": null,
       "belongs_to": null,
       "owner": "Designer",
-      "sets": []
+      "sets": [
+        "Warrior Weapons",
+        "Shield Warrior Weapons",
+        "Dwarf Weapons",
+        "Blackaxe Clan Weapons",
+        "Half-Orc Weapons"
+      ]
     },
     {
       "id": 7,
@@ -58792,7 +60378,9 @@
       "path": null,
       "belongs_to": null,
       "owner": "Designer",
-      "sets": []
+      "sets": [
+        "Healer Weapons"
+      ]
     },
     {
       "id": 141,
@@ -58815,8 +60403,7 @@
       "owner": "Designer",
       "sets": [
         "BioTech Ranged Weapons (mso)",
-        "BioTech Weapons (mso)",
-        "Tech Ranged Weapons (mso)"
+        "BioTech Weapons (mso)"
       ]
     },
     {
@@ -58886,7 +60473,9 @@
       "path": null,
       "belongs_to": null,
       "owner": "Designer",
-      "sets": []
+      "sets": [
+        "Nymph Weapons"
+      ]
     },
     {
       "id": 142,
@@ -58909,8 +60498,7 @@
       "owner": "Designer",
       "sets": [
         "BioTech Melee Weapons (mso)",
-        "BioTech Weapons (mso)",
-        "Tech Melee Weapons (mso)"
+        "BioTech Weapons (mso)"
       ]
     },
     {
@@ -58934,8 +60522,7 @@
       "owner": "Designer",
       "sets": [
         "BioTech Melee Weapons (mso)",
-        "BioTech Weapons (mso)",
-        "Tech Melee Weapons (mso)"
+        "BioTech Weapons (mso)"
       ]
     },
     {
@@ -58959,8 +60546,7 @@
       "owner": "Designer",
       "sets": [
         "BioTech Melee Weapons (mso)",
-        "BioTech Weapons (mso)",
-        "Tech Melee Weapons (mso)"
+        "BioTech Weapons (mso)"
       ]
     },
     {
@@ -59162,7 +60748,9 @@
       "path": null,
       "belongs_to": null,
       "owner": "Designer",
-      "sets": []
+      "sets": [
+        "Bloodmarked Weapons"
+      ]
     },
     {
       "id": 149,
@@ -59209,7 +60797,14 @@
       "path": null,
       "belongs_to": null,
       "owner": "Designer",
-      "sets": []
+      "sets": [
+        "Nymph Weapons",
+        "Pixie Weapons",
+        "Elemental Mage Weapons",
+        "Assassin Weapons",
+        "Trickster Weapons",
+        "Fairy Weapons"
+      ]
     },
     {
       "id": 150,
@@ -59302,7 +60897,13 @@
       "path": null,
       "belongs_to": null,
       "owner": "Designer",
-      "sets": []
+      "sets": [
+        "Nymph Weapons",
+        "Warrior Weapons",
+        "Ranger Weapons",
+        "Human Weapons",
+        "Elf Weapons"
+      ]
     },
     {
       "id": 20,
@@ -59325,7 +60926,11 @@
       "path": null,
       "belongs_to": null,
       "owner": "Designer",
-      "sets": []
+      "sets": [
+        "Warrior Weapons",
+        "Ranger Weapons",
+        "Elf Weapons"
+      ]
     },
     {
       "id": 151,
@@ -59392,10 +60997,21 @@
       "notes": "Kick, Punch, Bite, GTH, Tail, Tacklet, etc.",
       "pic": null,
       "domain": "Archaic",
-      "path": "Base",
+      "path": "[\"Base\",\"Mutak (mso) {Free}\"]",
       "belongs_to": null,
       "owner": "Designer",
-      "sets": []
+      "sets": [
+        "Giant Weapons",
+        "Monk Weapons",
+        "Psychosomatic Weapons",
+        "Warrior Weapons",
+        "Cursed Spartan Weapons",
+        "Street Brawler Weapons",
+        "Shield Warrior Weapons",
+        "Goblin Weapons",
+        "Half-Orc Weapons",
+        "Orc Weapons"
+      ]
     },
     {
       "id": 211,
@@ -59417,7 +61033,7 @@
       "belongs_to": null,
       "owner": "Designer",
       "sets": [
-        "Archaic Weapons (mso)"
+        "Calemoran Racial Weapons (mso)"
       ]
     },
     {
@@ -59464,7 +61080,12 @@
       "path": null,
       "belongs_to": null,
       "owner": "Designer",
-      "sets": []
+      "sets": [
+        "Monk Weapons",
+        "Assassin Weapons",
+        "Trickster Weapons",
+        "Street Brawler Weapons"
+      ]
     },
     {
       "id": 24,
@@ -59510,7 +61131,9 @@
       "path": null,
       "belongs_to": null,
       "owner": "Designer",
-      "sets": []
+      "sets": [
+        "Psychosomatic Weapons"
+      ]
     },
     {
       "id": 26,
@@ -59533,7 +61156,9 @@
       "path": null,
       "belongs_to": null,
       "owner": "Designer",
-      "sets": []
+      "sets": [
+        "Bloodmarked Weapons"
+      ]
     },
     {
       "id": 27,
@@ -59556,7 +61181,13 @@
       "path": null,
       "belongs_to": null,
       "owner": "Designer",
-      "sets": []
+      "sets": [
+        "Giant Weapons",
+        "Healer Weapons",
+        "Psychosomatic Weapons",
+        "Street Brawler Weapons",
+        "Orc Weapons"
+      ]
     },
     {
       "id": 153,
@@ -59673,7 +61304,10 @@
       "path": null,
       "belongs_to": null,
       "owner": "Designer",
-      "sets": []
+      "sets": [
+        "Ranger Weapons",
+        "Human Weapons"
+      ]
     },
     {
       "id": 30,
@@ -59809,7 +61443,29 @@
       "path": null,
       "belongs_to": null,
       "owner": "Designer",
-      "sets": []
+      "sets": [
+        "Bard Weapons",
+        "Nymph Weapons",
+        "Pixie Weapons",
+        "Elemental Mage Weapons",
+        "Magnetic Mage Weapons",
+        "Blade Saint Weapons",
+        "Monk Weapons",
+        "Psionicist Weapons",
+        "Psionic Sentinel Weapons",
+        "Assassin Weapons",
+        "Trickster Weapons",
+        "Warrior Weapons",
+        "Cursed Spartan Weapons",
+        "Ranger Weapons",
+        "Fairy Weapons",
+        "Nelf Weapons",
+        "Bloodmarked Weapons",
+        "Elf Weapons",
+        "Goblin Weapons",
+        "Human Weapons",
+        "Gnome Weapons"
+      ]
     },
     {
       "id": 158,
@@ -59855,7 +61511,6 @@
       "belongs_to": null,
       "owner": "Designer",
       "sets": [
-        "Tech Ranged Weapons (mso)",
         "Artifact Weapons (mso)"
       ]
     },
@@ -60088,8 +61743,7 @@
       "owner": "Designer",
       "sets": [
         "BioTech Ranged Weapons (mso)",
-        "BioTech Weapons (mso)",
-        "Tech Ranged Weapons (mso)"
+        "BioTech Weapons (mso)"
       ]
     },
     {
@@ -60135,7 +61789,10 @@
       "path": null,
       "belongs_to": null,
       "owner": "Designer",
-      "sets": []
+      "sets": [
+        "Giant Weapons",
+        "Blackaxe Clan Weapons"
+      ]
     },
     {
       "id": 40,
@@ -60203,7 +61860,11 @@
       "path": null,
       "belongs_to": null,
       "owner": "Designer",
-      "sets": []
+      "sets": [
+        "Sun-Devoted Weapons",
+        "Shield Warrior Weapons",
+        "Half-Orc Weapons"
+      ]
     },
     {
       "id": 42,
@@ -60247,7 +61908,11 @@
       "path": null,
       "belongs_to": null,
       "owner": "Designer",
-      "sets": []
+      "sets": [
+        "Elemental Mage Weapons",
+        "Psionicist Weapons",
+        "Psionic Sentinel Weapons"
+      ]
     },
     {
       "id": 44,
@@ -60336,7 +62001,10 @@
       "path": null,
       "belongs_to": null,
       "owner": "Designer",
-      "sets": []
+      "sets": [
+        "Giant Weapons",
+        "Orc Weapons"
+      ]
     },
     {
       "id": 48,
@@ -60405,7 +62073,13 @@
       "path": null,
       "belongs_to": null,
       "owner": "Designer",
-      "sets": []
+      "sets": [
+        "Giant Weapons",
+        "Warrior Weapons",
+        "Half-Orc Weapons",
+        "Blackaxe Clan Weapons",
+        "Orc Weapons"
+      ]
     },
     {
       "id": 52,
@@ -60499,7 +62173,10 @@
       "path": null,
       "belongs_to": null,
       "owner": "Designer",
-      "sets": []
+      "sets": [
+        "Psionic Sentinel Weapons",
+        "Warrior Weapons"
+      ]
     },
     {
       "id": 55,
@@ -60522,7 +62199,13 @@
       "path": null,
       "belongs_to": null,
       "owner": "Designer",
-      "sets": []
+      "sets": [
+        "Street Brawler Weapons",
+        "Ranger Weapons",
+        "Goblin Weapons",
+        "Dwarf Weapons",
+        "Nelf Weapons"
+      ]
     },
     {
       "id": 56,
@@ -60545,7 +62228,10 @@
       "path": null,
       "belongs_to": null,
       "owner": "Designer",
-      "sets": []
+      "sets": [
+        "Assassin Weapons",
+        "Gnome Weapons"
+      ]
     },
     {
       "id": 167,
@@ -60592,7 +62278,10 @@
       "path": null,
       "belongs_to": null,
       "owner": "Designer",
-      "sets": []
+      "sets": [
+        "Warrior Weapons",
+        "Dwarf Weapons"
+      ]
     },
     {
       "id": 58,
@@ -60615,7 +62304,9 @@
       "path": null,
       "belongs_to": null,
       "owner": "Designer",
-      "sets": []
+      "sets": [
+        "Giant Weapons"
+      ]
     },
     {
       "id": 59,
@@ -60730,7 +62421,15 @@
       "path": "Base",
       "belongs_to": null,
       "owner": "Designer",
-      "sets": []
+      "sets": [
+        "Monk Weapons",
+        "Psychosomatic Weapons",
+        "Trickster Weapons",
+        "Street Brawler Weapons",
+        "Shield Warrior Weapons",
+        "Goblin Weapons",
+        "Gnome Weapons"
+      ]
     },
     {
       "id": 170,
@@ -60795,7 +62494,10 @@
       "path": null,
       "belongs_to": null,
       "owner": "Designer",
-      "sets": []
+      "sets": [
+        "Cursed Spartan Weapons",
+        "Bloodmarked Weapons"
+      ]
     },
     {
       "id": 171,
@@ -60912,7 +62614,14 @@
       "path": null,
       "belongs_to": null,
       "owner": "Designer",
-      "sets": []
+      "sets": [
+        "Bard Weapons",
+        "Assassin Weapons",
+        "Ranger Weapons",
+        "Goblin Weapons",
+        "Gnome Weapons",
+        "Nelf Weapons"
+      ]
     },
     {
       "id": 66,
@@ -60935,7 +62644,9 @@
       "path": null,
       "belongs_to": null,
       "owner": "Designer",
-      "sets": []
+      "sets": [
+        "Nymph Weapons"
+      ]
     },
     {
       "id": 67,
@@ -60958,7 +62669,16 @@
       "path": null,
       "belongs_to": null,
       "owner": "Designer",
-      "sets": []
+      "sets": [
+        "Bard Weapons",
+        "Magnetic Mage Weapons",
+        "Blade Saint Weapons",
+        "Psionic Sentinel Weapons",
+        "Warrior Weapons",
+        "Shield Warrior Weapons",
+        "Human Weapons",
+        "Elf Weapons"
+      ]
     },
     {
       "id": 68,
@@ -61191,7 +62911,6 @@
       "belongs_to": null,
       "owner": "Designer",
       "sets": [
-        "Tech Ranged Weapons (mso)",
         "Artifact Weapons (mso)"
       ]
     },
@@ -61216,7 +62935,10 @@
       "path": null,
       "belongs_to": null,
       "owner": "Designer",
-      "sets": []
+      "sets": [
+        "Sun-Devoted Weapons",
+        "Shield Warrior Weapons"
+      ]
     },
     {
       "id": 73,
@@ -61373,7 +63095,10 @@
       "path": null,
       "belongs_to": null,
       "owner": "Designer",
-      "sets": []
+      "sets": [
+        "Street Brawler Weapons",
+        "Gnome Weapons"
+      ]
     },
     {
       "id": 80,
@@ -61846,7 +63571,6 @@
       "belongs_to": null,
       "owner": "Designer",
       "sets": [
-        "Tech Melee Weapons (mso)",
         "Artifact Weapons (mso)"
       ]
     },
@@ -61871,7 +63595,17 @@
       "path": null,
       "belongs_to": null,
       "owner": "Designer",
-      "sets": []
+      "sets": [
+        "Nymph Weapons",
+        "Healer Weapons",
+        "Elemental Mage Weapons",
+        "Monk Weapons",
+        "Psionicist Weapons",
+        "Psychosomatic Weapons",
+        "Trickster Weapons",
+        "Fairy Weapons",
+        "Nelf Weapons"
+      ]
     },
     {
       "id": 90,
@@ -61894,7 +63628,9 @@
       "path": null,
       "belongs_to": null,
       "owner": "Designer",
-      "sets": []
+      "sets": [
+        "Orc Weapons"
+      ]
     },
     {
       "id": 189,
@@ -62078,7 +63814,10 @@
       "path": null,
       "belongs_to": null,
       "owner": "Designer",
-      "sets": []
+      "sets": [
+        "Blade Saint Weapons",
+        "Elf Weapons"
+      ]
     },
     {
       "id": 191,
@@ -62101,8 +63840,7 @@
       "owner": "Designer",
       "sets": [
         "BioTech Melee Weapons (mso)",
-        "BioTech Weapons (mso)",
-        "Tech Melee Weapons (mso)"
+        "BioTech Weapons (mso)"
       ]
     },
     {
@@ -62197,7 +63935,9 @@
       "path": null,
       "belongs_to": null,
       "owner": "Designer",
-      "sets": []
+      "sets": [
+        "Half-Orc Weapons"
+      ]
     },
     {
       "id": 99,
@@ -62268,7 +64008,19 @@
       "path": null,
       "belongs_to": null,
       "owner": "Designer",
-      "sets": []
+      "sets": [
+        "Bard Weapons",
+        "Magnetic Mage Weapons",
+        "Blade Saint Weapons",
+        "Assassin Weapons",
+        "Trickster Weapons",
+        "Cursed Spartan Weapons",
+        "Ranger Weapons",
+        "Goblin Weapons",
+        "Gnome Weapons",
+        "Elf Weapons",
+        "Nelf Weapons"
+      ]
     },
     {
       "id": 101,
@@ -62335,7 +64087,10 @@
       "path": null,
       "belongs_to": null,
       "owner": "Designer",
-      "sets": []
+      "sets": [
+        "Elemental Mage Weapons",
+        "Monk Weapons"
+      ]
     },
     {
       "id": 104,
@@ -62380,7 +64135,9 @@
       "path": null,
       "belongs_to": null,
       "owner": "Designer",
-      "sets": []
+      "sets": [
+        "Blackaxe Clan Weapons"
+      ]
     },
     {
       "id": 106,
@@ -62539,7 +64296,18 @@
       "path": null,
       "belongs_to": null,
       "owner": "Designer",
-      "sets": []
+      "sets": [
+        "Sun-Devoted Weapons",
+        "Psionic Sentinel Weapons",
+        "Warrior Weapons",
+        "Cursed Spartan Weapons",
+        "Ranger Weapons",
+        "Shield Warrior Weapons",
+        "Human Weapons",
+        "Bloodmarked Weapons",
+        "Half-Orc Weapons",
+        "Elf Weapons"
+      ]
     },
     {
       "id": 198,
@@ -62586,8 +64354,7 @@
       "owner": "Designer",
       "sets": [
         "BioTech Ranged Weapons (mso)",
-        "BioTech Weapons (mso)",
-        "Tech Ranged Weapons (mso)"
+        "BioTech Weapons (mso)"
       ]
     },
     {
@@ -62700,7 +64467,9 @@
       "path": null,
       "belongs_to": null,
       "owner": "Designer",
-      "sets": []
+      "sets": [
+        "Sun-Devoted Weapons"
+      ]
     },
     {
       "id": 114,
@@ -62723,7 +64492,9 @@
       "path": null,
       "belongs_to": null,
       "owner": "Designer",
-      "sets": []
+      "sets": [
+        "Human Weapons"
+      ]
     },
     {
       "id": 201,
@@ -62771,7 +64542,6 @@
       "belongs_to": null,
       "owner": "Designer",
       "sets": [
-        "Archaic Weapons (mso)",
         "Artifact Weapons (mso)"
       ]
     },
@@ -62794,10 +64564,7 @@
       "path": "[\"Tech Ranged Weapons (mso)\", \"Tech Heavy Ranged Weapons (mso)\"]",
       "belongs_to": null,
       "owner": "Designer",
-      "sets": [
-        "Tech Heavy Ranged Weapons (mso)",
-        "Tech Ranged Weapons (mso)"
-      ]
+      "sets": []
     },
     {
       "id": 115,
@@ -62914,8 +64681,7 @@
       "owner": "Designer",
       "sets": [
         "BioTech Melee Weapons (mso)",
-        "BioTech Weapons (mso)",
-        "Tech Melee Weapons (mso)"
+        "BioTech Weapons (mso)"
       ]
     },
     {
@@ -62984,7 +64750,9 @@
       "path": "Base",
       "belongs_to": null,
       "owner": "Designer",
-      "sets": []
+      "sets": [
+        "Healer Weapons"
+      ]
     },
     {
       "id": 120,
@@ -63007,7 +64775,17 @@
       "path": "Base",
       "belongs_to": null,
       "owner": "Designer",
-      "sets": []
+      "sets": [
+        "Giant Weapons",
+        "Monk Weapons",
+        "Psychosomatic Weapons",
+        "Cursed Spartan Weapons",
+        "Street Brawler Weapons",
+        "Shield Warrior Weapons",
+        "Goblin Weapons",
+        "Gnome Weapons",
+        "Nelf Weapons"
+      ]
     },
     {
       "id": 206,
@@ -63029,7 +64807,6 @@
       "belongs_to": null,
       "owner": "Designer",
       "sets": [
-        "Archaic Weapons (mso)",
         "Tech Ranged Weapons (mso)"
       ]
     },
@@ -63054,7 +64831,14 @@
       "path": null,
       "belongs_to": null,
       "owner": "Designer",
-      "sets": []
+      "sets": [
+        "Magnetic Mage Weapons",
+        "Cursed Spartan Weapons",
+        "Ranger Weapons",
+        "Dwarf Weapons",
+        "Half-Orc Weapons",
+        "Orc Weapons"
+      ]
     },
     {
       "id": 122,
@@ -63077,7 +64861,18 @@
       "path": null,
       "belongs_to": null,
       "owner": "Designer",
-      "sets": []
+      "sets": [
+        "Bard Weapons",
+        "Pixie Weapons",
+        "Elemental Mage Weapons",
+        "Magnetic Mage Weapons",
+        "Monk Weapons",
+        "Psionicist Weapons",
+        "Assassin Weapons",
+        "Trickster Weapons",
+        "Fairy Weapons",
+        "Nelf Weapons"
+      ]
     },
     {
       "id": 123,
@@ -63100,7 +64895,12 @@
       "path": null,
       "belongs_to": null,
       "owner": "Designer",
-      "sets": []
+      "sets": [
+        "Pixie Weapons",
+        "Assassin Weapons",
+        "Goblin Weapons",
+        "Fairy Weapons"
+      ]
     },
     {
       "id": 124,
@@ -63123,7 +64923,9 @@
       "path": null,
       "belongs_to": null,
       "owner": "Designer",
-      "sets": []
+      "sets": [
+        "Blackaxe Clan Weapons"
+      ]
     },
     {
       "id": 125,
@@ -63146,7 +64948,10 @@
       "path": null,
       "belongs_to": null,
       "owner": "Designer",
-      "sets": []
+      "sets": [
+        "Cursed Spartan Weapons",
+        "Bloodmarked Weapons"
+      ]
     },
     {
       "id": 126,
@@ -63284,8 +65089,7 @@
       "owner": "Designer",
       "sets": [
         "BioTech Ranged Weapons (mso)",
-        "BioTech Weapons (mso)",
-        "Tech Ranged Weapons (mso)"
+        "BioTech Weapons (mso)"
       ]
     },
     {
@@ -63355,7 +65159,9 @@
       "path": null,
       "belongs_to": null,
       "owner": "Designer",
-      "sets": []
+      "sets": [
+        "Orc Weapons"
+      ]
     },
     {
       "id": 133,
@@ -63378,7 +65184,16 @@
       "path": null,
       "belongs_to": null,
       "owner": "Designer",
-      "sets": []
+      "sets": [
+        "Giant Weapons",
+        "Healer Weapons",
+        "Sun-Devoted Weapons",
+        "Warrior Weapons",
+        "Cursed Spartan Weapons",
+        "Shield Warrior Weapons",
+        "Dwarf Weapons",
+        "Orc Weapons"
+      ]
     },
     {
       "id": 134,
@@ -63401,7 +65216,9 @@
       "path": null,
       "belongs_to": null,
       "owner": "Designer",
-      "sets": []
+      "sets": [
+        "Dwarf Weapons"
+      ]
     },
     {
       "id": 135,
@@ -63495,8 +65312,7 @@
       "owner": "Designer",
       "sets": [
         "BioTech Ranged Weapons (mso)",
-        "BioTech Weapons (mso)",
-        "Tech Ranged Weapons (mso)"
+        "BioTech Weapons (mso)"
       ]
     },
     {
@@ -63739,7 +65555,9 @@
       "path": null,
       "belongs_to": null,
       "owner": "Designer",
-      "sets": []
+      "sets": [
+        "Shield Warrior Armor"
+      ]
     },
     {
       "id": 7,
@@ -63799,7 +65617,8 @@
       "owner": "Designer",
       "sets": [
         "Tech Armor Heavy (mso)",
-        "Tech Suit Armor (mso)"
+        "Tech Suit Armor (mso)",
+        "Tech Armor (mso)"
       ]
     },
     {
@@ -63903,7 +65722,10 @@
       "path": null,
       "belongs_to": null,
       "owner": "Designer",
-      "sets": []
+      "sets": [
+        "Sun-Devoted Armor",
+        "Cursed Spartan Armor"
+      ]
     },
     {
       "id": 73,
@@ -63965,8 +65787,7 @@
       "belongs_to": null,
       "owner": "Designer",
       "sets": [
-        "BioTech Armor (mso)",
-        "Tech Armor (mso)"
+        "BioTech Armor (mso)"
       ]
     },
     {
@@ -64009,7 +65830,14 @@
       "path": null,
       "belongs_to": null,
       "owner": "Designer",
-      "sets": []
+      "sets": [
+        "Healer Vestments",
+        "Magnetic Armor",
+        "Psionic Sentinel Armor",
+        "Warrior Armor",
+        "Ranger Armor",
+        "Shield Warrior Armor"
+      ]
     },
     {
       "id": 18,
@@ -64109,8 +65937,7 @@
       "belongs_to": null,
       "owner": "Designer",
       "sets": [
-        "CyberTech Armor (mso)",
-        "Tech Armor (mso)"
+        "CyberTech Armor (mso)"
       ]
     },
     {
@@ -64131,8 +65958,7 @@
       "belongs_to": null,
       "owner": "Designer",
       "sets": [
-        "CyberTech Armor (mso)",
-        "Tech Armor (mso)"
+        "CyberTech Armor (mso)"
       ]
     },
     {
@@ -64153,8 +65979,7 @@
       "belongs_to": null,
       "owner": "Designer",
       "sets": [
-        "CyberTech Armor (mso)",
-        "Tech Armor (mso)"
+        "CyberTech Armor (mso)"
       ]
     },
     {
@@ -64175,8 +66000,7 @@
       "belongs_to": null,
       "owner": "Designer",
       "sets": [
-        "CyberTech Armor (mso)",
-        "Tech Armor (mso)"
+        "CyberTech Armor (mso)"
       ]
     },
     {
@@ -64198,7 +66022,9 @@
       "path": null,
       "belongs_to": null,
       "owner": "Designer",
-      "sets": []
+      "sets": [
+        "Brawler Leathers"
+      ]
     },
     {
       "id": 80,
@@ -64219,7 +66045,8 @@
       "owner": "Designer",
       "sets": [
         "Tech Armor Heavy (mso)",
-        "Tech Suit Armor (mso)"
+        "Tech Suit Armor (mso)",
+        "Tech Armor (mso)"
       ]
     },
     {
@@ -64260,7 +66087,9 @@
       "path": null,
       "belongs_to": null,
       "owner": "Designer",
-      "sets": []
+      "sets": [
+        "Giant Armor"
+      ]
     },
     {
       "id": 24,
@@ -64321,7 +66150,8 @@
       "owner": "Designer",
       "sets": [
         "Tech Armor Medium (mso)",
-        "Tech Armor (mso)"
+        "Tech Armor (mso)",
+        "Tech Suit Armor (mso)"
       ]
     },
     {
@@ -64383,7 +66213,8 @@
       "belongs_to": null,
       "owner": "Designer",
       "sets": [
-        "Archaic Armor (mso)"
+        "Archaic Armor (mso)",
+        "Tech Armor (mso)"
       ]
     },
     {
@@ -64405,7 +66236,12 @@
       "path": null,
       "belongs_to": null,
       "owner": "Designer",
-      "sets": []
+      "sets": [
+        "Sun-Devoted Armor",
+        "Warrior Armor",
+        "Cursed Spartan Armor",
+        "Shield Warrior Armor"
+      ]
     },
     {
       "id": 29,
@@ -64468,7 +66304,13 @@
       "path": null,
       "belongs_to": null,
       "owner": "Designer",
-      "sets": []
+      "sets": [
+        "Bard Armor",
+        "Psychosomatic Attire",
+        "Assassin Leathers",
+        "Trickster Attire",
+        "Ranger Armor"
+      ]
     },
     {
       "id": 32,
@@ -64510,7 +66352,13 @@
       "path": null,
       "belongs_to": null,
       "owner": "Designer",
-      "sets": []
+      "sets": [
+        "Nymph Attire",
+        "Pixie Shroud",
+        "Elemental Robes",
+        "Assassin Leathers",
+        "Trickster Attire"
+      ]
     },
     {
       "id": 34,
@@ -64531,7 +66379,10 @@
       "path": null,
       "belongs_to": null,
       "owner": "Designer",
-      "sets": []
+      "sets": [
+        "Warrior Armor",
+        "Shield Warrior Armor"
+      ]
     },
     {
       "id": 35,
@@ -64594,7 +66445,13 @@
       "path": null,
       "belongs_to": null,
       "owner": "Designer",
-      "sets": []
+      "sets": [
+        "Giant Armor",
+        "Monk Vestments",
+        "Psychosomatic Attire",
+        "Warrior Armor",
+        "Ranger Armor"
+      ]
     },
     {
       "id": 83,
@@ -64614,8 +66471,7 @@
       "belongs_to": null,
       "owner": "Designer",
       "sets": [
-        "BioTech Armor (mso)",
-        "Tech Armor (mso)"
+        "BioTech Armor (mso)"
       ]
     },
     {
@@ -64677,7 +66533,14 @@
       "path": null,
       "belongs_to": null,
       "owner": "Designer",
-      "sets": []
+      "sets": [
+        "Healer Vestments",
+        "Magnetic Armor",
+        "Blade Saint Garb",
+        "Psionic Sentinel Armor",
+        "Warrior Armor",
+        "Cursed Spartan Armor"
+      ]
     },
     {
       "id": 84,
@@ -64697,8 +66560,7 @@
       "belongs_to": null,
       "owner": "Designer",
       "sets": [
-        "BioTech Armor (mso)",
-        "Tech Armor (mso)"
+        "BioTech Armor (mso)"
       ]
     },
     {
@@ -64720,7 +66582,10 @@
       "path": null,
       "belongs_to": null,
       "owner": "Designer",
-      "sets": []
+      "sets": [
+        "Nymph Attire",
+        "Pixie Shroud"
+      ]
     },
     {
       "id": 42,
@@ -64741,7 +66606,11 @@
       "path": null,
       "belongs_to": null,
       "owner": "Designer",
-      "sets": []
+      "sets": [
+        "Nymph Attire",
+        "Assassin Leathers",
+        "Brawler Leathers"
+      ]
     },
     {
       "id": 43,
@@ -64782,7 +66651,8 @@
       "sets": [
         "Tech Armor Medium (mso)",
         "Tech Armor Heavy (mso)",
-        "Tech Armor (mso)"
+        "Tech Armor (mso)",
+        "Tech Suit Armor (mso)"
       ]
     },
     {
@@ -64846,7 +66716,21 @@
       "path": null,
       "belongs_to": null,
       "owner": "Designer",
-      "sets": []
+      "sets": [
+        "Bard Armor",
+        "Healer Vestments",
+        "Elemental Robes",
+        "Magnetic Armor",
+        "Blade Saint Garb",
+        "Monk Vestments",
+        "Psionicist Robes",
+        "Psionic Sentinel Armor",
+        "Psychosomatic Attire",
+        "Assassin Leathers",
+        "Trickster Attire",
+        "Brawler Leathers",
+        "Ranger Armor"
+      ]
     },
     {
       "id": 47,
@@ -64867,7 +66751,15 @@
       "path": null,
       "belongs_to": null,
       "owner": "Designer",
-      "sets": []
+      "sets": [
+        "Healer Vestments",
+        "Sun-Devoted Armor",
+        "Magnetic Armor",
+        "Psionic Sentinel Armor",
+        "Warrior Armor",
+        "Cursed Spartan Armor",
+        "Shield Warrior Armor"
+      ]
     },
     {
       "id": 86,
@@ -64887,8 +66779,7 @@
       "belongs_to": null,
       "owner": "Designer",
       "sets": [
-        "BioTech Armor (mso)",
-        "Tech Armor (mso)"
+        "BioTech Armor (mso)"
       ]
     },
     {
@@ -64950,7 +66841,6 @@
       "belongs_to": null,
       "owner": "Designer",
       "sets": [
-        "Tech Armor Heavy (mso)",
         "Artifact Armor (mso)"
       ]
     },
@@ -65015,7 +66905,12 @@
       "path": null,
       "belongs_to": null,
       "owner": "Designer",
-      "sets": []
+      "sets": [
+        "Sun-Devoted Armor",
+        "Warrior Armor",
+        "Cursed Spartan Armor",
+        "Shield Warrior Armor"
+      ]
     },
     {
       "id": 53,
@@ -65055,7 +66950,8 @@
       "owner": "Designer",
       "sets": [
         "Tech Armor Medium (mso)",
-        "Tech Armor (mso)"
+        "Tech Armor (mso)",
+        "Tech Suit Armor (mso)"
       ]
     },
     {
@@ -65115,8 +67011,7 @@
       "belongs_to": null,
       "owner": "Designer",
       "sets": [
-        "BioTech Armor (mso)",
-        "Tech Armor (mso)"
+        "BioTech Armor (mso)"
       ]
     },
     {
@@ -65179,8 +67074,7 @@
       "belongs_to": null,
       "owner": "Designer",
       "sets": [
-        "BioTech Armor (mso)",
-        "Tech Armor (mso)"
+        "BioTech Armor (mso)"
       ]
     },
     {
@@ -65202,7 +67096,9 @@
       "path": null,
       "belongs_to": null,
       "owner": "Designer",
-      "sets": []
+      "sets": [
+        "Brawler Leathers"
+      ]
     },
     {
       "id": 59,
@@ -65244,7 +67140,9 @@
       "path": null,
       "belongs_to": null,
       "owner": "Designer",
-      "sets": []
+      "sets": [
+        "Giant Armor"
+      ]
     },
     {
       "id": 61,
@@ -65286,7 +67184,9 @@
       "path": null,
       "belongs_to": null,
       "owner": "Designer",
-      "sets": []
+      "sets": [
+        "Shield Warrior Armor"
+      ]
     },
     {
       "id": 63,
@@ -65307,7 +67207,18 @@
       "path": null,
       "belongs_to": null,
       "owner": "Designer",
-      "sets": []
+      "sets": [
+        "Bard Armor",
+        "Nymph Attire",
+        "Pixie Shroud",
+        "Elemental Robes",
+        "Blade Saint Garb",
+        "Monk Vestments",
+        "Psionicist Robes",
+        "Assassin Leathers",
+        "Trickster Attire",
+        "Ranger Armor"
+      ]
     },
     {
       "id": 64,
@@ -65347,7 +67258,8 @@
       "owner": "Designer",
       "sets": [
         "Tech Armor Medium (mso)",
-        "Tech Armor (mso)"
+        "Tech Armor (mso)",
+        "Tech Suit Armor (mso)"
       ]
     },
     {
@@ -65366,10 +67278,18 @@
       "notes": "No Armor, Clothing, or other non-armor gear",
       "pic": null,
       "domain": "Archaic",
-      "path": "Base",
+      "path": "[\"Base\",\"Mutak (mso) {Free}\"]",
       "belongs_to": null,
       "owner": "Designer",
-      "sets": []
+      "sets": [
+        "Nymph Attire",
+        "Pixie Shroud",
+        "Elemental Robes",
+        "Blade Saint Garb",
+        "Monk Vestments",
+        "Psionicist Robes",
+        "Psychosomatic Attire"
+      ]
     },
     {
       "id": 91,
@@ -65385,12 +67305,10 @@
       "notes": "No Armor, Clothing, or other non-armor gear",
       "pic": null,
       "domain": "Archaic",
-      "path": "[\"Base\",\"Archaic Armor (mso)\",\"Mensi (mso) {Free}\"]",
+      "path": "[\"Base\",\"Archaic Armor (mso)\",\"Mensi (mso)\",\"Warlock (mso) {Free}\"]",
       "belongs_to": null,
       "owner": "Designer",
-      "sets": [
-        "Archaic Armor (mso)"
-      ]
+      "sets": []
     },
     {
       "id": 66,
@@ -65453,7 +67371,14 @@
       "path": null,
       "belongs_to": null,
       "owner": "Designer",
-      "sets": []
+      "sets": [
+        "Healer Shields",
+        "Sun-Devoted Shields",
+        "Magnetic Shields",
+        "Psionic Sentinel Shields",
+        "Warrior Shields",
+        "Shield Warrior Shields"
+      ]
     },
     {
       "id": 9,
@@ -65493,7 +67418,13 @@
       "path": null,
       "belongs_to": null,
       "owner": "Designer",
-      "sets": []
+      "sets": [
+        "Sun-Devoted Shields",
+        "Magnetic Shields",
+        "Warrior Shields",
+        "Cursed Spartan Shields",
+        "Shield Warrior Shields"
+      ]
     },
     {
       "id": 3,
@@ -65552,7 +67483,16 @@
       "path": null,
       "belongs_to": null,
       "owner": "Designer",
-      "sets": []
+      "sets": [
+        "Healer Shields",
+        "Sun-Devoted Shields",
+        "Magnetic Shields",
+        "Psionic Sentinel Shields",
+        "Warrior Shields",
+        "Cursed Spartan Shields",
+        "Brawler Shields",
+        "Shield Warrior Shields"
+      ]
     },
     {
       "id": 5,
@@ -65572,7 +67512,10 @@
       "path": null,
       "belongs_to": null,
       "owner": "Designer",
-      "sets": []
+      "sets": [
+        "Giant Shields",
+        "Shield Warrior Shields"
+      ]
     },
     {
       "id": 6,
@@ -65592,7 +67535,12 @@
       "path": null,
       "belongs_to": null,
       "owner": "Designer",
-      "sets": []
+      "sets": [
+        "Giant Shields",
+        "Warrior Shields",
+        "Cursed Spartan Shields",
+        "Shield Warrior Shields"
+      ]
     },
     {
       "id": 7,

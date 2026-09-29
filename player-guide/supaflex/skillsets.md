@@ -205,6 +205,7 @@ Master indexed skill sets and atomic skills directory.
 | **Swimming** | 🏃 | Physical | Athletics, Sailing, Spec Survivalist |  |
 | **Swimming (mso)** | 🏃 | Physical | Athletic & Physical, Survivalist | Without this skill, characters must pass an 🏃^10 check to dog-paddle at 👣 1 or risk drowning. Possessing this skill allows unhindered swimming in calm waters; navigating turbulent waters (rapids, rip tides, stormy seas) requires an 🏃^Dif check. Swimming movement rate equals half the character's 🏃 die. |
 | **Tactics** | 👁️ | Martial | Assassin, Assassination, Assassination🎓, Martial Prowess, Ship Office Tactical |  |
+| **Talk to Air** | 👁️ | Arcane | Druidic | asdfasdfasdf |
 | **Talk To Animal** | ✨ | General | Druidic, Husbandry |  |
 | **Talk To Plants** | ✨ | General | Druidic |  |
 | **Taunt** | 👁️ | General | Intimidation & Presence |  |
@@ -254,7 +255,7 @@ Master indexed skill sets and atomic skills directory.
 | **Covert** | 🫀 Gambling (mso) |
 | **Crafting** | 💪 Carpentry, 💪 Leatherwork, 💪 Repair Armor/Weapons |
 | **Diplomacy** | 👁️ Charm, 👁️ Fast Talk, 👁️ Languages, 👁️ Negotiation, 👁️ Persuasion, 🫀 Intimidation |
-| **Druidic** | ✨ Talk To Animal, ✨ Talk To Plants, 👁️ Animal Handling, 👁️ ID Plants, 🫀 Resist Weather |
+| **Druidic** | ✨ Talk To Animal, ✨ Talk To Plants, 👁️ Animal Handling, 👁️ ID Plants, 👁️ Talk to Air, 🫀 Resist Weather |
 | **Dungeoneering** | 🏃 Climbing, 🏃 Detect/Remove Traps, 👁️ Assess Stonework, 👁️ Direction Sense |
 | **Dwarven Skills** | 👁️ Brewing, 👁️ Underground Lore, 💪 Mining, 💪 Repair Gear, 💪 Stonecraft, 🫀 Resist Poison |
 | **Elven Skills** | ✨ Resist Charm, 🏃 Stealth, 🏃 Tracking, 👁️ Artistry, 👁️ Forest Lore, 💪 Fletching |

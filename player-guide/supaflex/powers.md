@@ -833,10 +833,11 @@ Select one of the many sub-sets of powers such as Class👤, Race🧬, Combat St
 | 1-Enc | P | **Shield of Names** | Adjacent ally’s AR+1 this rnd. |
 | 1-⚡ | F | **Veiled Mind** | On successful Resist✨^mental effect: 👁️^👁️ or attacker is Weakened. |
 
-### 🧬 **Kryll (mso) Powers** (1 Abilities)
+### 🧬 **Kryll (mso) Powers** (2 Abilities)
 
 | Usage | Action | Name | Effect |
 | --- | --- | --- | --- |
+| 1-Enc | P | **Carry More (mso)** | +4 to carrying capacity and heavy lifting. |
 | 1-Enc | F | **Tail Spike Venom (mso)** | +Tail spike natural strike (Brawl); Wnds = Save 🫀^20 or Stunned for Encounter. |
 
 ### 🧬 **Nelf Powers** (10 Abilities)
@@ -906,7 +907,6 @@ Select one of the many sub-sets of powers such as Class👤, Race🧬, Combat St
 | Combat | 2-Enc | A | **Body Heal (mso)** | Heals d✨ Vit. |
 | Combat | 1-⚡ | F | **Boomerang Block🛡️** | Hurl shield to intercept Atk targeting ally: roll Def normally; on success, total Block (no Dmg). |
 | Combat | 2-Enc | P | **Brace** | Plant shield: AR+1 for 1 Rnd. |
-| Combat | 1-Enc | P | **Carry More (mso)** | +4 to carrying capacity and heavy lifting. |
 | Combat | 1-Enc | P | **Catch Object (mso)** | Catch falling item or tossed object with 🏃. |
 | Combat | 2-Enc | F | **Catch Ranged (mso)** | Catch low-velocity hurled weapon with 🏃. |
 | Combat | 1-⚡ | A | **Chain Strikes** | Make 3 Atk & Dmg targeting same foe. |
