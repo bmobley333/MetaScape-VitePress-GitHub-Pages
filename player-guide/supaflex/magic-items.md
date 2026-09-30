@@ -20,14 +20,14 @@ Index of purchasable Gear Powers (🧿) and treasure Artifacts (🔮) derived fr
 | 1-Enc | F | **Ankh of the Undying** | Ankh of the Undying | If bearer is dropped to 0 or less, auto-revive to 1. |
 | 1-Rnd | F | **Anti-Grav Harness** | Anti-Grav Harness | Articulated arm mounts 1 heavy or two-handed weapon with buoyant support (wield 1-handed, no brace required); Max MR is lesser of (6, MR-1). |
 | 1-Enc | P | **Apron of Endless Pockets** | Apron of Endless Pockets | Find 1 small tool/snack. |
-| 1-⚡ | M | **Ash-and-Blood WarPaint** | Ash-and-Blood WarPaint | While painted; Nish🚩+1 for encounter. |
+| 1-⚡ | M | **Ash-and-Blood WarPaint** | Ash-and-Blood WarPaint | While painted; 🚩+1 for encounter. |
 | 2-Enc | P | **Ash-Herb Pouch Healing** | Ash-Herb Pouch | Apply herbal dusts; Heal 1 Vit to adjacent ally. |
 | 1-⚡ | A | **Summan ATM (mso)** | ATM Sphere (mso) | Throw Rng Short; creates ATM with Character's Stats; for encounter. |
 | 2-Enc | P | **Stealth Vehicle Transit (mso)** | ATV Tumbler (mso) | All-terrain stealth vehicle; 👣 18; Stealth 🏃. |
 | 1-Rnd | P | **Backpack of Holding** | Backpack of Holding | Store much more gear; retrieve instantly. |
-| 1-⚡ | P | **Banner of Eternity** | Banner of Eternity | Allies Nish🚩+2 while carried for encounter. |
+| 1-⚡ | P | **Banner of Eternity** | Banner of Eternity | Allies 🚩+2 while carried for encounter. |
 | 1-Enc | P | **Bell of Guidance** | Bell of Guidance | Allies Roll+1 next roll. |
-| 1-Enc | P | **Bell of Rallying** | Bell of Rallying | Allies in earshot Nish🚩+1. |
+| 1-Enc | P | **Bell of Rallying** | Bell of Rallying | Allies in earshot 🚩+1. |
 | 1-⚡ | P | **Many Knots** | Belt of Many Knots | 🏃 Climb/Bind+2 for Encounter. |
 | 1-⚡ | A | **Final Memory** | Blade of Final Memory | On hit, target forgets last 24h; Dmg +8. |
 | 1-Enc | A | **Thought (Longsword)** | Blade of Thought (Longsword) | On hit; ✨ force Dmg+1; once per Enc, also push target 1sq. |
@@ -35,10 +35,10 @@ Index of purchasable Gear Powers (🧿) and treasure Artifacts (🔮) derived fr
 | 1-⚡ | P | **Boneweave [Armor]** | Boneweave [Armor] | Immune to poison for Encounter. |
 | 1-Enc | F | **Bookmark of Memory** | Bookmark of Memory | Recall last page perfectly. |
 | 1-Enc | A | **Boom [Weapon]** | Boom [Weapon] | ✨+1 for 1 Rnd; amplify voice for Encounter. |
-| 1-Enc | M | **Boundless Step** | Boots of Boundless Step | Move double MR👣 this Rnd. |
+| 1-Enc | M | **Boundless Step** | Boots of Boundless Step | Move 2x 👣 this Rnd. |
 | 2-Enc | P | **Vertical Levitation Drift (mso)** | Boots of Levitation (mso) | Levitate vertically 👣 5. |
 | 1-Enc | M | **Springsteel** | Boots of Springsteel | Doubles jump height. |
-| 1-Enc | M | **the Cyclone** | Boots of the Cyclone | MR👣 doubled for encounter; leave whirlwind trail (foes Rolls-1). |
+| 1-Enc | M | **the Cyclone** | Boots of the Cyclone | 👣 doubled for encounter; leave whirlwind trail (foes Rolls-1). |
 | 1-Enc | P | **Psionic Focus** | Bracers of Psionic Focus | Atk+1 and Def+1 for 1 Rnd. |
 | 1-Enc | P | **Strength** | Bracers of Strength | 💪 Strength+2 (lifting, bend bars, etc.) for Encounter. |
 | 1-Enc | P | **the Unbroken Stance** | Bracers of the Unbroken Stance | Immune to push and pull; AR+1 for 1 Rnd. |
@@ -86,7 +86,7 @@ Index of purchasable Gear Powers (🧿) and treasure Artifacts (🔮) derived fr
 | 1-⚡ | P | **D-Sizer** | D-Sizer | Shrink or un-shrink eligible metal item (weapon or device no larger than Destron armor) to pawn size. |
 | 1-Enc | P | **D-Walker** | D-Walker | Shift to alternate dimension; move horizontally with no sensory input; reappear at new location on deactivation. |
 | 1-Enc | A | **Decohesion Gun** | Decohesion Gun | Atk(👁️) Dmg(✨+1); once hit, continuous beam auto-hits each Rnd (roll Dmg only); target implodes when cumulative Dmg > 🫀. |
-| 1-Enc | P | **Dice of Fortune** | Dice of Fortune | Roll d10 on 10 gain 1 Luck🍀 chit. |
+| 1-Enc | P | **Dice of Fortune** | Dice of Fortune | Roll d10 on 10 gain 1 🍀 chit. |
 | 1-⚡ | M | **Synchronized Spatial Disks (mso)** | Dimensional Disks (mso) | Link 2 objects; teleport between disks. |
 | 1-⚡ | A | **Phase Stride (mso)** | Dimensional Phaser (mso) | Phase through solid walls up to 2 sq. |
 | 1-⚡ | AM | **Spatial Phasing Blink (mso)** | Dimensional Shifter (mso) | Rng Long; teleport to sight; phased this Rnd. |
@@ -98,7 +98,7 @@ Index of purchasable Gear Powers (🧿) and treasure Artifacts (🔮) derived fr
 | 2-Enc | F | **Kinetic Deflection Ward (mso)** | Energy Bracer (mso) | +2 Def vs Energy & Kinetic Atk; +5 Dmg on swung melee, +3 Dmg on thrusting melee. |
 | 2-Enc | F | **Environmental Force Barrier (mso)** | Environ Shield (mso) | Deploy force shield; +2 AR for encounter. |
 | 1-⚡ | P | **EnviroShield** | EnviroShield | Deploy skin-tight force shield: 🫀+5^hazards, poison, radiation, and vacuum; auto-seals bleeding; MR-2 and 🏃/2; no protection against weapon attacks. |
-| 1-⚡ | P | **Fat Frog Idol** | Fat Frog Idol | Restore 1 Luck🍀 chit. |
+| 1-⚡ | P | **Fat Frog Idol** | Fat Frog Idol | Restore 1 🍀 chit. |
 | 1-Enc | P | **Feather Charm** | Feather Charm | ✨ to negate fall distance in ft. |
 | 1-⚡ | P | **Feather of Falling** | Feather of Falling | Fall first 100 ft safely. |
 | 1-⚡ | P | **Fine Slik Shirt** | Fine Slik Shirt | 👁️ Social+2 for encounter. |
@@ -108,12 +108,12 @@ Index of purchasable Gear Powers (🧿) and treasure Artifacts (🔮) derived fr
 | 1-Enc | A | **Frost Pebble** | Frost Pebble | Rng Short; ✨ Atk; ✨+1 cold Dmg. |
 | 1-Enc | A | **Frostfang [Weapon]** | Frostfang [Weapon] | On hit; Dmg+1 cold and ✨ or target is frozen. |
 | 1-⚡ | P | **Frostmantle [Armor]** | Frostmantle [Armor] | Immune to cold Dmg for Encounter. |
-| 1-Enc | P | **Gargoyle’s Heart** | Gargoyle’s Heart | AR+4 & MR👣-1 while worn for encounter. |
+| 1-Enc | P | **Gargoyle’s Heart** | Gargoyle’s Heart | AR+4 & 👣-1 while worn for encounter. |
 | 1-⚡ | P | **Gauntlet of Grip** | Gauntlet of Grip | Weapon cannot be dropped for Encounter. |
 | 1-Enc | A | **Gauntlet of the Titan** | Gauntlet of the Titan | Strike adds +2💪 to Atk & Dmg for encounter. |
 | 1-Enc | P | **Ghost Mine** | Ghost Mine | Cloaks attached explosive at Stealth(🏃)^Awa; 3sq motion trigger beam. |
 | 1-⚡ | M | **Ghost Shirt** | Ghost Shirt | Phase through 1 wall. |
-| 2-Enc | P | **Glass [Weapon]** | Glass [Weapon] | On hit; Target MR👣-1 for encounter; Stacks with self. |
+| 2-Enc | P | **Glass [Weapon]** | Glass [Weapon] | On hit; Target 👣-1 for encounter; Stacks with self. |
 | 1-⚡ | P | **Gloves of Craft** | Gloves of Craft | Repair 1 normal broken item instantly or 1 magic item at ✨. |
 | 1-Enc | P | **Glowstick Baton** | Glowstick Baton | Glows brightly; 6sq of light for Encounter; Must be held in off-hand. |
 | 1-Enc | P | **Golden Sunstone Healing** | Golden Sunstone | When healing: heal +1 Vit or gain AR+1 for 1 Rnd. |
@@ -145,7 +145,7 @@ Index of purchasable Gear Powers (🧿) and treasure Artifacts (🔮) derived fr
 | 2-Enc | P | **Pressurized Jump Propulsion (mso)** | Jump-Boots (mso), Supplies: Jump-Pack (mso) | Psychosomatic leap; jump 👣+6; safe landing. |
 | 1-Enc | A | **Katars of the Unbending Steel (Resolve & Execution)** | Katars of the Unbending Steel (Resolve & Execution) | On hit: ✨^✨ or Stunned. |
 | 1-⚡ | F | **Keeth’s Mystical Bands** | Keeth’s Mystical Bands | Speak & Hearas if you are Keeth; Also revives Keeth from death or loss. |
-| 1-Enc | A | **Keeth’s Shadowform Flight** | Keeth’s Shadowform | Summon Keeth as (Nymph Sized) mount; fly MR👣; for Encounter. |
+| 1-Enc | A | **Keeth’s Shadowform Flight** | Keeth’s Shadowform | Summon Keeth as (Nymph Sized) mount; fly 👣; for Encounter. |
 | 1-Enc | P | **Kinetic War Band** | Kinetic War Band | Swung melee Dmg(+5), thrusting melee Dmg(+3). |
 | 1-Rnd | M | **Knife of Infinite Cloning** | Knife of Infinite Cloning | Can split one knife into 2 knives (new knives last for encounter). |
 | 1-⚡ | P | **Knight’s [Shield]** | Knight’s [Shield] | All Wnds-1 for Encounter |
@@ -154,12 +154,12 @@ Index of purchasable Gear Powers (🧿) and treasure Artifacts (🔮) derived fr
 | 1-⚡ | P | **Lantern of Whispers** | Lantern of Whispers | Perception has Advantage. |
 | 2-Enc | P | **Mystic Warding Aegis (mso)** | Lesser Archaic Amulet (mso) | Mystic amulet; +1 to Resist ✨. |
 | 2-Enc | P | **Arcane Channeling Surge (mso)** | Lesser Archaic Ring (mso) | Mystic ring; +1 to ✨ rolls. |
-| 1-Enc | P | **Loaded Gambler’s Dice** | Loaded Gambler’s Dice | On use; reroll 1 failed Atk, Skill🎓, or Power roll. |
+| 1-Enc | P | **Loaded Gambler’s Dice** | Loaded Gambler’s Dice | On use; reroll 1 failed Atk, Skill, or Power roll. |
 | 1-Enc | P | **Longsword of the Street Rebel** | Longsword of the Street Rebel | Melee Atk+1 and Dmg+1 for 1 Rnd; first melee Atk gains Advantage^larger foes. |
 | 1-⚡ | F | **Lucky Coin** | Lucky Coin | Reroll one failed roll. |
 | 1-Rnd | M | **Magnet Ring** | Magnet Ring | Pull or push 1 metal object up to 2sq (✨^Dif if held or over 50 lbs). |
 | 1-Enc | A | **Magnetic Resonance Bracer** | Magnetic Resonance Bracer | Rng Short; target in metal armor; Atk ✨ = target levitated and dropped for fall Dmg. |
-| 1-Enc | A | **Marbles of Mischief** | Marbles of Mischief | Scatter marbles in 3x3sq; AoE MR👣-2; bag auto refills. |
+| 1-Enc | A | **Marbles of Mischief** | Marbles of Mischief | Scatter marbles in 3x3sq; AoE 👣-2; bag auto refills. |
 | 1-Rnd | F | **Mask of Eternity** | Mask of Eternity | Ignore aging; narrative effect only. |
 | 1-Enc | P | **Mask of Whispers** | Mask of Whispers | 👁️+2 for 1 Rnd. |
 | 1-⚡ | P | **Mech Core** | Mech Core | Deploy 10' Mech; MR(8), Blaster Rifle Atk 👁️ Dmg d👁️+1, Power claw Atk ✨-1 Dmg d✨+2, Dod ✨-1 AR d✨+1 Vit Val(✨+1). |
@@ -176,10 +176,10 @@ Index of purchasable Gear Powers (🧿) and treasure Artifacts (🔮) derived fr
 | 3-Enc | P | **MorphNet** | MorphNet | Image Scanner until cumulative ^100; max 5 stored images; when active Disguise(👁️+3)^Awa to fool onlookers. |
 | 1-⚡ | P | **Mug of Endless Tea** | Mug of Endless Tea | Drink; Resist✨+2 on next roll this encounter. |
 | 1-Enc | F | **Neon [Weapon]** | Neon [Weapon] | Intimidation(👁️)+2. |
-| 1-⚡ | P | **Neon Skateboard** | Neon Skateboard | While riding MR👣+1 for Encounter. |
+| 1-⚡ | P | **Neon Skateboard** | Neon Skateboard | While riding 👣+1 for Encounter. |
 | 1-⚡ | F | **Neon Sunglasses** | Neon Sunglasses | Intimidation(👁️)+2. |
 | 1-Enc | A | **Phase Walk Bypass (mso)** | Ninja Phaser (mso) | Phase through solid walls up to 2 sq. |
-| 1-⚡ | P | **Orb \- Luck** | Orb \- Luck | Restore d6 Luck🍀 chits (up to max). |
+| 1-⚡ | P | **Orb \- Luck** | Orb \- Luck | Restore d6 🍀 chits (up to max). |
 | 1-⚡ | P | **Echo Memory** | Orb of Echo Memory | Replay 1 past scene vividly. |
 | 2-Enc | A | **Frost** | Orb of Frost | ✨ Atk; d✨ cold Dmg; ✨^✨ or Immobilized. |
 | 1-⚡ | P | **Worlds** | Orb of Worlds | Peer into another plane; ask one yes/no question. |
@@ -261,7 +261,7 @@ Index of purchasable Gear Powers (🧿) and treasure Artifacts (🔮) derived fr
 | 1-Enc | P | **Stim 🫀 Buff** | Stim 🫀 Buff | Skills(🫀+2). |
 | 1-Enc | P | **Stim✨Buff** | Stim✨Buff | Skills(✨+2). |
 | 1-Enc | A | **Stolen Iron Manacles** | Stolen Iron Manacles | On capture (Brawl Atk with at least 1 Wound); foe is Immobilized until 💪 check succeeds. |
-| 2-Enc | P | **Stoneform [Armor]** | Stoneform [Armor] | If you are wounded; Attacker petrifies; MR👣-1 for Encounter; Self stacking. |
+| 2-Enc | P | **Stoneform [Armor]** | Stoneform [Armor] | If you are wounded; Attacker petrifies; 👣-1 for Encounter; Self stacking. |
 | 1-Enc | P | **Storm [Weapon]** | Storm [Weapon] | On hit: thunderclap erupts; ✨^🚩 or adjacent foes lose Attack action this Rnd. |
 | 1-⚡ | P | **Sunglow Brooch** | Sunglow Brooch | Emit light 20ft radius, no shadows for Encounter. |
 | 1-⚡ | P | **Sunpetal Brooch Healing** | Sunpetal Brooch | On use; Heal self 1 Vit and emit light 2sq for 1 Enc. |
@@ -272,7 +272,7 @@ Index of purchasable Gear Powers (🧿) and treasure Artifacts (🔮) derived fr
 | 1-⚡ | F | **Thumper Healing** | Thumper | Heals all Wnds and ailments on Nish 0 of next Rnd; until then user spasms (no MR or actions). |
 | 1-Enc | P | **Thunder [Armor]** | Thunder [Armor] | When hit: retaliatory shockwave strikes attacker; ✨^🫀 or attacker is Stunned. |
 | 1-Enc | A | **Thunder [Weapon]** | Thunder [Weapon] | On hit; 💪 or target is Stunned. |
-| 2-Enc | P | **Solar Blinding Flash (mso)** | Tiara of Light (mso) | Rng Long; searing daylight burst; Save ✨^20 or Blinded. |
+| 2-Enc | P | **Solar Blinding Flash (mso)** | Tiara of Light (mso) | Rng Long; searing daylight burst; ✨^✨ or target Blinded. |
 | 2-Enc | P | **Titanium Skeletal Infusion (mso)** | Titanium Endo Skeleton (mso) | Titanium infused bone structure; +2 AR. |
 | 1-⚡ | F | **Forgotten Lore** | Tome of Forgotten Lore | Learn 1 hidden fact. |
 | 1-⚡ | A | **Forgotten Stars** | Tome of Forgotten Stars | AoE 6r; ✨ Atk; on hit, ✨^✨ or foes are Stunned. |
@@ -297,10 +297,10 @@ Index of purchasable Gear Powers (🧿) and treasure Artifacts (🔮) derived fr
 | 1-Enc | P | **Whetstone of True Edge** | Whetstone of True Edge | On use; next Atk with sharpened weapon Dmg+1. |
 | 1-Enc | A | **Whisper [Weapon] Cloak** | Whisper [Weapon] | On Atk: cloak whispers enemy locations (👁️+5^hidden to pinpoint invisible foes). |
 | 3-Enc | P | **Willstone** | Willstone | When held: Domination(👁️)^🫀; Perm Men(*2) while on person. |
-| 1-Enc | A | **Wind Flute** | Wind Flute | Play note; next Nish🚩 roll with Advantage. |
+| 1-Enc | A | **Wind Flute** | Wind Flute | Play note; next 🚩 roll with Advantage. |
 | 1-⚡ | F | **Wooden Charm** | Wooden Charm | Break charm: ✨+5^✨ for Encounter. |
 | 2-Enc | P | **X-Ray Structural Scan (mso)** | X-Ray Eye (mso) | Rng Short; penetrating vision; 👁️+3^hidden. |
-| 1-Enc | M | **Zephyr Feather** | Zephyr Feather | MR👣+2 this rnd. |
+| 1-Enc | M | **Zephyr Feather** | Zephyr Feather | 👣+2 this rnd. |
 | 1-Enc | P | **Zinc Dust** | Zinc Dust | Sprinkle; totally instantly corrodes 1 normal metal object. |
 | 1-Enc | M | **Zircon Lens** | Zircon Lens | Peer through lens: 👁️+2^hidden to spot secret doors, traps, and concealed foes. |
 | 1-Enc | P | **Zither Pick Healing** | Zither Pick | Strum; Heal d✨ to 1 ally. |
@@ -363,20 +363,20 @@ Index of purchasable Gear Powers (🧿) and treasure Artifacts (🔮) derived fr
 | **20s** | 1-Enc | P | **Bioluminescent Glow (mso)** | Glow Egg (mso) | Dormant seed; glows in 3sq radius when shaken. |
 | **1g** | 1-Rnd | P | **GlowTorch** | GlowTorch | Rng Medium; project forward arc of visible and infrared illumination. |
 | **3g** | 2-Enc | M | **Grappling Gun** | Grappling Gun | Fires grappling hook; 100 ft Q-Bond cable supports 1000 lbs. |
-| **85s** | 1-⚡ | A | **Flash-Bang Concussion Blast (mso)** | Grenade: Flash-Bang (Stun Core) (mso) | Rng Short; AoE 3x3; Save 🫀 or Blinded and Deafened for Encounter; failed by 5+ = Stunned for Encounter. |
-| **55s** | 2-Enc | A | **Flash-Bang Tactical Burst (mso)** | Grenade: Flash-Bang (Tactical) (mso) | Rng Short; AoE 3x3; Save 🫀 or Blinded and Deafened for Encounter. |
+| **85s** | 1-⚡ | A | **Flash-Bang Concussion Blast (mso)** | Grenade: Flash-Bang (Stun Core) (mso) | Rng Short; 3x3; 🫀^🫀 or target Blinded and Deafened; failure by 5+ = target Stunned. |
+| **55s** | 2-Enc | A | **Flash-Bang Tactical Burst (mso)** | Grenade: Flash-Bang (Tactical) (mso) | Rng Short; 3x3; 🫀^🫀 or target Blinded and Deafened. |
 | **1g 25s** | 1-⚡ | A | **Heavy Neuro-Aerosol Cloud (mso)** | Grenade: Gas (Neuro-Aerosol) (mso) | Rng Short; AoE 5x5; heavy lingering neuro-aerosol; covers area for Encounter. |
 | **75s** | 2-Enc | A | **Gas Tactical Cloud (mso)** | Grenade: Gas (Tactical) (mso) | Rng Short; AoE 3x3; disperses loaded chemical payload in cloud; targets inhale gas; lasts for Encounter. |
 | **1g 25s** | 1-⚡ | A | **HE High-Yield Demolition (mso)** | Grenade: HE (Military Warhead) (mso) | Rng Short; AoE 3x3; Atk 🏃 Dmg 2d8; Wnds = knocked Prone and pushed 2 sq. |
 | **75s** | 2-Enc | A | **HE Tactical Burst (mso)** | Grenade: HE (Tactical Pack) (mso) | Rng Short; AoE 3x3; Atk 🏃 Dmg d8; Wnds = knocked Prone. |
 | **1g 75s** | 1-⚡ | A | **White-Hot Phosphorous Storm (mso)** | Grenade: Incendiary (Phosphorous Core) (mso) | Rng Short; AoE 3x3; Atk 🏃 Dmg d10 fire; targets catch Fire (Dmg d6 each turn for Encounter). |
 | **1g 10s** | 2-Enc | A | **Incendiary Tactical Burn (mso)** | Grenade: Incendiary (Tactical) (mso) | Rng Short; AoE 3x3; Atk 🏃 Dmg d6 fire; flammable targets catch Fire (Dmg d4 each turn for Encounter). |
-| **1g 45s** | 1-⚡ | A | **Heavy Sonic Overload (mso)** | Grenade: Shock (Sonic EMP) (mso) | Rng Short; AoE 3x3; sonic blast; Save 🫀 or Unconscious for Encounter; robots/cyberware Stunned for Encounter. |
-| **90s** | 2-Enc | A | **Shock Tactical Wave (mso)** | Grenade: Shock (Tactical) (mso) | Rng Short; AoE 3x3; sonic blast; Save 🫀 or Stunned for Encounter; robots/cyberware take d6 ion Dmg. |
+| **1g 45s** | 1-⚡ | A | **Heavy Sonic Overload (mso)** | Grenade: Shock (Sonic EMP) (mso) | Rng Short; 3x3; sonic blast; 🫀^🫀 or target Unconscious; robots/cyberware Stunned. |
+| **90s** | 2-Enc | A | **Shock Tactical Wave (mso)** | Grenade: Shock (Tactical) (mso) | Rng Short; 3x3; sonic blast; 🫀^🫀 or target Stunned; robots/cyberware take d6 ion Dmg. |
 | **65s** | 1-⚡ | A | **Thermal Heavy Smoke (mso)** | Grenade: Smoke (Heavy Thermal) (mso) | Rng Short; AoE 5x5; thermal-blocking smoke; blocks visual and sensor targeting; lasts for Encounter. |
 | **40s** | 2-Enc | A | **Smoke Screen Tactical (mso)** | Grenade: Smoke (Tactical) (mso) | Rng Short; AoE 3x3; dense particulate; blocks line-of-sight; Adv(Stealth🏃); lasts for Encounter. |
-| **1g** | 1-⚡ | A | **High-Tensile Tangler Web (mso)** | Grenade: Tangler (High-Tensile) (mso) | Rng Short; AoE 3x3; industrial resin; Save 🏃 or Entangled (👣 0; requires 💪^14 check to break free). |
-| **60s** | 2-Enc | A | **Tangler Tactical Resin (mso)** | Grenade: Tangler (Tactical) (mso) | Rng Short; AoE 3x3; sticky resin; Save 🏃 or Entangled (👣 0; requires 💪^10 check to break free). |
+| **1g** | 1-⚡ | A | **High-Tensile Tangler Web (mso)** | Grenade: Tangler (High-Tensile) (mso) | Rng Short; 3x3; industrial resin; 🏃^🏃 or target Entangled (👣 0; breakout 💪^14). |
+| **60s** | 2-Enc | A | **Tangler Tactical Resin (mso)** | Grenade: Tangler (Tactical) (mso) | Rng Short; 3x3; 🏃^🏃 or target Entangled (👣 0; breakout 💪^10). |
 | **1g 75s** | 2-Enc | P | **Security Network Breach (mso)** | Hacker (mso) | Rng 1; security hack 👁️+3^Dif. |
 | **1g** | 1-Enc | P | **HealGel** | HealGel | Heals 1st Deg; immediate tissue regeneration. |
 | **2g** | 2-Enc | M | **HoistMaster** | HoistMaster | Winch for Grappling Gun; hoist/lower at 20 ft/Rnd. |
@@ -397,7 +397,7 @@ Index of purchasable Gear Powers (🧿) and treasure Artifacts (🔮) derived fr
 | **5s** | 1-Enc | F | **MiniScub Cartridge** | MiniScub Cartridge | 1 hour compressed air for MiniScuba or similar. |
 | **2g** | 1-Rnd | M | **MiniScuba** | MiniScuba | Mouthpiece + cartridge; 1 hr air; cartridge auto-fills when not in use. |
 | **6g** | 1-Enc | P | **Assassin Ambush Protocol (mso)** | Missile: Assassin (Proximity Ambush) (mso) | Rng Medium; deployable micro-ramjet; lies dormant up to 24 hrs; launches automatically when specified target enters range; Atk 👁️ Dmg 2d8. |
-| **8g** | 1-⚡ | P | **Executioner Hyper-Ramjet (mso)** | Missile: Assassin (Ramjet) (mso) | Rng Medium; hyper-velocity ramjet; lies dormant up to 7 days; Atk 👁️ Dmg 3d10; Wnds = Stunned for Encounter. |
+| **8g** | 1-⚡ | P | **Executioner Hyper-Ramjet (mso)** | Missile: Assassin (Ramjet) (mso) | Rng Medium; hyper-velocity ramjet; lies dormant up to 7 days; Atk 👁️ Dmg 3d10; Wnds = Stunned. |
 | **3g** | 1-⚡ | A | **Heavy Demolition Missile (mso)** | Missile: Explosive (Demolition) (mso) | Rng Long; heavy ordnance; AoE 5x5; Atk 👁️ Dmg 3d8; Wnds = structural breach and pushed 3 sq. |
 | **2g 25s** | 1-Enc | A | **Explosive Missile Launch (mso)** | Missile: Explosive (Tactical) (mso) | Rng Long; launched missile; AoE 3x3; Atk 👁️ Dmg 2d8; Wnds = knocked Prone. |
 | **4g** | 1-⚡ | A | **Dual-Thruster Hunter Strike (mso)** | Missile: Hunter (Dual-Thruster) (mso) | Rng Long; dual-thruster lock; Atk 👁️ Dmg 3d8; tracks target for Encounter until impact. |
@@ -419,21 +419,21 @@ Index of purchasable Gear Powers (🧿) and treasure Artifacts (🔮) derived fr
 | **50s** | 1-Enc | P | **Micro-Platelet Clotting (mso)** | Platelets (mso) | Micro-mites seal open Wnds; stops bleeding; heals 1 Vit. |
 | **8g 50s** | 2-Enc | P | **Hover Drone Escort (mso)** | Pod, Personal Hover (mso) | Rng Long; hover drone follows user; 👣 10. |
 | **35s** | 1-Enc | P | **Toxin Neutralization (Common) (mso)** | Poison Antidote (Common) (mso) | Rng Touch; removes Poisoned; neutralizes biological toxins. |
-| **1g 75s** | 2-Enc | A | **Choking Neurotoxin (mso)** | Poison: Choking (Blade Reservoir) (mso) | Weapon hit or contact; Save 🫀 or throat constricts; unable to speak; -2 to all checks for Encounter. |
-| **2g 25s** | 1-⚡ | A | **Suffocating Calamorian Cloud (mso)** | Poison: Choking (Milc-Ti Dose) (mso) | Rng Short; AoE 3x3; gas cloud; Save 🫀 or Suffocating (takes d8 Dmg each turn for Encounter; can only gasp for air). |
+| **1g 75s** | 2-Enc | A | **Choking Neurotoxin (mso)** | Poison: Choking (Blade Reservoir) (mso) | Weapon hit or contact; 🫀^🫀 or target throat constricts (unable to speak; -2 to all checks). |
+| **2g 25s** | 1-⚡ | A | **Suffocating Calamorian Cloud (mso)** | Poison: Choking (Milc-Ti Dose) (mso) | Rng Short; 3x3; gas cloud; 🫀^🫀 or target Suffocating (takes d8 Dmg each turn; can only gasp for air). |
 | **3g 50s** | 1-⚡ | A | **Kryllian Acidic Liquefaction (mso)** | Poison: Corrosive (Acidic Core) (mso) | Weapon hit or contact; burns living tissue; target takes d8 acid Dmg each turn for Encounter; reduces target AR by 2. |
 | **2g 75s** | 2-Enc | A | **Corrosive Tissue Burn (mso)** | Poison: Corrosive (Blade Reservoir) (mso) | Weapon hit; acidic enzyme burns flesh; target takes d6 acid Dmg each turn for Encounter; reduces target AR by 1. |
-| **3g 50s** | 1-Enc | A | **Cardiac Neuro-Shock (mso)** | Poison: Death (Blade Reservoir) (mso) | Weapon hit; severe cardiac shock; Save 🫀 or Stunned for Encounter and takes -d8 Vit. |
-| **4g 50s** | 1-⚡ | A | **Sea Zimil Cardiac Arrest (mso)** | Poison: Death (Sea Zimil Dose) (mso) | Intravenous strike; Save 🫀^14 or cardiac arrest; drops to 0 Vit and dying; fatal by end of Encounter unless Kalos II kicta antidote or 👁️^14 Medtech check succeeds. |
-| **2g 70s** | 1-⚡ | A | **Medical Anesthetic Dose (mso)** | Poison: Knockout (Anesthetic Vial) (mso) | Intravenous or oral; Save 🫀 or Unconscious for Encounter (wakes upon taking Dmg). |
-| **2g 10s** | 2-Enc | A | **Knockout Sedative (mso)** | Poison: Knockout (Blade Reservoir) (mso) | Weapon hit or contact; Save 🫀 or Unconscious for Encounter. |
-| **1g 75s** | 2-Enc | A | **Euphoric Hysteria (mso)** | Poison: Laughing (Blade Reservoir) (mso) | Inhaled or contact; Save 👁️ or fits of uncontrollable laughter; 👣 1 sq max; cannot take Atk actions for Encounter. |
-| **2g 25s** | 1-⚡ | A | **Neuro-Hysteria Gas Cloud (mso)** | Poison: Laughing (Euphoria Cloud) (mso) | Rng Short; AoE 3x3; gas cloud; Save 👁️ or incapacitated laughing and exhausted for Encounter. |
-| **2g 10s** | 2-Enc | A | **Paralytic Venom (mso)** | Poison: Paralysis (Blade Reservoir) (mso) | Weapon hit or contact; Save 🫀 or Paralyzed for Encounter (can think/sense, but cannot move or act). |
-| **2g 75s** | 1-⚡ | A | **Joc-Tun Neuro-Paralysis (mso)** | Poison: Paralysis (Joc-Tun Dose) (mso) | Intravenous strike; Save 🫀 or Paralyzed for Encounter (can think/sense, but cannot move or act). |
-| **1g 75s** | 2-Enc | A | **Deep Narcosis (mso)** | Poison: Sleep (Blade Reservoir) (mso) | Weapon hit or contact; Save 🫀 or falls asleep for Encounter (Shanask immune). |
-| **2g 25s** | 1-⚡ | A | **Setchie Coma Dose (mso)** | Poison: Sleep (Setchie Coma Dose) (mso) | Ingested or coated; Save 🫀 or falls into deep sleep for Encounter (wakes if vigorously shaken or taking Dmg; Shanask immune). |
-| **0g** | 2-Enc | A | **Contact Neurotoxin Inoculation (mso)** | Poisons (mso) | Rng 1; contact/ingested toxin; Save 🫀^20 or Poisoned. |
+| **3g 50s** | 1-Enc | A | **Cardiac Neuro-Shock (mso)** | Poison: Death (Blade Reservoir) (mso) | Weapon hit; 🫀^🫀 or target Stunned and loses d8 Vit. |
+| **4g 50s** | 1-⚡ | A | **Sea Zimil Cardiac Arrest (mso)** | Poison: Death (Sea Zimil Dose) (mso) | Intravenous delivery; 🫀^🫀 or target drops to 0 Vit and dying; fatal unless Kalos II kicta antidote or Medtech 👁️^14 check succeeds. |
+| **2g 70s** | 1-⚡ | A | **Medical Anesthetic Dose (mso)** | Poison: Knockout (Anesthetic Vial) (mso) | Intravenous or oral; Resist 🫀^14 or Unconscious (wakes upon taking Dmg). |
+| **2g 10s** | 2-Enc | A | **Knockout Sedative (mso)** | Poison: Knockout (Blade Reservoir) (mso) | Weapon hit or contact; 🫀^🫀 or target Unconscious. |
+| **1g 75s** | 2-Enc | A | **Euphoric Hysteria (mso)** | Poison: Laughing (Blade Reservoir) (mso) | Inhaled or contact; 👁️^👁️ or target suffers uncontrollable laughter (👣 1 sq max; cannot take Atk). |
+| **2g 25s** | 1-⚡ | A | **Neuro-Hysteria Gas Cloud (mso)** | Poison: Laughing (Euphoria Cloud) (mso) | Rng Short; 3x3; gas cloud; 👁️^👁️ or target Incapacitated. |
+| **2g 10s** | 2-Enc | A | **Paralytic Venom (mso)** | Poison: Paralysis (Blade Reservoir) (mso) | Weapon hit or contact; 🫀^🫀 or target Paralyzed (can think/sense, cannot move or act). |
+| **2g 75s** | 1-⚡ | A | **Joc-Tun Neuro-Paralysis (mso)** | Poison: Paralysis (Joc-Tun Dose) (mso) | Intravenous strike; 🫀^🫀 or target Paralyzed (can think/sense, cannot move or act). |
+| **1g 75s** | 2-Enc | A | **Deep Narcosis (mso)** | Poison: Sleep (Blade Reservoir) (mso) | Weapon hit or contact; 🫀^🫀 or target Unconscious (Shanask immune). |
+| **2g 25s** | 1-⚡ | A | **Setchie Coma Dose (mso)** | Poison: Sleep (Setchie Coma Dose) (mso) | Ingested or coated; Resist 🫀^16 or Unconscious (wakes if vigorously shaken or taking Dmg; Shanask immune). |
+| **0g** | 2-Enc | A | **Contact Neurotoxin Inoculation (mso)** | Poisons (mso) | Rng 1; contact/ingested toxin; Resist 🫀^20 or Poisoned 1 Wnd/Rnd. |
 | **15g** | 1-Enc | P | **Exoskeleton Heavy Lift (mso)** | Power Frame (mso) | Exoskeleton harness; +4 to carrying capacity and heavy lifting. |
 | **3g 75s** | 2-Enc | P | **Hydraulic Strike Empowerment (mso)** | Power Joints (mso) | Hydraulic limb joints; +2 Dmg on melee strikes with limb. |
 | **5g** | 2-Enc | P | **PowerTap** | PowerTap | Monitor/siphon energy. Holds 100 srg. |

@@ -22660,7 +22660,7 @@
       "name": "Aethelgard Composure",
       "usage": "1-Enc",
       "action": "P",
-      "effect": "Nish🚩+1 when combat begins.",
+      "effect": "🚩+1 when combat begins.",
       "created_at": "2026-08-13T21:26:29.251053+00:00",
       "genres": [
         "Medieval",
@@ -22960,7 +22960,7 @@
       "name": "Ancestral Guard",
       "usage": "1-⚡",
       "action": "F",
-      "effect": "Call on clan spirits; allies in 2sq Nish🚩+1 for Encounter.",
+      "effect": "Call on clan spirits; allies in 2sq 🚩+1 for Encounter.",
       "created_at": "2026-08-13T21:26:29.251053+00:00",
       "genres": [
         "Medieval",
@@ -23146,7 +23146,7 @@
       "name": "Ascetic Agility",
       "usage": "1-Enc",
       "action": "M",
-      "effect": "Climb or leap up to MR👣 with 🏃 checks at Advantage this rnd.",
+      "effect": "Climb or leap up to 👣 with 🏃 checks at Advantage this rnd.",
       "created_at": "2026-08-13T21:26:29.251053+00:00",
       "genres": [
         "Medieval",
@@ -23334,7 +23334,7 @@
       "name": "Avalanche Drive",
       "usage": "1-Enc",
       "action": "M",
-      "effect": "Move MR👣; 💪 or target falls Prone; d4 Dmg.",
+      "effect": "Move 👣; 💪 or target falls Prone; d4 Dmg.",
       "created_at": "2026-08-13T21:26:29.251053+00:00",
       "genres": [
         "Medieval",
@@ -23486,7 +23486,7 @@
       "name": "Battle Drill",
       "usage": "1-Enc",
       "action": "F",
-      "effect": "Give 1 adjacent ally Nish🚩+1 this rnd.",
+      "effect": "Give 1 adjacent ally 🚩+1 this rnd.",
       "created_at": "2026-08-13T21:26:29.251053+00:00",
       "genres": [
         "Medieval",
@@ -23505,7 +23505,7 @@
       "name": "Battle Rhythm",
       "usage": "1-Enc",
       "action": "P",
-      "effect": "👁️; ally Nish🚩+2.",
+      "effect": "👁️; ally 🚩+2.",
       "created_at": "2026-08-13T21:26:29.251053+00:00",
       "genres": [
         "Medieval",
@@ -23562,7 +23562,7 @@
       "name": "Beacon of Solara",
       "usage": "1-Enc",
       "action": "P",
-      "effect": "Allies within 3sq Nish🚩+2 this rnd.",
+      "effect": "Allies within 3sq 🚩+2 this rnd.",
       "created_at": "2026-08-13T21:26:29.251053+00:00",
       "genres": [
         "Medieval",
@@ -23653,7 +23653,7 @@
       "name": "Binding Word (mso)",
       "usage": "2-Enc",
       "action": "P",
-      "effect": "Binds target to agreement or secret; Save ✨ or bound.",
+      "effect": "Binds target to agreement or secret; ✨^👁️ or target bound.",
       "created_at": "2026-09-05T23:12:15.32015+00:00",
       "genres": [
         "SciFi"
@@ -23842,7 +23842,7 @@
       "name": "Blast (mso)",
       "usage": "1-Enc",
       "action": "A",
-      "effect": "Rng Medium; searing light; Save ✨ or Blinded.",
+      "effect": "Rng Medium; searing light; ✨^✨ or target Blinded.",
       "created_at": "2026-09-05T23:12:15.32015+00:00",
       "genres": [
         "SciFi"
@@ -24049,7 +24049,7 @@
       "name": "Blood Oath Brand",
       "usage": "1-Enc",
       "action": "A",
-      "effect": "On hit; Dmg+1 and next Nish🚩+2.",
+      "effect": "On hit; Dmg+1 and next 🚩+2.",
       "created_at": "2026-08-13T21:26:29.251053+00:00",
       "genres": [
         "Medieval",
@@ -24412,7 +24412,7 @@
       "name": "Burdened March",
       "usage": "1-Enc",
       "action": "M",
-      "effect": "Move MR👣-2; AR+2 for Encounter.",
+      "effect": "Move 👣-2; AR+2 for Encounter.",
       "created_at": "2026-08-13T21:26:29.251053+00:00",
       "genres": [
         "Medieval",
@@ -24826,7 +24826,7 @@
       "name": "Colossal Charge",
       "usage": "1-Enc",
       "action": "AM",
-      "effect": "Move double MR👣; Melee Atk; Dmg+3.",
+      "effect": "Move 2x 👣; Melee Atk; Dmg+3.",
       "created_at": "2026-08-13T21:26:29.343213+00:00",
       "genres": [
         "Medieval",
@@ -26227,7 +26227,7 @@
       "name": "Duelist’s Dance",
       "usage": "2-Enc",
       "action": "M",
-      "effect": "MR👣+1 this rnd as you weave between attacks.",
+      "effect": "👣+1 this rnd as you weave between attacks.",
       "created_at": "2026-08-13T21:26:29.343213+00:00",
       "genres": [
         "Medieval",
@@ -27116,7 +27116,7 @@
       "name": "Fey Flight",
       "usage": "1-Enc",
       "action": "M",
-      "effect": "While flying this rnd, move up to MR👣 and ignore difficult terrain.",
+      "effect": "While flying this rnd, move up to 👣 and ignore difficult terrain.",
       "created_at": "2026-08-13T21:26:29.436163+00:00",
       "genres": [
         "Medieval",
@@ -27154,7 +27154,7 @@
       "name": "Fey Grace",
       "usage": "1-Enc",
       "action": "F",
-      "effect": "Gain Nish🚩+2 this rnd.",
+      "effect": "Gain 🚩+2 this rnd.",
       "created_at": "2026-08-13T21:26:29.436163+00:00",
       "genres": [
         "Medieval",
@@ -27438,7 +27438,7 @@
       "name": "Flash Step",
       "usage": "1-Enc",
       "action": "M",
-      "effect": "Move double MR👣 this rnd.",
+      "effect": "Move 2x 👣 this rnd.",
       "created_at": "2026-08-13T21:26:29.436163+00:00",
       "genres": [
         "Medieval",
@@ -27552,7 +27552,7 @@
       "name": "Flying Kick",
       "usage": "1-Enc",
       "action": "AM",
-      "effect": "Jump up to MR👣 and strike; Atk & Dmg with Advantage.",
+      "effect": "Jump up to 👣 and strike; Atk & Dmg with Advantage.",
       "created_at": "2026-08-13T21:26:29.436163+00:00",
       "genres": [
         "Medieval",
@@ -27706,7 +27706,7 @@
       "name": "Fortunate Timing",
       "usage": "1-🍀",
       "action": "F",
-      "effect": "take turn immediately even if before your Nish🚩.",
+      "effect": "take turn immediately even if before your 🚩.",
       "created_at": "2026-08-13T21:26:29.436163+00:00",
       "genres": [
         "Medieval",
@@ -27744,7 +27744,7 @@
       "name": "Furious Charge",
       "usage": "1-Enc",
       "action": "AM",
-      "effect": "Move double MR👣, Atk, and Dmg+2.",
+      "effect": "Move 2x 👣, Atk, and Dmg+2.",
       "created_at": "2026-08-13T21:26:29.436163+00:00",
       "genres": [
         "Medieval",
@@ -27782,7 +27782,7 @@
       "name": "Gambler’s Edge",
       "usage": "1-Enc",
       "action": "P",
-      "effect": "Your next Atk or Skill🎓 roll has Advantage.",
+      "effect": "Your next Atk or Skill roll has Advantage.",
       "created_at": "2026-08-13T21:26:29.436163+00:00",
       "genres": [
         "Medieval",
@@ -27896,7 +27896,7 @@
       "name": "Ghosting Run",
       "usage": "1-Enc",
       "action": "M",
-      "effect": "Move up to MR👣; ignore Opp Atk this move.",
+      "effect": "Move up to 👣; ignore Opp Atk this move.",
       "created_at": "2026-08-13T21:26:29.436163+00:00",
       "genres": [
         "Medieval",
@@ -28067,7 +28067,7 @@
       "name": "Goblin Glee",
       "usage": "1-⚡",
       "action": "F",
-      "effect": "After a crit; gain 1 Luck🍀 chit.",
+      "effect": "After a crit; gain 1 🍀 chit.",
       "created_at": "2026-08-13T21:26:29.436163+00:00",
       "genres": [
         "Medieval",
@@ -28105,7 +28105,7 @@
       "name": "Gravity Warp",
       "usage": "2-Enc",
       "action": "A",
-      "effect": "Foes in AOE suffer MR👣-2; ✨.",
+      "effect": "Foes in AOE suffer 👣-2; ✨.",
       "created_at": "2026-08-13T21:26:29.436163+00:00",
       "genres": [
         "Medieval",
@@ -28351,7 +28351,7 @@
       "name": "Haze (mso)",
       "usage": "2-Enc",
       "action": "P",
-      "effect": "Rng Medium; psychic fog; Save 👁️ or -2 to all rolls.",
+      "effect": "Rng Medium; psychic fog; 👁️^👁️ or target suffers -2 to all rolls.",
       "created_at": "2026-09-05T23:12:15.32015+00:00",
       "genres": [
         "SciFi"
@@ -28992,7 +28992,7 @@
       "name": "Impale (mso)",
       "usage": "2-Enc",
       "action": "P",
-      "effect": "Rng Medium; piercing shot pins target to wall; Save 🏃 or Immobilized.",
+      "effect": "Rng Medium; piercing shot pins target to wall; 👁️^🏃 or target Restrained.",
       "created_at": "2026-09-05T23:12:15.498894+00:00",
       "genres": [
         "SciFi"
@@ -29502,7 +29502,7 @@
       "name": "Keeth’s Cry",
       "usage": "1-⚡",
       "action": "A",
-      "effect": "Summon Keeth; allies in 3sq Nish🚩+2 for Encounter.",
+      "effect": "Summon Keeth; allies in 3sq 🚩+2 for Encounter.",
       "created_at": "2026-08-13T21:26:29.524874+00:00",
       "genres": [
         "Medieval",
@@ -29521,7 +29521,7 @@
       "name": "Ki Centering",
       "usage": "1-Enc",
       "action": "AM",
-      "effect": "Spend 1 rnd in focus (no other actions); regain 1 Luck🍀.",
+      "effect": "Spend 1 rnd in focus (no other actions); regain 1 🍀.",
       "created_at": "2026-08-13T21:26:29.524874+00:00",
       "genres": [
         "Medieval",
@@ -29540,7 +29540,7 @@
       "name": "Ki Focus",
       "usage": "1-🍀",
       "action": "F",
-      "effect": "Spend 1 Luck🍀; Roll+2.",
+      "effect": "Spend 1 🍀; Roll+2.",
       "created_at": "2026-08-13T21:26:29.524874+00:00",
       "genres": [
         "Medieval",
@@ -29770,7 +29770,7 @@
       "name": "Leaping Strike",
       "usage": "1-Enc",
       "action": "AM",
-      "effect": "Leap up to double MR👣; Dmg+2.",
+      "effect": "Leap up to 2x 👣; Dmg+2.",
       "created_at": "2026-08-13T21:26:29.524874+00:00",
       "genres": [
         "Medieval",
@@ -30127,7 +30127,7 @@
       "name": "Lotus Mantra",
       "usage": "1-Enc",
       "action": "F",
-      "effect": "Rally allies; nearby gain Nish🚩+1 this rnd.",
+      "effect": "Rally allies; nearby gain 🚩+1 this rnd.",
       "created_at": "2026-08-13T21:26:29.524874+00:00",
       "genres": [
         "Medieval",
@@ -30652,7 +30652,7 @@
       "name": "Meditation",
       "usage": "1-Enc",
       "action": "AM",
-      "effect": "Spend 1 rnd in focus (no other actions); regain 1 Luck🍀.",
+      "effect": "Spend 1 rnd in focus (no other actions); regain 1 🍀.",
       "created_at": "2026-08-13T21:26:29.621594+00:00",
       "genres": [
         "Medieval",
@@ -30762,7 +30762,7 @@
       "name": "Mind Dash",
       "usage": "1-Enc",
       "action": "M",
-      "effect": "Move double MR👣 this rnd.",
+      "effect": "Move 2x 👣 this rnd.",
       "created_at": "2026-08-13T21:26:29.621594+00:00",
       "genres": [
         "Medieval",
@@ -30971,7 +30971,7 @@
       "name": "Mocking Verse",
       "usage": "1-Enc",
       "action": "A",
-      "effect": "Monster Nish🚩-4; if Nish🚩=0, target flees.",
+      "effect": "Monster 🚩-4; if 🚩=0, target flees.",
       "created_at": "2026-08-13T21:26:29.621594+00:00",
       "genres": [
         "Medieval",
@@ -31068,7 +31068,7 @@
       "name": "Monastic Vow",
       "usage": "1-⚡",
       "action": "F",
-      "effect": "Gain Luck🍀+1 once per Day.",
+      "effect": "Gain 🍀+1 once per Day.",
       "created_at": "2026-08-13T21:26:29.621594+00:00",
       "genres": [
         "Medieval",
@@ -31106,7 +31106,7 @@
       "name": "Moonlight Blessing",
       "usage": "1-Enc",
       "action": "P",
-      "effect": "Glow faintly; Allies Nish🚩+1 for Encounter.",
+      "effect": "Glow faintly; Allies 🚩+1 for Encounter.",
       "created_at": "2026-08-13T21:26:29.621594+00:00",
       "genres": [
         "Medieval",
@@ -31125,7 +31125,7 @@
       "name": "Mountain Step",
       "usage": "1-Enc",
       "action": "M",
-      "effect": "Move double MR👣 over rough terrain.",
+      "effect": "Move 2x 👣 over rough terrain.",
       "created_at": "2026-08-13T21:26:29.621594+00:00",
       "genres": [
         "Medieval",
@@ -31144,7 +31144,7 @@
       "name": "Mountain Stride",
       "usage": "1-Enc",
       "action": "M",
-      "effect": "Ignore terrain and climb at MR👣+2 this rnd.",
+      "effect": "Ignore terrain and climb at 👣+2 this rnd.",
       "created_at": "2026-08-13T21:26:29.621594+00:00",
       "genres": [
         "Medieval",
@@ -31292,7 +31292,7 @@
       "name": "Names of the Fallen",
       "usage": "1-⚡",
       "action": "P",
-      "effect": "Speak shield’s names; allies in earshot next Nish🚩+2.",
+      "effect": "Speak shield’s names; allies in earshot next 🚩+2.",
       "created_at": "2026-08-13T21:26:29.621594+00:00",
       "genres": [
         "Medieval",
@@ -31442,7 +31442,7 @@
       "name": "Neon Beacon",
       "usage": "1-Enc",
       "action": "P",
-      "effect": "Nish🚩+1 to Allies in 6sq.",
+      "effect": "🚩+1 to Allies in 6sq.",
       "created_at": "2026-08-13T21:26:29.621594+00:00",
       "genres": [
         "Medieval",
@@ -31518,7 +31518,7 @@
       "name": "Nimble Step",
       "usage": "1-Enc",
       "action": "M",
-      "effect": "Ignore rough terrain and all MR👣 impairments this rnd.",
+      "effect": "Ignore rough terrain and all 👣 impairments this rnd.",
       "created_at": "2026-08-13T21:26:29.621594+00:00",
       "genres": [
         "Medieval",
@@ -31970,7 +31970,7 @@
       "name": "Perfect Timing",
       "usage": "1-Enc",
       "action": "F",
-      "effect": "Nish🚩+2 on next roll.",
+      "effect": "🚩+2 on next roll.",
       "created_at": "2026-08-13T21:26:29.621594+00:00",
       "genres": [
         "Medieval",
@@ -32008,7 +32008,7 @@
       "name": "Phalanx Drive",
       "usage": "1-Enc",
       "action": "AM",
-      "effect": "Move double MR👣; Atk with Spear; Dmg+2.",
+      "effect": "Move 2x 👣; Atk with Spear; Dmg+2.",
       "created_at": "2026-08-13T21:26:29.621594+00:00",
       "genres": [
         "Medieval",
@@ -32082,7 +32082,7 @@
       "name": "Phantom Step",
       "usage": "2-Enc",
       "action": "M",
-      "effect": "Move MR👣; you do not provoke opportunity Atks this rnd.",
+      "effect": "Move 👣; you do not provoke opportunity Atks this rnd.",
       "created_at": "2026-08-13T21:26:29.621594+00:00",
       "genres": [
         "Medieval",
@@ -32593,7 +32593,7 @@
       "name": "Pressure-Point Strike",
       "usage": "1-⚡",
       "action": "A",
-      "effect": "On hit; target MR👣-2 for Encounter.",
+      "effect": "On hit; target 👣-2 for Encounter.",
       "created_at": "2026-08-13T21:26:29.72558+00:00",
       "genres": [
         "Medieval",
@@ -32650,7 +32650,7 @@
       "name": "Psionic Leap",
       "usage": "1-Enc",
       "action": "M",
-      "effect": "Jump or vault up to MR👣 ignoring difficult terrain.",
+      "effect": "Jump or vault up to 👣 ignoring difficult terrain.",
       "created_at": "2026-08-13T21:26:29.72558+00:00",
       "genres": [
         "Medieval",
@@ -32891,7 +32891,7 @@
       "name": "Quick Reflexes",
       "usage": "1-⚡",
       "action": "F",
-      "effect": "Next Nish🚩 has Advantage.",
+      "effect": "Next 🚩 has Advantage.",
       "created_at": "2026-08-13T21:26:29.72558+00:00",
       "genres": [
         "Medieval",
@@ -33062,7 +33062,7 @@
       "name": "Rallying Shout",
       "usage": "1-Enc",
       "action": "A",
-      "effect": "Allies MR👣+1 for Encounter.",
+      "effect": "Allies 👣+1 for Encounter.",
       "created_at": "2026-08-13T21:26:29.72558+00:00",
       "genres": [
         "Medieval",
@@ -33157,7 +33157,7 @@
       "name": "Raven Wings",
       "usage": "1-Enc",
       "action": "M",
-      "effect": "Ride Keeth; fly MR👣 this rnd.",
+      "effect": "Ride Keeth; fly 👣 this rnd.",
       "created_at": "2026-08-13T21:26:29.72558+00:00",
       "genres": [
         "Medieval",
@@ -33620,7 +33620,7 @@
       "name": "Rhythm Step",
       "usage": "1-Rnd",
       "action": "M",
-      "effect": "Target's Stealth; MR👣+2 this rnd.",
+      "effect": "Target's Stealth; 👣+2 this rnd.",
       "created_at": "2026-08-13T21:26:29.72558+00:00",
       "genres": [
         "Medieval",
@@ -33789,7 +33789,7 @@
       "name": "Rope Runner",
       "usage": "1-Enc",
       "action": "M",
-      "effect": "Climb or descend up to MR👣 on rope/wall this rnd; Stealth🏃 allowed while moving.",
+      "effect": "Climb or descend up to 👣 on rope/wall this rnd; Stealth🏃 allowed while moving.",
       "created_at": "2026-08-13T21:26:29.72558+00:00",
       "genres": [
         "Medieval",
@@ -34072,7 +34072,7 @@
       "name": "Scurry",
       "usage": "1-Enc",
       "action": "M",
-      "effect": "Move double MR👣 this rnd.",
+      "effect": "Move 2x 👣 this rnd.",
       "created_at": "2026-08-13T21:26:29.72558+00:00",
       "genres": [
         "Medieval",
@@ -34262,7 +34262,7 @@
       "name": "Shadow Glide",
       "usage": "1-Enc",
       "action": "M",
-      "effect": "Move double MR👣 this rnd.",
+      "effect": "Move 2x 👣 this rnd.",
       "created_at": "2026-08-13T21:26:29.821451+00:00",
       "genres": [
         "Medieval",
@@ -34338,7 +34338,7 @@
       "name": "Shadow Step",
       "usage": "1-Enc",
       "action": "M",
-      "effect": "Teleport up to MR👣 to a visible shadow.",
+      "effect": "Teleport up to 👣 to a visible shadow.",
       "created_at": "2026-08-13T21:26:29.821451+00:00",
       "genres": [
         "Medieval",
@@ -34640,7 +34640,7 @@
       "name": "Shield Rush",
       "usage": "1-Enc",
       "action": "AM",
-      "effect": "Move double MR👣; Atk with shield's Def; Dmg uses shield's d(Block)+2.",
+      "effect": "Move 2x 👣; Atk with shield's Def; Dmg uses shield's d(Block)+2.",
       "created_at": "2026-08-13T21:26:29.821451+00:00",
       "genres": [
         "Medieval",
@@ -34790,7 +34790,7 @@
       "name": "Shove (mso)",
       "usage": "2-Enc",
       "action": "A",
-      "effect": "Rng Medium; telekinetically push target 2 sq; Save ✨ or Prone.",
+      "effect": "Rng Medium; telekinetically push target 2 sq; 👁️^🏃 or target Prone.",
       "created_at": "2026-09-05T23:12:15.32015+00:00",
       "genres": [
         "SciFi"
@@ -35937,7 +35937,7 @@
       "name": "Street Instincts",
       "usage": "1-Enc",
       "action": "F",
-      "effect": "Spot danger👁️; Nish🚩+2 on next roll.",
+      "effect": "Spot danger👁️; 🚩+2 on next roll.",
       "created_at": "2026-08-13T21:26:29.912709+00:00",
       "genres": [
         "Medieval",
@@ -36129,7 +36129,7 @@
       "name": "Stun (mso)",
       "usage": "2-Enc",
       "action": "P",
-      "effect": "+Rng 1; Atk 💪 Dmg d💪; Wnds = target Stunned for Encounter (attacker may deal non-lethal Stun only or normal Dmg + Stun).",
+      "effect": "+Rng 1; Atk 💪 Dmg d💪; Wnds = target Stunned (attacker may deal non-lethal Stun only or normal Dmg + Stun).",
       "created_at": "2026-09-05T23:12:15.32015+00:00",
       "genres": [
         "SciFi"
@@ -36148,7 +36148,7 @@
       "name": "Stunning Blow (mso)",
       "usage": "2-Enc",
       "action": "P",
-      "effect": "+Melee Atk; Dmg -3; Wnds = target Stunned for Encounter.",
+      "effect": "+Melee Atk; Dmg -3; Wnds = target Stunned.",
       "created_at": "2026-09-05T23:12:15.498894+00:00",
       "genres": [
         "SciFi"
@@ -36488,7 +36488,7 @@
       "name": "Tail Spike Venom (mso)",
       "usage": "1-Enc",
       "action": "F",
-      "effect": "+Tail spike natural strike (Brawl); Wnds = Save 🫀^20 or Stunned for Encounter.",
+      "effect": "Brawl natural strike; Wnds = 🫀^🫀 or target Stunned.",
       "created_at": "2026-09-05T23:12:15.575898+00:00",
       "genres": [
         "SciFi"
@@ -36879,7 +36879,7 @@
       "name": "Thunder Barge Pilot",
       "usage": "1-Enc",
       "action": "M",
-      "effect": "If operating Warmachine; 👁️ to grant allies Nish🚩+2 this rnd.",
+      "effect": "If operating Warmachine; 👁️ to grant allies 🚩+2 this rnd.",
       "created_at": "2026-08-13T21:26:29.912709+00:00",
       "genres": [
         "Medieval",
@@ -37175,7 +37175,7 @@
       "name": "Towering Stride",
       "usage": "1-Enc",
       "action": "M",
-      "effect": "MR👣 in a straight line, ignoring most terrain, traps, Blocks, etc.",
+      "effect": "👣 in a straight line, ignoring most terrain, traps, Blocks, etc.",
       "created_at": "2026-08-13T21:26:29.912709+00:00",
       "genres": [
         "Medieval",
@@ -37251,7 +37251,7 @@
       "name": "Tribal Bond",
       "usage": "1-Enc",
       "action": "P",
-      "effect": "Allies Nish🚩+1 for Encounter.",
+      "effect": "Allies 🚩+1 for Encounter.",
       "created_at": "2026-08-13T21:26:29.912709+00:00",
       "genres": [
         "Medieval",
@@ -38142,7 +38142,7 @@
       "name": "Wall Run",
       "usage": "1-Enc",
       "action": "M",
-      "effect": "Move across walls/obstacles up to MR👣; 🏃 if risky.",
+      "effect": "Move across walls/obstacles up to 👣; 🏃 if risky.",
       "created_at": "2026-08-13T21:26:29.990524+00:00",
       "genres": [
         "Medieval",
@@ -38161,7 +38161,7 @@
       "name": "Wall Run Kick",
       "usage": "1-Enc",
       "action": "AM",
-      "effect": "Run along wall/obstacle up to MR👣; normal Atk & Dmg on landing.",
+      "effect": "Run along wall/obstacle up to 👣; normal Atk & Dmg on landing.",
       "created_at": "2026-08-13T21:26:29.990524+00:00",
       "genres": [
         "Medieval",
@@ -38313,7 +38313,7 @@
       "name": "Weapons Display (mso)",
       "usage": "2-Enc",
       "action": "P",
-      "effect": "Demonstrate weapon flourish; Save 🫀 or Intimidated.",
+      "effect": "Demonstrate weapon flourish; 💪^🫀 or target Weakened.",
       "created_at": "2026-09-05T23:12:15.575898+00:00",
       "genres": [
         "SciFi"
@@ -38406,7 +38406,7 @@
       "name": "Whispered Signal",
       "usage": "1-Enc",
       "action": "F",
-      "effect": "Allies in earshot gain Nish🚩+1 this rnd.",
+      "effect": "Allies in earshot gain 🚩+1 this rnd.",
       "created_at": "2026-08-13T21:26:29.990524+00:00",
       "genres": [
         "Medieval",
@@ -38482,7 +38482,7 @@
       "name": "Winged Flight",
       "usage": "1-Enc",
       "action": "M",
-      "effect": "Fly MR👣; Hover in place.",
+      "effect": "Fly 👣; Hover in place.",
       "created_at": "2026-08-13T21:26:29.990524+00:00",
       "genres": [
         "Medieval",
@@ -38501,7 +38501,7 @@
       "name": "Woodland Step",
       "usage": "1-Rnd",
       "action": "M",
-      "effect": "Stealth in natural terrain at MR👣+2; 1 rnd.",
+      "effect": "Stealth in natural terrain at 👣+2; 1 rnd.",
       "created_at": "2026-08-13T21:26:29.990524+00:00",
       "genres": [
         "Medieval",
@@ -38796,7 +38796,7 @@
       "name": "Ash-and-Blood WarPaint",
       "action": "M",
       "usage": "1-⚡",
-      "effect": "While painted; Nish🚩+1 for encounter.",
+      "effect": "While painted; 🚩+1 for encounter.",
       "belongs_to": "Supplies: Ash-and-Blood WarPaint",
       "genres": [
         "Medieval",
@@ -39025,7 +39025,7 @@
       "name": "Banner of Eternity",
       "action": "P",
       "usage": "1-⚡",
-      "effect": "Allies Nish🚩+2 while carried for encounter.",
+      "effect": "Allies 🚩+2 while carried for encounter.",
       "belongs_to": "Supplies: Banner of Eternity",
       "genres": [
         "Medieval",
@@ -39106,7 +39106,7 @@
       "name": "Bell of Rallying",
       "action": "P",
       "usage": "1-Enc",
-      "effect": "Allies in earshot Nish🚩+1.",
+      "effect": "Allies in earshot 🚩+1.",
       "belongs_to": "Supplies: Bell of Rallying",
       "genres": [
         "Medieval",
@@ -39265,7 +39265,7 @@
       "name": "Boundless Step",
       "action": "M",
       "usage": "1-Enc",
-      "effect": "Move double MR👣 this Rnd.",
+      "effect": "Move 2x 👣 this Rnd.",
       "belongs_to": "Supplies: Boots of Boundless Step",
       "genres": [
         "Medieval",
@@ -39394,7 +39394,7 @@
       "name": "Cardiac Neuro-Shock (mso)",
       "action": "A",
       "usage": "1-Enc",
-      "effect": "Weapon hit; severe cardiac shock; Save 🫀 or Stunned for Encounter and takes -d8 Vit.",
+      "effect": "Weapon hit; 🫀^🫀 or target Stunned and loses d8 Vit.",
       "belongs_to": "Supplies: Poison: Death (Blade Reservoir) (mso)",
       "genres": [
         "SciFi"
@@ -39620,7 +39620,7 @@
       "name": "Choking Neurotoxin (mso)",
       "action": "A",
       "usage": "2-Enc",
-      "effect": "Weapon hit or contact; Save 🫀 or throat constricts; unable to speak; -2 to all checks for Encounter.",
+      "effect": "Weapon hit or contact; 🫀^🫀 or target throat constricts (unable to speak; -2 to all checks).",
       "belongs_to": "Supplies: Poison: Choking (Blade Reservoir) (mso)",
       "genres": [
         "SciFi"
@@ -39832,7 +39832,7 @@
       "name": "Contact Neurotoxin Inoculation (mso)",
       "action": "A",
       "usage": "2-Enc",
-      "effect": "Rng 1; contact/ingested toxin; Save 🫀^20 or Poisoned.",
+      "effect": "Rng 1; contact/ingested toxin; Resist 🫀^20 or Poisoned 1 Wnd/Rnd.",
       "belongs_to": "Supplies: Poisons (mso)",
       "genres": [
         "SciFi"
@@ -40255,7 +40255,7 @@
       "name": "Deep Narcosis (mso)",
       "action": "A",
       "usage": "2-Enc",
-      "effect": "Weapon hit or contact; Save 🫀 or falls asleep for Encounter (Shanask immune).",
+      "effect": "Weapon hit or contact; 🫀^🫀 or target Unconscious (Shanask immune).",
       "belongs_to": "Supplies: Poison: Sleep (Blade Reservoir) (mso)",
       "genres": [
         "SciFi"
@@ -40300,7 +40300,7 @@
       "name": "Dice of Fortune",
       "action": "P",
       "usage": "1-Enc",
-      "effect": "Roll d10 on 10 gain 1 Luck🍀 chit.",
+      "effect": "Roll d10 on 10 gain 1 🍀 chit.",
       "belongs_to": "Supplies: Dice of Fortune",
       "genres": [
         "Medieval",
@@ -40686,7 +40686,7 @@
       "name": "Euphoric Hysteria (mso)",
       "action": "A",
       "usage": "2-Enc",
-      "effect": "Inhaled or contact; Save 👁️ or fits of uncontrollable laughter; 👣 1 sq max; cannot take Atk actions for Encounter.",
+      "effect": "Inhaled or contact; 👁️^👁️ or target suffers uncontrollable laughter (👣 1 sq max; cannot take Atk).",
       "belongs_to": "Supplies: Poison: Laughing (Blade Reservoir) (mso)",
       "genres": [
         "SciFi"
@@ -40701,7 +40701,7 @@
       "name": "Executioner Hyper-Ramjet (mso)",
       "action": "P",
       "usage": "1-⚡",
-      "effect": "Rng Medium; hyper-velocity ramjet; lies dormant up to 7 days; Atk 👁️ Dmg 3d10; Wnds = Stunned for Encounter.",
+      "effect": "Rng Medium; hyper-velocity ramjet; lies dormant up to 7 days; Atk 👁️ Dmg 3d10; Wnds = Stunned.",
       "belongs_to": "Supplies: Missile: Assassin (Ramjet) (mso)",
       "genres": [
         "SciFi"
@@ -40776,7 +40776,7 @@
       "name": "Fat Frog Idol",
       "action": "P",
       "usage": "1-⚡",
-      "effect": "Restore 1 Luck🍀 chit.",
+      "effect": "Restore 1 🍀 chit.",
       "belongs_to": "Supplies: Fat Frog Idol",
       "genres": [
         "Medieval",
@@ -40972,7 +40972,7 @@
       "name": "Flash-Bang Concussion Blast (mso)",
       "action": "A",
       "usage": "1-⚡",
-      "effect": "Rng Short; AoE 3x3; Save 🫀 or Blinded and Deafened for Encounter; failed by 5+ = Stunned for Encounter.",
+      "effect": "Rng Short; 3x3; 🫀^🫀 or target Blinded and Deafened; failure by 5+ = target Stunned.",
       "belongs_to": "Supplies: Grenade: Flash-Bang (Stun Core) (mso)",
       "genres": [
         "SciFi"
@@ -40987,7 +40987,7 @@
       "name": "Flash-Bang Tactical Burst (mso)",
       "action": "A",
       "usage": "2-Enc",
-      "effect": "Rng Short; AoE 3x3; Save 🫀 or Blinded and Deafened for Encounter.",
+      "effect": "Rng Short; 3x3; 🫀^🫀 or target Blinded and Deafened.",
       "belongs_to": "Supplies: Grenade: Flash-Bang (Tactical) (mso)",
       "genres": [
         "SciFi"
@@ -41198,7 +41198,7 @@
       "name": "Gargoyle’s Heart",
       "action": "P",
       "usage": "1-Enc",
-      "effect": "AR+4 & MR👣-1 while worn for encounter.",
+      "effect": "AR+4 & 👣-1 while worn for encounter.",
       "belongs_to": "Supplies: Gargoyle’s Heart",
       "genres": [
         "Medieval",
@@ -41297,7 +41297,7 @@
       "name": "Glass [Weapon]",
       "action": "P",
       "usage": "2-Enc",
-      "effect": "On hit; Target MR👣-1 for encounter; Stacks with self.",
+      "effect": "On hit; Target 👣-1 for encounter; Stacks with self.",
       "belongs_to": "Supplies: Glass [Weapon]",
       "genres": [
         "Medieval",
@@ -41731,7 +41731,7 @@
       "name": "Heavy Sonic Overload (mso)",
       "action": "A",
       "usage": "1-⚡",
-      "effect": "Rng Short; AoE 3x3; sonic blast; Save 🫀 or Unconscious for Encounter; robots/cyberware Stunned for Encounter.",
+      "effect": "Rng Short; 3x3; sonic blast; 🫀^🫀 or target Unconscious; robots/cyberware Stunned.",
       "belongs_to": "Supplies: Grenade: Shock (Sonic EMP) (mso)",
       "genres": [
         "SciFi"
@@ -41807,7 +41807,7 @@
       "name": "High-Tensile Tangler Web (mso)",
       "action": "A",
       "usage": "1-⚡",
-      "effect": "Rng Short; AoE 3x3; industrial resin; Save 🏃 or Entangled (👣 0; requires 💪^14 check to break free).",
+      "effect": "Rng Short; 3x3; industrial resin; 🏃^🏃 or target Entangled (👣 0; breakout 💪^14).",
       "belongs_to": "Supplies: Grenade: Tangler (High-Tensile) (mso)",
       "genres": [
         "SciFi"
@@ -42467,7 +42467,7 @@
       "name": "Joc-Tun Neuro-Paralysis (mso)",
       "action": "A",
       "usage": "1-⚡",
-      "effect": "Intravenous strike; Save 🫀 or Paralyzed for Encounter (can think/sense, but cannot move or act).",
+      "effect": "Intravenous strike; 🫀^🫀 or target Paralyzed (can think/sense, cannot move or act).",
       "belongs_to": "Supplies: Poison: Paralysis (Joc-Tun Dose) (mso)",
       "genres": [
         "SciFi"
@@ -42531,7 +42531,7 @@
       "name": "Keeth’s Shadowform Flight",
       "action": "A",
       "usage": "1-Enc",
-      "effect": "Summon Keeth as (Nymph Sized) mount; fly MR👣; for Encounter.",
+      "effect": "Summon Keeth as (Nymph Sized) mount; fly 👣; for Encounter.",
       "belongs_to": "Supplies: Keeth’s Shadowform",
       "genres": [
         "Medieval",
@@ -42689,7 +42689,7 @@
       "name": "Knockout Sedative (mso)",
       "action": "A",
       "usage": "2-Enc",
-      "effect": "Weapon hit or contact; Save 🫀 or Unconscious for Encounter.",
+      "effect": "Weapon hit or contact; 🫀^🫀 or target Unconscious.",
       "belongs_to": "Supplies: Poison: Knockout (Blade Reservoir) (mso)",
       "genres": [
         "SciFi"
@@ -42819,7 +42819,7 @@
       "name": "Loaded Gambler’s Dice",
       "action": "P",
       "usage": "1-Enc",
-      "effect": "On use; reroll 1 failed Atk, Skill🎓, or Power roll.",
+      "effect": "On use; reroll 1 failed Atk, Skill, or Power roll.",
       "belongs_to": "Supplies: Loaded Gambler’s Dice",
       "genres": [
         "Medieval",
@@ -42951,7 +42951,7 @@
       "name": "Marbles of Mischief",
       "action": "A",
       "usage": "1-Enc",
-      "effect": "Scatter marbles in 3x3sq; AoE MR👣-2; bag auto refills.",
+      "effect": "Scatter marbles in 3x3sq; AoE 👣-2; bag auto refills.",
       "belongs_to": "Supplies: Marbles of Mischief",
       "genres": [
         "Medieval",
@@ -43034,7 +43034,7 @@
       "name": "Medical Anesthetic Dose (mso)",
       "action": "A",
       "usage": "1-⚡",
-      "effect": "Intravenous or oral; Save 🫀 or Unconscious for Encounter (wakes upon taking Dmg).",
+      "effect": "Intravenous or oral; Resist 🫀^14 or Unconscious (wakes upon taking Dmg).",
       "belongs_to": "Supplies: Poison: Knockout (Anesthetic Vial) (mso)",
       "genres": [
         "SciFi"
@@ -43464,7 +43464,7 @@
       "name": "Neon Skateboard",
       "action": "P",
       "usage": "1-⚡",
-      "effect": "While riding MR👣+1 for Encounter.",
+      "effect": "While riding 👣+1 for Encounter.",
       "belongs_to": "Supplies: Neon Skateboard",
       "genres": [
         "Medieval",
@@ -43498,7 +43498,7 @@
       "name": "Neuro-Hysteria Gas Cloud (mso)",
       "action": "A",
       "usage": "1-⚡",
-      "effect": "Rng Short; AoE 3x3; gas cloud; Save 👁️ or incapacitated laughing and exhausted for Encounter.",
+      "effect": "Rng Short; 3x3; gas cloud; 👁️^👁️ or target Incapacitated.",
       "belongs_to": "Supplies: Poison: Laughing (Euphoria Cloud) (mso)",
       "genres": [
         "SciFi"
@@ -43603,7 +43603,7 @@
       "name": "Orb \\- Luck",
       "action": "P",
       "usage": "1-⚡",
-      "effect": "Restore d6 Luck🍀 chits (up to max).",
+      "effect": "Restore d6 🍀 chits (up to max).",
       "belongs_to": "Supplies: Orb \\- Luck",
       "genres": [
         "Medieval",
@@ -43650,7 +43650,7 @@
       "name": "Paralytic Venom (mso)",
       "action": "A",
       "usage": "2-Enc",
-      "effect": "Weapon hit or contact; Save 🫀 or Paralyzed for Encounter (can think/sense, but cannot move or act).",
+      "effect": "Weapon hit or contact; 🫀^🫀 or target Paralyzed (can think/sense, cannot move or act).",
       "belongs_to": "Supplies: Poison: Paralysis (Blade Reservoir) (mso)",
       "genres": [
         "SciFi"
@@ -44710,7 +44710,7 @@
       "name": "Sea Zimil Cardiac Arrest (mso)",
       "action": "A",
       "usage": "1-⚡",
-      "effect": "Intravenous strike; Save 🫀^14 or cardiac arrest; drops to 0 Vit and dying; fatal by end of Encounter unless Kalos II kicta antidote or 👁️^14 Medtech check succeeds.",
+      "effect": "Intravenous delivery; 🫀^🫀 or target drops to 0 Vit and dying; fatal unless Kalos II kicta antidote or Medtech 👁️^14 check succeeds.",
       "belongs_to": "Supplies: Poison: Death (Sea Zimil Dose) (mso)",
       "genres": [
         "SciFi"
@@ -44800,7 +44800,7 @@
       "name": "Setchie Coma Dose (mso)",
       "action": "A",
       "usage": "1-⚡",
-      "effect": "Ingested or coated; Save 🫀 or falls into deep sleep for Encounter (wakes if vigorously shaken or taking Dmg; Shanask immune).",
+      "effect": "Ingested or coated; Resist 🫀^16 or Unconscious (wakes if vigorously shaken or taking Dmg; Shanask immune).",
       "belongs_to": "Supplies: Poison: Sleep (Setchie Coma Dose) (mso)",
       "genres": [
         "SciFi"
@@ -44917,7 +44917,7 @@
       "name": "Shock Tactical Wave (mso)",
       "action": "A",
       "usage": "2-Enc",
-      "effect": "Rng Short; AoE 3x3; sonic blast; Save 🫀 or Stunned for Encounter; robots/cyberware take d6 ion Dmg.",
+      "effect": "Rng Short; 3x3; sonic blast; 🫀^🫀 or target Stunned; robots/cyberware take d6 ion Dmg.",
       "belongs_to": "Supplies: Grenade: Shock (Tactical) (mso)",
       "genres": [
         "SciFi"
@@ -45048,7 +45048,7 @@
       "name": "Solar Blinding Flash (mso)",
       "action": "P",
       "usage": "2-Enc",
-      "effect": "Rng Long; searing daylight burst; Save ✨^20 or Blinded.",
+      "effect": "Rng Long; searing daylight burst; ✨^✨ or target Blinded.",
       "belongs_to": "Supplies: Tiara of Light (mso)",
       "genres": [
         "SciFi"
@@ -45778,7 +45778,7 @@
       "name": "Stoneform [Armor]",
       "action": "P",
       "usage": "2-Enc",
-      "effect": "If you are wounded; Attacker petrifies; MR👣-1 for Encounter; Self stacking.",
+      "effect": "If you are wounded; Attacker petrifies; 👣-1 for Encounter; Self stacking.",
       "belongs_to": "Supplies: Stoneform [Armor]",
       "genres": [
         "Medieval",
@@ -45874,7 +45874,7 @@
       "name": "Suffocating Calamorian Cloud (mso)",
       "action": "A",
       "usage": "1-⚡",
-      "effect": "Rng Short; AoE 3x3; gas cloud; Save 🫀 or Suffocating (takes d8 Dmg each turn for Encounter; can only gasp for air).",
+      "effect": "Rng Short; 3x3; gas cloud; 🫀^🫀 or target Suffocating (takes d8 Dmg each turn; can only gasp for air).",
       "belongs_to": "Supplies: Poison: Choking (Milc-Ti Dose) (mso)",
       "genres": [
         "SciFi"
@@ -46015,7 +46015,7 @@
       "name": "Tangler Tactical Resin (mso)",
       "action": "A",
       "usage": "2-Enc",
-      "effect": "Rng Short; AoE 3x3; sticky resin; Save 🏃 or Entangled (👣 0; requires 💪^10 check to break free).",
+      "effect": "Rng Short; 3x3; 🏃^🏃 or target Entangled (👣 0; breakout 💪^10).",
       "belongs_to": "Supplies: Grenade: Tangler (Tactical) (mso)",
       "genres": [
         "SciFi"
@@ -46109,7 +46109,7 @@
       "name": "the Cyclone",
       "action": "M",
       "usage": "1-Enc",
-      "effect": "MR👣 doubled for encounter; leave whirlwind trail (foes Rolls-1).",
+      "effect": "👣 doubled for encounter; leave whirlwind trail (foes Rolls-1).",
       "belongs_to": "Supplies: Boots of the Cyclone",
       "genres": [
         "Medieval",
@@ -46955,7 +46955,7 @@
       "name": "Wind Flute",
       "action": "A",
       "usage": "1-Enc",
-      "effect": "Play note; next Nish🚩 roll with Advantage.",
+      "effect": "Play note; next 🚩 roll with Advantage.",
       "belongs_to": "Supplies: Wind Flute",
       "genres": [
         "Medieval",
@@ -47036,7 +47036,7 @@
       "name": "Zephyr Feather",
       "action": "M",
       "usage": "1-Enc",
-      "effect": "MR👣+2 this rnd.",
+      "effect": "👣+2 this rnd.",
       "belongs_to": "Supplies: Zephyr Feather",
       "genres": [
         "Medieval",

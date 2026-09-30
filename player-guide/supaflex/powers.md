@@ -11,7 +11,7 @@ Select one of the many sub-sets of powers such as Class👤, Race🧬, Combat St
 | Usage | Action | Name | Effect |
 | --- | --- | --- | --- |
 | 1-Enc | P | **Bardic Bluff** | 👁️ social roll with Advantage. |
-| 1-Enc | P | **Battle Rhythm** | 👁️; ally Nish🚩+2. |
+| 1-Enc | P | **Battle Rhythm** | 👁️; ally 🚩+2. |
 | 1-Enc | P | **Counter-Charm** | Cancel Charm or fearon an ally (✨). |
 | 1-Enc | P | **Cutting Words** | Next Atk targeting foe gains +2. |
 | 1-Enc | A | **Discordant Chord** | ✨ Atk & Dmg to all nearby foes. |
@@ -24,10 +24,10 @@ Select one of the many sub-sets of powers such as Class👤, Race🧬, Combat St
 | 1-⚡ | F | **Legendary Encore** | Target (self or ally) reroll one failed roll. |
 | 1-⚡ | A | **Lorekeeper’s Recall** | Declare 1 statement; GM confirms yes or no; no roll. |
 | 1-Enc | A | **Lullaby** | 👁️ or target is Asleep. |
-| 1-Enc | A | **Mocking Verse** | Monster Nish🚩-4; if Nish🚩=0, target flees. |
+| 1-Enc | A | **Mocking Verse** | Monster 🚩-4; if 🚩=0, target flees. |
 | 1-Enc | A | **Piercing Note** | ✨^Dif or object is sundered. |
 | 1-⚡ | A | **Rally Song** | Allies in earshot Atk+1 for Encounter. |
-| 1-Rnd | M | **Rhythm Step** | Target's Stealth; MR👣+2 this rnd. |
+| 1-Rnd | M | **Rhythm Step** | Target's Stealth; 👣+2 this rnd. |
 | 1-Enc | P | **Sneaky Serenade** | Target's Stealth has Advantage. |
 | 1-Rnd | A | **Sonic Dagger** | ✨ Atk d✨ Dmg. |
 | 1-⚡ | F | **Street Show** | Perform in downtime; earn 1d6 Silver or gain Minor for 1 day. |
@@ -66,7 +66,7 @@ Select one of the many sub-sets of powers such as Class👤, Race🧬, Combat St
 
 | Usage | Action | Name | Effect |
 | --- | --- | --- | --- |
-| 1-Enc | AM | **Colossal Charge** | Move double MR👣; Melee Atk; Dmg+3. |
+| 1-Enc | AM | **Colossal Charge** | Move 2x 👣; Melee Atk; Dmg+3. |
 | 1-Enc | A | **Double Grab** | Grab 2 adjacent foes; 💪 Brawl Atk & Dmg on both. |
 | 1-Enc | P | **Iron Endurance** | Heal self 2 Vit. |
 | 1-⚡ | P | **Juggernaut** | AR+2 vs all Atks while in Giant form for encounter. |
@@ -74,7 +74,7 @@ Select one of the many sub-sets of powers such as Class👤, Race🧬, Combat St
 | 1-Enc | P | **Rip & Throw** | Brawl Atk 💪 Dmg d💪 and grab target and hurl them up to d6sq. |
 | 1-Enc | A | **Skull Crusher** | On hit with unarmed; 💪 or target is Stunned. |
 | 1-⚡ | P | **Titan’s Grip** | Can wield massive objects as improvised weapons (Dmg+2) for encounter. |
-| 1-Enc | M | **Towering Stride** | MR👣 in a straight line, ignoring most terrain, traps, Blocks, etc. |
+| 1-Enc | M | **Towering Stride** | 👣 in a straight line, ignoring most terrain, traps, Blocks, etc. |
 
 ### 👤 **Form - Nymph Powers** (9 Abilities)
 
@@ -96,9 +96,9 @@ Select one of the many sub-sets of powers such as Class👤, Race🧬, Combat St
 | --- | --- | --- | --- |
 | 1-Enc | A | **Fade Into Dust** | Become Invisible for 1 Rnd. |
 | 1-⚡ | A | **Illusory Army** | Create 1d4 illusory allies; 👁️ or foes believe for Encounter. |
-| 1-⚡ | A | **Keeth’s Cry** | Summon Keeth; allies in 3sq Nish🚩+2 for Encounter. |
+| 1-⚡ | A | **Keeth’s Cry** | Summon Keeth; allies in 3sq 🚩+2 for Encounter. |
 | 1-Enc | P | **Pixie’s Laughter** | 👁️^👁️ or target is Weakened. |
-| 1-Enc | M | **Raven Wings** | Ride Keeth; fly MR👣 this rnd. |
+| 1-Enc | M | **Raven Wings** | Ride Keeth; fly 👣 this rnd. |
 | 1-Enc | A | **Sound Mimicry** | 👁️ (GM set Dif) or target obeys false order. |
 | 1-Enc | P | **Tiny Terror** | If hidden; Atk with Advantage. |
 | 1-Enc | P | **Trick of Light** | Disguise as another small creature: 👁️^👁️ to fool suspicious observers. |
@@ -129,10 +129,10 @@ Select one of the many sub-sets of powers such as Class👤, Race🧬, Combat St
 
 | Usage | Action | Name | Effect |
 | --- | --- | --- | --- |
-| 1-Enc | P | **Beacon of Solara** | Allies within 3sq Nish🚩+2 this rnd. |
+| 1-Enc | P | **Beacon of Solara** | Allies within 3sq 🚩+2 this rnd. |
 | 1-Enc | M | **Blinding Wings** | AoE 3r; bright light; ✨^✨ or foes are Blinded. |
 | 1-⚡ | P | **Dawn’s Aegis** | All allies in 3sq gain AR+1 for 1 Enc. |
-| 1-Enc | M | **Fey Flight** | While flying this rnd, move up to MR👣 and ignore difficult terrain. |
+| 1-Enc | M | **Fey Flight** | While flying this rnd, move up to 👣 and ignore difficult terrain. |
 | 3-Enc | A | **Healing Light (Greater)** | Heal 1d4+1 Vit. |
 | 1-🍀 | F | **Light’s Mercy** | Reroll one failed Heal roll. |
 | 1-Rnd | P | **Nimble Form** | Dodge🏃+1. |
@@ -179,7 +179,7 @@ Select one of the many sub-sets of powers such as Class👤, Race🧬, Combat St
 | 1-⚡ | A | **Fireball** | ✨ Atk AOE blast d✨ fire Dmg. |
 | 1-⚡ | A | **Flame Wave** | ✨ Atk 4sq line d✨ fire Dmg. |
 | 1-Enc | A | **Frost Nova** | AoE 1r; Atk ✨ Dmg d✨ cold; on hit, ✨^✨ or foes are Weakened. |
-| 2-Enc | A | **Gravity Warp** | Foes in AOE suffer MR👣-2; ✨. |
+| 2-Enc | A | **Gravity Warp** | Foes in AOE suffer 👣-2; ✨. |
 | 1-Rnd | P | **Ice Shield** | AR+2 for 1 Rnd. |
 | 1-⚡ | A | **Lava Pool** | Create hazard in 1sq: ✨^✨ or foes entering suffer d✨ burn hazard. |
 | 1-Rnd | A | **Lightning Jolt** | ✨ Atk ranged d✨ lightning Dmg. |
@@ -289,7 +289,7 @@ Select one of the many sub-sets of powers such as Class👤, Race🧬, Combat St
 | Usage | Action | Name | Effect |
 | --- | --- | --- | --- |
 | 1-⚡ | M | **Ascend the Peaks** | Teleport up to 6sq if terrain is vertical stone. |
-| 1-Enc | M | **Ascetic Agility** | Climb or leap up to MR👣 with 🏃 checks at Advantage this rnd. |
+| 1-Enc | M | **Ascetic Agility** | Climb or leap up to 👣 with 🏃 checks at Advantage this rnd. |
 | 1-Enc | P | **Balance of Steel** | 🚩+2 for 1 Rnd. |
 | 1-Enc | F | **Blade Parry** | On being Melee Hit; auto succeed at a weapon a Block (up to Max Block of 12). |
 | 1-Enc | P | **Breath Control** | Adv(Resist✨)^Afflictions for 1 Rnd. |
@@ -301,15 +301,15 @@ Select one of the many sub-sets of powers such as Class👤, Race🧬, Combat St
 | 1-Enc | P | **Herbal Poultice** | Heal 1 Vit using herbs. |
 | 1-Enc | P | **Iron Body Meditation** | Ignore wound penalties (including Unconscious and Death Check) for 1 Rnd. |
 | 1-Enc | P | **Lotus Focus** | Gain Adv on next Atk roll. |
-| 1-Enc | F | **Lotus Mantra** | Rally allies; nearby gain Nish🚩+1 this rnd. |
-| 1-⚡ | F | **Monastic Vow** | Gain Luck🍀+1 once per Day. |
-| 1-Enc | M | **Mountain Step** | Move double MR👣 over rough terrain. |
+| 1-Enc | F | **Lotus Mantra** | Rally allies; nearby gain 🚩+1 this rnd. |
+| 1-⚡ | F | **Monastic Vow** | Gain 🍀+1 once per Day. |
+| 1-Enc | M | **Mountain Step** | Move 2x 👣 over rough terrain. |
 | 1-Enc | A | **Pressure Point Strike** | On hit: ✨^✨ or target is Stunned. |
 | 1-⚡ | F | **River Stone Patience** | Reroll one failed roll (self or ally). |
 | 1-Enc | F | **Steel Lotus Counter** | After a successful Block; make 1 immediate Atk. |
 | 1-Enc | A | **Twin Katar Sweep** | Atk with both katars; if both hit, target prone. |
 | 1-⚡ | A | **Unbending Steel** | On hit: target's Atk rolls suffer Disadvantage for 1 Rnd. |
-| 1-Enc | F | **Whispered Signal** | Allies in earshot gain Nish🚩+1 this rnd. |
+| 1-Enc | F | **Whispered Signal** | Allies in earshot gain 🚩+1 this rnd. |
 
 ### 👤 **Mensi (mso) Powers** (1 Abilities)
 
@@ -332,19 +332,19 @@ Select one of the many sub-sets of powers such as Class👤, Race🧬, Combat St
 | 1-Rnd | P | **Deflect Missiles** | AR+2 vs missiles. |
 | 1-Enc | M | **Echo Strike** | Repeat last Atk/Dmg with same result. |
 | 1-Enc | M | **Feather Step** | 🏃 actions (e.g. silence, balance, acrobatics,etc) at Advantage. |
-| 1-Enc | AM | **Ki Centering** | Spend 1 rnd in focus (no other actions); regain 1 Luck🍀. |
-| 1-🍀 | F | **Ki Focus** | Spend 1 Luck🍀; Roll+2. |
+| 1-Enc | AM | **Ki Centering** | Spend 1 rnd in focus (no other actions); regain 1 🍀. |
+| 1-🍀 | F | **Ki Focus** | Spend 1 🍀; Roll+2. |
 | 2-Enc | F | **Ki Surge** | Choose one for 1 Rnd: Atk+2, Dod+2, or Resist✨+2. |
-| 1-Enc | AM | **Meditation** | Spend 1 rnd in focus (no other actions); regain 1 Luck🍀. |
+| 1-Enc | AM | **Meditation** | Spend 1 rnd in focus (no other actions); regain 1 🍀. |
 | 1-Enc | P | **Merciful Intercession** | 1 ally cannot be attacked until they act. |
 | 1-Rnd | P | **Monkey Stance** | AR+2 vs ranged attacks for 1 Rnd; req unarmored or very light armor. |
 | 1-Rnd | P | **Panda Stance** | Immune to fear and charm for 1 Rnd; req unarmored or very light armor. |
-| 1-Enc | F | **Perfect Timing** | Nish🚩+2 on next roll. |
+| 1-Enc | F | **Perfect Timing** | 🚩+2 on next roll. |
 | 1-Enc | F | **Pressure Chain** | If unarmed Atk hits same target 2 rnds in a row; gain Dod+2 for Encounter. |
-| 1-⚡ | A | **Pressure-Point Strike** | On hit; target MR👣-2 for Encounter. |
+| 1-⚡ | A | **Pressure-Point Strike** | On hit; target 👣-2 for Encounter. |
 | 1-⚡ | A | **Purging Breath** | Cleanse 1 condition (Poison, Disease, Fatigue, Fear, Charm, Confusion, Stunned, Paralysis) from an ally. |
 | 3-Enc | A | **Rejuvenating Touch** | Heals d✨. |
-| 1-Enc | M | **Shadow Glide** | Move double MR👣 this rnd. |
+| 1-Enc | M | **Shadow Glide** | Move 2x 👣 this rnd. |
 | 1-⚡ | F | **Shadow Hospice** | If ally in 2sq would drop to 0; set them to 1 Vit instead. |
 | 1-Enc | P | **Shared Vit❤️** | Transfer up to 2 of your Vit to adjacent ally. |
 | 1-Enc | P | **Slow Breath (Restorative)** | Regain 1 Vit and gain Resist✨+2 for 1 Rnd. |
@@ -354,7 +354,7 @@ Select one of the many sub-sets of powers such as Class👤, Race🧬, Combat St
 | 1-Enc | F | **Umbral Counter** | On successful Def; make 1 opportunity attack. |
 | 2-Enc | M | **Umbral Form** | Teleport between visible shadows. |
 | 1-Enc | P | **Uncanny Dodge** | Gain Advantage on 1 Defense roll this rnd. |
-| 1-Enc | M | **Wall Run** | Move across walls/obstacles up to MR👣; 🏃 if risky. |
+| 1-Enc | M | **Wall Run** | Move across walls/obstacles up to 👣; 🏃 if risky. |
 | 1-Rnd | P | **Wholeness of Body** | Restore 2 Vit to yourself. |
 
 ### 👤 **Mutak (mso) Powers** (1 Abilities)
@@ -402,13 +402,13 @@ Select one of the many sub-sets of powers such as Class👤, Race🧬, Combat St
 | 1-Enc | A | **Flurry of Mental Blows** | Make 2 unarmed Atks this rnd; each for full Dmg. |
 | 1-Enc | A | **Focused Strike** | Atk+2 for this Atk; on hit; Dmg+1. |
 | 1-⚡ | F | **Iron Will** | Remove 1 condition (Stunned or Weakened). |
-| 1-Enc | M | **Mind Dash** | Move double MR👣 this rnd. |
+| 1-Enc | M | **Mind Dash** | Move 2x 👣 this rnd. |
 | 1-⚡ | A | **Mind Lance** | Rng Short; 👁️^👁️ or target suffers d👁️ Wnds and is Weakened. |
 | 1-⚡ | P | **Mind Over Body** | Resist✨ poison/disease with Advantage and Heal self ✨-2. |
-| 2-Enc | M | **Phantom Step** | Move MR👣; you do not provoke opportunity Atks this rnd. |
+| 2-Enc | M | **Phantom Step** | Move 👣; you do not provoke opportunity Atks this rnd. |
 | 1-Enc | P | **Psionic Barrier** | AoE 2r; allies gain AR+1 for 1 Rnd. |
 | 1-Enc | A | **Psionic Blade** | On hit: 👁️ force Dmg+1 and 👁️^👁️ or target is Weakened. |
-| 1-Enc | M | **Psionic Leap** | Jump or vault up to MR👣 ignoring difficult terrain. |
+| 1-Enc | M | **Psionic Leap** | Jump or vault up to 👣 ignoring difficult terrain. |
 | 1-Enc | P | **Psionic Push** | ✨ Atk; on hit; push target 2sq. |
 | 1-⚡ | A | **Sever Thought** | On hit: 👁️^👁️ or target cannot use ✨ powers for 1 Rnd. |
 | 1-Enc | A | **Stunning Palm** | On unarmed hit: Dmg-2 and 👁️^👁️ or target is Stunned. |
@@ -427,7 +427,7 @@ Select one of the many sub-sets of powers such as Class👤, Race🧬, Combat St
 | 1-⚡ | F | **Holo-Clone** | Projects 1 AI holo-duplicate, Looks Real(👁️)^👁️ for those who try to determine real caster. |
 | 3-Enc | A | **Integrated Targeting** | Either Atk 👁️ Dmg d👁️ all Marked targets with pistol; OR may mark d2+2 targets. |
 | 1-⚡ | M | **Nano-Scope** | Scope HUD mapping: Rng Long; 👁️+2^hidden. |
-| 1-Enc | P | **Neon Beacon** | Nish🚩+1 to Allies in 6sq. |
+| 1-Enc | P | **Neon Beacon** | 🚩+1 to Allies in 6sq. |
 | 1-⚡ | A | **Precision Targeting** | Rnd 2+A; Atk 👁️+1 Dmg d👁️; Wnds = (new Wnds + all previous Wnds) from this ability on same target. |
 | 1-Rnd | M | **Quantum Climbing Gear** | Climb 15 ft or MR(3); auto-success on most surfaces. Fails on liquids/dust/dirt. No overhang. |
 | 1-Enc | A | **Quantum Throw** | Hurled only Atk 🏃 Dmg d🏃: blade tunnels through armor; Wnds(*3). |
@@ -447,12 +447,12 @@ Select one of the many sub-sets of powers such as Class👤, Race🧬, Combat St
 | 3-Enc | F | **Backstab** | On hit from Stealth🏃Dmg+4, or rear; Dmg+2. |
 | 1-Enc | P | **Disable Trap** | Disable Trap at Advantage. |
 | 1-Enc | P | **Distract & Draw** | Create brief diversion; nearest foe 👁️ or looks away; your next Stealth🏃 this rnd gains Advantage. |
-| 1-Enc | M | **Ghosting Run** | Move up to MR👣; ignore Opp Atk this move. |
+| 1-Enc | M | **Ghosting Run** | Move up to 👣; ignore Opp Atk this move. |
 | 1-Enc | F | **Mark Target** | Choose 1 visible foe: Adv(Atk)^Foe for Encounter. |
 | 1-Enc | P | **Pick Lock** | Pick Lock with Advantage. |
-| 1-Enc | M | **Rope Runner** | Climb or descend up to MR👣 on rope/wall this rnd; Stealth🏃 allowed while moving. |
+| 1-Enc | M | **Rope Runner** | Climb or descend up to 👣 on rope/wall this rnd; Stealth🏃 allowed while moving. |
 | 1-Enc | P | **Set Ambush** | Choose a square; first Atk you or ally makes into that square this rnd gains Advantage. |
-| 1-Enc | M | **Shadow Step** | Teleport up to MR👣 to a visible shadow. |
+| 1-Enc | M | **Shadow Step** | Teleport up to 👣 to a visible shadow. |
 | 2-Enc | P | **Silent Takedown** | On hit targeting adjacent humanoid: ✨^✨ or target is Stunned. |
 | 1-Enc | P | **Sleight of Hand** | Plant/switch/palm a small item with Advantage. |
 | 1-Enc | M | **Slip Through** | Move through 1 enemy’s square; that foe 👁️ or cannot Opp Atk you this move. |
@@ -468,7 +468,7 @@ Select one of the many sub-sets of powers such as Class👤, Race🧬, Combat St
 | --- | --- | --- | --- |
 | 1-Enc | A | **Aura of Charm** | 👁️ charms target. |
 | 1-⚡ | A | **Doppelgänger Bluff** | Impersonate someone nearby; 👁️ disguise roll. |
-| 1-Enc | M | **Flash Step** | Move double MR👣 this rnd. |
+| 1-Enc | M | **Flash Step** | Move 2x 👣 this rnd. |
 | 1-⚡ | A | **Master of Disguise** | appear+as another person; 👁️ disguise roll. |
 | 2-Enc | A | **Neon Mirage** | Create illusory double; 👁️. |
 | 1-Enc | A | **Phantom Grasp** | Shadowy hand restrains 1 foe: ✨^💪 or target is Immobilized. |
@@ -516,9 +516,9 @@ Select one of the many sub-sets of powers such as Class👤, Race🧬, Combat St
 | 1-Enc | P | **Blood Oath** | Take 1 Dmg; 1 ally gains +2 on next roll. |
 | 1-⚡ | A | **Earthquake Stomp** | 💪 or foes in 2sq fall prone. |
 | 1-Enc | A | **Flame Weapon** | Imbue weapon; Dmg+1 fire for Encounter. |
-| 1-Enc | AM | **Furious Charge** | Move double MR👣, Atk, and Dmg+2. |
-| 1-⚡ | F | **Quick Reflexes** | Next Nish🚩 has Advantage. |
-| 1-Enc | A | **Rallying Shout** | Allies MR👣+1 for Encounter. |
+| 1-Enc | AM | **Furious Charge** | Move 2x 👣, Atk, and Dmg+2. |
+| 1-⚡ | F | **Quick Reflexes** | Next 🚩 has Advantage. |
+| 1-Enc | A | **Rallying Shout** | Allies 👣+1 for Encounter. |
 | 2-Enc | A | **Second Wind** | Self heal 2 Vit. |
 | 1-Enc | P | **Shapeshift: Duality Form** | Transform into Pixie (10” 2Lbs) or Giant (11’ 1000Lbs) form for Encounter; replace Atr & Powers with that form, on an seperate speced out Character Sheet. Basically 3 characters in one. |
 | 1-Enc | P | **Taunting Shout** | 👁️ or target focuses Atks on you. |
@@ -586,10 +586,10 @@ Select one of the many sub-sets of powers such as Class👤, Race🧬, Combat St
 | 1-⚡ | F | **Ghost Phalanx** | Adjacent allies AR+1 as spectral shields form for encounter. |
 | 1-⚡ | A | **Last Stand** | If reduced to negative Vit; act normally until end of rnd. |
 | 1-Enc | M | **Linebreaker** | Move up to MR through foes: 💪^💪 or foes in path fall Prone. |
-| 1-⚡ | P | **Names of the Fallen** | Speak shield’s names; allies in earshot next Nish🚩+2. |
+| 1-⚡ | P | **Names of the Fallen** | Speak shield’s names; allies in earshot next 🚩+2. |
 | 2-Enc | A | **Oathbound Fury** | If your Wounds ≥ half Vit; Atk+2 this rnd. |
 | 1-⚡ | AM | **Phalanx Advance** | Move with shield raised; allies in 2sq gain AR+1 this rnd. |
-| 1-Enc | AM | **Phalanx Drive** | Move double MR👣; Atk with Spear; Dmg+2. |
+| 1-Enc | AM | **Phalanx Drive** | Move 2x 👣; Atk with Spear; Dmg+2. |
 | 1-Enc | P | **Shield Interpose** | One adjacent ally’s Dod+2 vs 1 Atk. |
 | 1-Enc | A | **Shield Ram** | Roll shield Def as Atk & Dmg(AR+1) and 💪 pushes target d4sq. |
 | 1-Enc | A | **SpearCircle** | Atk all adjacent foes with spear. |
@@ -644,7 +644,7 @@ Select one of the many sub-sets of powers such as Class👤, Race🧬, Combat St
 | 1-⚡ | F | **Brotherhood of the Garbage Can Gods** | Call on ally memory; reroll 1 failed roll (self or ally). |
 | 1-Enc | P | **Chain Punk Fury** | On hit; make 1 extra Atk with off-hand weapon. |
 | 1-Rnd | A | **Crossbow Snap** | Quick fire; Ranged Atk, Dmg-1. |
-| 1-Enc | P | **Gambler’s Edge** | Your next Atk or Skill🎓 roll has Advantage. |
+| 1-Enc | P | **Gambler’s Edge** | Your next Atk or Skill roll has Advantage. |
 | 1-Rnd | P | **Improvised Arsenal** | Wield random object; Atk and Dmg equals 💪. |
 | 1-Rnd | A | **Mohawk Menace** | Flash aggression; nearby foes 👁️ or flee 1sq. |
 | 1-Enc | P | **Oops, Shouldn’t Have Said That…** | Insult foe; 👁️ or target focuses Atk on you this rnd. |
@@ -656,7 +656,7 @@ Select one of the many sub-sets of powers such as Class👤, Race🧬, Combat St
 | 1-Enc | P | **Rebel’s Awareness** | Spot hidden exits, ambushes, or unusual behavior👁️. |
 | 1-Enc | P | **Riot Instigator** | AoE 3r; 👁️^👁️ or allies in area gain Advantage on Atk for 1 Rnd. |
 | 1-Enc | A | **Smoke Bomb Toss** | Create 3x3sq zone; foes inside suffer Disadvantage on Atk & Dodge🏃 this rnd. |
-| 1-Enc | F | **Street Instincts** | Spot danger👁️; Nish🚩+2 on next roll. |
+| 1-Enc | F | **Street Instincts** | Spot danger👁️; 🚩+2 on next roll. |
 | 1-Enc | P | **You Look Kinda Nice When You’re in Danger** | When ally is hit; choose: ally AR+d4 or next Dmg+d4. |
 
 ### 👤 **Warrior - Ranger Powers** (10 Abilities)
@@ -678,8 +678,8 @@ Select one of the many sub-sets of powers such as Class👤, Race🧬, Combat St
 
 | Usage | Action | Name | Effect |
 | --- | --- | --- | --- |
-| 1-⚡ | F | **Ancestral Guard** | Call on clan spirits; allies in 2sq Nish🚩+1 for Encounter. |
-| 1-Enc | M | **Avalanche Drive** | Move MR👣; 💪 or target falls Prone; d4 Dmg. |
+| 1-⚡ | F | **Ancestral Guard** | Call on clan spirits; allies in 2sq 🚩+1 for Encounter. |
+| 1-Enc | M | **Avalanche Drive** | Move 👣; 💪 or target falls Prone; d4 Dmg. |
 | 1-Rnd | P | **Blackaxe Formation** | AR+1 for 1 Rnd. |
 | 1-⚡ | F | **Blackaxe Oath** | If reduced to 0 Vit; stay conscious until end of rnd. |
 | 1-Enc | A | **Blackaxe Slam** | Atk with shield (use Def as Atk); on hit, d4 Dmg and 💪 or target Stunned. |
@@ -688,14 +688,14 @@ Select one of the many sub-sets of powers such as Class👤, Race🧬, Combat St
 | 1-⚡ | P | **Forge-Bound Shout** | Adjacent allies gain Def+1 for Encounter. |
 | 1-Enc | A | **Hamstring Strike** | On hit: normal Dmg and 🏃^🏃 or target MR is halved for 1 Rnd. |
 | 1-Enc | P | **Ignore the Pain** | Take 1 Dmg; negate next d6 Dmg you would take. |
-| 1-Enc | M | **Mountain Stride** | Ignore terrain and climb at MR👣+2 this rnd. |
+| 1-Enc | M | **Mountain Stride** | Ignore terrain and climb at 👣+2 this rnd. |
 | 1-Enc | P | **Rage Regen** | Heal self 1d4. |
 | 1-Enc | AM | **Shield Break Line** | Move through foes in 3sq; 💪 or each is knocked Prone. |
-| 1-Enc | AM | **Shield Rush** | Move double MR👣; Atk with shield's Def; Dmg uses shield's d(Block)+2. |
+| 1-Enc | AM | **Shield Rush** | Move 2x 👣; Atk with shield's Def; Dmg uses shield's d(Block)+2. |
 | 1-⚡ | A | **Stone Form** | Harden body like granite; AR+2 and immune to poison/disease for Encounter. |
 | 1-Rnd | P | **Stonewall** | Def+1 for 1 Rnd. |
 | 2-Enc | A | **Taunt of Stone** | 👁️ or targets within 2sq must focus Atks on you. |
-| 1-Enc | M | **Thunder Barge Pilot** | If operating Warmachine; 👁️ to grant allies Nish🚩+2 this rnd. |
+| 1-Enc | M | **Thunder Barge Pilot** | If operating Warmachine; 👁️ to grant allies 🚩+2 this rnd. |
 | 1-⚡ | F | **Veteran of the Deeps** | Reroll 1 failed 💪 or 🏃 roll. |
 
 ## 🧬 **Racial Powers**
@@ -741,23 +741,23 @@ Select one of the many sub-sets of powers such as Class👤, Race🧬, Combat St
 | 1-Enc | A | **Forest Bond** | Summon roots/vines; ✨ or target is Immobilized. |
 | 1-Enc | P | **Glamour Veil** | appear+more beautifu; Appropriate 👁️+2. |
 | 1-Enc | P | **Keen Sight** | Spot hidden foes or objects; 👁️ with Advantage. |
-| 1-Enc | P | **Moonlight Blessing** | Glow faintly; Allies Nish🚩+1 for Encounter. |
+| 1-Enc | P | **Moonlight Blessing** | Glow faintly; Allies 🚩+1 for Encounter. |
 | 1-Enc | A | **Song of Serenity** | 👁️ or target is Pacified. |
-| 1-Rnd | M | **Woodland Step** | Stealth in natural terrain at MR👣+2; 1 rnd. |
+| 1-Rnd | M | **Woodland Step** | Stealth in natural terrain at 👣+2; 1 rnd. |
 
 ### 🧬 **Fairy Powers** (9 Abilities)
 
 | Usage | Action | Name | Effect |
 | --- | --- | --- | --- |
 | 1-⚡ | P | **Fey Glamour** | ✨^✨ or target is Charmed. |
-| 1-Enc | F | **Fey Grace** | Gain Nish🚩+2 this rnd. |
+| 1-Enc | F | **Fey Grace** | Gain 🚩+2 this rnd. |
 | 1-🍀 | F | **Fey Luck** | Reroll one failed Dodge🏃 roll. |
 | 1-Enc | F | **Fey Whisper** | Communicate with beasts in 3sq. |
 | 1-Enc | M | **Flutter Dance** | Move MR; Atks targeting you have Disadvantage this Rnd. |
 | 1-Enc | P | **Glitterdust** | AoE 2r; emit light motes: ✨^✨ or foes are Blinded. |
 | 1-Enc | P | **Small Stature** | Stealth🏃 with Advantage in natural terrain. |
 | 1-Enc | P | **Sunblessed** | Light sources you create glow +1sq radius. |
-| 1-Enc | M | **Winged Flight** | Fly MR👣; Hover in place. |
+| 1-Enc | M | **Winged Flight** | Fly 👣; Hover in place. |
 
 ### 🧬 **Gnome Powers** (9 Abilities)
 
@@ -779,11 +779,11 @@ Select one of the many sub-sets of powers such as Class👤, Race🧬, Combat St
 | --- | --- | --- | --- |
 | 1-Enc | A | **Ambush Instinct** | If hidden; next Atk has Advantage+2. |
 | 1-Enc | P | **Filch** | 🏃 check to steal 1 small item unnoticed. |
-| 1-⚡ | F | **Goblin Glee** | After a crit; gain 1 Luck🍀 chit. |
+| 1-⚡ | F | **Goblin Glee** | After a crit; gain 1 🍀 chit. |
 | 1-Enc | P | **Grimy Grin** | 👁️ Intimidate or target looses next Move Action. |
 | 1-Enc | A | **Howl Pack** | Allies in 3sq Atk+1 for Encounter. |
 | 1-⚡ | A | **Scrap Bomb** | Toss a bomb; ✨ Atk for ✨+1 Dmg in 2x2sq. |
-| 1-Enc | M | **Scurry** | Move double MR👣 this rnd. |
+| 1-Enc | M | **Scurry** | Move 2x 👣 this rnd. |
 | 1-Enc | P | **Smoke Puff** | Stealth has Advantage. |
 | 1-Enc | P | **Tinker Trap** | Place small trap; ✨ or target suffers d✨ Dmg. |
 | 1-⚡ | P | **Trash Shield** | AR+1 for Encounter. |
@@ -807,8 +807,8 @@ Select one of the many sub-sets of powers such as Class👤, Race🧬, Combat St
 
 | Usage | Action | Name | Effect |
 | --- | --- | --- | --- |
-| 1-Enc | P | **Aethelgard Composure** | Nish🚩+1 when combat begins. |
-| 1-Enc | F | **Battle Drill** | Give 1 adjacent ally Nish🚩+1 this rnd. |
+| 1-Enc | P | **Aethelgard Composure** | 🚩+1 when combat begins. |
+| 1-Enc | F | **Battle Drill** | Give 1 adjacent ally 🚩+1 this rnd. |
 | 1-Enc | P | **Clear the Mind** | Remove Disadvantage from your next 👁️ roll this rnd. |
 | 1-Enc | P | **Guard’s Pragmatism** | Choose Atk+1 or Def+1 for this rnd. |
 | 1-🍀 | F | **Human Grit** | Reroll one failed Ability Roll. |
@@ -822,10 +822,10 @@ Select one of the many sub-sets of powers such as Class👤, Race🧬, Combat St
 | Usage | Action | Name | Effect |
 | --- | --- | --- | --- |
 | 1-⚡ | P | **Ancestral Whisper** | Next 👁️ roll with Advantage. |
-| 1-Enc | A | **Blood Oath Brand** | On hit; Dmg+1 and next Nish🚩+2. |
+| 1-Enc | A | **Blood Oath Brand** | On hit; Dmg+1 and next 🚩+2. |
 | 1-⚡ | P | **Bloodmarked Defiance** | When reduced to 0 Vit; set to 1 Vit instead. |
 | 1-Enc | P | **Bronze Resolve** | Resist✨+2 for 1 Rnd. |
-| 1-Enc | M | **Burdened March** | Move MR👣-2; AR+2 for Encounter. |
+| 1-Enc | M | **Burdened March** | Move 👣-2; AR+2 for Encounter. |
 | 1-Enc | A | **Cursefire Spear** | Power channels through Spear; Atk+3 and extra d4 Dmg burning. |
 | 1-Enc | P | **Curseflare** | AoE 2r; 👁️^👁️ or foes are Weakened. |
 | 1-Enc | A | **Echoing Strike** | On miss; ghostly strike deals d4 Dmg anyway. |
@@ -838,7 +838,7 @@ Select one of the many sub-sets of powers such as Class👤, Race🧬, Combat St
 | Usage | Action | Name | Effect |
 | --- | --- | --- | --- |
 | 1-Enc | P | **Carry More (mso)** | +4 to carrying capacity and heavy lifting. |
-| 1-Enc | F | **Tail Spike Venom (mso)** | +Tail spike natural strike (Brawl); Wnds = Save 🫀^20 or Stunned for Encounter. |
+| 1-Enc | F | **Tail Spike Venom (mso)** | Brawl natural strike; Wnds = 🫀^🫀 or target Stunned. |
 
 ### 🧬 **Nelf Powers** (10 Abilities)
 
@@ -850,7 +850,7 @@ Select one of the many sub-sets of powers such as Class👤, Race🧬, Combat St
 | 1-Enc | P | **Halfling Courage** | Adv(Resist✨)^fear/charm for Encounter. |
 | 1-⚡ | A | **Hearth Magic** | Heal 1 Vit to all allies. |
 | 1-Enc | P | **Hide in Plain Sight** | If still; Stealth with Advantage until you act. |
-| 1-Enc | M | **Nimble Step** | Ignore rough terrain and all MR👣 impairments this rnd. |
+| 1-Enc | M | **Nimble Step** | Ignore rough terrain and all 👣 impairments this rnd. |
 | 1-🍀 | P | **Pocket Luck🍀** | Add +4 to 1 roll. |
 | 1-Enc | P | **Slip Away** | Escape bonds/grapples; 🏃 with Advantage. |
 | 1-Rnd | A | **Stone Toss** | Stone's Dmg+1. |
@@ -881,7 +881,7 @@ Select one of the many sub-sets of powers such as Class👤, Race🧬, Combat St
 | 1-Enc | AM | **Reckless Charge** | Move double MR; melee Dmg+4; Def-2. |
 | 1-Enc | A | **Savage Strike** | Melee Atk; Dmg+2. |
 | 1-Enc | A | **Smash Gate** | Break barrier/object; 💪 with Advantage. |
-| 1-Enc | P | **Tribal Bond** | Allies Nish🚩+1 for Encounter. |
+| 1-Enc | P | **Tribal Bond** | Allies 🚩+1 for Encounter. |
 | 2-Enc | A | **Tusks & Claws** | All Brawl attacks: Dmg+2. |
 
 ## ⚔️ **Combat Style Powers**
@@ -899,8 +899,8 @@ Select one of the many sub-sets of powers such as Class👤, Race🧬, Combat St
 | Combat | 1-Enc | P | **Balance (mso)** | Rng Touch; equalize Wnds between 2 living targets. |
 | Combat | 1-Enc | P | **Beauty (mso)** | +3 to 👁️ social checks. |
 | Combat | 2-Enc | P | **Berserk (mso)** | Primal rage; +2 Atk 💪 Dmg d💪; cannot distinguish friend from foe. |
-| Combat | 2-Enc | P | **Binding Word (mso)** | Binds target to agreement or secret; Save ✨ or bound. |
-| Combat | 1-Enc | A | **Blast (mso)** | Rng Medium; searing light; Save ✨ or Blinded. |
+| Combat | 2-Enc | P | **Binding Word (mso)** | Binds target to agreement or secret; ✨^👁️ or target bound. |
+| Combat | 1-Enc | A | **Blast (mso)** | Rng Medium; searing light; ✨^✨ or target Blinded. |
 | Combat | 2-Enc | F | **Block Ranged (mso)** | +2 Blk vs arrows, spears, and low-velocity projectiles. |
 | Combat | 2-Enc | A | **Blow (mso)** | Rng Short; Atk ✨ Dmg d✨; Wnds = push 1 sq. |
 | Combat | 1-⚡ | P | **Body Heal** | Self-heal: concentrate on wounded area; restore Heal(🫀) Vit (or per Ver). |
@@ -940,7 +940,7 @@ Select one of the many sub-sets of powers such as Class👤, Race🧬, Combat St
 | Combat | 1-⚡ | A | **Dragon Strike** | Mighty blow; Atk Dmg+3. |
 | Combat | 1-⚡ | A | **Dream Walk** | Enter ally’s dreams; share messages; no roll. |
 | Combat | 1-Rnd | P | **Driving Attack** | On hit; 💪 to push target 1sq. |
-| Combat | 2-Enc | M | **Duelist’s Dance** | MR👣+1 this rnd as you weave between attacks. |
+| Combat | 2-Enc | M | **Duelist’s Dance** | 👣+1 this rnd as you weave between attacks. |
 | Combat | 1-Enc | F | **Elbow Smash** | Immediate Opportunity Atk. |
 | Combat | 2-Enc | A | **Electric palm** | Body attack with shock Dmg bns Atk 💪 Dmg d💪+1. |
 | Combat | 2-Enc | A | **Electric Palm (mso)** | Rng 1; Atk ✨ Dmg d✨ lightning; Wnds = Stunned. |
@@ -959,14 +959,14 @@ Select one of the many sub-sets of powers such as Class👤, Race🧬, Combat St
 | Combat | 1-Enc | P | **Fast Healing (mso)** | Rng Touch; restore d✨ Vit. |
 | Combat | 1-Enc | P | **Fearless (mso)** | Immune to fear; +3 to 🫀 Willpower checks. |
 | Combat | 1-Enc | F | **Flowing Assault** | After slaying a foe; immediately make off-hand Opportunity Atk. |
-| Combat | 1-Enc | AM | **Flying Kick** | Jump up to MR👣 and strike; Atk & Dmg with Advantage. |
-| Combat | 1-🍀 | F | **Fortunate Timing** | take turn immediately even if before your Nish🚩. |
+| Combat | 1-Enc | AM | **Flying Kick** | Jump up to 👣 and strike; Atk & Dmg with Advantage. |
+| Combat | 1-🍀 | F | **Fortunate Timing** | take turn immediately even if before your 🚩. |
 | Combat | 1-⚡ | AM | **Ghost Walk (mso)** | +Self; become insubstantial and phase through solid barriers; phased this Rnd. |
 | Combat | 2-Enc | P | **Glow Globe (mso)** | Rng Short; floating light sphere; illuminates room. |
 | Combat | 1-Enc | F | **Guard Swap** | Swap weapon or stance; no P cost. |
 | Combat | 1-Rnd | M | **Guarded Step** | Move up to 3sq; attempt Block with weapon to aid ally. |
 | Combat | 2-Enc | P | **Hallucination (mso)** | Rng Medium; illusion; 👁️^👁️ to detect. |
-| Combat | 2-Enc | P | **Haze (mso)** | Rng Medium; psychic fog; Save 👁️ or -2 to all rolls. |
+| Combat | 2-Enc | P | **Haze (mso)** | Rng Medium; psychic fog; 👁️^👁️ or target suffers -2 to all rolls. |
 | Combat | 1-Enc | A | **Heal All (mso)** | Rng Touch; cure all Wnds on target. |
 | Combat | 2-Enc | A | **Healing (mso)** | Rng Touch; restore d✨ Vit. |
 | Combat | 1-Rnd | P | **Hearing Boost** | Enhance hearing: Awareness (hearing) at bonus Val(👁️-1) or similar. Cannot stack with Super Hearing. |
@@ -975,7 +975,7 @@ Select one of the many sub-sets of powers such as Class👤, Race🧬, Combat St
 | Combat | 2-Enc | M | **Hurl (mso)** | +Rng Medium; telekinetically hurl weapon; Atk 👁️+2 Dmg d👁️+2; doubles weapon range band. |
 | Combat | 1-Enc | P | **Hurl King** | Draw and throw 1 hurled weapon as second Atk/Dmg. |
 | Combat | 1-Enc | P | **Immortal Stance (mso)** | +Root into stance; 👣 0; immovable up to 💪+10 force; +4 AR; broken if wounded; for Encounter. |
-| Combat | 2-Enc | P | **Impale (mso)** | Rng Medium; piercing shot pins target to wall; Save 🏃 or Immobilized. |
+| Combat | 2-Enc | P | **Impale (mso)** | Rng Medium; piercing shot pins target to wall; 👁️^🏃 or target Restrained. |
 | Combat | 1-Enc | P | **Improved Field of Vision (mso)** | 360° peripheral awareness; immune to flanking. |
 | Combat | 1-🍀 | P | **Inspire Ally** | Ally’s next roll has Advantage. |
 | Combat | 1-Enc | P | **Iron Bulwark** | Allies directly behind you gain Dod+2 for 1 Rnd. |
@@ -988,7 +988,7 @@ Select one of the many sub-sets of powers such as Class👤, Race🧬, Combat St
 | Combat | 2-Enc | A | **Knee Breaker** | On hit; normal Dmg and 💪 or target Immobilized. |
 | Combat | 1-Enc | M | **Landing (mso)** | Mental force cushion; negates fall Dmg. |
 | Combat | 1-🍀 | F | **Last Chance** | If reduced to negative Vit; stay at 1 Vit instead. |
-| Combat | 1-Enc | AM | **Leaping Strike** | Leap up to double MR👣; Dmg+2. |
+| Combat | 1-Enc | AM | **Leaping Strike** | Leap up to 2x 👣; Dmg+2. |
 | Combat | 2-Enc | M | **Levitate Other (mso)** | Rng Medium; levitate target up/down with ✨. |
 | Combat | 2-Enc | M | **Levitate Self (mso)** | Levitate up/down 👣 ✨. |
 | Combat | 2-Enc | A | **Life Balance (mso)** | Rng Touch; equalize Wnds between 2 living targets. |
@@ -1062,7 +1062,7 @@ Select one of the many sub-sets of powers such as Class👤, Race🧬, Combat St
 | Combat | 2-Enc | P | **Shield Shove** | 💪 to shove target d4sq. |
 | Combat | 1-Rnd | P | **Shield Wall** | Def+1 for 1 Rnd. |
 | Combat | 1-Enc | A | **Shockblast (mso)** | Rng Medium; Atk ✨ Dmg d✨; Wnds = push 2 sq. |
-| Combat | 2-Enc | A | **Shove (mso)** | Rng Medium; telekinetically push target 2 sq; Save ✨ or Prone. |
+| Combat | 2-Enc | A | **Shove (mso)** | Rng Medium; telekinetically push target 2 sq; 👁️^🏃 or target Prone. |
 | Combat | 2-Enc | A | **Side Kick** | On hit; normal Dmg and push target d4sq. |
 | Combat | 1-Enc | P | **Slow Drain (mso)** | Rng Medium; temporal slow; target 👣-4. |
 | Combat | 1-Enc | P | **Social Status (mso)** | +3 to 👁️ persuasion among high society. |
@@ -1080,8 +1080,8 @@ Select one of the many sub-sets of powers such as Class👤, Race🧬, Combat St
 | Combat | 1-Enc | P | **Strong Will (mso)** | +3 to 🫀 checks to resist unconsciousness. |
 | Combat | 2-Enc | P | **Structural Damage (mso)** | +3 Dmg vs structures, walls, and vehicle hulls. |
 | Combat | 2-Enc | F | **Stun** | On unarmed hit: 💪^🫀 or target is Stunned. |
-| Combat | 2-Enc | P | **Stun (mso)** | +Rng 1; Atk 💪 Dmg d💪; Wnds = target Stunned for Encounter (attacker may deal non-lethal Stun only or normal Dmg + Stun). |
-| Combat | 2-Enc | P | **Stunning Blow (mso)** | +Melee Atk; Dmg -3; Wnds = target Stunned for Encounter. |
+| Combat | 2-Enc | P | **Stun (mso)** | +Rng 1; Atk 💪 Dmg d💪; Wnds = target Stunned (attacker may deal non-lethal Stun only or normal Dmg + Stun). |
+| Combat | 2-Enc | P | **Stunning Blow (mso)** | +Melee Atk; Dmg -3; Wnds = target Stunned. |
 | Combat | 1-Rnd | P | **Super Hearing** | +1c bonus to Awareness (hearing) based rolls. Cannot stack with hearing boost. |
 | Combat | 2-Enc | P | **Super Hearing (mso)** | Enhanced audial nerves; 👁️+3 to hearing checks. |
 | Combat | 1-Rnd | P | **Super Vision** | +1c bonus to Awareness (sight) based rolls. Cannot stack with vision boost. |
@@ -1109,12 +1109,12 @@ Select one of the many sub-sets of powers such as Class👤, Race🧬, Combat St
 | Combat | 1-⚡ | P | **Vitalize** | Temporary +Val(🫀) Vit (temp pool); extra Vit may not be healed. |
 | Combat | 2-Enc | A | **Vitalize (mso)** | Gain +2 Vit for encounter. |
 | Combat | 1-Enc | P | **Wall of Steel** | Blk+2 this Rnd; MR is 0 this Rnd. |
-| Combat | 1-Enc | AM | **Wall Run Kick** | Run along wall/obstacle up to MR👣; normal Atk & Dmg on landing. |
+| Combat | 1-Enc | AM | **Wall Run Kick** | Run along wall/obstacle up to 👣; normal Atk & Dmg on landing. |
 | Combat | 1-Enc | P | **Wealthy (mso)** | Access extensive credit lines and high-tier gear. |
 | Combat | 2-Enc | P | **Weapon & Board** | If you hit with a weapon on your last turn: Atk+1 and Def+1 for 1 Rnd. |
 | Combat | 1-Enc | P | **Weapon Control** | On successful Atk; 🏃 disarms target. |
 | Combat | 2-Enc | P | **Weapon Mastery** | If you attacked last rnd with same weapon; Atk+2 and Dmg+2 this rnd. |
-| Combat | 2-Enc | P | **Weapons Display (mso)** | Demonstrate weapon flourish; Save 🫀 or Intimidated. |
+| Combat | 2-Enc | P | **Weapons Display (mso)** | Demonstrate weapon flourish; 💪^🫀 or target Weakened. |
 | Combat | 1-⚡ | A | **Whirling Dance** | Make separate Atk & Dmg rolls targeting 2 adjacent foes. |
 | Combat | 1-🍀 | A | **Wild Gambit** | Your next roll has Advantage. |
 | Combat | 1-Enc | P | **Zero-Gravity (mso)** | Combatants unfamiliar with zero-gravity are at a serious disadvantage. |
