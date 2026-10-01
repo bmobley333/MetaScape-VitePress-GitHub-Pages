@@ -43650,6 +43650,38 @@
       "owner": "Designer"
     },
     {
+      "id": 587,
+      "name": "Barbed Durasteel Rend",
+      "action": "A",
+      "usage": "1-Enc",
+      "effect": "Rng 1; Atk 💪 Dmg d💪; 💪^🫀 or target Weakened; pull target 1 sq",
+      "belongs_to": "Weapon: DracMaul (mso)",
+      "genres": [
+        "SciFi"
+      ],
+      "notes": "Flanged barbs tear flesh and drag foes onto the Dracan line.",
+      "created_at": "2026-10-01T01:23:27.432513+00:00",
+      "tier": null,
+      "owner": "Designer"
+    },
+    {
+      "id": 621,
+      "name": "Barbed Hook & Tear",
+      "action": "A",
+      "usage": "1-Enc",
+      "effect": "Rng 2; Atk 💪 Dmg d💪; 💪^💪 or pull target 2 sq & target 👣-4",
+      "belongs_to": "Weapon: Serrated Maul",
+      "genres": [
+        "Medieval",
+        "Modern",
+        "SciFi"
+      ],
+      "notes": "Flanged barbs hook flesh, dragging foes inward while shredding mobility.",
+      "created_at": "2026-10-01T01:23:27.432513+00:00",
+      "tier": null,
+      "owner": "Designer"
+    },
+    {
       "id": 343,
       "name": "Beacon Recall Teleport (mso)",
       "action": "M",
@@ -43676,6 +43708,40 @@
       ],
       "notes": "Strikes with the hollow beak spike to deliver an internal dose of stored venom or toxin. Poison types are found separately in Gear.",
       "created_at": "2026-09-05T23:12:36.368543+00:00",
+      "tier": null,
+      "owner": "Designer"
+    },
+    {
+      "id": 634,
+      "name": "Bearded Hook",
+      "action": "P",
+      "usage": "1-Enc",
+      "effect": "💪^💪 or target Disarmed",
+      "belongs_to": "Weapon: Throwing Axes",
+      "genres": [
+        "Medieval",
+        "Modern",
+        "SciFi"
+      ],
+      "notes": "Poor melee damage; axe beard hooks weapons instead.",
+      "created_at": "2026-10-01T01:23:27.543284+00:00",
+      "tier": null,
+      "owner": "Designer"
+    },
+    {
+      "id": 603,
+      "name": "Bearded Hook",
+      "action": "P",
+      "usage": "1-Enc",
+      "effect": "💪^💪 or target Disarmed",
+      "belongs_to": "Weapon: Hand Axe",
+      "genres": [
+        "Medieval",
+        "Modern",
+        "SciFi"
+      ],
+      "notes": "Bearded blade snags hilts and rips weapons free.",
+      "created_at": "2026-10-01T01:23:27.432513+00:00",
       "tier": null,
       "owner": "Designer"
     },
@@ -43924,6 +43990,23 @@
       "owner": "Designer"
     },
     {
+      "id": 589,
+      "name": "Brace Against the Charge",
+      "action": "F",
+      "usage": "1-Rnd",
+      "effect": "Stance: enemy entering Rng 2 triggers Atk 💪 Dmg d💪; 💪^💪 or target Prone",
+      "belongs_to": "Weapon: Dragon Slayer Spear",
+      "genres": [
+        "Medieval",
+        "Modern",
+        "SciFi"
+      ],
+      "notes": "Set butt to ground; charging beasts impale themselves.",
+      "created_at": "2026-10-01T01:23:27.432513+00:00",
+      "tier": null,
+      "owner": "Designer"
+    },
+    {
       "id": 300,
       "name": "Breach Burn",
       "action": "A",
@@ -43937,6 +44020,40 @@
       "notes": "High-intensity breach cutter.",
       "created_at": "2026-09-03T20:14:29.977879+00:00",
       "tier": "Free ⭕",
+      "owner": "Designer"
+    },
+    {
+      "id": 633,
+      "name": "Briar Snare Strike",
+      "action": "A",
+      "usage": "1-Enc",
+      "effect": "Atk 💪 Dmg d💪; 💪^💪 or target Restrained",
+      "belongs_to": "Weapon: Thorn Gauntlets",
+      "genres": [
+        "Medieval",
+        "Modern",
+        "SciFi"
+      ],
+      "notes": "Bioengineered thorns pierce and root foes for battlefield control.",
+      "created_at": "2026-10-01T01:23:27.543284+00:00",
+      "tier": null,
+      "owner": "Designer"
+    },
+    {
+      "id": 640,
+      "name": "Bulwark Breaker",
+      "action": "A",
+      "usage": "2-Enc",
+      "effect": "Atk 💪 Dmg d💪 ignore Armor; 💪^💪 or target Prone; push target 2 sq",
+      "belongs_to": "Weapon: Warhammer",
+      "genres": [
+        "Medieval",
+        "Modern",
+        "SciFi"
+      ],
+      "notes": "Blunt mass crushes plate and hurls the foe off their footing.",
+      "created_at": "2026-10-01T01:23:27.543284+00:00",
+      "tier": null,
       "owner": "Designer"
     },
     {
@@ -43981,6 +44098,21 @@
       ],
       "notes": "Spits burrowing chitinous needlers that work deep into muscle tissue, causing ongoing bleeding trauma.",
       "created_at": "2026-09-05T23:12:36.368543+00:00",
+      "tier": null,
+      "owner": "Designer"
+    },
+    {
+      "id": 578,
+      "name": "Calemoran Cleave",
+      "action": "A",
+      "usage": "2-Enc",
+      "effect": "1x3; Atk 💪 Dmg d💪",
+      "belongs_to": "Weapon: Axe (mso)",
+      "genres": [
+        "SciFi"
+      ],
+      "notes": "Calemora two-handed design drives cleaving chops through ranks.",
+      "created_at": "2026-10-01T01:23:27.432513+00:00",
       "tier": null,
       "owner": "Designer"
     },
@@ -44139,6 +44271,40 @@
       ],
       "notes": "Tentacles whip out to seize target, inflicting a bleeding hazard and leaving them vulnerable to attack.",
       "created_at": "2026-09-05T23:12:36.368543+00:00",
+      "tier": null,
+      "owner": "Designer"
+    },
+    {
+      "id": 605,
+      "name": "Chain Snare",
+      "action": "A",
+      "usage": "1-Enc",
+      "effect": "Atk 💪 Dmg d💪; 💪^💪 or target Disarmed",
+      "belongs_to": "Weapon: Heavy Flail",
+      "genres": [
+        "Medieval",
+        "Modern",
+        "SciFi"
+      ],
+      "notes": "Chain wraps the weapon arm and wrenches it away.",
+      "created_at": "2026-10-01T01:23:27.432513+00:00",
+      "tier": null,
+      "owner": "Designer"
+    },
+    {
+      "id": 594,
+      "name": "Chain Sweep",
+      "action": "A",
+      "usage": "2-Enc",
+      "effect": "Atk 💪 Dmg d💪; 💪^🏃 or target Prone",
+      "belongs_to": "Weapon: Flail",
+      "genres": [
+        "Medieval",
+        "Modern",
+        "SciFi"
+      ],
+      "notes": "Low whirling arc tangles ankles and topples the target.",
+      "created_at": "2026-10-01T01:23:27.432513+00:00",
       "tier": null,
       "owner": "Designer"
     },
@@ -44411,6 +44577,40 @@
       "owner": "Designer"
     },
     {
+      "id": 632,
+      "name": "Coiling Garrote",
+      "action": "A",
+      "usage": "2-Enc",
+      "effect": "Rng Short; Atk 🏃 Dmg d🏃; on Wnd: 💪^🫀 or target Restrained & Weakened",
+      "belongs_to": "Weapon: Strangle Spear",
+      "genres": [
+        "Medieval",
+        "Modern",
+        "SciFi"
+      ],
+      "notes": "Wounding strike transforms shaft into a constricting strangle hazard.",
+      "created_at": "2026-10-01T01:23:27.543284+00:00",
+      "tier": null,
+      "owner": "Designer"
+    },
+    {
+      "id": 601,
+      "name": "Colossal Sweep",
+      "action": "AM",
+      "usage": "1-Enc",
+      "effect": "AoE 3r centered on self; Atk 💪 Dmg d💪",
+      "belongs_to": "Weapon: Halberd",
+      "genres": [
+        "Medieval",
+        "Modern",
+        "SciFi"
+      ],
+      "notes": "Full-circle polearm sweep clears the surrounding press.",
+      "created_at": "2026-10-01T01:23:27.432513+00:00",
+      "tier": null,
+      "owner": "Designer"
+    },
+    {
       "id": 1,
       "name": "Communicator",
       "action": "P",
@@ -44440,6 +44640,23 @@
       ],
       "notes": "Compass of True North is engineered with high-durability composite materials for reliable field operations.",
       "created_at": "2026-09-03T20:14:29.977879+00:00",
+      "tier": null,
+      "owner": "Designer"
+    },
+    {
+      "id": 581,
+      "name": "Composite Sunder",
+      "action": "A",
+      "usage": "2-Enc",
+      "effect": "Rng 1; Atk 💪 Dmg d💪; 💪^🫀 or target Weakened",
+      "belongs_to": "Weapon: Battleaxe",
+      "genres": [
+        "Medieval",
+        "Modern",
+        "SciFi"
+      ],
+      "notes": "Durable composite head bites deep, sapping enemy strength.",
+      "created_at": "2026-10-01T01:23:27.432513+00:00",
       "tier": null,
       "owner": "Designer"
     },
@@ -44600,6 +44817,23 @@
       "owner": "Designer"
     },
     {
+      "id": 575,
+      "name": "Crescent Pin & Restrain",
+      "action": "A",
+      "usage": "2-Enc",
+      "effect": "Atk 💪 Dmg d💪 (Dmg is optional); 💪^💪 or target Restrained",
+      "belongs_to": "Weapon: War-Crescent",
+      "genres": [
+        "Medieval",
+        "Modern",
+        "SciFi"
+      ],
+      "notes": "Flanges hook and pin; schools teach non-lethal duel control.",
+      "created_at": "2026-10-01T00:51:31.793349+00:00",
+      "tier": null,
+      "owner": "Designer"
+    },
+    {
       "id": 503,
       "name": "Crescent Pin & Restrain",
       "action": "A",
@@ -44615,19 +44849,19 @@
       "owner": "Designer"
     },
     {
-      "id": 575,
-      "name": "Crescent Pin & Restrain",
+      "id": 616,
+      "name": "Crimson Fury Cleave",
       "action": "A",
-      "usage": "2-Enc",
-      "effect": "Atk 💪 Dmg d💪 (Dmg is optional); 💪^💪 or target Restrained",
-      "belongs_to": "Weapon: War-Crescent",
+      "usage": "1-⚡",
+      "effect": "1x3; Atk 💪 Dmg d💪 +10; ignore target Block; 💪^💪 or target Prone",
+      "belongs_to": "Weapon: Rage Axe",
       "genres": [
         "Medieval",
         "Modern",
         "SciFi"
       ],
-      "notes": "Flanges hook and pin; schools teach non-lethal duel control.",
-      "created_at": "2026-10-01T00:51:31.793349+00:00",
+      "notes": "Runic fury shatters shields; shockwave topples every foe in line.",
+      "created_at": "2026-10-01T01:23:27.432513+00:00",
       "tier": null,
       "owner": "Designer"
     },
@@ -44950,6 +45184,23 @@
       "owner": "Designer"
     },
     {
+      "id": 638,
+      "name": "Declared Dominion",
+      "action": "A",
+      "usage": "1-Enc",
+      "effect": "Rng 2; declare pre-roll: Trip 💪^🏃 or target Prone; Disarm 💪^💪 or target Disarmed; Wound Atk 💪+5 Dmg d💪",
+      "belongs_to": "Weapon: Trip-Stave",
+      "genres": [
+        "Medieval",
+        "Modern",
+        "SciFi"
+      ],
+      "notes": "Pole reach and foresight let the duelist dictate the exchange.",
+      "created_at": "2026-10-01T01:23:27.543284+00:00",
+      "tier": null,
+      "owner": "Designer"
+    },
+    {
       "id": 100,
       "name": "Decohesion Gun",
       "action": "A",
@@ -45006,6 +45257,21 @@
       ],
       "notes": "Pressurized dermal dressing that instantly seals traumatic bleeding and restores 2 Vit.",
       "created_at": "2026-09-05T16:42:18.406115+00:00",
+      "tier": null,
+      "owner": "Designer"
+    },
+    {
+      "id": 608,
+      "name": "Desperate Shatter",
+      "action": "A",
+      "usage": "1-Enc",
+      "effect": "Rng 1; Atk 💪 Dmg d💪-1d; 🏃^🫀 or target Blinded; weapon breaks",
+      "belongs_to": "Weapon: Improvised Weapon (mso)",
+      "genres": [
+        "SciFi"
+      ],
+      "notes": "Object shatters on impact, spraying blinding debris.",
+      "created_at": "2026-10-01T01:23:27.432513+00:00",
       "tier": null,
       "owner": "Designer"
     },
@@ -45102,6 +45368,36 @@
       "owner": "Designer"
     },
     {
+      "id": 584,
+      "name": "Diving Tackle",
+      "action": "AM",
+      "usage": "1-Enc",
+      "effect": "👣+2; Rng 1; Atk 💪 Dmg d💪-1d; 💪^💪 or target Prone & Restrained",
+      "belongs_to": "Weapon: Brawl (mso)",
+      "genres": [
+        "SciFi"
+      ],
+      "notes": "Lunging tackle drives foe to ground and pins them.",
+      "created_at": "2026-10-01T01:23:27.432513+00:00",
+      "tier": null,
+      "owner": "Designer"
+    },
+    {
+      "id": 618,
+      "name": "Dracan Flick Throw",
+      "action": "P",
+      "usage": "1-Enc",
+      "effect": "Draw & throw; Short; Atk 🏃 Dmg d🏃",
+      "belongs_to": "Weapon: Raoot (mso)",
+      "genres": [
+        "SciFi"
+      ],
+      "notes": "Dracan skirmishers snap-throw the balanced blade straight from sheath.",
+      "created_at": "2026-10-01T01:23:27.432513+00:00",
+      "tier": null,
+      "owner": "Designer"
+    },
+    {
       "id": 102,
       "name": "Dragon [Armor]",
       "action": "P",
@@ -45177,6 +45473,38 @@
       ],
       "notes": "Dual-thruster guided hunter missile delivering sustained pursuit.",
       "created_at": "2026-09-05T16:42:21.887386+00:00",
+      "tier": null,
+      "owner": "Designer"
+    },
+    {
+      "id": 628,
+      "name": "Duralloy Skewer",
+      "action": "A",
+      "usage": "2-Enc",
+      "effect": "1x3; Atk 💪 Dmg d💪",
+      "belongs_to": "Weapon: Spear (mso)",
+      "genres": [
+        "SciFi"
+      ],
+      "notes": "Duralloy tip punches through ranked foes in line.",
+      "created_at": "2026-10-01T01:23:27.543284+00:00",
+      "tier": null,
+      "owner": "Designer"
+    },
+    {
+      "id": 596,
+      "name": "Earthshaker Arc",
+      "action": "A",
+      "usage": "1-Enc",
+      "effect": "AoE 3r centered on self; Atk 💪 Dmg d💪; 💪^💪 or target Prone",
+      "belongs_to": "Weapon: Giant Maul",
+      "genres": [
+        "Medieval",
+        "Modern",
+        "SciFi"
+      ],
+      "notes": "Colossal sweeping swing flattens everything within reach.",
+      "created_at": "2026-10-01T01:23:27.432513+00:00",
       "tier": null,
       "owner": "Designer"
     },
@@ -45842,6 +46170,38 @@
       "owner": "Designer"
     },
     {
+      "id": 580,
+      "name": "Formation Breaker",
+      "action": "AM",
+      "usage": "1-Enc",
+      "effect": "👣+2; Rng 1; Atk 💪 Dmg d💪; 💪^💪 or target Prone",
+      "belongs_to": "Weapon: Battleaxe",
+      "genres": [
+        "Medieval",
+        "Modern",
+        "SciFi"
+      ],
+      "notes": "Charging chop shatters lines and topples front-rank defenders.",
+      "created_at": "2026-10-01T01:23:27.432513+00:00",
+      "tier": null,
+      "owner": "Designer"
+    },
+    {
+      "id": 630,
+      "name": "Frontier Hunter's Cast",
+      "action": "P",
+      "usage": "1-Enc",
+      "effect": "Rng Short; Fleeing/moving away; Atk 🏃 Dmg d🏃; 🏃^🏃 or target 👣-4",
+      "belongs_to": "Weapon: Spear (mso)",
+      "genres": [
+        "SciFi"
+      ],
+      "notes": "Survival throw cripples fleeing prey.",
+      "created_at": "2026-10-01T01:23:27.543284+00:00",
+      "tier": null,
+      "owner": "Designer"
+    },
+    {
       "id": 184,
       "name": "Frost",
       "action": "A",
@@ -46237,6 +46597,23 @@
       "owner": "Designer"
     },
     {
+      "id": 612,
+      "name": "Ground Zero Slam",
+      "action": "A",
+      "usage": "1-⚡",
+      "effect": "AoE 3r centered on self; Atk 💪 Dmg d💪; 🫀^🫀 or target Poisoned d4/Rnd",
+      "belongs_to": "Weapon: Nuke",
+      "genres": [
+        "Medieval",
+        "Modern",
+        "SciFi"
+      ],
+      "notes": "Warhead casing cracks, flooding the area with irradiated fallout.",
+      "created_at": "2026-10-01T01:23:27.432513+00:00",
+      "tier": null,
+      "owner": "Designer"
+    },
+    {
       "id": 567,
       "name": "Guard-Break Stab",
       "action": "A",
@@ -46267,6 +46644,23 @@
       ],
       "notes": "Full sword binds and strips the foe's weapon.",
       "created_at": "2026-10-01T00:51:31.793349+00:00",
+      "tier": null,
+      "owner": "Designer"
+    },
+    {
+      "id": 606,
+      "name": "Guardbreaker Crash",
+      "action": "A",
+      "usage": "2-Enc",
+      "effect": "Atk 💪 Dmg d💪; ignore Block; 💪^🫀 or target Stunned",
+      "belongs_to": "Weapon: Heavy Flail",
+      "genres": [
+        "Medieval",
+        "Modern",
+        "SciFi"
+      ],
+      "notes": "Swinging head arcs over shields to concuss.",
+      "created_at": "2026-10-01T01:23:27.432513+00:00",
       "tier": null,
       "owner": "Designer"
     },
@@ -46415,6 +46809,40 @@
       "owner": "Designer"
     },
     {
+      "id": 637,
+      "name": "Harpoon Cast",
+      "action": "A",
+      "usage": "1-Enc",
+      "effect": "Rng Short; Atk 🏃 Dmg d🏃; 🏃^🏃 or target Prone",
+      "belongs_to": "Weapon: Trident",
+      "genres": [
+        "Medieval",
+        "Modern",
+        "SciFi"
+      ],
+      "notes": "Weighted tines strike like a harpoon, toppling targets.",
+      "created_at": "2026-10-01T01:23:27.543284+00:00",
+      "tier": null,
+      "owner": "Designer"
+    },
+    {
+      "id": 583,
+      "name": "Haymaker",
+      "action": "A",
+      "usage": "1-Enc",
+      "effect": "Rng 1; Atk 💪 Dmg d💪-1d; 💪^🫀 or target Stunned",
+      "belongs_to": "Weapon: Brawl",
+      "genres": [
+        "Medieval",
+        "Modern",
+        "SciFi"
+      ],
+      "notes": "Committed unarmed blow rattles the skull, dazing foes.",
+      "created_at": "2026-10-01T01:23:27.432513+00:00",
+      "tier": null,
+      "owner": "Designer"
+    },
+    {
       "id": 445,
       "name": "HE High-Yield Demolition (mso)",
       "action": "A",
@@ -46441,6 +46869,23 @@
       ],
       "notes": "Pressurized shrapnel canister designed to saturate tactical zones with high-velocity tungsten fragments.",
       "created_at": "2026-09-05T16:42:21.163+00:00",
+      "tier": null,
+      "owner": "Designer"
+    },
+    {
+      "id": 592,
+      "name": "Headsman's Verdict",
+      "action": "A",
+      "usage": "1-Enc",
+      "effect": "Atk 💪 Dmg d💪; +d💪 vs Prone, Stunned, or Restrained target",
+      "belongs_to": "Weapon: Executioner’s Axe",
+      "genres": [
+        "Medieval",
+        "Modern",
+        "SciFi"
+      ],
+      "notes": "Weighted blade delivers a ruthless finishing chop to helpless foes.",
+      "created_at": "2026-10-01T01:23:27.432513+00:00",
       "tier": null,
       "owner": "Designer"
     },
@@ -46776,6 +47221,23 @@
       "owner": "Designer"
     },
     {
+      "id": 602,
+      "name": "Hook & Haul",
+      "action": "P",
+      "usage": "1-Enc",
+      "effect": "Rng 2; 💪^💪 or target Prone; pull target 1 sq",
+      "belongs_to": "Weapon: Halberd",
+      "genres": [
+        "Medieval",
+        "Modern",
+        "SciFi"
+      ],
+      "notes": "Rear hook drags riders and shieldbearers down and close.",
+      "created_at": "2026-10-01T01:23:27.432513+00:00",
+      "tier": null,
+      "owner": "Designer"
+    },
+    {
       "id": 139,
       "name": "Horn of Ruin",
       "action": "A",
@@ -46933,6 +47395,22 @@
       "owner": "Designer"
     },
     {
+      "id": 620,
+      "name": "Hydraulic Lockjaw",
+      "action": "A",
+      "usage": "1-Enc",
+      "effect": "Atk 💪 Dmg d💪 +3; 💪^💪 or target Restrained",
+      "belongs_to": "Weapon: Reinforced Bite",
+      "genres": [
+        "Modern",
+        "SciFi"
+      ],
+      "notes": "Titanium-wired hydraulic jaw clamps down and refuses to release.",
+      "created_at": "2026-10-01T01:23:27.432513+00:00",
+      "tier": null,
+      "owner": "Designer"
+    },
+    {
       "id": 522,
       "name": "Hydraulic Mandible Clamp",
       "action": "A",
@@ -47019,6 +47497,23 @@
       ],
       "notes": "Fixes object coordinates rigidly relative to local gravity, bearing loads up to 20 tons.",
       "created_at": "2026-09-05T16:42:20.906389+00:00",
+      "tier": null,
+      "owner": "Designer"
+    },
+    {
+      "id": 626,
+      "name": "Impaling Cast",
+      "action": "A",
+      "usage": "1-Enc",
+      "effect": "Rng Short; Atk 🏃 Dmg d🏃; 🏃^💪 or target Pinned to Ground",
+      "belongs_to": "Weapon: Spear",
+      "genres": [
+        "Medieval",
+        "Modern",
+        "SciFi"
+      ],
+      "notes": "Heavy hunting throw drives quarry to the ground.",
+      "created_at": "2026-10-01T01:23:27.432513+00:00",
       "tier": null,
       "owner": "Designer"
     },
@@ -47409,6 +47904,23 @@
       "owner": "Designer"
     },
     {
+      "id": 611,
+      "name": "Kickflip Smash",
+      "action": "AM",
+      "usage": "1-Enc",
+      "effect": "👣+4; Rng 1; Atk 💪 Dmg d💪; 🏃^🏃 or target Prone",
+      "belongs_to": "Weapon: Neon Skateboard",
+      "genres": [
+        "Medieval",
+        "Modern",
+        "SciFi"
+      ],
+      "notes": "Rolling approach converts momentum into deck-edge takedown.",
+      "created_at": "2026-10-01T01:23:27.432513+00:00",
+      "tier": null,
+      "owner": "Designer"
+    },
+    {
       "id": 459,
       "name": "Kinetic Blast Shot (mso)",
       "action": "A",
@@ -47663,6 +48175,23 @@
       "owner": "Designer"
     },
     {
+      "id": 585,
+      "name": "Lashing Snare",
+      "action": "A",
+      "usage": "1-Enc",
+      "effect": "Rng 2; Atk 💪 Dmg d💪; 💪^💪 or target Restrained; pull target 2 sq",
+      "belongs_to": "Weapon: Chain Whip",
+      "genres": [
+        "Medieval",
+        "Modern",
+        "SciFi"
+      ],
+      "notes": "Composite chain wraps limbs and reels enemies inward.",
+      "created_at": "2026-10-01T01:23:27.432513+00:00",
+      "tier": null,
+      "owner": "Designer"
+    },
+    {
       "id": 87,
       "name": "Light",
       "action": "M",
@@ -47676,6 +48205,21 @@
       ],
       "notes": "Crown of Light is engineered with high-durability composite materials for reliable field operations.",
       "created_at": "2026-09-03T20:14:29.977879+00:00",
+      "tier": null,
+      "owner": "Designer"
+    },
+    {
+      "id": 631,
+      "name": "Lightweight Pierce",
+      "action": "A",
+      "usage": "1-Enc",
+      "effect": "1x6; Atk 🏃 Dmg d🏃",
+      "belongs_to": "Weapon: Spear (mso)",
+      "genres": [
+        "SciFi"
+      ],
+      "notes": "Light plasteel flies flat, piercing multiple targets.",
+      "created_at": "2026-10-01T01:23:27.543284+00:00",
       "tier": null,
       "owner": "Designer"
     },
@@ -47744,6 +48288,23 @@
       ],
       "notes": "Durable composite reach drives a committed, long lunge.",
       "created_at": "2026-10-01T00:51:31.793349+00:00",
+      "tier": null,
+      "owner": "Designer"
+    },
+    {
+      "id": 624,
+      "name": "Lunging Thrust",
+      "action": "AM",
+      "usage": "1-Enc",
+      "effect": "👣+2; Rng 2; Atk 💪 Dmg d💪+2",
+      "belongs_to": "Weapon: Spear",
+      "genres": [
+        "Medieval",
+        "Modern",
+        "SciFi"
+      ],
+      "notes": "Reach and penetration combined in a closing lunge.",
+      "created_at": "2026-10-01T01:23:27.432513+00:00",
       "tier": null,
       "owner": "Designer"
     },
@@ -48229,6 +48790,23 @@
       "owner": "Designer"
     },
     {
+      "id": 600,
+      "name": "Momentum Cleave",
+      "action": "AM",
+      "usage": "2-Enc",
+      "effect": "👣+2; 1x3; Atk 💪 Dmg d💪",
+      "belongs_to": "Weapon: Great Axe",
+      "genres": [
+        "Medieval",
+        "Modern",
+        "SciFi"
+      ],
+      "notes": "Charging swing carries the heavy head through several foes.",
+      "created_at": "2026-10-01T01:23:27.432513+00:00",
+      "tier": null,
+      "owner": "Designer"
+    },
+    {
       "id": 563,
       "name": "Mono-Molecular Silent Takedown",
       "action": "A",
@@ -48353,6 +48931,23 @@
       "notes": "Precision cut or engrave up to 6 in; rating 40. Auto-cut or programmed patterns.",
       "created_at": "2026-09-03T20:14:29.977879+00:00",
       "tier": "Free ⭕",
+      "owner": "Designer"
+    },
+    {
+      "id": 619,
+      "name": "Necrotic Lash",
+      "action": "A",
+      "usage": "1-⚡",
+      "effect": "Rng 2; up to 2 targets; Atk 💪 Dmg d💪; 🫀^🫀 or target Poisoned 1 Wnd/Rnd; regain 1 Vit per target hit",
+      "belongs_to": "Weapon: Red Whip",
+      "genres": [
+        "Medieval",
+        "Modern",
+        "SciFi"
+      ],
+      "notes": "Plasma strand entangles multiple foes, siphoning vitality through necrosis.",
+      "created_at": "2026-10-01T01:23:27.432513+00:00",
+      "tier": null,
       "owner": "Designer"
     },
     {
@@ -48638,6 +49233,23 @@
       "owner": "Designer"
     },
     {
+      "id": 613,
+      "name": "Phalanx Drive",
+      "action": "A",
+      "usage": "1-Enc",
+      "effect": "Rng 2; 1x3; Atk 💪 Dmg d💪; 💪^💪 or target pushed 2 sq",
+      "belongs_to": "Weapon: Pike",
+      "genres": [
+        "Medieval",
+        "Modern",
+        "SciFi"
+      ],
+      "notes": "Long shaft skewers a file and drives it back.",
+      "created_at": "2026-10-01T01:23:27.432513+00:00",
+      "tier": null,
+      "owner": "Designer"
+    },
+    {
       "id": 386,
       "name": "Phase Stride (mso)",
       "action": "A",
@@ -48716,6 +49328,55 @@
       "owner": "Designer"
     },
     {
+      "id": 591,
+      "name": "Pinning Cast",
+      "action": "A",
+      "usage": "2-Enc",
+      "effect": "Rng Short; Atk 🏃 Dmg d🏃; 🏃^💪 or target Restrained",
+      "belongs_to": "Weapon: Dragon Slayer Spear",
+      "genres": [
+        "Medieval",
+        "Modern",
+        "SciFi"
+      ],
+      "notes": "Heavy haft nails limbs or wings to the ground.",
+      "created_at": "2026-10-01T01:23:27.432513+00:00",
+      "tier": null,
+      "owner": "Designer"
+    },
+    {
+      "id": 636,
+      "name": "Pinning Tines",
+      "action": "A",
+      "usage": "1-Enc",
+      "effect": "Rng 2; Atk 💪 Dmg d💪; 💪^💪 or target Restrained",
+      "belongs_to": "Weapon: Trident",
+      "genres": [
+        "Medieval",
+        "Modern",
+        "SciFi"
+      ],
+      "notes": "Three prongs trap limbs and pin foes.",
+      "created_at": "2026-10-01T01:23:27.543284+00:00",
+      "tier": null,
+      "owner": "Designer"
+    },
+    {
+      "id": 595,
+      "name": "Plasma Line Breaker",
+      "action": "A",
+      "usage": "1-⚡",
+      "effect": "1x6; Atk 💪 Dmg d💪 fire; 💪^🫀 or target Blinded",
+      "belongs_to": "Weapon: Flame Lance",
+      "genres": [
+        "SciFi"
+      ],
+      "notes": "Extended plasma blade erupts, piercing straight through enemy ranks.",
+      "created_at": "2026-10-01T01:23:27.432513+00:00",
+      "tier": null,
+      "owner": "Designer"
+    },
+    {
       "id": 24,
       "name": "PlasmaTorch",
       "action": "P",
@@ -48728,6 +49389,21 @@
       "notes": "Plasma cutter/welder; up to12 in depth; cuts steel and bulkheads.",
       "created_at": "2026-09-03T20:14:29.977879+00:00",
       "tier": "Free ⭕",
+      "owner": "Designer"
+    },
+    {
+      "id": 629,
+      "name": "Plasteel Haft Sweep",
+      "action": "A",
+      "usage": "2-Enc",
+      "effect": "Rng 2; Atk 💪 Dmg d💪; 💪^🏃 or target Prone",
+      "belongs_to": "Weapon: Spear (mso)",
+      "genres": [
+        "SciFi"
+      ],
+      "notes": "Unbreakable shaft sweeps legs at reach.",
+      "created_at": "2026-10-01T01:23:27.543284+00:00",
+      "tier": null,
       "owner": "Designer"
     },
     {
@@ -49352,6 +50028,23 @@
       "owner": "Designer"
     },
     {
+      "id": 623,
+      "name": "Rampart Breaker",
+      "action": "A",
+      "usage": "1-⚡",
+      "effect": "AoE 3r centered on self; Atk 💪 Dmg d💪; 💪^💪 or target Prone",
+      "belongs_to": "Weapon: Siege Hammer",
+      "genres": [
+        "Medieval",
+        "Modern",
+        "SciFi"
+      ],
+      "notes": "Colossal composite head sweeps the ring and topples defenders.",
+      "created_at": "2026-10-01T01:23:27.432513+00:00",
+      "tier": null,
+      "owner": "Designer"
+    },
+    {
       "id": 492,
       "name": "Rapid Arrow Materialization",
       "action": "A",
@@ -49429,6 +50122,23 @@
       "owner": "Designer"
     },
     {
+      "id": 615,
+      "name": "Reach Sweep",
+      "action": "A",
+      "usage": "1-Enc",
+      "effect": "Rng 2; Atk 💪 Dmg d💪; 💪^🏃 or target Prone",
+      "belongs_to": "Weapon: Polearm",
+      "genres": [
+        "Medieval",
+        "Modern",
+        "SciFi"
+      ],
+      "notes": "Long composite haft sweeps legs from beyond enemy reach.",
+      "created_at": "2026-10-01T01:23:27.432513+00:00",
+      "tier": null,
+      "owner": "Designer"
+    },
+    {
       "id": 576,
       "name": "Reaping Arc",
       "action": "A",
@@ -49442,6 +50152,23 @@
       ],
       "notes": "Heavy composite blade sweeps a full circle, cutting all adjacent foes.",
       "created_at": "2026-10-01T00:51:31.793349+00:00",
+      "tier": null,
+      "owner": "Designer"
+    },
+    {
+      "id": 597,
+      "name": "Reaping Crescent",
+      "action": "A",
+      "usage": "1-Enc",
+      "effect": "Rng 2; 1x3; Atk 💪 Dmg d💪; 💪^🏃 or target Prone",
+      "belongs_to": "Weapon: Glaive",
+      "genres": [
+        "Medieval",
+        "Modern",
+        "SciFi"
+      ],
+      "notes": "Long curved blade reaps a line, sweeping legs out.",
+      "created_at": "2026-10-01T01:23:27.432513+00:00",
       "tier": null,
       "owner": "Designer"
     },
@@ -49554,6 +50281,55 @@
       "owner": "Designer"
     },
     {
+      "id": 586,
+      "name": "Resonant Power Chord",
+      "action": "A",
+      "usage": "1-⚡",
+      "effect": "AoE 1r centered on self; Atk 💪 Dmg d💪; 💪^🫀 or target Stunned",
+      "belongs_to": "Weapon: Crystal Guitar",
+      "genres": [
+        "Medieval",
+        "Modern",
+        "SciFi"
+      ],
+      "notes": "Crystal body amplifies an impact chord into a concussive sonic burst.",
+      "created_at": "2026-10-01T01:23:27.432513+00:00",
+      "tier": null,
+      "owner": "Designer"
+    },
+    {
+      "id": 617,
+      "name": "Reverse Saw Hamstring",
+      "action": "A",
+      "usage": "1-Enc",
+      "effect": "Atk 💪 Dmg d💪; 💪^🏃 or target 👣-4",
+      "belongs_to": "Weapon: Raoot (mso)",
+      "genres": [
+        "SciFi"
+      ],
+      "notes": "Serrated back-edge rips tendons on the withdrawing cut.",
+      "created_at": "2026-10-01T01:23:27.432513+00:00",
+      "tier": null,
+      "owner": "Designer"
+    },
+    {
+      "id": 641,
+      "name": "Rivet-Punch Spike",
+      "action": "A",
+      "usage": "1-Enc",
+      "effect": "Atk 💪 Dmg d💪 ignore Armor; 💪^💪 or target Weakened",
+      "belongs_to": "Weapon: WarPick",
+      "genres": [
+        "Medieval",
+        "Modern",
+        "SciFi"
+      ],
+      "notes": "Narrow spike punches through armor seams, crippling the wearer.",
+      "created_at": "2026-10-01T01:23:27.543284+00:00",
+      "tier": null,
+      "owner": "Designer"
+    },
+    {
       "id": 433,
       "name": "Rocket Hover Propulsion (mso)",
       "action": "P",
@@ -49601,6 +50377,23 @@
       "owner": "Designer"
     },
     {
+      "id": 635,
+      "name": "Rune-Return Volley",
+      "action": "A",
+      "usage": "1-Enc",
+      "effect": "Rng Short; 2 targets; Atk 🏃 Dmg d🏃 each; axes return",
+      "belongs_to": "Weapon: Throwing Axes",
+      "genres": [
+        "Medieval",
+        "Modern",
+        "SciFi"
+      ],
+      "notes": "Enchanted returning axes break lines with twin throws.",
+      "created_at": "2026-10-01T01:23:27.543284+00:00",
+      "tier": null,
+      "owner": "Designer"
+    },
+    {
       "id": 212,
       "name": "Runed [Weapon]",
       "action": "A",
@@ -49614,6 +50407,23 @@
       ],
       "notes": "Runed [Weapon] is engineered with high-durability composite materials for reliable field operations.",
       "created_at": "2026-09-03T20:14:29.977879+00:00",
+      "tier": null,
+      "owner": "Designer"
+    },
+    {
+      "id": 627,
+      "name": "Running Javelin",
+      "action": "AM",
+      "usage": "1-Enc",
+      "effect": "👣+2; Rng Short; Atk 🏃 Dmg d🏃+2",
+      "belongs_to": "Weapon: Spear",
+      "genres": [
+        "Medieval",
+        "Modern",
+        "SciFi"
+      ],
+      "notes": "Momentum from approach run adds throwing force.",
+      "created_at": "2026-10-01T01:23:27.543284+00:00",
       "tier": null,
       "owner": "Designer"
     },
@@ -49824,6 +50634,23 @@
       "owner": "Designer"
     },
     {
+      "id": 625,
+      "name": "Set Against Charge",
+      "action": "F",
+      "usage": "1-Rnd",
+      "effect": "Stance: foe entering Rng 2 provokes Atk 💪 Dmg d💪; 💪^💪 or target 👣-4",
+      "belongs_to": "Weapon: Spear",
+      "genres": [
+        "Medieval",
+        "Modern",
+        "SciFi"
+      ],
+      "notes": "Braced shaft holds ground against heavier charging opponents.",
+      "created_at": "2026-10-01T01:23:27.432513+00:00",
+      "tier": null,
+      "owner": "Designer"
+    },
+    {
       "id": 485,
       "name": "Setchie Coma Dose (mso)",
       "action": "A",
@@ -49939,6 +50766,57 @@
       "owner": "Designer"
     },
     {
+      "id": 607,
+      "name": "Shattering Smash",
+      "action": "A",
+      "usage": "1-Enc",
+      "effect": "Atk 💪 Dmg d💪 (ignore -1d); item breaks; 💪^🫀 or target Stunned",
+      "belongs_to": "Weapon: Improvised",
+      "genres": [
+        "Medieval",
+        "Modern",
+        "SciFi"
+      ],
+      "notes": "Bottle or chair breaks over the skull, all-in.",
+      "created_at": "2026-10-01T01:23:27.432513+00:00",
+      "tier": null,
+      "owner": "Designer"
+    },
+    {
+      "id": 577,
+      "name": "Shield-Hook Chop",
+      "action": "A",
+      "usage": "1-Enc",
+      "effect": "Rng 1; Atk 💪 Dmg d💪; 💪^💪 or target Disarmed",
+      "belongs_to": "Weapon: Axe",
+      "genres": [
+        "Medieval",
+        "Modern",
+        "SciFi"
+      ],
+      "notes": "Double-head hooks shields and wrenches guards aside.",
+      "created_at": "2026-10-01T01:23:27.432513+00:00",
+      "tier": null,
+      "owner": "Designer"
+    },
+    {
+      "id": 593,
+      "name": "Shield-Wrap Strike",
+      "action": "A",
+      "usage": "1-Enc",
+      "effect": "Atk 💪 Dmg d💪; ignores target shield Block; 💪^💪 or target Disarmed",
+      "belongs_to": "Weapon: Flail",
+      "genres": [
+        "Medieval",
+        "Modern",
+        "SciFi"
+      ],
+      "notes": "Chain wraps past shields and wrenches weapons free.",
+      "created_at": "2026-10-01T01:23:27.432513+00:00",
+      "tier": null,
+      "owner": "Designer"
+    },
+    {
       "id": 224,
       "name": "Shimmer Veil [Armor] Cloak",
       "action": "P",
@@ -49999,6 +50877,57 @@
       ],
       "notes": "Quick, quiet throw from concealment; thief's efficient kill.",
       "created_at": "2026-10-01T00:51:31.793349+00:00",
+      "tier": null,
+      "owner": "Designer"
+    },
+    {
+      "id": 609,
+      "name": "Skull Ringer",
+      "action": "A",
+      "usage": "2-Enc",
+      "effect": "Rng 1; Atk 💪 Dmg d💪; 💪^🫀 or target Stunned",
+      "belongs_to": "Weapon: Mace (Heavy)",
+      "genres": [
+        "Medieval",
+        "Modern",
+        "SciFi"
+      ],
+      "notes": "Concussive head blow rattles brain through helm.",
+      "created_at": "2026-10-01T01:23:27.432513+00:00",
+      "tier": null,
+      "owner": "Designer"
+    },
+    {
+      "id": 639,
+      "name": "Skull-Ringer",
+      "action": "A",
+      "usage": "1-Enc",
+      "effect": "Atk 💪 Dmg d💪; 💪^🫀 or target Stunned",
+      "belongs_to": "Weapon: Warhammer",
+      "genres": [
+        "Medieval",
+        "Modern",
+        "SciFi"
+      ],
+      "notes": "Concussive head blow rattles the target's senses through the helm.",
+      "created_at": "2026-10-01T01:23:27.543284+00:00",
+      "tier": null,
+      "owner": "Designer"
+    },
+    {
+      "id": 590,
+      "name": "Skyfall Javelin",
+      "action": "A",
+      "usage": "1-Enc",
+      "effect": "Rng Medium; Atk 🏃 Dmg d🏃; 🏃^🏃 or flying target Prone",
+      "belongs_to": "Weapon: Dragon Slayer Spear",
+      "genres": [
+        "Medieval",
+        "Modern",
+        "SciFi"
+      ],
+      "notes": "Wing-shredding cast that drops airborne drakes from the sky.",
+      "created_at": "2026-10-01T01:23:27.432513+00:00",
       "tier": null,
       "owner": "Designer"
     },
@@ -50389,6 +51318,39 @@
       "owner": "Designer"
     },
     {
+      "id": 610,
+      "name": "Spiked Crash",
+      "action": "A",
+      "usage": "1-Enc",
+      "effect": "Rng 1; Atk 💪 Dmg d💪; 💪^🏃 or target Prone",
+      "belongs_to": "Weapon: Morningstar",
+      "genres": [
+        "Medieval",
+        "Modern",
+        "SciFi"
+      ],
+      "notes": "Spiked head bites and drags foe off balance.",
+      "created_at": "2026-10-01T01:23:27.432513+00:00",
+      "tier": null,
+      "owner": "Designer"
+    },
+    {
+      "id": 622,
+      "name": "Spiked Sheath Deploy",
+      "action": "F",
+      "usage": "1-Rnd",
+      "effect": "Sheath forward: Atk 💪 Dmg d💪+5",
+      "belongs_to": "Weapon: Siege Fist",
+      "genres": [
+        "Modern",
+        "SciFi"
+      ],
+      "notes": "Mentally commanded spike sheath slides over knuckles for dreaded blows.",
+      "created_at": "2026-10-01T01:23:27.432513+00:00",
+      "tier": null,
+      "owner": "Designer"
+    },
+    {
       "id": 238,
       "name": "Spiked Vest of the Punk Gods",
       "action": "F",
@@ -50417,6 +51379,23 @@
       ],
       "notes": "Spinning drill tip dealing continuous burrowing damage.",
       "created_at": "2026-09-05T16:42:21.730121+00:00",
+      "tier": null,
+      "owner": "Designer"
+    },
+    {
+      "id": 604,
+      "name": "Spinning Flick",
+      "action": "P",
+      "usage": "1-Enc",
+      "effect": "Rng Short; Atk 🏃 Dmg d🏃",
+      "belongs_to": "Weapon: Hand Axe",
+      "genres": [
+        "Medieval",
+        "Modern",
+        "SciFi"
+      ],
+      "notes": "Quick wrist-snap throw strikes before foes close.",
+      "created_at": "2026-10-01T01:23:27.432513+00:00",
       "tier": null,
       "owner": "Designer"
     },
@@ -50975,6 +51954,23 @@
       "owner": "Designer"
     },
     {
+      "id": 599,
+      "name": "Sundering Chop",
+      "action": "A",
+      "usage": "1-Enc",
+      "effect": "Atk 💪 Dmg d💪+5; 💪^💪 or target Weakened",
+      "belongs_to": "Weapon: Great Axe",
+      "genres": [
+        "Medieval",
+        "Modern",
+        "SciFi"
+      ],
+      "notes": "Overhead two-handed chop crushes through guard and sinew.",
+      "created_at": "2026-10-01T01:23:27.432513+00:00",
+      "tier": null,
+      "owner": "Designer"
+    },
+    {
       "id": 260,
       "name": "Sunglow Brooch",
       "action": "P",
@@ -51105,6 +52101,21 @@
       "owner": "Designer"
     },
     {
+      "id": 526,
+      "name": "Talon Snare & Reel",
+      "action": "A",
+      "usage": "1-Enc",
+      "effect": "Rng Short; Atk 🏃 Dmg d🏃 (Dmg is optional); 💪^💪 or target Restrained; pull target 2 sq",
+      "belongs_to": "Weapon: Taoon (mso)",
+      "genres": [
+        "SciFi"
+      ],
+      "notes": "Spring-loaded talons clamp shut on impact, allowing the wielder to snare and haul the target via retrieval cord.",
+      "created_at": "2026-09-05T23:12:36.368543+00:00",
+      "tier": null,
+      "owner": "Designer"
+    },
+    {
       "id": 572,
       "name": "Talon Snare & Reel",
       "action": "A",
@@ -51118,21 +52129,6 @@
       ],
       "notes": "Tethered cord lets the wielder reel in a snared victim.",
       "created_at": "2026-10-01T00:51:31.793349+00:00",
-      "tier": null,
-      "owner": "Designer"
-    },
-    {
-      "id": 526,
-      "name": "Talon Snare & Reel",
-      "action": "A",
-      "usage": "1-Enc",
-      "effect": "Rng Short; Atk 🏃 Dmg d🏃 (Dmg is optional); 💪^💪 or target Restrained; pull target 2 sq",
-      "belongs_to": "Weapon: Taoon (mso)",
-      "genres": [
-        "SciFi"
-      ],
-      "notes": "Spring-loaded talons clamp shut on impact, allowing the wielder to snare and haul the target via retrieval cord.",
-      "created_at": "2026-09-05T23:12:36.368543+00:00",
       "tier": null,
       "owner": "Designer"
     },
@@ -51210,6 +52206,23 @@
       ],
       "notes": "Canister sprays a thin chromatic film that distorts light and temporal perception across the target's sensors or optics, leaving them sluggish and giving allies Advantage on all rolls against them.",
       "created_at": "2026-09-03T20:14:29.977879+00:00",
+      "tier": null,
+      "owner": "Designer"
+    },
+    {
+      "id": 598,
+      "name": "Tentacle Lash & Impale",
+      "action": "A",
+      "usage": "1-Enc",
+      "effect": "Rng Short; 💪^💪 or target Restrained; pull target to 1 sq; spike Dmg d4",
+      "belongs_to": "Weapon: Grasp-Glove",
+      "genres": [
+        "Medieval",
+        "Modern",
+        "SciFi"
+      ],
+      "notes": "Symbiote tentacles seize prey and drag it onto the spike.",
+      "created_at": "2026-10-01T01:23:27.432513+00:00",
       "tier": null,
       "owner": "Designer"
     },
@@ -51556,6 +52569,23 @@
       "owner": "Designer"
     },
     {
+      "id": 614,
+      "name": "Torque Wrench",
+      "action": "A",
+      "usage": "1-Enc",
+      "effect": "Rng 1; Atk 💪 Dmg d💪; 💪^💪 or target Disarmed",
+      "belongs_to": "Weapon: Pipe Wrench",
+      "genres": [
+        "Medieval",
+        "Modern",
+        "SciFi"
+      ],
+      "notes": "Jaws clamp the enemy's weapon and twist it free.",
+      "created_at": "2026-10-01T01:23:27.432513+00:00",
+      "tier": null,
+      "owner": "Designer"
+    },
+    {
       "id": 273,
       "name": "Tower Shield of the Blackaxe",
       "action": "F",
@@ -51777,6 +52807,23 @@
       "notes": "Rapid vacuum expansion cell generating immediate positive buoyancy to lift user to water surface.",
       "created_at": "2026-09-05T16:42:19.129187+00:00",
       "tier": "Free ⭕",
+      "owner": "Designer"
+    },
+    {
+      "id": 582,
+      "name": "Venom Beak Injection",
+      "action": "A",
+      "usage": "2-Enc",
+      "effect": "Rng 1; Atk 💪-1d Dmg d💪; if Wnd dealt, 🫀^🫀 or target Poisoned d4/Rnd",
+      "belongs_to": "Weapon: Beak-Mace",
+      "genres": [
+        "Medieval",
+        "Modern",
+        "SciFi"
+      ],
+      "notes": "Loaded beak injects toxin; precision strike costs accuracy.",
+      "created_at": "2026-10-01T01:23:27.432513+00:00",
+      "tier": null,
       "owner": "Designer"
     },
     {
@@ -52044,6 +53091,21 @@
       "owner": "Designer"
     },
     {
+      "id": 579,
+      "name": "Whirling Head Hurl",
+      "action": "A",
+      "usage": "1-Enc",
+      "effect": "Rng Short; Atk 🏃 Dmg d🏃; 🏃^💪 or target Prone",
+      "belongs_to": "Weapon: Axe (mso)",
+      "genres": [
+        "SciFi"
+      ],
+      "notes": "Spinning heavy double-head bowls targets off their feet.",
+      "created_at": "2026-10-01T01:23:27.432513+00:00",
+      "tier": null,
+      "owner": "Designer"
+    },
+    {
       "id": 289,
       "name": "Whisper [Weapon] Cloak",
       "action": "A",
@@ -52187,6 +53249,23 @@
       ],
       "notes": "Dimensional wrist aperture holding a non-living tool or weapon outside normal spacetime.",
       "created_at": "2026-09-05T16:42:19.729797+00:00",
+      "tier": null,
+      "owner": "Designer"
+    },
+    {
+      "id": 588,
+      "name": "Wyrm-Piercer Lunge",
+      "action": "AM",
+      "usage": "1-Enc",
+      "effect": "👣+2; Rng 2; Atk 💪 Dmg d💪; +d💪 vs Large+ target",
+      "belongs_to": "Weapon: Dragon Slayer Spear",
+      "genres": [
+        "Medieval",
+        "Modern",
+        "SciFi"
+      ],
+      "notes": "Driving lunge built to punch through colossal scaled hides.",
+      "created_at": "2026-10-01T01:23:27.432513+00:00",
       "tier": null,
       "owner": "Designer"
     },
