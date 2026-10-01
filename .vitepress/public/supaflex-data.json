@@ -43217,6 +43217,21 @@
       "owner": "Designer"
     },
     {
+      "id": 728,
+      "name": "Advancing Fire",
+      "action": "AM",
+      "usage": "1-Enc",
+      "effect": "👣+2; Rng Long; Atk 👁️ Dmg d👁️+3",
+      "belongs_to": "Weapon: Pulse Laser Rifle",
+      "genres": [
+        "SciFi"
+      ],
+      "notes": "Balanced military chassis lets elite troops shoot while pushing forward.",
+      "created_at": "2026-10-01T02:31:02.58478+00:00",
+      "tier": null,
+      "owner": "Designer"
+    },
+    {
       "id": 33,
       "name": "AegisColar",
       "action": "P",
@@ -43686,6 +43701,22 @@
       "owner": "Designer"
     },
     {
+      "id": 709,
+      "name": "Backblast-Shielded Strike",
+      "action": "A",
+      "usage": "1-Enc",
+      "effect": "Rng Long; AoE 2r; Atk 👁️ Dmg d👁️+10; 👁️^🏃 or target Prone",
+      "belongs_to": "Weapon: Missile Launcher",
+      "genres": [
+        "Modern",
+        "SciFi"
+      ],
+      "notes": "Launch field absorbs backblast, letting operators fire high-yield warheads safely.",
+      "created_at": "2026-10-01T02:31:02.58478+00:00",
+      "tier": null,
+      "owner": "Designer"
+    },
+    {
       "id": 45,
       "name": "Backpack of Holding",
       "action": "P",
@@ -43780,23 +43811,6 @@
       "owner": "Designer"
     },
     {
-      "id": 603,
-      "name": "Bearded Hook",
-      "action": "P",
-      "usage": "1-Enc",
-      "effect": "💪^💪 or target Disarmed",
-      "belongs_to": "Weapon: Hand Axe",
-      "genres": [
-        "Medieval",
-        "Modern",
-        "SciFi"
-      ],
-      "notes": "Bearded blade snags hilts and rips weapons free.",
-      "created_at": "2026-10-01T01:23:27.432513+00:00",
-      "tier": null,
-      "owner": "Designer"
-    },
-    {
       "id": 634,
       "name": "Bearded Hook",
       "action": "P",
@@ -43810,6 +43824,23 @@
       ],
       "notes": "Poor melee damage; axe beard hooks weapons instead.",
       "created_at": "2026-10-01T01:23:27.543284+00:00",
+      "tier": null,
+      "owner": "Designer"
+    },
+    {
+      "id": 603,
+      "name": "Bearded Hook",
+      "action": "P",
+      "usage": "1-Enc",
+      "effect": "💪^💪 or target Disarmed",
+      "belongs_to": "Weapon: Hand Axe",
+      "genres": [
+        "Medieval",
+        "Modern",
+        "SciFi"
+      ],
+      "notes": "Bearded blade snags hilts and rips weapons free.",
+      "created_at": "2026-10-01T01:23:27.432513+00:00",
       "tier": null,
       "owner": "Designer"
     },
@@ -43878,6 +43909,21 @@
       ],
       "notes": "Long grip and crossguard bind foes' blades and twist them free.",
       "created_at": "2026-10-01T00:51:31.793349+00:00",
+      "tier": null,
+      "owner": "Designer"
+    },
+    {
+      "id": 745,
+      "name": "Bioelectric Shock Spores",
+      "action": "A",
+      "usage": "1-Enc",
+      "effect": "Rng Medium; Atk 👁️ Dmg d👁️+3; 👁️^🫀 or target Stunned",
+      "belongs_to": "Weapon: Spore Blaster",
+      "genres": [
+        "SciFi"
+      ],
+      "notes": "Bioluminescent veins charge spores that discharge a nerve-jolting current on impact.",
+      "created_at": "2026-10-01T02:31:02.754446+00:00",
       "tier": null,
       "owner": "Designer"
     },
@@ -43956,6 +44002,21 @@
       ],
       "notes": "Controlled close-quarters disarm avoids collateral damage during ship-boarding.",
       "created_at": "2026-10-01T00:51:31.793349+00:00",
+      "tier": null,
+      "owner": "Designer"
+    },
+    {
+      "id": 681,
+      "name": "Boarding Snap Burst",
+      "action": "AM",
+      "usage": "2-Enc",
+      "effect": "Rng Short; Atk 👁️ Dmg d👁️+3; 👣+2",
+      "belongs_to": "Weapon: Blaster Carbine",
+      "genres": [
+        "SciFi"
+      ],
+      "notes": "Compact frame lets boarding teams fire while sweeping tight corridors.",
+      "created_at": "2026-10-01T02:31:02.58478+00:00",
       "tier": null,
       "owner": "Designer"
     },
@@ -44107,6 +44168,38 @@
       "owner": "Designer"
     },
     {
+      "id": 691,
+      "name": "Braced Firing Arm",
+      "action": "AM",
+      "usage": "1-Rnd",
+      "effect": "👣-4; ignore attack penalties; Atk 👁️ Dmg d👁️+5",
+      "belongs_to": "Weapon: Disk Cannon",
+      "genres": [
+        "Modern",
+        "SciFi"
+      ],
+      "notes": "Bracing the mount tames brutal recoil and channels it into the disk.",
+      "created_at": "2026-10-01T02:31:02.58478+00:00",
+      "tier": null,
+      "owner": "Designer"
+    },
+    {
+      "id": 740,
+      "name": "Breach Bludgeon",
+      "action": "P",
+      "usage": "2-Enc",
+      "effect": "Rng 1; Atk 💪 Dmg d💪+5; 💪^💪 or target Prone",
+      "belongs_to": "Weapon: Shredder Cannon",
+      "genres": [
+        "Modern",
+        "SciFi"
+      ],
+      "notes": "A heavy reinforced chassis makes a brutal club in tight breaches.",
+      "created_at": "2026-10-01T02:31:02.754446+00:00",
+      "tier": null,
+      "owner": "Designer"
+    },
+    {
       "id": 300,
       "name": "Breach Burn",
       "action": "A",
@@ -44120,6 +44213,22 @@
       "notes": "High-intensity breach cutter.",
       "created_at": "2026-09-03T20:14:29.977879+00:00",
       "tier": "Free ⭕",
+      "owner": "Designer"
+    },
+    {
+      "id": 732,
+      "name": "Breaching Storm",
+      "action": "A",
+      "usage": "1-⚡",
+      "effect": "Rng Short; AoE 2r; Atk 👁️ Dmg d👁️+10; shatters light cover; 👁️^💪 or targets Pinned to Ground",
+      "belongs_to": "Weapon: Quad-Disk Cannon",
+      "genres": [
+        "Modern",
+        "SciFi"
+      ],
+      "notes": "Overdriven spin cycle saturates fortifications with shredding metal.",
+      "created_at": "2026-10-01T02:31:02.754446+00:00",
+      "tier": null,
       "owner": "Designer"
     },
     {
@@ -44840,6 +44949,37 @@
       "owner": "Designer"
     },
     {
+      "id": 701,
+      "name": "Converged Cutting Beam",
+      "action": "A",
+      "usage": "1-Rnd",
+      "effect": "Rng 1; twin emitters merge into a single beam; slice through stationary materials up to two feet; cannot target opponents",
+      "belongs_to": "Weapon: Eye-Laser",
+      "genres": [
+        "SciFi"
+      ],
+      "notes": "Emitters slide together into a precise industrial cutting beam.",
+      "created_at": "2026-10-01T02:31:02.58478+00:00",
+      "tier": null,
+      "owner": "Designer"
+    },
+    {
+      "id": 737,
+      "name": "Corner Hunter",
+      "action": "A",
+      "usage": "2-Enc",
+      "effect": "Rng Long; Atk 👁️ Dmg d👁️+5; ignores partial and full cover; may target an unseen foe up to 3 sq of its last known position",
+      "belongs_to": "Weapon: Seeker Rifle",
+      "genres": [
+        "Modern",
+        "SciFi"
+      ],
+      "notes": "Guided micro-rounds bend around obstacles to strike hidden, entrenched foes.",
+      "created_at": "2026-10-01T02:31:02.754446+00:00",
+      "tier": null,
+      "owner": "Designer"
+    },
+    {
       "id": 366,
       "name": "Corrosive Micro-Mite Swarm (mso)",
       "action": "P",
@@ -44934,6 +45074,23 @@
       "owner": "Designer"
     },
     {
+      "id": 575,
+      "name": "Crescent Pin & Restrain",
+      "action": "A",
+      "usage": "2-Enc",
+      "effect": "Atk 💪 Dmg d💪 (Dmg is optional); 💪^💪 or target Restrained",
+      "belongs_to": "Weapon: War-Crescent",
+      "genres": [
+        "Medieval",
+        "Modern",
+        "SciFi"
+      ],
+      "notes": "Flanges hook and pin; schools teach non-lethal duel control.",
+      "created_at": "2026-10-01T00:51:31.793349+00:00",
+      "tier": null,
+      "owner": "Designer"
+    },
+    {
       "id": 503,
       "name": "Crescent Pin & Restrain",
       "action": "A",
@@ -44949,19 +45106,33 @@
       "owner": "Designer"
     },
     {
-      "id": 575,
-      "name": "Crescent Pin & Restrain",
+      "id": 735,
+      "name": "Crescent Shredder",
       "action": "A",
       "usage": "2-Enc",
-      "effect": "Atk 💪 Dmg d💪 (Dmg is optional); 💪^💪 or target Restrained",
-      "belongs_to": "Weapon: War-Crescent",
+      "effect": "Rng Medium; Atk 👁️ Dmg d👁️+5; 👁️^💪 or target Weakened",
+      "belongs_to": "Weapon: Scythe-Cannon (mso)",
       "genres": [
-        "Medieval",
+        "SciFi"
+      ],
+      "notes": "High-velocity Dracan crescents rip through armor plating and muscle.",
+      "created_at": "2026-10-01T02:31:02.754446+00:00",
+      "tier": null,
+      "owner": "Designer"
+    },
+    {
+      "id": 739,
+      "name": "Crescent Storm",
+      "action": "A",
+      "usage": "1-Enc",
+      "effect": "Rng Short; AoE 2r; Atk 👁️ Dmg d👁️+3",
+      "belongs_to": "Weapon: Shredder Cannon",
+      "genres": [
         "Modern",
         "SciFi"
       ],
-      "notes": "Flanges hook and pin; schools teach non-lethal duel control.",
-      "created_at": "2026-10-01T00:51:31.793349+00:00",
+      "notes": "Spinning metal crescents shred light armor and rattle grouped troops.",
+      "created_at": "2026-10-01T02:31:02.754446+00:00",
       "tier": null,
       "owner": "Designer"
     },
@@ -44996,6 +45167,21 @@
       ],
       "notes": "Vein-runed blade drains the victim's life into the wielder.",
       "created_at": "2026-10-01T00:51:31.793349+00:00",
+      "tier": null,
+      "owner": "Designer"
+    },
+    {
+      "id": 683,
+      "name": "Crisis Quick-Draw",
+      "action": "P",
+      "usage": "1-Enc",
+      "effect": "Rng Medium; Atk 👁️ Dmg d👁️; draw and fire as part of this action",
+      "belongs_to": "Weapon: Blaster Pistol",
+      "genres": [
+        "SciFi"
+      ],
+      "notes": "Light hip-holstered sidearm clears leather and fires in one motion.",
+      "created_at": "2026-10-01T02:31:02.58478+00:00",
       "tier": null,
       "owner": "Designer"
     },
@@ -45298,6 +45484,22 @@
       ],
       "notes": "Channels enervating entropic sorcery into the weapon, sapping the physical vigor and vitality of struck victims.",
       "created_at": "2026-09-05T16:42:20.488352+00:00",
+      "tier": null,
+      "owner": "Designer"
+    },
+    {
+      "id": 692,
+      "name": "Decapitator Disk",
+      "action": "A",
+      "usage": "1-Enc",
+      "effect": "Rng Long; Atk 👁️ Dmg d👁️+5; ignores light armor; 👁️^💪 or target Pinned to Ground",
+      "belongs_to": "Weapon: Disk Cannon",
+      "genres": [
+        "Modern",
+        "SciFi"
+      ],
+      "notes": "Max-spin disk shears light armor and nails targets to the ground.",
+      "created_at": "2026-10-01T02:31:02.58478+00:00",
       "tier": null,
       "owner": "Designer"
     },
@@ -45811,6 +46013,21 @@
       "owner": "Designer"
     },
     {
+      "id": 744,
+      "name": "Entangling Spore Bloom",
+      "action": "A",
+      "usage": "2-Enc",
+      "effect": "Rng Medium; AoE 1r; Atk 👁️ Dmg d👁️; 👁️^💪 or target Restrained",
+      "belongs_to": "Weapon: Spore Blaster",
+      "genres": [
+        "SciFi"
+      ],
+      "notes": "Spore cloud expands into sticky fungal tendrils that hold the target in place.",
+      "created_at": "2026-10-01T02:31:02.754446+00:00",
+      "tier": null,
+      "owner": "Designer"
+    },
+    {
       "id": 658,
       "name": "Envenomed Bolt",
       "action": "A",
@@ -46317,6 +46534,21 @@
       "owner": "Designer"
     },
     {
+      "id": 720,
+      "name": "Focused Pulse Train",
+      "action": "A",
+      "usage": "1-Enc",
+      "effect": "Rng Long; Atk 👁️ Dmg d👁️+5; 👁️^🫀 or target Stunned",
+      "belongs_to": "Weapon: Pulse Laser Carbine",
+      "genres": [
+        "SciFi"
+      ],
+      "notes": "Stacked intermediate pulses overload nerves on a single concentrated point.",
+      "created_at": "2026-10-01T02:31:02.58478+00:00",
+      "tier": null,
+      "owner": "Designer"
+    },
+    {
       "id": 240,
       "name": "Force",
       "action": "A",
@@ -46415,6 +46647,22 @@
       "owner": "Designer"
     },
     {
+      "id": 731,
+      "name": "Four-Barrel Salvo",
+      "action": "A",
+      "usage": "1-⚡",
+      "effect": "Rng Short; AoE 1r; Atk 👁️ Dmg d👁️+4; 👁️^💪 or targets Prone",
+      "belongs_to": "Weapon: Quad-Disk Cannon",
+      "genres": [
+        "Modern",
+        "SciFi"
+      ],
+      "notes": "All four barrels release spinning disks in one devastating unison volley.",
+      "created_at": "2026-10-01T02:31:02.754446+00:00",
+      "tier": null,
+      "owner": "Designer"
+    },
+    {
       "id": 630,
       "name": "Frontier Hunter's Cast",
       "action": "P",
@@ -46426,6 +46674,21 @@
       ],
       "notes": "Survival throw cripples fleeing prey.",
       "created_at": "2026-10-01T01:23:27.543284+00:00",
+      "tier": null,
+      "owner": "Designer"
+    },
+    {
+      "id": 727,
+      "name": "Frontline Volley",
+      "action": "A",
+      "usage": "2-Enc",
+      "effect": "Rng Long; Atk 👁️ Dmg d👁️+5 vs up to 2 targets in 1r; 👁️^🫀 or targets Prone",
+      "belongs_to": "Weapon: Pulse Laser Rifle",
+      "genres": [
+        "SciFi"
+      ],
+      "notes": "High-output pulse train sweeps enemy lines, forcing them down.",
+      "created_at": "2026-10-01T02:31:02.58478+00:00",
       "tier": null,
       "owner": "Designer"
     },
@@ -46498,6 +46761,22 @@
       "owner": "Designer"
     },
     {
+      "id": 679,
+      "name": "Full-Auto Slug Storm",
+      "action": "A",
+      "usage": "1-Rnd",
+      "effect": "Rng Long; Atk 👁️-3 Dmg d👁️+10",
+      "belongs_to": "Weapon: Assault Slugger",
+      "genres": [
+        "Modern",
+        "SciFi"
+      ],
+      "notes": "Cyclic slug feed trades accuracy for internal detonations that shred hardened targets.",
+      "created_at": "2026-10-01T02:31:02.58478+00:00",
+      "tier": null,
+      "owner": "Designer"
+    },
+    {
       "id": 9,
       "name": "FusionSplicer",
       "action": "P",
@@ -46541,6 +46820,21 @@
       ],
       "notes": "Aerosolized chemical delivery cloud.",
       "created_at": "2026-09-05T16:42:21.541935+00:00",
+      "tier": null,
+      "owner": "Designer"
+    },
+    {
+      "id": 748,
+      "name": "Gauntlet Blade-Catch",
+      "action": "P",
+      "usage": "1-Enc",
+      "effect": "Rng 1; Atk 💪 Dmg d💪; 💪^💪 or target Disarmed",
+      "belongs_to": "Weapon: Warrior Claws (mso)",
+      "genres": [
+        "SciFi"
+      ],
+      "notes": "Plasteel gauntlet traps enemy weapons between knuckle blades and wrenches them free.",
+      "created_at": "2026-10-01T02:31:02.754446+00:00",
       "tier": null,
       "owner": "Designer"
     },
@@ -46825,6 +47119,21 @@
       "owner": "Designer"
     },
     {
+      "id": 688,
+      "name": "Grip-Rotation Snapfire",
+      "action": "P",
+      "usage": "2-Enc",
+      "effect": "Rng Medium; Atk 👁️ Dmg d👁️; ignore target's cover penalty",
+      "belongs_to": "Weapon: Blaster Rifle (mso)",
+      "genres": [
+        "SciFi"
+      ],
+      "notes": "Rotating trigger grip lets infantry fire over barricades without exposing themselves.",
+      "created_at": "2026-10-01T02:31:02.58478+00:00",
+      "tier": null,
+      "owner": "Designer"
+    },
+    {
       "id": 612,
       "name": "Ground Zero Slam",
       "action": "A",
@@ -46906,6 +47215,21 @@
       ],
       "notes": "Gust Stone is engineered with high-durability composite materials for reliable field operations.",
       "created_at": "2026-09-03T20:14:29.977879+00:00",
+      "tier": null,
+      "owner": "Designer"
+    },
+    {
+      "id": 693,
+      "name": "Gyro-Stabilized Sweep",
+      "action": "A",
+      "usage": "2-Enc",
+      "effect": "Rng Long; Atk 👁️ Dmg d👁️ against up to 3 targets in 2r; 👁️^🏃 or target Prone",
+      "belongs_to": "Weapon: Disk Cannon (mso)",
+      "genres": [
+        "SciFi"
+      ],
+      "notes": "Gyroscopic arm lets the gunner rake a rapid disk spread across lines.",
+      "created_at": "2026-10-01T02:31:02.58478+00:00",
       "tier": null,
       "owner": "Designer"
     },
@@ -47016,6 +47340,21 @@
       ],
       "notes": "Medium-range sensor sweep detecting biometric and electronic signatures of concealed or cloaked targets.",
       "created_at": "2026-09-05T16:42:17.928398+00:00",
+      "tier": null,
+      "owner": "Designer"
+    },
+    {
+      "id": 743,
+      "name": "Harmonic Overload",
+      "action": "A",
+      "usage": "1-Enc",
+      "effect": "Rng 1; Atk 💪 Dmg d💪+5; 💪^🫀 or target Stunned; in vacuum or underwater it instead detonates for AoE 2r Atk 💪 Dmg d💪+10",
+      "belongs_to": "Weapon: Sonic Sword (mso)",
+      "genres": [
+        "SciFi"
+      ],
+      "notes": "Overclocked tri-prong transducers release a concussive acoustic shockwave.",
+      "created_at": "2026-10-01T02:31:02.754446+00:00",
       "tier": null,
       "owner": "Designer"
     },
@@ -47135,23 +47474,6 @@
       "owner": "Designer"
     },
     {
-      "id": 192,
-      "name": "Healing",
-      "action": "P",
-      "usage": "1-⚡",
-      "effect": "Heal self d✨.",
-      "belongs_to": "Supplies: Potion of Healing",
-      "genres": [
-        "Medieval",
-        "Modern",
-        "SciFi"
-      ],
-      "notes": "Potion of Healing is engineered with high-durability composite materials for reliable field operations.",
-      "created_at": "2026-09-03T20:14:29.977879+00:00",
-      "tier": null,
-      "owner": "Designer"
-    },
-    {
       "id": 36,
       "name": "Healing",
       "action": "A",
@@ -47164,6 +47486,23 @@
         "SciFi"
       ],
       "notes": "Amulet of Healing is engineered with high-durability composite materials for reliable field operations.",
+      "created_at": "2026-09-03T20:14:29.977879+00:00",
+      "tier": null,
+      "owner": "Designer"
+    },
+    {
+      "id": 192,
+      "name": "Healing",
+      "action": "P",
+      "usage": "1-⚡",
+      "effect": "Heal self d✨.",
+      "belongs_to": "Supplies: Potion of Healing",
+      "genres": [
+        "Medieval",
+        "Modern",
+        "SciFi"
+      ],
+      "notes": "Potion of Healing is engineered with high-durability composite materials for reliable field operations.",
       "created_at": "2026-09-03T20:14:29.977879+00:00",
       "tier": null,
       "owner": "Designer"
@@ -47227,6 +47566,21 @@
       ],
       "notes": "Heavy persistent pressurized chemical cloud.",
       "created_at": "2026-09-05T16:42:21.575482+00:00",
+      "tier": null,
+      "owner": "Designer"
+    },
+    {
+      "id": 704,
+      "name": "Heavy Slug Breach",
+      "action": "P",
+      "usage": "3-Enc",
+      "effect": "Structures Only; Rng Medium; Atk 👁️ Dmg d👁️+5 (double damage)",
+      "belongs_to": "Weapon: Grenade Launcher, Underbarrel (mso)",
+      "genres": [
+        "SciFi"
+      ],
+      "notes": "Solid heavy slugs smash doors, barricades, and stagger armored troops.",
+      "created_at": "2026-10-01T02:31:02.58478+00:00",
       "tier": null,
       "owner": "Designer"
     },
@@ -47406,6 +47760,22 @@
       "owner": "Designer"
     },
     {
+      "id": 695,
+      "name": "Holdout Draw",
+      "action": "P",
+      "usage": "1-Enc",
+      "effect": "Rng Short; draw concealed pistol and fire; Atk 👁️ Dmg d👁️+3; 👁️^💪 or target Disarmed",
+      "belongs_to": "Weapon: Disk Pistol",
+      "genres": [
+        "Modern",
+        "SciFi"
+      ],
+      "notes": "Hidden under a coat, it clears leather and clips weapons from hands.",
+      "created_at": "2026-10-01T02:31:02.58478+00:00",
+      "tier": null,
+      "owner": "Designer"
+    },
+    {
       "id": 137,
       "name": "Holo-Sunglasses",
       "action": "P",
@@ -47479,6 +47849,21 @@
       ],
       "notes": "Smart homing guidance steers projectiles around corners and obstacles, negating defense bonuses granted by partial cover.",
       "created_at": "2026-09-05T23:12:36.368543+00:00",
+      "tier": null,
+      "owner": "Designer"
+    },
+    {
+      "id": 708,
+      "name": "Homing Return Arc",
+      "action": "P",
+      "usage": "2-Enc",
+      "effect": "Rng Short; Atk 🏃 Dmg d🏃+3; strikes up to 2 targets in 1r; returns to wielder",
+      "belongs_to": "Weapon: Manta (mso)",
+      "genres": [
+        "SciFi"
+      ],
+      "notes": "Anti-grav unit and homing beacon curve the discus through two targets.",
+      "created_at": "2026-10-01T02:31:02.58478+00:00",
       "tier": null,
       "owner": "Designer"
     },
@@ -47979,6 +48364,21 @@
       ],
       "notes": "Compacts and releases oxygen directly into the bloodstream, allowing the recipient to survive in hard vacuum, underwater, or toxic atmospheres.",
       "created_at": "2026-09-05T23:12:36.446456+00:00",
+      "tier": null,
+      "owner": "Designer"
+    },
+    {
+      "id": 725,
+      "name": "Ionized Whisper",
+      "action": "P",
+      "usage": "2-Enc",
+      "effect": "Rng Long; Atk 👁️ Dmg d👁️+3; shot does not reveal shooter's position",
+      "belongs_to": "Weapon: Pulse Laser Pistol (mso)",
+      "genres": [
+        "SciFi"
+      ],
+      "notes": "Low-yield pulse ionizes air with a faint pop, ideal for covert kills.",
+      "created_at": "2026-10-01T02:31:02.58478+00:00",
       "tier": null,
       "owner": "Designer"
     },
@@ -48520,6 +48920,21 @@
       "owner": "Designer"
     },
     {
+      "id": 710,
+      "name": "Lock-On Telemetry",
+      "action": "A",
+      "usage": "2-Enc",
+      "effect": "Rng Extreme; designate 1 target; Atk 👁️+5; ignores cover",
+      "belongs_to": "Weapon: Missile Launcher (mso)",
+      "genres": [
+        "SciFi"
+      ],
+      "notes": "Targeting uplink guides any specialized missile; warhead payload determines damage.",
+      "created_at": "2026-10-01T02:31:02.58478+00:00",
+      "tier": null,
+      "owner": "Designer"
+    },
+    {
       "id": 160,
       "name": "Longsword of the Street Rebel",
       "action": "P",
@@ -48601,6 +49016,21 @@
       ],
       "notes": "Channels magnetic attraction and repulsion to manipulate ferrous objects across short tactical distances.",
       "created_at": "2026-09-03T20:14:29.977879+00:00",
+      "tier": null,
+      "owner": "Designer"
+    },
+    {
+      "id": 718,
+      "name": "Magnetic Field Parry",
+      "action": "F",
+      "usage": "1-Enc",
+      "effect": "Blk+3; On successful Blk, Riposte: Rng 1; Atk 💪 Dmg d💪",
+      "belongs_to": "Weapon: Plasma Sword (mso)",
+      "genres": [
+        "SciFi"
+      ],
+      "notes": "Containment field flares outward, deflecting strikes and bolts before riposting.",
+      "created_at": "2026-10-01T02:31:02.58478+00:00",
       "tier": null,
       "owner": "Designer"
     },
@@ -48716,6 +49146,36 @@
       ],
       "notes": "Channels spectral whispers into the wearer's consciousness, granting a keen mental boost for one round.",
       "created_at": "2026-09-03T20:14:29.977879+00:00",
+      "tier": null,
+      "owner": "Designer"
+    },
+    {
+      "id": 699,
+      "name": "Mass-Driver Overdrive",
+      "action": "A",
+      "usage": "2-Enc",
+      "effect": "Rng Medium; Atk 👁️ Dmg d👁️+5; disk punches through to a second target within 1r behind the first; 👁️^💪 or target Pinned to Ground",
+      "belongs_to": "Weapon: Disk Rifle (mso)",
+      "genres": [
+        "SciFi"
+      ],
+      "notes": "Overcharged mini-mass drivers hurl heavy disks clean through massed ranks.",
+      "created_at": "2026-10-01T02:31:02.58478+00:00",
+      "tier": null,
+      "owner": "Designer"
+    },
+    {
+      "id": 694,
+      "name": "Mass-Driver Overload",
+      "action": "A",
+      "usage": "1-⚡",
+      "effect": "Rng Extreme; 1x8; Atk 👁️ Dmg d👁️+10; 👁️^🫀 or target Stunned",
+      "belongs_to": "Weapon: Disk Cannon (mso)",
+      "genres": [
+        "SciFi"
+      ],
+      "notes": "Overloaded mini-mass drivers hurl a disk straight through successive bodies.",
+      "created_at": "2026-10-01T02:31:02.58478+00:00",
       "tier": null,
       "owner": "Designer"
     },
@@ -49054,6 +49514,21 @@
       "owner": "Designer"
     },
     {
+      "id": 742,
+      "name": "Molecular Breach",
+      "action": "A",
+      "usage": "1-Enc",
+      "effect": "Rng 1; Atk 💪 Dmg d💪+5; vs stationary barriers, damage gains +5 for each consecutive Rnd held in contact; a destroyed structure ruptures for AoE 1r Atk 💪 Dmg d💪",
+      "belongs_to": "Weapon: Sonic Sword",
+      "genres": [
+        "SciFi"
+      ],
+      "notes": "A sustained disruption field cumulatively unravels bulkheads and security doors.",
+      "created_at": "2026-10-01T02:31:02.754446+00:00",
+      "tier": null,
+      "owner": "Designer"
+    },
+    {
       "id": 516,
       "name": "Molecular Resonance Disruption",
       "action": "A",
@@ -49281,6 +49756,21 @@
       "owner": "Designer"
     },
     {
+      "id": 726,
+      "name": "Neural Disruptor Pulse",
+      "action": "A",
+      "usage": "1-Enc",
+      "effect": "Rng Medium; Atk 👁️ Dmg d👁️+5; 👁️^🫀 or target Stunned",
+      "belongs_to": "Weapon: Pulse Laser Pistol (mso)",
+      "genres": [
+        "SciFi"
+      ],
+      "notes": "Tuned pulse frequency overloads nervous systems for silent takedowns.",
+      "created_at": "2026-10-01T02:31:02.58478+00:00",
+      "tier": null,
+      "owner": "Designer"
+    },
+    {
       "id": 481,
       "name": "Neuro-Hysteria Gas Cloud (mso)",
       "action": "A",
@@ -49307,6 +49797,36 @@
       ],
       "notes": "Stinger strike delivering a concentrated dose of organic neuroparalytic venom.",
       "created_at": "2026-09-05T23:12:36.368543+00:00",
+      "tier": null,
+      "owner": "Designer"
+    },
+    {
+      "id": 706,
+      "name": "Never-Dull Sunder",
+      "action": "AM",
+      "usage": "2-Enc",
+      "effect": "Rng 1; Atk 💪 Dmg d💪+5; ignores physical armor and barriers; 💪^💪 or target Disarmed",
+      "belongs_to": "Weapon: Laser Blade",
+      "genres": [
+        "SciFi"
+      ],
+      "notes": "Interference grid tightens the beam, shearing armor and severing enemy weapons.",
+      "created_at": "2026-10-01T02:31:02.58478+00:00",
+      "tier": null,
+      "owner": "Designer"
+    },
+    {
+      "id": 733,
+      "name": "Nitrogen Spin-Up",
+      "action": "M",
+      "usage": "1-Enc",
+      "effect": "Rng Medium; Atk 👁️ Dmg d👁️+3",
+      "belongs_to": "Weapon: Rotary Plasma Gun",
+      "genres": [
+        "SciFi"
+      ],
+      "notes": "Liquid nitrogen jacket stabilizes six spinning barrels for safe sustained fire.",
+      "created_at": "2026-10-01T02:31:02.754446+00:00",
       "tier": null,
       "owner": "Designer"
     },
@@ -49433,6 +49953,21 @@
       "owner": "Designer"
     },
     {
+      "id": 729,
+      "name": "Overcharged Service Cell",
+      "action": "A",
+      "usage": "1-⚡",
+      "effect": "Rng Extreme; Atk 👁️ Dmg d👁️+10; 👁️^🫀 or target Blinded",
+      "belongs_to": "Weapon: Pulse Laser Rifle (mso)",
+      "genres": [
+        "SciFi"
+      ],
+      "notes": "Dumps full cell charge into one thunderous, retina-searing beam.",
+      "created_at": "2026-10-01T02:31:02.754446+00:00",
+      "tier": null,
+      "owner": "Designer"
+    },
+    {
       "id": 544,
       "name": "Overhead Fell Stroke",
       "action": "A",
@@ -49446,6 +49981,36 @@
       ],
       "notes": "Descending greatsword blow hammers targets off their feet.",
       "created_at": "2026-10-01T00:51:31.793349+00:00",
+      "tier": null,
+      "owner": "Designer"
+    },
+    {
+      "id": 686,
+      "name": "Ovoid Charge Overload",
+      "action": "A",
+      "usage": "1-Enc",
+      "effect": "Rng Long; Atk 👁️ Dmg d👁️+10; 👁️^💪 or target Prone",
+      "belongs_to": "Weapon: Blaster Rifle",
+      "genres": [
+        "SciFi"
+      ],
+      "notes": "Full-length emitter dumps the cell into one massive concussive ovoid bolt.",
+      "created_at": "2026-10-01T02:31:02.58478+00:00",
+      "tier": null,
+      "owner": "Designer"
+    },
+    {
+      "id": 687,
+      "name": "Ovoid Overcharge",
+      "action": "A",
+      "usage": "1-Enc",
+      "effect": "Rng Long; Atk 👁️ Dmg d👁️+10; AoE 1r around target; 👁️^🫀 or target Stunned",
+      "belongs_to": "Weapon: Blaster Rifle (mso)",
+      "genres": [
+        "SciFi"
+      ],
+      "notes": "Dumps the full cell into one swollen ovoid charge that bursts on impact.",
+      "created_at": "2026-10-01T02:31:02.58478+00:00",
       "tier": null,
       "owner": "Designer"
     },
@@ -49608,6 +50173,21 @@
       "owner": "Designer"
     },
     {
+      "id": 711,
+      "name": "Phase-Locked Snipe",
+      "action": "A",
+      "usage": "2-Enc",
+      "effect": "Rng Extreme; Atk 👁️ Dmg d👁️+5; ignores cover; 👁️^🫀 or target Stunned",
+      "belongs_to": "Weapon: Phase Rifle",
+      "genres": [
+        "SciFi"
+      ],
+      "notes": "Holographic scope compensates for wind and motion for silent precision kills.",
+      "created_at": "2026-10-01T02:31:02.58478+00:00",
+      "tier": null,
+      "owner": "Designer"
+    },
+    {
       "id": 188,
       "name": "PhaseStrider Warp",
       "action": "F",
@@ -49738,6 +50318,21 @@
       "owner": "Designer"
     },
     {
+      "id": 713,
+      "name": "Plasma Haymaker",
+      "action": "A",
+      "usage": "2-Enc",
+      "effect": "Rng 1r; Atk 💪 Dmg d💪+5; 💪^💪 or target Prone",
+      "belongs_to": "Weapon: Plasma Gauntlets",
+      "genres": [
+        "SciFi"
+      ],
+      "notes": "Knuckle emitters vent a plasma shockwave that hurls foes off their feet.",
+      "created_at": "2026-10-01T02:31:02.58478+00:00",
+      "tier": null,
+      "owner": "Designer"
+    },
+    {
       "id": 595,
       "name": "Plasma Line Breaker",
       "action": "A",
@@ -49765,6 +50360,21 @@
       "notes": "Plasma cutter/welder; up to12 in depth; cuts steel and bulkheads.",
       "created_at": "2026-09-03T20:14:29.977879+00:00",
       "tier": "Free ⭕",
+      "owner": "Designer"
+    },
+    {
+      "id": 736,
+      "name": "Plasteel Bludgeon",
+      "action": "AM",
+      "usage": "2-Enc",
+      "effect": "👣+2; Rng 1; Atk 💪 Dmg d💪+5; 💪^💪 or target Prone",
+      "belongs_to": "Weapon: Scythe-Cannon (mso)",
+      "genres": [
+        "SciFi"
+      ],
+      "notes": "Reinforced plasteel chassis doubles as a brutal close-quarters ram.",
+      "created_at": "2026-10-01T02:31:02.754446+00:00",
+      "tier": null,
       "owner": "Designer"
     },
     {
@@ -49890,6 +50500,22 @@
       "owner": "Designer"
     },
     {
+      "id": 680,
+      "name": "Position Breaker",
+      "action": "A",
+      "usage": "1-Enc",
+      "effect": "Rng Long; Atk 👁️ Dmg d👁️+5; ignores cover bonus from barricades and emplacements; 👁️^💪 or target Pinned to Ground",
+      "belongs_to": "Weapon: Assault Slugger",
+      "genres": [
+        "Modern",
+        "SciFi"
+      ],
+      "notes": "Delayed-fuse slugs burrow through cover before bursting, pinning dug-in defenders.",
+      "created_at": "2026-10-01T02:31:02.58478+00:00",
+      "tier": null,
+      "owner": "Designer"
+    },
+    {
       "id": 525,
       "name": "Powered Tail Strike",
       "action": "A",
@@ -49935,6 +50561,21 @@
       "notes": "Monitor/siphon energy. Holds 100 srg",
       "created_at": "2026-09-03T20:14:29.977879+00:00",
       "tier": "Free ⭕",
+      "owner": "Designer"
+    },
+    {
+      "id": 734,
+      "name": "Precipitator Torrent",
+      "action": "A",
+      "usage": "1-⚡",
+      "effect": "Rng Medium; AoE 2r; Atk 👁️ Dmg d👁️+10; 👁️^🫀 or targets d4 burns/Rnd",
+      "belongs_to": "Weapon: Rotary Plasma Gun",
+      "genres": [
+        "SciFi"
+      ],
+      "notes": "Precipitator pack floods the barrels, hosing white-hot clinging plasma.",
+      "created_at": "2026-10-01T02:31:02.754446+00:00",
+      "tier": null,
       "owner": "Designer"
     },
     {
@@ -50373,6 +51014,21 @@
       "owner": "Designer"
     },
     {
+      "id": 682,
+      "name": "Raider's Overcharge",
+      "action": "A",
+      "usage": "1-Enc",
+      "effect": "Rng Long; Atk 👁️ Dmg d👁️+5; 👁️^🫀 or target Stunned",
+      "belongs_to": "Weapon: Blaster Carbine (mso)",
+      "genres": [
+        "SciFi"
+      ],
+      "notes": "Pirates bypass cell limiters for a heavier, nerve-jolting long-range bolt.",
+      "created_at": "2026-10-01T02:31:02.58478+00:00",
+      "tier": null,
+      "owner": "Designer"
+    },
+    {
       "id": 204,
       "name": "Railgun",
       "action": "A",
@@ -50531,6 +51187,21 @@
       "owner": "Designer"
     },
     {
+      "id": 717,
+      "name": "Reactor Surge Cleave",
+      "action": "A",
+      "usage": "1-⚡",
+      "effect": "Rng 1; Atk 💪 Dmg d💪+10; ignores Armor; 💪^🫀 or target Weakened",
+      "belongs_to": "Weapon: Plasma Sword (mso)",
+      "genres": [
+        "SciFi"
+      ],
+      "notes": "Internal reactor cell dumps full output, shearing through armor plating.",
+      "created_at": "2026-10-01T02:31:02.58478+00:00",
+      "tier": null,
+      "owner": "Designer"
+    },
+    {
       "id": 576,
       "name": "Reaping Arc",
       "action": "A",
@@ -50624,6 +51295,22 @@
       ],
       "notes": "Full-auto suppression sweep spraying explosive slugs across a 1x2 area.",
       "created_at": "2026-09-05T23:12:36.368543+00:00",
+      "tier": null,
+      "owner": "Designer"
+    },
+    {
+      "id": 702,
+      "name": "Repulsor Hammerblow",
+      "action": "A",
+      "usage": "2-Enc",
+      "effect": "Rng 1; Atk 💪 Dmg d💪+5; target knocked back 1 sq; 💪^💪 or target Prone",
+      "belongs_to": "Weapon: Force Gauntlet",
+      "genres": [
+        "Modern",
+        "SciFi"
+      ],
+      "notes": "Impact-triggered repulsor field turns an ordinary punch into a hammer strike.",
+      "created_at": "2026-10-01T02:31:02.58478+00:00",
       "tier": null,
       "owner": "Designer"
     },
@@ -50795,6 +51482,21 @@
       ],
       "notes": "High-cyclic rotary plasma volley spraying continuous white-hot plasma bolts across a 2x2 area.",
       "created_at": "2026-09-05T23:12:36.368543+00:00",
+      "tier": null,
+      "owner": "Designer"
+    },
+    {
+      "id": 685,
+      "name": "Rotated-Grip Advance",
+      "action": "AM",
+      "usage": "2-Enc",
+      "effect": "Rng Medium; Atk 👁️ Dmg d👁️+3; 👣+2; no penalty firing in cramped or confined spaces",
+      "belongs_to": "Weapon: Blaster Rifle",
+      "genres": [
+        "SciFi"
+      ],
+      "notes": "Rotating trigger grip enables underhand or overhand fire while advancing.",
+      "created_at": "2026-10-01T02:31:02.58478+00:00",
       "tier": null,
       "owner": "Designer"
     },
@@ -50997,6 +51699,21 @@
       "owner": "Designer"
     },
     {
+      "id": 715,
+      "name": "Searing Arc",
+      "action": "A",
+      "usage": "1-Enc",
+      "effect": "AoE 1r; Atk 💪 Dmg d💪+5",
+      "belongs_to": "Weapon: Plasma Sword",
+      "genres": [
+        "SciFi"
+      ],
+      "notes": "A wide sweep of the three-foot blade cauterizes multiple foes at once.",
+      "created_at": "2026-10-01T02:31:02.58478+00:00",
+      "tier": null,
+      "owner": "Designer"
+    },
+    {
       "id": 648,
       "name": "Searing Glob",
       "action": "A",
@@ -51025,6 +51742,22 @@
       ],
       "notes": "Heat wave tears through enemy lines, sapping strength.",
       "created_at": "2026-10-01T00:51:31.793349+00:00",
+      "tier": null,
+      "owner": "Designer"
+    },
+    {
+      "id": 703,
+      "name": "Second-Trigger Thump",
+      "action": "P",
+      "usage": "2-Enc",
+      "effect": "Rng Medium; AoE 1r; Atk 👁️ Dmg d👁️+3; 👁️^🏃 or target Prone",
+      "belongs_to": "Weapon: Grenade Launcher, Underbarrel",
+      "genres": [
+        "Modern",
+        "SciFi"
+      ],
+      "notes": "Auxiliary trigger lobs grenades mid-firefight without dropping the host weapon.",
+      "created_at": "2026-10-01T02:31:02.58478+00:00",
       "tier": null,
       "owner": "Designer"
     },
@@ -51322,6 +52055,36 @@
       "owner": "Designer"
     },
     {
+      "id": 722,
+      "name": "Shoulder-Braced Lance",
+      "action": "A",
+      "usage": "2-Enc",
+      "effect": "Rng Extreme; Atk 👁️ Dmg d👁️+5; 👁️^💪 or target Pinned to Ground",
+      "belongs_to": "Weapon: Pulse Laser Carbine (mso)",
+      "genres": [
+        "SciFi"
+      ],
+      "notes": "Bracing the stock stabilizes the emitter for long-range stopping power.",
+      "created_at": "2026-10-01T02:31:02.58478+00:00",
+      "tier": null,
+      "owner": "Designer"
+    },
+    {
+      "id": 696,
+      "name": "Shrieking Scrape",
+      "action": "P",
+      "usage": "2-Enc",
+      "effect": "Rng Medium; Atk 👁️ Dmg d👁️; 👁️^🫀 or target Stunned",
+      "belongs_to": "Weapon: Disk Pistol (mso)",
+      "genres": [
+        "SciFi"
+      ],
+      "notes": "Harsh metal-on-metal report rattles targets, turning a flaw into intimidation.",
+      "created_at": "2026-10-01T02:31:02.58478+00:00",
+      "tier": null,
+      "owner": "Designer"
+    },
+    {
       "id": 659,
       "name": "Siege Quarrel",
       "action": "A",
@@ -51366,6 +52129,21 @@
       ],
       "notes": "The porous sponge ball bounces and rolls to burst beyond the line of sight.",
       "created_at": "2026-10-01T01:45:45.620842+00:00",
+      "tier": null,
+      "owner": "Designer"
+    },
+    {
+      "id": 719,
+      "name": "Skirmisher Burst",
+      "action": "AM",
+      "usage": "2-Enc",
+      "effect": "👣+2; Rng Long; Atk 👁️ Dmg d👁️+3",
+      "belongs_to": "Weapon: Pulse Laser Carbine",
+      "genres": [
+        "SciFi"
+      ],
+      "notes": "Compact frame lets scouts fire accurate pulses while advancing.",
+      "created_at": "2026-10-01T02:31:02.58478+00:00",
       "tier": null,
       "owner": "Designer"
     },
@@ -51537,6 +52315,67 @@
       "owner": "Designer"
     },
     {
+      "id": 724,
+      "name": "Snap Draw",
+      "action": "P",
+      "usage": "1-Enc",
+      "effect": "Rng Short; Atk 👁️ Dmg d👁️; 👁️^🏃 or target Disarmed",
+      "belongs_to": "Weapon: Pulse Laser Pistol",
+      "genres": [
+        "SciFi"
+      ],
+      "notes": "Lightweight sidearm clears holster instantly to blast weapons from hands.",
+      "created_at": "2026-10-01T02:31:02.58478+00:00",
+      "tier": null,
+      "owner": "Designer"
+    },
+    {
+      "id": 707,
+      "name": "Snap-Extend Lunge",
+      "action": "AM",
+      "usage": "1-Enc",
+      "effect": "👣+2; Rng 2; Atk 💪 Dmg d💪+3; 💪^🏃 or target Prone",
+      "belongs_to": "Weapon: Laser Blade (mso)",
+      "genres": [
+        "SciFi"
+      ],
+      "notes": "Emitter flashes from zero to full length mid-lunge, catching foes off-guard.",
+      "created_at": "2026-10-01T02:31:02.58478+00:00",
+      "tier": null,
+      "owner": "Designer"
+    },
+    {
+      "id": 716,
+      "name": "Snap-Ignition Lunge",
+      "action": "AM",
+      "usage": "1-Enc",
+      "effect": "👣+2; Rng 1; Atk 💪 Dmg d💪+3; 💪^🏃 or target Disarmed",
+      "belongs_to": "Weapon: Plasma Sword",
+      "genres": [
+        "SciFi"
+      ],
+      "notes": "Collapsed eight-inch grip ignites mid-lunge, surprising foes and melting weapon hafts.",
+      "created_at": "2026-10-01T02:31:02.58478+00:00",
+      "tier": null,
+      "owner": "Designer"
+    },
+    {
+      "id": 698,
+      "name": "Snap-Lock Stock Deploy",
+      "action": "P",
+      "usage": "1-Rnd",
+      "effect": "👣-4; Atk 👁️+3 Dmg d👁️",
+      "belongs_to": "Weapon: Disk Rifle",
+      "genres": [
+        "Modern",
+        "SciFi"
+      ],
+      "notes": "Folding stock locks instantly, trading mobility for infantry-grade accuracy.",
+      "created_at": "2026-10-01T02:31:02.58478+00:00",
+      "tier": null,
+      "owner": "Designer"
+    },
+    {
       "id": 230,
       "name": "Soap Bubble Wand",
       "action": "A",
@@ -51565,6 +52404,21 @@
       ],
       "notes": "Unleashes a searing burst of solar radiance illuminating the surrounding terrain with brilliant dawn-like light.",
       "created_at": "2026-09-05T16:42:20.075993+00:00",
+      "tier": null,
+      "owner": "Designer"
+    },
+    {
+      "id": 714,
+      "name": "Solar Flare Detonation",
+      "action": "A",
+      "usage": "1-⚡",
+      "effect": "Rng 1r; Atk 💪 Dmg d💪+10; 💪^🫀 or target Poisoned d4 Vit/Rnd",
+      "belongs_to": "Weapon: Plasma Gauntlets",
+      "genres": [
+        "SciFi"
+      ],
+      "notes": "Full circuitry discharge erupts on impact, searing everything nearby with clinging plasma.",
+      "created_at": "2026-10-01T02:31:02.58478+00:00",
       "tier": null,
       "owner": "Designer"
     },
@@ -51772,6 +52626,21 @@
       ],
       "notes": "The Spearof Phalanx is a finely crafted spear with a reinforced wooden shaft and a sharp, steel-tipped head. The spear's design emphasizes both thrusting power and the ability to push opponents back, making it a formidable weapon in close combat.",
       "created_at": "2026-09-03T20:14:29.977879+00:00",
+      "tier": null,
+      "owner": "Designer"
+    },
+    {
+      "id": 705,
+      "name": "Specialty Toxin Canister",
+      "action": "A",
+      "usage": "1-Enc",
+      "effect": "Rng Medium; AoE 2r; Atk 👁️ Dmg d👁️+3; 👁️^🫀 or target Poisoned d4 Vit/Rnd",
+      "belongs_to": "Weapon: Grenade Launcher, Underbarrel (mso)",
+      "genres": [
+        "SciFi"
+      ],
+      "notes": "Chemical specialty grenade blankets an area in a lingering toxic cloud.",
+      "created_at": "2026-10-01T02:31:02.58478+00:00",
       "tier": null,
       "owner": "Designer"
     },
@@ -52300,6 +53169,22 @@
       "owner": "Designer"
     },
     {
+      "id": 697,
+      "name": "Stock-Braced Penetrator Disk",
+      "action": "A",
+      "usage": "2-Enc",
+      "effect": "Rng Long; Atk 👁️ Dmg d👁️+5; ignores cover; 👁️^💪 or target Prone",
+      "belongs_to": "Weapon: Disk Rifle",
+      "genres": [
+        "Modern",
+        "SciFi"
+      ],
+      "notes": "Extended stock stabilizes heavy spinning disks for deep armor penetration.",
+      "created_at": "2026-10-01T02:31:02.58478+00:00",
+      "tier": null,
+      "owner": "Designer"
+    },
+    {
       "id": 256,
       "name": "Stolen Iron Manacles",
       "action": "A",
@@ -52381,6 +53266,21 @@
       ],
       "notes": "Bracers of Strength is engineered with high-durability composite materials for reliable field operations.",
       "created_at": "2026-09-03T20:14:29.977879+00:00",
+      "tier": null,
+      "owner": "Designer"
+    },
+    {
+      "id": 684,
+      "name": "Stun Setting",
+      "action": "A",
+      "usage": "2-Enc",
+      "effect": "Rng Medium; Atk 👁️ Dmg d👁️; 👁️^🫀 or target Stunned",
+      "belongs_to": "Weapon: Blaster Pistol (mso)",
+      "genres": [
+        "SciFi"
+      ],
+      "notes": "Police-issue emitter dial shifts to a disruptive neural-shock discharge.",
+      "created_at": "2026-10-01T02:31:02.58478+00:00",
       "tier": null,
       "owner": "Designer"
     },
@@ -52623,6 +53523,21 @@
       "owner": "Designer"
     },
     {
+      "id": 526,
+      "name": "Talon Snare & Reel",
+      "action": "A",
+      "usage": "1-Enc",
+      "effect": "Rng Short; Atk 🏃 Dmg d🏃 (Dmg is optional); 💪^💪 or target Restrained; pull target 2 sq",
+      "belongs_to": "Weapon: Taoon (mso)",
+      "genres": [
+        "SciFi"
+      ],
+      "notes": "Spring-loaded talons clamp shut on impact, allowing the wielder to snare and haul the target via retrieval cord.",
+      "created_at": "2026-09-05T23:12:36.368543+00:00",
+      "tier": null,
+      "owner": "Designer"
+    },
+    {
       "id": 572,
       "name": "Talon Snare & Reel",
       "action": "A",
@@ -52636,21 +53551,6 @@
       ],
       "notes": "Tethered cord lets the wielder reel in a snared victim.",
       "created_at": "2026-10-01T00:51:31.793349+00:00",
-      "tier": null,
-      "owner": "Designer"
-    },
-    {
-      "id": 526,
-      "name": "Talon Snare & Reel",
-      "action": "A",
-      "usage": "1-Enc",
-      "effect": "Rng Short; Atk 🏃 Dmg d🏃 (Dmg is optional); 💪^💪 or target Restrained; pull target 2 sq",
-      "belongs_to": "Weapon: Taoon (mso)",
-      "genres": [
-        "SciFi"
-      ],
-      "notes": "Spring-loaded talons clamp shut on impact, allowing the wielder to snare and haul the target via retrieval cord.",
-      "created_at": "2026-09-05T23:12:36.368543+00:00",
       "tier": null,
       "owner": "Designer"
     },
@@ -52891,6 +53791,22 @@
       ],
       "notes": "Short-range thermal vision sweep granting +2 on 👁️ Perception check against concealed targets.",
       "created_at": "2026-09-05T16:42:17.767141+00:00",
+      "tier": null,
+      "owner": "Designer"
+    },
+    {
+      "id": 746,
+      "name": "Thermite Firestorm",
+      "action": "A",
+      "usage": "1-Enc",
+      "effect": "Rng Short; AoE 1r; Atk 🏃 Dmg d🏃+5; 🏃^🫀 or target d4 burns/Rnd",
+      "belongs_to": "Weapon: Thermite Grenades",
+      "genres": [
+        "Modern",
+        "SciFi"
+      ],
+      "notes": "Searing thermite melts armor and fortifications, leaving survivors scorched and weakened.",
+      "created_at": "2026-10-01T02:31:02.754446+00:00",
       "tier": null,
       "owner": "Designer"
     },
@@ -53225,6 +54141,23 @@
       "owner": "Designer"
     },
     {
+      "id": 747,
+      "name": "Triple-Blade Rend",
+      "action": "A",
+      "usage": "2-Enc",
+      "effect": "Rng 1; Atk 💪 Dmg d💪+5; 💪^🫀 or target Weakened",
+      "belongs_to": "Weapon: Warrior Claws",
+      "genres": [
+        "Medieval",
+        "Modern",
+        "SciFi"
+      ],
+      "notes": "Three blades slash and stab in one motion, shredding flesh and defenses.",
+      "created_at": "2026-10-01T02:31:02.754446+00:00",
+      "tier": null,
+      "owner": "Designer"
+    },
+    {
       "id": 463,
       "name": "Tungsten Harpoon Shot (mso)",
       "action": "A",
@@ -53236,6 +54169,21 @@
       ],
       "notes": "Heavy barbed drill dealing grievous continuous damage.",
       "created_at": "2026-09-05T16:42:21.761752+00:00",
+      "tier": null,
+      "owner": "Designer"
+    },
+    {
+      "id": 700,
+      "name": "Twin-Beam Glare",
+      "action": "P",
+      "usage": "2-Enc",
+      "effect": "Hands-free; Rng Medium; Atk 👁️ Dmg d👁️+3; 👁️^🫀 or target Blinded",
+      "belongs_to": "Weapon: Eye-Laser",
+      "genres": [
+        "SciFi"
+      ],
+      "notes": "Eye-tracking optics snap dual emitters onto target with a mere glance.",
+      "created_at": "2026-10-01T02:31:02.58478+00:00",
       "tier": null,
       "owner": "Designer"
     },
@@ -53383,6 +54331,22 @@
       "owner": "Designer"
     },
     {
+      "id": 689,
+      "name": "Venom Bloom",
+      "action": "A",
+      "usage": "2-Enc",
+      "effect": "Rng Medium; Atk 🏃 Dmg d🏃+3; AoE 2r; 🏃^🫀 or target Poisoned d4 Vit/Rnd",
+      "belongs_to": "Weapon: Botanic Grenades",
+      "genres": [
+        "Modern",
+        "SciFi"
+      ],
+      "notes": "Yellow toxic spores choke an area, seeping venom into every lung.",
+      "created_at": "2026-10-01T02:31:02.58478+00:00",
+      "tier": null,
+      "owner": "Designer"
+    },
+    {
       "id": 663,
       "name": "Verdant Mending Arrow",
       "action": "A",
@@ -53400,6 +54364,22 @@
       "owner": "Designer"
     },
     {
+      "id": 690,
+      "name": "Verdant Mending Burst",
+      "action": "M",
+      "usage": "1-Enc",
+      "effect": "Rng Short; AoE 1r; allies within regain d🏃+5 Vit",
+      "belongs_to": "Weapon: Botanic Grenades",
+      "genres": [
+        "Modern",
+        "SciFi"
+      ],
+      "notes": "Green bioluminescent spores drift onto allies, knitting wounds closed mid-battle.",
+      "created_at": "2026-10-01T02:31:02.58478+00:00",
+      "tier": null,
+      "owner": "Designer"
+    },
+    {
       "id": 420,
       "name": "Vertical Levitation Drift (mso)",
       "action": "P",
@@ -53411,6 +54391,21 @@
       ],
       "notes": "Negates gravitational pull to drift vertically upward or downward at 👣 5.",
       "created_at": "2026-09-05T16:42:20.393319+00:00",
+      "tier": null,
+      "owner": "Designer"
+    },
+    {
+      "id": 730,
+      "name": "Veteran's Calibration",
+      "action": "M",
+      "usage": "1-Rnd",
+      "effect": "Rng Long; Atk 👁️ Dmg d👁️+3; ignore cover",
+      "belongs_to": "Weapon: Pulse Laser Rifle (mso)",
+      "genres": [
+        "SciFi"
+      ],
+      "notes": "Field-reliable optics auto-calibrate focus for steady, cover-piercing shots.",
+      "created_at": "2026-10-01T02:31:02.754446+00:00",
       "tier": null,
       "owner": "Designer"
     },
@@ -53713,6 +54708,36 @@
       "owner": "Designer"
     },
     {
+      "id": 741,
+      "name": "Whisper Bolt",
+      "action": "A",
+      "usage": "2-Enc",
+      "effect": "Rng Short; Atk 👁️ Dmg d👁️+5 vs unaware target; shot is silent and does not reveal the shooter's position; 👁️^🫀 or target Silenced",
+      "belongs_to": "Weapon: Silenced Plasma Pistol",
+      "genres": [
+        "SciFi"
+      ],
+      "notes": "Damped plasma discharge drops sentries before they can raise an alarm.",
+      "created_at": "2026-10-01T02:31:02.754446+00:00",
+      "tier": null,
+      "owner": "Designer"
+    },
+    {
+      "id": 723,
+      "name": "Whisper Pop",
+      "action": "A",
+      "usage": "2-Enc",
+      "effect": "Rng Short; Atk 👁️ Dmg d👁️+5 vs unaware target; shot does not reveal your position; 👁️^🫀 or target Silenced",
+      "belongs_to": "Weapon: Pulse Laser Pistol",
+      "genres": [
+        "SciFi"
+      ],
+      "notes": "Near-silent beam pop lets assassins drop targets before alarms sound.",
+      "created_at": "2026-10-01T02:31:02.58478+00:00",
+      "tier": null,
+      "owner": "Designer"
+    },
+    {
       "id": 290,
       "name": "Whisper Stone",
       "action": "P",
@@ -53756,6 +54781,21 @@
       ],
       "notes": "White-phosphorous incendiary barrage igniting sustained burns.",
       "created_at": "2026-09-05T16:42:21.321771+00:00",
+      "tier": null,
+      "owner": "Designer"
+    },
+    {
+      "id": 712,
+      "name": "Wide-Field Phase Burst",
+      "action": "A",
+      "usage": "1-⚡",
+      "effect": "Rng Medium; AoE 2r; Atk 👁️ Dmg d👁️+5; 👁️^🫀 or target Blinded",
+      "belongs_to": "Weapon: Phase Rifle",
+      "genres": [
+        "SciFi"
+      ],
+      "notes": "Accumulated cell charge vents as a dispersed, luminescent area pulse.",
+      "created_at": "2026-10-01T02:31:02.58478+00:00",
       "tier": null,
       "owner": "Designer"
     },
@@ -53905,6 +54945,36 @@
       ],
       "notes": "Zephyr Feather is engineered with high-durability composite materials for reliable field operations.",
       "created_at": "2026-09-03T20:14:29.977879+00:00",
+      "tier": null,
+      "owner": "Designer"
+    },
+    {
+      "id": 721,
+      "name": "Zin-Shee Fade-Fire",
+      "action": "A",
+      "usage": "1-Enc",
+      "effect": "Rng Long; Atk 👁️ Dmg d👁️; target 👣-4",
+      "belongs_to": "Weapon: Pulse Laser Carbine (mso)",
+      "genres": [
+        "SciFi"
+      ],
+      "notes": "Zin-Shee skirmisher doctrine: strike once, then vanish into cover.",
+      "created_at": "2026-10-01T02:31:02.58478+00:00",
+      "tier": null,
+      "owner": "Designer"
+    },
+    {
+      "id": 738,
+      "name": "Zin-Shee Return Arc",
+      "action": "A",
+      "usage": "1-Enc",
+      "effect": "Rng Medium; Atk 🏃 Dmg d🏃; on return flight strike second target: Atk 🏃 Dmg d🏃",
+      "belongs_to": "Weapon: Shirrac (mso)",
+      "genres": [
+        "SciFi"
+      ],
+      "notes": "The antigrav field retraces the flight path, slicing anyone along the return arc.",
+      "created_at": "2026-10-01T02:31:02.754446+00:00",
       "tier": null,
       "owner": "Designer"
     },
