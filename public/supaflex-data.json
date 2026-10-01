@@ -43249,6 +43249,22 @@
       "owner": "Designer"
     },
     {
+      "id": 556,
+      "name": "Aether Burst Throw",
+      "action": "A",
+      "usage": "2-Enc",
+      "effect": "Rng Short; Atk 🏃 Dmg d🏃; AoE 1r at impact; ✨^🫀 or target Blinded",
+      "belongs_to": "Weapon: Energy Dagger",
+      "genres": [
+        "Modern",
+        "SciFi"
+      ],
+      "notes": "Thrown conduit releases blinding Aether flash on impact.",
+      "created_at": "2026-10-01T00:51:31.793349+00:00",
+      "tier": null,
+      "owner": "Designer"
+    },
+    {
       "id": 424,
       "name": "Amnestic Memory Wipe (mso)",
       "action": "P",
@@ -43401,6 +43417,38 @@
       ],
       "notes": "Dormant ambush missile launching upon proximity detection.",
       "created_at": "2026-09-05T16:42:21.984133+00:00",
+      "tier": null,
+      "owner": "Designer"
+    },
+    {
+      "id": 549,
+      "name": "Assassin's Flick",
+      "action": "A",
+      "usage": "1-Enc",
+      "effect": "Rng Short; Atk 🏃 Dmg d🏃",
+      "belongs_to": "Weapon: Dagger",
+      "genres": [
+        "Medieval",
+        "Modern",
+        "SciFi"
+      ],
+      "notes": "Balanced double edge flies true from wrist or belt.",
+      "created_at": "2026-10-01T00:51:31.793349+00:00",
+      "tier": null,
+      "owner": "Designer"
+    },
+    {
+      "id": 551,
+      "name": "Assassin's Vein Strike",
+      "action": "A",
+      "usage": "2-Enc",
+      "effect": "Atk 🏃 Dmg d🏃+2; 🫀^🫀 or target Poisoned d4/Rnd",
+      "belongs_to": "Weapon: Dagger (mso)",
+      "genres": [
+        "SciFi"
+      ],
+      "notes": "Poison-enhanced killing blow; assassin tradition of ancient Url.",
+      "created_at": "2026-10-01T00:51:31.793349+00:00",
       "tier": null,
       "owner": "Designer"
     },
@@ -43683,6 +43731,23 @@
       "owner": "Designer"
     },
     {
+      "id": 541,
+      "name": "Bind & Wrench",
+      "action": "A",
+      "usage": "2-Enc",
+      "effect": "Atk 💪 Dmg d💪 (Dmg is optional); 💪^💪 or target Disarmed",
+      "belongs_to": "Weapon: Bastard Sword",
+      "genres": [
+        "Medieval",
+        "Modern",
+        "SciFi"
+      ],
+      "notes": "Long grip and crossguard bind foes' blades and twist them free.",
+      "created_at": "2026-10-01T00:51:31.793349+00:00",
+      "tier": null,
+      "owner": "Designer"
+    },
+    {
       "id": 358,
       "name": "Bioluminescent Fungal Culture (mso)",
       "action": "P",
@@ -43740,6 +43805,23 @@
       ],
       "notes": "The Blur Band is a compact yet formidable piece of technology designed to alter the user’s physical presence within the surrounding environment. Resembling a heavy, wide, flat choker worn around the neck, it generates a powerful field of dimensional flux when activated. This field causes the wearer to phase in and out of the current dimension, displacing them slightly with each shift. The resulting effect makes the wearer appear as a blur, constantly shifting positions and making it exceedingly difficult for others to pinpoint their exact location. However, this dimensional instability also reduces the precision of the wearer’s own movements, complicating tasks that require fine motor control.\nVisually, the Blur Band is an intriguing blend of sleek design and raw, unrefined power. Its surface is matte, with a dark, metallic finish that seems to absorb light rather than reflect it. When activated, the band emits a subtle, shimmering aura that distorts the air around it, as if the very fabric of reality is being bent and twisted. The wearer’s outline becomes hazy, flickering in and out of focus as they phase between locations. This constant shifting gives the impression of multiple overlapping images, each slightly out of sync, creating a mesmerizing and somewhat disorienting visual spectacle. The effect is both fascinating and unsettling, as the wearer seems to exist in multiple places at once, their presence never fully solidified.\nUnleash the chaos of the Blur Band and become an elusive phantom on the battlefield, where your enemies will struggle to hit what they cannot see, while you strike with the relentless fury of a storm.\nEffects\n\\-- Wearer rapidly phases in/out of dimension.\n\\-- Makes tasks like grabbing nearly impossible.\n\\-- For save each Rnd; failure causes phase sickness (i.e., phasing must end, feel terrible, greatly reduced MR until more difficult For() succeeds.",
       "created_at": "2026-09-03T20:14:29.977879+00:00",
+      "tier": null,
+      "owner": "Designer"
+    },
+    {
+      "id": 570,
+      "name": "Boarding Blade Bind & Strip",
+      "action": "A",
+      "usage": "2-Enc",
+      "effect": "Atk 💪 Dmg d💪 (Dmg is optional); 💪^💪 or target Disarmed",
+      "belongs_to": "Weapon: Sword, Weapon: Sword (mso)",
+      "genres": [
+        "Medieval",
+        "Modern",
+        "SciFi"
+      ],
+      "notes": "Controlled close-quarters disarm avoids collateral damage during ship-boarding.",
+      "created_at": "2026-10-01T00:51:31.793349+00:00",
       "tier": null,
       "owner": "Designer"
     },
@@ -44263,6 +44345,23 @@
       "owner": "Designer"
     },
     {
+      "id": 548,
+      "name": "Clinch & Stab",
+      "action": "A",
+      "usage": "2-Enc",
+      "effect": "Atk 💪 Dmg d💪 (Dmg is optional); 💪^💪 or target Restrained",
+      "belongs_to": "Weapon: Dagger",
+      "genres": [
+        "Medieval",
+        "Modern",
+        "SciFi"
+      ],
+      "notes": "Short blade excels in close grappling and pinning holds.",
+      "created_at": "2026-10-01T00:51:31.793349+00:00",
+      "tier": null,
+      "owner": "Designer"
+    },
+    {
       "id": 80,
       "name": "Clockwork [Weapon]",
       "action": "A",
@@ -44437,6 +44536,23 @@
       "owner": "Designer"
     },
     {
+      "id": 557,
+      "name": "Coruscating Arc Sweep",
+      "action": "A",
+      "usage": "2-Enc",
+      "effect": "AoE 1r centered on self (excludes allies); Atk 💪 Dmg d💪",
+      "belongs_to": "Weapon: Focus Blade",
+      "genres": [
+        "Medieval",
+        "Modern",
+        "SciFi"
+      ],
+      "notes": "Imprinted five-foot energy blade sweeps all adjacent foes.",
+      "created_at": "2026-10-01T00:51:31.793349+00:00",
+      "tier": null,
+      "owner": "Designer"
+    },
+    {
       "id": 518,
       "name": "Coruscating Arcane Strike",
       "action": "A",
@@ -44495,6 +44611,40 @@
       ],
       "notes": "Uses the kray's crescent curves and barbed flanges to hook and pin the opponent.",
       "created_at": "2026-09-05T23:12:36.368543+00:00",
+      "tier": null,
+      "owner": "Designer"
+    },
+    {
+      "id": 575,
+      "name": "Crescent Pin & Restrain",
+      "action": "A",
+      "usage": "2-Enc",
+      "effect": "Atk 💪 Dmg d💪 (Dmg is optional); 💪^💪 or target Restrained",
+      "belongs_to": "Weapon: War-Crescent",
+      "genres": [
+        "Medieval",
+        "Modern",
+        "SciFi"
+      ],
+      "notes": "Flanges hook and pin; schools teach non-lethal duel control.",
+      "created_at": "2026-10-01T00:51:31.793349+00:00",
+      "tier": null,
+      "owner": "Designer"
+    },
+    {
+      "id": 542,
+      "name": "Crimson Siphon",
+      "action": "A",
+      "usage": "1-⚡",
+      "effect": "Atk 💪 Dmg d💪; restore Vit equal to Dmg dealt",
+      "belongs_to": "Weapon: Bloodblade",
+      "genres": [
+        "Medieval",
+        "Modern",
+        "SciFi"
+      ],
+      "notes": "Vein-runed blade drains the victim's life into the wielder.",
+      "created_at": "2026-10-01T00:51:31.793349+00:00",
       "tier": null,
       "owner": "Designer"
     },
@@ -45163,6 +45313,23 @@
       ],
       "notes": "Cloak of Endless Steps is engineered with high-durability composite materials for reliable field operations.",
       "created_at": "2026-09-03T20:14:29.977879+00:00",
+      "tier": null,
+      "owner": "Designer"
+    },
+    {
+      "id": 550,
+      "name": "Envenomed Cast",
+      "action": "A",
+      "usage": "2-Enc",
+      "effect": "Requires envenomed blade; Rng Short; Atk 🏃 Dmg d🏃; 🫀^🫀 or target Poisoned d4/Rnd",
+      "belongs_to": "Weapon: Dagger",
+      "genres": [
+        "Medieval",
+        "Modern",
+        "SciFi"
+      ],
+      "notes": "Coated thrown blade delivers quiet, toxic elimination.",
+      "created_at": "2026-10-01T00:51:31.793349+00:00",
       "tier": null,
       "owner": "Designer"
     },
@@ -46070,6 +46237,40 @@
       "owner": "Designer"
     },
     {
+      "id": 567,
+      "name": "Guard-Break Stab",
+      "action": "A",
+      "usage": "1-Enc",
+      "effect": "Atk 💪 Dmg d💪; 💪^💪 or target Disarmed",
+      "belongs_to": "Weapon: Short Sword",
+      "genres": [
+        "Medieval",
+        "Modern",
+        "SciFi"
+      ],
+      "notes": "Short blade slips inside guard to strip weapons.",
+      "created_at": "2026-10-01T00:51:31.793349+00:00",
+      "tier": null,
+      "owner": "Designer"
+    },
+    {
+      "id": 559,
+      "name": "Guard-Breaker Bind",
+      "action": "A",
+      "usage": "2-Enc",
+      "effect": "Atk 💪 Dmg d💪 (Dmg is optional); 💪^💪 or target Disarmed",
+      "belongs_to": "Weapon: Javelin-Sword",
+      "genres": [
+        "Medieval",
+        "Modern",
+        "SciFi"
+      ],
+      "notes": "Full sword binds and strips the foe's weapon.",
+      "created_at": "2026-10-01T00:51:31.793349+00:00",
+      "tier": null,
+      "owner": "Designer"
+    },
+    {
       "id": 131,
       "name": "Gust Stone",
       "action": "P",
@@ -46114,6 +46315,55 @@
       ],
       "notes": "Counter-rotational gyroscopes counteract recoil and sway, granting +2 on Shot Attack rolls.",
       "created_at": "2026-09-05T16:42:19.571416+00:00",
+      "tier": null,
+      "owner": "Designer"
+    },
+    {
+      "id": 561,
+      "name": "Half-Sword Bind",
+      "action": "A",
+      "usage": "2-Enc",
+      "effect": "Atk 💪; 💪^💪 or target Disarmed; or 💪^🏃 or target Prone",
+      "belongs_to": "Weapon: Longsword",
+      "genres": [
+        "Medieval",
+        "Modern",
+        "SciFi"
+      ],
+      "notes": "Gripped blade levers foes off balance or out of arms.",
+      "created_at": "2026-10-01T00:51:31.793349+00:00",
+      "tier": null,
+      "owner": "Designer"
+    },
+    {
+      "id": 554,
+      "name": "Hamstring Toss",
+      "action": "P",
+      "usage": "2-Enc",
+      "effect": "Rng Short; Atk 🏃 Dmg d🏃; 🏃^🏃 or target Prone & 👣-4",
+      "belongs_to": "Weapon: Dagger (mso)",
+      "genres": [
+        "SciFi"
+      ],
+      "notes": "Low throw to the leg drops fleeing marks.",
+      "created_at": "2026-10-01T00:51:31.793349+00:00",
+      "tier": null,
+      "owner": "Designer"
+    },
+    {
+      "id": 540,
+      "name": "Hand-and-a-Half Cleave",
+      "action": "A",
+      "usage": "1-Enc",
+      "effect": "Atk 💪 Dmg d💪+2",
+      "belongs_to": "Weapon: Bastard Sword",
+      "genres": [
+        "Medieval",
+        "Modern",
+        "SciFi"
+      ],
+      "notes": "Two-handed grip shift adds crushing leverage to the stroke.",
+      "created_at": "2026-10-01T00:51:31.793349+00:00",
       "tier": null,
       "owner": "Designer"
     },
@@ -46336,6 +46586,23 @@
       "owner": "Designer"
     },
     {
+      "id": 560,
+      "name": "Hidden Mass-Driver Bolt",
+      "action": "P",
+      "usage": "1-Enc",
+      "effect": "Rng Medium; Atk 👁️ Dmg d👁️; reload is complete action",
+      "belongs_to": "Weapon: Javelin-Sword",
+      "genres": [
+        "Medieval",
+        "Modern",
+        "SciFi"
+      ],
+      "notes": "Surprise bolt from the tip punishes those expecting a sword.",
+      "created_at": "2026-10-01T00:51:31.793349+00:00",
+      "tier": null,
+      "owner": "Designer"
+    },
+    {
       "id": 136,
       "name": "Higgs Band",
       "action": "P",
@@ -46378,6 +46645,23 @@
       ],
       "notes": "Industrial-strength tensile polymer web pinning targets.",
       "created_at": "2026-09-05T16:42:21.511233+00:00",
+      "tier": null,
+      "owner": "Designer"
+    },
+    {
+      "id": 543,
+      "name": "Highland Sweeping Arc",
+      "action": "A",
+      "usage": "2-Enc",
+      "effect": "AoE 3r centered on self; Atk 💪 Dmg d💪",
+      "belongs_to": "Weapon: Claymore",
+      "genres": [
+        "Medieval",
+        "Modern",
+        "SciFi"
+      ],
+      "notes": "Massive reach lets a full spin clear every adjacent foe.",
+      "created_at": "2026-10-01T00:51:31.793349+00:00",
       "tier": null,
       "owner": "Designer"
     },
@@ -47027,6 +47311,23 @@
       "owner": "Designer"
     },
     {
+      "id": 574,
+      "name": "Jagged Flick Throw",
+      "action": "P",
+      "usage": "1-Enc",
+      "effect": "Rng Short; Atk 🏃 Dmg d🏃",
+      "belongs_to": "Weapon: Toothed Dagger",
+      "genres": [
+        "Medieval",
+        "Modern",
+        "SciFi"
+      ],
+      "notes": "Compact, quick-draw blade is balanced for a fast thrown strike.",
+      "created_at": "2026-10-01T00:51:31.793349+00:00",
+      "tier": null,
+      "owner": "Designer"
+    },
+    {
       "id": 483,
       "name": "Joc-Tun Neuro-Paralysis (mso)",
       "action": "A",
@@ -47430,6 +47731,23 @@
       "owner": "Designer"
     },
     {
+      "id": 562,
+      "name": "Lunging Riposte",
+      "action": "AM",
+      "usage": "1-Enc",
+      "effect": "👣+2; Atk 💪 Dmg d💪+2",
+      "belongs_to": "Weapon: Longsword",
+      "genres": [
+        "Medieval",
+        "Modern",
+        "SciFi"
+      ],
+      "notes": "Durable composite reach drives a committed, long lunge.",
+      "created_at": "2026-10-01T00:51:31.793349+00:00",
+      "tier": null,
+      "owner": "Designer"
+    },
+    {
       "id": 162,
       "name": "Magnet Ring",
       "action": "M",
@@ -47684,6 +48002,22 @@
       "owner": "Designer"
     },
     {
+      "id": 568,
+      "name": "Mind-Launched Seeker Blade",
+      "action": "P",
+      "usage": "2-Enc",
+      "effect": "Rng Medium; Atk 💪 Dmg d💪; ignore cover; retrieve blade as M",
+      "belongs_to": "Weapon: Shoulder-Blades",
+      "genres": [
+        "Modern",
+        "SciFi"
+      ],
+      "notes": "Mental command launches tracking blade around obstacles.",
+      "created_at": "2026-10-01T00:51:31.793349+00:00",
+      "tier": null,
+      "owner": "Designer"
+    },
+    {
       "id": 169,
       "name": "Mindstone Charm",
       "action": "P",
@@ -47891,6 +48225,21 @@
       ],
       "notes": "Focused acoustic blast destabilizing molecular lattices, degrading the target's armor rating on wounding impact.",
       "created_at": "2026-09-05T23:12:36.368543+00:00",
+      "tier": null,
+      "owner": "Designer"
+    },
+    {
+      "id": 563,
+      "name": "Mono-Molecular Silent Takedown",
+      "action": "A",
+      "usage": "2-Enc",
+      "effect": "Atk 🏃 Dmg d🏃+2; ignore target armor; strike silent, Stealth unbroken",
+      "belongs_to": "Weapon: Nano-Blade",
+      "genres": [
+        "SciFi"
+      ],
+      "notes": "Invisible mono-edge slices armor without a sound.",
+      "created_at": "2026-10-01T00:51:31.793349+00:00",
       "tier": null,
       "owner": "Designer"
     },
@@ -48210,6 +48559,23 @@
       "owner": "Designer"
     },
     {
+      "id": 544,
+      "name": "Overhead Fell Stroke",
+      "action": "A",
+      "usage": "2-Enc",
+      "effect": "Atk 💪 Dmg d💪; 💪^🏃 or target Prone",
+      "belongs_to": "Weapon: Claymore",
+      "genres": [
+        "Medieval",
+        "Modern",
+        "SciFi"
+      ],
+      "notes": "Descending greatsword blow hammers targets off their feet.",
+      "created_at": "2026-10-01T00:51:31.793349+00:00",
+      "tier": null,
+      "owner": "Designer"
+    },
+    {
       "id": 482,
       "name": "Paralytic Venom (mso)",
       "action": "A",
@@ -48313,6 +48679,22 @@
       ],
       "notes": "The PhaseStrider is an advanced set of cybernetic bands worn on the arms and legs, designed to significantly enhance the wearer’s movement speed by utilizing short-range teleportation. When activated, these bands enable the wearer to take a step and instantly teleport two paces ahead, effectively doubling their movement rate (MR). This rapid, blink-like movement allows for swift traversal of terrain, making the PhaseStrider an invaluable tool for those who need to cover ground quickly. However, the teleportations are too short and irregular to phase through solid objects, and are strictly limited to doubling the wearer's stride.\nVisually, the PhaseStrider bands are sleek and metallic, with a design that suggests both power and precision. When activated, they emit a strong, almost palpable hum, a sound that can be heard from a considerable distance, signaling their use. The bands pulse with a faint light, synchronized with each teleportation, creating a strobe-like effect as the wearer rapidly shifts forward. The experience of using the PhaseStrider is both exhilarating and disorienting, as the world blurs with each step, and the wearer seemingly leaps forward in an instant. Despite their incredible utility, the PhaseStriders come with a significant drawback: the erratic nature of the teleportations causes small but cumulative molecular damage to the body, resulting in a 2nd-degree wound for every round they are used. This makes the PhaseStrider a tool of both power and risk, demanding careful consideration before each use.\nHarness the speed of the PhaseStrider and leave your enemies in the dust, but beware the cost, as every step forward brings both unmatched swiftness and the creeping toll of molecular strain.\nEffects\n\\-- Arm/leg bands that greatly speeds up MR by mini-teleports with each step.\n\\-- Cannot teleport through solid objects\n\\-- Unlimited use but loud humming noise.\n\\-- Causes 2nd Deg Wnds per Rnd due to molecular damage.",
       "created_at": "2026-09-03T20:14:29.977879+00:00",
+      "tier": null,
+      "owner": "Designer"
+    },
+    {
+      "id": 555,
+      "name": "Phasing Thrust",
+      "action": "A",
+      "usage": "2-Enc",
+      "effect": "Atk 🏃 Dmg d🏃; ignores armor & barriers",
+      "belongs_to": "Weapon: Energy Dagger",
+      "genres": [
+        "Modern",
+        "SciFi"
+      ],
+      "notes": "Intangible blade phases through defenses for unavoidable wounds.",
+      "created_at": "2026-10-01T00:51:31.793349+00:00",
       "tier": null,
       "owner": "Designer"
     },
@@ -49047,6 +49429,40 @@
       "owner": "Designer"
     },
     {
+      "id": 576,
+      "name": "Reaping Arc",
+      "action": "A",
+      "usage": "2-Enc",
+      "effect": "AoE 1r; Atk 💪 Dmg d💪",
+      "belongs_to": "Weapon: WarScythe",
+      "genres": [
+        "Medieval",
+        "Modern",
+        "SciFi"
+      ],
+      "notes": "Heavy composite blade sweeps a full circle, cutting all adjacent foes.",
+      "created_at": "2026-10-01T00:51:31.793349+00:00",
+      "tier": null,
+      "owner": "Designer"
+    },
+    {
+      "id": 569,
+      "name": "Reaping Hook Sweep",
+      "action": "A",
+      "usage": "2-Enc",
+      "effect": "Atk 💪 Dmg d💪 (Dmg is optional); 💪^🏃 or target Prone",
+      "belongs_to": "Weapon: Sickle",
+      "genres": [
+        "Medieval",
+        "Modern",
+        "SciFi"
+      ],
+      "notes": "Hooked crescent catches ankles, reaping foes off their feet.",
+      "created_at": "2026-10-01T00:51:31.793349+00:00",
+      "tier": null,
+      "owner": "Designer"
+    },
+    {
       "id": 208,
       "name": "Red Dot Scope",
       "action": "F",
@@ -49219,6 +49635,23 @@
       "owner": "Designer"
     },
     {
+      "id": 573,
+      "name": "Sawtooth Withdrawal Rip",
+      "action": "A",
+      "usage": "2-Enc",
+      "effect": "Atk 💪 Dmg d💪; 💪^🫀 or target Weakened",
+      "belongs_to": "Weapon: Toothed Dagger",
+      "genres": [
+        "Medieval",
+        "Modern",
+        "SciFi"
+      ],
+      "notes": "Jagged edge tears flesh on withdrawal; cuts twice, in and out.",
+      "created_at": "2026-10-01T00:51:31.793349+00:00",
+      "tier": null,
+      "owner": "Designer"
+    },
+    {
       "id": 214,
       "name": "Scarf of Warmth",
       "action": "F",
@@ -49315,6 +49748,21 @@
       "owner": "Designer"
     },
     {
+      "id": 558,
+      "name": "Searing Line Cleave",
+      "action": "A",
+      "usage": "2-Enc",
+      "effect": "1x3 path; Atk 💪 Dmg d💪+2; 💪^🫀 or target Weakened",
+      "belongs_to": "Weapon: Inferno Blade",
+      "genres": [
+        "SciFi"
+      ],
+      "notes": "Heat wave tears through enemy lines, sapping strength.",
+      "created_at": "2026-10-01T00:51:31.793349+00:00",
+      "tier": null,
+      "owner": "Designer"
+    },
+    {
       "id": 327,
       "name": "Security Network Breach (mso)",
       "action": "P",
@@ -49360,6 +49808,22 @@
       "owner": "Designer"
     },
     {
+      "id": 545,
+      "name": "Serrated Edge Rip",
+      "action": "A",
+      "usage": "2-Enc",
+      "effect": "Atk 💪 Dmg d💪+1",
+      "belongs_to": "Weapon: Combat Knife, Weapon: Combat Knife (mso)",
+      "genres": [
+        "Modern",
+        "SciFi"
+      ],
+      "notes": "Stab, then saw out along the serrated spine.",
+      "created_at": "2026-10-01T00:51:31.793349+00:00",
+      "tier": null,
+      "owner": "Designer"
+    },
+    {
       "id": 485,
       "name": "Setchie Coma Dose (mso)",
       "action": "A",
@@ -49371,6 +49835,21 @@
       ],
       "notes": "High-yield Setchie narcotic inducing comatose sleep.",
       "created_at": "2026-09-05T16:42:22.458437+00:00",
+      "tier": null,
+      "owner": "Designer"
+    },
+    {
+      "id": 552,
+      "name": "Shadow Slip Stab",
+      "action": "AM",
+      "usage": "1-Enc",
+      "effect": "👣+2; Atk 🏃 Dmg d🏃",
+      "belongs_to": "Weapon: Dagger (mso)",
+      "genres": [
+        "SciFi"
+      ],
+      "notes": "Concealed blade closes distance and strikes in one fluid motion.",
+      "created_at": "2026-10-01T00:51:31.793349+00:00",
       "tier": null,
       "owner": "Designer"
     },
@@ -49505,6 +49984,38 @@
       ],
       "notes": "The Shoes of Silence are crafted from supple, dark leather with a seamless, rubber-like soles that absorb sound. Their surface is etched with faint, glowing runes that pulse softly with each step, ensuring the wearer moves without a whisper.",
       "created_at": "2026-09-03T20:14:29.977879+00:00",
+      "tier": null,
+      "owner": "Designer"
+    },
+    {
+      "id": 553,
+      "name": "Silent Flick Throw",
+      "action": "P",
+      "usage": "1-Enc",
+      "effect": "Rng Short; Atk 🏃 Dmg d🏃",
+      "belongs_to": "Weapon: Dagger (mso)",
+      "genres": [
+        "SciFi"
+      ],
+      "notes": "Quick, quiet throw from concealment; thief's efficient kill.",
+      "created_at": "2026-10-01T00:51:31.793349+00:00",
+      "tier": null,
+      "owner": "Designer"
+    },
+    {
+      "id": 547,
+      "name": "Sleeve-Draw Thrust",
+      "action": "A",
+      "usage": "1-Enc",
+      "effect": "Draw dagger F; Atk 🏃+5 Dmg d💪+2",
+      "belongs_to": "Weapon: Dagger",
+      "genres": [
+        "Medieval",
+        "Modern",
+        "SciFi"
+      ],
+      "notes": "Concealed blade draws and strikes in one lethal motion.",
+      "created_at": "2026-10-01T00:51:31.793349+00:00",
       "tier": null,
       "owner": "Designer"
     },
@@ -50530,6 +51041,23 @@
       "owner": "Designer"
     },
     {
+      "id": 566,
+      "name": "Sweeping Crescent Arc",
+      "action": "A",
+      "usage": "2-Enc",
+      "effect": "AoE 3r centered on self; Atk 💪 Dmg d💪 vs each foe",
+      "belongs_to": "Weapon: Scimitar",
+      "genres": [
+        "Medieval",
+        "Modern",
+        "SciFi"
+      ],
+      "notes": "Curved edge carves a full circle through surrounding foes.",
+      "created_at": "2026-10-01T00:51:31.793349+00:00",
+      "tier": null,
+      "owner": "Designer"
+    },
+    {
       "id": 371,
       "name": "Symbiotic Tube-Worm Feed (mso)",
       "action": "P",
@@ -50556,6 +51084,40 @@
       ],
       "notes": "Entangles two spatial markers, allowing instant teleportation between their locations.",
       "created_at": "2026-09-05T16:42:19.256527+00:00",
+      "tier": null,
+      "owner": "Designer"
+    },
+    {
+      "id": 571,
+      "name": "Talon Barb Lock",
+      "action": "A",
+      "usage": "2-Enc",
+      "effect": "Rng 2; Atk 💪 Dmg d💪 (Dmg is optional); 💪^💪 or target Restrained",
+      "belongs_to": "Weapon: Talon-Spear",
+      "genres": [
+        "Medieval",
+        "Modern",
+        "SciFi"
+      ],
+      "notes": "Spring-set talons clamp shut on impact, pinning the foe at reach.",
+      "created_at": "2026-10-01T00:51:31.793349+00:00",
+      "tier": null,
+      "owner": "Designer"
+    },
+    {
+      "id": 572,
+      "name": "Talon Snare & Reel",
+      "action": "A",
+      "usage": "2-Enc",
+      "effect": "Rng Short; Atk 🏃 Dmg d🏃 (Dmg is optional); 💪^💪 or target Restrained; pull target 2 sq",
+      "belongs_to": "Weapon: Talon-Spear",
+      "genres": [
+        "Medieval",
+        "Modern",
+        "SciFi"
+      ],
+      "notes": "Tethered cord lets the wielder reel in a snared victim.",
+      "created_at": "2026-10-01T00:51:31.793349+00:00",
       "tier": null,
       "owner": "Designer"
     },
@@ -50648,6 +51210,22 @@
       ],
       "notes": "Canister sprays a thin chromatic film that distorts light and temporal perception across the target's sensors or optics, leaving them sluggish and giving allies Advantage on all rolls against them.",
       "created_at": "2026-09-03T20:14:29.977879+00:00",
+      "tier": null,
+      "owner": "Designer"
+    },
+    {
+      "id": 546,
+      "name": "Tethered Line Cast",
+      "action": "A",
+      "usage": "1-Enc",
+      "effect": "Rng Short; Atk 🏃 Dmg d🏃; reel knife back to hand F",
+      "belongs_to": "Weapon: Combat Knife, Weapon: Combat Knife (mso)",
+      "genres": [
+        "Modern",
+        "SciFi"
+      ],
+      "notes": "Grip-spooled filament line lets the thrown knife be recalled instantly.",
+      "created_at": "2026-10-01T00:51:31.793349+00:00",
       "tier": null,
       "owner": "Designer"
     },
@@ -51315,6 +51893,23 @@
       "owner": "Designer"
     },
     {
+      "id": 565,
+      "name": "Void Rift Sever",
+      "action": "A",
+      "usage": "2-Enc",
+      "effect": "Atk 💪 Dmg d💪; ✨^🫀 or target Weakened",
+      "belongs_to": "Weapon: Rift Blade",
+      "genres": [
+        "Medieval",
+        "Modern",
+        "SciFi"
+      ],
+      "notes": "Void runes sever vitality, draining strength from the wounded.",
+      "created_at": "2026-10-01T00:51:31.793349+00:00",
+      "tier": null,
+      "owner": "Designer"
+    },
+    {
       "id": 281,
       "name": "Volcanic Shard of Reth’Vash 1 Healing",
       "action": "P",
@@ -51480,6 +52075,21 @@
       "notes": "Whisper Stone is engineered with high-durability composite materials for reliable field operations.",
       "created_at": "2026-09-03T20:14:29.977879+00:00",
       "tier": "Free ⭕",
+      "owner": "Designer"
+    },
+    {
+      "id": 564,
+      "name": "Whisper-Hum Throw",
+      "action": "A",
+      "usage": "1-Enc",
+      "effect": "Rng Short; Atk 🏃 Dmg d🏃; throw silent; blade retracts to hilt",
+      "belongs_to": "Weapon: Nano-Blade",
+      "genres": [
+        "SciFi"
+      ],
+      "notes": "Near-invisible blade flies unseen and retracts after release.",
+      "created_at": "2026-10-01T00:51:31.793349+00:00",
+      "tier": null,
       "owner": "Designer"
     },
     {
