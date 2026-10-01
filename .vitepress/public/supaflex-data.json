@@ -43280,6 +43280,23 @@
       "owner": "Designer"
     },
     {
+      "id": 678,
+      "name": "Anchor Strand",
+      "action": "A",
+      "usage": "1-Enc",
+      "effect": "Rng Medium; Atk 👁️ Dmg d👁️; 👁️^💪 or target Pinned to Ground",
+      "belongs_to": "Weapon: Web-Launcher",
+      "genres": [
+        "Medieval",
+        "Modern",
+        "SciFi"
+      ],
+      "notes": "The symbiote worm lashes runners that glue a target to nearby surfaces.",
+      "created_at": "2026-10-01T01:45:45.620842+00:00",
+      "tier": null,
+      "owner": "Designer"
+    },
+    {
       "id": 40,
       "name": "Ankh of the Undying",
       "action": "F",
@@ -43372,6 +43389,23 @@
       "owner": "Designer"
     },
     {
+      "id": 645,
+      "name": "Arcing Volley",
+      "action": "A",
+      "usage": "1-Enc",
+      "effect": "Rng Extreme; 2x2 area; Atk 👁️ Dmg d👁️+3; 👁️^🏃 or targets Prone",
+      "belongs_to": "Weapon: Bow (Long)",
+      "genres": [
+        "Medieval",
+        "Modern",
+        "SciFi"
+      ],
+      "notes": "Massed longbow arcs rained plunging arrows that broke advancing ranks.",
+      "created_at": "2026-10-01T01:45:45.620842+00:00",
+      "tier": null,
+      "owner": "Designer"
+    },
+    {
       "id": 43,
       "name": "Ash-and-Blood WarPaint",
       "action": "M",
@@ -43434,6 +43468,23 @@
       ],
       "notes": "Balanced double edge flies true from wrist or belt.",
       "created_at": "2026-10-01T00:51:31.793349+00:00",
+      "tier": null,
+      "owner": "Designer"
+    },
+    {
+      "id": 643,
+      "name": "Assassin's Kiss",
+      "action": "A",
+      "usage": "1-⚡",
+      "effect": "Rng Medium; Atk 👁️ Dmg d👁️+5; shot from concealment does not reveal wielder's position; 👁️^🫀 or target Poisoned 1 Wnd/Rnd",
+      "belongs_to": "Weapon: Blowgun",
+      "genres": [
+        "Medieval",
+        "Modern",
+        "SciFi"
+      ],
+      "notes": "Breath-propelled darts make no flash or report, ideal for ambush.",
+      "created_at": "2026-10-01T01:45:45.620842+00:00",
       "tier": null,
       "owner": "Designer"
     },
@@ -43509,6 +43560,23 @@
       ],
       "notes": "Acoustic sensors grant a +3 bonus to auditory Awareness and distant sound detection.",
       "created_at": "2026-09-05T16:42:17.255364+00:00",
+      "tier": null,
+      "owner": "Designer"
+    },
+    {
+      "id": 657,
+      "name": "Auto-Draw Double Tap",
+      "action": "P",
+      "usage": "2-Enc",
+      "effect": "Rng Medium; auto-draw respans instantly, fire second dart at same or adjacent target, Atk 👁️ Dmg d👁️",
+      "belongs_to": "Weapon: Hand X-Bow",
+      "genres": [
+        "Medieval",
+        "Modern",
+        "SciFi"
+      ],
+      "notes": "Spring-fed auto-draw lets a one-handed sidearm deliver rapid silent follow-up darts.",
+      "created_at": "2026-10-01T01:45:45.620842+00:00",
       "tier": null,
       "owner": "Designer"
     },
@@ -43712,23 +43780,6 @@
       "owner": "Designer"
     },
     {
-      "id": 634,
-      "name": "Bearded Hook",
-      "action": "P",
-      "usage": "1-Enc",
-      "effect": "💪^💪 or target Disarmed",
-      "belongs_to": "Weapon: Throwing Axes",
-      "genres": [
-        "Medieval",
-        "Modern",
-        "SciFi"
-      ],
-      "notes": "Poor melee damage; axe beard hooks weapons instead.",
-      "created_at": "2026-10-01T01:23:27.543284+00:00",
-      "tier": null,
-      "owner": "Designer"
-    },
-    {
       "id": 603,
       "name": "Bearded Hook",
       "action": "P",
@@ -43742,6 +43793,23 @@
       ],
       "notes": "Bearded blade snags hilts and rips weapons free.",
       "created_at": "2026-10-01T01:23:27.432513+00:00",
+      "tier": null,
+      "owner": "Designer"
+    },
+    {
+      "id": 634,
+      "name": "Bearded Hook",
+      "action": "P",
+      "usage": "1-Enc",
+      "effect": "💪^💪 or target Disarmed",
+      "belongs_to": "Weapon: Throwing Axes",
+      "genres": [
+        "Medieval",
+        "Modern",
+        "SciFi"
+      ],
+      "notes": "Poor melee damage; axe beard hooks weapons instead.",
+      "created_at": "2026-10-01T01:23:27.543284+00:00",
       "tier": null,
       "owner": "Designer"
     },
@@ -43892,6 +43960,23 @@
       "owner": "Designer"
     },
     {
+      "id": 646,
+      "name": "Bodkin Punch",
+      "action": "A",
+      "usage": "2-Enc",
+      "effect": "Rng Long; Atk 👁️ Dmg d👁️+5 ignores partial armor; 👁️^💪 or target Prone",
+      "belongs_to": "Weapon: Bow (Long)",
+      "genres": [
+        "Medieval",
+        "Modern",
+        "SciFi"
+      ],
+      "notes": "Heavy draw drives narrow bodkin points through mail and plate gaps.",
+      "created_at": "2026-10-01T01:45:45.620842+00:00",
+      "tier": null,
+      "owner": "Designer"
+    },
+    {
       "id": 491,
       "name": "Bolt Sword Mass Driver",
       "action": "A",
@@ -43903,6 +43988,21 @@
       ],
       "notes": "Discharges the concealed javelin-like mass driver bolt stored within the hollow blade out of the sword's tip at Range Short.",
       "created_at": "2026-09-05T23:12:36.368543+00:00",
+      "tier": null,
+      "owner": "Designer"
+    },
+    {
+      "id": 651,
+      "name": "Boltstore Snap Shot",
+      "action": "P",
+      "usage": "1-Enc",
+      "effect": "Follow-up shot after primary attack; Rng Medium; Atk 👁️ Dmg d👁️",
+      "belongs_to": "Weapon: Cross Bow (mso)",
+      "genres": [
+        "SciFi"
+      ],
+      "notes": "Auto-draw strings and 20-bolt store chamber the next bolt instantly.",
+      "created_at": "2026-10-01T01:45:45.620842+00:00",
       "tier": null,
       "owner": "Designer"
     },
@@ -44083,6 +44183,23 @@
       ],
       "notes": "Organic antigravity pod that hovers effortlessly, carrying up to 50 lbs of cargo.",
       "created_at": "2026-09-05T16:42:17.700791+00:00",
+      "tier": null,
+      "owner": "Designer"
+    },
+    {
+      "id": 667,
+      "name": "Burrowing Chitin",
+      "action": "A",
+      "usage": "2-Enc",
+      "effect": "Rng Medium; Atk 👁️ Dmg d👁️+3; if Wnd dealt, 👁️^🫀 or target Poisoned d4/Rnd",
+      "belongs_to": "Weapon: Needler",
+      "genres": [
+        "Medieval",
+        "Modern",
+        "SciFi"
+      ],
+      "notes": "Living chitin needles keep burrowing into flesh after wounding impact.",
+      "created_at": "2026-10-01T01:45:45.620842+00:00",
       "tier": null,
       "owner": "Designer"
     },
@@ -44817,6 +44934,21 @@
       "owner": "Designer"
     },
     {
+      "id": 503,
+      "name": "Crescent Pin & Restrain",
+      "action": "A",
+      "usage": "2-Enc",
+      "effect": "Atk 💪 Dmg d💪 (Dmg is optional); 💪^💪 or target Restrained",
+      "belongs_to": "Weapon: Kray (mso)",
+      "genres": [
+        "SciFi"
+      ],
+      "notes": "Uses the kray's crescent curves and barbed flanges to hook and pin the opponent.",
+      "created_at": "2026-09-05T23:12:36.368543+00:00",
+      "tier": null,
+      "owner": "Designer"
+    },
+    {
       "id": 575,
       "name": "Crescent Pin & Restrain",
       "action": "A",
@@ -44830,21 +44962,6 @@
       ],
       "notes": "Flanges hook and pin; schools teach non-lethal duel control.",
       "created_at": "2026-10-01T00:51:31.793349+00:00",
-      "tier": null,
-      "owner": "Designer"
-    },
-    {
-      "id": 503,
-      "name": "Crescent Pin & Restrain",
-      "action": "A",
-      "usage": "2-Enc",
-      "effect": "Atk 💪 Dmg d💪 (Dmg is optional); 💪^💪 or target Restrained",
-      "belongs_to": "Weapon: Kray (mso)",
-      "genres": [
-        "SciFi"
-      ],
-      "notes": "Uses the kray's crescent curves and barbed flanges to hook and pin the opponent.",
-      "created_at": "2026-09-05T23:12:36.368543+00:00",
       "tier": null,
       "owner": "Designer"
     },
@@ -45153,6 +45270,23 @@
       "owner": "Designer"
     },
     {
+      "id": 644,
+      "name": "Death Egg Hatching",
+      "action": "A",
+      "usage": "2-Enc",
+      "effect": "Rng Short; no impact Dmg; next Rnd bormaul burrows beneath armor: Atk 🏃 Dmg d🏃 ignoring armor each Rnd until killed; 🏃^🫀 or target Weakened",
+      "belongs_to": "Weapon: Bormaul Eggs",
+      "genres": [
+        "Medieval",
+        "Modern",
+        "SciFi"
+      ],
+      "notes": "Harmless-seeming impact lulls foes before the mindless crustacean feeds.",
+      "created_at": "2026-10-01T01:45:45.620842+00:00",
+      "tier": null,
+      "owner": "Designer"
+    },
+    {
       "id": 423,
       "name": "Debilitating Enfeeblement Strike (mso)",
       "action": "P",
@@ -45242,6 +45376,23 @@
       ],
       "notes": "Thousands of tiny semi-sentient arachnids reflexively swarm and bite any unauthorized creature attempting to touch, grapple, or pilfer items from the host, delivering an irritating venomous itch.",
       "created_at": "2026-09-05T23:12:36.368543+00:00",
+      "tier": null,
+      "owner": "Designer"
+    },
+    {
+      "id": 654,
+      "name": "Delayed Shardburst",
+      "action": "A",
+      "usage": "1-⚡",
+      "effect": "Rng Long; Atk 👁️ Dmg d👁️+3 and shard embeds; next round detonates in 3x3 sq area, Atk 👁️ Dmg d👁️; 👁️^🏃 or targets Blinded",
+      "belongs_to": "Weapon: Crystal Thrower",
+      "genres": [
+        "Medieval",
+        "Modern",
+        "SciFi"
+      ],
+      "notes": "Embedded shards pause and then detonate in blinding, refracting fragments.",
+      "created_at": "2026-10-01T01:45:45.620842+00:00",
       "tier": null,
       "owner": "Designer"
     },
@@ -45477,6 +45628,21 @@
       "owner": "Designer"
     },
     {
+      "id": 650,
+      "name": "Duralloy Pinning Bolt",
+      "action": "A",
+      "usage": "2-Enc",
+      "effect": "Rng Medium; Atk 👁️ Dmg d👁️+5; 👁️^💪 or target Pinned to Ground",
+      "belongs_to": "Weapon: Cross Bow (mso)",
+      "genres": [
+        "SciFi"
+      ],
+      "notes": "Duralloy limbs drive bolts with enough force to nail foes down.",
+      "created_at": "2026-10-01T01:45:45.620842+00:00",
+      "tier": null,
+      "owner": "Designer"
+    },
+    {
       "id": 628,
       "name": "Duralloy Skewer",
       "action": "A",
@@ -45645,6 +45811,21 @@
       "owner": "Designer"
     },
     {
+      "id": 658,
+      "name": "Envenomed Bolt",
+      "action": "A",
+      "usage": "1-Enc",
+      "effect": "Rng Medium; Atk 👁️ Dmg d👁️; 👁️^🫀 or target Poisoned d4/Rnd",
+      "belongs_to": "Weapon: Hand XBow (mso)",
+      "genres": [
+        "SciFi"
+      ],
+      "notes": "Poison-treated tips let small high-velocity bolts inflict lingering venom wounds.",
+      "created_at": "2026-10-01T01:45:45.620842+00:00",
+      "tier": null,
+      "owner": "Designer"
+    },
+    {
       "id": 550,
       "name": "Envenomed Cast",
       "action": "A",
@@ -45658,6 +45839,21 @@
       ],
       "notes": "Coated thrown blade delivers quiet, toxic elimination.",
       "created_at": "2026-10-01T00:51:31.793349+00:00",
+      "tier": null,
+      "owner": "Designer"
+    },
+    {
+      "id": 642,
+      "name": "Envenomed Needle",
+      "action": "A",
+      "usage": "2-Enc",
+      "effect": "Rng Medium; Atk 👁️ Dmg d👁️; 👁️^🫀 or target Poisoned d4/Rnd",
+      "belongs_to": "Weapon: Blow Gun (mso)",
+      "genres": [
+        "SciFi"
+      ],
+      "notes": "Tiny darts wound little; jungle hunters relied on toxin-coated tips.",
+      "created_at": "2026-10-01T01:45:45.620842+00:00",
       "tier": null,
       "owner": "Designer"
     },
@@ -45827,6 +46023,23 @@
       ],
       "notes": "Long-range tactical guided missile launch.",
       "created_at": "2026-09-05T16:42:21.793118+00:00",
+      "tier": null,
+      "owner": "Designer"
+    },
+    {
+      "id": 674,
+      "name": "Fan of Steel",
+      "action": "A",
+      "usage": "1-Enc",
+      "effect": "Rng Short; attack up to 3 targets within Rng 2 of each other; each Atk 🏃 Dmg d🏃",
+      "belongs_to": "Weapon: Throwing Knives (set)",
+      "genres": [
+        "Medieval",
+        "Modern",
+        "SciFi"
+      ],
+      "notes": "Several blades are released in one sweeping motion to strike multiple foes.",
+      "created_at": "2026-10-01T01:45:45.620842+00:00",
       "tier": null,
       "owner": "Designer"
     },
@@ -46006,6 +46219,21 @@
       ],
       "notes": "1st Deg Wnds if new; stops bleeding.",
       "created_at": "2026-09-03T20:14:29.977879+00:00",
+      "tier": null,
+      "owner": "Designer"
+    },
+    {
+      "id": 673,
+      "name": "Fistful of Grit",
+      "action": "P",
+      "usage": "2-Enc",
+      "effect": "Rng Short; Atk 🏃 Dmg d🏃; 🏃^👁️ or target Blinded",
+      "belongs_to": "Weapon: Throw Object (mso)",
+      "genres": [
+        "SciFi"
+      ],
+      "notes": "A snap-flung handful of gravel, dust, or debris strikes the eyes.",
+      "created_at": "2026-10-01T01:45:45.620842+00:00",
       "tier": null,
       "owner": "Designer"
     },
@@ -46907,6 +47135,23 @@
       "owner": "Designer"
     },
     {
+      "id": 192,
+      "name": "Healing",
+      "action": "P",
+      "usage": "1-⚡",
+      "effect": "Heal self d✨.",
+      "belongs_to": "Supplies: Potion of Healing",
+      "genres": [
+        "Medieval",
+        "Modern",
+        "SciFi"
+      ],
+      "notes": "Potion of Healing is engineered with high-durability composite materials for reliable field operations.",
+      "created_at": "2026-09-03T20:14:29.977879+00:00",
+      "tier": null,
+      "owner": "Designer"
+    },
+    {
       "id": 36,
       "name": "Healing",
       "action": "A",
@@ -46924,19 +47169,19 @@
       "owner": "Designer"
     },
     {
-      "id": 192,
-      "name": "Healing",
-      "action": "P",
-      "usage": "1-⚡",
-      "effect": "Heal self d✨.",
-      "belongs_to": "Supplies: Potion of Healing",
+      "id": 672,
+      "name": "Heave the Heavy Thing",
+      "action": "A",
+      "usage": "1-Enc",
+      "effect": "Rng Short; Atk 🏃 Dmg d🏃+3; 🏃^💪 or target Prone",
+      "belongs_to": "Weapon: Throw Object",
       "genres": [
         "Medieval",
         "Modern",
         "SciFi"
       ],
-      "notes": "Potion of Healing is engineered with high-durability composite materials for reliable field operations.",
-      "created_at": "2026-09-03T20:14:29.977879+00:00",
+      "notes": "A dense, durable mass thrown with full-body torque topples a braced foe.",
+      "created_at": "2026-10-01T01:45:45.620842+00:00",
       "tier": null,
       "owner": "Designer"
     },
@@ -46997,6 +47242,40 @@
       ],
       "notes": "High-yield EMP acoustic shock knocking organics unconscious.",
       "created_at": "2026-09-05T16:42:21.384766+00:00",
+      "tier": null,
+      "owner": "Designer"
+    },
+    {
+      "id": 671,
+      "name": "Heavy Stone Cast",
+      "action": "A",
+      "usage": "2-Enc",
+      "effect": "Rng Short; Atk 🏃 Dmg d🏃+3; 🏃^💪 or target Prone",
+      "belongs_to": "Weapon: Throw",
+      "genres": [
+        "Medieval",
+        "Modern",
+        "SciFi"
+      ],
+      "notes": "A well-weighted rock thrown with full body momentum topples foes.",
+      "created_at": "2026-10-01T01:45:45.620842+00:00",
+      "tier": null,
+      "owner": "Designer"
+    },
+    {
+      "id": 652,
+      "name": "Held-Draw Overwatch",
+      "action": "F",
+      "usage": "1-Rnd",
+      "effect": "Stance: when enemy enters Rng Medium, trigger reaction Atk 👁️ Dmg d👁️+3",
+      "belongs_to": "Weapon: Crossbow",
+      "genres": [
+        "Medieval",
+        "Modern",
+        "SciFi"
+      ],
+      "notes": "A crossbow stays spanned indefinitely, ideal for ambush and overwatch.",
+      "created_at": "2026-10-01T01:45:45.620842+00:00",
       "tier": null,
       "owner": "Designer"
     },
@@ -49171,6 +49450,21 @@
       "owner": "Designer"
     },
     {
+      "id": 647,
+      "name": "Palmstore Rapid Draw",
+      "action": "P",
+      "usage": "2-Enc",
+      "effect": "Rng Medium; immediately loose a second arrow at same or adjacent target, Atk 👁️ Dmg d👁️",
+      "belongs_to": "Weapon: Bow, Tech (mso)",
+      "genres": [
+        "SciFi"
+      ],
+      "notes": "Riser palmstore materializes pre-notched arrows, eliminating quiver reach time.",
+      "created_at": "2026-10-01T01:45:45.620842+00:00",
+      "tier": null,
+      "owner": "Designer"
+    },
+    {
       "id": 482,
       "name": "Paralytic Venom (mso)",
       "action": "A",
@@ -49182,6 +49476,40 @@
       ],
       "notes": "Paralytic venom freezing motor control.",
       "created_at": "2026-09-05T16:42:22.363187+00:00",
+      "tier": null,
+      "owner": "Designer"
+    },
+    {
+      "id": 676,
+      "name": "Pavise Brace",
+      "action": "AM",
+      "usage": "1-Rnd",
+      "effect": "Brace on ground or wall: 👣-4, shots gain Rng Extreme and Dmg d👁️+5; 👁️^💪 or target Pinned to Ground",
+      "belongs_to": "Weapon: Tower Crossbow",
+      "genres": [
+        "Medieval",
+        "Modern",
+        "SciFi"
+      ],
+      "notes": "Mounting on a braced pavise steadies the massive stock for far-reaching shots.",
+      "created_at": "2026-10-01T01:45:45.620842+00:00",
+      "tier": null,
+      "owner": "Designer"
+    },
+    {
+      "id": 653,
+      "name": "Payload Bolt",
+      "action": "A",
+      "usage": "1-Enc",
+      "effect": "Rng Medium; Atk 👁️ Dmg d👁️; 👁️^🫀 or target Poisoned d4/Rnd",
+      "belongs_to": "Weapon: Crossbow",
+      "genres": [
+        "Medieval",
+        "Modern",
+        "SciFi"
+      ],
+      "notes": "Composite bolts carry toxin reservoirs delivered by rifle-like punch.",
+      "created_at": "2026-10-01T01:45:45.620842+00:00",
       "tier": null,
       "owner": "Designer"
     },
@@ -49311,6 +49639,21 @@
       "owner": "Designer"
     },
     {
+      "id": 655,
+      "name": "Pheromone Ambush",
+      "action": "A",
+      "usage": "1-Enc",
+      "effect": "Rng Medium; beetle scurries 👣+4 around cover and bursts a 3x3 sq gas cloud; 🏃^🫀 or targets Stunned",
+      "belongs_to": "Weapon: Gas-Beetle",
+      "genres": [
+        "SciFi"
+      ],
+      "notes": "Pheromone-guided beetles slip past cover to bomb occupants with choking gas.",
+      "created_at": "2026-10-01T01:45:45.620842+00:00",
+      "tier": null,
+      "owner": "Designer"
+    },
+    {
       "id": 189,
       "name": "Phoenix [Weapon] Healing",
       "action": "A",
@@ -49324,6 +49667,39 @@
       ],
       "notes": "Phoenix [Weapon] is engineered with high-durability composite materials for reliable field operations.",
       "created_at": "2026-09-03T20:14:29.977879+00:00",
+      "tier": null,
+      "owner": "Designer"
+    },
+    {
+      "id": 660,
+      "name": "Pinning Bolt",
+      "action": "A",
+      "usage": "2-Enc",
+      "effect": "Rng Long; Atk 👁️ Dmg d👁️+3; 👁️^💪 or target Pinned to Ground",
+      "belongs_to": "Weapon: Heavy Crossbow",
+      "genres": [
+        "Medieval",
+        "Modern",
+        "SciFi"
+      ],
+      "notes": "Massive bolt momentum nails limbs and cloaks to earth, halting charges.",
+      "created_at": "2026-10-01T01:45:45.620842+00:00",
+      "tier": null,
+      "owner": "Designer"
+    },
+    {
+      "id": 666,
+      "name": "Pinning Broadhead Feed",
+      "action": "P",
+      "usage": "2-Enc",
+      "effect": "Rotate magazine to barbed arrow; Rng Long; Atk 👁️ Dmg d👁️+5; 👁️^💪 or target Pinned to Ground",
+      "belongs_to": "Weapon: Magazine Bow",
+      "genres": [
+        "Modern",
+        "SciFi"
+      ],
+      "notes": "Selectable arrow types let scouts switch to anchoring broadheads mid-fight.",
+      "created_at": "2026-10-01T01:45:45.620842+00:00",
       "tier": null,
       "owner": "Designer"
     },
@@ -49964,6 +50340,22 @@
       "owner": "Designer"
     },
     {
+      "id": 665,
+      "name": "Quiver Cascade",
+      "action": "A",
+      "usage": "1-Enc",
+      "effect": "Loose 5 arrows at up to 5 different targets within Rng Medium; each Atk 👁️ Dmg d👁️",
+      "belongs_to": "Weapon: Magazine Bow",
+      "genres": [
+        "Modern",
+        "SciFi"
+      ],
+      "notes": "Grip magazine feeds pre-notched arrows faster than any hand could draw.",
+      "created_at": "2026-10-01T01:45:45.620842+00:00",
+      "tier": null,
+      "owner": "Designer"
+    },
+    {
       "id": 203,
       "name": "Radiant [Weapon]",
       "action": "P",
@@ -50281,6 +50673,23 @@
       "owner": "Designer"
     },
     {
+      "id": 649,
+      "name": "Resonant Overcharge",
+      "action": "A",
+      "usage": "1-⚡",
+      "effect": "Rng Short; explodes in 3x3 sq area; Atk 🏃 Dmg d🏃+5; 🏃^🫀 or targets Stunned",
+      "belongs_to": "Weapon: Channel Crystals",
+      "genres": [
+        "Medieval",
+        "Modern",
+        "SciFi"
+      ],
+      "notes": "Hollow facets trap channeled power until shattering releases a signature-colored blast.",
+      "created_at": "2026-10-01T01:45:45.620842+00:00",
+      "tier": null,
+      "owner": "Designer"
+    },
+    {
       "id": 586,
       "name": "Resonant Power Chord",
       "action": "A",
@@ -50309,6 +50718,36 @@
       ],
       "notes": "Serrated back-edge rips tendons on the withdrawing cut.",
       "created_at": "2026-10-01T01:23:27.432513+00:00",
+      "tier": null,
+      "owner": "Designer"
+    },
+    {
+      "id": 668,
+      "name": "Ricochet Arc",
+      "action": "AM",
+      "usage": "2-Enc",
+      "effect": "👣+2; throw at up to 2 targets in sequence within Rng Short; each Atk 🏃 Dmg d🏃; sickle returns to hand",
+      "belongs_to": "Weapon: Return-Sickle",
+      "genres": [
+        "SciFi"
+      ],
+      "notes": "Anti-grav return field retraces flight, enabling hit-and-run multi-target strikes.",
+      "created_at": "2026-10-01T01:45:45.620842+00:00",
+      "tier": null,
+      "owner": "Designer"
+    },
+    {
+      "id": 661,
+      "name": "Ricochet Homecoming",
+      "action": "P",
+      "usage": "2-Enc",
+      "effect": "Rng Medium; Atk 🏃 Dmg d🏃; on return flight strike second target within Rng 2 of path, Atk 🏃 Dmg d🏃; disc returns to holster",
+      "belongs_to": "Weapon: Homing Disc",
+      "genres": [
+        "SciFi"
+      ],
+      "notes": "Anti-grav homing loop clips a second foe while returning to the holster.",
+      "created_at": "2026-10-01T01:45:45.620842+00:00",
       "tier": null,
       "owner": "Designer"
     },
@@ -50554,6 +50993,23 @@
       ],
       "notes": "Environmental life support and audio synthesizer replicator.",
       "created_at": "2026-09-05T16:42:20.938907+00:00",
+      "tier": null,
+      "owner": "Designer"
+    },
+    {
+      "id": 648,
+      "name": "Searing Glob",
+      "action": "A",
+      "usage": "1-Enc",
+      "effect": "Rng Short; Atk 💪 Dmg d💪 (+5 vs partial armor); 💪^🫀 or target Blinded",
+      "belongs_to": "Weapon: Caustic Spitter",
+      "genres": [
+        "Medieval",
+        "Modern",
+        "SciFi"
+      ],
+      "notes": "Squeezed cocoon sprays liquid waste that seeps past armor gaps.",
+      "created_at": "2026-10-01T01:45:45.620842+00:00",
       "tier": null,
       "owner": "Designer"
     },
@@ -50866,6 +51322,23 @@
       "owner": "Designer"
     },
     {
+      "id": 659,
+      "name": "Siege Quarrel",
+      "action": "A",
+      "usage": "1-Enc",
+      "effect": "Rng Long; Atk 👁️ Dmg d👁️+10",
+      "belongs_to": "Weapon: Heavy Crossbow",
+      "genres": [
+        "Medieval",
+        "Modern",
+        "SciFi"
+      ],
+      "notes": "Windlass-spanned heavy prods drove quarrels through plate at long range.",
+      "created_at": "2026-10-01T01:45:45.620842+00:00",
+      "tier": null,
+      "owner": "Designer"
+    },
+    {
       "id": 553,
       "name": "Silent Flick Throw",
       "action": "P",
@@ -50877,6 +51350,39 @@
       ],
       "notes": "Quick, quiet throw from concealment; thief's efficient kill.",
       "created_at": "2026-10-01T00:51:31.793349+00:00",
+      "tier": null,
+      "owner": "Designer"
+    },
+    {
+      "id": 677,
+      "name": "Skip-Roll Snare",
+      "action": "AM",
+      "usage": "1-Enc",
+      "effect": "👣+2; roll ball along ground Rng Medium around corners; detonates AoE 2r at stop point; 🏃^🏃 or target Restrained",
+      "belongs_to": "Weapon: Web-Ball",
+      "genres": [
+        "Modern",
+        "SciFi"
+      ],
+      "notes": "The porous sponge ball bounces and rolls to burst beyond the line of sight.",
+      "created_at": "2026-10-01T01:45:45.620842+00:00",
+      "tier": null,
+      "owner": "Designer"
+    },
+    {
+      "id": 662,
+      "name": "Skirmisher's Loose",
+      "action": "AM",
+      "usage": "2-Enc",
+      "effect": "👣+4; Rng Medium; Atk 👁️ Dmg d👁️+3",
+      "belongs_to": "Weapon: Light Crossbow",
+      "genres": [
+        "Medieval",
+        "Modern",
+        "SciFi"
+      ],
+      "notes": "Light draw weight allowed mounted and skirmish crossbowmen to shoot on the move.",
+      "created_at": "2026-10-01T01:45:45.620842+00:00",
       "tier": null,
       "owner": "Designer"
     },
@@ -52054,6 +52560,22 @@
       "owner": "Designer"
     },
     {
+      "id": 670,
+      "name": "Sweeping Overload",
+      "action": "A",
+      "usage": "1-Enc",
+      "effect": "Up to 3 adjacent targets within Rng Short; Atk 👁️ ignores AR; 👁️^🫀 or target Stunned; deaf or helmeted targets gain 🫀+3",
+      "belongs_to": "Weapon: Stun",
+      "genres": [
+        "Modern",
+        "SciFi"
+      ],
+      "notes": "Widened sonic frequency spreads nervous-system overload across a cluster of foes.",
+      "created_at": "2026-10-01T01:45:45.620842+00:00",
+      "tier": null,
+      "owner": "Designer"
+    },
+    {
       "id": 371,
       "name": "Symbiotic Tube-Worm Feed (mso)",
       "action": "P",
@@ -52101,21 +52623,6 @@
       "owner": "Designer"
     },
     {
-      "id": 526,
-      "name": "Talon Snare & Reel",
-      "action": "A",
-      "usage": "1-Enc",
-      "effect": "Rng Short; Atk 🏃 Dmg d🏃 (Dmg is optional); 💪^💪 or target Restrained; pull target 2 sq",
-      "belongs_to": "Weapon: Taoon (mso)",
-      "genres": [
-        "SciFi"
-      ],
-      "notes": "Spring-loaded talons clamp shut on impact, allowing the wielder to snare and haul the target via retrieval cord.",
-      "created_at": "2026-09-05T23:12:36.368543+00:00",
-      "tier": null,
-      "owner": "Designer"
-    },
-    {
       "id": 572,
       "name": "Talon Snare & Reel",
       "action": "A",
@@ -52129,6 +52636,21 @@
       ],
       "notes": "Tethered cord lets the wielder reel in a snared victim.",
       "created_at": "2026-10-01T00:51:31.793349+00:00",
+      "tier": null,
+      "owner": "Designer"
+    },
+    {
+      "id": 526,
+      "name": "Talon Snare & Reel",
+      "action": "A",
+      "usage": "1-Enc",
+      "effect": "Rng Short; Atk 🏃 Dmg d🏃 (Dmg is optional); 💪^💪 or target Restrained; pull target 2 sq",
+      "belongs_to": "Weapon: Taoon (mso)",
+      "genres": [
+        "SciFi"
+      ],
+      "notes": "Spring-loaded talons clamp shut on impact, allowing the wielder to snare and haul the target via retrieval cord.",
+      "created_at": "2026-09-05T23:12:36.368543+00:00",
       "tier": null,
       "owner": "Designer"
     },
@@ -52385,6 +52907,40 @@
       "notes": "Internal thermal vascular regulator rendering the user completely immune to environmental freezing.",
       "created_at": "2026-09-05T16:42:18.720474+00:00",
       "tier": "Free ⭕",
+      "owner": "Designer"
+    },
+    {
+      "id": 656,
+      "name": "Thorn Carpet Seeding",
+      "action": "A",
+      "usage": "1-Enc",
+      "effect": "Rng Short; seed 3x3 sq area; intruders entering take Atk 🏃 Dmg d🏃 & 👣-4; 🏃^🫀 or target Restrained",
+      "belongs_to": "Weapon: Guard Beetles",
+      "genres": [
+        "Medieval",
+        "Modern",
+        "SciFi"
+      ],
+      "notes": "Paralytic carapace spikes turn seeded ground into a crippling living minefield.",
+      "created_at": "2026-10-01T01:45:45.620842+00:00",
+      "tier": null,
+      "owner": "Designer"
+    },
+    {
+      "id": 664,
+      "name": "Thornblight Arrow",
+      "action": "A",
+      "usage": "2-Enc",
+      "effect": "Rng Long; Atk 👁️ Dmg d👁️; 👁️^🫀 or target Poisoned d4/Rnd",
+      "belongs_to": "Weapon: Living Bow",
+      "genres": [
+        "Medieval",
+        "Modern",
+        "SciFi"
+      ],
+      "notes": "Living wood seeds the shaft with toxic thorns that blight flesh.",
+      "created_at": "2026-10-01T01:45:45.620842+00:00",
+      "tier": null,
       "owner": "Designer"
     },
     {
@@ -52827,6 +53383,23 @@
       "owner": "Designer"
     },
     {
+      "id": 663,
+      "name": "Verdant Mending Arrow",
+      "action": "A",
+      "usage": "1-⚡",
+      "effect": "Rng Long; ally struck regains d👁️+5 Vit (no damage dealt)",
+      "belongs_to": "Weapon: Living Bow",
+      "genres": [
+        "Medieval",
+        "Modern",
+        "SciFi"
+      ],
+      "notes": "Bioluminescent life-sap infuses the arrow, knitting an ally's wounds on impact.",
+      "created_at": "2026-10-01T01:45:45.620842+00:00",
+      "tier": null,
+      "owner": "Designer"
+    },
+    {
       "id": 420,
       "name": "Vertical Levitation Drift (mso)",
       "action": "P",
@@ -52953,6 +53526,23 @@
       ],
       "notes": "Void runes sever vitality, draining strength from the wounded.",
       "created_at": "2026-10-01T00:51:31.793349+00:00",
+      "tier": null,
+      "owner": "Designer"
+    },
+    {
+      "id": 669,
+      "name": "Void Unravelling",
+      "action": "A",
+      "usage": "1-⚡",
+      "effect": "Rng Long; void bolt bursts on all targets within 1r of impact; Atk 👁️ Dmg d👁️+5; 👁️^🫀 or target Weakened",
+      "belongs_to": "Weapon: Shadow Orb",
+      "genres": [
+        "Medieval",
+        "Modern",
+        "SciFi"
+      ],
+      "notes": "Void energy bursts sap the strength of tightly packed enemy formations.",
+      "created_at": "2026-10-01T01:45:45.620842+00:00",
       "tier": null,
       "owner": "Designer"
     },
@@ -53200,6 +53790,23 @@
       ],
       "notes": "Wind Flute is engineered with high-durability composite materials for reliable field operations.",
       "created_at": "2026-09-03T20:14:29.977879+00:00",
+      "tier": null,
+      "owner": "Designer"
+    },
+    {
+      "id": 675,
+      "name": "Windlass Bolt",
+      "action": "A",
+      "usage": "1-Enc",
+      "effect": "Rng Long; Atk 👁️ Dmg d👁️+10 ignores cover; 👁️^💪 or target Prone",
+      "belongs_to": "Weapon: Tower Crossbow",
+      "genres": [
+        "Medieval",
+        "Modern",
+        "SciFi"
+      ],
+      "notes": "A crank-wound siege prod drives heavy quarrels through mantlets and shields.",
+      "created_at": "2026-10-01T01:45:45.620842+00:00",
       "tier": null,
       "owner": "Designer"
     },
