@@ -43264,6 +43264,23 @@
       "owner": "Designer"
     },
     {
+      "id": 767,
+      "name": "Aether Burst",
+      "action": "A",
+      "usage": "1-Enc",
+      "effect": "Rng 1; Atk 💪 Dmg d💪; Wounds inflicted are doubled; foes within 1r of target: Atk 💪 Dmg d💪",
+      "belongs_to": "Weapon: Aether Sword",
+      "genres": [
+        "Medieval",
+        "Modern",
+        "SciFi"
+      ],
+      "notes": "Blade runes discharge stored Aether on impact, detonating through flesh.",
+      "created_at": "2026-10-01T02:57:35.441887+00:00",
+      "tier": null,
+      "owner": "Designer"
+    },
+    {
       "id": 556,
       "name": "Aether Burst Throw",
       "action": "A",
@@ -43276,6 +43293,23 @@
       ],
       "notes": "Thrown conduit releases blinding Aether flash on impact.",
       "created_at": "2026-10-01T00:51:31.793349+00:00",
+      "tier": null,
+      "owner": "Designer"
+    },
+    {
+      "id": 766,
+      "name": "Aether Step",
+      "action": "AM",
+      "usage": "1-⚡",
+      "effect": "Rng Medium; Atk 🏃 Dmg d🏃+5; 🏃^🫀 or target Weakened; on hit, wielder teleports adjacent to target; shuriken returns to hand",
+      "belongs_to": "Weapon: Aether Shuriken",
+      "genres": [
+        "Medieval",
+        "Modern",
+        "SciFi"
+      ],
+      "notes": "Rune-etched star anchors a void rift, pulling its thrower to impact.",
+      "created_at": "2026-10-01T02:57:35.441887+00:00",
       "tier": null,
       "owner": "Designer"
     },
@@ -43764,6 +43798,23 @@
       "owner": "Designer"
     },
     {
+      "id": 752,
+      "name": "Barbed Ensnare",
+      "action": "A",
+      "usage": "2-Enc",
+      "effect": "Rng 3; Atk 💪 Dmg d💪+3; 💪^💪 or target pulled 2 sq and Restrained",
+      "belongs_to": "Weapon: Bio-Vine Whip",
+      "genres": [
+        "Medieval",
+        "Modern",
+        "SciFi"
+      ],
+      "notes": "Living barbed vines latch, coil, and reel prey toward their gardener.",
+      "created_at": "2026-10-01T02:57:35.441887+00:00",
+      "tier": null,
+      "owner": "Designer"
+    },
+    {
       "id": 621,
       "name": "Barbed Hook & Tear",
       "action": "A",
@@ -43777,6 +43828,23 @@
       ],
       "notes": "Flanged barbs hook flesh, dragging foes inward while shredding mobility.",
       "created_at": "2026-10-01T01:23:27.432513+00:00",
+      "tier": null,
+      "owner": "Designer"
+    },
+    {
+      "id": 769,
+      "name": "Bastion of Stone",
+      "action": "A",
+      "usage": "1-⚡",
+      "effect": "Rng Short; raise stone wall 1x4; foes in wall's path: 💪^🏃 or Prone",
+      "belongs_to": "Weapon: Geomantic Staff",
+      "genres": [
+        "Medieval",
+        "Modern",
+        "SciFi"
+      ],
+      "notes": "Amber crystal commands the earth to rise as a protective rampart.",
+      "created_at": "2026-10-01T02:57:35.441887+00:00",
       "tier": null,
       "owner": "Designer"
     },
@@ -43969,6 +44037,21 @@
       ],
       "notes": "Sweeps an auto-firing volley of reactive energy bursts across a 1-ring AoE within Range Long.",
       "created_at": "2026-09-05T23:12:36.368543+00:00",
+      "tier": null,
+      "owner": "Designer"
+    },
+    {
+      "id": 757,
+      "name": "Blindside Stinger",
+      "action": "A",
+      "usage": "2-Enc",
+      "effect": "Rng 1; Atk 💪 Dmg d💪; 💪^🫀 or target Poisoned d4 Vit/Rnd",
+      "belongs_to": "Weapon: Scorpion Tail (mso)",
+      "genres": [
+        "SciFi"
+      ],
+      "notes": "Articulated chitin tails whip from any angle, pumping stored toxins through hollow stingers.",
+      "created_at": "2026-10-01T02:57:35.441887+00:00",
       "tier": null,
       "owner": "Designer"
     },
@@ -44409,6 +44492,23 @@
       "owner": "Designer"
     },
     {
+      "id": 774,
+      "name": "Cascading Dark Light",
+      "action": "A",
+      "usage": "1-⚡",
+      "effect": "Rng Medium; AoE 2r; Atk 💪 Dmg d💪+5; 💪^🫀 or each target Weakened",
+      "belongs_to": "Weapon: Void Staff",
+      "genres": [
+        "Medieval",
+        "Modern",
+        "SciFi"
+      ],
+      "notes": "Crown crystal erupts in void cascades that sap enemy formations.",
+      "created_at": "2026-10-01T02:57:35.441887+00:00",
+      "tier": null,
+      "owner": "Designer"
+    },
+    {
       "id": 66,
       "name": "Cassette of Rebellion",
       "action": "P",
@@ -44452,6 +44552,23 @@
       ],
       "notes": "Launches a concentrated cluster of caustic biochemical egg sacs that inflict caustic damage on impact.",
       "created_at": "2026-09-05T23:12:36.368543+00:00",
+      "tier": null,
+      "owner": "Designer"
+    },
+    {
+      "id": 751,
+      "name": "Caustic Egg Burst",
+      "action": "A",
+      "usage": "2-Enc",
+      "effect": "Rng Medium; Atk 👁️ Dmg d👁️+3; 👁️^🫀 or target acid d4 Wnds/Rnd",
+      "belongs_to": "Weapon: Bio-Spitter",
+      "genres": [
+        "Medieval",
+        "Modern",
+        "SciFi"
+      ],
+      "notes": "Filtered host toxins rupture from soft egg sacs in caustic sprays.",
+      "created_at": "2026-10-01T02:57:35.441887+00:00",
       "tier": null,
       "owner": "Designer"
     },
@@ -45074,6 +45191,21 @@
       "owner": "Designer"
     },
     {
+      "id": 503,
+      "name": "Crescent Pin & Restrain",
+      "action": "A",
+      "usage": "2-Enc",
+      "effect": "Atk 💪 Dmg d💪 (Dmg is optional); 💪^💪 or target Restrained",
+      "belongs_to": "Weapon: Kray (mso)",
+      "genres": [
+        "SciFi"
+      ],
+      "notes": "Uses the kray's crescent curves and barbed flanges to hook and pin the opponent.",
+      "created_at": "2026-09-05T23:12:36.368543+00:00",
+      "tier": null,
+      "owner": "Designer"
+    },
+    {
       "id": 575,
       "name": "Crescent Pin & Restrain",
       "action": "A",
@@ -45087,21 +45219,6 @@
       ],
       "notes": "Flanges hook and pin; schools teach non-lethal duel control.",
       "created_at": "2026-10-01T00:51:31.793349+00:00",
-      "tier": null,
-      "owner": "Designer"
-    },
-    {
-      "id": 503,
-      "name": "Crescent Pin & Restrain",
-      "action": "A",
-      "usage": "2-Enc",
-      "effect": "Atk 💪 Dmg d💪 (Dmg is optional); 💪^💪 or target Restrained",
-      "belongs_to": "Weapon: Kray (mso)",
-      "genres": [
-        "SciFi"
-      ],
-      "notes": "Uses the kray's crescent curves and barbed flanges to hook and pin the opponent.",
-      "created_at": "2026-09-05T23:12:36.368543+00:00",
       "tier": null,
       "owner": "Designer"
     },
@@ -45167,6 +45284,23 @@
       ],
       "notes": "Vein-runed blade drains the victim's life into the wielder.",
       "created_at": "2026-10-01T00:51:31.793349+00:00",
+      "tier": null,
+      "owner": "Designer"
+    },
+    {
+      "id": 758,
+      "name": "Crimson Siphon",
+      "action": "A",
+      "usage": "2-Enc",
+      "effect": "Rng 1; Atk 💪 Dmg d💪+3; on hit regains d💪 Vit",
+      "belongs_to": "Weapon: Vampiric Claws",
+      "genres": [
+        "Medieval",
+        "Modern",
+        "SciFi"
+      ],
+      "notes": "Blood-red claw channels draw the victim's life force into the wearer.",
+      "created_at": "2026-10-01T02:57:35.441887+00:00",
       "tier": null,
       "owner": "Designer"
     },
@@ -45911,6 +46045,21 @@
       "owner": "Designer"
     },
     {
+      "id": 755,
+      "name": "Elder Hive Cleave",
+      "action": "AM",
+      "usage": "1-Enc",
+      "effect": "Rng 2; AoE 1r; Atk 💪 Dmg d💪+10; 💪^💪 or target Prone",
+      "belongs_to": "Weapon: Bioblades (Adult) (mso)",
+      "genres": [
+        "SciFi"
+      ],
+      "notes": "Ancient, ponderous blade sweeps wide, devouring life at the cost of mobility.",
+      "created_at": "2026-10-01T02:57:35.441887+00:00",
+      "tier": null,
+      "owner": "Designer"
+    },
+    {
       "id": 104,
       "name": "Elven Chain Mail of Silent Passage",
       "action": "P",
@@ -46592,6 +46741,23 @@
       ],
       "notes": "Projects an elliptical kinetic energy shield granting +2 Armor Rating for the encounter duration.",
       "created_at": "2026-09-05T16:42:19.224306+00:00",
+      "tier": null,
+      "owner": "Designer"
+    },
+    {
+      "id": 750,
+      "name": "Forge-Bloom Overload",
+      "action": "A",
+      "usage": "1-⚡",
+      "effect": "Rng 1; AoE 1r; Atk 💪 Dmg d💪+10; 💪^💪 or targets Restrained",
+      "belongs_to": "Weapon: Bio-Forge Gauntlet",
+      "genres": [
+        "Medieval",
+        "Modern",
+        "SciFi"
+      ],
+      "notes": "Overcharged veins erupt into a thicket of grasping bio-spikes.",
+      "created_at": "2026-10-01T02:57:35.441887+00:00",
       "tier": null,
       "owner": "Designer"
     },
@@ -47508,6 +47674,23 @@
       "owner": "Designer"
     },
     {
+      "id": 775,
+      "name": "Heartbeat Conduit",
+      "action": "A",
+      "usage": "1-Enc",
+      "effect": "Atk 💪 Dmg d💪+5; on hit 💪+5^💪 or target blasted d💪 sq",
+      "belongs_to": "Weapon: Void Staff",
+      "genres": [
+        "Medieval",
+        "Modern",
+        "SciFi"
+      ],
+      "notes": "Shaft pulses in sync with wielder's heartbeat, amplifying channeled void force.",
+      "created_at": "2026-10-01T02:57:35.441887+00:00",
+      "tier": null,
+      "owner": "Designer"
+    },
+    {
       "id": 672,
       "name": "Heave the Heavy Thing",
       "action": "A",
@@ -47677,6 +47860,23 @@
       ],
       "notes": "Surprise bolt from the tip punishes those expecting a sword.",
       "created_at": "2026-10-01T00:51:31.793349+00:00",
+      "tier": null,
+      "owner": "Designer"
+    },
+    {
+      "id": 771,
+      "name": "Hidden Stud Discharge",
+      "action": "A",
+      "usage": "2-Enc",
+      "effect": "Rng 1; Atk 💪 Dmg d💪; 💪^🫀 or target Stunned",
+      "belongs_to": "Weapon: Sun-Blades",
+      "genres": [
+        "Medieval",
+        "Modern",
+        "SciFi"
+      ],
+      "notes": "Each solar-steel blade releases one stored sunlight shock through a hidden stud.",
+      "created_at": "2026-10-01T02:57:35.441887+00:00",
       "tier": null,
       "owner": "Designer"
     },
@@ -47981,6 +48181,21 @@
       "owner": "Designer"
     },
     {
+      "id": 753,
+      "name": "Hungry Sprout",
+      "action": "A",
+      "usage": "1-Enc",
+      "effect": "Rng 1; Atk 💪 Dmg d💪+3; wielder regains Wnds as Vit",
+      "belongs_to": "Weapon: Bioblades (Young) (mso)",
+      "genres": [
+        "SciFi"
+      ],
+      "notes": "Ravenous juvenile blade feeds eagerly, sharing stolen vigor with its bonded host.",
+      "created_at": "2026-10-01T02:57:35.441887+00:00",
+      "tier": null,
+      "owner": "Designer"
+    },
+    {
       "id": 466,
       "name": "Hunter Tracking Lock (mso)",
       "action": "A",
@@ -48255,6 +48470,22 @@
       ],
       "notes": "Mental toggle to infrared thermal vision in total darkness; lasts for Encounter.",
       "created_at": "2026-09-05T16:42:21.100864+00:00",
+      "tier": null,
+      "owner": "Designer"
+    },
+    {
+      "id": 760,
+      "name": "Infused Bio-Dart",
+      "action": "A",
+      "usage": "2-Enc",
+      "effect": "Rng Medium; Atk 👁️ Dmg d👁️; choose poison: 👁️^🫀 or target Poisoned d4 Vit/Rnd, or stun: 👁️^🫀 or target Stunned",
+      "belongs_to": "Weapon: Venom Injector Carbine",
+      "genres": [
+        "Modern",
+        "SciFi"
+      ],
+      "notes": "Grown venom glands charge needle-darts with lethal toxins or paralytic stims.",
+      "created_at": "2026-10-01T02:57:35.441887+00:00",
       "tier": null,
       "owner": "Designer"
     },
@@ -49593,6 +49824,23 @@
       "owner": "Designer"
     },
     {
+      "id": 749,
+      "name": "Morphic Tendril Lance",
+      "action": "P",
+      "usage": "2-Enc",
+      "effect": "Rng 2; Atk 💪 Dmg d💪; 💪^💪 or target Disarmed",
+      "belongs_to": "Weapon: Bio-Forge Gauntlet",
+      "genres": [
+        "Medieval",
+        "Modern",
+        "SciFi"
+      ],
+      "notes": "Bio-alloy tendrils snap into a hooked lance, wrenching weapons free.",
+      "created_at": "2026-10-01T02:57:35.441887+00:00",
+      "tier": null,
+      "owner": "Designer"
+    },
+    {
       "id": 176,
       "name": "Morphling",
       "action": "P",
@@ -49846,6 +50094,23 @@
       "owner": "Designer"
     },
     {
+      "id": 770,
+      "name": "Null-Weight Sweep",
+      "action": "M",
+      "usage": "2-Enc",
+      "effect": "Rng 1; Atk 💪 Dmg d💪+3; 💪^🏃 or target Prone",
+      "belongs_to": "Weapon: Quarterstaff",
+      "genres": [
+        "Medieval",
+        "Modern",
+        "SciFi"
+      ],
+      "notes": "Void-etched composite core gains momentary mass mid-swing, sweeping legs out.",
+      "created_at": "2026-10-01T02:57:35.441887+00:00",
+      "tier": null,
+      "owner": "Designer"
+    },
+    {
       "id": 339,
       "name": "Nutrient Synthesis (mso)",
       "action": "P",
@@ -50026,6 +50291,23 @@
       ],
       "notes": "Riser palmstore materializes pre-notched arrows, eliminating quiver reach time.",
       "created_at": "2026-10-01T01:45:45.620842+00:00",
+      "tier": null,
+      "owner": "Designer"
+    },
+    {
+      "id": 761,
+      "name": "Paralytic Sac Discharge",
+      "action": "A",
+      "usage": "1-Enc",
+      "effect": "Rng 1; Atk 💪 Dmg d💪+3; 💪^🫀 or target Stunned",
+      "belongs_to": "Weapon: Venom Tail",
+      "genres": [
+        "Medieval",
+        "Modern",
+        "SciFi"
+      ],
+      "notes": "Natural poison sacs flood a stinger with concentrated paralysis toxin.",
+      "created_at": "2026-10-01T02:57:35.441887+00:00",
       "tier": null,
       "owner": "Designer"
     },
@@ -50590,6 +50872,23 @@
       ],
       "notes": "Narrow-beam thermal arc capable of fine metallurgical cutting and emergency field welds.",
       "created_at": "2026-09-05T16:42:18.657513+00:00",
+      "tier": null,
+      "owner": "Designer"
+    },
+    {
+      "id": 759,
+      "name": "Predator's Blood Frenzy",
+      "action": "F",
+      "usage": "1-⚡",
+      "effect": "AoE 1r; Atk 💪 Dmg d💪+5; regains 1 Vit per target hit; 💪^🫀 or targets Weakened",
+      "belongs_to": "Weapon: Vampiric Claws",
+      "genres": [
+        "Medieval",
+        "Modern",
+        "SciFi"
+      ],
+      "notes": "Stolen vitality surges through the host, empowering each successive predatory strike.",
+      "created_at": "2026-10-01T02:57:35.441887+00:00",
       "tier": null,
       "owner": "Designer"
     },
@@ -51202,6 +51501,23 @@
       "owner": "Designer"
     },
     {
+      "id": 773,
+      "name": "Reality Implosion",
+      "action": "A",
+      "usage": "1-⚡",
+      "effect": "Rng Short; AoE 1r; Atk 🏃 Dmg d🏃+5; 🏃+5^💪 or each target pulled to impact point and Pinned to Ground",
+      "belongs_to": "Weapon: Void Sphere",
+      "genres": [
+        "Medieval",
+        "Modern",
+        "SciFi"
+      ],
+      "notes": "Shattered sphere tears a rift, dragging victims toward its collapsing heart.",
+      "created_at": "2026-10-01T02:57:35.441887+00:00",
+      "tier": null,
+      "owner": "Designer"
+    },
+    {
       "id": 576,
       "name": "Reaping Arc",
       "action": "A",
@@ -51394,6 +51710,21 @@
       "owner": "Designer"
     },
     {
+      "id": 765,
+      "name": "Retinal Flash",
+      "action": "M",
+      "usage": "1-Enc",
+      "effect": "Rng Medium; Atk 👁️ Dmg d👁️; 👁️^🫀 or target Blinded",
+      "belongs_to": "Weapon: Micro-Laser (mso)",
+      "genres": [
+        "SciFi"
+      ],
+      "notes": "Ocular-slaved barrels fire wherever the eye glances, searing enemy optics.",
+      "created_at": "2026-10-01T02:57:35.441887+00:00",
+      "tier": null,
+      "owner": "Designer"
+    },
+    {
       "id": 617,
       "name": "Reverse Saw Hamstring",
       "action": "A",
@@ -51467,6 +51798,21 @@
       ],
       "notes": "High-thrust rocket sled hovering above terrain at exceptional 👣 30.",
       "created_at": "2026-09-05T16:42:20.810013+00:00",
+      "tier": null,
+      "owner": "Designer"
+    },
+    {
+      "id": 754,
+      "name": "Rooting Lunge",
+      "action": "AM",
+      "usage": "2-Enc",
+      "effect": "Rng 1; 👣+2; Atk 💪 Dmg d💪+5; 💪^🫀 or target Weakened",
+      "belongs_to": "Weapon: Bioblades (Adolescent) (mso)",
+      "genres": [
+        "SciFi"
+      ],
+      "notes": "Maturing blade sinks root-like fibers into prey, draining strength mid-lunge.",
+      "created_at": "2026-10-01T02:57:35.441887+00:00",
       "tier": null,
       "owner": "Designer"
     },
@@ -51819,6 +52165,21 @@
       ],
       "notes": "Stab, then saw out along the serrated spine.",
       "created_at": "2026-10-01T00:51:31.793349+00:00",
+      "tier": null,
+      "owner": "Designer"
+    },
+    {
+      "id": 762,
+      "name": "Servo-Lock Grip",
+      "action": "P",
+      "usage": "2-Enc",
+      "effect": "Rng 1; Atk 💪 Dmg d💪; 💪^💪 or target Restrained",
+      "belongs_to": "Weapon: Cyber Talons",
+      "genres": [
+        "SciFi"
+      ],
+      "notes": "Finger-mounted servo actuators clamp the talons shut with hydraulic force.",
+      "created_at": "2026-10-01T02:57:35.441887+00:00",
       "tier": null,
       "owner": "Designer"
     },
@@ -53523,6 +53884,21 @@
       "owner": "Designer"
     },
     {
+      "id": 763,
+      "name": "Talon Rake",
+      "action": "A",
+      "usage": "1-Enc",
+      "effect": "Rng 1; Atk 💪 Dmg d💪; 💪^💪 or target Disarmed",
+      "belongs_to": "Weapon: Cyber-Claws (mso)",
+      "genres": [
+        "SciFi"
+      ],
+      "notes": "Fingertip servos snap talons outward, shredding grip tendons mid-swipe.",
+      "created_at": "2026-10-01T02:57:35.441887+00:00",
+      "tier": null,
+      "owner": "Designer"
+    },
+    {
       "id": 526,
       "name": "Talon Snare & Reel",
       "action": "A",
@@ -54124,6 +54500,38 @@
       "owner": "Designer"
     },
     {
+      "id": 764,
+      "name": "Tracking Launch",
+      "action": "A",
+      "usage": "1-Enc",
+      "effect": "Rng Medium; Atk 👁️ Dmg d👁️+5; ignores cover; 👁️^💪 or target Pinned to Ground",
+      "belongs_to": "Weapon: CyberBlades (mso)",
+      "genres": [
+        "SciFi"
+      ],
+      "notes": "Mentally guided shoulder blade curves around cover, pinning prey for retrieval.",
+      "created_at": "2026-10-01T02:57:35.441887+00:00",
+      "tier": null,
+      "owner": "Designer"
+    },
+    {
+      "id": 768,
+      "name": "Tremor Strike",
+      "action": "A",
+      "usage": "2-Enc",
+      "effect": "Rng 1; Atk 💪 Dmg d💪+3; foes within 1r of target: 💪^🏃 or Prone",
+      "belongs_to": "Weapon: Geomantic Staff",
+      "genres": [
+        "Medieval",
+        "Modern",
+        "SciFi"
+      ],
+      "notes": "Crystal-laced shaft resonates with bedrock, rippling shockwaves through the ground.",
+      "created_at": "2026-10-01T02:57:35.441887+00:00",
+      "tier": null,
+      "owner": "Designer"
+    },
+    {
       "id": 275,
       "name": "Trickster’s Satchel",
       "action": "P",
@@ -54169,6 +54577,23 @@
       ],
       "notes": "Heavy barbed drill dealing grievous continuous damage.",
       "created_at": "2026-09-05T16:42:21.761752+00:00",
+      "tier": null,
+      "owner": "Designer"
+    },
+    {
+      "id": 772,
+      "name": "Twin Zenith Flare",
+      "action": "A",
+      "usage": "1-⚡",
+      "effect": "Rng 1; Atk 💪 Dmg d💪+5; 💪^🫀 or target Stunned & Blinded",
+      "belongs_to": "Weapon: Sun-Blades",
+      "genres": [
+        "Medieval",
+        "Modern",
+        "SciFi"
+      ],
+      "notes": "Simultaneous dual discharge floods the nervous system with a blinding solar surge.",
+      "created_at": "2026-10-01T02:57:35.441887+00:00",
       "tier": null,
       "owner": "Designer"
     },
@@ -54687,6 +55112,23 @@
       ],
       "notes": "Spinning heavy double-head bowls targets off their feet.",
       "created_at": "2026-10-01T01:23:27.432513+00:00",
+      "tier": null,
+      "owner": "Designer"
+    },
+    {
+      "id": 756,
+      "name": "Whirlwind of Rending Fury",
+      "action": "AM",
+      "usage": "1-Enc",
+      "effect": "👣+2; Rng 1; Atk 💪 Dmg d💪+3 vs each foe within 1r; 💪^💪 or target Prone",
+      "belongs_to": "Weapon: Clawed Gauntlets",
+      "genres": [
+        "Medieval",
+        "Modern",
+        "SciFi"
+      ],
+      "notes": "Rune-fed sinew amplifiers turn raw rage into sweeping, armor-shredding arcs.",
+      "created_at": "2026-10-01T02:57:35.441887+00:00",
       "tier": null,
       "owner": "Designer"
     },
