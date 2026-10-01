@@ -32,35 +32,58 @@ Select one of the many sub-sets of powers such as Class👤, Race🧬, Combat St
 | 1-Rnd | A | **Sonic Dagger** | ✨ Atk d✨ Dmg. |
 | 1-⚡ | F | **Street Show** | Perform in downtime; earn 1d6 Silver or gain Minor for 1 day. |
 
-### 👤 **Bio-Gunner (mso) Powers** (1 Abilities)
+### 👤 **Bio-Gunner (mso) Powers** (4 Abilities)
 
 | Usage | Action | Name | Effect |
 | --- | --- | --- | --- |
+| 2-Enc | P | **Defense vs Ranged (mso)** | +1 Def vs blaster, rifle, and shot weapons. |
 | 2-Enc | F | **Odonata Conditioning (mso)** | Adv(🏃, Stealth, Ranged) |
+| 2-Enc | F | **Quick Draw (mso)** | +Switch weapons as Free action; 🚩+2. |
+| 2-Enc | P | **Sharp Shooter (mso)** | Precision called shot; ignores partial cover. |
 
-### 👤 **Bio-Warrior (mso) Powers** (1 Abilities)
+### 👤 **Bio-Warrior (mso) Powers** (6 Abilities)
 
 | Usage | Action | Name | Effect |
 | --- | --- | --- | --- |
+| 2-Enc | A | **Armor Penetration (mso)** | Ignores half target AR. |
+| 2-Enc | P | **Defense vs Melee (mso)** | +1 Def vs swords, axes, and melee weapons. |
+| 2-Enc | P | **Multiple Attacks (mso)** | Engage multiple adjacent foes in Melee. |
+| 2-Enc | P | **Parry (mso)** | Use Melee weapon to block incoming Atk. |
+| 2-Enc | P | **Riposte (mso)** | When foe misses Melee Atk; make immediate counter-strike. |
 | 2-Enc | F | **Silvan Conditioning (mso)** | Adv(BioTech, 🫀, Melee) |
 
-### 👤 **Cyber Warrior (mso) Powers** (1 Abilities)
+### 👤 **Cyber Warrior (mso) Powers** (5 Abilities)
 
 | Usage | Action | Name | Effect |
 | --- | --- | --- | --- |
+| 2-Enc | P | **Attack Pool (mso)** | Regain 1 🍀 for missed Atk. |
+| 2-Enc | P | **Berserk (mso)** | Primal rage; +2 Atk 💪 Dmg d💪; cannot distinguish friend from foe. |
+| 1-Enc | P | **High Death Threshold (mso)** | Death Checks start at -10 Vit |
 | 2-Enc | F | **Machine Ascension Conditioning (mso)** | Adv(👁️, 💪, Cyberware, 🫀) |
+| 1-Enc | P | **Regeneration (mso)** | Regain 1 Vit per Rnd for Encounter. |
 
-### 👤 **Destron (mso) Powers** (1 Abilities)
+### 👤 **Destron (mso) Powers** (4 Abilities)
 
 | Usage | Action | Name | Effect |
 | --- | --- | --- | --- |
+| 2-Enc | A | **Anti-Vehicle (mso)** | +3 Dmg vs vehicles. |
+| 2-Enc | P | **Structural Damage (mso)** | +3 Dmg vs structures, walls, and vehicle hulls. |
+| 1-Enc | P | **Tough Energy Weapons (mso)** | +1 AR vs energy weapons. |
 | 2-Enc | F | **Walking Tank Conditioning (mso)** | Adv(💪, Heavy Ranged); AR+3 |
 
-### 👤 **Dragon (mso) Powers** (1 Abilities)
+### 👤 **Dragon (mso) Powers** (9 Abilities)
 
 | Usage | Action | Name | Effect |
 | --- | --- | --- | --- |
+| 1-Enc | P | **Ambidexterity (mso)** | Dual-wield without off-hand penalty. |
+| 2-Enc | F | **Block Ranged (mso)** | +2 Blk vs arrows, spears, and low-velocity projectiles. |
+| 2-Enc | F | **Catch Ranged (mso)** | Catch low-velocity hurled weapon with 🏃. |
+| 2-Enc | P | **Defense vs Body (mso)** | +1 Def vs natural and body-class attacks. |
+| 2-Enc | A | **Disarm (mso)** | Rng 1; Atk 💪^💪 to disarm target's weapon. |
 | 2-Enc | F | **Dragon Style Conditioning (mso)** | Adv(💪, 🏃, Melee, Brawl); Brawl +2 |
+| 2-Enc | P | **Stunning Blow (mso)** | +Melee Atk; Dmg -3; Wnds = target Stunned. |
+| 1-Enc | P | **Tough Blunt Weapons (mso)** | +1 AR vs blunt weapons. |
+| 2-Enc | P | **Weapons Display (mso)** | Demonstrate weapon flourish; 💪^🫀 or target Weakened. |
 
 ### 👤 **Form - Giant Powers** (9 Abilities)
 
@@ -278,10 +301,11 @@ Select one of the many sub-sets of powers such as Class👤, Race🧬, Combat St
 | 2-Enc | P | **Void Strike** | Atk ✨ Dmg d✨ and ✨^🫀 or target displaced up to 3 sq (caster choice; not in air). |
 | 1-⚡ | A | **Void Vanquish** | ✨^✨ -> Vanquishes to the void, When return have 1/2 Vit, Max of 1 Vanquished. |
 
-### 👤 **Marine (mso) Powers** (1 Abilities)
+### 👤 **Marine (mso) Powers** (2 Abilities)
 
 | Usage | Action | Name | Effect |
 | --- | --- | --- | --- |
+| 1-Enc | P | **Fast Healing (mso)** | Rng Touch; restore d✨ Vit. |
 | 2-Enc | F | **Vanguard Conditioning (mso)** | Adv(👁️, 🏃, 💪, Ranged) |
 
 ### 👤 **Martial Artist - Blade Saint Powers** (22 Abilities)
@@ -311,11 +335,13 @@ Select one of the many sub-sets of powers such as Class👤, Race🧬, Combat St
 | 1-⚡ | A | **Unbending Steel** | On hit: target's Atk rolls suffer Disadvantage for 1 Rnd. |
 | 1-Enc | F | **Whispered Signal** | Allies in earshot gain 🚩+1 this rnd. |
 
-### 👤 **Mensi (mso) Powers** (1 Abilities)
+### 👤 **Mensi (mso) Powers** (3 Abilities)
 
 | Usage | Action | Name | Effect |
 | --- | --- | --- | --- |
 | 2-Enc | F | **Mensi Mind Conditioning (mso)** | Adv(👁️, Psionics) |
+| 1-Enc | P | **Resist Mind Control (mso)** | +3 to 🫀 and 👁️ saves vs mental control. |
+| 1-Enc | P | **Resist Psionics (mso)** | This creates a natural cognitive dampening field. |
 
 ### 👤 **Monk Powers** (35 Abilities)
 
@@ -357,10 +383,11 @@ Select one of the many sub-sets of powers such as Class👤, Race🧬, Combat St
 | 1-Enc | M | **Wall Run** | Move across walls/obstacles up to 👣; 🏃 if risky. |
 | 1-Rnd | P | **Wholeness of Body** | Restore 2 Vit to yourself. |
 
-### 👤 **Mutak (mso) Powers** (1 Abilities)
+### 👤 **Mutak (mso) Powers** (2 Abilities)
 
 | Usage | Action | Name | Effect |
 | --- | --- | --- | --- |
+| 1-Enc | P | **Slow Drain (mso)** | Rng Medium; temporal slow; target 👣-4. |
 | 2-Enc | F | **Somatic Fortitude Conditioning (mso)** | Adv(🫀, 💪, Fortitude) |
 
 ### 👤 **Psionics Powers** (23 Abilities)
@@ -501,10 +528,12 @@ Select one of the many sub-sets of powers such as Class👤, Race🧬, Combat St
 | 2-Enc | A | **Symbiotic Boost** | Symbiote on target: e.g. joints = 💪(*2); eyes = Awareness; frame = Fortitude; skull = 👁️. |
 | 1-Enc | M | **Tactical Insight** | Target gains Act(+1) for 1–2 rnds. |
 
-### 👤 **Warlock (mso) Powers** (1 Abilities)
+### 👤 **Warlock (mso) Powers** (3 Abilities)
 
 | Usage | Action | Name | Effect |
 | --- | --- | --- | --- |
+| 1-Enc | P | **Luck Restore (mso)** | Restore 1 🍀 per game session. |
+| 1-Enc | P | **Luck Sustain (mso)** | Spend 1 🍀 to double check result. |
 | 2-Enc | F | **Sorce Awakening Conditioning (mso)** | Adv(✨, Sorce, 👁️) |
 
 ### 👤 **Warrior Powers** (14 Abilities)
@@ -526,11 +555,13 @@ Select one of the many sub-sets of powers such as Class👤, Race🧬, Combat St
 | 1-Enc | P | **Weapon Breaker** | On successful 💪 Atk; destroy 1 enemy weapon/shield. |
 | 1-Enc | A | **Whirlwind Strike** | Atk all foes adjacent to you. |
 
-### 👤 **Warrior (mso) Powers** (1 Abilities)
+### 👤 **Warrior (mso) Powers** (3 Abilities)
 
 | Usage | Action | Name | Effect |
 | --- | --- | --- | --- |
 | 2-Enc | F | **Melee Mastery Conditioning (mso)** | Adv(💪, 🏃, Melee, Def) |
+| 2-Enc | P | **Throw Weapon (mso)** | Throw non-thrown melee weapon up to Rng Short. |
+| 1-Enc | P | **Tough Edged Weapons (mso)** | +1 AR vs edged weapons. |
 
 ### 👤 **Warrior - Aetherblade Powers** (14 Abilities)
 
@@ -701,6 +732,20 @@ Select one of the many sub-sets of powers such as Class👤, Race🧬, Combat St
 ## 🧬 **Racial Powers**
 
 
+### 🧬 **Anthropos (mso) Powers** (1 Abilities)
+
+| Usage | Action | Name | Effect |
+| --- | --- | --- | --- |
+| 1-Enc | P | **Extra Luck (mso)** | Reroll with +3 bonus when spending 🍀. |
+
+### 🧬 **Calemora (mso) Powers** (3 Abilities)
+
+| Usage | Action | Name | Effect |
+| --- | --- | --- | --- |
+| 1-Enc | P | **No Emotions (mso)** | Immune to emotional charm; 👁️+3 vs manipulation. |
+| 2-Enc | P | **Resist Heat (mso)** | +3 to 🫀 checks vs extreme heat. |
+| 1-Enc | P | **Strong Will (mso)** | +3 to 🫀 checks to resist unconsciousness. |
+
 ### 🧬 **Dwarf Powers** (10 Abilities)
 
 | Usage | Action | Name | Effect |
@@ -833,11 +878,13 @@ Select one of the many sub-sets of powers such as Class👤, Race🧬, Combat St
 | 1-Enc | P | **Shield of Names** | Adjacent ally’s AR+1 this rnd. |
 | 1-⚡ | F | **Veiled Mind** | On successful Resist✨^mental effect: 👁️^👁️ or attacker is Weakened. |
 
-### 🧬 **Kryll (mso) Powers** (2 Abilities)
+### 🧬 **Kryll (mso) Powers** (4 Abilities)
 
 | Usage | Action | Name | Effect |
 | --- | --- | --- | --- |
 | 1-Enc | P | **Carry More (mso)** | +4 to carrying capacity and heavy lifting. |
+| 1-Enc | P | **Enhanced Smell (mso)** | +3 to 👁️ scent tracking checks. |
+| 1-Enc | P | **Starlight Vision (mso)** | See in dim starlight as if daylight. |
 | 1-Enc | F | **Tail Spike Venom (mso)** | Brawl natural strike; Wnds = 🫀^🫀 or target Stunned. |
 
 ### 🧬 **Nelf Powers** (10 Abilities)
@@ -884,6 +931,20 @@ Select one of the many sub-sets of powers such as Class👤, Race🧬, Combat St
 | 1-Enc | P | **Tribal Bond** | Allies 🚩+1 for Encounter. |
 | 2-Enc | A | **Tusks & Claws** | All Brawl attacks: Dmg+2. |
 
+### 🧬 **Shanask (mso) Powers** (3 Abilities)
+
+| Usage | Action | Name | Effect |
+| --- | --- | --- | --- |
+| 1-Enc | P | **Luck Burn (mso)** | Use 1 🍀 to negate incoming Dmg. |
+| 1-Enc | P | **Radiate Fear (mso)** | Radiate fear creates an aura of dread. |
+| 1-Enc | P | **Resist Sorce (mso)** | +3 to Resist ✨ vs magical spells. |
+
+### 🧬 **Zin-Shee Male (mso) Powers** (1 Abilities)
+
+| Usage | Action | Name | Effect |
+| --- | --- | --- | --- |
+| 1-Enc | P | **Enhanced Jumping (mso)** | Psychosomatic leap; jump 👣+6; safe landing. |
+
 ## ⚔️ **Combat Style Powers**
 
 | Category | Usage | Action | Name | Effect |
@@ -891,24 +952,17 @@ Select one of the many sub-sets of powers such as Class👤, Race🧬, Combat St
 | Combat | 2-Enc | P | **Adhere (mso)** | +Weld to surface; immune to push and Prone; +4 AR; broken if wounded; for Encounter. |
 | Combat | 2-Enc | F | **Aiming Bonus (mso)** | Aiming focus; +1 Atk on next shot. |
 | Combat | 2-Enc | F | **Ambidexterity** | Sheath or draw 1 weapon; no P cost. |
-| Combat | 1-Enc | P | **Ambidexterity (mso)** | Dual-wield without off-hand penalty. |
-| Combat | 2-Enc | A | **Anti-Vehicle (mso)** | +3 Dmg vs vehicles. |
-| Combat | 2-Enc | A | **Armor Penetration (mso)** | Ignores half target AR. |
-| Combat | 2-Enc | P | **Attack Pool (mso)** | Regain 1 🍀 for missed Atk. |
 | Combat | 2-Enc | AM | **Axe Kick** | Dmg+3. |
 | Combat | 1-Enc | P | **Balance (mso)** | Rng Touch; equalize Wnds between 2 living targets. |
 | Combat | 1-Enc | P | **Beauty (mso)** | +3 to 👁️ social checks. |
-| Combat | 2-Enc | P | **Berserk (mso)** | Primal rage; +2 Atk 💪 Dmg d💪; cannot distinguish friend from foe. |
 | Combat | 2-Enc | P | **Binding Word (mso)** | Binds target to agreement or secret; ✨^👁️ or target bound. |
 | Combat | 1-Enc | A | **Blast (mso)** | Rng Medium; searing light; ✨^✨ or target Blinded. |
-| Combat | 2-Enc | F | **Block Ranged (mso)** | +2 Blk vs arrows, spears, and low-velocity projectiles. |
 | Combat | 2-Enc | A | **Blow (mso)** | Rng Short; Atk ✨ Dmg d✨; Wnds = push 1 sq. |
 | Combat | 1-⚡ | P | **Body Heal** | Self-heal: concentrate on wounded area; restore Heal(🫀) Vit (or per Ver). |
 | Combat | 2-Enc | A | **Body Heal (mso)** | Heals d✨ Vit. |
 | Combat | 1-⚡ | F | **Boomerang Block🛡️** | Hurl shield to intercept Atk targeting ally: roll Def normally; on success, total Block (no Dmg). |
 | Combat | 2-Enc | P | **Brace** | Plant shield: AR+1 for 1 Rnd. |
 | Combat | 1-Enc | P | **Catch Object (mso)** | Catch falling item or tossed object with 🏃. |
-| Combat | 2-Enc | F | **Catch Ranged (mso)** | Catch low-velocity hurled weapon with 🏃. |
 | Combat | 1-⚡ | A | **Chain Strikes** | Make 3 Atk & Dmg targeting same foe. |
 | Combat | 2-Enc | A | **Choke (mso)** | Rng Short; Atk ✨; Wnds = Stunned. |
 | Combat | 1-Enc | A | **Cleaving Swing** | On hit; deal half Dmg to all adjacent foes with Def ≤ the Atk. |
@@ -923,12 +977,8 @@ Select one of the many sub-sets of powers such as Class👤, Race🧬, Combat St
 | Combat | 1-Enc | A | **Death Blow (mso)** | Rng Short; Atk ✨ Dmg d✨; Wnds = push 1 sq. |
 | Combat | 1-Enc | A | **Death Ray (mso)** | Rng Medium; Atk ✨ Dmg d✨; Wnds = disintegrate living target. |
 | Combat | 1-Enc | P | **Defender’s Focus** | Gain Advantage on next Block roll. |
-| Combat | 2-Enc | P | **Defense vs Body (mso)** | +1 Def vs natural and body-class attacks. |
 | Combat | 2-Enc | P | **Defense vs Hurled (mso)** | Rng Medium; telekinetically hurl weapon with ✨. |
-| Combat | 2-Enc | P | **Defense vs Melee (mso)** | +1 Def vs swords, axes, and melee weapons. |
-| Combat | 2-Enc | P | **Defense vs Ranged (mso)** | +1 Def vs blaster, rifle, and shot weapons. |
 | Combat | 1-Enc | P | **Defensive Flourish** | Dod+2 for 1 Rnd. |
-| Combat | 2-Enc | A | **Disarm (mso)** | Rng 1; Atk 💪^💪 to disarm target's weapon. |
 | Combat | 2-Enc | P | **Disarm Strike** | On hit; normal Dmg and 🏃 or target drops weapon. |
 | Combat | 1-Enc | M | **Displace (mso)** | Teleport self up to 👣 ✨. |
 | Combat | 1-⚡ | AM | **Displace Group (mso)** | Teleport self up to 👣 ✨. |
@@ -947,16 +997,12 @@ Select one of the many sub-sets of powers such as Class👤, Race🧬, Combat St
 | Combat | 1-Enc | P | **Encase (mso)** | +Rng Medium; invisible psychic barrier traps target 👁️^👁️; target Immobilized for Encounter (breakout 💪^👁️). |
 | Combat | 2-Enc | A | **Energy Bolt (mso)** | Rng Medium; Atk ✨ Dmg d✨. |
 | Combat | 1-Enc | P | **Enhanced Hearing (mso)** | +3 to 👁️ auditory checks. |
-| Combat | 1-Enc | P | **Enhanced Jumping (mso)** | Psychosomatic leap; jump 👣+6; safe landing. |
-| Combat | 1-Enc | P | **Enhanced Smell (mso)** | +3 to 👁️ scent tracking checks. |
 | Combat | 1-Enc | P | **Enhanced Taste (mso)** | +3 to 👁️ poison/chemical taste detection. |
 | Combat | 1-Enc | P | **Enhanced Touch (mso)** | +3 to 👁️ micro-texture/vibration checks. |
 | Combat | 2-Enc | P | **Enhanced Use (mso)** | Bypass hardware requirement for 1 item. |
 | Combat | 1-Enc | P | **Enhanced Vision (mso)** | +3 to 👁️ visual checks. |
 | Combat | 1-Enc | P | **Expert Runner (mso)** | +3 to 🏃 running and sprinting rolls. |
-| Combat | 1-Enc | P | **Extra Luck (mso)** | Reroll with +3 bonus when spending 🍀. |
 | Combat | 1-Enc | P | **Fame (mso)** | Adv(👁️ Social) with allied and neutral factions. |
-| Combat | 1-Enc | P | **Fast Healing (mso)** | Rng Touch; restore d✨ Vit. |
 | Combat | 1-Enc | P | **Fearless (mso)** | Immune to fear; +3 to 🫀 Willpower checks. |
 | Combat | 1-Enc | F | **Flowing Assault** | After slaying a foe; immediately make off-hand Opportunity Atk. |
 | Combat | 1-Enc | AM | **Flying Kick** | Jump up to 👣 and strike; Atk & Dmg with Advantage. |
@@ -971,7 +1017,6 @@ Select one of the many sub-sets of powers such as Class👤, Race🧬, Combat St
 | Combat | 2-Enc | A | **Healing (mso)** | Rng Touch; restore d✨ Vit. |
 | Combat | 1-Rnd | P | **Hearing Boost** | Enhance hearing: Awareness (hearing) at bonus Val(👁️-1) or similar. Cannot stack with Super Hearing. |
 | Combat | 2-Enc | P | **Hearing Boost (mso)** | Skin-vibration awareness; 👁️+3 to hearing checks. |
-| Combat | 1-Enc | P | **High Death Threshold (mso)** | Death Checks start at -10 Vit |
 | Combat | 2-Enc | M | **Hurl (mso)** | +Rng Medium; telekinetically hurl weapon; Atk 👁️+2 Dmg d👁️+2; doubles weapon range band. |
 | Combat | 1-Enc | P | **Hurl King** | Draw and throw 1 hurled weapon as second Atk/Dmg. |
 | Combat | 1-Enc | P | **Immortal Stance (mso)** | +Root into stance; 👣 0; immovable up to 💪+10 force; +4 AR; broken if wounded; for Encounter. |
@@ -997,9 +1042,6 @@ Select one of the many sub-sets of powers such as Class👤, Race🧬, Combat St
 | Combat | 2-Enc | A | **Light Healing (mso)** | Rng Touch; restore d✨ Vit. |
 | Combat | 1-Enc | P | **Light Sleeper (mso)** | Aware while asleep; immune to stealth ambush. |
 | Combat | 2-Enc | P | **Long Range (mso)** | Increases weapon Rng bracket by 1 step. |
-| Combat | 1-Enc | P | **Luck Burn (mso)** | Use 1 🍀 to negate incoming Dmg. |
-| Combat | 1-Enc | P | **Luck Restore (mso)** | Restore 1 🍀 per game session. |
-| Combat | 1-Enc | P | **Luck Sustain (mso)** | Spend 1 🍀 to double check result. |
 | Combat | 1-🍀 | P | **Lucky Block🛡️** | Block as if max roll, on 1 Atk. |
 | Combat | 1-🍀 | P | **Lucky Dodge** | Avoid 1 incoming Atk. |
 | Combat | 1-🍀 | F | **Lucky Strike** | On successful Atk; Dmg+5. |
@@ -1013,8 +1055,6 @@ Select one of the many sub-sets of powers such as Class👤, Race🧬, Combat St
 | Combat | 1-Enc | P | **Molecular Diffusion (mso)** | Phase through solid walls up to 2 sq. |
 | Combat | 2-Enc | P | **Move and Attack (mso)** | Split move: move 👣 before and after Atk. |
 | Combat | 2-Enc | P | **Move Object (mso)** | +Rng Medium; telekinetically move unrestrained object 👣 (= to 👁️ die) up to (👁️ die x 20 lbs). |
-| Combat | 2-Enc | P | **Multiple Attacks (mso)** | Engage multiple adjacent foes in Melee. |
-| Combat | 1-Enc | P | **No Emotions (mso)** | Immune to emotional charm; 👁️+3 vs manipulation. |
 | Combat | 2-Enc | P | **Off-Hand Feint** | Distract with off-hand; main-hand Atk+2. |
 | Combat | 1-Enc | P | **Orders (mso)** | Issue verbal tactical orders; ally gains +3 on next action. |
 | Combat | 1-Enc | A | **Overwhelming Flurry** | Choose 1 foe; make main-hand Atk with Advantage. |
@@ -1022,18 +1062,14 @@ Select one of the many sub-sets of powers such as Class👤, Race🧬, Combat St
 | Combat | 2-Enc | P | **Oxygenate (mso)** | Oxygenate allows psychosomaticists to absorb oxygen from their body tissue. |
 | Combat | 2-Enc | P | **Paired Precision** | Atk+2 if you attacked only with other weapon last rnd. |
 | Combat | 1-⚡ | A | **Palm Heal** | On hit; normal Dmg and heal self equal to Wounds caused. |
-| Combat | 2-Enc | P | **Parry (mso)** | Use Melee weapon to block incoming Atk. |
 | Combat | 3-Enc | A | **Piercing Strike** | This Atk ignores 1 AR+ (Dmg+1 if target has armor). |
 | Combat | 2-Enc | A | **Power Punch** | Punch Atk 💪-1 Dmg d💪+2. |
 | Combat | 2-Enc | A | **Power Punch (mso)** | Rng 1; +2 Dmg on unarmed strike. |
 | Combat | 1-Rnd | P | **Precision Cut** | On hit; Dmg+1. |
 | Combat | 1-Enc | A | **Pressure Point** | On hit: normal Dmg and target weakened. |
 | Combat | 2-Enc | A | **Punch (mso)** | Rng 1; +2 Dmg on unarmed strike. |
-| Combat | 2-Enc | F | **Quick Draw (mso)** | +Switch weapons as Free action; 🚩+2. |
 | Combat | 1-Enc | F | **Quick Recovery** | Stand from Prone; no P cost. |
-| Combat | 1-Enc | P | **Radiate Fear (mso)** | Radiate fear creates an aura of dread. |
 | Combat | 2-Enc | P | **Read Surface Thoughts (mso)** | the psionicist to read the thoughts of another individual. |
-| Combat | 1-Enc | P | **Regeneration (mso)** | Regain 1 Vit per Rnd for Encounter. |
 | Combat | 1-Enc | F | **Relentless Flow** | If hitting same target 2 consecutive rounds: Dmg+1 for Encounter. |
 | Combat | 1-Enc | F | **Relentless Pressure** | If you hit with both weapons in same rnd; Atk+1 for Encounter. |
 | Combat | 2-Enc | A | **Rend (mso)** | Rng Short; telekinetically rip target; Atk ✨ Dmg d✨; ignores AR. |
@@ -1041,19 +1077,13 @@ Select one of the many sub-sets of powers such as Class👤, Race🧬, Combat St
 | Combat | 2-Enc | P | **Resist Cold (mso)** | +3 to 🫀 checks vs extreme cold. |
 | Combat | 1-Enc | P | **Resist Disease (mso)** | a genetically or cybernetically reinforced immune system. |
 | Combat | 2-Enc | P | **Resist Heat** | Resist🫀+5^heat, fire, and plasma for Encounter; reduce heat wounds by 1. |
-| Combat | 2-Enc | P | **Resist Heat (mso)** | +3 to 🫀 checks vs extreme heat. |
-| Combat | 1-Enc | P | **Resist Mind Control (mso)** | +3 to 🫀 and 👁️ saves vs mental control. |
 | Combat | 1-Enc | P | **Resist Poison (mso)** | +3 to 🫀 saves vs poisons and toxins. |
-| Combat | 1-Enc | P | **Resist Psionics (mso)** | This creates a natural cognitive dampening field. |
-| Combat | 1-Enc | P | **Resist Sorce (mso)** | +3 to Resist ✨ vs magical spells. |
 | Combat | 2-Enc | P | **Return (mso)** | Recalls thrown weapon back to hand as Free action. |
-| Combat | 2-Enc | P | **Riposte (mso)** | When foe misses Melee Atk; make immediate counter-strike. |
 | Combat | 2-Enc | P | **Rough Skin (mso)** | Toughened skin; +1 AR for encounter. |
 | Combat | 1-Enc | A | **Roundhouse Kick** | Atk all adjacent foes. |
 | Combat | 2-Enc | P | **Same Nish (mso)** | Keep previous Rnd 🚩 roll. |
 | Combat | 2-Enc | P | **Save Nish (mso)** | Bank unused action for next Rnd. |
 | Combat | 1-🍀 | F | **Serendipity** | Provides object, clue, or NPC (as per GM). |
-| Combat | 2-Enc | P | **Sharp Shooter (mso)** | Precision called shot; ignores partial cover. |
 | Combat | 2-Enc | F | **Shield (mso)** | +Self; psychokinetic shield; +3 AR for Encounter. |
 | Combat | 1-Enc | A | **Shield Bash** | Make 1 Atk with shield (use Def as Atk); on hit, deal d💪 Dmg and 💪 or target is Stunned. |
 | Combat | 1-⚡ | M | **Shield Charge** | Move up to MR; Atk 💪^Def: on success, deal d💪 Dmg and target is Prone. |
@@ -1064,24 +1094,19 @@ Select one of the many sub-sets of powers such as Class👤, Race🧬, Combat St
 | Combat | 1-Enc | A | **Shockblast (mso)** | Rng Medium; Atk ✨ Dmg d✨; Wnds = push 2 sq. |
 | Combat | 2-Enc | A | **Shove (mso)** | Rng Medium; telekinetically push target 2 sq; 👁️^🏃 or target Prone. |
 | Combat | 2-Enc | A | **Side Kick** | On hit; normal Dmg and push target d4sq. |
-| Combat | 1-Enc | P | **Slow Drain (mso)** | Rng Medium; temporal slow; target 👣-4. |
 | Combat | 1-Enc | P | **Social Status (mso)** | +3 to 👁️ persuasion among high society. |
 | Combat | 1-Enc | P | **Sorce Field (mso)** | +Self; mystic sorce barrier; +4 AR for Encounter. |
 | Combat | 2-Enc | P | **Specific Opponent (mso)** | +2 Atk/Dmg vs chosen rival species. |
 | Combat | 2-Enc | P | **Speed** | Accelerate muscle movement and reaction: MR(+2) or similar; Nish(🏃) improved. |
 | Combat | 2-Enc | M | **Speed (mso)** | +Self; 👣+2; 🚩+2; for Encounter. |
 | Combat | 1-Enc | A | **Spinning Backfist** | On hit; Dmg+4 and 💪 or target falls Prone. |
-| Combat | 1-Enc | P | **Starlight Vision (mso)** | See in dim starlight as if daylight. |
 | Combat | 1-Enc | P | **Steel Net** | Catch incoming melee blow: Blk+2 this Rnd. |
 | Combat | 2-Enc | P | **Strength Surge** | One roll: Strength(💪+2) for pull/restrain (not weapon or body Dmg unless GM allows). |
 | Combat | 2-Enc | P | **Strength Surge (mso)** | Muscle burst; +2 to 💪 checks this Rnd. |
 | Combat | 2-Enc | P | **Strengthen** | Brain–muscle efficiency: Strength(💪) improved. Cannot stack with Strength Surge. |
 | Combat | 2-Enc | P | **Strengthen (mso)** | Neuromuscular focus; +1 to 💪 rolls for encounter. |
-| Combat | 1-Enc | P | **Strong Will (mso)** | +3 to 🫀 checks to resist unconsciousness. |
-| Combat | 2-Enc | P | **Structural Damage (mso)** | +3 Dmg vs structures, walls, and vehicle hulls. |
 | Combat | 2-Enc | F | **Stun** | On unarmed hit: 💪^🫀 or target is Stunned. |
 | Combat | 2-Enc | P | **Stun (mso)** | +Rng 1; Atk 💪 Dmg d💪; Wnds = target Stunned (attacker may deal non-lethal Stun only or normal Dmg + Stun). |
-| Combat | 2-Enc | P | **Stunning Blow (mso)** | +Melee Atk; Dmg -3; Wnds = target Stunned. |
 | Combat | 1-Rnd | P | **Super Hearing** | +1c bonus to Awareness (hearing) based rolls. Cannot stack with hearing boost. |
 | Combat | 2-Enc | P | **Super Hearing (mso)** | Enhanced audial nerves; 👁️+3 to hearing checks. |
 | Combat | 1-Rnd | P | **Super Vision** | +1c bonus to Awareness (sight) based rolls. Cannot stack with vision boost. |
@@ -1091,13 +1116,9 @@ Select one of the many sub-sets of powers such as Class👤, Race🧬, Combat St
 | Combat | 2-Enc | P | **Tactical Analysis (mso)** | Analyze enemy combat patterns; +3 Def vs target for encounter. |
 | Combat | 2-Enc | P | **Telepathy (mso)** | Rng Long; 2-way mental communication. |
 | Combat | 1-⚡ | AM | **Teleport (mso)** | Rng Long; teleport self to line of sight. |
-| Combat | 2-Enc | P | **Throw Weapon (mso)** | Throw non-thrown melee weapon up to Rng Short. |
 | Combat | 2-Enc | A | **Tiger Claw** | Make 2 unarmed Atk; if both hit, each is Dmg+1. |
 | Combat | 1-Enc | P | **Tight Grip (mso)** | +3 to 💪 checks vs disarm and falling. |
 | Combat | 2-Enc | P | **Tight Quarters (mso)** | Ignore Atk penalties in narrow corridors. |
-| Combat | 1-Enc | P | **Tough Blunt Weapons (mso)** | +1 AR vs blunt weapons. |
-| Combat | 1-Enc | P | **Tough Edged Weapons (mso)** | +1 AR vs edged weapons. |
-| Combat | 1-Enc | P | **Tough Energy Weapons (mso)** | +1 AR vs energy weapons. |
 | Combat | 1-Enc | P | **Tough Projectile Weapons (mso)** | +1 AR vs projectile and kinetic weapons. |
 | Combat | 2-Enc | P | **Tough Skin** | Skin becomes leathery to rocky: +Val(💪-1) AR+ or similar (per Ver). |
 | Combat | 2-Enc | P | **Tough Skin (mso)** | Rocky dermal sheath; +2 AR for encounter. |
@@ -1114,7 +1135,6 @@ Select one of the many sub-sets of powers such as Class👤, Race🧬, Combat St
 | Combat | 2-Enc | P | **Weapon & Board** | If you hit with a weapon on your last turn: Atk+1 and Def+1 for 1 Rnd. |
 | Combat | 1-Enc | P | **Weapon Control** | On successful Atk; 🏃 disarms target. |
 | Combat | 2-Enc | P | **Weapon Mastery** | If you attacked last rnd with same weapon; Atk+2 and Dmg+2 this rnd. |
-| Combat | 2-Enc | P | **Weapons Display (mso)** | Demonstrate weapon flourish; 💪^🫀 or target Weakened. |
 | Combat | 1-⚡ | A | **Whirling Dance** | Make separate Atk & Dmg rolls targeting 2 adjacent foes. |
 | Combat | 1-🍀 | A | **Wild Gambit** | Your next roll has Advantage. |
 | Combat | 1-Enc | P | **Zero-Gravity (mso)** | Combatants unfamiliar with zero-gravity are at a serious disadvantage. |
