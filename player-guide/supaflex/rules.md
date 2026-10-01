@@ -1036,12 +1036,11 @@ Character advancement relies on Horizontal Augments without rigid hierarchical v
 
 | Category | AP🧩 Options |
 | --- | --- |
-| **In-Path & Meets Req (`Path & Req`)** | • Learn 1 In-Path Weapon, Armor, Shield, Power🔥, or Trait🧬 — **1 AP**<br>• Learn 1 In-Path Skill Set🎓 — **2 AP** |
+| **In-Path & Meets Req (`Path & Req`)** | • Learn 1 In-Path Weapon, Armor, Shield, Power🔥, Trait🧬, or Individual Skill🎓 — **1 AP**<br>• Learn 1 In-Path Skill Set🎓 — **2 AP** |
 | **In-Path & Unmet Req (`Path, ~Req`)** | • Learn In-Path Weapon, Armor, or Shield below requirements *(Current stats, auto-improve 0 AP, +1 AP refunded when met)* — **2 AP** (+1 AP Surcharge) |
 | **Universal Path Elements** | • Learn 1 Universal Trait or Power *(NO GM Approval)* — **3 AP**<br>*(Reduces to 1 AP if Universal Path is learned)* |
-| **Out-of-Path & Meets Req (`~Path & Req`)** | • Learn 1 Out-of-Path Weapon, Armor, Shield, Power🔥, or Trait🧬 *(GM Approval)* — **3 AP** (+2 AP Surcharge) |
+| **Out-of-Path & Meets Req (`~Path & Req`)** | • Learn 1 Out-of-Path Weapon, Armor, Shield, Power🔥, Trait🧬, or Individual Skill🎓 *(GM Approval)* — **3 AP** (+2 AP Surcharge)<br>• Learn 1 Out-of-Path Skill Set🎓 *(GM Approval)* — **4 AP** (+2 AP Surcharge) |
 | **Out-of-Path & Unmet Req (`~Path, ~Req`)** | • Learn 1 Out-of-Path Weapon, Armor, or Shield below requirements *(GM Approval; Current stats, +1 AP refunded when met)* — **4 AP** (+2 AP ~Path + 1 AP ~Req) |
-| **Skills (Universal)** | • Learn 1 Individual Skill🎓 — **1 AP**<br>• Learn 1 Skill Set🎓 — **2 AP** *(Universal, no path or req surcharges)* |
 | **New Paths🧭** | • Learn 1 new complete Path *(4 AP, GM Approval; Universal Path requires no GM Approval)* — **4 AP** |
 | **Powers🔥 Augments** | • Upgrade an existing Power🔥 along 1 Augment Vector — **1 AP**<br>• Randomly roll one Power🔥. If duplicate $\rightarrow$ gain **1 Free Augment Token** — **1 AP** |
 | **Vit❤️** | • Gain +2 Vit❤️ — **1 AP** |
@@ -1203,7 +1202,7 @@ Skills should not overshadow Powers🔥 — they are meant to be creative, situ
 
 A Skill Set🎓 is a logical collection of related skills.
 
-Learning a Skill Set🎓costs 2 AP🧩 and makes all skills🎓 in that set skilled.
+Learning an In-Path Skill Set🎓 costs **2 AP🧩** (Out-of-Path costs **4 AP🧩** with GM Approval) and makes all skills🎓 in that set skilled. Learning an Individual Skill costs **1 AP🧩** (In-Path) or **3 AP🧩** (Out-of-Path with GM Approval).
 
 The same skill🎓 may appear in multiple sets, possibly with different Atr✅. This is intentional.
 
