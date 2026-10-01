@@ -927,8 +927,8 @@ Spend AP to Learn & Improve Elements (1–4 AP):
 * Out-of-Path Elements (GM Approval) — Cross-path element meeting requirements (3 AP: +2 AP surcharge) | Out-of-Path Skill Set (3 AP)
 * Out-of-Path with Unmet Requirements (GM Approval) — Learn Out-of-Path Weapon/Armor/Shield below requirements (4 AP: +2 AP ~Path + 1 AP ~Req surcharges)
 * Learn New Path — Learn additional Path (4 AP + GM Approval)
-* Manage Vitality — Gain +2 Max Vit (1 AP)
-* Upgrade Power — Apply 1-AP Augment (1 AP)
+* Manage Vitality — Gain +2 Max Vit (1 AP, refundable at any time)
+* Upgrade Power — Apply Version Augment (Version # - 1 AP)
 
 Special AP Expenditures (1–8 AP):
 * Manage Attributes — Step-Up Attribute Die (2–8 AP) | Respec Attributes (1 AP)
@@ -963,8 +963,8 @@ Spend AP to Learn & Improve Elements (1–4 AP):
 • Out-of-Path Elements (GM Approval) — Cross-path element meeting requirements (3 AP: +2 AP surcharge) | Out-of-Path Skill Set (3 AP)
 • Out-of-Path with Unmet Requirements (GM Approval) — Learn Out-of-Path Weapon/Armor/Shield below requirements (4 AP: +2 AP ~Path + 1 AP ~Req surcharges)
 • Learn New Path — Learn additional Path (4 AP + GM Approval)
-• Manage Vitality — Gain +2 Max Vit (1 AP)
-• Upgrade Power — Apply 1-AP Augment (1 AP)
+• Manage Vitality — Gain +2 Max Vit (1 AP, refundable at any time)
+• Upgrade Power — Apply Version Augment (Version # - 1 AP)
 
 Special AP Expenditures (1–8 AP):
 • Manage Attributes — Step-Up Attribute Die (2–8 AP) | Respec Attributes (1 AP)
@@ -1042,8 +1042,8 @@ Character advancement relies on Horizontal Augments without rigid hierarchical v
 | **Out-of-Path & Meets Req (`~Path & Req`)** | • Learn 1 Out-of-Path Weapon, Armor, Shield, Power🔥, Trait🧬, or Individual Skill🎓 *(GM Approval)* — **3 AP** (+2 AP Surcharge)<br>• Learn 1 Out-of-Path Skill Set🎓 *(GM Approval)* — **4 AP** (+2 AP Surcharge) |
 | **Out-of-Path & Unmet Req (`~Path, ~Req`)** | • Learn 1 Out-of-Path Weapon, Armor, or Shield below requirements *(GM Approval; Current stats, +1 AP refunded when met)* — **4 AP** (+2 AP ~Path + 1 AP ~Req) |
 | **New Paths🧭** | • Learn 1 new complete Path *(4 AP, GM Approval; Universal Path requires no GM Approval)* — **4 AP** |
-| **Powers🔥 Augments** | • Upgrade an existing Power🔥 along 1 Augment Vector — **1 AP**<br>• Randomly roll one Power🔥. If duplicate $\rightarrow$ gain **1 Free Augment Token** — **1 AP** |
-| **Vit❤️** | • Gain +2 Vit❤️ — **1 AP** |
+| **Powers🔥 Augments** | • Upgrade an existing Power🔥 along 1 Augment Vector / New Version — **Version # - 1 AP** (v2: 1 AP, v3: 2 AP, v4: 3 AP, etc.)<br>• Randomly roll one Power🔥. If duplicate $\rightarrow$ gain **1 Free Augment Token** — **1 AP** |
+| **Vit❤️** | • Gain +2 Vit❤️ — **1 AP** *(Refundable at any time)* |
 | **Atr✅** | • Reshuffle (swap some/all of your Atr✅ dice) — **1 AP** *(Downtime / Milestone Level-Up Only)* |
 
 #### Tier 2: Vertical Progression & Stat Step-Ups (1–8 AP🧩)
@@ -1999,7 +1999,7 @@ SupaFlex eliminates weight math, bulk values, and movement rate penalties. A cha
 * **Universal 1 AP Learning:** Every standard Gear Power costs exactly **1 AP** to learn. Essential environmental/mundane utilities marked as `Free ⭕` cost **0 AP**.
 * **Installed Mod Dependency:** Gear Powers tied to a specific modification (`Mod: [Name]`) require that mod to be installed on the host gear item before the power can be learned.
 * **In-Modal Mod Commerce:** To minimize modal bouncing, players can purchase and install compatible mods with Gold/Silver directly inside the Gear Powers Manager catalog drawer.
-* **Unlearn / Refund at Will:** Players may unlearn a learned Gear Power at any time, immediately refunding the 1 AP back to their character's available AP pool.
+* **Unlearn / Refund at Will:** Players may unlearn a learned Gear Power at any time, immediately refunding the initial 1 AP plus all cumulative version AP back to their character's available AP pool.
 
 #### 2. The 2-Level Expandable Hierarchy Tree
 Across the Character Sheet Main Card (`GearPowersCard`), the `ManageGearPowersModal`, and the `GearCard` (Gear Manager), equipment capabilities are organized in an intuitive 2-level expandable tree:
@@ -2018,13 +2018,13 @@ The Gear Powers Card header features a clean, high-density HUD layout:
 #### 4. Exotic Gear Manager Architecture & In-Modal Commerce Rules
 * **Unified Single Large Pane:** The Exotic Gear Manager (`ManageGearPowersModal.tsx`) uses a unified single large scrollable pane matching the visual hierarchy of the on-sheet Exotic Gear card. It catalogs all physically owned gear that features compatible mods, installed mods, or inherent gear powers (Exotics, Artifacts, and moddable gear).
 * **Inline Mod Purchasing & Installation:** Compatible mods render with actionable green `+ Buy [cost]` buttons positioned immediately inline after the mod name and `ℹ️` icon (eliminating wide horizontal scanning across empty space). Clicking checks character funds via `parseCostToSilver` and deducts gold/silver, adding the mod to `installed_mods`. If unaffordable, the button is greyed out with an explanatory shortfall tooltip. Owned or installed mods display an inline gold `Installed` badge alongside a trashcan button (`Trash2`) to uninstall the mod.
-* **1-AP Universal Power Learning:** Powers under installed mods (or inherent chassis nodes) feature actionable green `+ Learn (1 AP)` buttons. When learned, this transitions into a gold `Known` badge accompanied by a pencil button (`✏️`) to launch the Version Editor and a trashcan button (`Trash2`) to unlearn the power (refunds 1 AP). Powers under uninstalled mods are disabled until the mod is purchased.
+* **1-AP Universal Power Learning:** Powers under installed mods (or inherent chassis nodes) feature actionable green `+ Learn (1 AP)` buttons. When learned, this transitions into a gold `Known` badge accompanied by a pencil button (`✏️`) to launch the Version Editor and a trashcan button (`Trash2`) to unlearn the power (refunds initial 1 AP + all cumulative version AP). Powers under uninstalled mods are disabled until the mod is purchased.
 * **Color Standardization:** Actionable purchase/learning buttons (`+ Buy`, `+ Learn`) strictly use **Green** (`bg-emerald-600`), while ownership/learning badges (`Installed`, `Known`) strictly use **Gold** (`bg-amber-950/80 text-amber-300 border-amber-500/50`).
-* **Version Editor Drawer Popover:** Clicking the pencil icon on any power card opens a half-width popover drawer sliding in from the right edge of the modal. Players can customize action types, usage frequencies, effect text with inline icons, and save/learn upgraded versions for 1 AP without closing the manager.
+* **Version Editor Drawer Popover:** Clicking the pencil icon on any power card opens a half-width popover drawer sliding in from the right edge of the modal. Players can customize action types, usage frequencies, effect text with inline icons, and save/learn upgraded versions on an escalating AP scale (Version # - 1 AP: v2 = 1 AP, v3 = 2 AP, v4 = 3 AP, etc.) without closing the manager.
 * **Deletion & AP Refund Invariant:**
-  * **Chassis Deletion:** Dropping a gear item removes the chassis from `simple_gear`, uninstalls all mods, unlearns all learned powers on that chassis or its mods, and refunds 1 AP per learned power ($1\text{ AP} \times N$) logged in `ap_log`. Currency is non-refundable.
-  * **Mod Uninstallation:** Clicking trashcan on an installed mod removes it from `installed_mods` (tracking in `removed_mods` if inherent), unlearns all powers associated with that mod, and refunds all AP invested in those powers to `ap_log`. Currency is non-refundable.
-  * **Power Unlearning:** Clicking trashcan on a learned power unlearns it from `spell_slots` and refunds 1 AP to `ap_log`.
+  * **Chassis Deletion:** Dropping a gear item removes the chassis from `simple_gear`, uninstalls all mods, unlearns all learned powers on that chassis or its mods, and refunds all invested AP (initial 1 AP + all cumulative version AP: `1 + (V - 1) * V / 2` AP) per learned power logged in `ap_log`. Currency is non-refundable.
+  * **Mod Uninstallation:** Clicking trashcan on an installed mod removes it from `installed_mods` (tracking in `removed_mods` if inherent), unlearns all powers associated with that mod, and refunds all AP invested in those powers (initial 1 AP + cumulative version AP) to `ap_log`. Currency is non-refundable.
+  * **Power Unlearning:** Clicking trashcan on a learned power unlearns it from `spell_slots` and refunds all invested AP (initial 1 AP + cumulative version AP) to `ap_log`.
 
 #### 5. Multi-Genre Parity Matrix
 
