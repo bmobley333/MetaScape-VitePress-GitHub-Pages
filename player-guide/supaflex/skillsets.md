@@ -9,27 +9,27 @@ Master indexed skill sets and atomic skills directory.
 | **Acrobatics** | 🏃 | Physical | Agility, Athletics |  |
 | **Acrobatics (mso)** | 🏃 | Physical | Athletic & Physical | Acrobatics is the ability to do jumps, flips, tumbles, feats of balance, etc. Successful acrobatics checks allow a character to cross hazardous terrain, dodge falling obstacles, and perform dramatic physical maneuvers. |
 | **All Repair Skills (mso)** | 👁️ | Tech | Engineer, Mechanic |  |
-| **Ambidexterity** | 🏃 | Martial | Spec Thief |  |
+| **Ambidexterity** | 🏃 | Martial | Spec Thief, Aetherblade Skills, Blade Saint Skills |  |
 | **Ambidexterity (mso)** | 🏃 | Martial | Martial Artist |  |
-| **Ambush** | 🏃 | General | Goblin Skills, Orc Skills, Saurian Skills |  |
+| **Ambush** | 🏃 | General | Goblin Skills, Orc Skills, Saurian Skills, Bloodfang Berserker Skills, Ranger Skills, Shadow Kill Skills |  |
 | **Animal Handling** | 👁️ | General | Druidic, Husbandry |  |
 | **Appraise** | 👁️ | General | Mercantile, Gnome Gadgeteer Skills, Goblin Scrapper Skills |  |
-| **Artistry** | 👁️ | General | Elven Skills |  |
-| **Assess Stonework** | 👁️ | General | Dungeoneering, Blackaxe Clan Skills |  |
+| **Artistry** | 👁️ | General | Elven Skills, Bard Skills |  |
+| **Assess Stonework** | 👁️ | General | Dungeoneering, Blackaxe Clan Skills, Geomancer Skills |  |
 | **Astrogation** | 👁️ | Tech | Ship Office Astrogation, Ship Office Helm |  |
-| **Astrogation (mso)** | 👁️ | Tech | Astrogator, Helm, Vessel Operations | Astrogation is the ability to plot the best, fastest and safest course through space. With astrogation a character is able to determine safe landing spots, orbital trajectories, etc., and use the skill to assist the helmsman. Simple planet-to-planet course plotting requires no roll; interstellar travel through unexplored space or wormholes requires challenging rolls. |
-| **Awareness** | 👁️ | General | Awareness, Iron Lotus Discipline, Streetwise, Streetwise Survival, Human Skills, Calemora Skills |  |
+| **Astrogation (mso)** | 👁️ | Tech | Astrogator, Helm, Vessel Operations, Starborn Ranger Skills | Astrogation is the ability to plot the best, fastest and safest course through space. With astrogation a character is able to determine safe landing spots, orbital trajectories, etc., and use the skill to assist the helmsman. Simple planet-to-planet course plotting requires no roll; interstellar travel through unexplored space or wormholes requires challenging rolls. |
+| **Awareness** | 👁️ | General | Awareness, Iron Lotus Discipline, Streetwise, Streetwise Survival, Human Skills, Calemora Skills, Warrior Skills, Bulwark Discipline, Ranger Skills |  |
 | **Backstab** | 💪 | General | Assassin |  |
 | **Balance** | 🏃 | Tech | Agility, Ship Office Engineering |  |
 | **Balance (mso)** | 🏃 | Tech | Engineer |  |
-| **BioTech (mso)** | 👁️ | BioTech |  |  |
+| **BioTech (mso)** | 👁️ | BioTech | Bio Engineer Skills, Bio-Gunner Skills, Bio-Warrior Skills |  |
 | **Blend Into Crowds** | 🏃 | General | Streetwise, Streetwise Survival, Urban Survival, Urban Survival🎓 |  |
 | **Brewing** | 👁️ | General | Dwarven Skills |  |
 | **Bridge Officer (mso)** | 👁️ | Tech | Astrogator, Communications, Engineer, Fighter Pilot, Helm, Medic, Programmer, Scientist, Tactical |  |
 | **Carpentry** | 💪 | General | Crafting |  |
-| **Catch Object** | 🏃 | Tech | Ship Office Engineering |  |
+| **Catch Object** | 🏃 | Tech | Ship Office Engineering, Magnetic Discipline |  |
 | **Catch Object (mso)** | 🏃 | Tech | Engineer, Mechanic |  |
-| **Charm** | 👁️ | General | Diplomacy, Fairy Skills, Nelf Skills, Nymph Skills |  |
+| **Charm** | 👁️ | General | Diplomacy, Fairy Skills, Nelf Skills, Nymph Skills, Misdirection Skills, Glamour Discipline |  |
 | **Climbing** | 🏃 | Physical | Agility, Athletics, Dungeoneering, Mountaineering, Scout, Spec Spy, Spec Survivalist, Spec Thief, Thievery, Thievery🎓 |  |
 | **Climbing (mso)** | 🏃 | Physical | Athletic & Physical, Spy, Survivalist | This skill enables the character to climb sheer or precarious surfaces which would normally be too difficult to climb. The GM assesses a difficulty rating based on the surface; a successful check completes the climb, while a failure indicates a fall. |
 | **Cloak** | 👁️ | Martial | Ship Office Tactical, Ship Office Tech |  |
@@ -45,75 +45,75 @@ Master indexed skill sets and atomic skills directory.
 | **Cooking** | 👁️ | General | Halfling Skills |  |
 | **Counter Security** | 👁️ | Tech | Ship Office Programmer, Ship Office Tech, Spec Spy, Spec Thief |  |
 | **Counter Security (mso)** | 👁️ | Tech | Programmer, Spy | This skill enables a character to break through most forms of security devices and measures. This includes picking old world mechanical locks, jury rigging electronic doors, breaking security codes, and otherwise gaining entry to secured areas. |
-| **Crafting** | 💪 | General | Orc Skills, Goblin Scrapper Skills |  |
-| **Create Distractions** | 👁️ | General | Streetwise, Streetwise Survival, Fairy Skills, Gnome Gadgeteer Skills, Nelf Skills, Nymph Skills |  |
+| **Crafting** | 💪 | General | Orc Skills, Goblin Scrapper Skills, Punk Skills |  |
+| **Create Distractions** | 👁️ | General | Streetwise, Streetwise Survival, Fairy Skills, Gnome Gadgeteer Skills, Nelf Skills, Nymph Skills, Bard Skills, Pixie Skills |  |
 | **Cure Disease** | 👁️ | General | Healing Arts, Medicine |  |
-| **Cure Poison** | 👁️ | General | Healing Arts, Medicine |  |
-| **CyberTech (mso)** | 👁️ | CyberTech |  |  |
-| **Damage Control** | 💪 | Tech | Ship Office Engineering, Ship Office Tactical, Vehicle Driver |  |
+| **Cure Poison** | 👁️ | General | Healing Arts, Medicine, Verdant Sentinel Skills |  |
+| **CyberTech (mso)** | 👁️ | CyberTech | Cyber Warrior Skills, Occult-Tech Discipline |  |
+| **Damage Control** | 💪 | Tech | Ship Office Engineering, Ship Office Tactical, Vehicle Driver, Inferno Vanguard Skills |  |
 | **Damage Control (mso)** | 💪 | Tech | Engineer, Tactical | This skill enables characters to prevent system failure on board vehicles and ships which have taken critical damage, as described in RB, combat, vehicle, system failure. The roll is combined(cat) with the ship’s damage control rating (if any). This skill has virtually no other use (i.e., it is not a repair skill by itself). |
-| **Danger Sense** | 👁️ | Tech | Guard Skills, Mountaineering, Ship Office Tactical, Spec Spy, Spec Survivalist, Spec Thief |  |
-| **Danger Sense (mso)** | 👁️ | Tech | Fighter Pilot, Spy, Survivalist, Tactical, Dracan Skills, Kryll Skills, Shanask Skills |  |
-| **Demolitions (mso)** | 👁️ | Tech | Martial, Tactical | Demolitions is the skill of being able to set explosive charges so they will detonate in a desired fashion. Note this is not a combat skill and may not be used when throwing grenades or other explosives at opponents. When explosive damage is rolled, it is combined(cat) with this skill. |
-| **Detect Enchantments** | ✨ | General | Arcana, Fairy Skills, Bloodmarked Skills |  |
-| **Detect Lie** | 👁️ | Tech | Awareness, Ship Office Communications, Spec Spy, Spec Thief |  |
-| **Detect Lie (mso)** | 👁️ | Tech | Communications, Spy, Shanask Skills | This skill allows a character to determine whether an individual is telling the truth. Note that, as this is an intuitive skill, the PC will only have a 'gut feeling' whether the individual is telling the truth or not. Lie detection is rolled vs the subject's Int. If the roll fails, the GM may misinform the player. |
-| **Detect Metal** | 👁️ | General | Magnetism, Gnome Gadgeteer Skills |  |
+| **Danger Sense** | 👁️ | Tech | Guard Skills, Mountaineering, Ship Office Tactical, Spec Spy, Spec Survivalist, Spec Thief, Psionic Sentinel Skills |  |
+| **Danger Sense (mso)** | 👁️ | Tech | Fighter Pilot, Spy, Survivalist, Tactical, Dracan Skills, Kryll Skills, Shanask Skills, Bio-Gunner Skills, Cyber Warrior Skills, Marine Skills, Mutak Skills, Occult-Tech Discipline, DHA Assault Discipline |  |
+| **Demolitions (mso)** | 👁️ | Tech | Martial, Tactical, Dragon Skills, Marine Skills, DHA Assault Discipline | Demolitions is the skill of being able to set explosive charges so they will detonate in a desired fashion. Note this is not a combat skill and may not be used when throwing grenades or other explosives at opponents. When explosive damage is rolled, it is combined(cat) with this skill. |
+| **Detect Enchantments** | ✨ | General | Arcana, Fairy Skills, Bloodmarked Skills, Aetherblade Skills, Lifestealer Skills, Sun-Devoted Skills, Elemental Discipline, Void Magic Skills |  |
+| **Detect Lie** | 👁️ | Tech | Awareness, Ship Office Communications, Spec Spy, Spec Thief, Psionics Skills |  |
+| **Detect Lie (mso)** | 👁️ | Tech | Communications, Spy, Shanask Skills, Occult-Tech Discipline | This skill allows a character to determine whether an individual is telling the truth. Note that, as this is an intuitive skill, the PC will only have a 'gut feeling' whether the individual is telling the truth or not. Lie detection is rolled vs the subject's Int. If the roll fails, the GM may misinform the player. |
+| **Detect Metal** | 👁️ | General | Magnetism, Gnome Gadgeteer Skills, Magnetic Discipline |  |
 | **Detect/Remove Traps** | 🏃 | Covert | Dungeoneering, Goblin Skills, Scout, Thievery, Thievery🎓, Gnome Gadgeteer Skills |  |
-| **Direction Sense** | 👁️ | General | Dungeoneering, Blackaxe Clan Skills |  |
-| **Disguise** | 👁️ | Covert | Rogue, Spec Spy, Spec Thief, Nymph Skills |  |
+| **Direction Sense** | 👁️ | General | Dungeoneering, Blackaxe Clan Skills, Ranger Skills, Geomancer Skills |  |
+| **Disguise** | 👁️ | Covert | Rogue, Spec Spy, Spec Thief, Nymph Skills, Shadow Kill Skills |  |
 | **Disguise (mso)** | 👁️ | Covert | Spy | Characters with disguise can make themselves look different, hiding their own appearance. This skill requires the use of props: makeup, clothing, brushes, even dirt. The skill roll is combined(cat) with the prop's rating (such as a disguise kit). Disguise attempts are rolled vs the Awa of any observer. |
 | **Dominate** | 🫀 | Universal | Ship Office Captain |  |
-| **Dominate (mso)** | 🫀 | Universal | Captain, Dracan Skills, Shanask Skills | This skill enables PCs to force NPCs to do their bidding through sheer Will Power (fear in most cases). When attempting to dominate, the PC rolls their skill vs the opponent’s WP. If the roll succeeds, the NPC is compelled to follow the PC’s instructions. This skill should never be used upon a fellow PC. |
+| **Dominate (mso)** | 🫀 | Universal | Captain, Dracan Skills, Shanask Skills, Mensi Skills | This skill enables PCs to force NPCs to do their bidding through sheer Will Power (fear in most cases). When attempting to dominate, the PC rolls their skill vs the opponent’s WP. If the roll succeeds, the NPC is compelled to follow the PC’s instructions. This skill should never be used upon a fellow PC. |
 | **Drive Vehicle** | 🏃 | Tech | Ship Office Helm, Vehicle Driver |  |
 | **Drive Vehicle (mso)** | 🏃 | Tech | Helm | This skill allows a character to drive any planetary vehicle, except for craft purely designed for flying. This includes transports, armored vehicles, hyperbikes, etc. Normal driving requires no roll; driving in rugged terrain, during a high speed chase, or in severe storms requires a skill roll. |
-| **Empathy** | 👁️ | Tech | Mental Discipline, Ship Office Communications, Ship Office Medic, Bloodmarked Skills |  |
-| **Empathy (mso)** | 👁️ | Tech | Communications, Medic | This skill borders upon the psionic realm. Empathy allows characters to sense others’ moods — sad, angry, happy, depressed, etc. Characters make a skill roll vs the opponent’s WP to determine their emotional state. Highly reserved races like the Calemora impose a -3 penalty to the check. |
-| **Enhanced Hearing** | 👁️ | Tech | Ship Office Communications, Spec Spy, Spec Thief |  |
-| **Enhanced Hearing (mso)** | 👁️ | Tech | Communications, Spy |  |
+| **Empathy** | 👁️ | Tech | Mental Discipline, Ship Office Communications, Ship Office Medic, Bloodmarked Skills, Restoration Discipline, Psionics Skills |  |
+| **Empathy (mso)** | 👁️ | Tech | Communications, Medic, Occult-Tech Discipline | This skill borders upon the psionic realm. Empathy allows characters to sense others’ moods — sad, angry, happy, depressed, etc. Characters make a skill roll vs the opponent’s WP to determine their emotional state. Highly reserved races like the Calemora impose a -3 penalty to the check. |
+| **Enhanced Hearing** | 👁️ | Tech | Ship Office Communications, Spec Spy, Spec Thief, Shadow Kill Skills |  |
+| **Enhanced Hearing (mso)** | 👁️ | Tech | Communications, Spy, Starborn Ranger Skills, Cyber Warrior Skills, Mensi Skills |  |
 | **Enhanced Touch** | 👁️ | Tech | Ship Office Engineering, Ship Office Medic |  |
-| **Enhanced Touch (mso)** | 👁️ | Tech | Engineer, Medic, Kryll Skills |  |
-| **Escape Artist** | 🏃 | General | Agility, Goblin Scrapper Skills |  |
-| **Evasion** | 🏃 | General | Streetwise, Streetwise Survival, Fairy Skills, Nelf Skills, Nymph Skills |  |
-| **Expert Runner** | 🏃 | Covert | Spec Spy, Spec Thief |  |
+| **Enhanced Touch (mso)** | 👁️ | Tech | Engineer, Medic, Kryll Skills, Bio Engineer Skills, Bio-Warrior Skills, Cyber Warrior Skills, Mutak Skills |  |
+| **Escape Artist** | 🏃 | General | Agility, Goblin Scrapper Skills, Pixie Skills |  |
+| **Evasion** | 🏃 | General | Streetwise, Streetwise Survival, Fairy Skills, Nelf Skills, Nymph Skills, Aetherblade Skills, Blade Saint Skills, Inner Peace Discipline |  |
+| **Expert Runner** | 🏃 | Covert | Spec Spy, Spec Thief, Shadow Kill Skills |  |
 | **Expert Runner (mso)** | 🏃 | Covert | Spy |  |
-| **Falling** | ✨ | Physical | Agility, Magnetism, Mountaineering, Spec Survivalist |  |
+| **Falling** | ✨ | Physical | Agility, Magnetism, Mountaineering, Spec Survivalist, Magnetic Discipline, Psychosomatics Skills |  |
 | **Falling (mso)** | ✨ | Physical | Survivalist | Falling skill allows a character to fall a number of feet equal to his skill roll without damage. A skill roll of 20, for example, would enable a character to fall 4 sq without injury. If the fall exceeds the skill roll, the falling damage is reduced by the amount of the roll. In any event the typical AR check is still allowed. |
-| **Fast Talk** | 👁️ | Tech | Diplomacy, Mercantile, Ship Office Communications, Spec Spy, Spec Thief, Nelf Skills |  |
-| **Fast Talk (mso)** | 👁️ | Tech | Communications, Spy | This skill enables a character to persuade another to his or her point of view. It may be used while bartering with a merchant, while attempting to get past officious guards, when dealing with troublesome planetary officials, etc. Fast talk rolls are made against an opponent’s Int. |
-| **Fearless (mso)** | 👁️ | Tech | Fighter Pilot, Tactical, Dracan Skills |  |
-| **Feats Of Strength** | 💪 | General | Athletics, Saurian Skills, Calemora Skills |  |
-| **First Aid (mso)** | 👁️ | Medical | Medic, Scientist, Survivalist | First aid allows a character to heal damage to an injured individual. This skill restores a number of points equal to a single skill roll at -3, and it can only be used once per character after combat. It may also be used once every eight hours without penalty if the patient is under first aid care. It can also be used to stop Vitality drain by beating a difficulty of 5x the critical damage. |
+| **Fast Talk** | 👁️ | Tech | Diplomacy, Mercantile, Ship Office Communications, Spec Spy, Spec Thief, Nelf Skills, Misdirection Skills |  |
+| **Fast Talk (mso)** | 👁️ | Tech | Communications, Spy, Mensi Skills | This skill enables a character to persuade another to his or her point of view. It may be used while bartering with a merchant, while attempting to get past officious guards, when dealing with troublesome planetary officials, etc. Fast talk rolls are made against an opponent’s Int. |
+| **Fearless (mso)** | 👁️ | Tech | Fighter Pilot, Tactical, Dracan Skills, Bio-Gunner Skills, Bio-Warrior Skills, Cyber Warrior Skills, Dragon Skills |  |
+| **Feats Of Strength** | 💪 | General | Athletics, Saurian Skills, Calemora Skills, Cursed Spartan Skills, Bulwark Discipline, Bloodfang Berserker Skills, Inferno Vanguard Skills, Geomancer Skills, Giant Skills, Psychosomatics Skills, Destron Skills |  |
+| **First Aid (mso)** | 👁️ | Medical | Medic, Scientist, Survivalist, Bio Engineer Skills | First aid allows a character to heal damage to an injured individual. This skill restores a number of points equal to a single skill roll at -3, and it can only be used once per character after combat. It may also be used once every eight hours without penalty if the patient is under first aid care. It can also be used to stop Vitality drain by beating a difficulty of 5x the critical damage. |
 | **Fishing** | 🏃 | General | Sailing, Scout |  |
-| **Fletching** | 💪 | General | Elven Skills |  |
-| **Forage** | 🏃 | General | Scout |  |
-| **Forest Lore** | 👁️ | General | Elven Skills, Nelf Skills |  |
-| **Gambling** | 👁️ | General | Mercantile, Rogue, Spec Thief |  |
+| **Fletching** | 💪 | General | Elven Skills, Ranger Skills |  |
+| **Forage** | 🏃 | General | Scout, Verdant Sentinel Skills |  |
+| **Forest Lore** | 👁️ | General | Elven Skills, Nelf Skills, Ranger Skills, Verdant Sentinel Skills |  |
+| **Gambling** | 👁️ | General | Mercantile, Rogue, Spec Thief, Bard Skills |  |
 | **Gambling (mso)** | 🫀 | General | Social, Covert, Anthropos Skills | Gambling allows a character to have better odds than others when playing games of chance. If the game involves rolling dice or using cards in reality, the player gets to roll twice or draw extra cards. Otherwise, the roll is combined(cat) with this skill. Grants +3 to straight Luck checks during games. |
 | **General Knowledge** | 👁️ | Medical | Ship Office Medic, Ship Office Scientist |  |
-| **General Knowledge (mso)** | 👁️ | Medical | Medic, Anthropos Skills | This skill represents broad knowledge and understanding. The skill can be used if the player wishes to determine if his character knows something. Also, if everyone is allowed to make an 👁️ check on a knowledge based subject, this character should make the roll combined(cat) with this skill. |
+| **General Knowledge (mso)** | 👁️ | Medical | Medic, Anthropos Skills, Bio Engineer Skills | This skill represents broad knowledge and understanding. The skill can be used if the player wishes to determine if his character knows something. Also, if everyone is allowed to make an 👁️ check on a knowledge based subject, this character should make the roll combined(cat) with this skill. |
 | **Guard Drills** | 🏃 | General | Martial Prowess |  |
 | **Gunnery** | 👁️ | Martial | Ship Office Fighter Pilot, Ship Office Helm, Ship Office Tactical, Vehicle Driver |  |
-| **Healing Arts** | 👁️ | Medical | Healing Arts, Iron Lotus Discipline, Medicine, Ship Office Medic, Ship Office Scientist, Spec Survivalist |  |
-| **Herbalism** | 👁️ | Medical | Healing Arts |  |
-| **Hidden Routes** | 👁️ | General | Urban Survival, Urban Survival🎓, Nymph Skills |  |
-| **History** | 👁️ | General | Scholar, Bloodmarked Skills |  |
-| **Hunt** | 🏃 | General | Orc Skills, Survival, Saurian Skills |  |
+| **Healing Arts** | 👁️ | Medical | Healing Arts, Iron Lotus Discipline, Medicine, Ship Office Medic, Ship Office Scientist, Spec Survivalist, Sun-Devoted Skills |  |
+| **Herbalism** | 👁️ | Medical | Healing Arts, Verdant Sentinel Skills |  |
+| **Hidden Routes** | 👁️ | General | Urban Survival, Urban Survival🎓, Nymph Skills, Shadow Kill Skills |  |
+| **History** | 👁️ | General | Scholar, Bloodmarked Skills, Bard Skills |  |
+| **Hunt** | 🏃 | General | Orc Skills, Survival, Saurian Skills, Bloodfang Berserker Skills, Lifestealer Skills |  |
 | **ID Magic Item** | ✨ | General | Arcana, Scholar |  |
 | **ID Monster** | ✨ | General | Arcana, Scholar |  |
-| **ID Plants** | 👁️ | General | Alchemy, Druidic, Survival |  |
-| **ID Runes** | ✨ | Physical | Arcana |  |
-| **ID Spells** | ✨ | General | Arcana |  |
+| **ID Plants** | 👁️ | General | Alchemy, Druidic, Survival, Verdant Sentinel Skills |  |
+| **ID Runes** | ✨ | Physical | Arcana, Aetherblade Skills, Void Magic Skills |  |
+| **ID Spells** | ✨ | General | Arcana, Elemental Discipline, Void Magic Skills |  |
 | **ID Threats** | 👁️ | General | Streetwise, Streetwise Survival |  |
-| **ID Weather** | 👁️ | General | Sailing |  |
+| **ID Weather** | 👁️ | General | Sailing, Elemental Discipline |  |
 | **Infiltration (mso)** | 👁️ | Covert | Thief & Covert Operations |  |
-| **Inspiration** | 👁️ | General | Bardic, Intimidation & Presence, Human Skills |  |
+| **Inspiration** | 👁️ | General | Bardic, Intimidation & Presence, Human Skills, Sun-Devoted Skills, Glamour Discipline |  |
 | **Interrogate** | 🫀 | Covert | Guard Skills, Ship Office Tactical, Spec Spy |  |
-| **Interrogate (mso)** | 🫀 | Covert | Spy, Tactical, Dracan Skills | Interrogate allows a character to extract information from an individual through selective use of psychology, threats, etc. This skill need not involve actual violence (indeed, violence is often counterproductive). Interrogate rolls are made against the subject’s WP. |
+| **Interrogate (mso)** | 🫀 | Covert | Spy, Tactical, Dracan Skills, Dragon Skills, Marine Skills, Mensi Skills, Occult-Tech Discipline, DHA Assault Discipline | Interrogate allows a character to extract information from an individual through selective use of psychology, threats, etc. This skill need not involve actual violence (indeed, violence is often counterproductive). Interrogate rolls are made against the subject’s WP. |
 | **Interrogation (mso)** | 🫀 | Covert | Thief & Covert Operations |  |
-| **Intimidation** | 🫀 | General | Diplomacy, Guard Skills, Intimidation & Presence, Orc Skills, Saurian Skills |  |
+| **Intimidation** | 🫀 | General | Diplomacy, Guard Skills, Intimidation & Presence, Orc Skills, Saurian Skills, Bloodfang Berserker Skills, Punk Skills, Giant Skills |  |
 | **Invention** | 👁️ | General | Gnomish Skills |  |
-| **Jumping (mso)** | 🏃 | Physical | Athletic & Physical |  |
+| **Jumping (mso)** | 🏃 | Physical | Athletic & Physical, DHA Assault Discipline |  |
 | **Language, Anthropian (mso)** | 👁️ | General |  | Native racial language fluency for Anthropos. |
 | **Language, Calemoran (mso)** | 👁️ | General |  | Native racial language fluency for Calemora. |
 | **Language, Catongi (mso)** | 👁️ | General |  | Native racial language fluency for Calemora. |
@@ -124,111 +124,111 @@ Master indexed skill sets and atomic skills directory.
 | **Language, Zin-Shee (mso)** | 👁️ | General |  | Native racial language fluency for Zin-Shee Female. |
 | **Languages** | 👁️ | General | Diplomacy, Rogue, Ship Office Communications, Spec Spy |  |
 | **Languages All (mso)** | 👁️ | Covert | Communications, Spy |  |
-| **Leadership** | 👁️ | General | Intimidation & Presence, Ship Office Captain, Ship Office Tactical, Human Skills |  |
+| **Leadership** | 👁️ | General | Intimidation & Presence, Ship Office Captain, Ship Office Tactical, Human Skills, Warrior Skills |  |
 | **Leatherwork** | 💪 | General | Crafting |  |
-| **Light Sleeper** | 👁️ | Covert | Spec Spy, Spec Thief |  |
-| **Light Sleeper (mso)** | 👁️ | Covert | Spy |  |
-| **Lore** | 👁️ | General | Scholar, Bloodmarked Skills |  |
-| **Medtech (mso)** | 👁️ | Medical | Medic, Kryll Skills | Medtech is a medical skill which enables characters to heal serious wounds, set complex fractures, perform surgery, etc. Medtechs may heal damage to characters once after each combat in which the patient received damage. Rolls on other races suffer a -3 penalty unless the Alien Medtech enhancement is taken. Curing blindness, deafness, disease, and poison are related rolls at -3. |
-| **Metal Manipulation** | 💪 | General | Magnetism |  |
-| **Mining** | 💪 | General | Dwarven Skills |  |
+| **Light Sleeper** | 👁️ | Covert | Spec Spy, Spec Thief, Shadow Kill Skills |  |
+| **Light Sleeper (mso)** | 👁️ | Covert | Spy, Mensi Skills |  |
+| **Lore** | 👁️ | General | Scholar, Bloodmarked Skills, Bard Skills |  |
+| **Medtech (mso)** | 👁️ | Medical | Medic, Kryll Skills, Bio Engineer Skills, Bio-Gunner Skills, Bio-Warrior Skills | Medtech is a medical skill which enables characters to heal serious wounds, set complex fractures, perform surgery, etc. Medtechs may heal damage to characters once after each combat in which the patient received damage. Rolls on other races suffer a -3 penalty unless the Alien Medtech enhancement is taken. Curing blindness, deafness, disease, and poison are related rolls at -3. |
+| **Metal Manipulation** | 💪 | General | Magnetism, Magnetic Discipline |  |
+| **Mining** | 💪 | General | Dwarven Skills, Geomancer Skills |  |
 | **Mix** | 👁️ | General | Alchemy |  |
-| **Mountaineering** | 🏃 | General | Iron Lotus Discipline |  |
-| **Navigate (mso)** | 👁️ | Tech | Astrogator | This skill governs the ability to plot planet surface courses. Navigation difficulty is based upon a character’s familiarity with the planet in question, and the ruggedness of terrain. A vehicle driver may combine(cat) his skill with the navigator's when making drive checks. |
-| **Navigation** | 👁️ | Tech | Mountaineering, Sailing, Ship Office Astrogation, Urban Survival, Urban Survival🎓, Vehicle Driver |  |
+| **Mountaineering** | 🏃 | General | Iron Lotus Discipline, Ranger Skills |  |
+| **Navigate (mso)** | 👁️ | Tech | Astrogator, Starborn Ranger Skills | This skill governs the ability to plot planet surface courses. Navigation difficulty is based upon a character’s familiarity with the planet in question, and the ruggedness of terrain. A vehicle driver may combine(cat) his skill with the navigator's when making drive checks. |
+| **Navigation** | 👁️ | Tech | Mountaineering, Sailing, Ship Office Astrogation, Urban Survival, Urban Survival🎓, Vehicle Driver, Ranger Skills |  |
 | **Negotiation** | 👁️ | General | Diplomacy, Mercantile |  |
 | **Nish** | 🏃 | General | Agility, Athletics | Short of Initiative. Nish is the per round turn order for characters and GM ran monsters and NPCs |
-| **Parkour** | 🏃 | Physical |  |  |
-| **Performance** | 👁️ | General | Bardic |  |
-| **Persuasion** | 👁️ | General | Bardic, Diplomacy |  |
-| **Pick Locks** | 🏃 | General | Thievery, Thievery🎓, Gnome Gadgeteer Skills |  |
+| **Parkour** | 🏃 | Physical | Aetherblade Skills, Punk Skills |  |
+| **Performance** | 👁️ | General | Bardic, Glamour Discipline |  |
+| **Persuasion** | 👁️ | General | Bardic, Diplomacy, Glamour Discipline |  |
+| **Pick Locks** | 🏃 | General | Thievery, Thievery🎓, Gnome Gadgeteer Skills, Pixie Skills |  |
 | **Pickpockets** | 🏃 | Covert | Rogue, Thievery, Thievery🎓, Goblin Scrapper Skills |  |
 | **Pilot Small Craft (mso)** | 🏃 | Tech | Fighter Pilot | This skill enables the user to pilot small, one- or two-person air- and spacecraft, including military fighters, bombers and civilian craft. If such craft is armed, the pilot can also fire forward-firing weapons as a related roll. In combat, the pilot can use this skill to exceed a craft's normal operating limitations. |
 | **Pilot Starship (mso)** | 🏃 | Tech | Astrogator, Helm, Vessel Operations | These pilots are skilled in flying starships at sublight speeds. This is a complex and dangerous job, for it often involves negotiating hazardous asteroid fields, flying into wormholes (Dif 10-30), and evading enemy fire. Landings in large vessels are exceptionally difficult (Dif 20+). |
 | **Poison Use** | 👁️ | General | Assassin, Assassination, Assassination🎓 |  |
 | **Politics** | 👁️ | General | Scholar |  |
-| **Potion Administration** | ✨ | General | Alchemy |  |
-| **Power Management** | ✨ | General | Ship Office Captain, Ship Office Engineering, Ship Office Fighter Pilot, Ship Office Helm |  |
-| **Psionic Lore (mso)** | 👁️ | Psionics |  |  |
-| **Psychosomatic Lore (mso)** | 👁️ | Somatics | Calemora Skills |  |
+| **Potion Administration** | ✨ | General | Alchemy, Restoration Discipline |  |
+| **Power Management** | ✨ | General | Ship Office Captain, Ship Office Engineering, Ship Office Fighter Pilot, Ship Office Helm, Inferno Vanguard Skills, Elemental Discipline |  |
+| **Psionic Lore (mso)** | 👁️ | Psionics | Psionics Skills, Psionic Sentinel Skills |  |
+| **Psychosomatic Lore (mso)** | 👁️ | Somatics | Calemora Skills, Psychosomatics Skills |  |
 | **Raise Shields** | 💪 | Tech | Ship Office Fighter Pilot, Ship Office Helm, Ship Office Tactical, Ship Office Tech |  |
 | **Raise Shields (mso)** | 💪 | Tech | Fighter Pilot, Helm, Tactical | This skill simply allows an individual to operate a ship or vehicle’s shields. Raising shields under normal conditions does not require a skill roll. In battle or during severe cosmic turbulence, a roll may be required. Directly manipulating shields allows the character to combine(cat) their rating with the shield's AR. |
-| **Read Intent** | 👁️ | General | Awareness, Intimidation & Presence |  |
-| **Religion** | 👁️ | General | Scholar, Bloodmarked Skills |  |
-| **Repair Armor (mso)** | 👁️ | Tech | Engineer, Mechanic | Repair armor allows a character to fix personal armor such as flack jacket, marine armor, destron armor, shields, etc. Common repairs include fixing physical damage, power armor short circuits, etc. This skill does not apply to cyber armor or ship/vehicle hull armor. |
-| **Repair Armor/Weapons** | 💪 | Martial | Crafting, Guard Skills, Ship Office Engineering, Ship Office Tactical |  |
+| **Read Intent** | 👁️ | General | Awareness, Intimidation & Presence, Bulwark Discipline, Aetherblade Skills, Inner Peace Discipline, Misdirection Skills, Psionics Skills, Glamour Discipline |  |
+| **Religion** | 👁️ | General | Scholar, Bloodmarked Skills, Cursed Spartan Skills, Sun-Devoted Skills |  |
+| **Repair Armor (mso)** | 👁️ | Tech | Engineer, Mechanic, Destron Skills | Repair armor allows a character to fix personal armor such as flack jacket, marine armor, destron armor, shields, etc. Common repairs include fixing physical damage, power armor short circuits, etc. This skill does not apply to cyber armor or ship/vehicle hull armor. |
+| **Repair Armor/Weapons** | 💪 | Martial | Crafting, Guard Skills, Ship Office Engineering, Ship Office Tactical, Inferno Vanguard Skills, Blade Saint Skills |  |
 | **Repair ATM (mso)** | 👁️ | Tech | Engineer, Tech | Repair ATM is the skill of repairing ATMs such as drones, androids, walkers and all similar guild robots. Other unique ATMs, such as imperial cybertanks, may also be repaired as a related roll. One roll at -3 is allowed immediately after combat to repair damage points equal to the check result. |
-| **Repair ATM/Cyber** | 💪 | Tech | Ship Office Engineering |  |
+| **Repair ATM/Cyber** | 💪 | Tech | Ship Office Engineering, Inferno Vanguard Skills |  |
 | **Repair Computer** | 💪 | Tech | Ship Office Programmer |  |
 | **Repair Cybernetics (mso)** | 👁️ | Tech | Medic, Engineer, Dracan Skills | This skill represents the ability to analyze and repair cybernetic implants. The GM assigns a Dif; success indicates the repair is complete. If the implant is not removable, on the patient's external surface, or otherwise exposed (through cyber-surgery), the repair cannot be made. Cybertank repairs are made at -3. |
 | **Repair Equipment (mso)** | 👁️ | Tech | Engineer, Mechanic | This skill represents the ability to operate, analyze, and repair equipment items. It can be combined(cat) with tools. It does not apply to ship/vehicle systems, ATMs, ship/vehicle/ATM damage, weapons, armor, or cybernetics. |
-| **Repair Gear** | 💪 | Tech | Dwarven Skills, Engineering & Siegecraft, Gnomish Skills, Ship Office Scientist, Siegecraft, Goblin Scrapper Skills |  |
+| **Repair Gear** | 💪 | Tech | Dwarven Skills, Engineering & Siegecraft, Gnomish Skills, Ship Office Scientist, Siegecraft, Goblin Scrapper Skills, Magnetic Discipline |  |
 | **Repair Hull (mso)** | 👁️ | Tech | Engineer | This skill allows characters to repair general damage to a ship or vehicle, including doors, cargo bays, and outer armor plating. It does not allow a character to fix ship systems. Repairs during combat require rolling at -3, fixing a number of Hull Points equal to the result. |
 | **Repair Station** | 💪 | Tech | Ship Office Astrogation, Ship Office Captain, Ship Office Communications, Ship Office Fighter Pilot, Ship Office Helm, Ship Office Medic, Ship Office Tech |  |
 | **Repair System (mso)** | 👁️ | Tech | Engineer, Astrogator, Captain, Communications, Programmer, Fighter Pilot, Helm, Medic, Scientist, Tactical | This skill enables a character to make repairs on any one ship or vehicle station/system (e.g. computer, science station, scanners, engines, communications, helm, tactical, or medical). Additional systems require the 'Additional System' enhancement. |
-| **Repair Weapon (mso)** | 👁️ | Martial | Archer, Pistolier, Blaster Expert, Carbinier, Pulse Laser Expert, Rifle Expert | Repair weapon allows a character to fix personal weapons such as swords, pistols, cannons, etc. Common repairs include fixing jams, short circuits, and power pack malfunctions. Heavier weapons, including vehicle- and ship-class weapons, are related rolls. Does not apply to cybernetic weapons. |
-| **Resist Charm** | ✨ | General | Elven Skills, Fairy Skills, Bloodmarked Skills, Nymph Skills |  |
-| **Resist Death** | 🫀 | General | Iron Lotus Discipline, Spec Survivalist, Blackaxe Clan Skills, Calemora Skills | Defying mortal trauma, stabilizing critical injuries, and death saving throws. |
-| **Resist Disease** | 🫀 | Medical | Goblin Skills, Ship Office Medic, Saurian Skills |  |
-| **Resist Disease (mso)** | 🫀 | Medical | Medic |  |
-| **Resist Illusions** | 👁️ | General | Gnomish Skills, Fairy Skills |  |
-| **Resist Mental** | 👁️ | General | Mental Discipline, Bloodmarked Skills |  |
-| **Resist Pain/Fear** | 🫀 | General | Halfling Skills, Iron Lotus Discipline, Ship Office Fighter Pilot, Ship Office Tactical, Blackaxe Clan Skills, Calemora Skills |  |
-| **Resist Poison** | 🫀 | Covert | Dwarven Skills, Spec Spy, Spec Thief, Saurian Skills |  |
-| **Resist Poison (mso)** | 🫀 | Covert | Spy |  |
-| **Resist Weather** | 🫀 | General | Druidic, Mountaineering, Orc Skills, Survival |  |
+| **Repair Weapon (mso)** | 👁️ | Martial | Archer, Pistolier, Blaster Expert, Carbinier, Pulse Laser Expert, Rifle Expert, Starborn Ranger Skills, Bio-Gunner Skills | Repair weapon allows a character to fix personal weapons such as swords, pistols, cannons, etc. Common repairs include fixing jams, short circuits, and power pack malfunctions. Heavier weapons, including vehicle- and ship-class weapons, are related rolls. Does not apply to cybernetic weapons. |
+| **Resist Charm** | ✨ | General | Elven Skills, Fairy Skills, Bloodmarked Skills, Nymph Skills, Inner Peace Discipline, Bard Skills, Psionic Sentinel Skills, Glamour Discipline |  |
+| **Resist Death** | 🫀 | General | Iron Lotus Discipline, Spec Survivalist, Blackaxe Clan Skills, Calemora Skills, Warrior Skills, Cursed Spartan Skills, Bulwark Discipline, Bloodfang Berserker Skills, Lifestealer Skills, Restoration Discipline, Sun-Devoted Skills, Giant Skills, Psychosomatics Skills, Dragon Skills | Defying mortal trauma, stabilizing critical injuries, and death saving throws. |
+| **Resist Disease** | 🫀 | Medical | Goblin Skills, Ship Office Medic, Saurian Skills, Lifestealer Skills, Inner Peace Discipline, Restoration Discipline, Psychosomatics Skills |  |
+| **Resist Disease (mso)** | 🫀 | Medical | Medic, Bio Engineer Skills, Bio-Warrior Skills, Mutak Skills |  |
+| **Resist Illusions** | 👁️ | General | Gnomish Skills, Fairy Skills, Misdirection Skills, Void Magic Skills, Psionic Sentinel Skills, Pixie Skills |  |
+| **Resist Mental** | 👁️ | General | Mental Discipline, Bloodmarked Skills, Cursed Spartan Skills, Void Magic Skills, Psionics Skills, Psionic Sentinel Skills |  |
+| **Resist Pain/Fear** | 🫀 | General | Halfling Skills, Iron Lotus Discipline, Ship Office Fighter Pilot, Ship Office Tactical, Blackaxe Clan Skills, Calemora Skills, Warrior Skills, Cursed Spartan Skills, Bulwark Discipline, Bloodfang Berserker Skills, Inferno Vanguard Skills, Lifestealer Skills, Punk Skills, Blade Saint Skills, Restoration Discipline, Sun-Devoted Skills, Psionic Sentinel Skills, Giant Skills, Psychosomatics Skills, Destron Skills, Dragon Skills |  |
+| **Resist Poison** | 🫀 | Covert | Dwarven Skills, Spec Spy, Spec Thief, Saurian Skills, Lifestealer Skills, Inner Peace Discipline, Shadow Kill Skills, Restoration Discipline, Verdant Sentinel Skills |  |
+| **Resist Poison (mso)** | 🫀 | Covert | Spy, Bio-Warrior Skills, Mutak Skills |  |
+| **Resist Weather** | 🫀 | General | Druidic, Mountaineering, Orc Skills, Survival, Inferno Vanguard Skills, Sun-Devoted Skills, Elemental Discipline |  |
 | **Riding** | 🏃 | General | Husbandry, Human Skills |  |
 | **Rune-Engraving** | ✨ | Physical | Engineering & Siegecraft, Siegecraft |  |
-| **Running (mso)** | 🏃 | Physical | Athletic & Physical |  |
+| **Running (mso)** | 🏃 | Physical | Athletic & Physical, DHA Assault Discipline |  |
 | **Sailing** | 👁️ | General | Sailing |  |
-| **Scanners (mso)** | 👁️ | Tech | Astrogator, Communications, Medic, Programmer, Scientist, Tactical, Vessel Operations | This skill allows an individual to operate all types of scanners. Any use of scanners requires a skill roll. The operator asks the GM a single, precise yes/no question. If scanners are being jammed, the operator must first roll to break through the jamming before scanning. |
+| **Scanners (mso)** | 👁️ | Tech | Astrogator, Communications, Medic, Programmer, Scientist, Tactical, Vessel Operations, Starborn Ranger Skills | This skill allows an individual to operate all types of scanners. Any use of scanners requires a skill roll. The operator asks the GM a single, precise yes/no question. If scanners are being jammed, the operator must first roll to break through the jamming before scanning. |
 | **Scanners/Sensors** | 👁️ | General | Ship Office Astrogation, Ship Office Communications, Ship Office Fighter Pilot, Ship Office Helm, Ship Office Medic, Ship Office Programmer, Ship Office Scientist, Ship Office Tactical, Ship Office Tech |  |
-| **Scavenging** | 👁️ | General | Goblin Skills |  |
+| **Scavenging** | 👁️ | General | Goblin Skills, Punk Skills |  |
 | **Security Systems (mso)** | 👁️ | Covert | Thief & Covert Operations |  |
-| **Sensors (mso)** | 👁️ | Tech | Astrogator, Fighter Pilot, Helm, Programmer, Scientist, Tactical | This skill enables a character to use all types of sensors. Unlike scanners, sensors are preset to detect some phenomenon or condition and alert the crew automatically. The GM has the player roll when the parameters of the sensor setting have occurred in the vicinity. |
+| **Sensors (mso)** | 👁️ | Tech | Astrogator, Fighter Pilot, Helm, Programmer, Scientist, Tactical, Starborn Ranger Skills | This skill enables a character to use all types of sensors. Unlike scanners, sensors are preset to detect some phenomenon or condition and alert the crew automatically. The GM has the player roll when the parameters of the sensor setting have occurred in the vicinity. |
 | **Shields (mso)** | 👁️ | Tech | Vessel Operations |  |
 | **Ship Gunner (mso)** | 👁️ | Tech | Fighter Pilot, Helm, Tactical | Gunners may shoot all fixed position guns on board a ship. A gunner’s attack roll is equal to his or her skill rating combined(cat) with the ship’s Atk rating. Damage is equal to the ship’s Dmg rating. Due to slightly different controls, firing vehicle guns with this skill is a related roll. |
 | **Ship Power (mso)** | 👁️ | Tech | Captain, Engineer, Fighter Pilot, Helm, Vessel Operations | Powering up a ship requires a Tech roll vs the ship's rating; those with this skill can power up any familiar type of ship automatically. This skill also governs the redirection and transfer of power from one system to another (e.g. engines to shields, increasing AR but lowering MR). |
-| **Siege Weaponry** | 👁️ | Martial | Engineering & Siegecraft, Siegecraft, Blackaxe Clan Skills |  |
+| **Siege Weaponry** | 👁️ | Martial | Engineering & Siegecraft, Siegecraft, Blackaxe Clan Skills, Destron Skills |  |
 | **Social Status** | 👁️ | Universal | Ship Office Captain, Ship Office Medic |  |
 | **Social Status (mso)** | 👁️ | Universal | Captain, Medic, Anthropos Skills |  |
 | **Solve Puzzles** | 👁️ | General | Gnomish Skills |  |
-| **Sorce Lore (mso)** | 👁️ | Void Magic |  |  |
+| **Sorce Lore (mso)** | 👁️ | Void Magic | Void Magic Skills |  |
 | **Starship Piloting** | 🏃 | Tech | Ship Office Astrogation, Ship Office Fighter Pilot, Ship Office Helm |  |
-| **Stealth** | 🏃 | Covert | Elven Skills, Goblin Skills, Halfling Skills, Rogue, Scout, Spec Spy, Spec Thief, Thievery, Thievery🎓, Nelf Skills, Nymph Skills |  |
+| **Stealth** | 🏃 | Covert | Elven Skills, Goblin Skills, Halfling Skills, Rogue, Scout, Spec Spy, Spec Thief, Thievery, Thievery🎓, Nelf Skills, Nymph Skills, Pixie Skills |  |
 | **Stealth (mso)** | 🏃 | Covert | Spy, Thief & Covert Operations, Shanask Skills | This skill allows a character to move without making a sound. Under conditions where other characters make 🏃 check, the stealth character combines(cat) stealth with Dex. If related 🏃 check are required, the character checks straight stealth. Works on nearly any terrain. |
-| **Stonecraft** | 💪 | General | Dwarven Skills, Calemora Skills |  |
+| **Stonecraft** | 💪 | General | Dwarven Skills, Calemora Skills, Geomancer Skills, Giant Skills |  |
 | **Streetwise** | 👁️ | General | Magnetism, Urban Survival, Urban Survival🎓 |  |
-| **Structural Weakness** | 👁️ | General | Engineering & Siegecraft, Siegecraft, Blackaxe Clan Skills |  |
+| **Structural Weakness** | 👁️ | General | Engineering & Siegecraft, Siegecraft, Blackaxe Clan Skills, Geomancer Skills, Giant Skills, Destron Skills |  |
 | **Survival** | 🫀 | Physical | Spec Survivalist, Survival, Human Skills |  |
-| **Survival (mso)** | 🫀 | Physical | Survivalist, Kryll Skills | Survival allows characters to live in extremely hostile environments (assuming normal atmospheric pressure and breathable air are present). Survivalists know what plants and animals are edible, how to find or build shelter, and how to obtain drinkable water. Finding water in a desert is Dif 20-30. |
+| **Survival (mso)** | 🫀 | Physical | Survivalist, Kryll Skills, Mutak Skills | Survival allows characters to live in extremely hostile environments (assuming normal atmospheric pressure and breathable air are present). Survivalists know what plants and animals are edible, how to find or build shelter, and how to obtain drinkable water. Finding water in a desert is Dif 20-30. |
 | **Swimming** | 🏃 | Physical | Athletics, Sailing, Spec Survivalist |  |
 | **Swimming (mso)** | 🏃 | Physical | Athletic & Physical, Survivalist | Without this skill, characters must pass an 🏃^10 check to dog-paddle at 👣 1 or risk drowning. Possessing this skill allows unhindered swimming in calm waters; navigating turbulent waters (rapids, rip tides, stormy seas) requires an 🏃^Dif check. Swimming movement rate equals half the character's 🏃 die. |
 | **Tactics** | 👁️ | Martial | Assassin, Assassination, Assassination🎓, Martial Prowess, Ship Office Tactical, Human Skills |  |
-| **Talk to Air** | 👁️ | Arcane | Druidic | asdfasdfasdf |
+| **Talk to Air** | 👁️ | Arcane | Druidic, Elemental Discipline | asdfasdfasdf |
 | **Talk To Animal** | ✨ | General | Druidic, Husbandry |  |
-| **Talk To Plants** | ✨ | General | Druidic |  |
-| **Taunt** | 👁️ | General | Intimidation & Presence, Goblin Scrapper Skills |  |
-| **Tech (mso)** | 👁️ | Tech | Anthropos Skills |  |
-| **Telepathy** | ✨ | General | Mental Discipline |  |
-| **Theft** | 🏃 | Covert | Spec Spy, Spec Thief |  |
+| **Talk To Plants** | ✨ | General | Druidic, Verdant Sentinel Skills |  |
+| **Taunt** | 👁️ | General | Intimidation & Presence, Goblin Scrapper Skills, Warrior Skills, Bulwark Discipline, Punk Skills, Misdirection Skills, Pixie Skills |  |
+| **Tech (mso)** | 👁️ | Tech | Anthropos Skills, Occult-Tech Discipline |  |
+| **Telepathy** | ✨ | General | Mental Discipline, Psionics Skills |  |
+| **Theft** | 🏃 | Covert | Spec Spy, Spec Thief, Misdirection Skills |  |
 | **Theft (mso)** | 🏃 | Covert | Spy, Thief & Covert Operations | Theft is a general skill involving taking objects without being detected. This includes pickpocketing, palming items, and shoplifting. Theft is rolled directly vs the onlooker’s Awa, adjusted by the size of the item and proximity. |
-| **Tight Grip** | 💪 | Tech | Ship Office Engineering |  |
-| **Tight Grip (mso)** | 💪 | Tech | Engineer, Mechanic |  |
-| **Tracking** | 🏃 | Physical | Elven Skills, Scout, Spec Survivalist |  |
-| **Tracking (mso)** | 🏃 | Physical | Survivalist, Kryll Skills | Tracking allows a character to follow another individual or an animal by observing tracks, disturbances in vegetation, or odors. Tracking can be done in any environment, but hard surfaces (rock, concrete) increase difficulty dramatically (Dif 20-30). Difficulty typically doubles for each hour elapsed. |
-| **Tractor/Repulsor Beam** | 💪 | Tech | Ship Office Engineering, Ship Office Tech |  |
+| **Tight Grip** | 💪 | Tech | Ship Office Engineering, Magnetic Discipline |  |
+| **Tight Grip (mso)** | 💪 | Tech | Engineer, Mechanic, Destron Skills |  |
+| **Tracking** | 🏃 | Physical | Elven Skills, Scout, Spec Survivalist, Bloodfang Berserker Skills, Verdant Sentinel Skills |  |
+| **Tracking (mso)** | 🏃 | Physical | Survivalist, Kryll Skills, Mutak Skills | Tracking allows a character to follow another individual or an animal by observing tracks, disturbances in vegetation, or odors. Tracking can be done in any environment, but hard surfaces (rock, concrete) increase difficulty dramatically (Dif 20-30). Difficulty typically doubles for each hour elapsed. |
+| **Tractor/Repulsor Beam** | 💪 | Tech | Ship Office Engineering, Ship Office Tech, Magnetic Discipline |  |
 | **Tractor/Repulsor Beam (mso)** | 💪 | Tech | Engineer | This skill allows an individual to operate a tractor or repulsor beam on a ship or vehicle. The character’s skill rating is combined(cat) with the beam's rating to determine accuracy and hold strength. |
 | **Transporter** | 👁️ | Tech | Ship Office Engineering, Ship Office Scientist, Ship Office Tech |  |
 | **Transporter (mso)** | 👁️ | Tech | Engineer, Scientist | This skill gives a character the ability to operate any type of transporter. Under ordinary conditions, no rolls are needed to use a transporter. In combat, at extreme ranges, or under heavy atmospheric interference, a skill check vs a GM-assigned Dif is required. |
-| **Underground Lore** | 👁️ | General | Dwarven Skills |  |
-| **Vehicle Gunner (mso)** | 👁️ | Martial | Tactical | Vehicle gunners are skilled in firing vehicle-mounted weapons. Firing ship-class guns with this skill is considered a related roll. Accuracy is determined by combining(cat) the skill with the vehicle's weapon rating. |
+| **Underground Lore** | 👁️ | General | Dwarven Skills, Geomancer Skills |  |
+| **Vehicle Gunner (mso)** | 👁️ | Martial | Tactical, Bio-Gunner Skills, Marine Skills, DHA Assault Discipline | Vehicle gunners are skilled in firing vehicle-mounted weapons. Firing ship-class guns with this skill is considered a related roll. Accuracy is determined by combining(cat) the skill with the vehicle's weapon rating. |
 | **Vehicle Power (mso)** | 👁️ | Tech | Engineer, Mechanic | Personal sized and street vehicles can be powered on by nearly any character without difficulty. Powering up large combat transports usually requires a Tech roll. Vehicle power allows characters to power up any familiar vehicle without rolling and manage power transfers. |
 | **Vessel Communications (mso)** | 👁️ | Tech | Vessel Operations |  |
 | **Vessel Engineering (mso)** | 👁️ | Tech | Vessel Operations |  |
 | **Vessel Repair (mso)** | 👁️ | Tech | Vessel Operations |  |
 | **Zero-Gravity** | 🏃 | Tech | Ship Office Engineering, Ship Office Tactical |  |
-| **Zero-Gravity (mso)** | 🏃 | Tech | Engineer |  |
+| **Zero-Gravity (mso)** | 🏃 | Tech | Engineer, Starborn Ranger Skills, Cyber Warrior Skills, Marine Skills |  |
 
 ---
 
@@ -236,6 +236,7 @@ Master indexed skill sets and atomic skills directory.
 
 | Skill Set | Member Skills |
 | --- | --- |
+| **Aetherblade Skills** | ✨ Detect Enchantments, ✨ ID Runes, 🏃 Ambidexterity, 🏃 Evasion, 🏃 Parkour, 👁️ Read Intent |
 | **Agility** | ✨ Falling, 🏃 Acrobatics, 🏃 Balance, 🏃 Climbing, 🏃 Escape Artist, 🏃 Nish |
 | **Alchemy** | ✨ Potion Administration, 👁️ ID Plants, 👁️ Mix |
 | **Anthropos Skills** | 👁️ Common Sense (mso), 👁️ Computer (mso), 👁️ General Knowledge (mso), 👁️ Social Status (mso), 👁️ Tech (mso), 🫀 Gambling (mso) |
@@ -248,26 +249,42 @@ Master indexed skill sets and atomic skills directory.
 | **Athletic & Physical** | 🏃 Acrobatics (mso), 🏃 Climbing (mso), 🏃 Jumping (mso), 🏃 Running (mso), 🏃 Swimming (mso) |
 | **Athletics** | 🏃 Acrobatics, 🏃 Climbing, 🏃 Nish, 🏃 Swimming, 💪 Feats Of Strength |
 | **Awareness** | 👁️ Awareness, 👁️ Detect Lie, 👁️ Read Intent |
+| **Bard Skills** | ✨ Resist Charm, 👁️ Artistry, 👁️ Create Distractions, 👁️ Gambling, 👁️ History, 👁️ Lore |
 | **Bardic** | 👁️ Inspiration, 👁️ Performance, 👁️ Persuasion |
+| **Bio Engineer Skills** | 👁️ BioTech (mso), 👁️ Enhanced Touch (mso), 👁️ First Aid (mso), 👁️ General Knowledge (mso), 👁️ Medtech (mso), 🫀 Resist Disease (mso) |
+| **Bio-Gunner Skills** | 👁️ BioTech (mso), 👁️ Danger Sense (mso), 👁️ Fearless (mso), 👁️ Medtech (mso), 👁️ Repair Weapon (mso), 👁️ Vehicle Gunner (mso) |
+| **Bio-Warrior Skills** | 👁️ BioTech (mso), 👁️ Enhanced Touch (mso), 👁️ Fearless (mso), 👁️ Medtech (mso), 🫀 Resist Disease (mso), 🫀 Resist Poison (mso) |
 | **Blackaxe Clan Skills** | 👁️ Assess Stonework, 👁️ Direction Sense, 👁️ Siege Weaponry, 👁️ Structural Weakness, 🫀 Resist Death, 🫀 Resist Pain/Fear |
+| **Blade Saint Skills** | 🏃 Ambidexterity, 🏃 Evasion, 💪 Repair Armor/Weapons, 🫀 Resist Pain/Fear |
 | **Blaster Expert** | 👁️ Repair Weapon (mso) |
+| **Bloodfang Berserker Skills** | 🏃 Ambush, 🏃 Hunt, 🏃 Tracking, 💪 Feats Of Strength, 🫀 Intimidation, 🫀 Resist Death, 🫀 Resist Pain/Fear |
 | **Bloodmarked Skills** | ✨ Detect Enchantments, ✨ Resist Charm, 👁️ Empathy, 👁️ History, 👁️ Lore, 👁️ Religion, 👁️ Resist Mental |
+| **Bulwark Discipline** | 👁️ Awareness, 👁️ Read Intent, 👁️ Taunt, 💪 Feats Of Strength, 🫀 Resist Death, 🫀 Resist Pain/Fear |
 | **Calemora Skills** | 👁️ Awareness, 👁️ Psychosomatic Lore (mso), 💪 Feats Of Strength, 💪 Stonecraft, 🫀 Resist Death, 🫀 Resist Pain/Fear |
 | **Captain** | 👁️ Common Sense (mso), 👁️ Comtech (mso), 👁️ Repair System (mso), 👁️ Ship Power (mso), 👁️ Social Status (mso), 🫀 Dominate (mso) |
 | **Carbinier** | 👁️ Repair Weapon (mso) |
 | **Communications** | 👁️ Bridge Officer (mso), 👁️ Comtech (mso), 👁️ Detect Lie (mso), 👁️ Empathy (mso), 👁️ Enhanced Hearing (mso), 👁️ Fast Talk (mso), 👁️ Languages All (mso), 👁️ Repair System (mso), 👁️ Scanners (mso) |
 | **Covert** | 🫀 Gambling (mso) |
 | **Crafting** | 💪 Carpentry, 💪 Leatherwork, 💪 Repair Armor/Weapons |
+| **Cursed Spartan Skills** | 👁️ Religion, 👁️ Resist Mental, 💪 Feats Of Strength, 🫀 Resist Death, 🫀 Resist Pain/Fear |
+| **Cyber Warrior Skills** | 🏃 Zero-Gravity (mso), 👁️ CyberTech (mso), 👁️ Danger Sense (mso), 👁️ Enhanced Hearing (mso), 👁️ Enhanced Touch (mso), 👁️ Fearless (mso) |
+| **DHA Assault Discipline** | 🏃 Jumping (mso), 🏃 Running (mso), 👁️ Danger Sense (mso), 👁️ Demolitions (mso), 👁️ Vehicle Gunner (mso), 🫀 Interrogate (mso) |
+| **Destron Skills** | 👁️ Repair Armor (mso), 👁️ Siege Weaponry, 👁️ Structural Weakness, 💪 Feats Of Strength, 💪 Tight Grip (mso), 🫀 Resist Pain/Fear |
 | **Diplomacy** | 👁️ Charm, 👁️ Fast Talk, 👁️ Languages, 👁️ Negotiation, 👁️ Persuasion, 🫀 Intimidation |
 | **Dracan Skills** | 👁️ Danger Sense (mso), 👁️ Fearless (mso), 👁️ Repair Cybernetics (mso), 🫀 Dominate (mso), 🫀 Interrogate (mso) |
+| **Dragon Skills** | 👁️ Demolitions (mso), 👁️ Fearless (mso), 🫀 Interrogate (mso), 🫀 Resist Death, 🫀 Resist Pain/Fear |
 | **Druidic** | ✨ Talk To Animal, ✨ Talk To Plants, 👁️ Animal Handling, 👁️ ID Plants, 👁️ Talk to Air, 🫀 Resist Weather |
 | **Dungeoneering** | 🏃 Climbing, 🏃 Detect/Remove Traps, 👁️ Assess Stonework, 👁️ Direction Sense |
 | **Dwarven Skills** | 👁️ Brewing, 👁️ Underground Lore, 💪 Mining, 💪 Repair Gear, 💪 Stonecraft, 🫀 Resist Poison |
+| **Elemental Discipline** | ✨ Detect Enchantments, ✨ ID Spells, ✨ Power Management, 👁️ ID Weather, 👁️ Talk to Air, 🫀 Resist Weather |
 | **Elven Skills** | ✨ Resist Charm, 🏃 Stealth, 🏃 Tracking, 👁️ Artistry, 👁️ Forest Lore, 💪 Fletching |
 | **Engineer** | 🏃 Balance (mso), 🏃 Catch Object (mso), 🏃 Zero-Gravity (mso), 👁️ All Repair Skills (mso), 👁️ Bridge Officer (mso), 👁️ Enhanced Touch (mso), 👁️ Repair ATM (mso), 👁️ Repair Armor (mso), 👁️ Repair Cybernetics (mso), 👁️ Repair Equipment (mso), 👁️ Repair Hull (mso), 👁️ Repair System (mso), 👁️ Ship Power (mso), 👁️ Transporter (mso), 👁️ Vehicle Power (mso), 💪 Damage Control (mso), 💪 Tight Grip (mso), 💪 Tractor/Repulsor Beam (mso) |
 | **Engineering & Siegecraft** | ✨ Rune-Engraving, 👁️ Siege Weaponry, 👁️ Structural Weakness, 💪 Repair Gear |
 | **Fairy Skills** | ✨ Detect Enchantments, ✨ Resist Charm, 🏃 Evasion, 👁️ Charm, 👁️ Create Distractions, 👁️ Resist Illusions |
 | **Fighter Pilot** | 🏃 Pilot Small Craft (mso), 👁️ Bridge Officer (mso), 👁️ Danger Sense (mso), 👁️ Fearless (mso), 👁️ Repair System (mso), 👁️ Sensors (mso), 👁️ Ship Gunner (mso), 👁️ Ship Power (mso), 💪 Raise Shields (mso) |
+| **Geomancer Skills** | 👁️ Assess Stonework, 👁️ Direction Sense, 👁️ Structural Weakness, 👁️ Underground Lore, 💪 Feats Of Strength, 💪 Mining, 💪 Stonecraft |
+| **Giant Skills** | 👁️ Structural Weakness, 💪 Feats Of Strength, 💪 Stonecraft, 🫀 Intimidation, 🫀 Resist Death, 🫀 Resist Pain/Fear |
+| **Glamour Discipline** | ✨ Resist Charm, 👁️ Charm, 👁️ Inspiration, 👁️ Performance, 👁️ Persuasion, 👁️ Read Intent |
 | **Gnome Gadgeteer Skills** | 🏃 Detect/Remove Traps, 🏃 Pick Locks, 👁️ Appraise, 👁️ Create Distractions, 👁️ Detect Metal |
 | **Gnomish Skills** | 👁️ Invention, 👁️ Resist Illusions, 👁️ Solve Puzzles, 💪 Repair Gear |
 | **Goblin Scrapper Skills** | 🏃 Escape Artist, 🏃 Pickpockets, 👁️ Appraise, 👁️ Taunt, 💪 Crafting, 💪 Repair Gear |
@@ -278,25 +295,41 @@ Master indexed skill sets and atomic skills directory.
 | **Helm** | 🏃 Drive Vehicle (mso), 🏃 Pilot Starship (mso), 👁️ Astrogation (mso), 👁️ Bridge Officer (mso), 👁️ Repair System (mso), 👁️ Sensors (mso), 👁️ Ship Gunner (mso), 👁️ Ship Power (mso), 💪 Raise Shields (mso) |
 | **Human Skills** | 🏃 Riding, 👁️ Awareness, 👁️ Inspiration, 👁️ Leadership, 👁️ Tactics, 🫀 Survival |
 | **Husbandry** | ✨ Talk To Animal, 🏃 Riding, 👁️ Animal Handling |
+| **Inferno Vanguard Skills** | ✨ Power Management, 💪 Damage Control, 💪 Feats Of Strength, 💪 Repair ATM/Cyber, 💪 Repair Armor/Weapons, 🫀 Resist Pain/Fear, 🫀 Resist Weather |
+| **Inner Peace Discipline** | ✨ Resist Charm, 🏃 Evasion, 👁️ Read Intent, 🫀 Resist Disease, 🫀 Resist Poison |
 | **Intimidation & Presence** | 👁️ Inspiration, 👁️ Leadership, 👁️ Read Intent, 👁️ Taunt, 🫀 Intimidation |
 | **Iron Lotus Discipline** | 🏃 Mountaineering, 👁️ Awareness, 👁️ Healing Arts, 🫀 Resist Death, 🫀 Resist Pain/Fear |
 | **Kryll Skills** | 🏃 Tracking (mso), 👁️ Danger Sense (mso), 👁️ Enhanced Touch (mso), 👁️ Medtech (mso), 🫀 Survival (mso) |
+| **Lifestealer Skills** | ✨ Detect Enchantments, 🏃 Hunt, 🫀 Resist Death, 🫀 Resist Disease, 🫀 Resist Pain/Fear, 🫀 Resist Poison |
+| **Magnetic Discipline** | ✨ Falling, 🏃 Catch Object, 👁️ Detect Metal, 💪 Metal Manipulation, 💪 Repair Gear, 💪 Tight Grip, 💪 Tractor/Repulsor Beam |
 | **Magnetism** | ✨ Falling, 👁️ Detect Metal, 👁️ Streetwise, 💪 Metal Manipulation |
+| **Marine Skills** | 🏃 Zero-Gravity (mso), 👁️ Danger Sense (mso), 👁️ Demolitions (mso), 👁️ Vehicle Gunner (mso), 🫀 Interrogate (mso) |
 | **Martial** | 👁️ Demolitions (mso) |
 | **Martial Artist** | 🏃 Ambidexterity (mso) |
 | **Martial Prowess** | 🏃 Guard Drills, 👁️ Tactics |
 | **Mechanic** | 🏃 Catch Object (mso), 👁️ All Repair Skills (mso), 👁️ Repair Armor (mso), 👁️ Repair Equipment (mso), 👁️ Vehicle Power (mso), 💪 Tight Grip (mso) |
 | **Medic** | 👁️ Bridge Officer (mso), 👁️ Common Sense (mso), 👁️ Computer (mso), 👁️ Empathy (mso), 👁️ Enhanced Touch (mso), 👁️ First Aid (mso), 👁️ General Knowledge (mso), 👁️ Medtech (mso), 👁️ Repair Cybernetics (mso), 👁️ Repair System (mso), 👁️ Scanners (mso), 👁️ Social Status (mso), 🫀 Resist Disease (mso) |
 | **Medicine** | 👁️ Cure Disease, 👁️ Cure Poison, 👁️ Healing Arts |
+| **Mensi Skills** | 👁️ Enhanced Hearing (mso), 👁️ Fast Talk (mso), 👁️ Light Sleeper (mso), 🫀 Dominate (mso), 🫀 Interrogate (mso) |
 | **Mental Discipline** | ✨ Telepathy, 👁️ Empathy, 👁️ Resist Mental |
 | **Mercantile** | 👁️ Appraise, 👁️ Fast Talk, 👁️ Gambling, 👁️ Negotiation |
+| **Misdirection Skills** | 🏃 Theft, 👁️ Charm, 👁️ Fast Talk, 👁️ Read Intent, 👁️ Resist Illusions, 👁️ Taunt |
 | **Mountaineering** | ✨ Falling, 🏃 Climbing, 👁️ Danger Sense, 👁️ Navigation, 🫀 Resist Weather |
+| **Mutak Skills** | 🏃 Tracking (mso), 👁️ Danger Sense (mso), 👁️ Enhanced Touch (mso), 🫀 Resist Disease (mso), 🫀 Resist Poison (mso), 🫀 Survival (mso) |
 | **Nelf Skills** | 🏃 Evasion, 🏃 Stealth, 👁️ Charm, 👁️ Create Distractions, 👁️ Fast Talk, 👁️ Forest Lore |
 | **Nymph Skills** | ✨ Resist Charm, 🏃 Evasion, 🏃 Stealth, 👁️ Charm, 👁️ Create Distractions, 👁️ Disguise, 👁️ Hidden Routes |
+| **Occult-Tech Discipline** | 👁️ CyberTech (mso), 👁️ Danger Sense (mso), 👁️ Detect Lie (mso), 👁️ Empathy (mso), 👁️ Tech (mso), 🫀 Interrogate (mso) |
 | **Orc Skills** | 🏃 Ambush, 🏃 Hunt, 💪 Crafting, 🫀 Intimidation, 🫀 Resist Weather |
 | **Pistolier** | 👁️ Repair Weapon (mso) |
+| **Pixie Skills** | 🏃 Escape Artist, 🏃 Pick Locks, 🏃 Stealth, 👁️ Create Distractions, 👁️ Resist Illusions, 👁️ Taunt |
 | **Programmer** | 👁️ Bridge Officer (mso), 👁️ Computer (mso), 👁️ Comtech (mso), 👁️ Counter Security (mso), 👁️ Repair System (mso), 👁️ Scanners (mso), 👁️ Sensors (mso) |
+| **Psionic Sentinel Skills** | ✨ Resist Charm, 👁️ Danger Sense, 👁️ Psionic Lore (mso), 👁️ Resist Illusions, 👁️ Resist Mental, 🫀 Resist Pain/Fear |
+| **Psionics Skills** | ✨ Telepathy, 👁️ Detect Lie, 👁️ Empathy, 👁️ Psionic Lore (mso), 👁️ Read Intent, 👁️ Resist Mental |
+| **Psychosomatics Skills** | ✨ Falling, 👁️ Psychosomatic Lore (mso), 💪 Feats Of Strength, 🫀 Resist Death, 🫀 Resist Disease, 🫀 Resist Pain/Fear |
 | **Pulse Laser Expert** | 👁️ Repair Weapon (mso) |
+| **Punk Skills** | 🏃 Parkour, 👁️ Scavenging, 👁️ Taunt, 💪 Crafting, 🫀 Intimidation, 🫀 Resist Pain/Fear |
+| **Ranger Skills** | 🏃 Ambush, 🏃 Mountaineering, 👁️ Awareness, 👁️ Direction Sense, 👁️ Forest Lore, 👁️ Navigation, 💪 Fletching |
+| **Restoration Discipline** | ✨ Potion Administration, 👁️ Empathy, 🫀 Resist Death, 🫀 Resist Disease, 🫀 Resist Pain/Fear, 🫀 Resist Poison |
 | **Rifle Expert** | 👁️ Repair Weapon (mso) |
 | **Rogue** | 🏃 Pickpockets, 🏃 Stealth, 👁️ Disguise, 👁️ Gambling, 👁️ Languages |
 | **Sailing** | 🏃 Fishing, 🏃 Swimming, 👁️ ID Weather, 👁️ Navigation, 👁️ Sailing |
@@ -304,6 +337,7 @@ Master indexed skill sets and atomic skills directory.
 | **Scholar** | ✨ ID Magic Item, ✨ ID Monster, 👁️ History, 👁️ Lore, 👁️ Politics, 👁️ Religion |
 | **Scientist** | 👁️ Bridge Officer (mso), 👁️ Common Sense (mso), 👁️ Computer (mso), 👁️ First Aid (mso), 👁️ Repair System (mso), 👁️ Scanners (mso), 👁️ Sensors (mso), 👁️ Transporter (mso) |
 | **Scout** | 🏃 Climbing, 🏃 Detect/Remove Traps, 🏃 Fishing, 🏃 Forage, 🏃 Stealth, 🏃 Tracking |
+| **Shadow Kill Skills** | 🏃 Ambush, 🏃 Expert Runner, 👁️ Disguise, 👁️ Enhanced Hearing, 👁️ Hidden Routes, 👁️ Light Sleeper, 🫀 Resist Poison |
 | **Shanask Skills** | 🏃 Stealth (mso), 👁️ Concealment (mso), 👁️ Danger Sense (mso), 👁️ Detect Lie (mso), 🫀 Dominate (mso) |
 | **Ship Office Astrogation** | 🏃 Starship Piloting, 👁️ Astrogation, 👁️ Computer, 👁️ Navigation, 👁️ Scanners/Sensors, 💪 Repair Station |
 | **Ship Office Captain** | ✨ Power Management, 👁️ Comtech, 👁️ Leadership, 👁️ Social Status, 💪 Repair Station, 🫀 Dominate |
@@ -322,8 +356,10 @@ Master indexed skill sets and atomic skills directory.
 | **Spec Survivalist** | ✨ Falling, 🏃 Climbing, 🏃 Swimming, 🏃 Tracking, 👁️ Danger Sense, 👁️ Healing Arts, 🫀 Resist Death, 🫀 Survival |
 | **Spec Thief** | 🏃 Ambidexterity, 🏃 Climbing, 🏃 Expert Runner, 🏃 Stealth, 🏃 Theft, 👁️ Counter Security, 👁️ Danger Sense, 👁️ Detect Lie, 👁️ Disguise, 👁️ Enhanced Hearing, 👁️ Fast Talk, 👁️ Gambling, 👁️ Light Sleeper, 🫀 Resist Poison |
 | **Spy** | 🏃 Climbing (mso), 🏃 Expert Runner (mso), 🏃 Stealth (mso), 🏃 Theft (mso), 👁️ Concealment (mso), 👁️ Counter Security (mso), 👁️ Danger Sense (mso), 👁️ Detect Lie (mso), 👁️ Disguise (mso), 👁️ Enhanced Hearing (mso), 👁️ Fast Talk (mso), 👁️ Languages All (mso), 👁️ Light Sleeper (mso), 🫀 Interrogate (mso), 🫀 Resist Poison (mso) |
+| **Starborn Ranger Skills** | 🏃 Zero-Gravity (mso), 👁️ Astrogation (mso), 👁️ Enhanced Hearing (mso), 👁️ Navigate (mso), 👁️ Repair Weapon (mso), 👁️ Scanners (mso), 👁️ Sensors (mso) |
 | **Streetwise** | 🏃 Blend Into Crowds, 🏃 Evasion, 👁️ Awareness, 👁️ Create Distractions, 👁️ ID Threats |
 | **Streetwise Survival** | 🏃 Blend Into Crowds, 🏃 Evasion, 👁️ Awareness, 👁️ Create Distractions, 👁️ ID Threats |
+| **Sun-Devoted Skills** | ✨ Detect Enchantments, 👁️ Healing Arts, 👁️ Inspiration, 👁️ Religion, 🫀 Resist Death, 🫀 Resist Pain/Fear, 🫀 Resist Weather |
 | **Survival** | 🏃 Hunt, 👁️ ID Plants, 🫀 Resist Weather, 🫀 Survival |
 | **Survivalist** | ✨ Falling (mso), 🏃 Climbing (mso), 🏃 Swimming (mso), 🏃 Tracking (mso), 👁️ Danger Sense (mso), 👁️ First Aid (mso), 🫀 Survival (mso) |
 | **Tactical** | 👁️ Bridge Officer (mso), 👁️ Cloak (mso), 👁️ Danger Sense (mso), 👁️ Demolitions (mso), 👁️ Fearless (mso), 👁️ Repair System (mso), 👁️ Scanners (mso), 👁️ Sensors (mso), 👁️ Ship Gunner (mso), 👁️ Vehicle Gunner (mso), 💪 Damage Control (mso), 💪 Raise Shields (mso), 🫀 Interrogate (mso) |
@@ -334,4 +370,7 @@ Master indexed skill sets and atomic skills directory.
 | **Urban Survival** | 🏃 Blend Into Crowds, 👁️ Hidden Routes, 👁️ Navigation, 👁️ Streetwise |
 | **Urban Survival🎓** | 🏃 Blend Into Crowds, 👁️ Hidden Routes, 👁️ Navigation, 👁️ Streetwise |
 | **Vehicle Driver** | 🏃 Drive Vehicle, 👁️ Gunnery, 👁️ Navigation, 💪 Damage Control |
+| **Verdant Sentinel Skills** | ✨ Talk To Plants, 🏃 Forage, 🏃 Tracking, 👁️ Cure Poison, 👁️ Forest Lore, 👁️ Herbalism, 👁️ ID Plants, 🫀 Resist Poison |
 | **Vessel Operations** | 🏃 Pilot Starship (mso), 👁️ Astrogation (mso), 👁️ Scanners (mso), 👁️ Shields (mso), 👁️ Ship Power (mso), 👁️ Vessel Communications (mso), 👁️ Vessel Engineering (mso), 👁️ Vessel Repair (mso) |
+| **Void Magic Skills** | ✨ Detect Enchantments, ✨ ID Runes, ✨ ID Spells, 👁️ Resist Illusions, 👁️ Resist Mental, 👁️ Sorce Lore (mso) |
+| **Warrior Skills** | 👁️ Awareness, 👁️ Leadership, 👁️ Taunt, 🫀 Resist Death, 🫀 Resist Pain/Fear |

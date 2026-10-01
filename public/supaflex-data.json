@@ -557,6 +557,66 @@
           "details": "Armor",
           "is_free": false,
           "element_type": "set"
+        },
+        {
+          "id": "d971f372-3123-4d0c-a336-555670293957",
+          "tag": "1 AP",
+          "name": "Bardic",
+          "type": "set",
+          "isFree": false,
+          "details": "Skills",
+          "is_free": false,
+          "element_type": "set"
+        },
+        {
+          "id": "42462bd6-de6f-459a-9506-48c2626cdceb",
+          "tag": "1 AP",
+          "name": "Diplomacy",
+          "type": "set",
+          "isFree": false,
+          "details": "Skills",
+          "is_free": false,
+          "element_type": "set"
+        },
+        {
+          "id": "7196834e-822c-4981-8e29-812b766d0ed6",
+          "tag": "1 AP",
+          "name": "Intimidation & Presence",
+          "type": "set",
+          "isFree": false,
+          "details": "Skills",
+          "is_free": false,
+          "element_type": "set"
+        },
+        {
+          "id": "5470d6f2-7ec8-470e-a69a-904774dbcc67",
+          "tag": "1 AP",
+          "name": "Bard Skills",
+          "type": "set",
+          "isFree": false,
+          "details": "Skills",
+          "is_free": false,
+          "element_type": "set"
+        },
+        {
+          "id": "484",
+          "tag": "1 AP",
+          "name": "Blend Into Crowds",
+          "type": "skill",
+          "isFree": false,
+          "details": "",
+          "is_free": false,
+          "element_type": "skill"
+        },
+        {
+          "id": "511",
+          "tag": "1 AP",
+          "name": "Empathy",
+          "type": "skill",
+          "isFree": false,
+          "details": "",
+          "is_free": false,
+          "element_type": "skill"
         }
       ]
     },
@@ -854,6 +914,66 @@
           "details": "Traits",
           "is_free": true,
           "element_type": "set"
+        },
+        {
+          "id": "333c2308-2a2e-47d5-86a5-fe7383223243",
+          "tag": "1 AP",
+          "name": "Survivalist",
+          "type": "set",
+          "isFree": false,
+          "details": "Skills",
+          "is_free": false,
+          "element_type": "set"
+        },
+        {
+          "id": "e47bb9b9-62e3-4df5-b9bf-c8267b734aec",
+          "tag": "1 AP",
+          "name": "Bio-Gunner Skills",
+          "type": "set",
+          "isFree": false,
+          "details": "Skills",
+          "is_free": false,
+          "element_type": "set"
+        },
+        {
+          "id": "654",
+          "tag": "1 AP",
+          "name": "Demolitions (mso)",
+          "type": "skill",
+          "isFree": false,
+          "details": "",
+          "is_free": false,
+          "element_type": "skill"
+        },
+        {
+          "id": "620",
+          "tag": "1 AP",
+          "name": "Resist Disease (mso)",
+          "type": "skill",
+          "isFree": false,
+          "details": "",
+          "is_free": false,
+          "element_type": "skill"
+        },
+        {
+          "id": "679",
+          "tag": "1 AP",
+          "name": "Ship Gunner (mso)",
+          "type": "skill",
+          "isFree": false,
+          "details": "",
+          "is_free": false,
+          "element_type": "skill"
+        },
+        {
+          "id": "629",
+          "tag": "1 AP",
+          "name": "Enhanced Touch (mso)",
+          "type": "skill",
+          "isFree": false,
+          "details": "",
+          "is_free": false,
+          "element_type": "skill"
         }
       ]
     },
@@ -1051,6 +1171,66 @@
           "details": "Traits",
           "is_free": true,
           "element_type": "set"
+        },
+        {
+          "id": "eb14aba1-c978-4a99-98aa-d08bab682bb2",
+          "tag": "1 AP",
+          "name": "Athletic & Physical",
+          "type": "set",
+          "isFree": false,
+          "details": "Skills",
+          "is_free": false,
+          "element_type": "set"
+        },
+        {
+          "id": "333c2308-2a2e-47d5-86a5-fe7383223243",
+          "tag": "1 AP",
+          "name": "Survivalist",
+          "type": "set",
+          "isFree": false,
+          "details": "Skills",
+          "is_free": false,
+          "element_type": "set"
+        },
+        {
+          "id": "a9d3f08d-51c6-4a7e-ac03-6b334728de72",
+          "tag": "1 AP",
+          "name": "Bio-Warrior Skills",
+          "type": "set",
+          "isFree": false,
+          "details": "Skills",
+          "is_free": false,
+          "element_type": "set"
+        },
+        {
+          "id": "613",
+          "tag": "1 AP",
+          "name": "Tight Grip (mso)",
+          "type": "skill",
+          "isFree": false,
+          "details": "",
+          "is_free": false,
+          "element_type": "skill"
+        },
+        {
+          "id": "673",
+          "tag": "1 AP",
+          "name": "Repair Weapon (mso)",
+          "type": "skill",
+          "isFree": false,
+          "details": "",
+          "is_free": false,
+          "element_type": "skill"
+        },
+        {
+          "id": "519",
+          "tag": "1 AP",
+          "name": "Feats Of Strength",
+          "type": "skill",
+          "isFree": false,
+          "details": "",
+          "is_free": false,
+          "element_type": "skill"
         }
       ]
     },
@@ -1698,6 +1878,66 @@
           "details": "Traits",
           "is_free": true,
           "element_type": "set"
+        },
+        {
+          "id": "31fb1f9d-c2b6-4421-a800-bbbb213d91ee",
+          "tag": "1 AP",
+          "name": "Mechanic",
+          "type": "set",
+          "isFree": false,
+          "details": "Skills",
+          "is_free": false,
+          "element_type": "set"
+        },
+        {
+          "id": "eb14aba1-c978-4a99-98aa-d08bab682bb2",
+          "tag": "1 AP",
+          "name": "Athletic & Physical",
+          "type": "set",
+          "isFree": false,
+          "details": "Skills",
+          "is_free": false,
+          "element_type": "set"
+        },
+        {
+          "id": "85a43c33-8e56-48e0-8e3a-117ea86a6093",
+          "tag": "1 AP",
+          "name": "Cyber Warrior Skills",
+          "type": "set",
+          "isFree": false,
+          "details": "Skills",
+          "is_free": false,
+          "element_type": "set"
+        },
+        {
+          "id": "673",
+          "tag": "1 AP",
+          "name": "Repair Weapon (mso)",
+          "type": "skill",
+          "isFree": false,
+          "details": "",
+          "is_free": false,
+          "element_type": "skill"
+        },
+        {
+          "id": "638",
+          "tag": "1 AP",
+          "name": "Counter Security (mso)",
+          "type": "skill",
+          "isFree": false,
+          "details": "",
+          "is_free": false,
+          "element_type": "skill"
+        },
+        {
+          "id": "640",
+          "tag": "1 AP",
+          "name": "Computer (mso)",
+          "type": "skill",
+          "isFree": false,
+          "details": "",
+          "is_free": false,
+          "element_type": "skill"
         }
       ]
     },
@@ -1940,6 +2180,56 @@
           "details": "Traits",
           "is_free": true,
           "element_type": "set"
+        },
+        {
+          "id": "4af9017f-d501-4373-bed6-57d6e05b293c",
+          "tag": "1 AP",
+          "name": "Tactical",
+          "type": "set",
+          "isFree": false,
+          "details": "Skills",
+          "is_free": false,
+          "element_type": "set"
+        },
+        {
+          "id": "7d84531a-2b8f-41c7-b443-96c972ea265d",
+          "tag": "1 AP",
+          "name": "Vehicle Driver",
+          "type": "set",
+          "isFree": false,
+          "details": "Skills",
+          "is_free": false,
+          "element_type": "set"
+        },
+        {
+          "id": "90190397-61df-4855-8675-88acd2cfdfa5",
+          "tag": "1 AP",
+          "name": "Destron Skills",
+          "type": "set",
+          "isFree": false,
+          "details": "Skills",
+          "is_free": false,
+          "element_type": "set"
+        },
+        {
+          "id": "684",
+          "tag": "1 AP",
+          "name": "Vehicle Power (mso)",
+          "type": "skill",
+          "isFree": false,
+          "details": "",
+          "is_free": false,
+          "element_type": "skill"
+        },
+        {
+          "id": "670",
+          "tag": "1 AP",
+          "name": "Repair Equipment (mso)",
+          "type": "skill",
+          "isFree": false,
+          "details": "",
+          "is_free": false,
+          "element_type": "skill"
         }
       ]
     },
@@ -2501,6 +2791,56 @@
           "details": "Armor",
           "is_free": false,
           "element_type": "set"
+        },
+        {
+          "id": "eb14aba1-c978-4a99-98aa-d08bab682bb2",
+          "tag": "1 AP",
+          "name": "Athletic & Physical",
+          "type": "set",
+          "isFree": false,
+          "details": "Skills",
+          "is_free": false,
+          "element_type": "set"
+        },
+        {
+          "id": "26e57b1f-cc93-435a-8b76-4873c1a02070",
+          "tag": "1 AP",
+          "name": "Martial Artist",
+          "type": "set",
+          "isFree": false,
+          "details": "Skills",
+          "is_free": false,
+          "element_type": "set"
+        },
+        {
+          "id": "94e8f803-3a0c-4ef2-9481-c868acaf12d8",
+          "tag": "1 AP",
+          "name": "Dragon Skills",
+          "type": "set",
+          "isFree": false,
+          "details": "Skills",
+          "is_free": false,
+          "element_type": "set"
+        },
+        {
+          "id": "673",
+          "tag": "1 AP",
+          "name": "Repair Weapon (mso)",
+          "type": "skill",
+          "isFree": false,
+          "details": "",
+          "is_free": false,
+          "element_type": "skill"
+        },
+        {
+          "id": "636",
+          "tag": "1 AP",
+          "name": "Danger Sense (mso)",
+          "type": "skill",
+          "isFree": false,
+          "details": "",
+          "is_free": false,
+          "element_type": "skill"
         }
       ]
     },
@@ -3802,6 +4142,76 @@
           "details": "Shields",
           "is_free": false,
           "element_type": "set"
+        },
+        {
+          "id": "4d0b4a09-3854-4543-9fba-1b78f0daf605",
+          "tag": "1 AP",
+          "name": "Athletics",
+          "type": "set",
+          "isFree": false,
+          "details": "Skills",
+          "is_free": false,
+          "element_type": "set"
+        },
+        {
+          "id": "7196834e-822c-4981-8e29-812b766d0ed6",
+          "tag": "1 AP",
+          "name": "Intimidation & Presence",
+          "type": "set",
+          "isFree": false,
+          "details": "Skills",
+          "is_free": false,
+          "element_type": "set"
+        },
+        {
+          "id": "4e5a554f-1743-41af-a467-fc750ba6a4c9",
+          "tag": "1 AP",
+          "name": "Mountaineering",
+          "type": "set",
+          "isFree": false,
+          "details": "Skills",
+          "is_free": false,
+          "element_type": "set"
+        },
+        {
+          "id": "d4ab1f7d-8263-4c00-a5b1-9819a2a95cbb",
+          "tag": "1 AP",
+          "name": "Giant Skills",
+          "type": "set",
+          "isFree": false,
+          "details": "Skills",
+          "is_free": false,
+          "element_type": "set"
+        },
+        {
+          "id": "526",
+          "tag": "1 AP",
+          "name": "Guard Drills",
+          "type": "skill",
+          "isFree": false,
+          "details": "",
+          "is_free": false,
+          "element_type": "skill"
+        },
+        {
+          "id": "584",
+          "tag": "1 AP",
+          "name": "Siege Weaponry",
+          "type": "skill",
+          "isFree": false,
+          "details": "",
+          "is_free": false,
+          "element_type": "skill"
+        },
+        {
+          "id": "479",
+          "tag": "1 AP",
+          "name": "Assess Stonework",
+          "type": "skill",
+          "isFree": false,
+          "details": "",
+          "is_free": false,
+          "element_type": "skill"
         }
       ]
     },
@@ -3949,6 +4359,76 @@
           "details": "Armor",
           "is_free": false,
           "element_type": "set"
+        },
+        {
+          "id": "2aa8e79f-f210-42d9-80d1-100cc2d672ee",
+          "tag": "1 AP",
+          "name": "Nymph Skills",
+          "type": "set",
+          "isFree": false,
+          "details": "Skills",
+          "is_free": false,
+          "element_type": "set"
+        },
+        {
+          "id": "42462bd6-de6f-459a-9506-48c2626cdceb",
+          "tag": "1 AP",
+          "name": "Diplomacy",
+          "type": "set",
+          "isFree": false,
+          "details": "Skills",
+          "is_free": false,
+          "element_type": "set"
+        },
+        {
+          "id": "e8246e89-eb96-4d70-9064-906d9a0496dc",
+          "tag": "1 AP",
+          "name": "Agility",
+          "type": "set",
+          "isFree": false,
+          "details": "Skills",
+          "is_free": false,
+          "element_type": "set"
+        },
+        {
+          "id": "b45144dc-1e58-4e8d-82aa-06140db4c52f",
+          "tag": "1 AP",
+          "name": "Glamour Discipline",
+          "type": "set",
+          "isFree": false,
+          "details": "Skills",
+          "is_free": false,
+          "element_type": "set"
+        },
+        {
+          "id": "478",
+          "tag": "1 AP",
+          "name": "Artistry",
+          "type": "skill",
+          "isFree": false,
+          "details": "",
+          "is_free": false,
+          "element_type": "skill"
+        },
+        {
+          "id": "596",
+          "tag": "1 AP",
+          "name": "Talk To Plants",
+          "type": "skill",
+          "isFree": false,
+          "details": "",
+          "is_free": false,
+          "element_type": "skill"
+        },
+        {
+          "id": "523",
+          "tag": "1 AP",
+          "name": "Forest Lore",
+          "type": "skill",
+          "isFree": false,
+          "details": "",
+          "is_free": false,
+          "element_type": "skill"
         }
       ]
     },
@@ -4096,6 +4576,76 @@
           "details": "Armor",
           "is_free": false,
           "element_type": "set"
+        },
+        {
+          "id": "d7e56246-f5a2-4579-97b9-9c17e007305d",
+          "tag": "1 AP",
+          "name": "Fairy Skills",
+          "type": "set",
+          "isFree": false,
+          "details": "Skills",
+          "is_free": false,
+          "element_type": "set"
+        },
+        {
+          "id": "e8246e89-eb96-4d70-9064-906d9a0496dc",
+          "tag": "1 AP",
+          "name": "Agility",
+          "type": "set",
+          "isFree": false,
+          "details": "Skills",
+          "is_free": false,
+          "element_type": "set"
+        },
+        {
+          "id": "16a3de8a-cd47-4a15-ac72-44157d60db65",
+          "tag": "1 AP",
+          "name": "Streetwise",
+          "type": "set",
+          "isFree": false,
+          "details": "Skills",
+          "is_free": false,
+          "element_type": "set"
+        },
+        {
+          "id": "2d636411-0fc1-43e1-a1e9-f2c49be101e4",
+          "tag": "1 AP",
+          "name": "Pixie Skills",
+          "type": "set",
+          "isFree": false,
+          "details": "Skills",
+          "is_free": false,
+          "element_type": "set"
+        },
+        {
+          "id": "559",
+          "tag": "1 AP",
+          "name": "Pickpockets",
+          "type": "skill",
+          "isFree": false,
+          "details": "",
+          "is_free": false,
+          "element_type": "skill"
+        },
+        {
+          "id": "530",
+          "tag": "1 AP",
+          "name": "Hidden Routes",
+          "type": "skill",
+          "isFree": false,
+          "details": "",
+          "is_free": false,
+          "element_type": "skill"
+        },
+        {
+          "id": "595",
+          "tag": "1 AP",
+          "name": "Talk To Animal",
+          "type": "skill",
+          "isFree": false,
+          "details": "",
+          "is_free": false,
+          "element_type": "skill"
         }
       ]
     },
@@ -5085,6 +5635,86 @@
           "details": "Shields",
           "is_free": false,
           "element_type": "set"
+        },
+        {
+          "id": "e80d183e-b530-4602-93b5-852b45af1cb3",
+          "tag": "1 AP",
+          "name": "Healing Arts",
+          "type": "set",
+          "isFree": false,
+          "details": "Skills",
+          "is_free": false,
+          "element_type": "set"
+        },
+        {
+          "id": "47a5089f-5452-4dba-b5a6-9e6d94524e51",
+          "tag": "1 AP",
+          "name": "Alchemy",
+          "type": "set",
+          "isFree": false,
+          "details": "Skills",
+          "is_free": false,
+          "element_type": "set"
+        },
+        {
+          "id": "ac271ed1-7f17-4fa5-af02-e02b5cf4aba9",
+          "tag": "1 AP",
+          "name": "Mental Discipline",
+          "type": "set",
+          "isFree": false,
+          "details": "Skills",
+          "is_free": false,
+          "element_type": "set"
+        },
+        {
+          "id": "884c8c1a-1c77-419b-95b3-e9219df0ed7d",
+          "tag": "1 AP",
+          "name": "Restoration Discipline",
+          "type": "set",
+          "isFree": false,
+          "details": "Skills",
+          "is_free": false,
+          "element_type": "set"
+        },
+        {
+          "id": "566",
+          "tag": "1 AP",
+          "name": "Religion",
+          "type": "skill",
+          "isFree": false,
+          "details": "",
+          "is_free": false,
+          "element_type": "skill"
+        },
+        {
+          "id": "503",
+          "tag": "1 AP",
+          "name": "Detect Enchantments",
+          "type": "skill",
+          "isFree": false,
+          "details": "",
+          "is_free": false,
+          "element_type": "skill"
+        },
+        {
+          "id": "607",
+          "tag": "1 AP",
+          "name": "Resist Death",
+          "type": "skill",
+          "isFree": false,
+          "details": "",
+          "is_free": false,
+          "element_type": "skill"
+        },
+        {
+          "id": "481",
+          "tag": "1 AP",
+          "name": "Awareness",
+          "type": "skill",
+          "isFree": false,
+          "details": "",
+          "is_free": false,
+          "element_type": "skill"
         }
       ]
     },
@@ -5320,6 +5950,86 @@
           "details": "Shields",
           "is_free": false,
           "element_type": "set"
+        },
+        {
+          "id": "e80d183e-b530-4602-93b5-852b45af1cb3",
+          "tag": "1 AP",
+          "name": "Healing Arts",
+          "type": "set",
+          "isFree": false,
+          "details": "Skills",
+          "is_free": false,
+          "element_type": "set"
+        },
+        {
+          "id": "7196834e-822c-4981-8e29-812b766d0ed6",
+          "tag": "1 AP",
+          "name": "Intimidation & Presence",
+          "type": "set",
+          "isFree": false,
+          "details": "Skills",
+          "is_free": false,
+          "element_type": "set"
+        },
+        {
+          "id": "bcd73c3d-dd46-4600-98a3-68e641c76f50",
+          "tag": "1 AP",
+          "name": "Scholar",
+          "type": "set",
+          "isFree": false,
+          "details": "Skills",
+          "is_free": false,
+          "element_type": "set"
+        },
+        {
+          "id": "969dcbf1-e866-48c7-b079-2e387d5d033f",
+          "tag": "1 AP",
+          "name": "Sun-Devoted Skills",
+          "type": "set",
+          "isFree": false,
+          "details": "Skills",
+          "is_free": false,
+          "element_type": "set"
+        },
+        {
+          "id": "578",
+          "tag": "1 AP",
+          "name": "Resist Weather",
+          "type": "skill",
+          "isFree": false,
+          "details": "",
+          "is_free": false,
+          "element_type": "skill"
+        },
+        {
+          "id": "503",
+          "tag": "1 AP",
+          "name": "Detect Enchantments",
+          "type": "skill",
+          "isFree": false,
+          "details": "",
+          "is_free": false,
+          "element_type": "skill"
+        },
+        {
+          "id": "576",
+          "tag": "1 AP",
+          "name": "Resist Pain/Fear",
+          "type": "skill",
+          "isFree": false,
+          "details": "",
+          "is_free": false,
+          "element_type": "skill"
+        },
+        {
+          "id": "481",
+          "tag": "1 AP",
+          "name": "Awareness",
+          "type": "skill",
+          "isFree": false,
+          "details": "",
+          "is_free": false,
+          "element_type": "skill"
         }
       ]
     },
@@ -5551,6 +6261,96 @@
           "details": "Melee Blk ✨: on failure, you may still attempt a standard Dodge (Def 🏃).",
           "is_free": false,
           "element_type": "power"
+        },
+        {
+          "id": "7cc04c47-e499-4f1a-926c-59a00cce1d58",
+          "tag": "1 AP",
+          "name": "Druidic",
+          "type": "set",
+          "isFree": false,
+          "details": "Skills",
+          "is_free": false,
+          "element_type": "set"
+        },
+        {
+          "id": "e80d183e-b530-4602-93b5-852b45af1cb3",
+          "tag": "1 AP",
+          "name": "Healing Arts",
+          "type": "set",
+          "isFree": false,
+          "details": "Skills",
+          "is_free": false,
+          "element_type": "set"
+        },
+        {
+          "id": "47a5089f-5452-4dba-b5a6-9e6d94524e51",
+          "tag": "1 AP",
+          "name": "Alchemy",
+          "type": "set",
+          "isFree": false,
+          "details": "Skills",
+          "is_free": false,
+          "element_type": "set"
+        },
+        {
+          "id": "01eb0bc0-f812-47c4-9340-e46e5876adf8",
+          "tag": "1 AP",
+          "name": "Survival",
+          "type": "set",
+          "isFree": false,
+          "details": "Skills",
+          "is_free": false,
+          "element_type": "set"
+        },
+        {
+          "id": "57124858-d8da-48de-91ce-a46428551ac3",
+          "tag": "1 AP",
+          "name": "Verdant Sentinel Skills",
+          "type": "set",
+          "isFree": false,
+          "details": "Skills",
+          "is_free": false,
+          "element_type": "set"
+        },
+        {
+          "id": "523",
+          "tag": "1 AP",
+          "name": "Forest Lore",
+          "type": "skill",
+          "isFree": false,
+          "details": "",
+          "is_free": false,
+          "element_type": "skill"
+        },
+        {
+          "id": "522",
+          "tag": "1 AP",
+          "name": "Forage",
+          "type": "skill",
+          "isFree": false,
+          "details": "",
+          "is_free": false,
+          "element_type": "skill"
+        },
+        {
+          "id": "601",
+          "tag": "1 AP",
+          "name": "Tracking",
+          "type": "skill",
+          "isFree": false,
+          "details": "",
+          "is_free": false,
+          "element_type": "skill"
+        },
+        {
+          "id": "481",
+          "tag": "1 AP",
+          "name": "Awareness",
+          "type": "skill",
+          "isFree": false,
+          "details": "",
+          "is_free": false,
+          "element_type": "skill"
         }
       ]
     },
@@ -6712,6 +7512,66 @@
           "details": "Armor",
           "is_free": false,
           "element_type": "set"
+        },
+        {
+          "id": "06a586a0-9207-4cfb-8b3f-5bf5277186fb",
+          "tag": "1 AP",
+          "name": "Arcana",
+          "type": "set",
+          "isFree": false,
+          "details": "Skills",
+          "is_free": false,
+          "element_type": "set"
+        },
+        {
+          "id": "bcd73c3d-dd46-4600-98a3-68e641c76f50",
+          "tag": "1 AP",
+          "name": "Scholar",
+          "type": "set",
+          "isFree": false,
+          "details": "Skills",
+          "is_free": false,
+          "element_type": "set"
+        },
+        {
+          "id": "24f0c936-a2b0-448c-9ccb-abd26bed4f0c",
+          "tag": "1 AP",
+          "name": "Elemental Discipline",
+          "type": "set",
+          "isFree": false,
+          "details": "Skills",
+          "is_free": false,
+          "element_type": "set"
+        },
+        {
+          "id": "576",
+          "tag": "1 AP",
+          "name": "Resist Pain/Fear",
+          "type": "skill",
+          "isFree": false,
+          "details": "",
+          "is_free": false,
+          "element_type": "skill"
+        },
+        {
+          "id": "481",
+          "tag": "1 AP",
+          "name": "Awareness",
+          "type": "skill",
+          "isFree": false,
+          "details": "",
+          "is_free": false,
+          "element_type": "skill"
+        },
+        {
+          "id": "594",
+          "tag": "1 AP",
+          "name": "Tactics",
+          "type": "skill",
+          "isFree": false,
+          "details": "",
+          "is_free": false,
+          "element_type": "skill"
         }
       ]
     },
@@ -6943,6 +7803,76 @@
           "details": "2 adjacent sq debris Val(✨-2) ft height; Atk ✨ Dmg d✨ and if hit -> affliction Stuck ✨^💪.",
           "is_free": false,
           "element_type": "power"
+        },
+        {
+          "id": "06a586a0-9207-4cfb-8b3f-5bf5277186fb",
+          "tag": "1 AP",
+          "name": "Arcana",
+          "type": "set",
+          "isFree": false,
+          "details": "Skills",
+          "is_free": false,
+          "element_type": "set"
+        },
+        {
+          "id": "0f9c4bb7-3a22-4be7-886b-97201085b2eb",
+          "tag": "1 AP",
+          "name": "Dungeoneering",
+          "type": "set",
+          "isFree": false,
+          "details": "Skills",
+          "is_free": false,
+          "element_type": "set"
+        },
+        {
+          "id": "ce207f32-6fc5-45ab-9542-41788fe4bdf2",
+          "tag": "1 AP",
+          "name": "Engineering & Siegecraft",
+          "type": "set",
+          "isFree": false,
+          "details": "Skills",
+          "is_free": false,
+          "element_type": "set"
+        },
+        {
+          "id": "c75e9815-2b75-4f9f-a1eb-4dbbcf2b0ca8",
+          "tag": "1 AP",
+          "name": "Geomancer Skills",
+          "type": "set",
+          "isFree": false,
+          "details": "Skills",
+          "is_free": false,
+          "element_type": "set"
+        },
+        {
+          "id": "552",
+          "tag": "1 AP",
+          "name": "Mountaineering",
+          "type": "skill",
+          "isFree": false,
+          "details": "",
+          "is_free": false,
+          "element_type": "skill"
+        },
+        {
+          "id": "505",
+          "tag": "1 AP",
+          "name": "Detect Metal",
+          "type": "skill",
+          "isFree": false,
+          "details": "",
+          "is_free": false,
+          "element_type": "skill"
+        },
+        {
+          "id": "576",
+          "tag": "1 AP",
+          "name": "Resist Pain/Fear",
+          "type": "skill",
+          "isFree": false,
+          "details": "",
+          "is_free": false,
+          "element_type": "skill"
         }
       ]
     },
@@ -7243,6 +8173,66 @@
           "details": "Shields",
           "is_free": false,
           "element_type": "set"
+        },
+        {
+          "id": "fc420d14-4a4d-49ce-9146-8da4bb24fd05",
+          "tag": "1 AP",
+          "name": "Magnetism",
+          "type": "set",
+          "isFree": false,
+          "details": "Skills",
+          "is_free": false,
+          "element_type": "set"
+        },
+        {
+          "id": "06a586a0-9207-4cfb-8b3f-5bf5277186fb",
+          "tag": "1 AP",
+          "name": "Arcana",
+          "type": "set",
+          "isFree": false,
+          "details": "Skills",
+          "is_free": false,
+          "element_type": "set"
+        },
+        {
+          "id": "5b4dbbf4-ca6c-436b-85cc-57bba3e1d3a4",
+          "tag": "1 AP",
+          "name": "Magnetic Discipline",
+          "type": "set",
+          "isFree": false,
+          "details": "Skills",
+          "is_free": false,
+          "element_type": "set"
+        },
+        {
+          "id": "563",
+          "tag": "1 AP",
+          "name": "Power Management",
+          "type": "skill",
+          "isFree": false,
+          "details": "",
+          "is_free": false,
+          "element_type": "skill"
+        },
+        {
+          "id": "575",
+          "tag": "1 AP",
+          "name": "Resist Mental",
+          "type": "skill",
+          "isFree": false,
+          "details": "",
+          "is_free": false,
+          "element_type": "skill"
+        },
+        {
+          "id": "483",
+          "tag": "1 AP",
+          "name": "Balance",
+          "type": "skill",
+          "isFree": false,
+          "details": "",
+          "is_free": false,
+          "element_type": "skill"
         }
       ]
     },
@@ -7708,6 +8698,86 @@
           "details": "✨^✨ -> Vanquishes to the void, When return have 1/2 Vit, Max of 1 Vanquished.",
           "is_free": false,
           "element_type": "power"
+        },
+        {
+          "id": "06a586a0-9207-4cfb-8b3f-5bf5277186fb",
+          "tag": "1 AP",
+          "name": "Arcana",
+          "type": "set",
+          "isFree": false,
+          "details": "Skills",
+          "is_free": false,
+          "element_type": "set"
+        },
+        {
+          "id": "ac271ed1-7f17-4fa5-af02-e02b5cf4aba9",
+          "tag": "1 AP",
+          "name": "Mental Discipline",
+          "type": "set",
+          "isFree": false,
+          "details": "Skills",
+          "is_free": false,
+          "element_type": "set"
+        },
+        {
+          "id": "bcd73c3d-dd46-4600-98a3-68e641c76f50",
+          "tag": "1 AP",
+          "name": "Scholar",
+          "type": "set",
+          "isFree": false,
+          "details": "Skills",
+          "is_free": false,
+          "element_type": "set"
+        },
+        {
+          "id": "bb01747b-f72b-4708-b068-fe951078c511",
+          "tag": "1 AP",
+          "name": "Void Magic Skills",
+          "type": "set",
+          "isFree": false,
+          "details": "Skills",
+          "is_free": false,
+          "element_type": "set"
+        },
+        {
+          "id": "633",
+          "tag": "1 AP",
+          "name": "Dominate (mso)",
+          "type": "skill",
+          "isFree": false,
+          "details": "",
+          "is_free": false,
+          "element_type": "skill"
+        },
+        {
+          "id": "652",
+          "tag": "1 AP",
+          "name": "Concealment (mso)",
+          "type": "skill",
+          "isFree": false,
+          "details": "",
+          "is_free": false,
+          "element_type": "skill"
+        },
+        {
+          "id": "607",
+          "tag": "1 AP",
+          "name": "Resist Death",
+          "type": "skill",
+          "isFree": false,
+          "details": "",
+          "is_free": false,
+          "element_type": "skill"
+        },
+        {
+          "id": "565",
+          "tag": "1 AP",
+          "name": "Read Intent",
+          "type": "skill",
+          "isFree": false,
+          "details": "",
+          "is_free": false,
+          "element_type": "skill"
         }
       ]
     },
@@ -7970,6 +9040,66 @@
           "details": "Traits",
           "is_free": true,
           "element_type": "set"
+        },
+        {
+          "id": "333c2308-2a2e-47d5-86a5-fe7383223243",
+          "tag": "1 AP",
+          "name": "Survivalist",
+          "type": "set",
+          "isFree": false,
+          "details": "Skills",
+          "is_free": false,
+          "element_type": "set"
+        },
+        {
+          "id": "eb14aba1-c978-4a99-98aa-d08bab682bb2",
+          "tag": "1 AP",
+          "name": "Athletic & Physical",
+          "type": "set",
+          "isFree": false,
+          "details": "Skills",
+          "is_free": false,
+          "element_type": "set"
+        },
+        {
+          "id": "452c4a3f-f84c-42b0-a4fd-4abf85484c6c",
+          "tag": "1 AP",
+          "name": "Marine Skills",
+          "type": "set",
+          "isFree": false,
+          "details": "Skills",
+          "is_free": false,
+          "element_type": "set"
+        },
+        {
+          "id": "667",
+          "tag": "1 AP",
+          "name": "Repair Armor (mso)",
+          "type": "skill",
+          "isFree": false,
+          "details": "",
+          "is_free": false,
+          "element_type": "skill"
+        },
+        {
+          "id": "662",
+          "tag": "1 AP",
+          "name": "Navigate (mso)",
+          "type": "skill",
+          "isFree": false,
+          "details": "",
+          "is_free": false,
+          "element_type": "skill"
+        },
+        {
+          "id": "613",
+          "tag": "1 AP",
+          "name": "Tight Grip (mso)",
+          "type": "skill",
+          "isFree": false,
+          "details": "",
+          "is_free": false,
+          "element_type": "skill"
         }
       ]
     },
@@ -8286,6 +9416,66 @@
           "details": "Armor",
           "is_free": false,
           "element_type": "set"
+        },
+        {
+          "id": "21d13a75-c97e-4662-897a-5047ebfcfab8",
+          "tag": "1 AP",
+          "name": "Martial Prowess",
+          "type": "set",
+          "isFree": false,
+          "details": "Skills",
+          "is_free": false,
+          "element_type": "set"
+        },
+        {
+          "id": "e8246e89-eb96-4d70-9064-906d9a0496dc",
+          "tag": "1 AP",
+          "name": "Agility",
+          "type": "set",
+          "isFree": false,
+          "details": "Skills",
+          "is_free": false,
+          "element_type": "set"
+        },
+        {
+          "id": "1360e588-bcd5-45ff-a3b2-722807591815",
+          "tag": "1 AP",
+          "name": "Awareness",
+          "type": "set",
+          "isFree": false,
+          "details": "Skills",
+          "is_free": false,
+          "element_type": "set"
+        },
+        {
+          "id": "aecccaa0-7239-43a8-bb2d-047bb2238638",
+          "tag": "1 AP",
+          "name": "Blade Saint Skills",
+          "type": "set",
+          "isFree": false,
+          "details": "Skills",
+          "is_free": false,
+          "element_type": "set"
+        },
+        {
+          "id": "607",
+          "tag": "1 AP",
+          "name": "Resist Death",
+          "type": "skill",
+          "isFree": false,
+          "details": "",
+          "is_free": false,
+          "element_type": "skill"
+        },
+        {
+          "id": "538",
+          "tag": "1 AP",
+          "name": "ID Threats",
+          "type": "skill",
+          "isFree": false,
+          "details": "",
+          "is_free": false,
+          "element_type": "skill"
         }
       ]
     },
@@ -8859,6 +10049,66 @@
           "details": "No Armor, Clothing, or other non-armor gear",
           "is_free": true,
           "element_type": "armor"
+        },
+        {
+          "id": "ac271ed1-7f17-4fa5-af02-e02b5cf4aba9",
+          "tag": "1 AP",
+          "name": "Mental Discipline",
+          "type": "set",
+          "isFree": false,
+          "details": "Skills",
+          "is_free": false,
+          "element_type": "set"
+        },
+        {
+          "id": "1360e588-bcd5-45ff-a3b2-722807591815",
+          "tag": "1 AP",
+          "name": "Awareness",
+          "type": "set",
+          "isFree": false,
+          "details": "Skills",
+          "is_free": false,
+          "element_type": "set"
+        },
+        {
+          "id": "535fc245-906e-4636-8561-b1ed6f79f19e",
+          "tag": "1 AP",
+          "name": "Mensi Skills",
+          "type": "set",
+          "isFree": false,
+          "details": "Skills",
+          "is_free": false,
+          "element_type": "set"
+        },
+        {
+          "id": "641",
+          "tag": "1 AP",
+          "name": "Common Sense (mso)",
+          "type": "skill",
+          "isFree": false,
+          "details": "",
+          "is_free": false,
+          "element_type": "skill"
+        },
+        {
+          "id": "624",
+          "tag": "1 AP",
+          "name": "General Knowledge (mso)",
+          "type": "skill",
+          "isFree": false,
+          "details": "",
+          "is_free": false,
+          "element_type": "skill"
+        },
+        {
+          "id": "572",
+          "tag": "1 AP",
+          "name": "Resist Charm",
+          "type": "skill",
+          "isFree": false,
+          "details": "",
+          "is_free": false,
+          "element_type": "skill"
         }
       ]
     },
@@ -9354,6 +10604,66 @@
           "details": "Armor",
           "is_free": false,
           "element_type": "set"
+        },
+        {
+          "id": "e8246e89-eb96-4d70-9064-906d9a0496dc",
+          "tag": "1 AP",
+          "name": "Agility",
+          "type": "set",
+          "isFree": false,
+          "details": "Skills",
+          "is_free": false,
+          "element_type": "set"
+        },
+        {
+          "id": "ac271ed1-7f17-4fa5-af02-e02b5cf4aba9",
+          "tag": "1 AP",
+          "name": "Mental Discipline",
+          "type": "set",
+          "isFree": false,
+          "details": "Skills",
+          "is_free": false,
+          "element_type": "set"
+        },
+        {
+          "id": "4d0b4a09-3854-4543-9fba-1b78f0daf605",
+          "tag": "1 AP",
+          "name": "Athletics",
+          "type": "set",
+          "isFree": false,
+          "details": "Skills",
+          "is_free": false,
+          "element_type": "set"
+        },
+        {
+          "id": "667bd1bf-8a35-4da1-a6ad-1e0c91ba7cf4",
+          "tag": "1 AP",
+          "name": "Inner Peace Discipline",
+          "type": "set",
+          "isFree": false,
+          "details": "Skills",
+          "is_free": false,
+          "element_type": "set"
+        },
+        {
+          "id": "555",
+          "tag": "1 AP",
+          "name": "Parkour",
+          "type": "skill",
+          "isFree": false,
+          "details": "",
+          "is_free": false,
+          "element_type": "skill"
+        },
+        {
+          "id": "526",
+          "tag": "1 AP",
+          "name": "Guard Drills",
+          "type": "skill",
+          "isFree": false,
+          "details": "",
+          "is_free": false,
+          "element_type": "skill"
         }
       ]
     },
@@ -9593,6 +10903,56 @@
           "details": "No Armor, Clothing, or other non-armor gear",
           "is_free": true,
           "element_type": "armor"
+        },
+        {
+          "id": "eb14aba1-c978-4a99-98aa-d08bab682bb2",
+          "tag": "1 AP",
+          "name": "Athletic & Physical",
+          "type": "set",
+          "isFree": false,
+          "details": "Skills",
+          "is_free": false,
+          "element_type": "set"
+        },
+        {
+          "id": "333c2308-2a2e-47d5-86a5-fe7383223243",
+          "tag": "1 AP",
+          "name": "Survivalist",
+          "type": "set",
+          "isFree": false,
+          "details": "Skills",
+          "is_free": false,
+          "element_type": "set"
+        },
+        {
+          "id": "4788520b-cc16-4497-b88e-5cb77a0ea75a",
+          "tag": "1 AP",
+          "name": "Mutak Skills",
+          "type": "set",
+          "isFree": false,
+          "details": "Skills",
+          "is_free": false,
+          "element_type": "set"
+        },
+        {
+          "id": "555",
+          "tag": "1 AP",
+          "name": "Parkour",
+          "type": "skill",
+          "isFree": false,
+          "details": "",
+          "is_free": false,
+          "element_type": "skill"
+        },
+        {
+          "id": "607",
+          "tag": "1 AP",
+          "name": "Resist Death",
+          "type": "skill",
+          "isFree": false,
+          "details": "",
+          "is_free": false,
+          "element_type": "skill"
         }
       ]
     },
@@ -10673,6 +12033,76 @@
           "details": "Armor",
           "is_free": false,
           "element_type": "set"
+        },
+        {
+          "id": "ac271ed1-7f17-4fa5-af02-e02b5cf4aba9",
+          "tag": "1 AP",
+          "name": "Mental Discipline",
+          "type": "set",
+          "isFree": false,
+          "details": "Skills",
+          "is_free": false,
+          "element_type": "set"
+        },
+        {
+          "id": "1360e588-bcd5-45ff-a3b2-722807591815",
+          "tag": "1 AP",
+          "name": "Awareness",
+          "type": "set",
+          "isFree": false,
+          "details": "Skills",
+          "is_free": false,
+          "element_type": "set"
+        },
+        {
+          "id": "48170c96-5190-49b1-a520-9aa507fd8385",
+          "tag": "1 AP",
+          "name": "Psionics Skills",
+          "type": "set",
+          "isFree": false,
+          "details": "Skills",
+          "is_free": false,
+          "element_type": "set"
+        },
+        {
+          "id": "636",
+          "tag": "1 AP",
+          "name": "Danger Sense (mso)",
+          "type": "skill",
+          "isFree": false,
+          "details": "",
+          "is_free": false,
+          "element_type": "skill"
+        },
+        {
+          "id": "574",
+          "tag": "1 AP",
+          "name": "Resist Illusions",
+          "type": "skill",
+          "isFree": false,
+          "details": "",
+          "is_free": false,
+          "element_type": "skill"
+        },
+        {
+          "id": "517",
+          "tag": "1 AP",
+          "name": "Falling",
+          "type": "skill",
+          "isFree": false,
+          "details": "",
+          "is_free": false,
+          "element_type": "skill"
+        },
+        {
+          "id": "572",
+          "tag": "1 AP",
+          "name": "Resist Charm",
+          "type": "skill",
+          "isFree": false,
+          "details": "",
+          "is_free": false,
+          "element_type": "skill"
         }
       ]
     },
@@ -10973,6 +12403,76 @@
           "details": "Shields",
           "is_free": false,
           "element_type": "set"
+        },
+        {
+          "id": "ac271ed1-7f17-4fa5-af02-e02b5cf4aba9",
+          "tag": "1 AP",
+          "name": "Mental Discipline",
+          "type": "set",
+          "isFree": false,
+          "details": "Skills",
+          "is_free": false,
+          "element_type": "set"
+        },
+        {
+          "id": "21d13a75-c97e-4662-897a-5047ebfcfab8",
+          "tag": "1 AP",
+          "name": "Martial Prowess",
+          "type": "set",
+          "isFree": false,
+          "details": "Skills",
+          "is_free": false,
+          "element_type": "set"
+        },
+        {
+          "id": "b40ca9ae-e6db-43b4-a6e9-908979f7a351",
+          "tag": "1 AP",
+          "name": "Psionic Sentinel Skills",
+          "type": "set",
+          "isFree": false,
+          "details": "Skills",
+          "is_free": false,
+          "element_type": "set"
+        },
+        {
+          "id": "655",
+          "tag": "1 AP",
+          "name": "Fearless (mso)",
+          "type": "skill",
+          "isFree": false,
+          "details": "",
+          "is_free": false,
+          "element_type": "skill"
+        },
+        {
+          "id": "481",
+          "tag": "1 AP",
+          "name": "Awareness",
+          "type": "skill",
+          "isFree": false,
+          "details": "",
+          "is_free": false,
+          "element_type": "skill"
+        },
+        {
+          "id": "542",
+          "tag": "1 AP",
+          "name": "Intimidation",
+          "type": "skill",
+          "isFree": false,
+          "details": "",
+          "is_free": false,
+          "element_type": "skill"
+        },
+        {
+          "id": "607",
+          "tag": "1 AP",
+          "name": "Resist Death",
+          "type": "skill",
+          "isFree": false,
+          "details": "",
+          "is_free": false,
+          "element_type": "skill"
         }
       ]
     },
@@ -11003,6 +12503,76 @@
           "details": "Armor",
           "is_free": false,
           "element_type": "set"
+        },
+        {
+          "id": "eb14aba1-c978-4a99-98aa-d08bab682bb2",
+          "tag": "1 AP",
+          "name": "Athletic & Physical",
+          "type": "set",
+          "isFree": false,
+          "details": "Skills",
+          "is_free": false,
+          "element_type": "set"
+        },
+        {
+          "id": "ac271ed1-7f17-4fa5-af02-e02b5cf4aba9",
+          "tag": "1 AP",
+          "name": "Mental Discipline",
+          "type": "set",
+          "isFree": false,
+          "details": "Skills",
+          "is_free": false,
+          "element_type": "set"
+        },
+        {
+          "id": "96b2bea7-aff9-4af7-9001-b11609eb818f",
+          "tag": "1 AP",
+          "name": "Psychosomatics Skills",
+          "type": "set",
+          "isFree": false,
+          "details": "Skills",
+          "is_free": false,
+          "element_type": "set"
+        },
+        {
+          "id": "555",
+          "tag": "1 AP",
+          "name": "Parkour",
+          "type": "skill",
+          "isFree": false,
+          "details": "",
+          "is_free": false,
+          "element_type": "skill"
+        },
+        {
+          "id": "483",
+          "tag": "1 AP",
+          "name": "Balance",
+          "type": "skill",
+          "isFree": false,
+          "details": "",
+          "is_free": false,
+          "element_type": "skill"
+        },
+        {
+          "id": "606",
+          "tag": "1 AP",
+          "name": "Nish",
+          "type": "skill",
+          "isFree": false,
+          "details": "",
+          "is_free": false,
+          "element_type": "skill"
+        },
+        {
+          "id": "592",
+          "tag": "1 AP",
+          "name": "Survival",
+          "type": "skill",
+          "isFree": false,
+          "details": "",
+          "is_free": false,
+          "element_type": "skill"
         }
       ]
     },
@@ -13936,6 +15506,116 @@
           "details": "From hidden, single target, unknown: Wnds×3 . Stacks with Assassinate, Assassin's Pool.",
           "is_free": false,
           "element_type": "power"
+        },
+        {
+          "id": "fd8d0fd3-a93a-4049-a6ae-a9eedf92e79a",
+          "tag": "1 AP",
+          "name": "Scout",
+          "type": "set",
+          "isFree": false,
+          "details": "Skills",
+          "is_free": false,
+          "element_type": "set"
+        },
+        {
+          "id": "333c2308-2a2e-47d5-86a5-fe7383223243",
+          "tag": "1 AP",
+          "name": "Survivalist",
+          "type": "set",
+          "isFree": false,
+          "details": "Skills",
+          "is_free": false,
+          "element_type": "set"
+        },
+        {
+          "id": "1360e588-bcd5-45ff-a3b2-722807591815",
+          "tag": "1 AP",
+          "name": "Awareness",
+          "type": "set",
+          "isFree": false,
+          "details": "Skills",
+          "is_free": false,
+          "element_type": "set"
+        },
+        {
+          "id": "ba7457c0-7c92-4090-a86a-4687d0c2a9ee",
+          "tag": "1 AP",
+          "name": "Starborn Ranger Skills",
+          "type": "set",
+          "isFree": false,
+          "details": "Skills",
+          "is_free": false,
+          "element_type": "set"
+        },
+        {
+          "id": "663",
+          "tag": "1 AP",
+          "name": "Pilot Small Craft (mso)",
+          "type": "skill",
+          "isFree": false,
+          "details": "",
+          "is_free": false,
+          "element_type": "skill"
+        },
+        {
+          "id": "683",
+          "tag": "1 AP",
+          "name": "Vehicle Gunner (mso)",
+          "type": "skill",
+          "isFree": false,
+          "details": "",
+          "is_free": false,
+          "element_type": "skill"
+        },
+        {
+          "id": "632",
+          "tag": "1 AP",
+          "name": "Drive Vehicle (mso)",
+          "type": "skill",
+          "isFree": false,
+          "details": "",
+          "is_free": false,
+          "element_type": "skill"
+        },
+        {
+          "id": "532",
+          "tag": "1 AP",
+          "name": "Hunt",
+          "type": "skill",
+          "isFree": false,
+          "details": "",
+          "is_free": false,
+          "element_type": "skill"
+        },
+        {
+          "id": "617",
+          "tag": "1 AP",
+          "name": "Stealth (mso)",
+          "type": "skill",
+          "isFree": false,
+          "details": "",
+          "is_free": false,
+          "element_type": "skill"
+        },
+        {
+          "id": "652",
+          "tag": "1 AP",
+          "name": "Concealment (mso)",
+          "type": "skill",
+          "isFree": false,
+          "details": "",
+          "is_free": false,
+          "element_type": "skill"
+        },
+        {
+          "id": "659",
+          "tag": "1 AP",
+          "name": "Jumping (mso)",
+          "type": "skill",
+          "isFree": false,
+          "details": "",
+          "is_free": false,
+          "element_type": "skill"
         }
       ]
     },
@@ -14339,6 +16019,96 @@
           "details": "Armor",
           "is_free": false,
           "element_type": "set"
+        },
+        {
+          "id": "879d4281-869f-4d83-9cf0-7ad3bf9c4186",
+          "tag": "1 AP",
+          "name": "Assassin",
+          "type": "set",
+          "isFree": false,
+          "details": "Skills",
+          "is_free": false,
+          "element_type": "set"
+        },
+        {
+          "id": "6bb86d02-ce34-4309-a43e-9c67a285f605",
+          "tag": "1 AP",
+          "name": "Thievery",
+          "type": "set",
+          "isFree": false,
+          "details": "Skills",
+          "is_free": false,
+          "element_type": "set"
+        },
+        {
+          "id": "16a3de8a-cd47-4a15-ac72-44157d60db65",
+          "tag": "1 AP",
+          "name": "Streetwise",
+          "type": "set",
+          "isFree": false,
+          "details": "Skills",
+          "is_free": false,
+          "element_type": "set"
+        },
+        {
+          "id": "5479fe8f-49c2-4491-8a5d-3ab2699db971",
+          "tag": "1 AP",
+          "name": "Shadow Kill Skills",
+          "type": "set",
+          "isFree": false,
+          "details": "Skills",
+          "is_free": false,
+          "element_type": "set"
+        },
+        {
+          "id": "514",
+          "tag": "1 AP",
+          "name": "Escape Artist",
+          "type": "skill",
+          "isFree": false,
+          "details": "",
+          "is_free": false,
+          "element_type": "skill"
+        },
+        {
+          "id": "565",
+          "tag": "1 AP",
+          "name": "Read Intent",
+          "type": "skill",
+          "isFree": false,
+          "details": "",
+          "is_free": false,
+          "element_type": "skill"
+        },
+        {
+          "id": "541",
+          "tag": "1 AP",
+          "name": "Interrogate",
+          "type": "skill",
+          "isFree": false,
+          "details": "",
+          "is_free": false,
+          "element_type": "skill"
+        },
+        {
+          "id": "555",
+          "tag": "1 AP",
+          "name": "Parkour",
+          "type": "skill",
+          "isFree": false,
+          "details": "",
+          "is_free": false,
+          "element_type": "skill"
+        },
+        {
+          "id": "496",
+          "tag": "1 AP",
+          "name": "Counter Security",
+          "type": "skill",
+          "isFree": false,
+          "details": "",
+          "is_free": false,
+          "element_type": "skill"
         }
       ]
     },
@@ -14639,6 +16409,96 @@
           "details": "Armor",
           "is_free": false,
           "element_type": "set"
+        },
+        {
+          "id": "16a3de8a-cd47-4a15-ac72-44157d60db65",
+          "tag": "1 AP",
+          "name": "Streetwise",
+          "type": "set",
+          "isFree": false,
+          "details": "Skills",
+          "is_free": false,
+          "element_type": "set"
+        },
+        {
+          "id": "1439e062-56df-41fb-9418-d6f38124a92b",
+          "tag": "1 AP",
+          "name": "Rogue",
+          "type": "set",
+          "isFree": false,
+          "details": "Skills",
+          "is_free": false,
+          "element_type": "set"
+        },
+        {
+          "id": "e8246e89-eb96-4d70-9064-906d9a0496dc",
+          "tag": "1 AP",
+          "name": "Agility",
+          "type": "set",
+          "isFree": false,
+          "details": "Skills",
+          "is_free": false,
+          "element_type": "set"
+        },
+        {
+          "id": "6eaddb8a-1ad4-4e5c-b743-36713dd3531c",
+          "tag": "1 AP",
+          "name": "Misdirection Skills",
+          "type": "set",
+          "isFree": false,
+          "details": "Skills",
+          "is_free": false,
+          "element_type": "set"
+        },
+        {
+          "id": "504",
+          "tag": "1 AP",
+          "name": "Detect Lie",
+          "type": "skill",
+          "isFree": false,
+          "details": "",
+          "is_free": false,
+          "element_type": "skill"
+        },
+        {
+          "id": "558",
+          "tag": "1 AP",
+          "name": "Pick Locks",
+          "type": "skill",
+          "isFree": false,
+          "details": "",
+          "is_free": false,
+          "element_type": "skill"
+        },
+        {
+          "id": "506",
+          "tag": "1 AP",
+          "name": "Detect/Remove Traps",
+          "type": "skill",
+          "isFree": false,
+          "details": "",
+          "is_free": false,
+          "element_type": "skill"
+        },
+        {
+          "id": "477",
+          "tag": "1 AP",
+          "name": "Appraise",
+          "type": "skill",
+          "isFree": false,
+          "details": "",
+          "is_free": false,
+          "element_type": "skill"
+        },
+        {
+          "id": "555",
+          "tag": "1 AP",
+          "name": "Parkour",
+          "type": "skill",
+          "isFree": false,
+          "details": "",
+          "is_free": false,
+          "element_type": "skill"
         }
       ]
     },
@@ -14844,6 +16704,86 @@
           "details": "Symbiote on target: e.g. joints = 💪(*2); eyes = Awareness; frame = Fortitude; skull = 👁️.",
           "is_free": false,
           "element_type": "power"
+        },
+        {
+          "id": "47a5089f-5452-4dba-b5a6-9e6d94524e51",
+          "tag": "1 AP",
+          "name": "Alchemy",
+          "type": "set",
+          "isFree": false,
+          "details": "Skills",
+          "is_free": false,
+          "element_type": "set"
+        },
+        {
+          "id": "e80d183e-b530-4602-93b5-852b45af1cb3",
+          "tag": "1 AP",
+          "name": "Healing Arts",
+          "type": "set",
+          "isFree": false,
+          "details": "Skills",
+          "is_free": false,
+          "element_type": "set"
+        },
+        {
+          "id": "7cc04c47-e499-4f1a-926c-59a00cce1d58",
+          "tag": "1 AP",
+          "name": "Druidic",
+          "type": "set",
+          "isFree": false,
+          "details": "Skills",
+          "is_free": false,
+          "element_type": "set"
+        },
+        {
+          "id": "0ec310f5-6888-4dbc-ba00-7192d07eaebc",
+          "tag": "1 AP",
+          "name": "Bio Engineer Skills",
+          "type": "set",
+          "isFree": false,
+          "details": "Skills",
+          "is_free": false,
+          "element_type": "set"
+        },
+        {
+          "id": "560",
+          "tag": "1 AP",
+          "name": "Poison Use",
+          "type": "skill",
+          "isFree": false,
+          "details": "",
+          "is_free": false,
+          "element_type": "skill"
+        },
+        {
+          "id": "534",
+          "tag": "1 AP",
+          "name": "ID Monster",
+          "type": "skill",
+          "isFree": false,
+          "details": "",
+          "is_free": false,
+          "element_type": "skill"
+        },
+        {
+          "id": "583",
+          "tag": "1 AP",
+          "name": "Scavenging",
+          "type": "skill",
+          "isFree": false,
+          "details": "",
+          "is_free": false,
+          "element_type": "skill"
+        },
+        {
+          "id": "577",
+          "tag": "1 AP",
+          "name": "Resist Poison",
+          "type": "skill",
+          "isFree": false,
+          "details": "",
+          "is_free": false,
+          "element_type": "skill"
         }
       ]
     },
@@ -17564,6 +19504,76 @@
           "details": "No Armor, Clothing, or other non-armor gear",
           "is_free": true,
           "element_type": "armor"
+        },
+        {
+          "id": "06a586a0-9207-4cfb-8b3f-5bf5277186fb",
+          "tag": "1 AP",
+          "name": "Arcana",
+          "type": "set",
+          "isFree": false,
+          "details": "Skills",
+          "is_free": false,
+          "element_type": "set"
+        },
+        {
+          "id": "de75be5e-2e56-43b5-a7b0-a08b91573077",
+          "tag": "1 AP",
+          "name": "Thief & Covert Operations",
+          "type": "set",
+          "isFree": false,
+          "details": "Skills",
+          "is_free": false,
+          "element_type": "set"
+        },
+        {
+          "id": "e6999fea-c05b-44c5-a724-9af22ca196f0",
+          "tag": "1 AP",
+          "name": "Occult-Tech Discipline",
+          "type": "set",
+          "isFree": false,
+          "details": "Skills",
+          "is_free": false,
+          "element_type": "set"
+        },
+        {
+          "id": "575",
+          "tag": "1 AP",
+          "name": "Resist Mental",
+          "type": "skill",
+          "isFree": false,
+          "details": "",
+          "is_free": false,
+          "element_type": "skill"
+        },
+        {
+          "id": "655",
+          "tag": "1 AP",
+          "name": "Fearless (mso)",
+          "type": "skill",
+          "isFree": false,
+          "details": "",
+          "is_free": false,
+          "element_type": "skill"
+        },
+        {
+          "id": "660",
+          "tag": "1 AP",
+          "name": "Languages All (mso)",
+          "type": "skill",
+          "isFree": false,
+          "details": "",
+          "is_free": false,
+          "element_type": "skill"
+        },
+        {
+          "id": "640",
+          "tag": "1 AP",
+          "name": "Computer (mso)",
+          "type": "skill",
+          "isFree": false,
+          "details": "",
+          "is_free": false,
+          "element_type": "skill"
         }
       ]
     },
@@ -17816,6 +19826,56 @@
           "details": "Shields",
           "is_free": false,
           "element_type": "set"
+        },
+        {
+          "id": "21d13a75-c97e-4662-897a-5047ebfcfab8",
+          "tag": "1 AP",
+          "name": "Martial Prowess",
+          "type": "set",
+          "isFree": false,
+          "details": "Skills",
+          "is_free": false,
+          "element_type": "set"
+        },
+        {
+          "id": "eb348c9c-ae93-452c-a4a5-d5d88ced4e57",
+          "tag": "1 AP",
+          "name": "Guard Skills",
+          "type": "set",
+          "isFree": false,
+          "details": "Skills",
+          "is_free": false,
+          "element_type": "set"
+        },
+        {
+          "id": "4d0b4a09-3854-4543-9fba-1b78f0daf605",
+          "tag": "1 AP",
+          "name": "Athletics",
+          "type": "set",
+          "isFree": false,
+          "details": "Skills",
+          "is_free": false,
+          "element_type": "set"
+        },
+        {
+          "id": "4d163b2e-9c07-4608-9626-9136eb796e28",
+          "tag": "1 AP",
+          "name": "Warrior Skills",
+          "type": "set",
+          "isFree": false,
+          "details": "Skills",
+          "is_free": false,
+          "element_type": "set"
+        },
+        {
+          "id": "579",
+          "tag": "1 AP",
+          "name": "Riding",
+          "type": "skill",
+          "isFree": false,
+          "details": "",
+          "is_free": false,
+          "element_type": "skill"
         }
       ]
     },
@@ -18008,6 +20068,96 @@
           "details": "Melee attacks targeting same foe gain cumulative +2 to Atk/Dmg each round for Encounter.",
           "is_free": false,
           "element_type": "power"
+        },
+        {
+          "id": "e8246e89-eb96-4d70-9064-906d9a0496dc",
+          "tag": "1 AP",
+          "name": "Agility",
+          "type": "set",
+          "isFree": false,
+          "details": "Skills",
+          "is_free": false,
+          "element_type": "set"
+        },
+        {
+          "id": "21d13a75-c97e-4662-897a-5047ebfcfab8",
+          "tag": "1 AP",
+          "name": "Martial Prowess",
+          "type": "set",
+          "isFree": false,
+          "details": "Skills",
+          "is_free": false,
+          "element_type": "set"
+        },
+        {
+          "id": "1360e588-bcd5-45ff-a3b2-722807591815",
+          "tag": "1 AP",
+          "name": "Awareness",
+          "type": "set",
+          "isFree": false,
+          "details": "Skills",
+          "is_free": false,
+          "element_type": "set"
+        },
+        {
+          "id": "b9269396-b7c2-49d1-be80-10a6c57d51ab",
+          "tag": "1 AP",
+          "name": "Aetherblade Skills",
+          "type": "set",
+          "isFree": false,
+          "details": "Skills",
+          "is_free": false,
+          "element_type": "set"
+        },
+        {
+          "id": "474",
+          "tag": "1 AP",
+          "name": "Ambidexterity",
+          "type": "skill",
+          "isFree": false,
+          "details": "",
+          "is_free": false,
+          "element_type": "skill"
+        },
+        {
+          "id": "555",
+          "tag": "1 AP",
+          "name": "Parkour",
+          "type": "skill",
+          "isFree": false,
+          "details": "",
+          "is_free": false,
+          "element_type": "skill"
+        },
+        {
+          "id": "515",
+          "tag": "1 AP",
+          "name": "Evasion",
+          "type": "skill",
+          "isFree": false,
+          "details": "",
+          "is_free": false,
+          "element_type": "skill"
+        },
+        {
+          "id": "503",
+          "tag": "1 AP",
+          "name": "Detect Enchantments",
+          "type": "skill",
+          "isFree": false,
+          "details": "",
+          "is_free": false,
+          "element_type": "skill"
+        },
+        {
+          "id": "536",
+          "tag": "1 AP",
+          "name": "ID Runes",
+          "type": "skill",
+          "isFree": false,
+          "details": "",
+          "is_free": false,
+          "element_type": "skill"
         }
       ]
     },
@@ -18226,6 +20376,96 @@
           "details": "Next round: axe auto returns and opportunity attack Atk ✨ Dmg d✨ one target.",
           "is_free": false,
           "element_type": "power"
+        },
+        {
+          "id": "4d0b4a09-3854-4543-9fba-1b78f0daf605",
+          "tag": "1 AP",
+          "name": "Athletics",
+          "type": "set",
+          "isFree": false,
+          "details": "Skills",
+          "is_free": false,
+          "element_type": "set"
+        },
+        {
+          "id": "7196834e-822c-4981-8e29-812b766d0ed6",
+          "tag": "1 AP",
+          "name": "Intimidation & Presence",
+          "type": "set",
+          "isFree": false,
+          "details": "Skills",
+          "is_free": false,
+          "element_type": "set"
+        },
+        {
+          "id": "01eb0bc0-f812-47c4-9340-e46e5876adf8",
+          "tag": "1 AP",
+          "name": "Survival",
+          "type": "set",
+          "isFree": false,
+          "details": "Skills",
+          "is_free": false,
+          "element_type": "set"
+        },
+        {
+          "id": "4a8a4a70-0d8d-44d1-993b-1a5622f83581",
+          "tag": "1 AP",
+          "name": "Bloodfang Berserker Skills",
+          "type": "set",
+          "isFree": false,
+          "details": "Skills",
+          "is_free": false,
+          "element_type": "set"
+        },
+        {
+          "id": "576",
+          "tag": "1 AP",
+          "name": "Resist Pain/Fear",
+          "type": "skill",
+          "isFree": false,
+          "details": "",
+          "is_free": false,
+          "element_type": "skill"
+        },
+        {
+          "id": "607",
+          "tag": "1 AP",
+          "name": "Resist Death",
+          "type": "skill",
+          "isFree": false,
+          "details": "",
+          "is_free": false,
+          "element_type": "skill"
+        },
+        {
+          "id": "475",
+          "tag": "1 AP",
+          "name": "Ambush",
+          "type": "skill",
+          "isFree": false,
+          "details": "",
+          "is_free": false,
+          "element_type": "skill"
+        },
+        {
+          "id": "601",
+          "tag": "1 AP",
+          "name": "Tracking",
+          "type": "skill",
+          "isFree": false,
+          "details": "",
+          "is_free": false,
+          "element_type": "skill"
+        },
+        {
+          "id": "573",
+          "tag": "1 AP",
+          "name": "Resist Disease",
+          "type": "skill",
+          "isFree": false,
+          "details": "",
+          "is_free": false,
+          "element_type": "skill"
         }
       ]
     },
@@ -18487,6 +20727,56 @@
           "details": "Shields",
           "is_free": false,
           "element_type": "set"
+        },
+        {
+          "id": "21d13a75-c97e-4662-897a-5047ebfcfab8",
+          "tag": "1 AP",
+          "name": "Martial Prowess",
+          "type": "set",
+          "isFree": false,
+          "details": "Skills",
+          "is_free": false,
+          "element_type": "set"
+        },
+        {
+          "id": "7196834e-822c-4981-8e29-812b766d0ed6",
+          "tag": "1 AP",
+          "name": "Intimidation & Presence",
+          "type": "set",
+          "isFree": false,
+          "details": "Skills",
+          "is_free": false,
+          "element_type": "set"
+        },
+        {
+          "id": "90a078de-4a62-4b0a-8323-805ca200edb5",
+          "tag": "1 AP",
+          "name": "Cursed Spartan Skills",
+          "type": "set",
+          "isFree": false,
+          "details": "Skills",
+          "is_free": false,
+          "element_type": "set"
+        },
+        {
+          "id": "502",
+          "tag": "1 AP",
+          "name": "Danger Sense",
+          "type": "skill",
+          "isFree": false,
+          "details": "",
+          "is_free": false,
+          "element_type": "skill"
+        },
+        {
+          "id": "567",
+          "tag": "1 AP",
+          "name": "Repair Armor/Weapons",
+          "type": "skill",
+          "isFree": false,
+          "details": "",
+          "is_free": false,
+          "element_type": "skill"
         }
       ]
     },
@@ -18718,6 +21008,106 @@
           "details": "MR(3) 1 sq vortex; Atk ✨ Dmg d✨ can Suck(✨)^💪 in one adjacent target per round.",
           "is_free": false,
           "element_type": "power"
+        },
+        {
+          "id": "eb348c9c-ae93-452c-a4a5-d5d88ced4e57",
+          "tag": "1 AP",
+          "name": "Guard Skills",
+          "type": "set",
+          "isFree": false,
+          "details": "Skills",
+          "is_free": false,
+          "element_type": "set"
+        },
+        {
+          "id": "21d13a75-c97e-4662-897a-5047ebfcfab8",
+          "tag": "1 AP",
+          "name": "Martial Prowess",
+          "type": "set",
+          "isFree": false,
+          "details": "Skills",
+          "is_free": false,
+          "element_type": "set"
+        },
+        {
+          "id": "7196834e-822c-4981-8e29-812b766d0ed6",
+          "tag": "1 AP",
+          "name": "Intimidation & Presence",
+          "type": "set",
+          "isFree": false,
+          "details": "Skills",
+          "is_free": false,
+          "element_type": "set"
+        },
+        {
+          "id": "bf28022b-729d-4e44-ae62-7692291c4c13",
+          "tag": "1 AP",
+          "name": "Inferno Vanguard Skills",
+          "type": "set",
+          "isFree": false,
+          "details": "Skills",
+          "is_free": false,
+          "element_type": "set"
+        },
+        {
+          "id": "669",
+          "tag": "1 AP",
+          "name": "Repair Cybernetics (mso)",
+          "type": "skill",
+          "isFree": false,
+          "details": "",
+          "is_free": false,
+          "element_type": "skill"
+        },
+        {
+          "id": "667",
+          "tag": "1 AP",
+          "name": "Repair Armor (mso)",
+          "type": "skill",
+          "isFree": false,
+          "details": "",
+          "is_free": false,
+          "element_type": "skill"
+        },
+        {
+          "id": "653",
+          "tag": "1 AP",
+          "name": "CyberTech (mso)",
+          "type": "skill",
+          "isFree": false,
+          "details": "",
+          "is_free": false,
+          "element_type": "skill"
+        },
+        {
+          "id": "563",
+          "tag": "1 AP",
+          "name": "Power Management",
+          "type": "skill",
+          "isFree": false,
+          "details": "",
+          "is_free": false,
+          "element_type": "skill"
+        },
+        {
+          "id": "519",
+          "tag": "1 AP",
+          "name": "Feats Of Strength",
+          "type": "skill",
+          "isFree": false,
+          "details": "",
+          "is_free": false,
+          "element_type": "skill"
+        },
+        {
+          "id": "578",
+          "tag": "1 AP",
+          "name": "Resist Weather",
+          "type": "skill",
+          "isFree": false,
+          "details": "",
+          "is_free": false,
+          "element_type": "skill"
         }
       ]
     },
@@ -18910,6 +21300,76 @@
           "details": "Dod 🏃*5 AR +. Usable in Dark Form (Wraith).",
           "is_free": false,
           "element_type": "power"
+        },
+        {
+          "id": "7196834e-822c-4981-8e29-812b766d0ed6",
+          "tag": "1 AP",
+          "name": "Intimidation & Presence",
+          "type": "set",
+          "isFree": false,
+          "details": "Skills",
+          "is_free": false,
+          "element_type": "set"
+        },
+        {
+          "id": "21d13a75-c97e-4662-897a-5047ebfcfab8",
+          "tag": "1 AP",
+          "name": "Martial Prowess",
+          "type": "set",
+          "isFree": false,
+          "details": "Skills",
+          "is_free": false,
+          "element_type": "set"
+        },
+        {
+          "id": "1360e588-bcd5-45ff-a3b2-722807591815",
+          "tag": "1 AP",
+          "name": "Awareness",
+          "type": "set",
+          "isFree": false,
+          "details": "Skills",
+          "is_free": false,
+          "element_type": "set"
+        },
+        {
+          "id": "763099a5-aa8a-427b-b524-6f7d24a1a0ff",
+          "tag": "1 AP",
+          "name": "Lifestealer Skills",
+          "type": "set",
+          "isFree": false,
+          "details": "Skills",
+          "is_free": false,
+          "element_type": "set"
+        },
+        {
+          "id": "475",
+          "tag": "1 AP",
+          "name": "Ambush",
+          "type": "skill",
+          "isFree": false,
+          "details": "",
+          "is_free": false,
+          "element_type": "skill"
+        },
+        {
+          "id": "588",
+          "tag": "1 AP",
+          "name": "Stealth",
+          "type": "skill",
+          "isFree": false,
+          "details": "",
+          "is_free": false,
+          "element_type": "skill"
+        },
+        {
+          "id": "541",
+          "tag": "1 AP",
+          "name": "Interrogate",
+          "type": "skill",
+          "isFree": false,
+          "details": "",
+          "is_free": false,
+          "element_type": "skill"
         }
       ]
     },
@@ -19197,6 +21657,76 @@
           "details": "Shields",
           "is_free": false,
           "element_type": "set"
+        },
+        {
+          "id": "16a3de8a-cd47-4a15-ac72-44157d60db65",
+          "tag": "1 AP",
+          "name": "Streetwise",
+          "type": "set",
+          "isFree": false,
+          "details": "Skills",
+          "is_free": false,
+          "element_type": "set"
+        },
+        {
+          "id": "fbd9810a-a599-4a8f-acc7-4d9449c99e4b",
+          "tag": "1 AP",
+          "name": "Urban Survival",
+          "type": "set",
+          "isFree": false,
+          "details": "Skills",
+          "is_free": false,
+          "element_type": "set"
+        },
+        {
+          "id": "4d0b4a09-3854-4543-9fba-1b78f0daf605",
+          "tag": "1 AP",
+          "name": "Athletics",
+          "type": "set",
+          "isFree": false,
+          "details": "Skills",
+          "is_free": false,
+          "element_type": "set"
+        },
+        {
+          "id": "84d58096-ce1a-4f4d-bce4-4c13a073e235",
+          "tag": "1 AP",
+          "name": "Punk Skills",
+          "type": "set",
+          "isFree": false,
+          "details": "Skills",
+          "is_free": false,
+          "element_type": "set"
+        },
+        {
+          "id": "524",
+          "tag": "1 AP",
+          "name": "Gambling",
+          "type": "skill",
+          "isFree": false,
+          "details": "",
+          "is_free": false,
+          "element_type": "skill"
+        },
+        {
+          "id": "559",
+          "tag": "1 AP",
+          "name": "Pickpockets",
+          "type": "skill",
+          "isFree": false,
+          "details": "",
+          "is_free": false,
+          "element_type": "skill"
+        },
+        {
+          "id": "514",
+          "tag": "1 AP",
+          "name": "Escape Artist",
+          "type": "skill",
+          "isFree": false,
+          "details": "",
+          "is_free": false,
+          "element_type": "skill"
         }
       ]
     },
@@ -19357,6 +21887,76 @@
           "details": "Armor",
           "is_free": false,
           "element_type": "set"
+        },
+        {
+          "id": "fd8d0fd3-a93a-4049-a6ae-a9eedf92e79a",
+          "tag": "1 AP",
+          "name": "Scout",
+          "type": "set",
+          "isFree": false,
+          "details": "Skills",
+          "is_free": false,
+          "element_type": "set"
+        },
+        {
+          "id": "e8246e89-eb96-4d70-9064-906d9a0496dc",
+          "tag": "1 AP",
+          "name": "Agility",
+          "type": "set",
+          "isFree": false,
+          "details": "Skills",
+          "is_free": false,
+          "element_type": "set"
+        },
+        {
+          "id": "01eb0bc0-f812-47c4-9340-e46e5876adf8",
+          "tag": "1 AP",
+          "name": "Survival",
+          "type": "set",
+          "isFree": false,
+          "details": "Skills",
+          "is_free": false,
+          "element_type": "set"
+        },
+        {
+          "id": "f2361834-fecb-4a7f-9333-a4abc9624f01",
+          "tag": "1 AP",
+          "name": "Ranger Skills",
+          "type": "set",
+          "isFree": false,
+          "details": "Skills",
+          "is_free": false,
+          "element_type": "set"
+        },
+        {
+          "id": "476",
+          "tag": "1 AP",
+          "name": "Animal Handling",
+          "type": "skill",
+          "isFree": false,
+          "details": "",
+          "is_free": false,
+          "element_type": "skill"
+        },
+        {
+          "id": "539",
+          "tag": "1 AP",
+          "name": "ID Weather",
+          "type": "skill",
+          "isFree": false,
+          "details": "",
+          "is_free": false,
+          "element_type": "skill"
+        },
+        {
+          "id": "579",
+          "tag": "1 AP",
+          "name": "Riding",
+          "type": "skill",
+          "isFree": false,
+          "details": "",
+          "is_free": false,
+          "element_type": "skill"
         }
       ]
     },
@@ -19644,6 +22244,56 @@
           "details": "Shields",
           "is_free": false,
           "element_type": "set"
+        },
+        {
+          "id": "eb348c9c-ae93-452c-a4a5-d5d88ced4e57",
+          "tag": "1 AP",
+          "name": "Guard Skills",
+          "type": "set",
+          "isFree": false,
+          "details": "Skills",
+          "is_free": false,
+          "element_type": "set"
+        },
+        {
+          "id": "21d13a75-c97e-4662-897a-5047ebfcfab8",
+          "tag": "1 AP",
+          "name": "Martial Prowess",
+          "type": "set",
+          "isFree": false,
+          "details": "Skills",
+          "is_free": false,
+          "element_type": "set"
+        },
+        {
+          "id": "b38ed917-0ed8-459e-9159-b7f8b16c4ed4",
+          "tag": "1 AP",
+          "name": "Bulwark Discipline",
+          "type": "set",
+          "isFree": false,
+          "details": "Skills",
+          "is_free": false,
+          "element_type": "set"
+        },
+        {
+          "id": "545",
+          "tag": "1 AP",
+          "name": "Leadership",
+          "type": "skill",
+          "isFree": false,
+          "details": "",
+          "is_free": false,
+          "element_type": "skill"
+        },
+        {
+          "id": "531",
+          "tag": "1 AP",
+          "name": "History",
+          "type": "skill",
+          "isFree": false,
+          "details": "",
+          "is_free": false,
+          "element_type": "skill"
         }
       ]
     },
@@ -19991,6 +22641,56 @@
           "details": "Shields",
           "is_free": false,
           "element_type": "set"
+        },
+        {
+          "id": "21d13a75-c97e-4662-897a-5047ebfcfab8",
+          "tag": "1 AP",
+          "name": "Martial Prowess",
+          "type": "set",
+          "isFree": false,
+          "details": "Skills",
+          "is_free": false,
+          "element_type": "set"
+        },
+        {
+          "id": "eb348c9c-ae93-452c-a4a5-d5d88ced4e57",
+          "tag": "1 AP",
+          "name": "Guard Skills",
+          "type": "set",
+          "isFree": false,
+          "details": "Skills",
+          "is_free": false,
+          "element_type": "set"
+        },
+        {
+          "id": "d964f260-618e-450a-8aa7-d56e0b73e261",
+          "tag": "1 AP",
+          "name": "DHA Assault Discipline",
+          "type": "set",
+          "isFree": false,
+          "details": "Skills",
+          "is_free": false,
+          "element_type": "set"
+        },
+        {
+          "id": "647",
+          "tag": "1 AP",
+          "name": "Ambidexterity (mso)",
+          "type": "skill",
+          "isFree": false,
+          "details": "",
+          "is_free": false,
+          "element_type": "skill"
+        },
+        {
+          "id": "656",
+          "tag": "1 AP",
+          "name": "First Aid (mso)",
+          "type": "skill",
+          "isFree": false,
+          "details": "",
+          "is_free": false,
+          "element_type": "skill"
         }
       ]
     },
@@ -20714,6 +23414,22 @@
   ],
   "sets": [
     {
+      "id": "b9269396-b7c2-49d1-be80-10a6c57d51ab",
+      "name": "Aetherblade Skills",
+      "category": "Skills",
+      "description": "Bundles phase-aware perception with blade agility into one coherent skirmisher suite.",
+      "paths": [
+        "Warrior - Aetherblade"
+      ],
+      "genres": [
+        "Fantasy",
+        "Medieval"
+      ],
+      "owner": "system",
+      "created_at": "2026-10-01T00:03:02.902363+00:00",
+      "updated_at": "2026-10-01T00:03:02.902363+00:00"
+    },
+    {
       "id": "e8246e89-eb96-4d70-9064-906d9a0496dc",
       "name": "Agility",
       "category": "Skills",
@@ -21048,6 +23764,22 @@
       "updated_at": "2026-09-29T00:58:21.387811+00:00"
     },
     {
+      "id": "5470d6f2-7ec8-470e-a69a-904774dbcc67",
+      "name": "Bard Skills",
+      "category": "Skills",
+      "description": "This set weaves minstrel craft, legend-keeping, hypnotic misdirection and tavern cunning into one repertoire.",
+      "paths": [
+        "Bard"
+      ],
+      "genres": [
+        "Fantasy",
+        "Medieval"
+      ],
+      "owner": "system",
+      "created_at": "2026-10-01T00:03:07.156287+00:00",
+      "updated_at": "2026-10-01T00:03:07.156287+00:00"
+    },
+    {
       "id": "1c7b21e7-1b5c-4dfb-bf0a-cd716d449f56",
       "name": "Bard Weapons",
       "category": "Weapons",
@@ -21076,6 +23808,56 @@
       "owner": "Designer",
       "created_at": "2026-09-24T23:21:57.992223+00:00",
       "updated_at": "2026-09-24T23:21:57.992223+00:00"
+    },
+    {
+      "id": "0ec310f5-6888-4dbc-ba00-7192d07eaebc",
+      "name": "Bio Engineer Skills",
+      "category": "Skills",
+      "description": "This set bundles the biotech and medical expertise needed to engineer and sustain living weapons.",
+      "paths": [
+        "Unique - Bio Engineer"
+      ],
+      "genres": [
+        "Fantasy",
+        "Medieval"
+      ],
+      "owner": "system",
+      "created_at": "2026-10-01T00:03:16.608167+00:00",
+      "updated_at": "2026-10-01T00:03:16.608167+00:00"
+    },
+    {
+      "id": "e47bb9b9-62e3-4df5-b9bf-c8267b734aec",
+      "name": "Bio-Gunner Skills",
+      "category": "Skills",
+      "description": "This set combines biotech weapon maintenance with steady heavy-gunner combat instincts.",
+      "paths": [
+        "Bio-Gunner (mso)"
+      ],
+      "genres": [
+        "Sci-Fi",
+        "Space",
+        "Modern"
+      ],
+      "owner": "system",
+      "created_at": "2026-10-01T00:03:17.122156+00:00",
+      "updated_at": "2026-10-01T00:03:17.122156+00:00"
+    },
+    {
+      "id": "a9d3f08d-51c6-4a7e-ac03-6b334728de72",
+      "name": "Bio-Warrior Skills",
+      "category": "Skills",
+      "description": "Bundles the gene-tech mastery, toxin resilience and battle nerve that define the modified vanguard.",
+      "paths": [
+        "Bio-Warrior (mso)"
+      ],
+      "genres": [
+        "Sci-Fi",
+        "Space",
+        "Modern"
+      ],
+      "owner": "system",
+      "created_at": "2026-10-01T00:03:17.675913+00:00",
+      "updated_at": "2026-10-01T00:03:17.675913+00:00"
     },
     {
       "id": "df28d539-9a0a-4bb4-a77d-2adbb8fbaaf2",
@@ -21191,6 +23973,22 @@
       "updated_at": "2026-09-29T00:58:21.387811+00:00"
     },
     {
+      "id": "aecccaa0-7239-43a8-bb2d-047bb2238638",
+      "name": "Blade Saint Skills",
+      "category": "Skills",
+      "description": "This set bundles dual-wield mastery, graceful evasion, stoic endurance and blade upkeep into one suite.",
+      "paths": [
+        "Martial Artist - Blade Saint"
+      ],
+      "genres": [
+        "Fantasy",
+        "Medieval"
+      ],
+      "owner": "system",
+      "created_at": "2026-10-01T00:03:06.279587+00:00",
+      "updated_at": "2026-10-01T00:03:06.279587+00:00"
+    },
+    {
       "id": "996969a3-fa6a-44b5-b66f-40e5816a4492",
       "name": "Blade Saint Weapons",
       "category": "Weapons",
@@ -21219,6 +24017,22 @@
       "owner": "Designer",
       "created_at": "2026-09-24T23:21:57.992223+00:00",
       "updated_at": "2026-09-24T23:21:57.992223+00:00"
+    },
+    {
+      "id": "4a8a4a70-0d8d-44d1-993b-1a5622f83581",
+      "name": "Bloodfang Berserker Skills",
+      "category": "Skills",
+      "description": "Unifies predatory hunting and rage-fueled endurance into a signature frenzy kit.",
+      "paths": [
+        "Warrior - Bloodfang Berserker"
+      ],
+      "genres": [
+        "Fantasy",
+        "Medieval"
+      ],
+      "owner": "system",
+      "created_at": "2026-10-01T00:03:03.46139+00:00",
+      "updated_at": "2026-10-01T00:03:03.46139+00:00"
     },
     {
       "id": "f94f3c6b-f7c7-4732-b8cd-c7a4e2144879",
@@ -21280,6 +24094,22 @@
       "owner": "system",
       "created_at": "2026-09-29T00:58:21.387811+00:00",
       "updated_at": "2026-09-29T00:58:21.387811+00:00"
+    },
+    {
+      "id": "b38ed917-0ed8-459e-9159-b7f8b16c4ed4",
+      "name": "Bulwark Discipline",
+      "category": "Skills",
+      "description": "Combines avalanche-drive power, iron endurance and aggro control into one guardian suite.",
+      "paths": [
+        "Warrior - Shield"
+      ],
+      "genres": [
+        "Fantasy",
+        "Medieval"
+      ],
+      "owner": "system",
+      "created_at": "2026-10-01T00:03:02.355111+00:00",
+      "updated_at": "2026-10-01T00:03:02.355111+00:00"
     },
     {
       "id": "a82d65ee-12c3-4003-bca9-ac272a106361",
@@ -21421,6 +24251,22 @@
       "updated_at": "2026-09-29T00:58:21.387811+00:00"
     },
     {
+      "id": "90a078de-4a62-4b0a-8323-805ca200edb5",
+      "name": "Cursed Spartan Skills",
+      "category": "Skills",
+      "description": "Captures stubborn defiance and a cursed bond with the fallen dead.",
+      "paths": [
+        "Warrior - Cursed Spartan"
+      ],
+      "genres": [
+        "Fantasy",
+        "Medieval"
+      ],
+      "owner": "system",
+      "created_at": "2026-10-01T00:03:01.796942+00:00",
+      "updated_at": "2026-10-01T00:03:01.796942+00:00"
+    },
+    {
       "id": "7c2edfc1-913a-41a2-bf39-4506511e5038",
       "name": "Cursed Spartan Weapons",
       "category": "Weapons",
@@ -21434,6 +24280,23 @@
       "owner": "system",
       "created_at": "2026-09-29T00:58:21.387811+00:00",
       "updated_at": "2026-09-29T00:58:21.387811+00:00"
+    },
+    {
+      "id": "85a43c33-8e56-48e0-8e3a-117ea86a6093",
+      "name": "Cyber Warrior Skills",
+      "category": "Skills",
+      "description": "Groups the implant-driven senses and hardened combat instincts of a cybernetic frontliner.",
+      "paths": [
+        "Cyber Warrior (mso)"
+      ],
+      "genres": [
+        "Sci-Fi",
+        "Space",
+        "Modern"
+      ],
+      "owner": "system",
+      "created_at": "2026-10-01T00:03:18.230033+00:00",
+      "updated_at": "2026-10-01T00:03:18.230033+00:00"
     },
     {
       "id": "de0f3a2c-3fa8-49b9-95e6-10ca90a641bd",
@@ -21468,6 +24331,40 @@
       "owner": "Designer",
       "created_at": "2026-09-24T23:21:57.992223+00:00",
       "updated_at": "2026-09-24T23:21:57.992223+00:00"
+    },
+    {
+      "id": "90190397-61df-4855-8675-88acd2cfdfa5",
+      "name": "Destron Skills",
+      "category": "Skills",
+      "description": "Combines heavy-armor upkeep, brute endurance and structure-breaking expertise for demolition warfare.",
+      "paths": [
+        "Destron (mso)"
+      ],
+      "genres": [
+        "Sci-Fi",
+        "Space",
+        "Modern"
+      ],
+      "owner": "system",
+      "created_at": "2026-10-01T00:03:18.721452+00:00",
+      "updated_at": "2026-10-01T00:03:18.721452+00:00"
+    },
+    {
+      "id": "d964f260-618e-450a-8aa7-d56e0b73e261",
+      "name": "DHA Assault Discipline",
+      "category": "Skills",
+      "description": "Packages breaching, mobility and threat awareness for tactical assault operations.",
+      "paths": [
+        "Warrior (mso)"
+      ],
+      "genres": [
+        "Sci-Fi",
+        "Space",
+        "Modern"
+      ],
+      "owner": "system",
+      "created_at": "2026-10-01T00:03:21.62397+00:00",
+      "updated_at": "2026-10-01T00:03:21.62397+00:00"
     },
     {
       "id": "c5f834b0-4c0a-40a6-97de-ffc8de8ad509",
@@ -21543,6 +24440,23 @@
       "updated_at": "2026-09-30T23:50:35.751343+00:00"
     },
     {
+      "id": "94e8f803-3a0c-4ef2-9481-c868acaf12d8",
+      "name": "Dragon Skills",
+      "category": "Skills",
+      "description": "Combines incendiary demolitions, unbreakable nerve and intimidating presence into one heavy-assault suite.",
+      "paths": [
+        "Dragon (mso)"
+      ],
+      "genres": [
+        "Sci-Fi",
+        "Space",
+        "Modern"
+      ],
+      "owner": "system",
+      "created_at": "2026-10-01T00:03:19.242501+00:00",
+      "updated_at": "2026-10-01T00:03:19.242501+00:00"
+    },
+    {
       "id": "7cc04c47-e499-4f1a-926c-59a00cce1d58",
       "name": "Druidic",
       "category": "Skills",
@@ -21603,6 +24517,22 @@
       "owner": "Designer",
       "created_at": "2026-09-24T23:21:57.992223+00:00",
       "updated_at": "2026-09-24T23:21:57.992223+00:00"
+    },
+    {
+      "id": "24f0c936-a2b0-448c-9ccb-abd26bed4f0c",
+      "name": "Elemental Discipline",
+      "category": "Skills",
+      "description": "Bundles attunement to wind, storm and raw arcane power into one elemental suite.",
+      "paths": [
+        "Mage - Elemental"
+      ],
+      "genres": [
+        "Fantasy",
+        "Medieval"
+      ],
+      "owner": "system",
+      "created_at": "2026-10-01T00:03:11.244769+00:00",
+      "updated_at": "2026-10-01T00:03:11.244769+00:00"
     },
     {
       "id": "5d1da280-a9dd-4a1f-8e10-9e2cc73c84c7",
@@ -21747,6 +24677,22 @@
       "updated_at": "2026-09-24T23:21:57.992223+00:00"
     },
     {
+      "id": "c75e9815-2b75-4f9f-a1eb-4dbbcf2b0ca8",
+      "name": "Geomancer Skills",
+      "category": "Skills",
+      "description": "Gives the geomancer a complete toolkit for shaping, reading and moving stone.",
+      "paths": [
+        "Mage - Geomancer"
+      ],
+      "genres": [
+        "Fantasy",
+        "Medieval"
+      ],
+      "owner": "system",
+      "created_at": "2026-10-01T00:03:11.763672+00:00",
+      "updated_at": "2026-10-01T00:03:11.763672+00:00"
+    },
+    {
       "id": "a177388d-69e3-4ee8-be64-e85a93a870d3",
       "name": "Giant Armor",
       "category": "Armor",
@@ -21777,6 +24723,22 @@
       "updated_at": "2026-09-29T00:58:21.387811+00:00"
     },
     {
+      "id": "d4ab1f7d-8263-4c00-a5b1-9819a2a95cbb",
+      "name": "Giant Skills",
+      "category": "Skills",
+      "description": "This set bundles the giant's core identity of colossal might, unbreakable toughness and structure-shattering force.",
+      "paths": [
+        "Form - Giant"
+      ],
+      "genres": [
+        "Fantasy",
+        "Medieval"
+      ],
+      "owner": "system",
+      "created_at": "2026-10-01T00:03:14.541471+00:00",
+      "updated_at": "2026-10-01T00:03:14.541471+00:00"
+    },
+    {
       "id": "e25e7ef9-4c7e-4f32-b0d2-d740235cf3b9",
       "name": "Giant Weapons",
       "category": "Weapons",
@@ -21790,6 +24752,22 @@
       "owner": "system",
       "created_at": "2026-09-29T00:58:21.387811+00:00",
       "updated_at": "2026-09-29T00:58:21.387811+00:00"
+    },
+    {
+      "id": "b45144dc-1e58-4e8d-82aa-06140db4c52f",
+      "name": "Glamour Discipline",
+      "category": "Skills",
+      "description": "This set codifies glamour assault as a trained art of captivating, reading and resisting allure.",
+      "paths": [
+        "Form - Nymph"
+      ],
+      "genres": [
+        "Fantasy",
+        "Medieval"
+      ],
+      "owner": "system",
+      "created_at": "2026-10-01T00:03:15.0304+00:00",
+      "updated_at": "2026-10-01T00:03:15.0304+00:00"
     },
     {
       "id": "0d320147-a335-42d0-b17f-4779635cd18f",
@@ -22058,6 +25036,38 @@
       "updated_at": "2026-09-24T23:21:57.992223+00:00"
     },
     {
+      "id": "bf28022b-729d-4e44-ae62-7692291c4c13",
+      "name": "Inferno Vanguard Skills",
+      "category": "Skills",
+      "description": "Merges reactor control, armor upkeep, and heat endurance into a molten-tank discipline.",
+      "paths": [
+        "Warrior - Inferno Vanguard"
+      ],
+      "genres": [
+        "Fantasy",
+        "Medieval"
+      ],
+      "owner": "system",
+      "created_at": "2026-10-01T00:03:04.035661+00:00",
+      "updated_at": "2026-10-01T00:03:04.035661+00:00"
+    },
+    {
+      "id": "667bd1bf-8a35-4da1-a6ad-1e0c91ba7cf4",
+      "name": "Inner Peace Discipline",
+      "category": "Skills",
+      "description": "This set gathers the purified body, unclouded mind and intuitive evasion of a serene ascetic.",
+      "paths": [
+        "Monk"
+      ],
+      "genres": [
+        "Fantasy",
+        "Medieval"
+      ],
+      "owner": "system",
+      "created_at": "2026-10-01T00:03:06.648877+00:00",
+      "updated_at": "2026-10-01T00:03:06.648877+00:00"
+    },
+    {
       "id": "7196834e-822c-4981-8e29-812b766d0ed6",
       "name": "Intimidation & Presence",
       "category": "Skills",
@@ -22108,6 +25118,22 @@
       "updated_at": "2026-09-30T23:50:36.171004+00:00"
     },
     {
+      "id": "763099a5-aa8a-427b-b524-6f7d24a1a0ff",
+      "name": "Lifestealer Skills",
+      "category": "Skills",
+      "description": "An undying predator's suite that defies mortal frailty, hunts the living, and senses the dark magic it feeds on.",
+      "paths": [
+        "Warrior - Lifestealer"
+      ],
+      "genres": [
+        "Fantasy",
+        "Medieval"
+      ],
+      "owner": "system",
+      "created_at": "2026-10-01T00:03:04.63264+00:00",
+      "updated_at": "2026-10-01T00:03:04.63264+00:00"
+    },
+    {
       "id": "9d5798b2-54bd-409a-b714-3318769ed2b6",
       "name": "Magnetic Armor",
       "category": "Armor",
@@ -22121,6 +25147,22 @@
       "owner": "system",
       "created_at": "2026-09-29T00:58:21.387811+00:00",
       "updated_at": "2026-09-29T00:58:21.387811+00:00"
+    },
+    {
+      "id": "5b4dbbf4-ca6c-436b-85cc-57bba3e1d3a4",
+      "name": "Magnetic Discipline",
+      "category": "Skills",
+      "description": "Unifies attraction, repulsion and fine ferrous control into one kinetic suite.",
+      "paths": [
+        "Mage - Magnetic"
+      ],
+      "genres": [
+        "Fantasy",
+        "Medieval"
+      ],
+      "owner": "system",
+      "created_at": "2026-10-01T00:03:12.375797+00:00",
+      "updated_at": "2026-10-01T00:03:12.375797+00:00"
     },
     {
       "id": "da5f5e1b-2165-40d5-8133-63a3ce3ee710",
@@ -22166,6 +25208,23 @@
       "owner": "Designer",
       "created_at": "2026-09-24T23:21:57.992223+00:00",
       "updated_at": "2026-09-24T23:21:57.992223+00:00"
+    },
+    {
+      "id": "452c4a3f-f84c-42b0-a4fd-4abf85484c6c",
+      "name": "Marine Skills",
+      "category": "Skills",
+      "description": "Covers breaching, mounted fire support, zero-g boarding and prisoner intel for frontline operations.",
+      "paths": [
+        "Marine (mso)"
+      ],
+      "genres": [
+        "Sci-Fi",
+        "Space",
+        "Modern"
+      ],
+      "owner": "system",
+      "created_at": "2026-10-01T00:03:19.705834+00:00",
+      "updated_at": "2026-10-01T00:03:19.705834+00:00"
     },
     {
       "id": "457d8cfd-9946-4f1c-8c09-aa27b57374ba",
@@ -22281,6 +25340,23 @@
       "updated_at": "2026-09-24T23:21:57.992223+00:00"
     },
     {
+      "id": "535fc245-906e-4636-8561-b1ed6f79f19e",
+      "name": "Mensi Skills",
+      "category": "Skills",
+      "description": "Bundles mind-domination, psychological extraction and heightened perception for mental warfare operatives.",
+      "paths": [
+        "Mensi (mso)"
+      ],
+      "genres": [
+        "Sci-Fi",
+        "Space",
+        "Modern"
+      ],
+      "owner": "system",
+      "created_at": "2026-10-01T00:03:20.144513+00:00",
+      "updated_at": "2026-10-01T00:03:20.144513+00:00"
+    },
+    {
       "id": "ac271ed1-7f17-4fa5-af02-e02b5cf4aba9",
       "name": "Mental Discipline",
       "category": "Skills",
@@ -22309,6 +25385,22 @@
       "owner": "Designer",
       "created_at": "2026-09-24T23:21:57.992223+00:00",
       "updated_at": "2026-09-24T23:21:57.992223+00:00"
+    },
+    {
+      "id": "6eaddb8a-1ad4-4e5c-b743-36713dd3531c",
+      "name": "Misdirection Skills",
+      "category": "Skills",
+      "description": "This set bundles the verbal feints, baiting and illusion-savvy that define the illusionist grifter.",
+      "paths": [
+        "Trickster"
+      ],
+      "genres": [
+        "Fantasy",
+        "Medieval"
+      ],
+      "owner": "system",
+      "created_at": "2026-10-01T00:03:08.298017+00:00",
+      "updated_at": "2026-10-01T00:03:08.298017+00:00"
     },
     {
       "id": "e85424e6-fcfe-4afe-985d-70b2b22b6e20",
@@ -22354,6 +25446,23 @@
       "owner": "Designer",
       "created_at": "2026-09-24T23:21:57.992223+00:00",
       "updated_at": "2026-09-24T23:21:57.992223+00:00"
+    },
+    {
+      "id": "4788520b-cc16-4497-b88e-5cb77a0ea75a",
+      "name": "Mutak Skills",
+      "category": "Skills",
+      "description": "Captures the Mutak's heightened senses and toxin-shrugging bio-adaptation.",
+      "paths": [
+        "Mutak (mso)"
+      ],
+      "genres": [
+        "Sci-Fi",
+        "Space",
+        "Modern"
+      ],
+      "owner": "system",
+      "created_at": "2026-10-01T00:03:20.621634+00:00",
+      "updated_at": "2026-10-01T00:03:20.621634+00:00"
     },
     {
       "id": "4da84b2d-bdd2-4043-90da-8d21b1f21e81",
@@ -22434,6 +25543,23 @@
       "updated_at": "2026-09-29T01:50:06.196804+00:00"
     },
     {
+      "id": "e6999fea-c05b-44c5-a724-9af22ca196f0",
+      "name": "Occult-Tech Discipline",
+      "category": "Skills",
+      "description": "Fuses mind-reading intimidation with the tech fluency needed for occult-tech conduits.",
+      "paths": [
+        "Warlock (mso)"
+      ],
+      "genres": [
+        "Sci-Fi",
+        "Space",
+        "Modern"
+      ],
+      "owner": "system",
+      "created_at": "2026-10-01T00:03:21.106143+00:00",
+      "updated_at": "2026-10-01T00:03:21.106143+00:00"
+    },
+    {
       "id": "5edbde19-70db-4450-9940-3638f9bd0daa",
       "name": "Orc Skills",
       "category": "Skills",
@@ -22494,6 +25620,22 @@
       "owner": "system",
       "created_at": "2026-09-29T00:58:21.387811+00:00",
       "updated_at": "2026-09-29T00:58:21.387811+00:00"
+    },
+    {
+      "id": "2d636411-0fc1-43e1-a1e9-f2c49be101e4",
+      "name": "Pixie Skills",
+      "category": "Skills",
+      "description": "This set packages tiny-terror tactics of unseen movement, maddening taunts and illusory misdirection.",
+      "paths": [
+        "Form - Pixie"
+      ],
+      "genres": [
+        "Fantasy",
+        "Medieval"
+      ],
+      "owner": "system",
+      "created_at": "2026-10-01T00:03:15.574448+00:00",
+      "updated_at": "2026-10-01T00:03:15.574448+00:00"
     },
     {
       "id": "12657d5b-43a1-4446-aee2-736a539675da",
@@ -22558,6 +25700,22 @@
       "updated_at": "2026-09-29T00:58:21.387811+00:00"
     },
     {
+      "id": "b40ca9ae-e6db-43b4-a6e9-908979f7a351",
+      "name": "Psionic Sentinel Skills",
+      "category": "Skills",
+      "description": "Psionic Lore fused with layered mental resistances forms the cognitive-shield defender suite.",
+      "paths": [
+        "Psionics - Sentinel"
+      ],
+      "genres": [
+        "Fantasy",
+        "Medieval"
+      ],
+      "owner": "system",
+      "created_at": "2026-10-01T00:03:14.050959+00:00",
+      "updated_at": "2026-10-01T00:03:14.050959+00:00"
+    },
+    {
       "id": "0ff9227f-e332-4de7-9ef3-6ba89c2eaae8",
       "name": "Psionic Sentinel Weapons",
       "category": "Weapons",
@@ -22620,6 +25778,22 @@
       "updated_at": "2026-09-24T23:21:57.992223+00:00"
     },
     {
+      "id": "48170c96-5190-49b1-a520-9aa507fd8385",
+      "name": "Psionics Skills",
+      "category": "Skills",
+      "description": "Psionic Lore bundled with telepathic and empathic reading defines the kinetic-telepath toolkit.",
+      "paths": [
+        "Psionics"
+      ],
+      "genres": [
+        "Fantasy",
+        "Medieval"
+      ],
+      "owner": "system",
+      "created_at": "2026-10-01T00:03:13.544592+00:00",
+      "updated_at": "2026-10-01T00:03:13.544592+00:00"
+    },
+    {
       "id": "5c139e4b-dab2-4997-b522-896ee0fc99cc",
       "name": "Psychosomatic Attire",
       "category": "Armor",
@@ -22667,6 +25841,22 @@
       "updated_at": "2026-09-24T23:21:57.992223+00:00"
     },
     {
+      "id": "96b2bea7-aff9-4af7-9001-b11609eb818f",
+      "name": "Psychosomatics Skills",
+      "category": "Skills",
+      "description": "This core suite covers the durability and bio-control that psychosomatic enhancement is built on.",
+      "paths": [
+        "Psychosomatics"
+      ],
+      "genres": [
+        "Fantasy",
+        "Medieval"
+      ],
+      "owner": "system",
+      "created_at": "2026-10-01T00:03:16.092268+00:00",
+      "updated_at": "2026-10-01T00:03:16.092268+00:00"
+    },
+    {
       "id": "3ec42383-433e-4454-98d9-e0897e4542f1",
       "name": "Pulse Laser Expert",
       "category": "Skills",
@@ -22680,6 +25870,22 @@
       "owner": "Designer",
       "created_at": "2026-09-24T23:21:57.992223+00:00",
       "updated_at": "2026-09-24T23:21:57.992223+00:00"
+    },
+    {
+      "id": "84d58096-ce1a-4f4d-bce4-4c13a073e235",
+      "name": "Punk Skills",
+      "category": "Skills",
+      "description": "A scrappy brawler suite for trash-talking, scavenging improvised weapons, running the rooftops, and shrugging off punishment.",
+      "paths": [
+        "Warrior - Punk"
+      ],
+      "genres": [
+        "Fantasy",
+        "Medieval"
+      ],
+      "owner": "system",
+      "created_at": "2026-10-01T00:03:05.189442+00:00",
+      "updated_at": "2026-10-01T00:03:05.189442+00:00"
     },
     {
       "id": "78ebef68-391c-4dac-b6cc-4948fe4441ef",
@@ -22697,6 +25903,22 @@
       "updated_at": "2026-09-29T00:58:21.387811+00:00"
     },
     {
+      "id": "f2361834-fecb-4a7f-9333-a4abc9624f01",
+      "name": "Ranger Skills",
+      "category": "Skills",
+      "description": "A wilderness marksman suite for crafting arrows, pathfinding through wild lands, and setting ranged ambushes.",
+      "paths": [
+        "Warrior - Ranger"
+      ],
+      "genres": [
+        "Fantasy",
+        "Medieval"
+      ],
+      "owner": "system",
+      "created_at": "2026-10-01T00:03:05.708139+00:00",
+      "updated_at": "2026-10-01T00:03:05.708139+00:00"
+    },
+    {
       "id": "5e3b9aaa-c1c7-4adc-93d8-ee97496b9d91",
       "name": "Ranger Weapons",
       "category": "Weapons",
@@ -22710,6 +25932,22 @@
       "owner": "system",
       "created_at": "2026-09-29T00:58:21.387811+00:00",
       "updated_at": "2026-09-29T00:58:21.387811+00:00"
+    },
+    {
+      "id": "884c8c1a-1c77-419b-95b3-e9219df0ed7d",
+      "name": "Restoration Discipline",
+      "category": "Skills",
+      "description": "Bundles the resilient, protective ward-keeping aspects of a master restorer.",
+      "paths": [
+        "Healer"
+      ],
+      "genres": [
+        "Fantasy",
+        "Medieval"
+      ],
+      "owner": "system",
+      "created_at": "2026-10-01T00:03:09.42128+00:00",
+      "updated_at": "2026-10-01T00:03:09.42128+00:00"
     },
     {
       "id": "9113d484-ff0c-4c1f-9474-a2c849d12d10",
@@ -22818,6 +26056,22 @@
       "owner": "Designer",
       "created_at": "2026-09-24T23:21:57.992223+00:00",
       "updated_at": "2026-09-24T23:21:57.992223+00:00"
+    },
+    {
+      "id": "5479fe8f-49c2-4491-8a5d-3ab2699db971",
+      "name": "Shadow Kill Skills",
+      "category": "Skills",
+      "description": "This set bundles the stalk, strike and vanish cycle into one lethal covert suite.",
+      "paths": [
+        "Thief - Assassin"
+      ],
+      "genres": [
+        "Fantasy",
+        "Medieval"
+      ],
+      "owner": "system",
+      "created_at": "2026-10-01T00:03:07.714875+00:00",
+      "updated_at": "2026-10-01T00:03:07.714875+00:00"
     },
     {
       "id": "fa144274-b623-480f-8ef2-683faaf9e789",
@@ -23179,6 +26433,23 @@
       "updated_at": "2026-09-24T23:21:57.992223+00:00"
     },
     {
+      "id": "ba7457c0-7c92-4090-a86a-4687d0c2a9ee",
+      "name": "Starborn Ranger Skills",
+      "category": "Skills",
+      "description": "This set fuses nano-optic scanning, star navigation and weapon upkeep into a cosmic tracker suite.",
+      "paths": [
+        "Starborn Ranger"
+      ],
+      "genres": [
+        "Sci-Fi",
+        "Space",
+        "Modern"
+      ],
+      "owner": "system",
+      "created_at": "2026-10-01T00:03:08.780612+00:00",
+      "updated_at": "2026-10-01T00:03:08.780612+00:00"
+    },
+    {
       "id": "11398c4e-e460-497f-9dc3-58e1a3e9dfd4",
       "name": "Street Brawler Weapons",
       "category": "Weapons",
@@ -23252,6 +26523,22 @@
       "owner": "system",
       "created_at": "2026-09-29T00:58:21.387811+00:00",
       "updated_at": "2026-09-29T00:58:21.387811+00:00"
+    },
+    {
+      "id": "969dcbf1-e866-48c7-b079-2e387d5d033f",
+      "name": "Sun-Devoted Skills",
+      "category": "Skills",
+      "description": "Unifies the solar conduit's devotion, blazing vitality and radiant endurance.",
+      "paths": [
+        "Healer - Sun-Devoted"
+      ],
+      "genres": [
+        "Fantasy",
+        "Medieval"
+      ],
+      "owner": "system",
+      "created_at": "2026-10-01T00:03:09.94558+00:00",
+      "updated_at": "2026-10-01T00:03:09.94558+00:00"
     },
     {
       "id": "eb25531d-a6c8-4228-8514-21c7e9fb275c",
@@ -23628,6 +26915,22 @@
       "updated_at": "2026-09-24T23:21:57.992223+00:00"
     },
     {
+      "id": "57124858-d8da-48de-91ce-a46428551ac3",
+      "name": "Verdant Sentinel Skills",
+      "category": "Skills",
+      "description": "Packages the druidic protector's herb lore, grove communion and guardian instincts.",
+      "paths": [
+        "Healer - Verdant Sentinel"
+      ],
+      "genres": [
+        "Fantasy",
+        "Medieval"
+      ],
+      "owner": "system",
+      "created_at": "2026-10-01T00:03:10.589454+00:00",
+      "updated_at": "2026-10-01T00:03:10.589454+00:00"
+    },
+    {
       "id": "7f472617-4f3e-4a87-9fb0-7f935cedf4d3",
       "name": "Vessel Operations",
       "category": "Skills",
@@ -23641,6 +26944,22 @@
       "owner": "Designer",
       "created_at": "2026-09-24T23:21:57.992223+00:00",
       "updated_at": "2026-09-24T23:21:57.992223+00:00"
+    },
+    {
+      "id": "bb01747b-f72b-4708-b068-fe951078c511",
+      "name": "Void Magic Skills",
+      "category": "Skills",
+      "description": "Void Magic lore paired with arcane detection and mental warding forms the core void-mage suite.",
+      "paths": [
+        "Mage - Void Magic"
+      ],
+      "genres": [
+        "Fantasy",
+        "Medieval"
+      ],
+      "owner": "system",
+      "created_at": "2026-10-01T00:03:12.976834+00:00",
+      "updated_at": "2026-10-01T00:03:12.976834+00:00"
     },
     {
       "id": "addcef77-1bf0-40b8-b00d-d39af773408f",
@@ -23671,6 +26990,22 @@
       "owner": "system",
       "created_at": "2026-09-29T00:58:21.387811+00:00",
       "updated_at": "2026-09-29T00:58:21.387811+00:00"
+    },
+    {
+      "id": "4d163b2e-9c07-4608-9626-9136eb796e28",
+      "name": "Warrior Skills",
+      "category": "Skills",
+      "description": "Groups battle-trance grit, command presence and threat-drawing into a core warrior suite.",
+      "paths": [
+        "Warrior"
+      ],
+      "genres": [
+        "Fantasy",
+        "Medieval"
+      ],
+      "owner": "system",
+      "created_at": "2026-10-01T00:03:01.211013+00:00",
+      "updated_at": "2026-10-01T00:03:01.211013+00:00"
     },
     {
       "id": "936d0c27-3233-4f40-bdd2-f068fea2d7fd",
@@ -48405,9 +51740,10 @@
       "name": "Ambidexterity",
       "attribute": "🏃",
       "genres": [
-        "Medieval",
+        "SciFi",
         "Modern",
-        "SciFi"
+        "Fantasy",
+        "Medieval"
       ],
       "discipline": "Martial",
       "path": "Universal",
@@ -48415,7 +51751,9 @@
       "created_at": "2026-08-28T20:59:32.56794+00:00",
       "owner": "Designer",
       "sets": [
-        "Spec Thief"
+        "Spec Thief",
+        "Aetherblade Skills",
+        "Blade Saint Skills"
       ]
     },
     {
@@ -48450,7 +51788,10 @@
       "sets": [
         "Goblin Skills",
         "Orc Skills",
-        "Saurian Skills"
+        "Saurian Skills",
+        "Bloodfang Berserker Skills",
+        "Ranger Skills",
+        "Shadow Kill Skills"
       ]
     },
     {
@@ -48498,6 +51839,7 @@
       "name": "Artistry",
       "attribute": "👁️",
       "genres": [
+        "Fantasy",
         "Medieval"
       ],
       "discipline": "General",
@@ -48506,7 +51848,8 @@
       "created_at": "2026-08-28T20:59:32.56794+00:00",
       "owner": "Designer",
       "sets": [
-        "Elven Skills"
+        "Elven Skills",
+        "Bard Skills"
       ]
     },
     {
@@ -48514,10 +51857,10 @@
       "name": "Assess Stonework",
       "attribute": "👁️",
       "genres": [
-        "Fantasy",
         "SciFi",
-        "Medieval",
-        "Modern"
+        "Modern",
+        "Fantasy",
+        "Medieval"
       ],
       "discipline": "General",
       "path": "Dwarf {Free}",
@@ -48526,7 +51869,8 @@
       "owner": "Designer",
       "sets": [
         "Dungeoneering",
-        "Blackaxe Clan Skills"
+        "Blackaxe Clan Skills",
+        "Geomancer Skills"
       ]
     },
     {
@@ -48552,6 +51896,9 @@
       "name": "Astrogation (mso)",
       "attribute": "👁️",
       "genres": [
+        "Space",
+        "Modern",
+        "Sci-Fi",
         "SciFi"
       ],
       "discipline": "Tech",
@@ -48562,7 +51909,8 @@
       "sets": [
         "Astrogator",
         "Helm",
-        "Vessel Operations"
+        "Vessel Operations",
+        "Starborn Ranger Skills"
       ]
     },
     {
@@ -48571,11 +51919,11 @@
       "attribute": "👁️",
       "genres": [
         "Space",
-        "Sci-Fi",
         "Modern",
         "Fantasy",
+        "Medieval",
         "SciFi",
-        "Medieval"
+        "Sci-Fi"
       ],
       "discipline": "General",
       "path": "Universal",
@@ -48588,7 +51936,10 @@
         "Streetwise",
         "Streetwise Survival",
         "Human Skills",
-        "Calemora Skills"
+        "Calemora Skills",
+        "Warrior Skills",
+        "Bulwark Discipline",
+        "Ranger Skills"
       ]
     },
     {
@@ -48649,14 +52000,23 @@
       "name": "BioTech (mso)",
       "attribute": "👁️",
       "genres": [
-        "SciFi"
+        "Space",
+        "Modern",
+        "Fantasy",
+        "Medieval",
+        "SciFi",
+        "Sci-Fi"
       ],
       "discipline": "BioTech",
       "path": "Universal",
       "notes": null,
       "created_at": "2026-09-05T23:12:07.946889+00:00",
       "owner": "Designer",
-      "sets": []
+      "sets": [
+        "Bio Engineer Skills",
+        "Bio-Gunner Skills",
+        "Bio-Warrior Skills"
+      ]
     },
     {
       "id": 484,
@@ -48743,7 +52103,9 @@
       "attribute": "🏃",
       "genres": [
         "Modern",
-        "SciFi"
+        "Fantasy",
+        "SciFi",
+        "Medieval"
       ],
       "discipline": "Tech",
       "path": "Universal",
@@ -48751,7 +52113,8 @@
       "created_at": "2026-08-28T20:59:32.56794+00:00",
       "owner": "Designer",
       "sets": [
-        "Ship Office Engineering"
+        "Ship Office Engineering",
+        "Magnetic Discipline"
       ]
     },
     {
@@ -48776,10 +52139,10 @@
       "name": "Charm",
       "attribute": "👁️",
       "genres": [
+        "Modern",
         "Fantasy",
         "SciFi",
-        "Medieval",
-        "Modern"
+        "Medieval"
       ],
       "discipline": "General",
       "path": "Universal",
@@ -48790,7 +52153,9 @@
         "Diplomacy",
         "Fairy Skills",
         "Nelf Skills",
-        "Nymph Skills"
+        "Nymph Skills",
+        "Misdirection Skills",
+        "Glamour Discipline"
       ]
     },
     {
@@ -49103,7 +52468,8 @@
       "owner": "Designer",
       "sets": [
         "Orc Skills",
-        "Goblin Scrapper Skills"
+        "Goblin Scrapper Skills",
+        "Punk Skills"
       ]
     },
     {
@@ -49111,10 +52477,10 @@
       "name": "Create Distractions",
       "attribute": "👁️",
       "genres": [
+        "Modern",
         "Fantasy",
         "SciFi",
-        "Medieval",
-        "Modern"
+        "Medieval"
       ],
       "discipline": "General",
       "path": "Universal",
@@ -49127,7 +52493,9 @@
         "Fairy Skills",
         "Gnome Gadgeteer Skills",
         "Nelf Skills",
-        "Nymph Skills"
+        "Nymph Skills",
+        "Bard Skills",
+        "Pixie Skills"
       ]
     },
     {
@@ -49154,9 +52522,10 @@
       "name": "Cure Poison",
       "attribute": "👁️",
       "genres": [
-        "Medieval",
         "Modern",
-        "SciFi"
+        "Fantasy",
+        "SciFi",
+        "Medieval"
       ],
       "discipline": "General",
       "path": "Universal",
@@ -49165,7 +52534,8 @@
       "owner": "Designer",
       "sets": [
         "Healing Arts",
-        "Medicine"
+        "Medicine",
+        "Verdant Sentinel Skills"
       ]
     },
     {
@@ -49173,6 +52543,9 @@
       "name": "CyberTech (mso)",
       "attribute": "👁️",
       "genres": [
+        "Space",
+        "Modern",
+        "Sci-Fi",
         "SciFi"
       ],
       "discipline": "CyberTech",
@@ -49180,7 +52553,10 @@
       "notes": null,
       "created_at": "2026-09-05T23:12:07.946889+00:00",
       "owner": "Designer",
-      "sets": []
+      "sets": [
+        "Cyber Warrior Skills",
+        "Occult-Tech Discipline"
+      ]
     },
     {
       "id": 501,
@@ -49188,7 +52564,9 @@
       "attribute": "💪",
       "genres": [
         "Modern",
-        "SciFi"
+        "Fantasy",
+        "SciFi",
+        "Medieval"
       ],
       "discipline": "Tech",
       "path": "Universal",
@@ -49198,7 +52576,8 @@
       "sets": [
         "Ship Office Engineering",
         "Ship Office Tactical",
-        "Vehicle Driver"
+        "Vehicle Driver",
+        "Inferno Vanguard Skills"
       ]
     },
     {
@@ -49223,9 +52602,10 @@
       "name": "Danger Sense",
       "attribute": "👁️",
       "genres": [
-        "Medieval",
         "Modern",
-        "SciFi"
+        "Fantasy",
+        "SciFi",
+        "Medieval"
       ],
       "discipline": "Tech",
       "path": "Universal",
@@ -49238,7 +52618,8 @@
         "Ship Office Tactical",
         "Spec Spy",
         "Spec Survivalist",
-        "Spec Thief"
+        "Spec Thief",
+        "Psionic Sentinel Skills"
       ]
     },
     {
@@ -49247,9 +52628,9 @@
       "attribute": "👁️",
       "genres": [
         "Space",
-        "SciFi",
         "Modern",
-        "Sci-Fi"
+        "Sci-Fi",
+        "SciFi"
       ],
       "discipline": "Tech",
       "path": "[\"Ship Officer Fighter Pilot (mso)\", \"Spy (mso)\", \"Survivalist (mso)\", \"Ship Officer Tactical (mso)\", \"Mensi (mso)\"]",
@@ -49263,7 +52644,13 @@
         "Tactical",
         "Dracan Skills",
         "Kryll Skills",
-        "Shanask Skills"
+        "Shanask Skills",
+        "Bio-Gunner Skills",
+        "Cyber Warrior Skills",
+        "Marine Skills",
+        "Mutak Skills",
+        "Occult-Tech Discipline",
+        "DHA Assault Discipline"
       ]
     },
     {
@@ -49271,6 +52658,9 @@
       "name": "Demolitions (mso)",
       "attribute": "👁️",
       "genres": [
+        "Space",
+        "Modern",
+        "Sci-Fi",
         "SciFi"
       ],
       "discipline": "Tech",
@@ -49280,7 +52670,10 @@
       "owner": "Designer",
       "sets": [
         "Martial",
-        "Tactical"
+        "Tactical",
+        "Dragon Skills",
+        "Marine Skills",
+        "DHA Assault Discipline"
       ]
     },
     {
@@ -49288,10 +52681,10 @@
       "name": "Detect Enchantments",
       "attribute": "✨",
       "genres": [
-        "Fantasy",
         "SciFi",
-        "Medieval",
-        "Modern"
+        "Modern",
+        "Fantasy",
+        "Medieval"
       ],
       "discipline": "General",
       "path": "Universal",
@@ -49301,7 +52694,12 @@
       "sets": [
         "Arcana",
         "Fairy Skills",
-        "Bloodmarked Skills"
+        "Bloodmarked Skills",
+        "Aetherblade Skills",
+        "Lifestealer Skills",
+        "Sun-Devoted Skills",
+        "Elemental Discipline",
+        "Void Magic Skills"
       ]
     },
     {
@@ -49309,9 +52707,10 @@
       "name": "Detect Lie",
       "attribute": "👁️",
       "genres": [
-        "Medieval",
         "Modern",
-        "SciFi"
+        "Fantasy",
+        "SciFi",
+        "Medieval"
       ],
       "discipline": "Tech",
       "path": "Universal",
@@ -49322,7 +52721,8 @@
         "Awareness",
         "Ship Office Communications",
         "Spec Spy",
-        "Spec Thief"
+        "Spec Thief",
+        "Psionics Skills"
       ]
     },
     {
@@ -49331,9 +52731,9 @@
       "attribute": "👁️",
       "genres": [
         "Space",
-        "SciFi",
         "Modern",
-        "Sci-Fi"
+        "Sci-Fi",
+        "SciFi"
       ],
       "discipline": "Tech",
       "path": "[\"Ship Officer Comms (mso)\", \"Spy (mso)\", \"Mensi (mso)\"]",
@@ -49343,7 +52743,8 @@
       "sets": [
         "Communications",
         "Spy",
-        "Shanask Skills"
+        "Shanask Skills",
+        "Occult-Tech Discipline"
       ]
     },
     {
@@ -49351,10 +52752,10 @@
       "name": "Detect Metal",
       "attribute": "👁️",
       "genres": [
-        "Fantasy",
         "SciFi",
-        "Medieval",
-        "Modern"
+        "Modern",
+        "Fantasy",
+        "Medieval"
       ],
       "discipline": "General",
       "path": "Universal",
@@ -49363,7 +52764,8 @@
       "owner": "Designer",
       "sets": [
         "Magnetism",
-        "Gnome Gadgeteer Skills"
+        "Gnome Gadgeteer Skills",
+        "Magnetic Discipline"
       ]
     },
     {
@@ -49395,10 +52797,10 @@
       "name": "Direction Sense",
       "attribute": "👁️",
       "genres": [
+        "Modern",
         "Fantasy",
         "SciFi",
-        "Medieval",
-        "Modern"
+        "Medieval"
       ],
       "discipline": "General",
       "path": "Universal",
@@ -49407,7 +52809,9 @@
       "owner": "Designer",
       "sets": [
         "Dungeoneering",
-        "Blackaxe Clan Skills"
+        "Blackaxe Clan Skills",
+        "Ranger Skills",
+        "Geomancer Skills"
       ]
     },
     {
@@ -49415,10 +52819,10 @@
       "name": "Disguise",
       "attribute": "👁️",
       "genres": [
-        "Fantasy",
         "SciFi",
-        "Medieval",
-        "Modern"
+        "Modern",
+        "Fantasy",
+        "Medieval"
       ],
       "discipline": "Covert",
       "path": "Universal",
@@ -49429,7 +52833,8 @@
         "Rogue",
         "Spec Spy",
         "Spec Thief",
-        "Nymph Skills"
+        "Nymph Skills",
+        "Shadow Kill Skills"
       ]
     },
     {
@@ -49471,9 +52876,9 @@
       "attribute": "🫀",
       "genres": [
         "Space",
-        "SciFi",
+        "Modern",
         "Sci-Fi",
-        "Modern"
+        "SciFi"
       ],
       "discipline": "Universal",
       "path": "[\"Ship Officer Captain (mso)\", \"Warlock (mso)\"]",
@@ -49483,7 +52888,8 @@
       "sets": [
         "Captain",
         "Dracan Skills",
-        "Shanask Skills"
+        "Shanask Skills",
+        "Mensi Skills"
       ]
     },
     {
@@ -49525,10 +52931,10 @@
       "name": "Empathy",
       "attribute": "👁️",
       "genres": [
+        "Modern",
         "Fantasy",
         "SciFi",
-        "Medieval",
-        "Modern"
+        "Medieval"
       ],
       "discipline": "Tech",
       "path": "Universal",
@@ -49539,7 +52945,9 @@
         "Mental Discipline",
         "Ship Office Communications",
         "Ship Office Medic",
-        "Bloodmarked Skills"
+        "Bloodmarked Skills",
+        "Restoration Discipline",
+        "Psionics Skills"
       ]
     },
     {
@@ -49547,6 +52955,9 @@
       "name": "Empathy (mso)",
       "attribute": "👁️",
       "genres": [
+        "Space",
+        "Modern",
+        "Sci-Fi",
         "SciFi"
       ],
       "discipline": "Tech",
@@ -49556,7 +52967,8 @@
       "owner": "Designer",
       "sets": [
         "Communications",
-        "Medic"
+        "Medic",
+        "Occult-Tech Discipline"
       ]
     },
     {
@@ -49564,9 +52976,10 @@
       "name": "Enhanced Hearing",
       "attribute": "👁️",
       "genres": [
-        "Medieval",
         "Modern",
-        "SciFi"
+        "Fantasy",
+        "SciFi",
+        "Medieval"
       ],
       "discipline": "Tech",
       "path": "Universal",
@@ -49576,7 +52989,8 @@
       "sets": [
         "Ship Office Communications",
         "Spec Spy",
-        "Spec Thief"
+        "Spec Thief",
+        "Shadow Kill Skills"
       ]
     },
     {
@@ -49584,6 +52998,9 @@
       "name": "Enhanced Hearing (mso)",
       "attribute": "👁️",
       "genres": [
+        "Space",
+        "Modern",
+        "Sci-Fi",
         "SciFi"
       ],
       "discipline": "Tech",
@@ -49593,7 +53010,10 @@
       "owner": "Designer",
       "sets": [
         "Communications",
-        "Spy"
+        "Spy",
+        "Starborn Ranger Skills",
+        "Cyber Warrior Skills",
+        "Mensi Skills"
       ]
     },
     {
@@ -49620,8 +53040,10 @@
       "attribute": "👁️",
       "genres": [
         "Space",
-        "SciFi",
         "Modern",
+        "Fantasy",
+        "Medieval",
+        "SciFi",
         "Sci-Fi"
       ],
       "discipline": "Tech",
@@ -49632,7 +53054,11 @@
       "sets": [
         "Engineer",
         "Medic",
-        "Kryll Skills"
+        "Kryll Skills",
+        "Bio Engineer Skills",
+        "Bio-Warrior Skills",
+        "Cyber Warrior Skills",
+        "Mutak Skills"
       ]
     },
     {
@@ -49640,10 +53066,10 @@
       "name": "Escape Artist",
       "attribute": "🏃",
       "genres": [
-        "Fantasy",
         "SciFi",
-        "Medieval",
-        "Modern"
+        "Modern",
+        "Fantasy",
+        "Medieval"
       ],
       "discipline": "General",
       "path": "Universal",
@@ -49652,7 +53078,8 @@
       "owner": "Designer",
       "sets": [
         "Agility",
-        "Goblin Scrapper Skills"
+        "Goblin Scrapper Skills",
+        "Pixie Skills"
       ]
     },
     {
@@ -49660,10 +53087,10 @@
       "name": "Evasion",
       "attribute": "🏃",
       "genres": [
-        "Fantasy",
         "SciFi",
-        "Medieval",
-        "Modern"
+        "Modern",
+        "Fantasy",
+        "Medieval"
       ],
       "discipline": "General",
       "path": "Universal",
@@ -49675,7 +53102,10 @@
         "Streetwise Survival",
         "Fairy Skills",
         "Nelf Skills",
-        "Nymph Skills"
+        "Nymph Skills",
+        "Aetherblade Skills",
+        "Blade Saint Skills",
+        "Inner Peace Discipline"
       ]
     },
     {
@@ -49683,9 +53113,10 @@
       "name": "Expert Runner",
       "attribute": "🏃",
       "genres": [
-        "Medieval",
         "Modern",
-        "SciFi"
+        "Fantasy",
+        "SciFi",
+        "Medieval"
       ],
       "discipline": "Covert",
       "path": "Universal",
@@ -49694,7 +53125,8 @@
       "owner": "Designer",
       "sets": [
         "Spec Spy",
-        "Spec Thief"
+        "Spec Thief",
+        "Shadow Kill Skills"
       ]
     },
     {
@@ -49718,9 +53150,10 @@
       "name": "Falling",
       "attribute": "✨",
       "genres": [
-        "Medieval",
+        "SciFi",
         "Modern",
-        "SciFi"
+        "Fantasy",
+        "Medieval"
       ],
       "discipline": "Physical",
       "path": "Universal",
@@ -49731,7 +53164,9 @@
         "Agility",
         "Magnetism",
         "Mountaineering",
-        "Spec Survivalist"
+        "Spec Survivalist",
+        "Magnetic Discipline",
+        "Psychosomatics Skills"
       ]
     },
     {
@@ -49755,10 +53190,10 @@
       "name": "Fast Talk",
       "attribute": "👁️",
       "genres": [
-        "Fantasy",
         "SciFi",
-        "Medieval",
-        "Modern"
+        "Modern",
+        "Fantasy",
+        "Medieval"
       ],
       "discipline": "Tech",
       "path": "Universal",
@@ -49771,7 +53206,8 @@
         "Ship Office Communications",
         "Spec Spy",
         "Spec Thief",
-        "Nelf Skills"
+        "Nelf Skills",
+        "Misdirection Skills"
       ]
     },
     {
@@ -49779,6 +53215,9 @@
       "name": "Fast Talk (mso)",
       "attribute": "👁️",
       "genres": [
+        "Space",
+        "Modern",
+        "Sci-Fi",
         "SciFi"
       ],
       "discipline": "Tech",
@@ -49788,7 +53227,8 @@
       "owner": "Designer",
       "sets": [
         "Communications",
-        "Spy"
+        "Spy",
+        "Mensi Skills"
       ]
     },
     {
@@ -49797,9 +53237,9 @@
       "attribute": "👁️",
       "genres": [
         "Space",
-        "SciFi",
         "Modern",
-        "Sci-Fi"
+        "Sci-Fi",
+        "SciFi"
       ],
       "discipline": "Tech",
       "path": "[\"Ship Officer Fighter Pilot (mso)\",\"Ship Officer Tactical (mso)\",\"Marine (mso)\",\"Warrior (mso)\",\"Calemora (mso)\",\"Shanask (mso)\",\"Kryll (mso) {Free}\"]",
@@ -49809,7 +53249,11 @@
       "sets": [
         "Fighter Pilot",
         "Tactical",
-        "Dracan Skills"
+        "Dracan Skills",
+        "Bio-Gunner Skills",
+        "Bio-Warrior Skills",
+        "Cyber Warrior Skills",
+        "Dragon Skills"
       ]
     },
     {
@@ -49818,11 +53262,11 @@
       "attribute": "💪",
       "genres": [
         "Space",
-        "Sci-Fi",
         "Modern",
         "Fantasy",
+        "Medieval",
         "SciFi",
-        "Medieval"
+        "Sci-Fi"
       ],
       "discipline": "General",
       "path": "Universal",
@@ -49832,7 +53276,15 @@
       "sets": [
         "Athletics",
         "Saurian Skills",
-        "Calemora Skills"
+        "Calemora Skills",
+        "Cursed Spartan Skills",
+        "Bulwark Discipline",
+        "Bloodfang Berserker Skills",
+        "Inferno Vanguard Skills",
+        "Geomancer Skills",
+        "Giant Skills",
+        "Psychosomatics Skills",
+        "Destron Skills"
       ]
     },
     {
@@ -49840,7 +53292,9 @@
       "name": "First Aid (mso)",
       "attribute": "👁️",
       "genres": [
-        "SciFi"
+        "Fantasy",
+        "SciFi",
+        "Medieval"
       ],
       "discipline": "Medical",
       "path": "[\"Ship Officer Medic (mso)\",\"Ship Officer Scientist (mso)\",\"Survivalist (mso)\",\"Bio-Gunner (mso)\",\"Bio-Warrior (mso)\",\"Marine (mso)\",\"Kryll (mso) {Free}\"]",
@@ -49850,7 +53304,8 @@
       "sets": [
         "Medic",
         "Scientist",
-        "Survivalist"
+        "Survivalist",
+        "Bio Engineer Skills"
       ]
     },
     {
@@ -49877,6 +53332,7 @@
       "name": "Fletching",
       "attribute": "💪",
       "genres": [
+        "Fantasy",
         "Medieval"
       ],
       "discipline": "General",
@@ -49885,7 +53341,8 @@
       "created_at": "2026-08-28T20:59:32.56794+00:00",
       "owner": "Designer",
       "sets": [
-        "Elven Skills"
+        "Elven Skills",
+        "Ranger Skills"
       ]
     },
     {
@@ -49893,9 +53350,10 @@
       "name": "Forage",
       "attribute": "🏃",
       "genres": [
-        "Medieval",
         "Modern",
-        "SciFi"
+        "Fantasy",
+        "SciFi",
+        "Medieval"
       ],
       "discipline": "General",
       "path": "Universal",
@@ -49903,7 +53361,8 @@
       "created_at": "2026-08-28T20:59:32.56794+00:00",
       "owner": "Designer",
       "sets": [
-        "Scout"
+        "Scout",
+        "Verdant Sentinel Skills"
       ]
     },
     {
@@ -49921,7 +53380,9 @@
       "owner": "Designer",
       "sets": [
         "Elven Skills",
-        "Nelf Skills"
+        "Nelf Skills",
+        "Ranger Skills",
+        "Verdant Sentinel Skills"
       ]
     },
     {
@@ -49929,9 +53390,10 @@
       "name": "Gambling",
       "attribute": "👁️",
       "genres": [
-        "Medieval",
         "Modern",
-        "SciFi"
+        "Fantasy",
+        "SciFi",
+        "Medieval"
       ],
       "discipline": "General",
       "path": "Universal",
@@ -49941,7 +53403,8 @@
       "sets": [
         "Mercantile",
         "Rogue",
-        "Spec Thief"
+        "Spec Thief",
+        "Bard Skills"
       ]
     },
     {
@@ -49989,8 +53452,10 @@
       "attribute": "👁️",
       "genres": [
         "Space",
-        "SciFi",
         "Modern",
+        "Fantasy",
+        "Medieval",
+        "SciFi",
         "Sci-Fi"
       ],
       "discipline": "Medical",
@@ -50000,7 +53465,8 @@
       "owner": "Designer",
       "sets": [
         "Medic",
-        "Anthropos Skills"
+        "Anthropos Skills",
+        "Bio Engineer Skills"
       ]
     },
     {
@@ -50046,9 +53512,10 @@
       "name": "Healing Arts",
       "attribute": "👁️",
       "genres": [
-        "Medieval",
         "Modern",
-        "SciFi"
+        "Fantasy",
+        "SciFi",
+        "Medieval"
       ],
       "discipline": "Medical",
       "path": "Universal",
@@ -50061,7 +53528,8 @@
         "Medicine",
         "Ship Office Medic",
         "Ship Office Scientist",
-        "Spec Survivalist"
+        "Spec Survivalist",
+        "Sun-Devoted Skills"
       ]
     },
     {
@@ -50069,9 +53537,10 @@
       "name": "Herbalism",
       "attribute": "👁️",
       "genres": [
-        "Medieval",
         "Modern",
-        "SciFi"
+        "Fantasy",
+        "SciFi",
+        "Medieval"
       ],
       "discipline": "Medical",
       "path": "Universal",
@@ -50079,7 +53548,8 @@
       "created_at": "2026-08-28T20:59:32.56794+00:00",
       "owner": "Designer",
       "sets": [
-        "Healing Arts"
+        "Healing Arts",
+        "Verdant Sentinel Skills"
       ]
     },
     {
@@ -50087,10 +53557,10 @@
       "name": "Hidden Routes",
       "attribute": "👁️",
       "genres": [
-        "Fantasy",
         "SciFi",
-        "Medieval",
-        "Modern"
+        "Modern",
+        "Fantasy",
+        "Medieval"
       ],
       "discipline": "General",
       "path": "Universal",
@@ -50100,7 +53570,8 @@
       "sets": [
         "Urban Survival",
         "Urban Survival🎓",
-        "Nymph Skills"
+        "Nymph Skills",
+        "Shadow Kill Skills"
       ]
     },
     {
@@ -50108,10 +53579,10 @@
       "name": "History",
       "attribute": "👁️",
       "genres": [
-        "Fantasy",
         "SciFi",
-        "Medieval",
-        "Modern"
+        "Modern",
+        "Fantasy",
+        "Medieval"
       ],
       "discipline": "General",
       "path": "Universal",
@@ -50120,7 +53591,8 @@
       "owner": "Designer",
       "sets": [
         "Scholar",
-        "Bloodmarked Skills"
+        "Bloodmarked Skills",
+        "Bard Skills"
       ]
     },
     {
@@ -50128,10 +53600,10 @@
       "name": "Hunt",
       "attribute": "🏃",
       "genres": [
+        "Modern",
         "Fantasy",
         "SciFi",
-        "Medieval",
-        "Modern"
+        "Medieval"
       ],
       "discipline": "General",
       "path": "Universal",
@@ -50141,7 +53613,9 @@
       "sets": [
         "Orc Skills",
         "Survival",
-        "Saurian Skills"
+        "Saurian Skills",
+        "Bloodfang Berserker Skills",
+        "Lifestealer Skills"
       ]
     },
     {
@@ -50187,9 +53661,10 @@
       "name": "ID Plants",
       "attribute": "👁️",
       "genres": [
-        "Medieval",
         "Modern",
-        "SciFi"
+        "Fantasy",
+        "SciFi",
+        "Medieval"
       ],
       "discipline": "General",
       "path": "Universal",
@@ -50199,7 +53674,8 @@
       "sets": [
         "Alchemy",
         "Druidic",
-        "Survival"
+        "Survival",
+        "Verdant Sentinel Skills"
       ]
     },
     {
@@ -50207,9 +53683,10 @@
       "name": "ID Runes",
       "attribute": "✨",
       "genres": [
-        "Medieval",
+        "SciFi",
         "Modern",
-        "SciFi"
+        "Fantasy",
+        "Medieval"
       ],
       "discipline": "Physical",
       "path": "Universal",
@@ -50217,7 +53694,9 @@
       "created_at": "2026-08-28T20:59:32.56794+00:00",
       "owner": "Designer",
       "sets": [
-        "Arcana"
+        "Arcana",
+        "Aetherblade Skills",
+        "Void Magic Skills"
       ]
     },
     {
@@ -50225,9 +53704,10 @@
       "name": "ID Spells",
       "attribute": "✨",
       "genres": [
-        "Medieval",
+        "SciFi",
         "Modern",
-        "SciFi"
+        "Fantasy",
+        "Medieval"
       ],
       "discipline": "General",
       "path": "Universal",
@@ -50235,7 +53715,9 @@
       "created_at": "2026-08-28T20:59:32.56794+00:00",
       "owner": "Designer",
       "sets": [
-        "Arcana"
+        "Arcana",
+        "Elemental Discipline",
+        "Void Magic Skills"
       ]
     },
     {
@@ -50262,9 +53744,10 @@
       "name": "ID Weather",
       "attribute": "👁️",
       "genres": [
-        "Medieval",
         "Modern",
-        "SciFi"
+        "Fantasy",
+        "SciFi",
+        "Medieval"
       ],
       "discipline": "General",
       "path": "Universal",
@@ -50272,7 +53755,8 @@
       "created_at": "2026-08-28T20:59:32.56794+00:00",
       "owner": "Designer",
       "sets": [
-        "Sailing"
+        "Sailing",
+        "Elemental Discipline"
       ]
     },
     {
@@ -50296,10 +53780,10 @@
       "name": "Inspiration",
       "attribute": "👁️",
       "genres": [
+        "Modern",
         "Fantasy",
         "SciFi",
-        "Medieval",
-        "Modern"
+        "Medieval"
       ],
       "discipline": "General",
       "path": "Universal",
@@ -50309,7 +53793,9 @@
       "sets": [
         "Bardic",
         "Intimidation & Presence",
-        "Human Skills"
+        "Human Skills",
+        "Sun-Devoted Skills",
+        "Glamour Discipline"
       ]
     },
     {
@@ -50338,9 +53824,9 @@
       "attribute": "🫀",
       "genres": [
         "Space",
-        "SciFi",
         "Modern",
-        "Sci-Fi"
+        "Sci-Fi",
+        "SciFi"
       ],
       "discipline": "Covert",
       "path": "[\"Spy (mso)\", \"Ship Officer Tactical (mso)\"]",
@@ -50350,7 +53836,12 @@
       "sets": [
         "Spy",
         "Tactical",
-        "Dracan Skills"
+        "Dracan Skills",
+        "Dragon Skills",
+        "Marine Skills",
+        "Mensi Skills",
+        "Occult-Tech Discipline",
+        "DHA Assault Discipline"
       ]
     },
     {
@@ -50374,10 +53865,10 @@
       "name": "Intimidation",
       "attribute": "🫀",
       "genres": [
-        "Fantasy",
         "SciFi",
-        "Medieval",
-        "Modern"
+        "Modern",
+        "Fantasy",
+        "Medieval"
       ],
       "discipline": "General",
       "path": "Universal",
@@ -50389,7 +53880,10 @@
         "Guard Skills",
         "Intimidation & Presence",
         "Orc Skills",
-        "Saurian Skills"
+        "Saurian Skills",
+        "Bloodfang Berserker Skills",
+        "Punk Skills",
+        "Giant Skills"
       ]
     },
     {
@@ -50413,6 +53907,9 @@
       "name": "Jumping (mso)",
       "attribute": "🏃",
       "genres": [
+        "Space",
+        "Modern",
+        "Sci-Fi",
         "SciFi"
       ],
       "discipline": "Physical",
@@ -50421,7 +53918,8 @@
       "created_at": "2026-09-05T23:12:08.03246+00:00",
       "owner": "Designer",
       "sets": [
-        "Athletic & Physical"
+        "Athletic & Physical",
+        "DHA Assault Discipline"
       ]
     },
     {
@@ -50579,10 +54077,10 @@
       "name": "Leadership",
       "attribute": "👁️",
       "genres": [
-        "Fantasy",
         "SciFi",
-        "Medieval",
-        "Modern"
+        "Modern",
+        "Fantasy",
+        "Medieval"
       ],
       "discipline": "General",
       "path": "Universal",
@@ -50593,7 +54091,8 @@
         "Intimidation & Presence",
         "Ship Office Captain",
         "Ship Office Tactical",
-        "Human Skills"
+        "Human Skills",
+        "Warrior Skills"
       ]
     },
     {
@@ -50619,9 +54118,10 @@
       "name": "Light Sleeper",
       "attribute": "👁️",
       "genres": [
-        "Medieval",
         "Modern",
-        "SciFi"
+        "Fantasy",
+        "SciFi",
+        "Medieval"
       ],
       "discipline": "Covert",
       "path": "Universal",
@@ -50630,7 +54130,8 @@
       "owner": "Designer",
       "sets": [
         "Spec Spy",
-        "Spec Thief"
+        "Spec Thief",
+        "Shadow Kill Skills"
       ]
     },
     {
@@ -50638,6 +54139,9 @@
       "name": "Light Sleeper (mso)",
       "attribute": "👁️",
       "genres": [
+        "Space",
+        "Modern",
+        "Sci-Fi",
         "SciFi"
       ],
       "discipline": "Covert",
@@ -50646,7 +54150,8 @@
       "created_at": "2026-09-05T23:12:07.946889+00:00",
       "owner": "Designer",
       "sets": [
-        "Spy"
+        "Spy",
+        "Mensi Skills"
       ]
     },
     {
@@ -50654,10 +54159,10 @@
       "name": "Lore",
       "attribute": "👁️",
       "genres": [
-        "Fantasy",
         "SciFi",
-        "Medieval",
-        "Modern"
+        "Modern",
+        "Fantasy",
+        "Medieval"
       ],
       "discipline": "General",
       "path": "Universal",
@@ -50666,7 +54171,8 @@
       "owner": "Designer",
       "sets": [
         "Scholar",
-        "Bloodmarked Skills"
+        "Bloodmarked Skills",
+        "Bard Skills"
       ]
     },
     {
@@ -50675,8 +54181,10 @@
       "attribute": "👁️",
       "genres": [
         "Space",
-        "SciFi",
         "Modern",
+        "Fantasy",
+        "Medieval",
+        "SciFi",
         "Sci-Fi"
       ],
       "discipline": "Medical",
@@ -50686,7 +54194,10 @@
       "owner": "Designer",
       "sets": [
         "Medic",
-        "Kryll Skills"
+        "Kryll Skills",
+        "Bio Engineer Skills",
+        "Bio-Gunner Skills",
+        "Bio-Warrior Skills"
       ]
     },
     {
@@ -50694,24 +54205,9 @@
       "name": "Metal Manipulation",
       "attribute": "💪",
       "genres": [
-        "Medieval",
         "Modern",
-        "SciFi"
-      ],
-      "discipline": "General",
-      "path": "Universal",
-      "notes": "",
-      "created_at": "2026-08-28T20:59:32.56794+00:00",
-      "owner": "Designer",
-      "sets": [
-        "Magnetism"
-      ]
-    },
-    {
-      "id": 550,
-      "name": "Mining",
-      "attribute": "💪",
-      "genres": [
+        "Fantasy",
+        "SciFi",
         "Medieval"
       ],
       "discipline": "General",
@@ -50720,7 +54216,26 @@
       "created_at": "2026-08-28T20:59:32.56794+00:00",
       "owner": "Designer",
       "sets": [
-        "Dwarven Skills"
+        "Magnetism",
+        "Magnetic Discipline"
+      ]
+    },
+    {
+      "id": 550,
+      "name": "Mining",
+      "attribute": "💪",
+      "genres": [
+        "Fantasy",
+        "Medieval"
+      ],
+      "discipline": "General",
+      "path": "Universal",
+      "notes": "",
+      "created_at": "2026-08-28T20:59:32.56794+00:00",
+      "owner": "Designer",
+      "sets": [
+        "Dwarven Skills",
+        "Geomancer Skills"
       ]
     },
     {
@@ -50746,9 +54261,10 @@
       "name": "Mountaineering",
       "attribute": "🏃",
       "genres": [
-        "Medieval",
         "Modern",
-        "SciFi"
+        "Fantasy",
+        "SciFi",
+        "Medieval"
       ],
       "discipline": "General",
       "path": "Universal",
@@ -50756,7 +54272,8 @@
       "created_at": "2026-08-28T20:59:32.56794+00:00",
       "owner": "Designer",
       "sets": [
-        "Iron Lotus Discipline"
+        "Iron Lotus Discipline",
+        "Ranger Skills"
       ]
     },
     {
@@ -50764,6 +54281,9 @@
       "name": "Navigate (mso)",
       "attribute": "👁️",
       "genres": [
+        "Space",
+        "Modern",
+        "Sci-Fi",
         "SciFi"
       ],
       "discipline": "Tech",
@@ -50772,7 +54292,8 @@
       "created_at": "2026-09-05T23:12:08.03246+00:00",
       "owner": "Designer",
       "sets": [
-        "Astrogator"
+        "Astrogator",
+        "Starborn Ranger Skills"
       ]
     },
     {
@@ -50780,9 +54301,10 @@
       "name": "Navigation",
       "attribute": "👁️",
       "genres": [
-        "Medieval",
         "Modern",
-        "SciFi"
+        "Fantasy",
+        "SciFi",
+        "Medieval"
       ],
       "discipline": "Tech",
       "path": "Universal",
@@ -50795,7 +54317,8 @@
         "Ship Office Astrogation",
         "Urban Survival",
         "Urban Survival🎓",
-        "Vehicle Driver"
+        "Vehicle Driver",
+        "Ranger Skills"
       ]
     },
     {
@@ -50841,43 +54364,30 @@
       "name": "Parkour",
       "attribute": "🏃",
       "genres": [
-        "Medieval",
+        "SciFi",
         "Modern",
-        "SciFi"
+        "Fantasy",
+        "Medieval"
       ],
       "discipline": "Physical",
       "path": "Universal",
       "notes": "",
       "created_at": "2026-08-28T20:59:32.56794+00:00",
       "owner": "Designer",
-      "sets": []
+      "sets": [
+        "Aetherblade Skills",
+        "Punk Skills"
+      ]
     },
     {
       "id": 556,
       "name": "Performance",
       "attribute": "👁️",
       "genres": [
-        "Medieval",
         "Modern",
-        "SciFi"
-      ],
-      "discipline": "General",
-      "path": "Universal",
-      "notes": "",
-      "created_at": "2026-08-28T20:59:32.56794+00:00",
-      "owner": "Designer",
-      "sets": [
-        "Bardic"
-      ]
-    },
-    {
-      "id": 557,
-      "name": "Persuasion",
-      "attribute": "👁️",
-      "genres": [
-        "Medieval",
-        "Modern",
-        "SciFi"
+        "Fantasy",
+        "SciFi",
+        "Medieval"
       ],
       "discipline": "General",
       "path": "Universal",
@@ -50886,7 +54396,28 @@
       "owner": "Designer",
       "sets": [
         "Bardic",
-        "Diplomacy"
+        "Glamour Discipline"
+      ]
+    },
+    {
+      "id": 557,
+      "name": "Persuasion",
+      "attribute": "👁️",
+      "genres": [
+        "Modern",
+        "Fantasy",
+        "SciFi",
+        "Medieval"
+      ],
+      "discipline": "General",
+      "path": "Universal",
+      "notes": "",
+      "created_at": "2026-08-28T20:59:32.56794+00:00",
+      "owner": "Designer",
+      "sets": [
+        "Bardic",
+        "Diplomacy",
+        "Glamour Discipline"
       ]
     },
     {
@@ -50894,10 +54425,10 @@
       "name": "Pick Locks",
       "attribute": "🏃",
       "genres": [
-        "Fantasy",
         "SciFi",
-        "Medieval",
-        "Modern"
+        "Modern",
+        "Fantasy",
+        "Medieval"
       ],
       "discipline": "General",
       "path": "Universal",
@@ -50907,7 +54438,8 @@
       "sets": [
         "Thievery",
         "Thievery🎓",
-        "Gnome Gadgeteer Skills"
+        "Gnome Gadgeteer Skills",
+        "Pixie Skills"
       ]
     },
     {
@@ -51009,9 +54541,10 @@
       "name": "Potion Administration",
       "attribute": "✨",
       "genres": [
-        "Medieval",
         "Modern",
-        "SciFi"
+        "Fantasy",
+        "SciFi",
+        "Medieval"
       ],
       "discipline": "General",
       "path": "Universal",
@@ -51019,7 +54552,8 @@
       "created_at": "2026-08-28T20:59:32.56794+00:00",
       "owner": "Designer",
       "sets": [
-        "Alchemy"
+        "Alchemy",
+        "Restoration Discipline"
       ]
     },
     {
@@ -51027,8 +54561,10 @@
       "name": "Power Management",
       "attribute": "✨",
       "genres": [
+        "SciFi",
         "Modern",
-        "SciFi"
+        "Fantasy",
+        "Medieval"
       ],
       "discipline": "General",
       "path": "Universal",
@@ -51039,7 +54575,9 @@
         "Ship Office Captain",
         "Ship Office Engineering",
         "Ship Office Fighter Pilot",
-        "Ship Office Helm"
+        "Ship Office Helm",
+        "Inferno Vanguard Skills",
+        "Elemental Discipline"
       ]
     },
     {
@@ -51047,14 +54585,19 @@
       "name": "Psionic Lore (mso)",
       "attribute": "👁️",
       "genres": [
-        "SciFi"
+        "SciFi",
+        "Fantasy",
+        "Medieval"
       ],
       "discipline": "Psionics",
       "path": "Mensi (mso) {Free}",
       "notes": null,
       "created_at": "2026-09-05T23:12:08.03246+00:00",
       "owner": "Designer",
-      "sets": []
+      "sets": [
+        "Psionics Skills",
+        "Psionic Sentinel Skills"
+      ]
     },
     {
       "id": 666,
@@ -51062,8 +54605,10 @@
       "attribute": "👁️",
       "genres": [
         "Space",
-        "SciFi",
         "Modern",
+        "Fantasy",
+        "Medieval",
+        "SciFi",
         "Sci-Fi"
       ],
       "discipline": "Somatics",
@@ -51072,7 +54617,8 @@
       "created_at": "2026-09-05T23:12:08.03246+00:00",
       "owner": "Designer",
       "sets": [
-        "Calemora Skills"
+        "Calemora Skills",
+        "Psychosomatics Skills"
       ]
     },
     {
@@ -51118,9 +54664,10 @@
       "name": "Read Intent",
       "attribute": "👁️",
       "genres": [
-        "Medieval",
+        "SciFi",
         "Modern",
-        "SciFi"
+        "Fantasy",
+        "Medieval"
       ],
       "discipline": "General",
       "path": "Universal",
@@ -51129,7 +54676,13 @@
       "owner": "Designer",
       "sets": [
         "Awareness",
-        "Intimidation & Presence"
+        "Intimidation & Presence",
+        "Bulwark Discipline",
+        "Aetherblade Skills",
+        "Inner Peace Discipline",
+        "Misdirection Skills",
+        "Psionics Skills",
+        "Glamour Discipline"
       ]
     },
     {
@@ -51137,10 +54690,10 @@
       "name": "Religion",
       "attribute": "👁️",
       "genres": [
+        "Modern",
         "Fantasy",
         "SciFi",
-        "Medieval",
-        "Modern"
+        "Medieval"
       ],
       "discipline": "General",
       "path": "Universal",
@@ -51149,7 +54702,9 @@
       "owner": "Designer",
       "sets": [
         "Scholar",
-        "Bloodmarked Skills"
+        "Bloodmarked Skills",
+        "Cursed Spartan Skills",
+        "Sun-Devoted Skills"
       ]
     },
     {
@@ -51157,6 +54712,9 @@
       "name": "Repair Armor (mso)",
       "attribute": "👁️",
       "genres": [
+        "Space",
+        "Modern",
+        "Sci-Fi",
         "SciFi"
       ],
       "discipline": "Tech",
@@ -51166,7 +54724,8 @@
       "owner": "Designer",
       "sets": [
         "Engineer",
-        "Mechanic"
+        "Mechanic",
+        "Destron Skills"
       ]
     },
     {
@@ -51174,9 +54733,10 @@
       "name": "Repair Armor/Weapons",
       "attribute": "💪",
       "genres": [
-        "Medieval",
+        "SciFi",
         "Modern",
-        "SciFi"
+        "Fantasy",
+        "Medieval"
       ],
       "discipline": "Martial",
       "path": "Universal",
@@ -51187,7 +54747,9 @@
         "Crafting",
         "Guard Skills",
         "Ship Office Engineering",
-        "Ship Office Tactical"
+        "Ship Office Tactical",
+        "Inferno Vanguard Skills",
+        "Blade Saint Skills"
       ]
     },
     {
@@ -51213,7 +54775,9 @@
       "attribute": "💪",
       "genres": [
         "Modern",
-        "SciFi"
+        "Fantasy",
+        "SciFi",
+        "Medieval"
       ],
       "discipline": "Tech",
       "path": "Universal",
@@ -51221,7 +54785,8 @@
       "created_at": "2026-08-28T20:59:32.56794+00:00",
       "owner": "Designer",
       "sets": [
-        "Ship Office Engineering"
+        "Ship Office Engineering",
+        "Inferno Vanguard Skills"
       ]
     },
     {
@@ -51284,10 +54849,10 @@
       "name": "Repair Gear",
       "attribute": "💪",
       "genres": [
-        "Fantasy",
         "SciFi",
-        "Medieval",
-        "Modern"
+        "Modern",
+        "Fantasy",
+        "Medieval"
       ],
       "discipline": "Tech",
       "path": "Universal",
@@ -51300,7 +54865,8 @@
         "Gnomish Skills",
         "Ship Office Scientist",
         "Siegecraft",
-        "Goblin Scrapper Skills"
+        "Goblin Scrapper Skills",
+        "Magnetic Discipline"
       ]
     },
     {
@@ -51373,6 +54939,9 @@
       "name": "Repair Weapon (mso)",
       "attribute": "👁️",
       "genres": [
+        "Space",
+        "Modern",
+        "Sci-Fi",
         "SciFi"
       ],
       "discipline": "Martial",
@@ -51386,7 +54955,9 @@
         "Blaster Expert",
         "Carbinier",
         "Pulse Laser Expert",
-        "Rifle Expert"
+        "Rifle Expert",
+        "Starborn Ranger Skills",
+        "Bio-Gunner Skills"
       ]
     },
     {
@@ -51406,7 +54977,11 @@
         "Elven Skills",
         "Fairy Skills",
         "Bloodmarked Skills",
-        "Nymph Skills"
+        "Nymph Skills",
+        "Inner Peace Discipline",
+        "Bard Skills",
+        "Psionic Sentinel Skills",
+        "Glamour Discipline"
       ]
     },
     {
@@ -51415,11 +54990,11 @@
       "attribute": "🫀",
       "genres": [
         "Space",
-        "Sci-Fi",
         "Modern",
         "Fantasy",
+        "Medieval",
         "SciFi",
-        "Medieval"
+        "Sci-Fi"
       ],
       "discipline": "General",
       "path": "Core Skills",
@@ -51430,7 +55005,17 @@
         "Iron Lotus Discipline",
         "Spec Survivalist",
         "Blackaxe Clan Skills",
-        "Calemora Skills"
+        "Calemora Skills",
+        "Warrior Skills",
+        "Cursed Spartan Skills",
+        "Bulwark Discipline",
+        "Bloodfang Berserker Skills",
+        "Lifestealer Skills",
+        "Restoration Discipline",
+        "Sun-Devoted Skills",
+        "Giant Skills",
+        "Psychosomatics Skills",
+        "Dragon Skills"
       ]
     },
     {
@@ -51438,10 +55023,10 @@
       "name": "Resist Disease",
       "attribute": "🫀",
       "genres": [
+        "Modern",
         "Fantasy",
         "SciFi",
-        "Medieval",
-        "Modern"
+        "Medieval"
       ],
       "discipline": "Medical",
       "path": "Universal",
@@ -51451,7 +55036,11 @@
       "sets": [
         "Goblin Skills",
         "Ship Office Medic",
-        "Saurian Skills"
+        "Saurian Skills",
+        "Lifestealer Skills",
+        "Inner Peace Discipline",
+        "Restoration Discipline",
+        "Psychosomatics Skills"
       ]
     },
     {
@@ -51459,7 +55048,12 @@
       "name": "Resist Disease (mso)",
       "attribute": "🫀",
       "genres": [
-        "SciFi"
+        "Space",
+        "Modern",
+        "Fantasy",
+        "Medieval",
+        "SciFi",
+        "Sci-Fi"
       ],
       "discipline": "Medical",
       "path": "[\"Ship Officer Medic (mso)\",\"Kryll (mso) {Free}\"]",
@@ -51467,7 +55061,10 @@
       "created_at": "2026-09-05T23:12:07.946889+00:00",
       "owner": "Designer",
       "sets": [
-        "Medic"
+        "Medic",
+        "Bio Engineer Skills",
+        "Bio-Warrior Skills",
+        "Mutak Skills"
       ]
     },
     {
@@ -51485,7 +55082,11 @@
       "owner": "Designer",
       "sets": [
         "Gnomish Skills",
-        "Fairy Skills"
+        "Fairy Skills",
+        "Misdirection Skills",
+        "Void Magic Skills",
+        "Psionic Sentinel Skills",
+        "Pixie Skills"
       ]
     },
     {
@@ -51493,10 +55094,10 @@
       "name": "Resist Mental",
       "attribute": "👁️",
       "genres": [
+        "Modern",
         "Fantasy",
         "SciFi",
-        "Medieval",
-        "Modern"
+        "Medieval"
       ],
       "discipline": "General",
       "path": "Universal",
@@ -51505,7 +55106,11 @@
       "owner": "Designer",
       "sets": [
         "Mental Discipline",
-        "Bloodmarked Skills"
+        "Bloodmarked Skills",
+        "Cursed Spartan Skills",
+        "Void Magic Skills",
+        "Psionics Skills",
+        "Psionic Sentinel Skills"
       ]
     },
     {
@@ -51514,11 +55119,11 @@
       "attribute": "🫀",
       "genres": [
         "Space",
-        "Sci-Fi",
         "Modern",
         "Fantasy",
+        "Medieval",
         "SciFi",
-        "Medieval"
+        "Sci-Fi"
       ],
       "discipline": "General",
       "path": "Universal",
@@ -51531,7 +55136,22 @@
         "Ship Office Fighter Pilot",
         "Ship Office Tactical",
         "Blackaxe Clan Skills",
-        "Calemora Skills"
+        "Calemora Skills",
+        "Warrior Skills",
+        "Cursed Spartan Skills",
+        "Bulwark Discipline",
+        "Bloodfang Berserker Skills",
+        "Inferno Vanguard Skills",
+        "Lifestealer Skills",
+        "Punk Skills",
+        "Blade Saint Skills",
+        "Restoration Discipline",
+        "Sun-Devoted Skills",
+        "Psionic Sentinel Skills",
+        "Giant Skills",
+        "Psychosomatics Skills",
+        "Destron Skills",
+        "Dragon Skills"
       ]
     },
     {
@@ -51539,10 +55159,10 @@
       "name": "Resist Poison",
       "attribute": "🫀",
       "genres": [
-        "Fantasy",
         "SciFi",
-        "Medieval",
-        "Modern"
+        "Modern",
+        "Fantasy",
+        "Medieval"
       ],
       "discipline": "Covert",
       "path": "Universal",
@@ -51553,7 +55173,12 @@
         "Dwarven Skills",
         "Spec Spy",
         "Spec Thief",
-        "Saurian Skills"
+        "Saurian Skills",
+        "Lifestealer Skills",
+        "Inner Peace Discipline",
+        "Shadow Kill Skills",
+        "Restoration Discipline",
+        "Verdant Sentinel Skills"
       ]
     },
     {
@@ -51561,6 +55186,9 @@
       "name": "Resist Poison (mso)",
       "attribute": "🫀",
       "genres": [
+        "Space",
+        "Modern",
+        "Sci-Fi",
         "SciFi"
       ],
       "discipline": "Covert",
@@ -51569,7 +55197,9 @@
       "created_at": "2026-09-05T23:12:07.946889+00:00",
       "owner": "Designer",
       "sets": [
-        "Spy"
+        "Spy",
+        "Bio-Warrior Skills",
+        "Mutak Skills"
       ]
     },
     {
@@ -51577,9 +55207,10 @@
       "name": "Resist Weather",
       "attribute": "🫀",
       "genres": [
-        "Medieval",
         "Modern",
-        "SciFi"
+        "Fantasy",
+        "SciFi",
+        "Medieval"
       ],
       "discipline": "General",
       "path": "Universal",
@@ -51590,7 +55221,10 @@
         "Druidic",
         "Mountaineering",
         "Orc Skills",
-        "Survival"
+        "Survival",
+        "Inferno Vanguard Skills",
+        "Sun-Devoted Skills",
+        "Elemental Discipline"
       ]
     },
     {
@@ -51637,6 +55271,9 @@
       "name": "Running (mso)",
       "attribute": "🏃",
       "genres": [
+        "Space",
+        "Modern",
+        "Sci-Fi",
         "SciFi"
       ],
       "discipline": "Physical",
@@ -51645,7 +55282,8 @@
       "created_at": "2026-09-05T23:12:08.03246+00:00",
       "owner": "Designer",
       "sets": [
-        "Athletic & Physical"
+        "Athletic & Physical",
+        "DHA Assault Discipline"
       ]
     },
     {
@@ -51671,6 +55309,9 @@
       "name": "Scanners (mso)",
       "attribute": "👁️",
       "genres": [
+        "Space",
+        "Modern",
+        "Sci-Fi",
         "SciFi"
       ],
       "discipline": "Tech",
@@ -51685,7 +55326,8 @@
         "Programmer",
         "Scientist",
         "Tactical",
-        "Vessel Operations"
+        "Vessel Operations",
+        "Starborn Ranger Skills"
       ]
     },
     {
@@ -51719,6 +55361,7 @@
       "name": "Scavenging",
       "attribute": "👁️",
       "genres": [
+        "Fantasy",
         "Medieval"
       ],
       "discipline": "General",
@@ -51727,7 +55370,8 @@
       "created_at": "2026-08-28T20:59:32.56794+00:00",
       "owner": "Designer",
       "sets": [
-        "Goblin Skills"
+        "Goblin Skills",
+        "Punk Skills"
       ]
     },
     {
@@ -51751,6 +55395,9 @@
       "name": "Sensors (mso)",
       "attribute": "👁️",
       "genres": [
+        "Space",
+        "Modern",
+        "Sci-Fi",
         "SciFi"
       ],
       "discipline": "Tech",
@@ -51764,7 +55411,8 @@
         "Helm",
         "Programmer",
         "Scientist",
-        "Tactical"
+        "Tactical",
+        "Starborn Ranger Skills"
       ]
     },
     {
@@ -51826,10 +55474,12 @@
       "name": "Siege Weaponry",
       "attribute": "👁️",
       "genres": [
+        "Space",
+        "Modern",
         "Fantasy",
-        "SciFi",
         "Medieval",
-        "Modern"
+        "SciFi",
+        "Sci-Fi"
       ],
       "discipline": "Martial",
       "path": "Universal",
@@ -51839,7 +55489,8 @@
       "sets": [
         "Engineering & Siegecraft",
         "Siegecraft",
-        "Blackaxe Clan Skills"
+        "Blackaxe Clan Skills",
+        "Destron Skills"
       ]
     },
     {
@@ -51902,14 +55553,18 @@
       "name": "Sorce Lore (mso)",
       "attribute": "👁️",
       "genres": [
-        "SciFi"
+        "Fantasy",
+        "SciFi",
+        "Medieval"
       ],
       "discipline": "Void Magic",
       "path": "Warlock (mso) {Free}",
       "notes": null,
       "created_at": "2026-09-05T23:12:08.03246+00:00",
       "owner": "Designer",
-      "sets": []
+      "sets": [
+        "Void Magic Skills"
+      ]
     },
     {
       "id": 587,
@@ -51935,10 +55590,10 @@
       "name": "Stealth",
       "attribute": "🏃",
       "genres": [
-        "Fantasy",
         "SciFi",
-        "Medieval",
-        "Modern"
+        "Modern",
+        "Fantasy",
+        "Medieval"
       ],
       "discipline": "Covert",
       "path": "Universal",
@@ -51956,7 +55611,8 @@
         "Thievery",
         "Thievery🎓",
         "Nelf Skills",
-        "Nymph Skills"
+        "Nymph Skills",
+        "Pixie Skills"
       ]
     },
     {
@@ -51987,6 +55643,7 @@
       "genres": [
         "Space",
         "Modern",
+        "Fantasy",
         "Medieval",
         "Sci-Fi"
       ],
@@ -51997,7 +55654,9 @@
       "owner": "Designer",
       "sets": [
         "Dwarven Skills",
-        "Calemora Skills"
+        "Calemora Skills",
+        "Geomancer Skills",
+        "Giant Skills"
       ]
     },
     {
@@ -52025,10 +55684,12 @@
       "name": "Structural Weakness",
       "attribute": "👁️",
       "genres": [
+        "Space",
+        "Modern",
         "Fantasy",
-        "SciFi",
         "Medieval",
-        "Modern"
+        "SciFi",
+        "Sci-Fi"
       ],
       "discipline": "General",
       "path": "Universal",
@@ -52038,7 +55699,10 @@
       "sets": [
         "Engineering & Siegecraft",
         "Siegecraft",
-        "Blackaxe Clan Skills"
+        "Blackaxe Clan Skills",
+        "Geomancer Skills",
+        "Giant Skills",
+        "Destron Skills"
       ]
     },
     {
@@ -52068,9 +55732,9 @@
       "attribute": "🫀",
       "genres": [
         "Space",
-        "SciFi",
         "Modern",
-        "Sci-Fi"
+        "Sci-Fi",
+        "SciFi"
       ],
       "discipline": "Physical",
       "path": "[\"Survivalist (mso)\", \"Marine (mso)\", \"Warrior (mso)\"]",
@@ -52079,7 +55743,8 @@
       "owner": "Designer",
       "sets": [
         "Survivalist",
-        "Kryll Skills"
+        "Kryll Skills",
+        "Mutak Skills"
       ]
     },
     {
@@ -52148,9 +55813,10 @@
       "name": "Talk to Air",
       "attribute": "👁️",
       "genres": [
-        "Medieval",
         "Modern",
-        "SciFi"
+        "Fantasy",
+        "SciFi",
+        "Medieval"
       ],
       "discipline": "Arcane",
       "path": "Core Skills",
@@ -52158,7 +55824,8 @@
       "created_at": "2026-09-27T18:03:33.696+00:00",
       "owner": "Designer",
       "sets": [
-        "Druidic"
+        "Druidic",
+        "Elemental Discipline"
       ]
     },
     {
@@ -52185,9 +55852,10 @@
       "name": "Talk To Plants",
       "attribute": "✨",
       "genres": [
-        "Medieval",
         "Modern",
-        "SciFi"
+        "Fantasy",
+        "SciFi",
+        "Medieval"
       ],
       "discipline": "General",
       "path": "Universal",
@@ -52195,7 +55863,8 @@
       "created_at": "2026-08-28T20:59:32.56794+00:00",
       "owner": "Designer",
       "sets": [
-        "Druidic"
+        "Druidic",
+        "Verdant Sentinel Skills"
       ]
     },
     {
@@ -52203,10 +55872,10 @@
       "name": "Taunt",
       "attribute": "👁️",
       "genres": [
-        "Fantasy",
         "SciFi",
-        "Medieval",
-        "Modern"
+        "Modern",
+        "Fantasy",
+        "Medieval"
       ],
       "discipline": "General",
       "path": "Universal",
@@ -52215,7 +55884,12 @@
       "owner": "Designer",
       "sets": [
         "Intimidation & Presence",
-        "Goblin Scrapper Skills"
+        "Goblin Scrapper Skills",
+        "Warrior Skills",
+        "Bulwark Discipline",
+        "Punk Skills",
+        "Misdirection Skills",
+        "Pixie Skills"
       ]
     },
     {
@@ -52224,9 +55898,9 @@
       "attribute": "👁️",
       "genres": [
         "Space",
-        "SciFi",
         "Modern",
-        "Sci-Fi"
+        "Sci-Fi",
+        "SciFi"
       ],
       "discipline": "Tech",
       "path": "Universal",
@@ -52234,7 +55908,8 @@
       "created_at": "2026-09-05T23:12:08.03246+00:00",
       "owner": "Designer",
       "sets": [
-        "Anthropos Skills"
+        "Anthropos Skills",
+        "Occult-Tech Discipline"
       ]
     },
     {
@@ -52242,9 +55917,10 @@
       "name": "Telepathy",
       "attribute": "✨",
       "genres": [
-        "Medieval",
         "Modern",
-        "SciFi"
+        "Fantasy",
+        "SciFi",
+        "Medieval"
       ],
       "discipline": "General",
       "path": "Universal",
@@ -52252,7 +55928,8 @@
       "created_at": "2026-08-28T20:59:32.56794+00:00",
       "owner": "Designer",
       "sets": [
-        "Mental Discipline"
+        "Mental Discipline",
+        "Psionics Skills"
       ]
     },
     {
@@ -52260,9 +55937,10 @@
       "name": "Theft",
       "attribute": "🏃",
       "genres": [
-        "Medieval",
         "Modern",
-        "SciFi"
+        "Fantasy",
+        "SciFi",
+        "Medieval"
       ],
       "discipline": "Covert",
       "path": "Universal",
@@ -52271,7 +55949,8 @@
       "owner": "Designer",
       "sets": [
         "Spec Spy",
-        "Spec Thief"
+        "Spec Thief",
+        "Misdirection Skills"
       ]
     },
     {
@@ -52297,7 +55976,9 @@
       "attribute": "💪",
       "genres": [
         "Modern",
-        "SciFi"
+        "Fantasy",
+        "SciFi",
+        "Medieval"
       ],
       "discipline": "Tech",
       "path": "Universal",
@@ -52305,7 +55986,8 @@
       "created_at": "2026-08-28T20:59:32.56794+00:00",
       "owner": "Designer",
       "sets": [
-        "Ship Office Engineering"
+        "Ship Office Engineering",
+        "Magnetic Discipline"
       ]
     },
     {
@@ -52313,6 +55995,9 @@
       "name": "Tight Grip (mso)",
       "attribute": "💪",
       "genres": [
+        "Space",
+        "Modern",
+        "Sci-Fi",
         "SciFi"
       ],
       "discipline": "Tech",
@@ -52322,7 +56007,8 @@
       "owner": "Designer",
       "sets": [
         "Engineer",
-        "Mechanic"
+        "Mechanic",
+        "Destron Skills"
       ]
     },
     {
@@ -52330,9 +56016,10 @@
       "name": "Tracking",
       "attribute": "🏃",
       "genres": [
-        "Medieval",
+        "SciFi",
         "Modern",
-        "SciFi"
+        "Fantasy",
+        "Medieval"
       ],
       "discipline": "Physical",
       "path": "Universal",
@@ -52342,7 +56029,9 @@
       "sets": [
         "Elven Skills",
         "Scout",
-        "Spec Survivalist"
+        "Spec Survivalist",
+        "Bloodfang Berserker Skills",
+        "Verdant Sentinel Skills"
       ]
     },
     {
@@ -52351,9 +56040,9 @@
       "attribute": "🏃",
       "genres": [
         "Space",
-        "SciFi",
         "Modern",
-        "Sci-Fi"
+        "Sci-Fi",
+        "SciFi"
       ],
       "discipline": "Physical",
       "path": "[\"Survivalist (mso)\", \"Warrior (mso)\"]",
@@ -52362,7 +56051,8 @@
       "owner": "Designer",
       "sets": [
         "Survivalist",
-        "Kryll Skills"
+        "Kryll Skills",
+        "Mutak Skills"
       ]
     },
     {
@@ -52371,7 +56061,9 @@
       "attribute": "💪",
       "genres": [
         "Modern",
-        "SciFi"
+        "Fantasy",
+        "SciFi",
+        "Medieval"
       ],
       "discipline": "Tech",
       "path": "Universal",
@@ -52380,7 +56072,8 @@
       "owner": "Designer",
       "sets": [
         "Ship Office Engineering",
-        "Ship Office Tech"
+        "Ship Office Tech",
+        "Magnetic Discipline"
       ]
     },
     {
@@ -52440,6 +56133,7 @@
       "name": "Underground Lore",
       "attribute": "👁️",
       "genres": [
+        "Fantasy",
         "Medieval"
       ],
       "discipline": "General",
@@ -52448,7 +56142,8 @@
       "created_at": "2026-08-28T20:59:32.56794+00:00",
       "owner": "Designer",
       "sets": [
-        "Dwarven Skills"
+        "Dwarven Skills",
+        "Geomancer Skills"
       ]
     },
     {
@@ -52456,6 +56151,9 @@
       "name": "Vehicle Gunner (mso)",
       "attribute": "👁️",
       "genres": [
+        "Space",
+        "Modern",
+        "Sci-Fi",
         "SciFi"
       ],
       "discipline": "Martial",
@@ -52464,7 +56162,10 @@
       "created_at": "2026-09-05T23:12:08.03246+00:00",
       "owner": "Designer",
       "sets": [
-        "Tactical"
+        "Tactical",
+        "Bio-Gunner Skills",
+        "Marine Skills",
+        "DHA Assault Discipline"
       ]
     },
     {
@@ -52555,6 +56256,9 @@
       "name": "Zero-Gravity (mso)",
       "attribute": "🏃",
       "genres": [
+        "Space",
+        "Modern",
+        "Sci-Fi",
         "SciFi"
       ],
       "discipline": "Tech",
@@ -52563,7 +56267,10 @@
       "created_at": "2026-09-05T23:12:07.946889+00:00",
       "owner": "Designer",
       "sets": [
-        "Engineer"
+        "Engineer",
+        "Starborn Ranger Skills",
+        "Cyber Warrior Skills",
+        "Marine Skills"
       ]
     }
   ],
