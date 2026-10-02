@@ -25,14 +25,6 @@
       "owner": "Designer"
     },
     {
-      "id": "ff39897f-f791-4ece-94ad-4b05d6066f2b",
-      "name": "Base",
-      "category": "Innate",
-      "description": "Baseline universal physical capabilities and natural weapon/unarmored proficiencies common to all characters.",
-      "created_at": "2026-09-09T17:23:09.993126+00:00",
-      "owner": "Designer"
-    },
-    {
       "id": "61371716-0eac-4096-997e-222dd8f0c917",
       "name": "Bio-Gunner (mso)",
       "category": "Class",
@@ -270,6 +262,14 @@
       "category": "Race",
       "description": "Lineage carrying ancient bloodlines and veiled psionic whispers.",
       "created_at": "2026-08-30T21:26:11.47748+00:00",
+      "owner": "Designer"
+    },
+    {
+      "id": "ff39897f-f791-4ece-94ad-4b05d6066f2b",
+      "name": "Innate",
+      "category": "Innate",
+      "description": "Baseline universal physical capabilities and natural weapon/unarmored proficiencies common to all characters.",
+      "created_at": "2026-09-09T17:23:09.993126+00:00",
       "owner": "Designer"
     },
     {
@@ -37908,7 +37908,7 @@
         "Core Skills",
         "Fairy",
         "Psychosomatics",
-        "Base"
+        "Innate"
       ]
     },
     {
@@ -38691,7 +38691,7 @@
         "Mutak (mso)",
         "Psionics - Sentinel",
         "Warrior - Bloodfang Berserker",
-        "Base"
+        "Innate"
       ]
     },
     {
@@ -51098,7 +51098,7 @@
         "Orc Weapons"
       ],
       "path": [
-        "Base",
+        "Innate",
         "Mutak (mso) {Free}"
       ]
     },
@@ -51125,7 +51125,7 @@
       ],
       "path": [
         "Archaic Weapons (mso)",
-        "Base",
+        "Innate",
         "Dragon (mso) {Free}",
         "Martial Artist (mso) {Free}"
       ]
@@ -52579,7 +52579,7 @@
         "Gnome Weapons"
       ],
       "path": [
-        "Base"
+        "Innate"
       ]
     },
     {
@@ -52602,7 +52602,7 @@
       "owner": "Designer",
       "sets": [],
       "path": [
-        "Base"
+        "Innate"
       ]
     },
     {
@@ -55027,7 +55027,7 @@
         "Healer Weapons"
       ],
       "path": [
-        "Base"
+        "Innate"
       ]
     },
     {
@@ -55062,7 +55062,7 @@
         "Nelf Weapons"
       ],
       "path": [
-        "Base"
+        "Innate"
       ]
     },
     {
@@ -55088,7 +55088,7 @@
       ],
       "path": [
         "Archaic Weapons (mso)",
-        "Base",
+        "Innate",
         "Tech Ranged Weapons (mso)"
       ]
     },
@@ -57645,7 +57645,7 @@
         "Psychosomatic Attire"
       ],
       "path": [
-        "Base",
+        "Innate",
         "Mutak (mso) {Free}"
       ]
     },
@@ -57668,7 +57668,7 @@
       "sets": [],
       "path": [
         "Archaic Armor (mso)",
-        "Base",
+        "Innate",
         "Mensi (mso) {Free}",
         "Warlock (mso) {Free}"
       ]

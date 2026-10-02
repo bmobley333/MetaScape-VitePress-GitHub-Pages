@@ -91,6 +91,9 @@ The complete SupaFlex game system is structured around the **Trinity of Mechanic
 
 :::
 <!-- /popover:gear -->
+
+:::
+<!-- /popover:gear -->
 <!-- /rule:gear -->
 
 ### 🏛️ The Gear Taxonomy & Lineage Hierarchy
@@ -807,6 +810,9 @@ Refilling Focus (The Flood):
 
 :::
 <!-- /popover:focus.basics -->
+
+:::
+<!-- /popover:focus.basics -->
 <!-- /rule:focus.basics -->
 
 Focus is a core PC resource represented by a single die on the same $d4 \rightarrow d6 \rightarrow d8 \rightarrow d10 \rightarrow d12$ step ladder as attributes.
@@ -853,6 +859,9 @@ Concept First: Any idea works — punk knight, techno-bard, gargoyle hero, soda 
 
 :::
 <!-- /popover:paths.basics -->
+
+:::
+<!-- /popover:paths.basics -->
 <!-- /rule:paths.basics -->
 
 <!-- @rule:traits anchor="#starting-paths-free-trait-grants" -->
@@ -867,6 +876,9 @@ Modular Capabilities & Inherent Traits:
 * Sheet Visibility — Use the KISS Pill Switch to toggle individual traits between Viewable (👁️) on your active character sheet or Hidden (🙈) for read-once passive background rules.
 * Affirmative Capabilities — There are NO flaw points or negative quirks in SupaFlex. All traits represent affirmative capabilities or balanced trade-offs.
 
+<!-- /popover:traits -->
+
+:::
 <!-- /popover:traits -->
 
 :::
@@ -1195,6 +1207,9 @@ Action:
 
 :::
 <!-- /popover:skills.basics -->
+
+:::
+<!-- /popover:skills.basics -->
 <!-- /rule:skills.basics -->
 
 ### 🎓 Skills
@@ -1338,6 +1353,9 @@ Reverse Finesse Shift (d4 Dmg ONLY):
 
 <!-- /popover:weapons.basics -->
 
+<!-- /popover:weapons.basics -->
+
+:::
 <!-- /popover:weapons.basics -->
 
 :::
@@ -1517,6 +1535,9 @@ Action:
 
 :::
 <!-- /popover:col.armor.ar -->
+
+:::
+<!-- /popover:col.armor.ar -->
 <!-- /rule:col.armor.ar -->
 
 ### 🛡️ Armor & Shield Requirements, Current-Stat Scaling & AP Refunding
@@ -1566,6 +1587,9 @@ Movement Rate (MR 👣) Penalty:
 
 <!-- /popover:col.shields.block -->
 
+<!-- /popover:col.shields.block -->
+
+:::
 <!-- /popover:col.shields.block -->
 
 :::
@@ -1652,6 +1676,9 @@ Bleeding:
 
 <!-- /popover:vitality.death_checks -->
 
+<!-- /popover:vitality.death_checks -->
+
+:::
 <!-- /popover:vitality.death_checks -->
 
 :::
@@ -1847,6 +1874,9 @@ The Luck Twist (Rule of 1):
 
 :::
 <!-- /popover:powers.basics -->
+
+:::
+<!-- /popover:powers.basics -->
 <!-- /rule:powers.basics -->
 
 ### 🔥 Powers & The Auto-Readied Power Card Architecture
@@ -1979,6 +2009,9 @@ Jumping Rules:
 
 <!-- /popover:movement_rate.basics -->
 
+<!-- /popover:movement_rate.basics -->
+
+:::
 <!-- /popover:movement_rate.basics -->
 
 :::
@@ -2196,6 +2229,9 @@ Learning & AP Costs:
 
 <!-- /popover:magic_items.basics -->
 
+<!-- /popover:magic_items.basics -->
+
+:::
 <!-- /popover:magic_items.basics -->
 
 :::
