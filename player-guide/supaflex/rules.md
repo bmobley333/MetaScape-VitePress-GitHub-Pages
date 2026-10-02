@@ -1255,7 +1255,7 @@ Heavy Weapon Shift (d6–d12 Dmg):
 Reverse Finesse Shift (d4 Dmg ONLY):
 * Shift Dmg ➔ Atk — If missing an Attack roll by ≤ 4, call Dmg Shift to convert the miss into a hit.
 * Damage Deduction — Subtract the miss shortfall directly from rolled Dmg (e.g. miss by 3 = -3 Dmg).
-* Wound Threshold — Max reverse shift is 4. If shifting results in ≤ 0, then Dmg is 0 (no wounds occur). A d4 Dmg roll can result in wounds only if the d4 Dmg die explodes.
+* Wound Threshold — Max reverse shift is 4. If shifting results in ≤ 0, then Dmg is 0 (no wounds occur).
 
 :::
 <!-- /popover:weapons.basics -->
@@ -2616,11 +2616,11 @@ Weapons with damage dice **d6 through d12** can shift excess Attack roll margin 
 Weapons with base damage **d4** (and ONLY d4 weapons, such as daggers, knuckles, and darts) can shift in the opposite direction.
 * **Desperate Finesse:** If a player misses an Attack roll by 4 or less, they can call a Dmg Shift to consider the attack a hit, but they must **subtract** that equivalent deficit from their rolled Damage.
 * **Example:** If an Attack roll is 17 vs. Defense 20 (missing by 3), the player calls Dmg Shift: the strike hits, but applies -3 to the Damage roll.
-* **Damage & Wounds Threshold:** The maximum d4 shift is 4. If shifting results in 0 or negative damage, then Dmg is 0 and nothing happens (no wounds occur). A d4 Dmg roll can result in wounds, but only if the d4 Dmg die explodes.
+* **Damage & Wounds Threshold:** The maximum d4 shift is 4. If shifting results in 0 or negative damage, then Dmg is 0 and nothing happens (no wounds occur).
 
 | Weapon Base Dmg Die | Max Shift Cap | Shift Direction | Core Rule Summary |
 | :---: | :---: | :---: | :--- |
-| **d4** | **4** | **Dmg ➔ Atk ONLY** | **Reverse Finesse:** Convert a miss by $\le 4$ into a hit; subtract deficit from Dmg. If shifting results in $\le 0$, then Dmg is 0 (no wounds occur). Wounds only if d4 explodes. |
+| **d4** | **4** | **Dmg ➔ Atk ONLY** | **Reverse Finesse:** Convert a miss by $\le 4$ into a hit; subtract deficit from Dmg. If shifting results in $\le 0$, then Dmg is 0 (no wounds occur). |
 | **d6** | **+1** | **Atk ➔ Dmg** | Excess Attack roll $\ge 1$ over Defense adds **+1 Dmg**. |
 | **d8** | **+2** | **Atk ➔ Dmg** | Excess Attack roll $\ge 1 \rightarrow$ +1 Dmg; excess $\ge 2 \rightarrow$ **+2 Dmg**. |
 | **d10** | **+3** | **Atk ➔ Dmg** | Excess Attack roll $\ge 1, 2, 3 \rightarrow$ up to **+3 Dmg**. |
