@@ -471,7 +471,7 @@ All Attributes are equally important. Mgt💪 is not inherently better than Mnd�
 
 All abilities and items show their governing Atr: Might💪, Motion🏃, Mind👁️, Magic✨, or Moxie🫀 that they provide a buff to or use as an ability roll.
 
-# 🔮 Focus Die
+# 🎯 Focus Die
 
 Focus is a core PC resource represented by a single die on the same d4→d6→d8→d10→d12 step ladder as attributes.
 
@@ -535,7 +535,7 @@ Adventuring Goal / Quest: Your character’s driving motivation.
 
 Assign 2x d4, 2x d6, 1x d8 across Might💪, Motion🏃, Mind👁️, Magic✨, and Moxie🫀.
 
-🔮 Starting Focus Die
+🎯 Starting Focus Die
 
 Character starts with a Focus Die sized at d4 (purchasable upgrades gated by level, see Advancement).
 

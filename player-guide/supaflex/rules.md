@@ -62,7 +62,9 @@ The complete SupaFlex game system is structured around the **Trinity of Mechanic
 
 <!-- @rule:gear anchor="#the-gear-taxonomy-lineage-hierarchy" -->
 <!-- @popover:gear -->
-::: details ⚡ Quick Reference: ⚙️ Quick Reference: Gear & Equipment Kits
+::: details ⚡ Quick Reference: Gear & Equipment Kits
+
+<!-- @popover:gear -->
 
 <!-- @popover:gear -->
 
@@ -75,6 +77,13 @@ The complete SupaFlex game system is structured around the **Trinity of Mechanic
 
 <!-- /popover:gear -->
 
+<!-- /popover:gear -->
+
+<!-- /popover:gear -->
+
+<!-- /popover:gear -->
+
+:::
 <!-- /popover:gear -->
 
 :::
@@ -770,12 +779,10 @@ Attribute shorthand in SupaFlex follows a strict, four-tier grammar standard acr
   Using archaic `=(✨)` or `_✨` confuses automated digital character sheet parsers and players, who mistake the equal sign for conditional trigger syntax (`Wnds = ...`) or dice roll formulas.
 
 <!-- @rule:focus.basics anchor="#focus-die" -->
-## 🔮 Focus Die
+## 🎯 Focus Die
 
 <!-- @popover:focus.basics -->
-::: details ⚡ Quick Reference: 🔮 Focus Die
-
-<!-- @popover:focus.basics -->
+::: details ⚡ Quick Reference: Focus Die Rules
 
 <!-- @popover:focus.basics -->
 
@@ -796,11 +803,6 @@ Refilling Focus (The Flood):
 * Full Round Action — Spend an entire combat round taking no other actions to "Flood" (+1 step up).
 * Full Rest — A full night's sleep completely restores your Focus Die to its maximum ceiling size.
 
-<!-- /popover:focus.basics -->
-
-<!-- /popover:focus.basics -->
-
-:::
 <!-- /popover:focus.basics -->
 
 :::
@@ -829,7 +831,7 @@ Full Rest: A full night's sleep resets the Focus Die to its purchased maximum.
 
 Focus vs. Luck (Strict Mutual Exclusivity): A player may use **Focus OR Luck** on a single roll, but **NEVER BOTH**.
 * **Luck (🍀):** Redo the whole roll (pure variance mitigation).
-* **Focus (🔮):** Add to the roll already made (deliberate agency/boost).
+* **Focus (🎯):** Add to the roll already made (deliberate agency/boost).
 
 ## 🧾 Character Creation
 
@@ -837,9 +839,7 @@ Concept First: Any idea works — punk knight, techno-bard, gargoyle hero, soda 
 
 <!-- @rule:paths.basics anchor="#starting-paths-free-trait-grants" -->
 <!-- @popover:paths.basics -->
-::: details ⚡ Quick Reference: 🧭 Quick Reference: Paths & Character Progression
-
-<!-- @popover:paths.basics -->
+::: details ⚡ Quick Reference: Paths & Character Progression
 
 <!-- @popover:paths.basics -->
 
@@ -851,20 +851,13 @@ Concept First: Any idea works — punk knight, techno-bard, gargoyle hero, soda 
 
 <!-- /popover:paths.basics -->
 
-<!-- /popover:paths.basics -->
-
-:::
-<!-- /popover:paths.basics -->
-
 :::
 <!-- /popover:paths.basics -->
 <!-- /rule:paths.basics -->
 
 <!-- @rule:traits anchor="#starting-paths-free-trait-grants" -->
 <!-- @popover:traits -->
-::: details ⚡ Quick Reference: 🧬 Quick Reference: Traits & Inherent Capabilities
-
-<!-- @popover:traits -->
+::: details ⚡ Quick Reference: Traits & Inherent Capabilities
 
 <!-- @popover:traits -->
 
@@ -874,11 +867,6 @@ Modular Capabilities & Inherent Traits:
 * Sheet Visibility — Use the KISS Pill Switch to toggle individual traits between Viewable (👁️) on your active character sheet or Hidden (🙈) for read-once passive background rules.
 * Affirmative Capabilities — There are NO flaw points or negative quirks in SupaFlex. All traits represent affirmative capabilities or balanced trade-offs.
 
-<!-- /popover:traits -->
-
-<!-- /popover:traits -->
-
-:::
 <!-- /popover:traits -->
 
 :::
@@ -906,7 +894,7 @@ Every character begins with two Learned Paths:
 
 Assign **1x d4, 2x d6, 2x d8** across Might💪, Motion🏃, Mind👁️, Magic✨, and Moxie🫀.
 
-🔮 Starting Focus Die
+🎯 Starting Focus Die
 
 Character starts with a Focus Die sized at **d4** (purchasable upgrades gated by level, see Advancement).
 
@@ -1175,7 +1163,9 @@ All choices require GM approval. The GM may veto or suggest alternatives if a ch
 ## 🎓 Skill and Skill Set Rules
 
 <!-- @popover:skills.basics -->
-::: details ⚡ Quick Reference: 🎓 Skill and Skill Set Rules
+::: details ⚡ Quick Reference: Skill and Skill Set Rules
+
+<!-- @popover:skills.basics -->
 
 <!-- @popover:skills.basics -->
 
@@ -1191,6 +1181,13 @@ Action:
 
 <!-- /popover:skills.basics -->
 
+<!-- /popover:skills.basics -->
+
+<!-- /popover:skills.basics -->
+
+<!-- /popover:skills.basics -->
+
+:::
 <!-- /popover:skills.basics -->
 
 :::
@@ -1284,7 +1281,9 @@ Sets are not exhaustive — the GM may approve additional related skills not lis
 ## ⚔️ Weapon Rules
 
 <!-- @popover:weapons.basics -->
-::: details ⚡ Quick Reference: ⚔️ Weapon Rules
+::: details ⚡ Quick Reference: Weapon Rules
+
+<!-- @popover:weapons.basics -->
 
 <!-- @popover:weapons.basics -->
 
@@ -1335,6 +1334,13 @@ Reverse Finesse Shift (d4 Dmg ONLY):
 
 <!-- /popover:weapons.basics -->
 
+<!-- /popover:weapons.basics -->
+
+<!-- /popover:weapons.basics -->
+
+<!-- /popover:weapons.basics -->
+
+:::
 <!-- /popover:weapons.basics -->
 
 :::
@@ -1481,6 +1487,8 @@ Note: This advantage does not exist when dual wielding or using Weapon & Shield
 
 <!-- @popover:col.armor.ar -->
 
+<!-- @popover:col.armor.ar -->
+
 Rolls:
 * Unskilled Armor — Unknown armor may be attempted as an Unskilled Dodge (1d20 + Dodge Die) and normal AR.
 * Skilled Armor — Skilled armor uses a Skilled Dodge (2H20 + Dodge Die) and normal AR.
@@ -1495,6 +1503,13 @@ Action:
 
 <!-- /popover:col.armor.ar -->
 
+<!-- /popover:col.armor.ar -->
+
+<!-- /popover:col.armor.ar -->
+
+<!-- /popover:col.armor.ar -->
+
+:::
 <!-- /popover:col.armor.ar -->
 
 :::
@@ -1525,6 +1540,8 @@ A character can become skilled in any Armor🧥 or Shield🛡️ whose attribute
 
 <!-- @popover:col.shields.block -->
 
+<!-- @popover:col.shields.block -->
+
 Rolls:
 * Unskilled Shield Block — Unknown shields may be attempted as an Unskilled Block (1d20 + Block Die).
 * Skilled Attacks — Known shields use a Skilled Block (2H20 + Block Die).
@@ -1545,6 +1562,13 @@ Movement Rate (MR 👣) Penalty:
 
 <!-- /popover:col.shields.block -->
 
+<!-- /popover:col.shields.block -->
+
+<!-- /popover:col.shields.block -->
+
+<!-- /popover:col.shields.block -->
+
+:::
 <!-- /popover:col.shields.block -->
 
 :::
@@ -1606,6 +1630,8 @@ Area and multi-attacks make separate Atk⚔️ and Dmg💥 rolls for each attack
 
 <!-- @popover:vitality.death_checks -->
 
+<!-- @popover:vitality.death_checks -->
+
 Unconsciousness & Dying:
 * Unconsciousness Condition — Unconscious if Current Vit is ≤ 0.
 * Death Check Trigger — When Current Vit is -1 or less, must immediately make a Death Check and make a Death Check each round on your nish, until Current Vit is no longer negative or you die.
@@ -1622,6 +1648,13 @@ Bleeding:
 
 <!-- /popover:vitality.death_checks -->
 
+<!-- /popover:vitality.death_checks -->
+
+<!-- /popover:vitality.death_checks -->
+
+<!-- /popover:vitality.death_checks -->
+
+:::
 <!-- /popover:vitality.death_checks -->
 
 :::
@@ -1771,6 +1804,8 @@ Day Rest (sleep/new Day📅): Regain 2d4 Vit❤️, resets all #-Day abilities.
 
 <!-- @popover:powers.basics -->
 
+<!-- @popover:powers.basics -->
+
 Auto-Readied Power Card:
 * Auto-Ready — All learned Powers are immediately active and readied on your character's Power Card. No rigid ready-slot buckets.
 * 4-Channel Action Economy — Round Action Pool = 1 Attack (A) + 1 Move (M) + 1 Partial (P) + Unlimited Free (F) actions (and hybrid AM).
@@ -1798,6 +1833,13 @@ The Luck Twist (Rule of 1):
 
 <!-- /popover:powers.basics -->
 
+<!-- /popover:powers.basics -->
+
+<!-- /popover:powers.basics -->
+
+<!-- /popover:powers.basics -->
+
+:::
 <!-- /popover:powers.basics -->
 
 :::
@@ -1913,7 +1955,9 @@ Every combat round, each character receives an action allocation of **1 Attack (
 
 <!-- @rule:movement_rate.basics anchor="#tactical-movement-the-mobile-striker-clause" -->
 <!-- @popover:movement_rate.basics -->
-::: details ⚡ Quick Reference: 👣 Quick Reference: Movement Rate (MR 👣) & Jumping Rules
+::: details ⚡ Quick Reference: Movement Rate (MR 👣) & Jumping Rules
+
+<!-- @popover:movement_rate.basics -->
 
 <!-- @popover:movement_rate.basics -->
 
@@ -1931,6 +1975,13 @@ Jumping Rules:
 
 <!-- /popover:movement_rate.basics -->
 
+<!-- /popover:movement_rate.basics -->
+
+<!-- /popover:movement_rate.basics -->
+
+<!-- /popover:movement_rate.basics -->
+
+:::
 <!-- /popover:movement_rate.basics -->
 
 :::
@@ -2107,7 +2158,7 @@ Cannot use more than once on a particular roll (no “second Luck🍀”).
 
 Focus vs. Luck (Strict Mutual Exclusivity): A player may use **Focus OR Luck** on a single roll, but **NEVER BOTH**.
 * **Luck (🍀):** Redo the whole roll (pure variance mitigation).
-* **Focus (🔮):** Add to the roll already made (deliberate agency/boost).
+* **Focus (🎯):** Add to the roll already made (deliberate agency/boost).
 
 Starting Luck🍀: 3 chits.
 
@@ -2119,7 +2170,9 @@ Other Uses: May be spent for special learned Luck Powers🔥 (e.g., Lucky Dodge
 ## 🧿 Exotics & The Lineage Hierarchy {#equipment-loadout}
 
 <!-- @popover:magic_items.basics -->
-::: details ⚡ Quick Reference: 🧿 Exotics & The Lineage Hierarchy {#equipment-loadout}
+::: details ⚡ Quick Reference: Exotics & The Lineage Hierarchy {#equipment-loadout}
+
+<!-- @popover:magic_items.basics -->
 
 <!-- @popover:magic_items.basics -->
 
@@ -2139,6 +2192,13 @@ Learning & AP Costs:
 
 <!-- /popover:magic_items.basics -->
 
+<!-- /popover:magic_items.basics -->
+
+<!-- /popover:magic_items.basics -->
+
+<!-- /popover:magic_items.basics -->
+
+:::
 <!-- /popover:magic_items.basics -->
 
 :::
