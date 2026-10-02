@@ -1245,6 +1245,18 @@ Blocking Melee:
 | **🛡️ Weapon & Shield** | **TIED UP** | Hold 1H weapon + Shield. Shield Block allowed. Utility tasks require a Partial (P) action. |
 | **🥊 Unarmed / Natural** | **FREE** | Brawling, punches, kicks, grabs, thrown objects. Cannot Block. Damage is -1 die step below Atr die (min d4). |
 
+<!-- tab: 💥 Dmg Shift (Opt) -->
+Heavy Weapon Shift (d6–d12 Dmg):
+* Shift Atk ➔ Dmg — Shift excess Attack roll over target Defense into + Dmg.
+* Max Shift by Die — d6: +1 | d8: +2 | d10: +3 | d12: +4 (d4: 0, cannot shift Atk to Dmg).
+* Example — With a d8 weapon, beating Defense by 1 adds +1 Dmg; beating by 2+ adds +2 Dmg.
+* Stacking — Dmg Shift stacks with everything.
+
+Reverse Finesse Shift (d4 Dmg ONLY):
+* Shift Dmg ➔ Atk — If missing an Attack roll by ≤ 4, call Dmg Shift to convert the miss into a hit.
+* Damage Deduction — Subtract the miss shortfall directly from rolled Dmg (e.g. miss by 3 = -3 Dmg).
+* Wound Threshold — Max reverse shift is 4. If shifting results in ≤ 0, then Dmg is 0 (no wounds occur). A d4 Dmg roll can result in wounds only if the d4 Dmg die explodes.
+
 :::
 <!-- /popover:weapons.basics -->
 
@@ -1604,7 +1616,7 @@ All Monsters (as a group).
 
 All PCs below Monster Initiative🚩.
 
-Nish Reward (Optional): In core standard rules, initiative strictly determines turn order. GMs wishing to reward swift reflexes may optionally use the +1 Nish Reward rule (see GM Tricks: Optional Rule - Fast Reflexes).
+Nish Reward (Optional): In core standard rules, initiative strictly determines turn order. GMs wishing to reward swift reflexes may optionally use the +1 Nish Reward rule (see Appendix B: Optional Rules — Fast Reflexes).
 
 Round Sequence:
 
@@ -1670,7 +1682,7 @@ SupaFlex adopts an **Auto-Readied Power Card** architecture. All learned powers 
 
 To maintain rock-solid mathematical balance, protect bounded accuracy, and prevent degenerate power creep:
 > **Exclusive Stacking Master Rule:**
-> 1. **Universal Stacking Exceptions:** The **optional +1 tactical bonus from beating ALL opponents' Initiative (if using the optional Fast Reflexes rule under GM Tricks, Nish 🚩)** and the **+1 bonus from holding a full Bolt (Full Bolt state ⚡)** stack with each other AND stack with nearly all other bonuses and rolls (subject to standard GM discretion).
+> 1. **Universal Stacking Exceptions:** The **optional +1 tactical bonus from beating ALL opponents' Initiative (if using the optional Fast Reflexes rule under Appendix B: Optional Rules, Nish 🚩)** and the **+1 bonus from holding a full Bolt (Full Bolt state ⚡)** stack with each other AND stack with nearly all other bonuses and rolls (subject to standard GM discretion).
 > 2. **Strict Default (NO STACKING):** ALL other bonuses, damage amplifiers, stat buffs, and tactical modifiers **DO NOT STACK** unless an ability explicitly states *"stacks with..."* or with explicit GM approval.
 > 3. **Highest Value Wins:** When two or more abilities, items, or situational factors grant competing modifiers or advantage/disadvantage to the same roll or trait, only the single highest value or best effect applies.
 
@@ -2186,12 +2198,9 @@ To keep Flex simple, the designers have gone out of their way to avoid effects t
 
 To keep Flex simple, the designers have also gone out of their way to avoid Usage past 3. So it is recommended to NOT allow an ability (Power or Artifact) to progress to 4-Day nor 4-Enc. If the GM decides to allow a Usage progression past 3-Day the next step should be 1-Enc and if the GM decides to allow Usage past 3-Enc, it should become 1-Rnd. That said, both of these steps are a considerable upgrade, especially the 1-Rnd. GM, think about such upgrades carefully and consider game balance.
 
-## Optional Rule: Fast Reflexes (+1 Nish Reward)
+## Fast Reflexes (+1 Nish Reward)
 
-When running combat encounters, the GM may optionally reward swift reflexes:
-* **Rule:** If a PC rolls higher than **ALL** monsters in the encounter on their Initiative (Nish 🚩) check, that PC gains a **+1 tactical bonus** on all rolls (Attacks, Defenses, Saves, Skills) until the monsters take their turn.
-* **Stacking:** Per the Exclusive Stacking Master Rule, this bonus stacks with the +1 bonus from holding a full Bolt (⚡), but only applies during the opening tempo before the monsters act.
-* **GM Guidance:** Recommended for heroic, high-energy campaigns where players invest heavily in Motion 🏃 or the Nish skill. For grittier campaigns or simplified table management, omit this bonus to keep monster threat flat.
+*(Optional Rule moved to [Appendix B: Optional Rules](#fast-reflexes-1-nish-reward).)*
 
 ## Nish Options
 
@@ -2579,5 +2588,52 @@ When abilities affect multiple squares or areas, use strict grid-friendly geomet
   * *Effect:* `Wnds = 🫀^🫀 or Poisoned 1 Wnd/Rnd.`
 * **Custom Power:** `Sorce Lance` | Action: `[A]` | Usage: `1-Enc` | Tier: `Class`
   * *Effect:* `Rng 3; Atk ✨ Dmg ✨+d6; Wnds = target pushed 2 sq.`
+
+---
+
+<!-- @rule:appendix.optional_rules anchor="#appendix-b-optional-rules" -->
+## 🎲 Appendix B: Optional Rules
+
+Appendix B codifies modular, optional rules that GMs may elect to introduce to enhance tactical depth, weapon differentiation, or combat momentum.
+
+### 💥 Damage Shift (Dmg Shift)
+
+Damage Shift is an optional weapon combat rule that allows large, heavy weapons to deliver devastating impact on accurate strikes, while granting light, agile weapons desperate finesse to turn near-misses into grazing hits.
+
+#### 1. Heavy Weapon Shift (Atk ➔ Dmg)
+Weapons with damage dice **d6 through d12** can shift excess Attack roll margin over target Defense into flat bonus Damage (+ Dmg).
+* **Max Shift Cap:** The maximum amount of Attack that can be shifted to Damage is strictly governed by the weapon's damage die:
+  * **d4:** 0 *(cannot shift Atk to Dmg; see Reverse Shift below)*
+  * **d6:** Max +1
+  * **d8:** Max +2
+  * **d10:** Max +3
+  * **d12:** Max +4
+  *(Max Shift = (Die Size - 4) / 2)*
+* **Resolution:** When an attack hits over target Defense, the player may convert excess attack margin up to the weapon's Max Shift into + Dmg. For example, with a d8 weapon (Max Shift 2): beating Defense by 1 adds +1 Dmg; beating Defense by 2 or more adds +2 Dmg.
+* **Stacking:** Dmg Shift stacks with everything.
+
+#### 2. Light Weapon Reverse Shift (Dmg ➔ Atk — d4 Weapons ONLY)
+Weapons with base damage **d4** (and ONLY d4 weapons, such as daggers, knuckles, and darts) can shift in the opposite direction.
+* **Desperate Finesse:** If a player misses an Attack roll by 4 or less, they can call a Dmg Shift to consider the attack a hit, but they must **subtract** that equivalent deficit from their rolled Damage.
+* **Example:** If an Attack roll is 17 vs. Defense 20 (missing by 3), the player calls Dmg Shift: the strike hits, but applies -3 to the Damage roll.
+* **Damage & Wounds Threshold:** The maximum d4 shift is 4. If shifting results in 0 or negative damage, then Dmg is 0 and nothing happens (no wounds occur). A d4 Dmg roll can result in wounds, but only if the d4 Dmg die explodes.
+
+| Weapon Base Dmg Die | Max Shift Cap | Shift Direction | Core Rule Summary |
+| :---: | :---: | :---: | :--- |
+| **d4** | **4** | **Dmg ➔ Atk ONLY** | **Reverse Finesse:** Convert a miss by $\le 4$ into a hit; subtract deficit from Dmg. If shifting results in $\le 0$, then Dmg is 0 (no wounds occur). Wounds only if d4 explodes. |
+| **d6** | **+1** | **Atk ➔ Dmg** | Excess Attack roll $\ge 1$ over Defense adds **+1 Dmg**. |
+| **d8** | **+2** | **Atk ➔ Dmg** | Excess Attack roll $\ge 1 \rightarrow$ +1 Dmg; excess $\ge 2 \rightarrow$ **+2 Dmg**. |
+| **d10** | **+3** | **Atk ➔ Dmg** | Excess Attack roll $\ge 1, 2, 3 \rightarrow$ up to **+3 Dmg**. |
+| **d12** | **+4** | **Atk ➔ Dmg** | Excess Attack roll $\ge 1, 2, 3, 4 \rightarrow$ up to **+4 Dmg**. |
+
+---
+
+### 🚩 Fast Reflexes (+1 Nish Reward)
+
+When running combat encounters, the GM may optionally reward swift reflexes:
+* **Rule:** If a PC rolls higher than **ALL** monsters in the encounter on their Initiative (Nish 🚩) check, that PC gains a **+1 tactical bonus** on all rolls (Attacks, Defenses, Saves, Skills) until the monsters take their turn.
+* **Stacking:** Per the Exclusive Stacking Master Rule, this bonus stacks with the +1 bonus from holding a full Bolt (⚡), but only applies during the opening tempo before the monsters act.
+* **GM Guidance:** Recommended for heroic, high-energy campaigns where players invest heavily in Motion 🏃 or the Nish skill. For grittier campaigns or simplified table management, omit this bonus to keep monster threat flat.
+<!-- /rule:appendix.optional_rules -->
 
 ---
