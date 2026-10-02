@@ -11,7 +11,7 @@ This document is the comprehensive player guide and rulebook for MetaScape Turbo
 *   **Fast:** Creation, advancement, and play stay quick; simplify when in doubt.
 *   **Open:** Any concept works with GM approval; avoid rigid class or build restrictions.
 *   **Inclusive:** Anyone can attempt weapons, armor, or skills; Powers⚡ must still be learned.
-*   **Tactical:** Choices such as Block🧱 vs Dodge🏃 should matter round to round.
+*   **Tactical:** Choices such as Block 🛡️ vs Dodge🏃 should matter round to round.
 *   **GM-Light:** GM sets difficulty and situational modifiers; players do all rolling except for GM Intensity die.
 *   **Unified:** Attributes and Tiers drive skills, combat, gear, and advancement.
 *   **Clean:** Emojis and labels stay easy to read. Track as little as possible beyond Vit❤️, Luck🍀, and explicit usage check boxes.

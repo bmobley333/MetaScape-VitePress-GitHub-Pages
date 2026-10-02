@@ -45,7 +45,7 @@ Monster stats place the emojis before key numbers or number sets as in:
 | Art🎨 | 🎨 |  | ✒️ | Writing & Communication✒️ |
 | Artifact💫 (Magic Item) | 💫 |  | ❤️ | Vit❤️ |
 | Atr✅ | ✅ |  | ⭐ | Level⭐ |
-| Block🧱 | 🛡️ |  | 💫 | Artifact💫 (Magic Item) |
+| Block 🛡️ | 🛡️ |  | 💫 | Artifact💫 (Magic Item) |
 | Camp Gear🏕️ | 🏕️ |  | 🌟 | Tremendous🌟 |
 | Clothing & Personal👕 | 👕 |  | 🍀 | Luck🍀 |
 | Combat ⚔️ | ⚔️ |  | 🍺 | Minor🍺(Magic Item) |
@@ -87,7 +87,7 @@ Monster stats place the emojis before key numbers or number sets as in:
 | Resist✨ | ✨ |  | 🧥 | Armor🧥 |
 | Save✨ | ✨ |  | 🛡️ | Weapon & Shield🛡️ |
 | Shields🛡️ | 🛡️ |  | 🛡️ | Shields🛡️ |
-| Single Weapon🗡️ | 🗡️ |  | 🛡️ | Block🧱 |
+| Single Weapon🗡️ | 🗡️ |  | 🛡️ | Block 🛡️ |
 | Skill Set🎓 | 🎓 |  | 🥊 | Natural Weapons🥊 |
 | Skill🎓 | 🎓 |  | 🥊 | Unarmed 🥊 |
 | Term📖 | 📖 |  | 💀 | Affliction💀 |
@@ -178,7 +178,7 @@ M/H/S (Melee, Hurled, Shot) – Shorthand for weapon types.
 
 Magic Item✨ – Magical items categorized as Minor🍺, Lesser🪄, Greater🪬, or Artifact💫.
 
-Max Block🧱 – The maximum monster damage a melee weapon or shield can block.
+Max Block 🛡️ – The maximum monster damage a melee weapon or shield can block.
 
 Mgt💪 (Might💪) – Attribute✅ for brute force, melee weapons Atk⚔️ and Dmg💥, armor size (Strength Saves), block Def, shields, physical strength, lifting
 
@@ -786,7 +786,7 @@ Weapon Atk = Might💪 (melee), Motion🏃 (hurled) or Mind👁️ (shot).
 
 If a weapon that has two Types (Me/Hu for Melee and Hurled), the weapon need only be learned once, but each type (Melee and Hurled) are separately recorded (use two lines on the character sheet’s weapon’s table.
 
-All weapon Dmg💥, except multi-attacks, may be uplifted. This applies ONLY to Dmg💥, not Block🧱.
+All weapon Dmg💥, except multi-attacks, may be uplifted. This applies ONLY to Dmg💥, not Block 🛡️.
 
 Uplifting raises a weapon’s Dmg💥 die up to the wielder’s relevant Atr✅.
 
@@ -854,7 +854,7 @@ Fighting with two one-handed weapons⚔️. Emphasizes speed and versatility.
 
 Rules:
 
-You may Block🧱 using the better weapon’s Block value.
+You may Block 🛡️ using the better weapon’s Block value.
 
 You may Atk⚔️ with either weapon, but only one Atk⚔️ per rnd unless a Power⚡ allows more attacks or you use the default Multi-Attack rules.
 
@@ -874,7 +874,7 @@ Utility tasks (opening doors, drinking potions, etc.) require one Partial (P) ac
 
 ## 🥊 Unarmed or Natural Weapons
 
-Natural weapons🥊 (Brawl and Throw Object) cannot Block🧱 and have no coin cost. They are Unskilled unless skill🎓 is taken in each one. Dmg💥 is rolled at –1d below the governing Atr✅ (minimum d4).
+Natural weapons🥊 (Brawl and Throw Object) cannot Block 🛡️ and have no coin cost. They are Unskilled unless skill🎓 is taken in each one. Dmg💥 is rolled at –1d below the governing Atr✅ (minimum d4).
 
 Brawl🥊 – Covers all natural attacks such as punch, kick, tackle, grab, throw, hold, etc. It also includes racial natural weapons such as claw, bite, or tail sweep.
 
@@ -900,17 +900,17 @@ Note: This advantage does not exist when dual wielding or using Weapon & Shield�
 
 ## 🛡️ Shields
 
-All Armor’s Defense (Dod/AR or Blk/AR): Dodge 🤸 = Motion🏃, Block 🧱 = Might💪.
+All Armor’s Defense (Dod/AR or Blk/AR): Dodge 🏃 = Motion🏃, Block 🛡️ = Might💪.
 
-Shields🛡️ provide a Max Block🧱 rating, which functions the same as weapon⚔️ Max Block (it applies if the shield’s Max Block🧱 is ≥ the monster’s Dmg💥).
+Shields🛡️ provide a Max Block 🛡️ rating, which functions the same as weapon⚔️ Max Block (it applies if the shield’s Max Block 🛡️ is ≥ the monster’s Dmg💥).
 
-The key advantage of shields🛡️ is that their Block🧱 is rolled at +1 die step above the Might💪 requirement. The tradeoff is reduced MR👣 and tying up your off-hand.
+The key advantage of shields🛡️ is that their Block 🛡️ is rolled at +1 die step above the Might💪 requirement. The tradeoff is reduced MR👣 and tying up your off-hand.
 
 MR👣 impact applies only when the shield🛡️ is wielded (drawn and readied).
 
 Small shields🛡️ (bucklers, bracers, vambraces) offer mobility and count as part of regular Armor🧥; they are not large enough to be considered true shields🛡️ in MetaScape.
 
-Large shields🛡️ provide greater Max Block🧱 protection but impose greater limits on mobility.
+Large shields🛡️ provide greater Max Block 🛡️ protection but impose greater limits on mobility.
 
 # ⚔️🛡️ Combat Sequence
 
@@ -948,7 +948,7 @@ Monster Declares Atk⚔️.
 
 Player Defense Roll: 2H20 + Atr✅ Die + Bonus using:
 
-Might💪 (Block🧱): if armed with equal/larger Max Block🧱 weapon⚔️ or shield🧱.
+Might💪 (Block 🛡️): if armed with equal/larger Max Block 🛡️ weapon⚔️ or shield🧱.
 
 Motion🏃 (Dodge): nearly always valid.
 
@@ -962,7 +962,7 @@ Beat Monster Atk⚔️ (10–24) → Avoid Dmg💥.
 
 If Defense Fails → Player Armor AR🧥: Roll armor die (d4–d12) and subtract result from Monster Dmg💥. The remainder = Wnd🩸. This armor die roll follows the Single Die Rule (single-explode capped) .
 
-Note the Block🧱die is never rolled in lieu of armor as the Block defense MISSED. Thus the blow has hit the character’s AR🧥.
+Note the Block 🛡️die is never rolled in lieu of armor as the Block defense MISSED. Thus the blow has hit the character’s AR🧥.
 
 Monsters also list a Fatigue Wnds🩸. If your AR🧥 results in less Wnds🩸 than the Fatigue Wnds🩸, the character suffers the indicated Fatigue Wnds🩸instead. Fatigue Wnds🩸do NOT trigger Afflictions if the AR🧥roll would have stopped ALL of the Dmg💥.
 
@@ -1158,7 +1158,7 @@ Drink a potion
 
 Examples of Free (F) Actions:
 
-All Def🛡️ rolls (Block🧱, Dodge🏃, AR🧥).
+All Def🛡️ rolls (Block 🛡️, Dodge🏃, AR🧥).
 
 Any Save or Resistance.
 
@@ -1305,7 +1305,7 @@ Select one of the many table sections below such as Weapons⚔️, Armor🧥, Ge
 
 | ⚔️ Weapons |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- |
-| d38 | Weapon | Type | Requirement | Max Block🧱 | Atk & Dmg💥 | Cost💰 |
+| d38 | Weapon | Type | Requirement | Max Block 🛡️ | Atk & Dmg💥 | Cost💰 |
 | 1 | Dagger | Me / Hu | Might💪 d4 / Motion🏃d4 | 🛡️8 | =Might💪 / =Motion🏃 | 5s |
 | 2 | Short Sword | Me | Might💪 d4 | 🛡️8 | =Might💪 | 1g |
 | 3 | Quarterstaff | Me | Might💪 d4 | 🛡️8 | =Might💪 | 1g |
@@ -1345,7 +1345,7 @@ Select one of the many table sections below such as Weapons⚔️, Armor🧥, Ge
 | 37 | Giant Maul | Me | Might💪 d12 | 🛡️24 | =Might💪 | 10g |
 | 38 | Siege Hammer | Me | Might💪 d12 | 🛡️24 | =Might💪 | 10g |
 | 🥊 Natural Weapons |  |  |  |  |  |  |
-| d2 | Weapon | Type | Requirement | Max Block🧱 | Atk & Dmg💥 | Cost💰 |
+| d2 | Weapon | Type | Requirement | Max Block 🛡️ | Atk & Dmg💥 | Cost💰 |
 | 1 | Brawl | Me | Might💪 d4 | X | =Might💪/Might💪-1d | X |
 | 3 | Improvised | Me | Might💪 d4 | 🛡️6 | =Might💪/Might💪-1d | X |
 | 4 | Throw Object | Hu | Motion💪 d4 | X | =Motion🏃/Motion🏃-1d | X |
@@ -1390,7 +1390,7 @@ Select one of the many table sections below such as Weapons⚔️, Armor🧥, Ge
 
 | 🛡️ Shields |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- |
-| d6 | Shield | Requirement | Max Block🧱 | MR👣 | Description | Cost💰 |
+| d6 | Shield | Requirement | Max Block 🛡️ | MR👣 | Description | Cost💰 |
 | 1 | Round Shield | Might💪 d4 | 🛡️12 | 👣0 | Mid-sized wooden shield, classic adventurer gear. | 2g |
 | 2 | Heater Shield | Might💪 d6 | 🛡️16 | 👣–1 | Iconic knight’s shield, shaped like an inverted triangle. | 3g |
 | 3 | Kite Shield | Might💪 d8 | 🛡️20 | 👣–2 | Long tapered shield, excellent for infantry formations. | 4g |
@@ -2498,7 +2498,7 @@ Because everyone rolls Nish every round, you will end up with a LOT of tremendou
 | 25 | Haste Pulse | All allies within 3 sq gain +1 Nish🚩 next round. |
 | 26 | Inspire Action | One ally gains an extra P action this round. |
 | 27 | Speed Echo | You gain and extra P action this round |
-| 28 | Deflect | If attacked; weapon/shield glints; Block🧱 with Advantage for 1 rnd |
+| 28 | Deflect | If attacked; weapon/shield glints; Block 🛡️ with Advantage for 1 rnd |
 | 29 | Dash First | Move before enemy group regardless of Nish🚩 order. |
 | 30 | Strike True | Add +1d to your next Atk roll this rnd. |
 | 31 | Step In Sync | Choose 1 ally of lower Nish🚩; both act simultaneously this round. |

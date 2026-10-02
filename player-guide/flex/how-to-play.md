@@ -37,7 +37,7 @@ Emojis🙂 are used in MetaScape for rapid identification of key stats and words
 | Art🎨 | 🎨 |  | ✒️ | Writing & Communication✒️ |
 | Artifact💫 (Magic Item) | 💫 |  | ❤️ | Vit❤️ |
 | Atr✅ | ✅ |  | ⭐ | Level⭐ |
-| Block🧱 | 🛡️ |  | 💫 | Artifact💫 (Magic Item) |
+| Block 🛡️ | 🛡️ |  | 💫 | Artifact💫 (Magic Item) |
 | Camp Gear🏕️ | 🏕️ |  | 🌟 | Tremendous🌟 |
 | Clothing & Personal👕 | 👕 |  | 🍀 | Luck🍀 |
 | Combat ⚔️ | ⚔️ |  | 🍺 | Minor🍺(Magic Item) |
@@ -79,7 +79,7 @@ Emojis🙂 are used in MetaScape for rapid identification of key stats and words
 | Resist✨ | ✨ |  | 🧥 | Armor🧥 |
 | Save✨ | ✨ |  | 🛡️ | Weapon & Shield🛡️ |
 | Shields🛡️ | 🛡️ |  | 🛡️ | Shields🛡️ |
-| Single Weapon🗡️ | 🗡️ |  | 🛡️ | Block🧱 |
+| Single Weapon🗡️ | 🗡️ |  | 🛡️ | Block 🛡️ |
 | Skill Set🎓 | 🎓 |  | 🥊 | Natural Weapons🥊 |
 | Skill🎓 | 🎓 |  | 🥊 | Unarmed 🥊 |
 | Term📖 | 📖 |  | 💀 | Affliction💀 |
@@ -141,7 +141,7 @@ This section serves as both the **abbreviation reference** and the **full word d
 * **Lvl⭐ (Level)** – A character’s level, equal to their total AP🧩.  
 * **M/H/S (Melee, Hurled, Shot)** – Shorthand for weapon types.  
 * **Magic Item✨** – Magical items categorized as Minor🍺, Lesser🪄, Greater🪬, or Artifact💫.  
-* **Max Block🧱** – The maximum monster damage a melee weapon or shield can block.  
+* **Max Block 🛡️** – The maximum monster damage a melee weapon or shield can block.  
 * **Mgt💪 (Might💪)** – Attribute✅ for brute force, melee weapons Atk⚔️ and Dmg💥, armor size (Strength Saves), block Def, shields, physical strength, lifting  
 * **Mot🏃 (Motion🏃)** – Attribute✅ for agility, Nish🚩, movement, hurled weapons Atk⚔️ and Dmg💥 (Reflex Saves), dodge, athletics, dexterity, balance, reflexes, sneaking, acrobatics  
 * **Mnd👁️ (Mind👁️ )** – Attribute✅ for logic, knowledge, shot weapons Atk⚔️ and Dmg💥, awareness (Mental Saves), intelligence, personality, wit, charm, persuade, reason, cunning, and mental presence. Governs insight👁️, deception, intimidation, persuasion  
@@ -572,7 +572,7 @@ When one PC helps another, the **narrative of how** is key. The GM may:
 
 * Weapon Atk \= Might💪 (melee),  Motion🏃 (hurled)  or Mind👁️ (shot).  
   * If a weapon that has two Types (Me/Hu for Melee and Hurled), the weapon need only be learned once, but each type (Melee and Hurled) are separately recorded (use two lines on the character sheet’s weapon’s table.  
-* All weapon Dmg💥, except multi-attacks, may be uplifted. This applies ONLY to Dmg💥, not Block🧱.  
+* All weapon Dmg💥, except multi-attacks, may be uplifted. This applies ONLY to Dmg💥, not Block 🛡️.  
 * Uplifting raises a weapon’s Dmg💥 die up to the wielder’s relevant Atr✅.  
   * **Example:** A dagger (d4) wielded by a character with Might💪 d8 deals Dmg💥 at d8 instead of d4.  
 * Multi-attack Dmg💥 dice are never uplifted.
@@ -625,7 +625,7 @@ There are four primary combat styles in MetaScape. By default, the core rules tr
 
 **Rules:**
 
-* You may Block🧱 using the better weapon’s Block value.  
+* You may Block 🛡️ using the better weapon’s Block value.  
 * You may Atk⚔️ with either weapon, but only one Atk⚔️ per rnd unless a Power⚡ allows more attacks or you use the default Multi-Attack rules.  
 * Two-handed weapons⚔️ cannot be dual wielded.  
 * Utility tasks (opening doors, drinking potions, etc.) require a Partial (P) action (sheath one weapon⚔️, perform the action, retrieve the weapon⚔️).
@@ -639,7 +639,7 @@ There are four primary combat styles in MetaScape. By default, the core rules tr
 
 ## **🥊 Unarmed or Natural Weapons**
 
-Natural weapons🥊 (Brawl and Throw Object) cannot Block🧱 and have no coin cost. They are Unskilled unless skill🎓 is taken in each one. Dmg💥 is rolled at –1d below the governing Atr✅ (minimum d4).
+Natural weapons🥊 (Brawl and Throw Object) cannot Block 🛡️ and have no coin cost. They are Unskilled unless skill🎓 is taken in each one. Dmg💥 is rolled at –1d below the governing Atr✅ (minimum d4).
 
 * **Brawl🥊** – Covers all natural attacks such as punch, kick, tackle, grab, throw, hold, etc. It also includes racial natural weapons such as claw, bite, or tail sweep.  
   * **Martial Arts🥋** – An advanced form Brawl🥊 provided through Martial Arts Powers⚡.  
@@ -660,12 +660,12 @@ Natural weapons🥊 (Brawl and Throw Object) cannot Block🧱 and have no coin c
 
 ## **🛡️ Shields**
 
-* All Armor’s Defense (Dod/AR or Blk/AR): Dodge 🤸 = Motion🏃, Block 🧱 = Might💪.  
-* Shields🛡️ provide a Max Block🧱 rating, which functions the same as weapon⚔️ Max Block (it applies if the shield’s Max Block🧱 is ≥ the monster’s Dmg💥).  
-* The key advantage of shields🛡️ is that their Block🧱 is rolled at \+1 die step above the Might💪 requirement. The tradeoff is reduced MR👣 and tying up your off-hand.  
+* All Armor’s Defense (Dod/AR or Blk/AR): Dodge 🏃 = Motion🏃, Block 🛡️ = Might💪.  
+* Shields🛡️ provide a Max Block 🛡️ rating, which functions the same as weapon⚔️ Max Block (it applies if the shield’s Max Block 🛡️ is ≥ the monster’s Dmg💥).  
+* The key advantage of shields🛡️ is that their Block 🛡️ is rolled at \+1 die step above the Might💪 requirement. The tradeoff is reduced MR👣 and tying up your off-hand.  
 * MR👣 impact applies only when the shield🛡️ is wielded (drawn and readied).  
 * Small shields🛡️ (bucklers, bracers, vambraces) offer mobility and count as part of regular Armor🧥; they are not large enough to be considered true shields🛡️ in MetaScape.  
-* Large shields🛡️ provide greater Max Block🧱 protection but impose greater limits on mobility.
+* Large shields🛡️ provide greater Max Block 🛡️ protection but impose greater limits on mobility.
 
 ---
 
@@ -697,13 +697,13 @@ Natural weapons🥊 (Brawl and Throw Object) cannot Block🧱 and have no coin c
 
 1. Monster Declares Atk⚔️.  
 2. Player Defense Roll: 2H20 \+ Atr✅ Die \+ Bonus using:  
-   * Might💪 (Block🧱): if armed with equal/larger Max Block🧱 weapon⚔️ or shield🧱.  
+   * Might💪 (Block 🛡️): if armed with equal/larger Max Block 🛡️ weapon⚔️ or shield🧱.  
    * Motion🏃 (Dodge): nearly always valid.  
    * Magic✨ (Resist): for undodgeable arcane/mystical effects (fire, acid, explosion, magical effects).  
    * Moxie🫀 (Resist): for bodily/stamina effects (poison, exhaustion, vitality, physical endurance).  
 3. Beat Monster Atk⚔️ (10–24) → Avoid Dmg💥.  
 4. If Defense Fails → Player Armor AR🧥: Roll armor die (d4–d12) and subtract result from Monster Dmg💥. The remainder \= Wnd🩸.  
-   * Note the Block🧱die is never rolled in lieu of armor as the Block defense MISSED. Thus the blow has hit the character’s AR🧥.  
+   * Note the Block 🛡️die is never rolled in lieu of armor as the Block defense MISSED. Thus the blow has hit the character’s AR🧥.  
    * Monsters also list a Fatigue Wnds🩸. If your AR🧥 results in less Wnds🩸 than the Fatigue Wnds🩸, the character suffers the indicated Fatigue Wnds🩸instead. Fatigue Wnds🩸do NOT trigger Afflictions if the AR🧥roll would have stopped ALL of the Dmg💥.  
 5. Apply Wnd🩸: Add to your total Wnd🩸.  
    * If Wnd🩸 ≥ Vit❤️ → you are unconscious.  
@@ -843,7 +843,7 @@ What an ability costs on your turn:
 
 **Examples of Free (F) Actions:**
 
-* All Def🛡️ rolls (Block🧱, Dodge🏃, AR🧥).  
+* All Def🛡️ rolls (Block 🛡️, Dodge🏃, AR🧥).  
 * Any Save or Resistance.  
 * GM-requested roll (e.g., GM asks for Awareness👁️).  
 * Face change.  
@@ -936,7 +936,7 @@ Select one of the many table sections below such as Weapons⚔️, Armor🧥, Ge
 
 | ⚔️ Weapons |  |  |  |  |  |  |
 | ----- | ----- | ----- | ----- | ----- | ----- | ----- |
-| **d38** | **Weapon** | **Type** | **Requirement** | **Max Block🧱** | **Atk & Dmg💥** | **Cost💰** |
+| **d38** | **Weapon** | **Type** | **Requirement** | **Max Block 🛡️** | **Atk & Dmg💥** | **Cost💰** |
 | 1 | Dagger | Me / Hu | Might💪 d4 / Motion🏃d4 | 🛡️8 | \=Might💪 / \=Motion🏃 | 5s |
 | 2 | Short Sword | Me | Might💪 d4 | 🛡️8 | \=Might💪 | 1g |
 | 3 | Quarterstaff | Me | Might💪 d4 | 🛡️8 | \=Might💪 | 1g |
@@ -977,7 +977,7 @@ Select one of the many table sections below such as Weapons⚔️, Armor🧥, Ge
 | 38 | Siege Hammer | Me | Might💪 d12 | 🛡️24 | \=Might💪 | 10g |
 |  |  |  |  |  |  |  |
 | **🥊 Natural Weapons** |  |  |  |  |  |  |
-| **d2** | **Weapon** | **Type** | **Requirement** | **Max Block🧱** | **Atk & Dmg💥** | **Cost💰** |
+| **d2** | **Weapon** | **Type** | **Requirement** | **Max Block 🛡️** | **Atk & Dmg💥** | **Cost💰** |
 | 1 | Brawl | Me | Might💪 d4 | X | \=Might💪/Might💪-1d | X |
 | 3 | Improvised | Me | Might💪 d4 | 🛡️6 | \=Might💪/Might💪-1d | X |
 | 4 | Throw Object | Hu | Motion💪 d4 | X | \=Motion🏃/Motion🏃-1d | X |
@@ -1023,7 +1023,7 @@ Select one of the many table sections below such as Weapons⚔️, Armor🧥, Ge
 
 | 🛡️ Shields |  |  |  |  |  |  |
 | :---: | ----- | :---: | :---: | :---: | ----- | :---: |
-| **d6** | **Shield** | **Requirement** | **Max Block🧱** | **MR👣** | **Description** | **Cost💰** |
+| **d6** | **Shield** | **Requirement** | **Max Block 🛡️** | **MR👣** | **Description** | **Cost💰** |
 | 1 | Round Shield | Might💪 d4 | 🛡️12 | 👣0 | Mid-sized wooden shield, classic adventurer gear. | 2g |
 | 2 | Heater Shield | Might💪 d6 | 🛡️16 | 👣–1 | Iconic knight’s shield, shaped like an inverted triangle. | 3g |
 | 3 | Kite Shield | Might💪 d8 | 🛡️20 | 👣–2 | Long tapered shield, excellent for infantry formations. | 4g |
@@ -1181,12 +1181,12 @@ Select one of the many sub-sets of powers such as Class👤, Race🧬, Combat St
 | 13 | 1-Enc | P | Herbal Poultice | Heal 1 Vit❤️ using herbs |
 | 14 | 1-Enc | P | Iron Body Meditation | Ignore Wnd🩸 penalties (Unconscious & Death Check) for 1 rnd |
 | 15 | 1-Enc | P | Lotus Focus | Gain Adv on next Atk⚔️ roll |
-| 16 | 1-Enc | F | Blade Parry | On being Melee Hit; auto succeed at a weapon a Block🧱 (up to Max Block of 12\) |
+| 16 | 1-Enc | F | Blade Parry | On being Melee Hit; auto succeed at a weapon a Block 🛡️ (up to Max Block of 12\) |
 | 17 | 1-Enc | F | Combat Stance Shift | Switch stance; Atk⚔️+1 or Def+1 until next rnd |
 | 18 | 1-Enc | F | Lotus Mantra | Rally allies; nearby gain Nish🚩+1 this rnd |
 | 19 | 1-Day | F | Monastic Vow | Gain Luck🍀+1 once per Day |
 | 20 | 1-Day | F | River Stone Patience | Reroll one failed roll (self or ally) |
-| 21 | 1-Enc | F | Steel Lotus Counter | After a successful Block🧱; make 1 immediate Atk⚔️ |
+| 21 | 1-Enc | F | Steel Lotus Counter | After a successful Block 🛡️; make 1 immediate Atk⚔️ |
 |  |  |  |  |  |
 | **🛡️ Cursed Spartan Powers** |  |  |  |  |
 | **d20** | **Usage** | **Action** | **Power** | **Effect** |
@@ -1199,7 +1199,7 @@ Select one of the many sub-sets of powers such as Class👤, Race🧬, Combat St
 | 7 | 1-Enc | A | Shield Ram | Roll shield Def as Atk at AR🧥+1 as Dmg💥 and Might💪 pushws target d4sq |
 | 8 | 2-Enc | A | Echo of the Fallen | On hit; summon spectral ally to auto-hit same target for d6 Dmg💥 |
 | 9 | 1-Rnd | M | Shield Wall | AR🧥+2 while holding position this rnd |
-| 10 | 1-Enc | M | Linebreaker | Move MR👣 through foes; each must Block🧱 (Might💪) or fall Prone |
+| 10 | 1-Enc | M | Linebreaker | Move MR👣 through foes; each must Block 🛡️ (Might💪) or fall Prone |
 | 11 | 1-Enc | M | Formation Rally | Move to ally; that ally heals 1 Vit❤️ |
 | 12 | 1-Rnd | P | Defensive Stance | Def+1 this rnd |
 | 13 | 2-Enc | P | Cursebrand Surge | Take 1 Dmg💥; Atk+2 this rnd |
@@ -1525,7 +1525,7 @@ Select one of the many sub-sets of powers such as Class👤, Race🧬, Combat St
 | 6 | 1-Enc | P | Guard’s Pragmatism | Choose Atk⚔️+1 or Def+1 for this rnd. |
 | 7 | 1-Enc | P | Orderly Bearing | Social Persuasion👁️ at Advantage with lawful authorities. |
 | 8 | 1-Enc | P | Peak-Bred Endurance | When you Heal, Heal self \+1 once per Enc. |
-| 9 | 1-Enc | P | Steady Hands | Reroll one failed Block🧱 or Dodge🏃 roll this rnd. |
+| 9 | 1-Enc | P | Steady Hands | Reroll one failed Block 🛡️ or Dodge🏃 roll this rnd. |
 | 10 | 1-Enc | P | Stoic Resolve | Resist✨ vs fear/charm with Advantage. |
 |  |  |  |  |  |
 | **🍃 Nelf Powers** |  |  |  |  |
@@ -1579,12 +1579,12 @@ Select one of the many sub-sets of powers such as Class👤, Race🧬, Combat St
 | 1 | 1-Enc | A | Cleaving Swing | On hit; deal half Dmg💥 to all adjacent foes with Def ≤ the Atk |
 | 2 | 2-Enc | A | Focused Strike | Atk+2; 1 Atk |
 | 3 | 3-Enc | A | Piercing Strike | This Atk ignores 1 AR🧥 (Dmg💥+1 if target has armor) |
-| 4 | 1-Rnd | M | Guarded Step | Move up to 3sq; attempt Block🧱 with weapon to aid ally |
+| 4 | 1-Rnd | M | Guarded Step | Move up to 3sq; attempt Block 🛡️ with weapon to aid ally |
 | 5 | 1-Enc | P | Defensive Flourish | Def+2 for 1 rnd |
 | 6 | 1-Rnd | P | Driving Attack | On hit; Might💪 to push target 1sq |
 | 7 | 1-Enc | P | Hurl King | Draw and throw 1 hurled weapon as second Atk/Dmg💥 |
 | 8 | 1-Enc | P | Master's Riposte | If foe misses you; get opportunity Atk; 1 roll per use |
-| 9 | 1-Enc | P | Measured Guard | Block🧱+1d this rnd |
+| 9 | 1-Enc | P | Measured Guard | Block 🛡️+1d this rnd |
 | 10 | 1-Rnd | P | Precision Cut | On hit; Dmg💥+1 |
 | 11 | 1-Enc | P | Weapon Control | On successful Atk; Motion🏃 disarms target |
 | 12 | 2-Enc | P | Weapon Mastery | If you attacked last rnd with same weapon; Atk+2 and Dmg💥+2 this rnd |
@@ -1601,12 +1601,12 @@ Select one of the many sub-sets of powers such as Class👤, Race🧬, Combat St
 | 4 | 1-Enc | A | Twin Threat | Make Atk with main-hand; if miss, immediately Atk with off-hand |
 | 5 | 2-Day | A | Whirling Dance | Make separate Atk & Dmg💥 rolls vs 2 adjacent foes |
 | 6 | 2-Enc | M | Duelist’s Dance | MR👣+1 this rnd as you weave between attacks |
-| 7 | 1-Enc | P | Cross Guard Riposte | On successful Block🧱; immediately make off-hand Opportunity Atk |
-| 8 | 1-Enc | P | Double Parry | All Block🧱s this round roll using both weapons and keep best |
-| 9 | 1-Rnd | P | Mirror Guard | Block🧱 with both weapons; Def+2 for 1 rnd |
+| 7 | 1-Enc | P | Cross Guard Riposte | On successful Block 🛡️; immediately make off-hand Opportunity Atk |
+| 8 | 1-Enc | P | Double Parry | All Block 🛡️s this round roll using both weapons and keep best |
+| 9 | 1-Rnd | P | Mirror Guard | Block 🛡️ with both weapons; Def+2 for 1 rnd |
 | 10 | 2-Enc | P | Off-Hand Feint | Distract with off-hand; main-hand Atk+2 |
 | 11 | 2-Enc | P | Paired Precision | Atk+2 if you attacked only with other weapon last rnd |
-| 12 | 1-Enc | P | Steel Net | Catch incoming blow between blades; Block🧱+1d this rnd |
+| 12 | 1-Enc | P | Steel Net | Catch incoming blow between blades; Block 🛡️+1d this rnd |
 | 13 | 1-Enc | F | Relentless Pressure | If you hit with both weapons in same rnd; Atk+1 for Encounter |
 | 14 | 1-Enc | F | Flowing Assault | After slaying a foe; immediately make off-hand Opportunity Atk |
 | 15 | 2-Enc | F | Ambidexterity | Sheath or draw 1 weapon; no P cost |
@@ -1617,15 +1617,15 @@ Select one of the many sub-sets of powers such as Class👤, Race🧬, Combat St
 | 2 | 1-Day | M | Shield Charge | Move up to MR👣; Might💪 vs Def. On success, deal d4 Dmg💥 and target is knocked Prone |
 | 3 | 2-Enc | P | Brace | Platn shield; AR🧥+1 for 1 rnd |
 | 4 | 2-Enc | P | Cover Ally | Adjacent Allies gain Def+2 for 1 rnd |
-| 5 | 1-Enc | P | Defender’s Focus | Gain Advantage on next Block🧱 roll |
+| 5 | 1-Enc | P | Defender’s Focus | Gain Advantage on next Block 🛡️ roll |
 | 6 | 1-Enc | P | Iron Bulwark | Allies directly behind you gain Def+2 for 1 rnd |
 | 7 | 1-Enc | P | Shield Hook | Your Def rolls vs one opponent have Advantage this round |
-| 8 | 1-Enc | P | Shield Riposte | On successful Block🧱; immediately make Opportunity Atk |
+| 8 | 1-Enc | P | Shield Riposte | On successful Block 🛡️; immediately make Opportunity Atk |
 | 9 | 2-Enc | P | Shield Shove | Might💪 to shove target d4sq |
 | 10 | 1-Rnd | P | Shield Wall | Def+1 for 1 rnd |
-| 11 | 1-Enc | P | Wall of Steel | Block🧱+1d this rnd; MR👣0 this rnd |
+| 11 | 1-Enc | P | Wall of Steel | Block 🛡️+1d this rnd; MR👣0 this rnd |
 | 12 | 2-Enc | P | Weapon & Board | If you hit with weapon last rnd; Atk+1 and Def+1 for 1 rnd |
-| 13 | 1-Day | F | Boomerang Block🧱 | Hurl shield to intercept Atk vs ally; roll Def normally, success \= total Block🧱 (no Dmg💥) |
+| 13 | 1-Day | F | Boomerang Block 🛡️ | Hurl shield to intercept Atk vs ally; roll Def normally, success \= total Block 🛡️ (no Dmg💥) |
 | 14 | 2-Enc | F | Counter Guard | If foe misses you; Atk+2 vs that target on your next Atk |
 | 15 | 1-Enc | F | Guard Swap | Swap weapon or stance; no P cost |
 |  |  |  |  |  |
@@ -1659,7 +1659,7 @@ Select one of the many sub-sets of powers such as Class👤, Race🧬, Combat St
 | **d9** | **Usage** | **Action** | **Name** | **Effect** |
 | 1 | 1-Luck🍀 | A | Wild Gambit | Your next roll has Advantage |
 | 2 | 1-Luck🍀 | P | Inspire Ally | Ally’s next roll has Advantage |
-| 3 | 1-Luck🍀 | P | Lucky Block🧱 | Block🧱 as if max roll, on 1 Atk |
+| 3 | 1-Luck🍀 | P | Lucky Block 🛡️ | Block 🛡️ as if max roll, on 1 Atk |
 | 4 | 1-Luck🍀 | P | Lucky Dodge | Avoid 1 incoming Atk |
 | 5 | 1-Luck🍀 | P | Second Wind | Heal self 1d6 |
 | 6 | 1-Luck🍀 | F | Fortunate Timing | take turn immediately even if before your Nish🚩 |
@@ -1747,7 +1747,7 @@ Select one of the many sub-sets of powers such as Class👤, Race🧬, Combat St
 | 26 | 1-Enc | P | Pebble of Echoes | Throw; creates illusory footsteps; bag auto fills |
 | 27 | 1-Day | P | Potion of Glimmer | Glow rainbow light for Encounter; auto refills |
 | 28 | 1-Day | P | Sunglow Brooch | Emit light 20ft radius, no shadows for Encounter |
-| 29 | 1-Enc | P | Umbrella of Defiance | Block🧱 at Max roll, all ranged Atks for 1 rnd |
+| 29 | 1-Enc | P | Umbrella of Defiance | Block 🛡️ at Max roll, all ranged Atks for 1 rnd |
 | 30 | 1-Enc | F | Bookmark of Memory | Recall last page perfectly |
 | 31 | 1-Day | F | Chime of Warning | Rings when danger is neAR🧥; lasts or Encounter |
 | 32 | 1-Day | F | Cursed Coin | Flip coin; Heads \= boon, Tails \= bane (GM🔎 decides results) |
@@ -2089,12 +2089,12 @@ This section includes personal Abilities and Magic Items✨ for specific charact
 | 13 | 1-Enc | P | Herbal Poultice | Heal 1 Vit❤️ using herbs |
 | 14 | 1-Enc | P | Iron Body Meditation | Ignore Wnd🩸 penalties (Unconscious & Death Check) for 1 rnd |
 | 15 | 1-Enc | P | Lotus Focus | Gain Adv on next Atk⚔️ roll |
-| 16 | 1-Enc | F | Blade Parry | On being Melee Hit; auto succeed at a weapon a Block🧱 (up to Max Block of 12\) |
+| 16 | 1-Enc | F | Blade Parry | On being Melee Hit; auto succeed at a weapon a Block 🛡️ (up to Max Block of 12\) |
 | 17 | 1-Enc | F | Combat Stance Shift | Switch stance; Atk⚔️+1 or Def+1 until next rnd |
 | 18 | 1-Enc | F | Lotus Mantra | Rally allies; nearby gain Nish🚩+1 this rnd |
 | 19 | 1-Day | F | Monastic Vow | Gain Luck🍀+1 once per Day |
 | 20 | 1-Day | F | River Stone Patience | Reroll one failed roll (self or ally) |
-| 21 | 1-Enc | F | Steel Lotus Counter | After a successful Block🧱; make 1 immediate Atk⚔️ |
+| 21 | 1-Enc | F | Steel Lotus Counter | After a successful Block 🛡️; make 1 immediate Atk⚔️ |
 |  |  |  |  |  |
 | **🍺 Minor Magic Items** |  |  |  |  |
 | **d1** | **Usage** | **Action** | **Name** | **Effect** |
@@ -2215,7 +2215,7 @@ This section includes personal Abilities and Magic Items✨ for specific charact
 | 6 | 1-Enc | P | Guard’s Pragmatism | Choose Atk⚔️+1 or Def+1 for this rnd. |
 | 7 | 1-Enc | P | Orderly Bearing | Social Persuasion👁️ at Advantage with lawful authorities. |
 | 8 | 1-Enc | P | Peak-Bred Endurance | When you Heal, Heal self \+1 once per Enc. |
-| 9 | 1-Enc | P | Steady Hands | Reroll one failed Block🧱 or Dodge🏃 roll this rnd. |
+| 9 | 1-Enc | P | Steady Hands | Reroll one failed Block 🛡️ or Dodge🏃 roll this rnd. |
 | 10 | 1-Enc | P | Stoic Resolve | Resist✨ vs fear/charm with Advantage. |
 |  |  |  |  |  |
 | **🍺 Minor Magic Items** |  |  |  |  |
@@ -2292,7 +2292,7 @@ This section includes personal Abilities and Magic Items✨ for specific charact
 | 7 | 1-Enc | A | Shield Ram | Roll shield Def as Atk at AR🧥+1 as Dmg💥 and Might💪 pushws target d4sq |
 | 8 | 2-Enc | A | Echo of the Fallen | On hit; summon spectral ally to auto-hit same target for d6 Dmg💥 |
 | 9 | 1-Rnd | M | Shield Wall | AR🧥+2 while holding position this rnd |
-| 10 | 1-Enc | M | Linebreaker | Move MR👣 through foes; each must Block🧱 (Might💪) or fall Prone |
+| 10 | 1-Enc | M | Linebreaker | Move MR👣 through foes; each must Block 🛡️ (Might💪) or fall Prone |
 | 11 | 1-Enc | M | Formation Rally | Move to ally; that ally heals 1 Vit❤️ |
 | 12 | 1-Rnd | P | Defensive Stance | Def+1 this rnd |
 | 13 | 2-Enc | P | Cursebrand Surge | Take 1 Dmg💥; Atk+2 this rnd |
@@ -2330,7 +2330,7 @@ This section includes personal Abilities and Magic Items✨ for specific charact
 | **🪬Greater Magic Item** |  |  |  |  |
 | **d2** | **Usage** |  | **Item** | **Effect** |
 | 1 | 1-Enc | M | The Wall (Bronze Shield of the Fallen) | Summon spectral shield wall; allies in 2sq gain AR🧥+2 for 1 rnd |
-| 2 | 1-Enc | P | The Wall (Bronze Shield of the Fallen) | Block🧱+2 for 1 rnd |
+| 2 | 1-Enc | P | The Wall (Bronze Shield of the Fallen) | Block 🛡️+2 for 1 rnd |
 
 # Jake
 
@@ -2341,7 +2341,7 @@ This section includes personal Abilities and Magic Items✨ for specific charact
 |  |  |  |  |  |
 | **🛡️ Class Powers – Shield Warrior (Gutrek)** |  |  |  |  |
 | **d20** | **Usage** | **Action** | **Power** | **Effect** |
-| 1 | 1-Enc | AM | Shield Rush | Move double MR👣; Atk with shield's Def; Dmg💥 uses shield's d(Block🧱)+2 |
+| 1 | 1-Enc | AM | Shield Rush | Move double MR👣; Atk with shield's Def; Dmg💥 uses shield's d(Block 🛡️)+2 |
 | 2 | 1-Enc | AM | Shield Break Line | Move through foes in 3sq; Might💪 or each is knocked Prone |
 | 3 | 1-Enc | A | Blackaxe Slam | Atk with shield (use Def as Atk); on hit, d4 Dmg💥 and Might💪 or target Stunned |
 | 4 | 2-Enc | A | Taunt of Stone | Mind👁️ or targets within 2sq must focus Atks on you |
@@ -2397,7 +2397,7 @@ This section includes personal Abilities and Magic Items✨ for specific charact
 |  |  |  |  |  |
 | **🛡️ Class Powers – Shield Warrior (Gutrek)** |  |  |  |  |
 | **d20** | **Usage** | **Action** | **Power** | **Effect** |
-| 1 | 1-Enc | AM | Shield Rush | Move double MR👣; Atk with shield's Def; Dmg💥 uses shield's d(Block🧱)+2 |
+| 1 | 1-Enc | AM | Shield Rush | Move double MR👣; Atk with shield's Def; Dmg💥 uses shield's d(Block 🛡️)+2 |
 | 2 | 1-Enc | AM | Shield Break Line | Move through foes in 3sq; Might💪 or each is knocked Prone |
 | 3 | 1-Enc | A | Blackaxe Slam | Atk with shield (use Def as Atk); on hit, d4 Dmg💥 and Might💪 or target Stunned |
 | 4 | 2-Enc | A | Taunt of Stone | Mind👁️ or targets within 2sq must focus Atks on you |
@@ -2719,7 +2719,7 @@ Because everyone rolls Nish every round, you will end up with a LOT of tremendou
 | 25 | Haste Pulse | All allies within 3 sq gain \+1 Nish🚩 next round. |
 | 26 | Inspire Action | One ally gains an extra P action this round. |
 | 27 | Speed Echo | You gain and extra P action this round |
-| 28 | Deflect | If attacked; weapon/shield glints; Block🧱 with Advantage for 1 rnd |
+| 28 | Deflect | If attacked; weapon/shield glints; Block 🛡️ with Advantage for 1 rnd |
 | 29 | Dash First | Move before enemy group regardless of Nish🚩 order. |
 | 30 | Strike True | Add \+1d to your next Atk roll this rnd. |
 | 31 | Step In Sync | Choose 1 ally of lower Nish🚩; both act simultaneously this round. |

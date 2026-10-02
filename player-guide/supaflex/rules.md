@@ -3,6 +3,7 @@ outline: 2
 ---
 
 # 🌌 SupaFlex Rules Manual
+<!-- Last updated: 2026-10-01 (Emoji Parity, 5-Attribute Standard ✨💪👁️🏃🫀 & Exotics Taxonomy Normalization) -->
 
 ## 🔝 Top of Rules
 
@@ -35,7 +36,7 @@ outline: 2
 The complete SupaFlex game system is structured around the **Trinity of Mechanics**:
 1. **Ownership (What you Know & Possess):** Intangible character capabilities (**Paths 🧭**) are unlocked with AP; tangible hardware packages (**Kits 📦**) are purchased with Currency (Gold / Silver) or found as treasure.
 2. **Execution (What you Do in Combat):** Governed by the 4-channel Action Economy ($1\text{ Attack [A]} + 1\text{ Move [M]} + 1\text{ Partial [P]} + \text{Unlimited Free [F]}$, with hybrid $\text{Attack \& Move [AM]}$) with **Auto-Readied Powers** on the active Power Card.
-3. **Capacity (What you Attune / Ready Simultaneously):** Tactical equipment abilities (**Gear Powers 🧿**) cost exactly **1 AP** to learn (with `Free ⭕` utilities costing 0 AP) and are rooted physically in owned host gear chassis and installed mods.
+3. **Capacity (What you Attune / Ready Simultaneously):** Tactical equipment abilities (**Exotics 🧿**) cost exactly **1 AP** to learn (with `Free ⭕` utilities costing 0 AP) and are rooted physically in owned host gear chassis and installed mods.
 
 ```text
                                   [ 🌟 ELEMENTS ]
@@ -50,12 +51,12 @@ The complete SupaFlex game system is structured around the **Trinity of Mechanic
          [ 🧠 ABILITIES ]                                 [ ⚙️ GEAR SHELVES ]
    ┌──────┬───────┼───────┬─────────┐      ┌────────────┬────────┬────────┬──────────┬──────────┐
    ▼      ▼       ▼       ▼         ▼      ▼            ▼        ▼        ▼          ▼          ▼
-  [ ATR ] [SKILL] [SKILLSET][POWERS] [SPEC] [🎒SUPPLIES] [⚔️WEAP] [🧥ARMOR] [🛡️SHIELDS] [🧿GEAR POWERS] [📦KITS]
+  [ ATR ] [SKILL] [SKILLSET][POWERS] [SPEC] [🎒SUPPLIES] [⚔️WEAP] [🧥ARMOR] [🛡️SHIELDS] [ 🧿 EXOTICS ] [📦KITS]
     (✅)    (🎓)      (🎓)    (🔥)     (📜)   (Mundane)   (Martial)(Defensive)(Block)   (Tactical) (Bundles)
                                               (0 Slots)   (0 Slots)(0 Slots)(0 Slots)  (1 AP)        (g/s)
                                                                                          │          │
                                                                                          ▼          ▼
-                                                                                  [ 🧿 GEAR POWERS ] [ 🔌 MODS ]
+                                                                                  [ 🧿 EXOTICS ] [ 🔌 MODS ]
                                                                                  [ (Artifacts & Gear) ] (Subordinate)
 ```
 
@@ -63,16 +64,16 @@ The complete SupaFlex game system is structured around the **Trinity of Mechanic
 
 | Entity | Contained Sub-Elements | Attributes & Scope |
 | :--- | :--- | :--- |
-| **Gear (`⚙️`)** | Supplies, Weapons, Armor, Shields, Gear Powers, Kits, Artifacts | Universal master category for all physical items, hardware, and equipment. |
-| **Supplies (`🎒`)** | Mundane Tools, Electronics, Consumables, Survival Gear | Baseline mundane adventuring equipment (0 Gear Power Slots, no attached Gear Power). Priced in $g / s$. |
-| **Weapons (`⚔️`)** | Melee, Ranged, Natural, Tech Weapons | Martial offensive hardware. Baseline 0 Gear Power Slots (unless equipped with a Gear Power/Mod). Priced in $g / s$. |
-| **Armor (`🧥`)** | Light, Medium, Heavy, Powered, Environmental | Protective combat hardware providing AR. Baseline 0 Gear Power Slots (unless equipped with a Gear Power/Mod). Priced in $g / s$. |
-| **Shields (`🛡️`)** | Bucklers, Medium Shields, Tower, Force Shields | Protective combat hardware providing Block. Baseline 0 Gear Power Slots (unless equipped with a Gear Power/Mod). Priced in $g / s$. |
-| **Gear Power (`🧿`)** | Tactical Gear Powers, Cyberware, Biotech, Tech Hardware, Artifact Relics | Actionable tactical abilities residing on physical gear or found as unpurchasable artifact treasure. Learned for 1 AP (Free ⭕ costs 0 AP) directly from owned host gear or installed mods. |
-| **Artifact (`🔮`)** | Gear Powers, Traits, Legendary Powers | Ancient, magical, or alien treasures possessing one or more Gear Powers (1 AP or inherent). Non-commercial market treasure (Cost = `"Artifact"`). Reserved for loot tables and discovery. |
-| **Mod (`🔌`)** | Gear Powers, Traits, Hardware Upgrades | Subordinate gear extension layer (NOT a top-level catalog category). Optional modification, module, or hardware attachment uniquely linked via `belongs_to` to parent gear (Weapons, Armor, Shields, Supplies). Carries a financial cost ($g/s$) unless standard factory equipment (`free Trait`). |
-| **Kit (`📦`)** | Supplies, Weapons, Armor, Shields, Gear Powers, Mods | Master pre-assembled gear package / hardware bundle. Has overall package cost (e.g. `45s`, `120g`). |
-| **Gear Power (`🧿`)** | *(Actionable Rules Execution)* | Tactical equipment ability nearly identical to a Power (`Action`, `Usage`, `Effect`). Costs 1 AP to learn (Free ⭕ costs 0 AP). NEVER carries a financial purchase cost ($0s$). Rooted physically in an owned host gear chassis or installed mod. Belongs to either a `Mod:` or `Gear:`. |
+| **Gear (`⚙️`)** | Supplies, Weapons, Armor, Shields, Exotics, Kits, Artifacts | Universal master category for all physical items, hardware, and equipment. |
+| **Supplies (`🎒`)** | Mundane Tools, Electronics, Consumables, Survival Gear | Baseline mundane adventuring equipment (0 Exotic Slots, no attached Exotic Power). Priced in $g / s$. |
+| **Weapons (`⚔️`)** | Melee, Ranged, Natural, Tech Weapons | Martial offensive hardware. Baseline 0 Exotic Slots (unless equipped with a Exotic Power/Mod). Priced in $g / s$. |
+| **Armor (`🧥`)** | Light, Medium, Heavy, Powered, Environmental | Protective combat hardware providing AR. Baseline 0 Exotic Slots (unless equipped with a Exotic Power/Mod). Priced in $g / s$. |
+| **Shields (`🛡️`)** | Bucklers, Medium Shields, Tower, Force Shields | Protective combat hardware providing Block. Baseline 0 Exotic Slots (unless equipped with a Exotic Power/Mod). Priced in $g / s$. |
+| **Exotic Power (`🧿`)** | Tactical Exotics, Cyberware, Biotech, Tech Hardware, Artifact Relics | Actionable tactical abilities residing on physical gear or found as unpurchasable artifact treasure. Learned for 1 AP (Free ⭕ costs 0 AP) directly from owned host gear or installed mods. |
+| **Artifact (`🔮`)** | Exotics, Traits, Legendary Powers | Ancient, magical, or alien treasures possessing one or more Exotics (1 AP or inherent). Non-commercial market treasure (Cost = `"Artifact"`). Reserved for loot tables and discovery. |
+| **Mod (`🔌`)** | Exotics, Traits, Hardware Upgrades | Subordinate gear extension layer (NOT a top-level catalog category). Optional modification, module, or hardware attachment uniquely linked via `belongs_to` to parent gear (Weapons, Armor, Shields, Supplies). Carries a financial cost ($g/s$) unless standard factory equipment (`free Trait`). |
+| **Kit (`📦`)** | Supplies, Weapons, Armor, Shields, Exotics, Mods | Master pre-assembled gear package / hardware bundle. Has overall package cost (e.g. `45s`, `120g`). |
+| **Exotic Power (`🧿`)** | *(Actionable Rules Execution)* | Tactical equipment ability nearly identical to a Power (`Action`, `Usage`, `Effect`). Costs 1 AP to learn (Free ⭕ costs 0 AP). NEVER carries a financial purchase cost ($0s$). Rooted physically in an owned host gear chassis or installed mod. Belongs to either a `Mod:` or `Gear:`. |
 | **Trait (`🧬`)** | *(Modular Traits & Physiological Boons)* | Innate biology, physiological boons, tactical modifications, or modular trait hooks queried from the `traits` database table. |
 | **System Rules (`📜`)** | *(Core Game Engine Mechanics)* | Overarching game system rules, core mechanics, combat economy, and resolution engine. |
 
@@ -80,13 +81,13 @@ The complete SupaFlex game system is structured around the **Trinity of Mechanic
 
 1. **🌟 Elements = 🧠 Abilities + ⚙️ Gear:**
    * **🧠 Abilities (Intangible Features):** Unlocked via AP and packaged into **Paths (`🧭`)**. Subdivided into **✅ Attributes**, **🎓 Skills**, **🎓 Skill Sets**, **🔥 Powers**, and **🧬 Traits**.
-   * **⚙️ Gear (Physical Items & Hardware):** Purchased with Gold / Silver or found as treasure. Subdivided into **🎒 Supplies** (mundane tools/consumables, 0 slots), **⚔️ Weapons**, **🧥 Armor**, **🛡️ Shields**, **🧿 Gear Powers** (tactical abilities on gear, 0–1 slots, including purchasable gear and unpurchasable artifacts), and **🔌 Mods** (subordinate modular attachments).
+   * **⚙️ Gear (Physical Items & Hardware):** Purchased with Gold / Silver or found as treasure. Subdivided into **🎒 Supplies** (mundane tools/consumables, 0 slots), **⚔️ Weapons**, **🧥 Armor**, **🛡️ Shields**, **🧿 Exotics** (tactical abilities on gear, 0–1 slots, including purchasable gear and unpurchasable artifacts), and **🔌 Mods** (subordinate modular attachments).
 
 2. **⚙️ The Dual-State Progression of Gear & Zero-Purgatory Invariant:**
-   * **Mundane Gear (`⚙️`):** Standard physical items readily available in the economy (0 Gear Power Slots, no attached Gear Power, cost in $g/s$).
-   * **Gear with Gear Powers (`⚙️`):** Any Gear that has an actionable tactical **Gear Power (`🧿`)**. This encompasses both purchasable gear and unique Artifact treasures. Gear Power Slots (0–1) are only consumed when a Gear Power is actively installed and readied on the character sheet (`Free ⭕` costs 0 slots, standard costs 1 slot).
-   * **Artifact (`🔮`):** Legendary or unique treasures possessing one or more **Gear Powers (`🧿`)** (occupying 0–1 Gear Power Slots, cost = `"Artifact"`).
-   * **Mod Reversion & Detachment:** If an item has its Gear Powers or Mods detached or removed, it reverts to standard baseline Gear. A Mod has no standalone utility or market existence apart from its host gear.
+   * **Mundane Gear (`⚙️`):** Standard physical items readily available in the economy (0 Exotic Slots, no attached Exotic Power, cost in $g/s$).
+   * **Gear with Exotics (`⚙️`):** Any Gear that has an actionable tactical **Exotic Power (`🧿`)**. This encompasses both purchasable gear and unique Artifact treasures. Exotic Slots (0–1) are only consumed when a Exotic Power is actively installed and readied on the character sheet (`Free ⭕` costs 0 slots, standard costs 1 slot).
+   * **Artifact (`🔮`):** Legendary or unique treasures possessing one or more **Exotics (`🧿`)** (occupying 0–1 Exotic Slots, cost = `"Artifact"`).
+   * **Mod Reversion & Detachment:** If an item has its Exotics or Mods detached or removed, it reverts to standard baseline Gear. A Mod has no standalone utility or market existence apart from its host gear.
    * **Commercial Non-Purchasability of Artifacts:** Any item carrying `cost: "Artifact"` is strictly excluded from commercial retail catalogs and store purchases. Artifacts are acquired exclusively through discovery, GM rewards, and loot tables.
 
 3. **🧭 Paths vs. 📦 Kits Taxonomy:**
@@ -102,21 +103,21 @@ The complete SupaFlex game system is structured around the **Trinity of Mechanic
 
 4. **⚔️ Weapons, 🧥 Armor, and 🛡️ Shields as Gear:**
    * Weapons, Armor, and Shields are all categories of **Gear (`⚙️`)**.
-   * Standard weapons, armor, and shields are baseline **Gear (`⚙️`)** (0 Gear Power Slots). Specialized, high-tech, or enchanted versions have **Gear Powers (`🧿`)** (occupying 0–1 Gear Power Slots) or can accept **Mods (`🔌`)**.
+   * Standard weapons, armor, and shields are baseline **Gear (`⚙️`)** (0 Exotic Slots). Specialized, high-tech, or enchanted versions have **Exotics (`🧿`)** (occupying 0–1 Exotic Slots) or can accept **Mods (`🔌`)**.
    * **Default Gear Possession Rule:** When a character learns or becomes skilled in a new weapon, armor, or shield (via starting Path or AP advancement), the default system rule is that they are assumed to possess the physical item as standard Gear (`⚙️`) (unless the GM determines otherwise based on campaign tone and narrative context).
 
-5. **🔌 Mods vs. 🧿 Gear Powers Canonical Invariants:**
+5. **🔌 Mods vs. 🧿 Exotics Canonical Invariants:**
    * **Mods (`🔌`) = Subordinate Hardware Attachment Layer:**
      * *Subordinate & Modular:* Represents an optional module, aftermarket installation, or physical hardware upgrade linked via `belongs_to`. Does not exist as a standalone catalog shelf.
      * *Market Commerce:* Carries a financial purchase cost ($g/s$), unless factory-installed as standard equipment on a specific suit or chassis (`free Trait`).
-     * *Mundane Specs:* Houses non-tactical, descriptive, or mechanical notes that do not belong on the base chassis and do not consume combat Gear Power Slots (e.g. *Microgrenade Fitting*, *Compensators*, *Macro Zoom*).
+     * *Mundane Specs:* Houses non-tactical, descriptive, or mechanical notes that do not belong on the base chassis and do not consume combat Exotic Slots (e.g. *Microgrenade Fitting*, *Compensators*, *Macro Zoom*).
      * *Parentage:* Always belongs to one or more Gear items via `belongs_to: "Gear: [Item]"`, `belongs_to: "Weapon: [Name]"`, or `belongs_to: "Armor: [Suit]"`.
-   * **Gear Powers (`🧿`) = Rules-Engine Execution & Slot Bandwidth Layer:**
-     * *Combat Rules Execution:* Actionable encounter abilities (`Action`, `Usage`, `Effect`) nearly identical to Powers, drawn from Gear Power Slots (`Free ⭕ 0 Slots`, Standard `1 Slot`).
+   * **Exotics (`🧿`) = Rules-Engine Execution & Slot Bandwidth Layer:**
+     * *Combat Rules Execution:* Actionable encounter abilities (`Action`, `Usage`, `Effect`) nearly identical to Powers, drawn from Exotic Slots (`Free ⭕ 0 Slots`, Standard `1 Slot`).
      * *Zero Financial Cost:* NEVER carries a financial cost ($g/s$). The `cost` column is permanently eliminated from databases and spreadsheets.
-     * *Universally Free:* Possessing the granting Gear or Mod automatically unlocks the Gear Power. The `free Trait` tag is redundant on Gear Powers and is stripped.
+     * *Universally Free:* Possessing the granting Gear or Mod automatically unlocks the Exotic Power. The `free Trait` tag is redundant on Exotics and is stripped.
      * *Binary Slot Weight (Strict DRY):* The database and sheets exclusively store canonical `tier` (`Free ⭕` or empty/NULL for standard). Numeric slot weight (0 for Free ⭕, 1 for standard) is derived dynamically at runtime via `getTierSlotWeight()`.
-     * *Clean Single Parentage:* A Gear Power belongs to EITHER a Mod (`belongs_to: "Mod: [ModName]"`) OR directly to Gear (`belongs_to: "Gear: [ItemName]"`) — NEVER both. If an item has a Mod, the Gear Power links to the Mod, and the Mod links to the Gear.
+     * *Clean Single Parentage:* A Exotic Power belongs to EITHER a Mod (`belongs_to: "Mod: [ModName]"`) OR directly to Gear (`belongs_to: "Gear: [ItemName]"`) — NEVER both. If an item has a Mod, the Exotic Power links to the Mod, and the Mod links to the Gear.
       * *UI Presentation (Exotic Gear Card & Manager):* On the character sheet, the card is titled **"Exotic Gear"** and managed via **"Exotic Gear Manager"**. Gear items render as compact, popping glassmorphic pill buttons (`w-fit` with Cyan Exotic glow) ending immediately with the chevron. Unlearned empty inherent chassis items are excluded from the card. When expanded, a continuous vertical cyan guide line drops from the center of the gear item (`ml-8 sm:ml-9`) across all of its mods (rendered in warm amber monospace text with zero leading emojis, and `ℹ️` only if notes exist). Under each mod, power cards are cleanly indented with their left border positioned beneath the 3rd letter of the mod header, rendering identically to the `My Powers` layout with Column 1 narrowed to absorb the left indent.
 
 6. **🌐 Equipment Domains & Single-Domain Database Invariant (The Living Triad):**
@@ -226,11 +227,11 @@ Monster stats place the emojis before key numbers or number sets as in:
 | Emoji🙂 | 🙂 |
 | Entertainment & Instruments🎵 | 🎵 |
 | Equipment🧰 (Legacy Synonym for Gear) | 🧰 |
-| Free Utility ⭕ (0 Slots • Gear Power) | ⭕ |
+| Free Utility ⭕ (0 Slots • Exotic Power) | ⭕ |
 | Food & Drink🥖 | 🥖 |
 | Gear⚙️ (Universal Physical Items) | ⚙️ |
-| Gear Power Slots🧿 | 🧿 |
-| Gear Powers🧿 | 🧿 |
+| Exotic Slots🧿 | 🧿 |
+| Exotics🧿 | 🧿 |
 | GM🔎 | 🔎 |
 | Hazard💀 | 💀 |
 | Junk🗑️ | 🗑️ |
@@ -305,7 +306,7 @@ AP🧩 (Adventure Point) – Earned progression currency spent to unlock Paths�
 
 AR🧥 (Armor Rating) / Armor🧥 – Equipment🧰 worn to absorb damage. Defense is always Dod/AR or Blk/AR; armor is the AR part. Standard armor is mundane Gear⚙️ (0 loadout slots); high-tier, specialized, or enchanted suits exist as Exotics🧿 or Artifacts🔮 (1–4 loadout slots). When learned, characters are assumed to possess the item as Gear⚙️ by default.
 
-Artifact🔮 (Legendary / Unique Magical Gear) – Exceptionally rare, unique, or priceless magical items—such as ancient monoliths, divine masterworks, or arcane foci—that exist outside the standard economy, cannot be normally purchased or manufactured, and carry a cost of "Artifact". Possesses one or more actionable Gear Powers🧿 occupying 0 (Free ⭕) or 1 (Standard) Gear Power Slot. Inactive artifacts reside in the Gear Powers Vault🏺.
+Artifact🔮 (Legendary / Unique Magical Gear) – Exceptionally rare, unique, or priceless magical items—such as ancient monoliths, divine masterworks, or arcane foci—that exist outside the standard economy, cannot be normally purchased or manufactured, and carry a cost of "Artifact". Possesses one or more actionable Exotics🧿 occupying 0 (Free ⭕) or 1 (Standard) Exotic Power Slot. Inactive artifacts reside in the Exotics Vault🏺.
 
 Atk (Attack) – Any offensive roll or strike made with a weapon, power🔥, or ability.
 
@@ -313,7 +314,7 @@ Atr✅ (Attribute) – The five core attributes: Might💪, Motion🏃, Mind�
 
 Auto-Readied Powers – All learned powers are immediately active and readied on the character's Power Card without requiring categorization into rigid ready-slot buckets.
 
-Block Cap🧱 – The maximum monster damage a melee weapon or shield can block.
+Block Cap🛡️ – The maximum monster damage a melee weapon or shield can block.
 
 Critical💀 – A natural 1 on any d20 in an ability roll.
 
@@ -329,7 +330,7 @@ Dis (Disadvantage) – Roll one fewer d20 (or 2L20 if unskilled) during an abil
 
 Dmg (Damage) – The raw amount of harm caused by an attack or ability.
 
-Effect – The outcome of using an ability, gear power, exotic, or artifact.
+Effect – The outcome of using an ability, exotic power, exotic, or artifact.
 
 Element(s)🌟 – The universal parent category encompassing every physical item and non-physical feature in the game (ALL Gear⚙️ and ALL Abilities🧠).
 
@@ -347,9 +348,9 @@ Fatigue – A minimal amount of Wnds🩸 a PC suffers IF HIT by a monster regard
 
 Focus Die – A core resource die (d4–d12) that can be spent once per roll after seeing the result, stepping down when used ($d12 \rightarrow d10 \rightarrow d8 \rightarrow d6 \rightarrow d4 \rightarrow \text{Exhausted}$) and stepping up on Flood triggers.
 
-Gear Power Slots🧿 – The universal capacity pool (Base 5 Slots at Level 1) governing how many Gear Powers🧿 a character can actively ready simultaneously. Expands via Blake's uncapped flat schedule at 1 AP per additional slot.
+Exotic Slots🧿 – The universal capacity pool (Base 5 Slots at Level 1) governing how many Exotics🧿 a character can actively ready simultaneously. Expands via Blake's uncapped flat schedule at 1 AP per additional slot.
 
-Gear Powers🧿 – Actionable equipment-derived abilities (`Action`, `Usage`, `Effect`) originating from Gear⚙️, Artifacts🔮, or Mods🔌 that occupy Gear Power Slots🧿 on the character sheet (0 for Free ⭕ utilities, 1 for standard gear powers). Incur zero financial cost ($0s$) and are universally free once the parent item/mod is owned. Inactive gear powers rest in the Gear Powers Vault🏺.
+Exotics🧿 – Actionable equipment-derived abilities (`Action`, `Usage`, `Effect`) originating from Gear⚙️, Artifacts🔮, or Mods🔌 that occupy Exotic Slots🧿 on the character sheet (0 for Free ⭕ utilities, 1 for standard exotics). Incur zero financial cost ($0s$) and are universally free once the parent item/mod is owned. Inactive exotics rest in the Exotics Vault🏺.
 
 g / gp (Gold Piece) – Primary gold currency; 100 silver (s) = 1 gold (g).
 
@@ -377,7 +378,7 @@ M/H/S (Melee, Hurled, Shot) – Shorthand for weapon types.
 
 Artifact🔮 / Artifacts🔮 – Powerful, enchanted, or legendary relics discovered as quest or treasure loot that cannot simply be bought in a store. Occupies 1 Loadout Slot when actively attuned on the character sheet.
 
-Mod(s)🔌 – Named modular modifications, hardware attachments, or enchantments (e.g. *Joint Locks*, *Flood Lights*, *Undead Slayer Coating*) belonging to Gear that grant Gear Powers🧿 or Traits🧬.
+Mod(s)🔌 – Named modular modifications, hardware attachments, or enchantments (e.g. *Joint Locks*, *Flood Lights*, *Undead Slayer Coating*) belonging to Gear that grant Exotics🧿 or Traits🧬.
 
 Spec Gear🚀 – High-tier, military-specification, or commissioned Exotics carrying a commercial or commission price tag in gold or silver ($g / s$).
 
@@ -688,7 +689,7 @@ All abilities and items show their governing Atr: Might💪, Motion🏃, Mind�
 
 ### 📜 Attribute Notation Grammar in Effects & Mechanics
 
-Attribute shorthand in SupaFlex follows a strict, four-tier grammar standard across powers, gear powers, items, and combat mechanics. This eliminates ambiguity between making an ability roll, rolling flat dice, or checking an exact static score.
+Attribute shorthand in SupaFlex follows a strict, four-tier grammar standard across powers, exotics, items, and combat mechanics. This eliminates ambiguity between making an ability roll, rolling flat dice, or checking an exact static score.
 
 #### 📊 Quick Reference Matrix
 
@@ -833,9 +834,9 @@ Vit❤️: 10 + 1d(Moxie🫀) (e.g., Moxie d8 = 5+1d8 = 6 to 13).
 
 Only during creation, a 1d(Moxie🫀) roll of 1 may be re-rolled one time, in hopes of a better result.
 
-🧿 Starting Gear Power Slots Capacity
+🧿 Starting Exotic Slots Capacity
 
-Every character begins with **5 Gear Power Slots** (0 AP) to attune/ready Free ⭕ (0 Slots) and Standard (1 Slot) Gear Powers🧿 and Artifacts🔮.
+Every character begins with **5 Exotic Slots** (0 AP) to attune/ready Free ⭕ (0 Slots) and Standard (1 Slot) Exotics🧿 and Artifacts🔮.
 
 ⭐ Starting AP🧩 (8 AP at Level 1)
 
@@ -1277,7 +1278,7 @@ Weapon Atk = Might💪 (melee), Motion🏃 (hurled) or Mind👁️ (shot).
 
 If a weapon that has two Types (Me/Hu for Melee and Hurled), the weapon need only be learned once, but each type (Melee and Hurled) are separately recorded (use two lines on the character sheet’s weapon’s table.
 
-All weapon Dmg💥, except multi-attacks, may be uplifted. This applies ONLY to Dmg💥, not Block🧱.
+All weapon Dmg💥, except multi-attacks, may be uplifted. This applies ONLY to Dmg💥, not Block 🛡️.
 
 Uplifting raises a weapon’s Dmg💥 die up to the wielder’s relevant Atr✅.
 
@@ -1345,7 +1346,7 @@ Fighting with two one-handed weapons⚔️. Emphasizes speed and versatility.
 
 Rules:
 
-You may Block🧱 using the better weapon’s Block value.
+You may Block 🛡️ using the better weapon’s Block value.
 
 You may Atk⚔️ with either weapon, but only one Atk⚔️ per rnd unless a Power🔥 allows more attacks or you use the default Multi-Attack rules.
 
@@ -1365,7 +1366,7 @@ Utility tasks (opening doors, drinking potions, etc.) require one Partial (P) ac
 
 ### 🥊 Unarmed or Natural Weapons
 
-Natural weapons🥊 (Brawl and Throw Object) cannot Block🧱 and have no coin cost. They are Unskilled unless skill🎓 is taken in each one. Dmg💥 is rolled at –1d below the governing Atr✅ (minimum d4).
+Natural weapons🥊 (Brawl and Throw Object) cannot Block 🛡️ and have no coin cost. They are Unskilled unless skill🎓 is taken in each one. Dmg💥 is rolled at –1d below the governing Atr✅ (minimum d4).
 
 Brawl🥊 – Covers all natural attacks such as punch, kick, tackle, grab, throw, hold, etc. It also includes racial natural weapons such as claw, bite, or tail sweep.
 
@@ -1444,17 +1445,17 @@ Movement Rate (MR 👣) Penalty:
 :::
 <!-- /popover:col.shields.block -->
 
-All Armor’s Defense (Dod/AR or Blk/AR): Dodge 🤸 = Motion🏃, Block 🧱 = Might💪.
+All Armor’s Defense (Dod/AR or Blk/AR): Dodge 🏃 = Motion🏃, Block 🛡️ = Might💪.
 
-Shields🛡️ provide a Block Cap🧱 rating, which functions the same as weapon⚔️ Block Cap (it applies to any attack that “could” be Dodged, if the shield’s Block Cap🧱 is ≥ the monster’s Dmg💥).
+Shields🛡️ provide a Block Cap🛡️ rating, which functions the same as weapon⚔️ Block Cap (it applies to any attack that “could” be Dodged, if the shield’s Block Cap🛡️ is ≥ the monster’s Dmg💥).
 
-The key advantage of shields🛡️ is that their Block🧱 is rolled at +1 die step above the Might💪 requirement. The tradeoff is reduced MR👣 and tying up your off-hand.
+The key advantage of shields🛡️ is that their Block 🛡️ is rolled at +1 die step above the Might💪 requirement. The tradeoff is reduced MR👣 and tying up your off-hand.
 
 MR👣 impact applies only when the shield🛡️ is wielded (drawn and readied).
 
 Small shields🛡️ (bucklers, bracers, vambraces) offer mobility and count as part of regular Armor🧥; they are not large enough to be considered true shields🛡️ in MetaScape.
 
-Large shields🛡️ provide greater Block Cap🧱 protection but impose greater limits on mobility.
+Large shields🛡️ provide greater Block Cap🛡️ protection but impose greater limits on mobility.
 
 ## ⚔️🛡️ Combat Sequence
 
@@ -1512,7 +1513,7 @@ Monster Declares Atk⚔️.
 
 Player Defense Roll: 2H20 + Atr✅ Die + Bonus using:
 
-Might💪 (Block🧱): for any attack that “could” be Dodged, if armed with equal/larger Block Cap🧱 weapon⚔️ or shield🧱.
+Might💪 (Block 🛡️): for any attack that “could” be Dodged, if armed with equal/larger Block Cap🛡️ weapon⚔️ or shield🧱.
 
 Motion🏃 (Dodge): nearly always valid.
 
@@ -1526,7 +1527,7 @@ Beat Monster Atk⚔️ (10–24) → Avoid Dmg💥.
 
 If Defense Fails → Player Armor AR🧥: Roll armor die (d4–d12) and subtract result from Monster Dmg💥. The remainder = Wnd🩸. This armor die roll follows the Single Die Rule (single-explode capped).
 
-Note the Block🧱die is never rolled in lieu of armor as the Block defense MISSED. Thus the blow has hit the character’s AR🧥.
+Note the Block 🛡️die is never rolled in lieu of armor as the Block defense MISSED. Thus the blow has hit the character’s AR🧥.
 
 Monsters inflict Fatigue Wnds🩸 by default based on Dmg💥 (ten's digit + 1: Dmg 1–9 = 1, 10–19 = 2, 20–29 = 3, etc.; huge/giant monsters or elites may modify this). If your AR🧥 results in less Wnds🩸 than this Fatigue value, the character suffers the Fatigue Wnds🩸 instead. Fatigue Wnds🩸 do NOT trigger Afflictions if the AR🧥 roll would have stopped ALL of the Dmg💥.
 
@@ -1731,7 +1732,7 @@ How often an ability (Power🔥 or Artifact🔮) can be used:
 
 > [!IMPORTANT]
 > **Universal Combat Usage Standard & Chaos Gem Durability:**
-> 1. **Overdrive Munitions & Combat Elixirs:** All combat-grade munitions (missiles, specialized warhead tips, tactical grenades, delivery poisons) and alchemical combat elixirs/potions slotted into character Gear Power or Function slots use **`1-⚡`** (1 Bolt) or per-encounter frequencies (`1-Enc`). Flat numeric usages (`1, 2, 3`) are strictly prohibited for slotted combat abilities.
+> 1. **Overdrive Munitions & Combat Elixirs:** All combat-grade munitions (missiles, specialized warhead tips, tactical grenades, delivery poisons) and alchemical combat elixirs/potions slotted into character Exotic Power or Function slots use **`1-⚡`** (1 Bolt) or per-encounter frequencies (`1-Enc`). Flat numeric usages (`1, 2, 3`) are strictly prohibited for slotted combat abilities.
 > 2. **Chaos Gem Finite Durability:** Socketed Chaos Gauntlet gems strictly retain **3 finite charges** (`[false, false, false]`) that auto-shatter upon checking the 3rd box. Spending a Bolt (`1-⚡`) to activate a gem without consuming a charge is strictly reserved for the **Wrist Mega Slot**.
 
 #### ⚡ Spark Generation & Bolt Rules
@@ -1768,7 +1769,7 @@ Every combat round, each character receives an action allocation of **1 Attack (
 | **`A`** | **Attack** | Any weapon strike, martial attack, or offensive ability. Consumes your 1 Attack allocation for the round. *(Attack only — never referred to as a generic "Action").* |
 | **`M`** | **Move** | Any tactical movement ($\ge 1$ sq up to your full Movement Rate `MR`). Moving even 1 square consumes your 1 Move allocation. |
 | **`P`** | **Partial** | Minor, preparatory, or interacting utility tasks (drawing a blade, donning a shield, quaffing a potion, opening a door). Consumes your 1 Partial allocation. *(Partial only — never referred to as "Power").* |
-| **`F`** | **Free** | Trivial, instantaneous reactions: Defenses (Block🧱, Dodge🏃, Armor AR🧥), saves, quick verbal communication, or dropping an item. Unlimited per round (at GM discretion). |
+| **`F`** | **Free** | Trivial, instantaneous reactions: Defenses (Block 🛡️, Dodge🏃, Armor AR🧥), saves, quick verbal communication, or dropping an item. Unlimited per round (at GM discretion). |
 
 #### Tactical Movement & The Mobile Striker Clause
 * **Standard Attack & Move Sequence:** If you do not make an Attack (A), you may freely pause and resume your Move (M) (move $\rightarrow$ pause $\rightarrow$ move). However, taking an Attack (A) action immediately concludes your turn's movement; any unused Movement Rate (MR) is forfeit.
@@ -1817,7 +1818,7 @@ Drink a potion
 
 Examples of Free (F) Actions:
 
-All Def🛡️ rolls (Block🧱, Dodge🏃, AR🧥).
+All Def🛡️ rolls (Block 🛡️, Dodge🏃, AR🧥).
 
 Any Save or Resistance.
 
@@ -1969,23 +1970,23 @@ Earning Luck🍀: Awarded for cool, funny, or heroic play (max 5).
 Other Uses: May be spent for special learned Luck Powers🔥 (e.g., Lucky Dodge, Inspire Ally, Twist of Fate) or used once per encounter in place of a Bolt (⚡) to activate a 1-⚡ ability or Tactical Pivot.
 
 <!-- @rule:magic_items.basics anchor="#equipment-loadout" -->
-## 🧿 Gear Powers & The Lineage Hierarchy {#equipment-loadout}
+## 🧿 Exotics & The Lineage Hierarchy {#equipment-loadout}
 
 <!-- @popover:magic_items.basics -->
-::: details ⚡ Quick Reference: Equipment & Gear Power Slots
+::: details ⚡ Quick Reference: Equipment & Exotic Slots
 
 Universal Capacity Pool:
-* Base Capacity — Every character starts with 5 Gear Power Slots at Level 1.
-* Shared Bandwidth — Both Artifacts (💍 Magic Relics) and Gear Powers (🧿 Tech/Cyber/Biotech) draw from the same Gear Power Slots Pool.
-* Mundane Gear — Standard gear, weapons, armor, and tools consume 0 Gear Power Slots.
+* Base Capacity — Every character starts with 5 Exotic Slots at Level 1.
+* Shared Bandwidth — Both Artifacts (💍 Magic Relics) and Exotics (🧿 Tech/Cyber/Biotech) draw from the same Exotic Slots Pool.
+* Mundane Gear — Standard gear, weapons, armor, and tools consume 0 Exotic Slots.
 
 Gear Power Slot Weights:
-* ⭕ Free Utility — 0 Gear Power Slots
-* 🧿 Standard Gear Power — 1 Gear Power Slot
+* ⭕ Free Utility — 0 Exotic Slots
+* 🧿 Standard Exotic Power — 1 Exotic Power Slot
 
 Gear Powers vs. Vault:
-* Active Gear Powers — The equipment abilities actively attuned, wired, or holstered on your person.
-* The Gear Powers Vault — Unlimited inactive storage. Swap gear powers between Vault and active Gear Power Slots during a 5-minute out-of-combat breather.
+* Active Exotics — The equipment abilities actively attuned, wired, or holstered on your person.
+* The Exotics Vault — Unlimited inactive storage. Swap exotics between Vault and active Exotic Slots during a 5-minute out-of-combat breather.
 
 :::
 <!-- /popover:magic_items.basics -->
@@ -2002,33 +2003,33 @@ SupaFlex eliminates weight math, bulk values, and movement rate penalties. A cha
       (Factory Inherent Capabilities)                               (Aftermarket Modules with g/s Cost)
                   │                                                             │
                   ▼                                                             ▼
-        [ 🧿 GEAR POWERS (1 AP) ]                                     [ 🧿 GEAR POWERS (1 AP) ]
+        [ 🧿 EXOTICS (1 AP) ]                                     [ 🧿 EXOTICS (1 AP) ]
       (Active Combat Rules Execution)                               (Active Combat Rules Execution)
 ```
 
 #### 1. The 1-AP Universal Learning Model & Ownership Lineage
-* **Physical Ownership Gate:** Characters cannot learn or browse unowned catalog hardware in the Gear Powers card or manager. To access a Gear Power, the character must physically own the host gear item in their inventory (`simple_gear`).
-* **Universal 1 AP Learning:** Every standard Gear Power costs exactly **1 AP** to learn. Essential environmental/mundane utilities marked as `Free ⭕` cost **0 AP**.
-* **Installed Mod Dependency:** Gear Powers tied to a specific modification (`Mod: [Name]`) require that mod to be installed on the host gear item before the power can be learned.
-* **In-Modal Mod Commerce:** To minimize modal bouncing, players can purchase and install compatible mods with Gold/Silver directly inside the Gear Powers Manager catalog drawer.
-* **Unlearn / Refund at Will:** Players may unlearn a learned Gear Power at any time, immediately refunding the initial 1 AP plus all cumulative version AP back to their character's available AP pool.
+* **Physical Ownership Gate:** Characters cannot learn or browse unowned catalog hardware in the Exotics Card or manager. To access a Exotic Power, the character must physically own the host gear item in their inventory (`simple_gear`).
+* **Universal 1 AP Learning:** Every standard Exotic Power costs exactly **1 AP** to learn. Essential environmental/mundane utilities marked as `Free ⭕` cost **0 AP**.
+* **Installed Mod Dependency:** Exotics tied to a specific modification (`Mod: [Name]`) require that mod to be installed on the host gear item before the power can be learned.
+* **In-Modal Mod Commerce:** To minimize modal bouncing, players can purchase and install compatible mods with Gold/Silver directly inside the Exotics Manager catalog drawer.
+* **Unlearn / Refund at Will:** Players may unlearn a learned Exotic Power at any time, immediately refunding the initial 1 AP plus all cumulative version AP back to their character's available AP pool.
 
 #### 2. The 2-Level Expandable Hierarchy Tree
 Across the Character Sheet Main Card (`GearPowersCard`), the `ManageGearPowersModal`, and the `GearCard` (Gear Manager), equipment capabilities are organized in an intuitive 2-level expandable tree:
 * **Level 1 (Host & Mods):** Displays the host gear chassis with expandable drawer showing `📦 Inherent (No Mod)` (with `ℹ️` notes popover) and all compatible/installed mods (`✓ [Mod Name]` with `ℹ️` notes popover).
-* **Level 2 (Gear Powers):** Underneath each mod or inherent node, displays the actionable Gear Powers featuring:
+* **Level 2 (Exotics):** Underneath each mod or inherent node, displays the actionable Exotics featuring:
   * **Action Badges:** Standard action badges (`[A]`, `[M]`, `[P]`, `[F]`, `[AM]`).
   * **Usage Cadence:** Standard frequency (`1-Enc`, `1-⚡`, `1-Rnd`, `Continuous`).
   * **Interactive Combat Checkboxes:** Live on-card checkboxes tracking encounter usages.
   * **Rules Effect:** Full, un-truncated tactical effect string.
 
 #### 3. Streamlined Header & Combat Usages
-The Gear Powers Card header features a clean, high-density HUD layout:
-* **Interactive Header & Pencil Button:** Clicking either the title (`🧿 GEAR POWERS`) or the canonical minimalist pencil button (`✏️`) opens the Gear Powers Manager modal.
+The Exotics Card header features a clean, high-density HUD layout:
+* **Interactive Header & Pencil Button:** Clicking either the title (`🧿 EXOTICS`) or the canonical minimalist pencil button (`✏️`) opens the Exotics Manager modal.
 * **Centered Clear Uses Action:** A mathematically centered **`🔄 Clear Uses`** button positioned in the exact horizontal middle of the header bar to instantaneously reset all tracked usage checkmarks at the start of an encounter or after a breather.
 
 #### 4. Exotic Gear Manager Architecture & In-Modal Commerce Rules
-* **Unified Single Large Pane:** The Exotic Gear Manager (`ManageGearPowersModal.tsx`) uses a unified single large scrollable pane matching the visual hierarchy of the on-sheet Exotic Gear card. It catalogs all physically owned gear that features compatible mods, installed mods, or inherent gear powers (Exotics, Artifacts, and moddable gear).
+* **Unified Single Large Pane:** The Exotic Gear Manager (`ManageGearPowersModal.tsx`) uses a unified single large scrollable pane matching the visual hierarchy of the on-sheet Exotic Gear card. It catalogs all physically owned gear that features compatible mods, installed mods, or inherent exotics (Exotics, Artifacts, and moddable gear).
 * **Inline Mod Purchasing & Installation:** Compatible mods render with actionable green `+ Buy [cost]` buttons positioned immediately inline after the mod name and `ℹ️` icon (eliminating wide horizontal scanning across empty space). Clicking checks character funds via `parseCostToSilver` and deducts gold/silver, adding the mod to `installed_mods`. If unaffordable, the button is greyed out with an explanatory shortfall tooltip. Owned or installed mods display an inline gold `Installed` badge alongside a trashcan button (`Trash2`) to uninstall the mod.
 * **1-AP Universal Power Learning:** Powers under installed mods (or inherent chassis nodes) feature actionable green `+ Learn (1 AP)` buttons. When learned, this transitions into a gold `Known` badge accompanied by a pencil button (`✏️`) to launch the Version Editor and a trashcan button (`Trash2`) to unlearn the power (refunds initial 1 AP + all cumulative version AP). Powers under uninstalled mods are disabled until the mod is purchased.
 * **Color Standardization:** Actionable purchase/learning buttons (`+ Buy`, `+ Learn`) strictly use **Green** (`bg-emerald-600`), while ownership/learning badges (`Installed`, `Known`) strictly use **Gold** (`bg-amber-950/80 text-amber-300 border-amber-500/50`).
@@ -2044,11 +2045,11 @@ The Gear Powers Card header features a clean, high-density HUD layout:
 | :--- | :--- | :--- | :--- | :--- |
 | **Mundane Gear** | Rope, Torch, Flint | Phone, Zip-ties, Flashlight | Credstick, Multi-tool | Comms Beacon, Rebreather |
 | **Free Utility ⭕ (0 AP)** | Candle Spark [P], Clean Water [A] | Penlight [F], Radio Earbud [P] | Sub-Dermal Comms [P], Biomonitor [P] | Atmospheric Scrubber [P], Nav-Beacon [P] |
-| **Standard Gear Powers 🧿 (1 AP)** | Wand of Sparks [A], Boots of Speed [M], Flaming Greatsword [A] | Taser [A], Night-Vision [P], Tactical Exosuit [P] | Plasma Torch [A], Optical Camo [M], Smart-Lens [P] | Personal Deflector [P], Jetpack [M], Combat Drone [A] |
+| **Standard Exotics 🧿 (1 AP)** | Wand of Sparks [A], Boots of Speed [M], Flaming Greatsword [A] | Taser [A], Night-Vision [P], Tactical Exosuit [P] | Plasma Torch [A], Optical Camo [M], Smart-Lens [P] | Personal Deflector [P], Jetpack [M], Combat Drone [A] |
 
 #### 6. Master Techniques & Signature Devices
-* **🔥 Loadout Burn (Master Technique • 5 AP):** As a Free Action [F], a character with this Master Technique can push any active Gear Power (`🧿`) item to output its maximum effect for 1 round. At the end of the round, the item's core melts into inert slag and is destroyed. *(Does not apply to flat consumables with usage `1`, `2`, or `3`).*
-* **🖨️ Omni-Fab (1 AP Gear Power):** Usage: `3-Enc`, Action: `[P]`. Materializes any mundane utility tool or standard field supply on the fly. The materialized item dissolves at the end of the encounter. Cost: 150s.
+* **🔥 Loadout Burn (Master Technique • 5 AP):** As a Free Action [F], a character with this Master Technique can push any active Exotic Power (`🧿`) item to output its maximum effect for 1 round. At the end of the round, the item's core melts into inert slag and is destroyed. *(Does not apply to flat consumables with usage `1`, `2`, or `3`).*
+* **🖨️ Omni-Fab (1 AP Exotic Power):** Usage: `3-Enc`, Action: `[P]`. Materializes any mundane utility tool or standard field supply on the fly. The materialized item dissolves at the end of the encounter. Cost: 150s.
 
 ## 💎 Chaos Gauntlet & Chaos Gems
 
@@ -2502,7 +2503,7 @@ Keep Monsters Simple: Use flat stats, improvise Powers🔥, focus on PCs’ rol
 
 ## 📖 Appendix A: Element & Effect Creation Guide
 
-This appendix provides player-facing and GM guidelines for authoring custom **Elements** (Weapons, Armor, Shields, Gear, Powers, Mods, and Gear Powers). It codifies the shorthand syntax, design patterns, and balance boundaries required to maintain seamless compatibility with the SupaFlex engine.
+This appendix provides player-facing and GM guidelines for authoring custom **Elements** (Weapons, Armor, Shields, Gear, Powers, Mods, and Exotics). It codifies the shorthand syntax, design patterns, and balance boundaries required to maintain seamless compatibility with the SupaFlex engine.
 
 ### 🏛️ Core Design Principles
 
@@ -2583,8 +2584,8 @@ When abilities affect multiple squares or areas, use strict grid-friendly geomet
 
 * **Custom Weapon:** `Kinetic Whip` | Type: `Melee` | Atk: `💪` | Dmg: `💪` | Rng: `3` | Hands: `1` | Blk: `8`
   * *Note:* Braided monofilament cable with a weighted magnetic tip, designed for tripping and disarming at extended reach.
-  * *Gear Power (Trip Maneuver) [A]:* `Rng 3; Atk 💪 Dmg 💪 (Dmg optional); 💪^🏃 or target Prone.`
-* **Custom Armor Gear Power:** `Reactive Toxin Spikes` | Action: `[F]` | Usage: `1-Enc` | Slots: `1`
+  * *Exotic Power (Trip Maneuver) [A]:* `Rng 3; Atk 💪 Dmg 💪 (Dmg optional); 💪^🏃 or target Prone.`
+* **Custom Armor Exotic Power:** `Reactive Toxin Spikes` | Action: `[F]` | Usage: `1-Enc` | Slots: `1`
   * *Effect:* `Wnds = 🫀^🫀 or Poisoned 1 Wnd/Rnd.`
 * **Custom Power:** `Sorce Lance` | Action: `[A]` | Usage: `1-Enc` | Tier: `Class`
   * *Effect:* `Rng 3; Atk ✨ Dmg ✨+d6; Wnds = target pushed 2 sq.`
