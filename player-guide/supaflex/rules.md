@@ -2632,8 +2632,7 @@ Weapons with base damage **d4** (and ONLY d4 weapons, such as daggers, knuckles,
 
 When running combat encounters, the GM may optionally reward swift reflexes:
 * **Rule:** If a PC rolls higher than **ALL** monsters in the encounter on their Initiative (Nish 🚩) check, that PC gains a **+1 tactical bonus** on all rolls (Attacks, Defenses, Saves, Skills) until the monsters take their turn.
-* **Stacking:** Per the Exclusive Stacking Master Rule, this bonus stacks with the +1 bonus from holding a full Bolt (⚡), but only applies during the opening tempo before the monsters act.
-* **GM Guidance:** Recommended for heroic, high-energy campaigns where players invest heavily in Motion 🏃 or the Nish skill. For grittier campaigns or simplified table management, omit this bonus to keep monster threat flat.
+* **Stacking:** Stacks with everything.
 <!-- /rule:appendix.optional_rules -->
 
 ---
