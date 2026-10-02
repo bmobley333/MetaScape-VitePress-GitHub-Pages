@@ -64,33 +64,10 @@ The complete SupaFlex game system is structured around the **Trinity of Mechanic
 <!-- @popover:gear -->
 ::: details ⚡ Quick Reference: Gear & Equipment Kits
 
-<!-- @popover:gear -->
-
-<!-- @popover:gear -->
-
-<!-- @popover:gear -->
-
 * Master Gear Category — Gear (⚙️) is the universal master category for all physical items, hardware, and equipment.
 * Standard Gear — Mundane or high-tech equipment with zero combat abilities (priced in $g/s$).
 * Equipment Kits & Bundles — Pre-packaged adventuring kits (Dungeoneering, Infiltration, Field Medic, Survival, etc.) providing complete sets of standard mundane supplies for a flat Gold/Silver price.
 * Zero Weight Math — SupaFlex uses no weight values, bulk tracking, or encumbrance movement penalties for standard carried gear.
-
-<!-- /popover:gear -->
-
-<!-- /popover:gear -->
-
-<!-- /popover:gear -->
-
-<!-- /popover:gear -->
-
-:::
-<!-- /popover:gear -->
-
-:::
-<!-- /popover:gear -->
-
-:::
-<!-- /popover:gear -->
 
 :::
 <!-- /popover:gear -->
@@ -787,8 +764,6 @@ Attribute shorthand in SupaFlex follows a strict, four-tier grammar standard acr
 <!-- @popover:focus.basics -->
 ::: details ⚡ Quick Reference: Focus Die Rules
 
-<!-- @popover:focus.basics -->
-
 Focus Roll:
 * Spend Timing — Once per roll, after seeing the initial roll result, roll your current Focus Die and add the result directly to your total.
 * Explosion Type — Comparison rolls (Skill, Attack, Defense) explode freely on max face; Single-die rolls (Damage, Armor) single-explode capped.
@@ -805,11 +780,6 @@ Refilling Focus (The Flood):
 * Short Rest — Step up +1 when taking a short rest opportunity between combats.
 * Full Round Action — Spend an entire combat round taking no other actions to "Flood" (+1 step up).
 * Full Rest — A full night's sleep completely restores your Focus Die to its maximum ceiling size.
-
-<!-- /popover:focus.basics -->
-
-:::
-<!-- /popover:focus.basics -->
 
 :::
 <!-- /popover:focus.basics -->
@@ -847,18 +817,11 @@ Concept First: Any idea works — punk knight, techno-bard, gargoyle hero, soda 
 <!-- @popover:paths.basics -->
 ::: details ⚡ Quick Reference: Paths & Character Progression
 
-<!-- @popover:paths.basics -->
-
 * Starting Paths — Every character starts with 2 Learned Paths: a Race Path (🧬) and a Class Path (⚔️), each granting inherent traits and focused catalogs.
 * In-Path Elements — Elements (Weapons, Armor, Shields, Skills, Powers, Traits) in your active Paths cost 1 AP to learn (2 AP for Skill Sets).
 * Out-of-Path Surcharge — Learning an element outside your active Paths is Out of Path and costs 3 AP with GM approval (4 AP for Skill Sets).
 * Universal Path — Universal abilities cost 3 AP and do not require GM approval.
 * Bonus Paths — Additional Paths may be learned during your career for 4 AP with GM approval.
-
-<!-- /popover:paths.basics -->
-
-:::
-<!-- /popover:paths.basics -->
 
 :::
 <!-- /popover:paths.basics -->
@@ -868,18 +831,11 @@ Concept First: Any idea works — punk knight, techno-bard, gargoyle hero, soda 
 <!-- @popover:traits -->
 ::: details ⚡ Quick Reference: Traits & Inherent Capabilities
 
-<!-- @popover:traits -->
-
 Modular Capabilities & Inherent Traits:
 * Inherent Traits (0 AP) — Free biological, physiological, or cultural traits granted by starting Paths. Inherent traits are auto-taken and cannot be removed without GM approval.
 * Learned Traits — Modular traits, physiological boons, and tactical modifications learned with AP (1 AP In-Path, 3 AP Out-of-Path with GM approval).
 * Sheet Visibility — Use the KISS Pill Switch to toggle individual traits between Viewable (👁️) on your active character sheet or Hidden (🙈) for read-once passive background rules.
 * Affirmative Capabilities — There are NO flaw points or negative quirks in SupaFlex. All traits represent affirmative capabilities or balanced trade-offs.
-
-<!-- /popover:traits -->
-
-:::
-<!-- /popover:traits -->
 
 :::
 <!-- /popover:traits -->
@@ -1177,12 +1133,6 @@ All choices require GM approval. The GM may veto or suggest alternatives if a ch
 <!-- @popover:skills.basics -->
 ::: details ⚡ Quick Reference: Skill and Skill Set Rules
 
-<!-- @popover:skills.basics -->
-
-<!-- @popover:skills.basics -->
-
-<!-- @popover:skills.basics -->
-
 Rolls:
 * Unskilled Checks — Unknown skills (including weapons, armor, and shields) may be attempted as an Unskilled Ability check (1d20 + Atr Die).
 * Skilled Checks — Known skills, or those approved by the GM as matching a Skill Set, use a Skilled Ability check (2H20 + Atr Die).
@@ -1190,23 +1140,6 @@ Rolls:
 
 Action:
 * Skill Action Costs — Skills use a Partial (P) or Free (F) action as determined by the GM. GM-initiated skill checks are always Free (F).
-
-<!-- /popover:skills.basics -->
-
-<!-- /popover:skills.basics -->
-
-<!-- /popover:skills.basics -->
-
-<!-- /popover:skills.basics -->
-
-:::
-<!-- /popover:skills.basics -->
-
-:::
-<!-- /popover:skills.basics -->
-
-:::
-<!-- /popover:skills.basics -->
 
 :::
 <!-- /popover:skills.basics -->
@@ -1298,12 +1231,6 @@ Sets are not exhaustive — the GM may approve additional related skills not lis
 <!-- @popover:weapons.basics -->
 ::: details ⚡ Quick Reference: Weapon Rules
 
-<!-- @popover:weapons.basics -->
-
-<!-- @popover:weapons.basics -->
-
-<!-- @popover:weapons.basics -->
-
 <!-- tab: ⚔️ Combat Rules -->
 Rolls:
 * Unskilled Attacks — Unknown weapons may be attempted as an Unskilled Attack (1d20 + Atk Die) with normal damage and Unskilled Block.
@@ -1346,23 +1273,6 @@ Reverse Finesse Shift (d4 Dmg ONLY):
 * Shift Dmg ➔ Atk — If missing an Attack roll by ≤ 4, call Dmg Shift to convert the miss into a hit.
 * Damage Deduction — Subtract the miss shortfall directly from rolled Dmg (e.g. miss by 3 = -3 Dmg).
 * Wound Threshold — Max reverse shift is 4. If shifting results in ≤ 0, then Dmg is 0 (no wounds occur).
-
-<!-- /popover:weapons.basics -->
-
-<!-- /popover:weapons.basics -->
-
-<!-- /popover:weapons.basics -->
-
-<!-- /popover:weapons.basics -->
-
-:::
-<!-- /popover:weapons.basics -->
-
-:::
-<!-- /popover:weapons.basics -->
-
-:::
-<!-- /popover:weapons.basics -->
 
 :::
 <!-- /popover:weapons.basics -->
@@ -1501,12 +1411,6 @@ Note: This advantage does not exist when dual wielding or using Weapon & Shield
 <!-- @popover:col.armor.ar -->
 ::: details ⚡ Quick Reference: Armor & Defense Rules
 
-<!-- @popover:col.armor.ar -->
-
-<!-- @popover:col.armor.ar -->
-
-<!-- @popover:col.armor.ar -->
-
 Rolls:
 * Unskilled Armor — Unknown armor may be attempted as an Unskilled Dodge (1d20 + Dodge Die) and normal AR.
 * Skilled Armor — Skilled armor uses a Skilled Dodge (2H20 + Dodge Die) and normal AR.
@@ -1518,23 +1422,6 @@ Dodge vs Block:
 
 Action:
 * Action Cost — ALL armor rolls are a Free (F) action.
-
-<!-- /popover:col.armor.ar -->
-
-<!-- /popover:col.armor.ar -->
-
-<!-- /popover:col.armor.ar -->
-
-<!-- /popover:col.armor.ar -->
-
-:::
-<!-- /popover:col.armor.ar -->
-
-:::
-<!-- /popover:col.armor.ar -->
-
-:::
-<!-- /popover:col.armor.ar -->
 
 :::
 <!-- /popover:col.armor.ar -->
@@ -1557,12 +1444,6 @@ A character can become skilled in any Armor🧥 or Shield🛡️ whose attribute
 <!-- @popover:col.shields.block -->
 ::: details ⚡ Quick Reference: Shield & Block Rules
 
-<!-- @popover:col.shields.block -->
-
-<!-- @popover:col.shields.block -->
-
-<!-- @popover:col.shields.block -->
-
 Rolls:
 * Unskilled Shield Block — Unknown shields may be attempted as an Unskilled Block (1d20 + Block Die).
 * Skilled Attacks — Known shields use a Skilled Block (2H20 + Block Die).
@@ -1580,23 +1461,6 @@ Shield-Hand Restrictions:
 
 Movement Rate (MR 👣) Penalty:
 * Active Shield Penalty — When a shield is drawn, the Shield Drawn MR applies.
-
-<!-- /popover:col.shields.block -->
-
-<!-- /popover:col.shields.block -->
-
-<!-- /popover:col.shields.block -->
-
-<!-- /popover:col.shields.block -->
-
-:::
-<!-- /popover:col.shields.block -->
-
-:::
-<!-- /popover:col.shields.block -->
-
-:::
-<!-- /popover:col.shields.block -->
 
 :::
 <!-- /popover:col.shields.block -->
@@ -1650,12 +1514,6 @@ Area and multi-attacks make separate Atk⚔️ and Dmg💥 rolls for each attack
 <!-- @popover:vitality.death_checks -->
 ::: details ⚡ Quick Reference: Vitality & Death Checks
 
-<!-- @popover:vitality.death_checks -->
-
-<!-- @popover:vitality.death_checks -->
-
-<!-- @popover:vitality.death_checks -->
-
 Unconsciousness & Dying:
 * Unconsciousness Condition — Unconscious if Current Vit is ≤ 0.
 * Death Check Trigger — When Current Vit is -1 or less, must immediately make a Death Check and make a Death Check each round on your nish, until Current Vit is no longer negative or you die.
@@ -1669,23 +1527,6 @@ Bleeding:
 * Full Day Rest (Sleep) — A full night's sleep restores 2d4 Vit ❤️.
 * First Aid & Healing — Medical supplies, bandaging, and healing skills stop active bleeding.
 * Magical Healing — Will stop active bleeding and heal as per the power or item’s rules.
-
-<!-- /popover:vitality.death_checks -->
-
-<!-- /popover:vitality.death_checks -->
-
-<!-- /popover:vitality.death_checks -->
-
-<!-- /popover:vitality.death_checks -->
-
-:::
-<!-- /popover:vitality.death_checks -->
-
-:::
-<!-- /popover:vitality.death_checks -->
-
-:::
-<!-- /popover:vitality.death_checks -->
 
 :::
 <!-- /popover:vitality.death_checks -->
@@ -1827,12 +1668,6 @@ Day Rest (sleep/new Day📅): Regain 2d4 Vit❤️, resets all #-Day abilities.
 <!-- @popover:powers.basics -->
 ::: details ⚡ Quick Reference: Powers & Combat Rules
 
-<!-- @popover:powers.basics -->
-
-<!-- @popover:powers.basics -->
-
-<!-- @popover:powers.basics -->
-
 Auto-Readied Power Card:
 * Auto-Ready — All learned Powers are immediately active and readied on your character's Power Card. No rigid ready-slot buckets.
 * 4-Channel Action Economy — Round Action Pool = 1 Attack (A) + 1 Move (M) + 1 Partial (P) + Unlimited Free (F) actions (and hybrid AM).
@@ -1857,23 +1692,6 @@ Range:
 
 The Luck Twist (Rule of 1):
 * Apply one instant "Rule of 1" boost per Luck chit (Max 1 Luck Twist per activation): -1 Action Budget, +1 Target, +1 Die Tier, +1 Range Band, +1 Push/Move.
-
-<!-- /popover:powers.basics -->
-
-<!-- /popover:powers.basics -->
-
-<!-- /popover:powers.basics -->
-
-<!-- /popover:powers.basics -->
-
-:::
-<!-- /popover:powers.basics -->
-
-:::
-<!-- /popover:powers.basics -->
-
-:::
-<!-- /popover:powers.basics -->
 
 :::
 <!-- /popover:powers.basics -->
@@ -1987,12 +1805,6 @@ Every combat round, each character receives an action allocation of **1 Attack (
 <!-- @popover:movement_rate.basics -->
 ::: details ⚡ Quick Reference: Movement Rate (MR 👣) & Jumping Rules
 
-<!-- @popover:movement_rate.basics -->
-
-<!-- @popover:movement_rate.basics -->
-
-<!-- @popover:movement_rate.basics -->
-
 Tactical Movement:
 * Standard Move (M Action) — Move up to your full Movement Rate (MR 👣) in squares (1 sq = 5 ft).
 * Running / Sprinting (AM Action) — Running requires an Attack & Move (AM) action and grants full MR 👣 + d👣 squares (👣+d👣 sq).
@@ -2002,23 +1814,6 @@ Jumping Rules:
 * Standing Jump (M Action) — Jump a distance of d👣 squares (or 5 ft increments) as a Move (M) action, rolling your Movement Rate die (d(MR) ≤ MR, e.g. MR 6 rolls a d6).
 * Running Jump (AM Action) — Run up to full MR 👣 on the ground plus leap an additional d👣 squares in the air as an Attack & Move (AM) action.
 * Universal Explosion — Like all flat attribute and movement dice, d👣 explodes on its maximum face unless specifically noted otherwise.
-
-<!-- /popover:movement_rate.basics -->
-
-<!-- /popover:movement_rate.basics -->
-
-<!-- /popover:movement_rate.basics -->
-
-<!-- /popover:movement_rate.basics -->
-
-:::
-<!-- /popover:movement_rate.basics -->
-
-:::
-<!-- /popover:movement_rate.basics -->
-
-:::
-<!-- /popover:movement_rate.basics -->
 
 :::
 <!-- /popover:movement_rate.basics -->
@@ -2205,12 +2000,6 @@ Other Uses: May be spent for special learned Luck Powers🔥 (e.g., Lucky Dodge
 <!-- @popover:magic_items.basics -->
 ::: details ⚡ Quick Reference: Exotics & The Lineage Hierarchy {#equipment-loadout}
 
-<!-- @popover:magic_items.basics -->
-
-<!-- @popover:magic_items.basics -->
-
-<!-- @popover:magic_items.basics -->
-
 Universal Equipment Taxonomy:
 * Master Gear Category — Gear (⚙️) is the master category for all physical items.
 * Standard Gear — Mundane or high-tech equipment with zero combat abilities (priced in $g/s$).
@@ -2222,23 +2011,6 @@ Learning & AP Costs:
 * Free Abilities (⭕) — Inherent baseline survival/environmental abilities cost 0 AP.
 * No Slot Caps — There are no capacity slots or readiness limits on learned exotics.
 * Refund at Will — Unlearning an exotic immediately refunds 100% of invested AP.
-
-<!-- /popover:magic_items.basics -->
-
-<!-- /popover:magic_items.basics -->
-
-<!-- /popover:magic_items.basics -->
-
-<!-- /popover:magic_items.basics -->
-
-:::
-<!-- /popover:magic_items.basics -->
-
-:::
-<!-- /popover:magic_items.basics -->
-
-:::
-<!-- /popover:magic_items.basics -->
 
 :::
 <!-- /popover:magic_items.basics -->
@@ -2252,7 +2024,7 @@ SupaFlex eliminates weight math, bulk values, and movement rate penalties. A cha
                                                  │
                   ┌──────────────────────────────┴──────────────────────────────┐
                   ▼                                                             ▼
-        [ 📦 INHERENT (NO MOD) ]                                         [ 🔌 INSTALLED MODS ]
+        [ 📦 INHERENT ]                                                [ 🔌 INSTALLED MODS ]
       (Factory Inherent Capabilities)                               (Aftermarket Modules with g/s Cost)
                   │                                                             │
                   ▼                                                             ▼
@@ -2269,7 +2041,7 @@ SupaFlex eliminates weight math, bulk values, and movement rate penalties. A cha
 
 #### 2. The 2-Level Expandable Hierarchy Tree
 Across the Character Sheet Main Card (`GearPowersCard`), the `ManageGearPowersModal`, and the `GearCard` (Gear Manager), equipment capabilities are organized in an intuitive 2-level expandable tree:
-* **Level 1 (Host & Mods):** Displays the host gear chassis with expandable drawer showing `📦 Inherent (No Mod)` (with `ℹ️` notes popover) and all compatible/installed mods (`✓ [Mod Name]` with `ℹ️` notes popover).
+* **Level 1 (Host & Mods):** Displays the host gear chassis with expandable drawer showing `📦 Inherent` (with `ℹ️` notes popover) and all compatible/installed mods (`✓ [Mod Name]` with `ℹ️` notes popover).
 * **Level 2 (Exotics):** Underneath each mod or inherent node, displays the actionable Exotics featuring:
   * **Action Badges:** Standard action badges (`[A]`, `[M]`, `[P]`, `[F]`, `[AM]`).
   * **Usage Cadence:** Standard frequency (`1-Enc`, `1-⚡`, `1-Rnd`, `Continuous`).

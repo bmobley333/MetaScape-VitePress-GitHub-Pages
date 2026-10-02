@@ -42823,25 +42823,6 @@
       ]
     },
     {
-      "id": 540,
-      "name": "Tactical Stance Change",
-      "effect": "Swap Stances for 1 [A] OR 1 [M] action.",
-      "stat_hook": null,
-      "genres": [
-        "All"
-      ],
-      "discipline": "Universal",
-      "notes": "Tactical stance change allows the character to change stances for either an A (Attack) or M (Move) action.",
-      "created_at": "2026-09-09T17:23:09.993126+00:00",
-      "cost": "0s",
-      "belongs_to": null,
-      "owner": "Designer",
-      "sets": [],
-      "path": [
-        "Universal"
-      ]
-    },
-    {
       "id": 521,
       "name": "Taste and Smell Anhedonia (mso)",
       "effect": "Completely lacks any sense of taste or smell.",
@@ -46175,25 +46156,6 @@
       ]
     },
     {
-      "id": 540,
-      "name": "Tactical Stance Change",
-      "effect": "Swap Stances for 1 [A] OR 1 [M] action.",
-      "stat_hook": null,
-      "genres": [
-        "All"
-      ],
-      "discipline": "Universal",
-      "notes": "Tactical stance change allows the character to change stances for either an A (Attack) or M (Move) action.",
-      "created_at": "2026-09-09T17:23:09.993126+00:00",
-      "cost": "0s",
-      "belongs_to": null,
-      "owner": "Designer",
-      "sets": [],
-      "path": [
-        "Universal"
-      ]
-    },
-    {
       "id": 521,
       "name": "Taste and Smell Anhedonia (mso)",
       "effect": "Completely lacks any sense of taste or smell.",
@@ -49524,25 +49486,6 @@
       "sets": [],
       "path": [
         "Anthropos (mso) {Free}"
-      ]
-    },
-    {
-      "id": 540,
-      "name": "Tactical Stance Change",
-      "effect": "Swap Stances for 1 [A] OR 1 [M] action.",
-      "stat_hook": null,
-      "genres": [
-        "All"
-      ],
-      "discipline": "Universal",
-      "notes": "Tactical stance change allows the character to change stances for either an A (Attack) or M (Move) action.",
-      "created_at": "2026-09-09T17:23:09.993126+00:00",
-      "cost": "0s",
-      "belongs_to": null,
-      "owner": "Designer",
-      "sets": [],
-      "path": [
-        "Universal"
       ]
     },
     {
