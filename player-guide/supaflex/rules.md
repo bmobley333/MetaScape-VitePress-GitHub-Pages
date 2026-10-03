@@ -215,93 +215,22 @@ Monster stats place the emojis before key numbers or number sets as in:
 
 4 Orc Guards (Heavy Leather, Scimitars, Bucklers) 🚩14, 👣10, ⚔️18/12, 🛡️16/2, ❤️12 – [💪18/🏃12/👁️10/✨10/🫀12] (Poisoned blades Magic✨ or Weakened).
 
-| 📖 Term | 🙂 Emoji |
-| :--- | :---: |
-| Abilities🧠 | 🧠 |
-| Actions🔷 | 🔷 |
-| Affliction💀 | 💀 |
-| AP🧩 | 🧩 |
-| AR🧥 | 🧥 |
-| Armor🧥 | 🧥 |
-| Art🎨 | 🎨 |
-| Artifacts🔮 | 🔮 |
-| Atr✅ | ✅ |
-| Block🛡️ | 🛡️ |
-| Bolt⚡ (5 Sparks) | ⚡ |
-| Camp Gear🏕️ | 🏕️ |
-| Clothing & Personal👕 | 👕 |
-| Combat⚔️ | ⚔️ |
-| Containers🧺 | 🧺 |
-| Critical💀 | 💀 |
-| Days📅 | 📅 |
-| Dmg💥 | 💥 |
-| Dual Wield⚔️ | ⚔️ |
-| Duration⏳ | ⏳ |
-| Elements🌟 | 🌟 |
-| Emoji🙂 | 🙂 |
-| Entertainment & Instruments🎵 | 🎵 |
-| Equipment🧰 (Synonym for Gear) | 🧰 |
-| Free Ability ⭕ (0 AP) | ⭕ |
-| Food & Drink🥖 | 🥖 |
-| Gear⚙️ (Master Category: All Physical Items) | ⚙️ |
-| Exotics🧿 | 🧿 |
-| GM🔎 | 🔎 |
-| Hazard💀 | 💀 |
-| Junk🗑️ | 🗑️ |
-| Kits📦 (Hardware Suites & Bundles) | 📦 |
-| Level⭐ | ⭐ |
-| Luck🍀 | 🍀 |
-| Magic✨ | ✨ |
-| Martial Arts🥋 | 🥋 |
-| Medical & Healing Supplies⚕️ | ⚕️ |
-| Might💪 | 💪 |
-| Mind👁️ | 👁️ |
-| Mods🔌 (Modular Attachments) | 🔌 |
-| Money💰 | 💰 |
-| Monster🐉 | 🐉 |
-| Motion🏃 | 🏃 |
-| Moxie🫀 | 🫀 |
-| MR👣 | 👣 |
-| Natural Weapons🥊 | 🥊 |
-| Nish🚩 | 🚩 |
-| Notesℹ️ | ℹ️ |
-| Paths🧭 (Capability Suites) | 🧭 |
-| Power🔥 | 🔥 |
-| Racial🧬 | 🧬 |
-| Range🎯 | 🎯 |
-| Rules📜 | 📜 |
-| Sets🗂️ | 🗂️ |
-| Shields🛡️ | 🛡️ |
-| Single Weapon🗡️ | 🗡️ |
-| Skill🎓 | 🎓 |
-| Skill Set🎓 | 🎓 |
-| Supplies🎒 (Mundane Adventuring Gear) | 🎒 |
-| Term📖 | 📖 |
-| Tools & Equipment🛠️ | 🛠️ |
-| Traits🧬 (Modular Boons & Inherent Rules) | 🧬 |
-| Travel & Animals🐴 | 🐴 |
-| Tremendous🌟 | 🌟 |
-| Unarmed🥊 | 🥊 |
-| Usage🔄 | 🔄 |
-| Vault📦 | 📦 |
-| Vit❤️ | ❤️ |
-| Weapon⚔️ | ⚔️ |
-| Weapon & Shield🛡️ | 🛡️ |
-| Wnd🩸 | 🩸 |
-| Writing & Communication✒️ | ✒️ |
+| 📖 Core Stat / Term | 🙂 Symbol | Domain & Rules Shorthand |
+| :--- | :---: | :--- |
+| **Magic** | **✨** | Spellcraft, arcane powers, psionics, sorce, supernatural defenses |
+| **Might** | **💪** | Physical strength, melee attacks (`⚔️`), athletics, blocking (`🛡️`) |
+| **Mind** | **👁️** | Intellect, shot/ranged attacks, technology, perception, analysis |
+| **Motion** | **🏃** | Agility, dodging (`🏃`), reflexes, stealth, hurled weapons |
+| **Moxie** | **🫀** | Stamina, vitality, bodily endurance, toxin resistance, death checks |
+| **Nish** | **🚩** | Combat initiative rating & turn sequence |
+| **Movement Rate (MR)** | **👣** | Tactical movement in squares (1 sq = 5 ft; e.g. `👣6`, `jump 👣+2`) |
+| **Vitality (Vit)** | **❤️** | Health pool & maximum wound capacity before unconsciousness |
+| **Armor Rating / Reduction (AR)** | **🧥** | Damage absorption die or static rating rolled when hit |
+| **Bolt (5 Sparks)** | **⚡** | 5 accumulated Spark charges (⚡ represents a full Bolt, NEVER individual sparks) |
+| **Luck** | **🍀** | Heroic luck chits & twist currency |
 
-| 🐉Monster Stats | 🙂Emoji |
-| --- | --- |
-| Nish🚩 | 🚩 |
-| MR👣 | 👣 |
-| Atk/Dmg⚔️ | ⚔️ |
-| Dod/AR🛡️ (Defense) | 🛡️ |
-| Vit❤️ | ❤️ |
-| Attributes [💪#/🏃#/👁️#/✨#/🫀#] |  |
-
-Example Monster Stats:
-
-4 Orc Guards (Heavy Leather, Scimitars, Bucklers) 🚩14, 👣10, ⚔️18/12, 🛡️16/2, ❤️12 – [💪18/🏃12/👁️10/✨10/🫀12] (Poisoned blades Magic✨ or Weakened).
+> [!TIP]
+> **Master Lexicon & Full Icon Directory:** For the comprehensive alphabetical index of all 50+ game element emojis, equipment icons, and monster stat symbols, see [Appendix C: Master Terminology & System Lexicon](#appendix-c-master-terminology--system-lexicon).
 
 ### 📝 Definitions
 
@@ -1014,13 +943,13 @@ All of Step 2 below is AP🧩 free and costs no AP🧩.
 
 On each Level⭐, roll for new maximum Vit❤️:
 
-* **Vit❤️ Max Roll Formula:** $\text{Max Vit} = 10 + N \times d(\text{Moxie🫀}) + (\text{Level} \times 2)$
+* **Vit❤️ Max Roll Formula:** `Max Vit = 10 + N × d(Moxie 🫀) + (Level × 2)`
 * **Moxie Dice Bracket ($N$) (Capped at 5d):**
-  * Levels 1–3: $1d(\text{Moxie🫀})$
-  * Levels 4–8: $2d(\text{Moxie🫀})$
-  * Levels 9–15: $3d(\text{Moxie🫀})$
-  * Levels 16–24: $4d(\text{Moxie🫀})$
-  * Levels 25+: $5d(\text{Moxie🫀})$ **(HARD CAP — Prevents late-game HP bloat)**
+  * Levels 1–3: `1d(Moxie 🫀)`
+  * Levels 4–8: `2d(Moxie 🫀)`
+  * Levels 9–15: `3d(Moxie 🫀)`
+  * Levels 16–24: `4d(Moxie 🫀)`
+  * Levels 25+: `5d(Moxie 🫀)` **(HARD CAP — Prevents late-game HP bloat)**
 * This is like “Lucking🍀” Max Vit❤️ (roll a new number and keep the better of the old Vit❤️ or the new Vit❤️). If your Moxie🫀 has increased, you use the new Moxie🫀 number in the formula.
 
 ### 💲 Step 3 — Spend AP🧩
@@ -1065,7 +994,7 @@ Character advancement relies on Horizontal Augments without rigid hierarchical v
 * **Vector 1: Mechanical Punch (Effect Augment):** Upgrade damage or healing die tier ($d4 \rightarrow d6 \rightarrow d8 \rightarrow d10 \rightarrow d12$) or expand target count by +1.
 * **Vector 2: Action Compression (Economy Augment — MANDATORY BALANCE RULE):** Compress action cost down the compression chain ($\text{AM} \rightarrow \text{A} \rightarrow \text{M} \rightarrow \text{P} \rightarrow \text{F}$) or unlock Mobile Striker split-movement ("You may split your movement before and after this attack"). **Balance Rule:** Action Compression is strictly capped at **1 Compression Upgrade per Power** to prevent dominant action-economy abuse.
 * **Vector 3: Synergy / Affliction (Twist Augment):** Attach an Affliction on hit (Stunned 1 rnd, Prone, Weakened -2) or attach a Meta Generator ("Generates 1 Meta even on a miss").
-* **Vector 4: Frequency / Range Shift (Usage Augment):** Shift usage frequency (e.g., $1\text{-Enc} \rightarrow 2\text{-Enc} \rightarrow 3\text{-Enc}$ max cap, or $\text{Meta⚡} \times 1$ power reusable via combat momentum) or expand Range Band ($\text{Touch} \rightarrow \text{Short} \rightarrow \text{Medium} \rightarrow \text{Long} \rightarrow \text{Extreme}$). Note: Per-encounter usage upgrades step sequentially ($1\text{-Enc} \rightarrow 2\text{-Enc} \rightarrow 3\text{-Enc}$ maximum).
+* **Vector 4: Frequency / Range Shift (Usage Augment):** Shift usage frequency (e.g., $1\text{-Enc} \rightarrow 2\text{-Enc} \rightarrow 3\text{-Enc}$ max cap, or a `1-⚡` power reusable via combat momentum) or expand Range Band ($\text{Touch} \rightarrow \text{Short} \rightarrow \text{Medium} \rightarrow \text{Long} \rightarrow \text{Extreme}$). Note: Per-encounter usage upgrades step sequentially ($1\text{-Enc} \rightarrow 2\text{-Enc} \rightarrow 3\text{-Enc}$ maximum).
 
 | Category | AP🧩 Options |
 | --- | --- |
@@ -1496,11 +1425,25 @@ Monster Armor🧥: Subtract monster Armor🧥 (0 to 3, rare 4).
 
 Apply Wnd🩸: Add the wounding damage to any existing and record it next to the monster. Once ≥ the monster’s Vit❤️, the monster dies.
 
-Special Rule — Opportunity Attacks
+#### ⚔️ Opportunity Attacks, Breaking Melee, & Provoking (Triad Format)
 
-An Opp Atk means that an immediate (no action cost) Atk⚔️ may be made.
+##### 1. Rule (The What)
+An **Opportunity Attack (`⚔️`)** is an immediate reaction attack made against an engaged opponent without spending an action allocation (functions as an `Act(F)` reaction):
+* **Melee Only:** Opportunity Attacks can **ONLY** be executed with a melee weapon currently in hand. Ranged weapons (Shot, Hurled), spells, and magical powers can never make an Opportunity Attack.
+* **Trigger 1 — Breaking Melee:** Combatant A has already attacked Combatant B with a melee weapon, and B later (in that round or subsequent rounds) moves more than 1 square away from A (or moves beyond A's melee weapon reach) while A has Nish in that round.
+* **Trigger 2 — Vulnerable Actions in Melee:** Combatant A is engaged in melee with Combatant B, and B attempts any action after A's Nish other than: (1) Defending, (2) Swapping weapons/shields, (3) Melee attacking A, or (4) Activating an ability targeting A. Common provoking actions include:
+  1. B attacks with a hurled or shot ranged weapon while adjacent to A.
+  2. B activates an ability, spell, or power with a target other than A.
+  3. B drinks a potion, quaffs food/drink, uses mundane equipment, or performs general utility.
+* **Provoking:** When Combatant B takes any of the above triggering actions, B has **provoked** A. Combatant A *may* make an Opportunity Attack if desired (it is completely optional).
+* **Frequency & Round Cap:** A combatant may make an Opportunity Attack against each provoking opponent **once per round**. If 5 separate opponents each provoke an Opportunity Attack from combatant A in the same round, combatant A may make an Opportunity Attack against all 5 that round.
+* **The Vanilla Simplicity Rule:** Opportunity Attacks must be a plain, vanilla weapon strike. The attacker **may NOT use abilities, focus, or luck** on the Attack or Damage rolls. Normal polyhedral dice explosion rules still apply.
 
-Normally, Opp Atks must be a vanilla Atk⚔️ (no Power🔥 or Artifact🔮 use).
+##### 2. Rationale (The Why)
+Melee engagement must carry tactical weight and positional consequence. Allowing opponents to walk past frontline fighters, fire bows at point-blank range, or cast spells without interference turns combat into loose skirmish tagging. Stripping ability chains, focus, and luck ensures the reaction resolves in under 5 seconds with zero decision lag.
+
+##### 3. Failure Mechanism (The What Breaks)
+Permitting non-melee opportunity attacks or allowing complex ability/focus stacking on reactions stalls the table during other players' turns and destroys combat pacing.
 
 Notes:
 
@@ -1548,6 +1491,20 @@ Note: Since this is a comparison roll, the Attribute die explodes indefinitely o
 
 Beat Monster Atk⚔️ (10–24) → Avoid Dmg💥.
 
+#### 🎲 The Monster Advantage / Disadvantage Inversion Doctrine (Triad Format)
+
+##### 1. Rule (The What)
+In SupaFlex, GM-controlled NPCs and Monsters **NEVER roll dice**. Consequently, if an ability, trait, condition, or GM adjudication states that a Monster or NPC has Advantage or Disadvantage, it **EXCLUSIVELY** means that the player character rolling against them rolls with the opposite modifier:
+* **Monster Advantage ➔ Character Disadvantage:** If a monster has Attack Advantage, the defending player character rolls Defense at **Disadvantage** (`2L20`). If a monster has an awareness/perception advantage, a sneaking player rolls Stealth at Disadvantage.
+* **Monster Disadvantage ➔ Character Advantage:** If a monster has an Attack Disadvantage (or suffers from Weakened), the defending player character rolls Defense at **Advantage** (`2H20`). If a monster has Poison Disadvantage, the afflicted player character rolls their Poison Affliction recovery save at **Advantage** (`2H20`).
+* **Absolute Invariant:** Monsters and NPCs never roll dice and will **never directly roll or use Advantage or Disadvantage**.
+
+##### 2. Rationale (The Why)
+Preserves the foundational Player-Only Rolling Doctrine while enabling standard tabletop tactical advantages, environmental modifiers, and condition debuffs to apply seamlessly to monsters without requiring the GM to roll dice or calculate polyhedral pools.
+
+##### 3. Failure Mechanism (The What Breaks)
+Attempting to roll dice for monsters destroys the rapid cinematic pacing of SupaFlex. Failing to invert monster modifiers makes monster advantages and debuffs completely non-functional in a player-only rolling system.
+
 If Defense Fails → Player Armor AR🧥: Roll armor die (d4–d12) and subtract result from Monster Dmg💥. The remainder = Wnd🩸. This armor die roll follows the Single Die Rule (single-explode capped).
 
 Note the Block 🛡️die is never rolled in lieu of armor as the Block defense MISSED. Thus the blow has hit the character’s AR🧥.
@@ -1577,15 +1534,15 @@ Left unattended, an unconscious PC will slowly bleed out (Wnd🩸 increase 1/rnd
 Any entity created, summoned, fabricated, or purchased that can initiate combat or be targeted by attacks (e.g. companion animals, combat drones, conjured elementals, androids, homunculi) operates under the **PC Stat Inheritance Doctrine**:
 
 1. **PC Stat Inheritance (Automatic Character Scaling):**
-   * **Base Rule:** Stating **`Uses PC stats`** establishes that the entity inherits the player character's current attribute dice as its baseline stats ($\text{Might } \💪, \text{Motion } \🏃, \text{Mind } \👁️, \text{Magic } \✨, \text{Moxie } \🫀$), baseline Vitality ($\text{Vit} = \text{Moxie } \🫀$), and baseline defenses (Block, Dodge, Resistances).
+   * **Base Rule:** Stating **`Uses PC stats`** establishes that the entity inherits the player character's current attribute dice as its baseline stats (Might `💪`, Motion `🏃`, Mind `👁️`, Magic `✨`, Moxie `🫀`), baseline Vitality (`Vit = Moxie 🫀`), and baseline defenses (Block, Dodge, Resistances).
    * **Scaling Benefit:** As the player character advances and increases attribute dice through AP, their companion entities scale automatically in lockstep without requiring bloated monster statblocks or manual sheet recalculations.
    * **Unmodified Standard:** If an entity has no unusual modifications, simply stating `Uses PC stats` completely defines the creature. There is no need to redundantly specify unmodified attributes or baseline Vitality.
 
 2. **Expressing Exceptions & Overrides:**
    * Specific adaptations or specialized roles are expressed strictly as **relative modifiers** or **polyhedral dice steps** ($d4, d6, d8, d10, d12$), NEVER as arbitrary static roll numbers:
-     * **Vitality Overrides:** If Vitality differs from Moxie $\🫀$, express as a flat adjustment (`Vit 🫀+6`) or a fixed small pool (`Vit 4`).
-     * **Attack Type & Modifiers:** Melee attacks scale from Might $\💪$ (`Atk 💪+2`), Shot attacks scale from Mind $\👁️$ (`Atk 👁️/2`), Hurled attacks scale from Motion $\🏃$, and Magic attacks scale from Magic $\✨$.
-     * **Defense / Mobility Overrides:** Dodge adjustments modify Motion $\🏃$ (`Def 🏃-2` or `Def 🏃+2`), and movement rates note custom speeds (`👣 4` or `👣 10 Fly`).
+     * **Vitality Overrides:** If Vitality differs from Moxie (`🫀`), express as a flat adjustment (`Vit 🫀+6`) or a fixed small pool (`Vit 4`).
+     * **Attack Type & Modifiers:** Melee attacks scale from Might (`💪`, e.g. `Atk 💪+2`), Shot attacks scale from Mind (`👁️`, e.g. `Atk 👁️/2`), Hurled attacks scale from Motion (`🏃`), and Magic attacks scale from Magic (`✨`).
+     * **Defense / Mobility Overrides:** Dodge adjustments modify Motion (`🏃`, e.g. `Def 🏃-2` or `Def 🏃+2`), and movement rates note custom speeds (`👣 4` or `👣 10 Fly`).
 
 3. **Concrete Shorthand Examples:**
    * **Standard Hunting Companion:** `Summon Hunting Hound [A] (Uses PC stats).` *(Inherits all PC attribute dice, Vit = 🫀, standard Block and Dodge).*
@@ -1702,7 +1659,7 @@ The Luck Twist (Rule of 1):
 SupaFlex adopts an **Auto-Readied Power Card** architecture. All learned powers are immediately active and available for combat deployment on the character's **Power Card** (the active card titled "Powers" on the character sheet).
 
 * **Auto-Ready:** Every power learned through AP advancement or Path grants is instantly accessible. There are no artificial bucket limits (Primary Arsenal, Mobility & Defense, Support/Passive).
-* **Combat Regulation:** Action economy limits ($1\text{ Attack [A]} + 1\text{ Move [M]} + 1\text{ Partial [P]} + \text{Unlimited Free [F]}$, plus hybrid $\text{Attack \& Move [AM]}$) and usage frequencies ($1\text{-Rnd}, 1\text{-Enc}, 2\text{-Enc}, 3\text{-Enc}, 1\text{-⚡}, 1\text{-🍀}$) naturally govern tactical deployment during battle.
+* **Combat Regulation:** Action economy limits ($1\text{ Attack [A]} + 1\text{ Move [M]} + 1\text{ Partial [P]} + \text{Unlimited Free [F]}$, plus hybrid $\text{Attack \& Move [AM]}$) and usage frequencies (`1-Rnd`, `1-Enc`, `2-Enc`, `3-Enc`, `1-⚡`, `1-🍀`) naturally govern tactical deployment during battle.
 
 #### ⚖️ The Exclusive Stacking Master Rule
 
@@ -1797,6 +1754,8 @@ Every combat round, each character receives an action allocation of **1 Attack (
 #### Tactical Movement & The Mobile Striker Clause
 * **Standard Attack & Move Sequence:** If you do not make an Attack (A), you may freely pause and resume your Move (M) (move $\rightarrow$ pause $\rightarrow$ move). However, taking an Attack (A) action immediately concludes your turn's movement; any unused Movement Rate (MR) is forfeit.
 * **Running (Sprinting):** Running requires an Attack & Move (**AM**) action and grants full ground movement of **MR + d👣** squares (`👣+d👣` sq).
+* **Difficult Terrain:** Any tactical grid square (5x5 ft) designated as Difficult Terrain requires **2 or more Movement Rate (`👣`) points** to enter, rather than the standard 1 point. The universal default, unless otherwise noted, is a **`👣` cost of 2 per square** (e.g. severe obstructions like waist-deep mud or steep rubble = 3 `👣`).
+* **Breaking Melee:** Moving more than 1 square away from an opponent who has engaged you in melee while they have Nish in that round provokes an Opportunity Attack. See [Opportunity Attacks](#⚔️-opportunity-attacks-breaking-melee--provoking-triad-format).
 * **Mobile Striker Clause:** Specialized Move (M) or Partial (P) powers or items can explicitly grant split-movement ("You may split your movement before and after this attack"), providing tactical identity for mobility builds.
 * **Skill Action Cost:** Skills🎓 default to a Partial (P) action unless an ability or GM specifies Free (F). GM-initiated awareness or perception checks are always Free (F).
 * **Jumping Actions:** Standing Jump is **d👣** squares as a Move (**M**) action. Running Jump is running up to **MR 👣** on the ground plus a **d👣** jump as an Attack & Move (**AM**) action (using Movement Rate die `d(MR) ≤ MR`).
@@ -1885,15 +1844,18 @@ Show of Flair → Attack (A) with a rapier, Free (F) to bow dramatically (Flair 
 
 Shoot and Run → Attack (A) with a bow, Move (M) down the hallway, and Partial (P) to run (adds d(MR)) further.
 
-### ⏳ Duration
+### ⏳ Duration (Dur)
 
-Default = 1 rnd unless otherwise stated/obvious.
+If a duration is listed, it will appear directly within the ability’s “Effect”. Often the Dur is obvious and not listed. The default for non-obvious durations is **1 Rnd** (ends on the character/monster's next Nish🚩).
 
-1 rnd: Effect begins immediately and lasts until the user’s next Nish🚩.
+The full collection of officially permitted Durations in SupaFlex is:
+* **`Instant`:** Resolves immediately upon execution with no lingering state (typical for attacks, damage, or sudden shifts; obvious and often omitted).
+* **`this Rnd`:** Persists through the remainder of the current combat round, concluding when the GM calls for new Nish rolls.
+* **`1 Rnd` (The Universal Default):** Effect begins immediately and concludes upon the character/monster's **next Nish (`🚩`)**.
+* **`Encounter`:** Persists throughout the active encounter, concluding when the GM declares the encounter over.
+* **`next …`:** Persists until the specified upcoming roll or action occurs, expiring immediately after that event resolves (e.g. `next Def`, `next Atk`, `next Save`, `next Skill check`).
 
-Example: Used at Rnd start, effect ends when that PC’s next Initiative🚩 arrives.
-
-Design Goal: Minimal tracking. Durations should be obvious, instant, 1 rnd, or entire Enc. Avoid multi-rnd tracking.
+**Design Goal:** Minimal tracking. Durations are kept strictly to obvious, instant, 1 Rnd, Encounter, or a single "next..." action. Multi-round numeric tracking (e.g. "for 3 rounds") is strictly prohibited.
 
 ### 🎯 Range
 
@@ -1926,29 +1888,36 @@ When abilities affect multiple squares or areas, they strictly enforce standard,
 > **Strict Prohibition of Cones**
 > Traditional tabletop "cones" are strictly prohibited in SupaFlex to eliminate ambiguous grid templates, table arguments, and diagonal-edge disputes. All spread or sweeping effects are cleanly represented as rectangular footprints (e.g., a fiery breath or shotgun spray is standardized as a `3x6` rectangle).
 
-## 💀 Hazards / Afflictions
+## 💀 Hazards & Afflictions (Triad Format)
 
-Note: Hazards / Afflictions - terms are synonymous.
+Hazards and Afflictions are strictly decoupled into two distinct categories in SupaFlex.
 
-Examples:
+### 1. Rule (The What)
 
-Stunned: Lose AM actions.
+#### 🌋 Hazard (`💀`)
+A **Hazard** is an environmental feature, battlefield obstacle, dangerous terrain situation, or trap that can either initiate an Affliction or trigger an immediate damaging or unwanted check.
+* **Examples:** Pit traps, walls of fire, pools of lava, collapsing ceilings, toxic gas clouds, slippery ice, or very rough ground (trip hazard).
+* **Resolution:** Entering, crossing, or being forced into a hazard triggers an immediate active roll (e.g. `Save 🫀 or Poisoned`, `Save 🏃 or fall into pit`, `Save ✨ or 2d6 Dmg`).
 
-Weakened: –2 rolls & MR👣–2.
+#### 🩸 Affliction (`💀`)
+An **Affliction** is an ongoing physical, physiological, mental, or magical ailment or condition suffered by a target (character or monster). The afflicted target gets to roll versus the affliction each round to try and recover or end the affliction.
+* **Defined Afflictions in SupaFlex:** Poison, Disease, Death (via Death Checks), Burning, Weakness / Weakened, Suffocation, Held, Immobilized, Stunned, Paralyzed, Frozen, Blinded.
+* **The Zero-Duration Rule:** Afflictions NEVER have a fixed multi-round duration string (never *"Stunned for 1 rnd"* or *"Weakened for encounter"*). They persist dynamically until the target successfully saves or dies.
+* **Character Affliction Recovery:** When a character suffers from an affliction, they immediately get to make the indicated recovery roll (e.g. `🫀^20`, `Resist Death^-Vit+5`, `💪^💪`, etc.) as an `Act(F)` upon infliction, and on **each of the character's Nishes (`🚩`)** until the character succeeds or dies.
+* **Monster Affliction Recovery:** Under the Player-Only Rolling Doctrine, monsters NEVER roll dice. When a monster is afflicted, the character who inflicted it rolls the designated check (e.g. `💪^💪` or `👁️^🫀`) immediately upon infliction, and on **each of that character's Nishes (`🚩`)** to see if the monster is still afflicted or breaks free.
+* **Fatigue Wounds vs. Affliction Triggers:** If an Affliction triggers upon inflicting Wounds (`🩸`), Fatigue Wounds do NOT trigger the affliction (as fatigue bruising/tiring implies no skin piercing or toxin delivery). However, if the target's Armor (`AR 🧥`) fails to absorb all rolled Damage, the weapon has pierced flesh, and the affliction applies normally.
 
-Immobilized: Cannot move.
+#### 📉 Weakness or Weakened Affliction
+When a target suffers from the Weakness or Weakened Affliction:
+1. **All Active Rolls Disadvantaged:** All of the target's active rolls (Attack checks, Defense checks, Attribute checks, and Saves) are rolled at **Disadvantage** (roll `2L20` for skilled checks; or roll twice and take the lower die). If a monster is Weakened, any player character rolling against that monster rolls at **Advantage** (`2H20`) per the Monster Inversion Doctrine.
+2. **Movement Rate Halved (Rounded Up):** The target's Movement Rate (`👣`) is **halved, rounded up** (e.g. `👣5` becomes `👣3`, `👣3` becomes `👣2`; minimum 1 sq).
+3. **No Effect on Damage or Armor:** Weakened has **NO effect** on rolls or stats that cannot be disadvantaged, such as weapon Damage rolls (`Dmg 💥`) or Armor absorption rolls (`AR 🧥`).
 
-Frozen, Paralyzed, Poisoned, Burning, Held (magical/physical), etc.
+### 2. Rationale (The Why)
+Separating environmental catalysts (Hazards) from biological/magical states (Afflictions) eliminates confusion over when checks occur. Defining recovery checks on Nishes preserves round-by-round tension without requiring round-counter tokens. Disadvantage for Weakened provides clean polyhedral debuffing without mid-turn math subtraction.
 
-Rules:
-
-Afflictions do NOT have a stated duration (no “for 1 rnd” or “for encounter” etc. - no duration), rather they last until the target saves.
-
-Each rnd on their Nish🚩, PCs get an F save roll vs each affliction on themselves.
-
-On Monster Nish🚩, PCs who caused afflictions to that monster roll again (Skill🎓 vs Monster Atr✅) to see if it persists on the monster.
-
-If an Affliction triggers upon PC Wounds🩸, do note that Fatigue Wnds🩸 does NOT count as a trigger as the wounds🩸 are Fatigue only bruising/tiring no skin contact or piercing is implied. But if the PC’s AR roll did not stop all the actual DMG, then part of the Fatigue Wnds🩸did touch and pierce skin, so the affliction does apply.
+### 3. Failure Mechanism (The What Breaks)
+Conflating hazards and afflictions leads to players attempting to "save vs. lava" to cure burns or tracking arbitrary multi-round timers. Subtracting flat numbers (-2) for Weakened creates calculation drag and breaks advantage/disadvantage parity.
 
 ### 🎲 Universal Roll Required Doctrine
 In SupaFlex, rarely if ever does a target (friend, foe, or PC) simply have an unavoidable negative effect or damage applied passively without an active check or saving throw. Hostile effects, conditions, and area attacks should almost ALWAYS involve an active roll (e.g. `Save ✨ or Dmg ✨`, `Save 🫀 or Poisoned`, `Atk 👁️ Dmg d8`).
@@ -2561,14 +2530,21 @@ Custom element design enforces a strict whitelist of 8 universal icons:
 
 ### 🎲 The Player-Only Rolling Doctrine & Caret (`^`) Standard
 
-In SupaFlex, **ONLY PLAYERS ROLL DICE**. Monsters and non-player targets never roll saving throws or defense checks. Hostile offensive maneuvers and status conditions are framed strictly from the player's perspective, testing the player's active roll against the target's static attribute rating using Caret (`^`) notation:
+In SupaFlex, **ONLY PLAYERS ROLL DICE**. Monsters and non-player targets never roll saving throws or defense checks. Hostile offensive maneuvers, status conditions, and afflictions are framed strictly from the player's perspective, testing the player's active roll against the target's static attribute rating using Caret (`^`) notation:
 
-$$\mathbf{[PC\text{ }Roll]\text{^}[Target\text{ }Static\text{ }Atr]\text{ }or\text{ }[Hazard/Condition]}$$
+```text
+[PC Roll]^[Target Static Atr] or [Affliction/Condition]
+```
 
 * **Wrestling / Restraint Contest:** `💪^💪 or target Restrained`
 * **Tripping / Knockdown:** `💪^🏃 or target Prone`
 * **Mental Disorientation:** `👁️^👁️ or target Stunned`
 * **Stamina / Toxin Onset:** `🫀^🫀 or target Incapacitated`
+
+#### 🎲 The Monster Advantage / Disadvantage Inversion Invariant
+Because monsters never roll dice, any condition or ability granting a monster Advantage or Disadvantage **EXCLUSIVELY** inverts the player character's roll:
+* **Monster Advantage ➔ Character Disadvantage:** Defending character rolls at **Disadvantage** (`2L20`).
+* **Monster Disadvantage ➔ Character Advantage:** Defending character rolls at **Advantage** (`2H20`).
 
 ---
 
@@ -2581,14 +2557,14 @@ When an attack or trigger directly produces an automatic mechanical consequence,
 
 ---
 
-### 💀 Core Hazards & Status Conditions
+### 💀 Core Afflictions, Hazards & Status Conditions
 
-Status conditions are binary, high-impact tactical states. 
+Status conditions and Afflictions are binary, high-impact tactical states. 
 
 #### The Zero-Duration Rule
-SupaFlex **NEVER** appends duration strings to conditions (do NOT write *"Stunned for 1 rnd"* or *"Weakened for encounter"*). Recovery from hazards is governed automatically by the core Hazard recovery rules (the player rolls Atr^(Foe's Atr) to see if the foe breaks the affliction).
+SupaFlex **NEVER** appends duration strings to conditions or afflictions (do NOT write *"Stunned for 1 rnd"* or *"Weakened for encounter"*). Recovery from afflictions is governed automatically by the core Affliction recovery rules (the player rolls `Atr^Target Atr` on their Nish to see if the foe breaks free, or rolls on their own Nish if afflicted).
 
-#### Poison Hazard Specification Standard
+#### Poison Hazard & Affliction Specification Standard
 Unlike uniform conditions (`Stunned`, `Weakened`, `Prone`, `Blinded`), **Poison is a diverse category** with varied toxicity levels. All poison applications MUST state their tick rate or toxin type:
 * Ongoing damage rate: `Poisoned 1 Wnd/Rnd`, `Poisoned 2 Wnd/Rnd`, or `Poisoned d4 Wnds/Rnd`.
 * Catalog-linked toxin: `Poisoned as per type` (for coated blades or venom darts).
@@ -2662,3 +2638,298 @@ When running combat encounters, the GM may optionally reward swift reflexes:
 <!-- /rule:appendix.optional_rules -->
 
 ---
+
+---
+
+<!-- @rule:appendix.master_terminology anchor="#appendix-c-master-terminology--system-lexicon" -->
+## 📖 Appendix C: Master Terminology & System Lexicon
+
+This appendix serves as the definitive reference glossary and symbolic lexicon for SupaFlex. It codifies all core mechanics, action categories, status conditions, and game iconography to maintain an authoritative, unambiguous design baseline.
+
+---
+
+### 🎨 Part 1: Master Icon & Emoji Lexicon
+
+The comprehensive directory of all official icons used across character sheets, equipment catalogs, and combatHUD interfaces:
+
+| 📖 Term / Concept | 🙂 Symbol | Domain & Usage Standard |
+| :--- | :---: | :--- |
+| **Abilities** | **🧠** | Master category for learned powers, artifacts, and skills |
+| **Actions** | **🔷** | The 5 round action allocations (`AM`, `A`, `M`, `P`, `F`) |
+| **Advantage / Disadvantage** | **2H20 / 2L20** | Roll 2 dice and take higher (`2H20`) or lower (`2L20`) |
+| **Affliction** | **💀** | Ongoing conditions with per-round recovery saves (Poison, Stunned, etc.) |
+| **Advancement Points (AP)** | **🧩** | Point-buy currency for progression and element acquisition |
+| **Armor Rating / Reduction (AR)** | **🧥** | Damage reduction die or static value absorbed when hit |
+| **Armor** | **🧥** | Protective body garments and suits |
+| **Art** | **🎨** | Crafting discipline & artistic creation |
+| **Artifacts** | **🔮** | Legendary treasures bearing unique powers or permanent enchantments |
+| **Attribute (Atr)** | **✅** | The 5 core bodily/mental stats (`Might`, `Motion`, `Mind`, `Magic`, `Moxie`) |
+| **Block** | **🛡️** | Physical melee defense roll using Might (`💪`) and a weapon/shield |
+| **Bolt (5 Sparks)** | **⚡** | Charged energy reserve of 5 Sparks (⚡ strictly represents 5 Sparks) |
+| **Camp Gear** | **🏕️** | Bedrolls, tents, mess kits, and wilderness survival hardware |
+| **Clothing & Personal** | **👕** | Non-armor attire, jewelry, footwear, and personal effects |
+| **Combat** | **⚔️** | Tactical combat encounters and conflict sequences |
+| **Containers** | **🧺** | Pouches, sacks, chests, and storage gear |
+| **Critical** | **💀** | Natural 1 on d20; triggers Critical consequences |
+| **Days** | **📅** | Long-term narrative timekeeping & daily resets |
+| **Damage (Dmg)** | **💥** | Polyhedral damage rolled on a successful hit |
+| **Dual Wield** | **⚔️** | Fighting with a weapon in each hand |
+| **Duration (Dur)** | **⏳** | Active lifespan of an effect (`Instant`, `this Rnd`, `1 Rnd`, `Encounter`, `next …`) |
+| **Elements** | **🌟** | The modular building blocks of SupaFlex |
+| **Entertainment & Music** | **🎵** | Musical instruments, games, and performance supplies |
+| **Equipment** | **🧰** | Synonym for Gear; physical hardware items |
+| **Exotics** | **🧿** | Combat powers granted by gear or modular modifications |
+| **Food & Drink** | **🥖** | Rations, provisions, trail food, and potable liquids |
+| **Free Ability** | **⭕** | Ability or trait costing 0 AP (`free Trait`) |
+| **Gear** | **⚙️** | Master category for all physical items and equipment |
+| **Game Master (GM)** | **🔎** | Narrative adjudicator and encounter runner |
+| **Hazard** | **💀** | Environmental obstacle, terrain danger, or trap triggering checks |
+| **Junk** | **🗑️** | Broken remnants, scrap, and non-functional salvage |
+| **Kits** | **📦** | Pre-assembled hardware suites (Adventurer's Kit, Healer's Kit) |
+| **Level** | **⭐** | Character milestone tier derived from accumulated AP |
+| **Luck** | **🍀** | Heroic chit currency for rerolls, Twists, or 1-Enc Bolt substitution |
+| **Magic** | **✨** | Core attribute for spellcraft, arcane energy, psionics, and sorce |
+| **Martial Arts** | **🥋** | Specialized unarmed and close-quarters combat disciplines |
+| **Medical Supplies** | **⚕️** | Bandages, salves, triage kits, and curative items |
+| **Might** | **💪** | Core attribute for physical power, melee attacks, and blocking |
+| **Mind** | **👁️** | Core attribute for intellect, shot weapons, perception, and tech |
+| **Mods** | **🔌** | Modular weapon and armor attachments providing exotics/enhancements |
+| **Money / Valuables** | **💰** | Currency (gold `g`, silver `s`) and trade treasure |
+| **Monster** | **🐉** | Adversary creatures, enemies, and hostile entities |
+| **Motion** | **🏃** | Core attribute for agility, dodging, stealth, and hurled weapons |
+| **Moxie** | **🫀** | Core attribute for vitality, stamina, toxin saves, and death checks |
+| **Movement Rate (MR)** | **👣** | Tactical movement in 5-ft squares (e.g. `👣6`, `jump 👣+2`) |
+| **Natural Weapons** | **🥊** | Claws, bites, fangs, horns, and innate monster attacks |
+| **Nish** | **🚩** | Initiative roll and combat turn sequence |
+| **Notes** | **ℹ️** | Narrative lore, sensory descriptions, and physical details |
+| **Paths** | **🧭** | Progression suites (Class, Race, Innate, Bonus, Universal) |
+| **Power** | **🔥** | Intangible martial, spell, or psionic ability unlocked via AP |
+| **Racial** | **🧬** | Innate biological/species heritage boons |
+| **Range** | **🎯** | Tactical distance band (`Self`, `Touch`, `1`, `2`, `3`, `Short`, `Medium`, `Long`, `Extreme`) |
+| **Rules** | **📜** | Core system mechanics and table protocols |
+| **Sets** | **🗂️** | 1-AP modular packages containing multiple related items or abilities |
+| **Shields** | **🛡️** | Protective defensive armaments providing Block ratings |
+| **Single Weapon** | **🗡️** | Fighting with a lone single-handed weapon |
+| **Skills** | **🎓** | Trainable proficiencies granting `2H20` on ability checks |
+| **Supplies** | **🎒** | Mundane utility items and consumable adventuring gear |
+| **Tools & Equipment** | **🛠️** | Artisan tools, thievery picks, and mechanical instruments |
+| **Traits** | **🧬** | Modular passive boons, perks, and physiological rules |
+| **Travel & Mounts** | **🐴** | Pack animals, steeds, wagons, and vehicles |
+| **Tremendous** | **🌟** | Natural 20 on d20; triggers tremendous boons |
+| **Unarmed** | **🥊** | Brawling with fists, kicks, and grapples |
+| **Usage** | **🔄** | Activation limit cadence (`1-⚡`, `1-🍀`, `1-Enc`, `2-Enc`, `3-Enc`, `1-Rnd`) |
+| **Vault** | **📦** | Storage inventory for off-character equipment |
+| **Vitality (Vit)** | **❤️** | Maximum health pool before falling unconscious |
+| **Weapons** | **⚔️** | Offensive armaments (Melee, Shot, Hurled) |
+| **Wounds (Wnd)** | **🩸** | Cumulative injury damage tracked against Vitality |
+| **Writing & Scribing** | **✒️** | Books, parchment, ink, scrolls, and maps |
+
+#### 🐉 Monster Stat Block Icon Standards
+
+| Stat Block Element | 🙂 Symbol | Application & Reading Format |
+| :--- | :---: | :--- |
+| **Initiative (Nish)** | **🚩** | Fixed initiative score (e.g. `🚩14`) |
+| **Movement Rate (MR)** | **👣** | Ground speed in 5-ft squares (e.g. `👣10`) |
+| **Attack / Damage** | **⚔️** | Attack rating and damage die/value (e.g. `⚔️18/12`) |
+| **Defense / Armor (AR)** | **🛡️** | Defense target number and flat armor reduction (e.g. `🛡️16/2`) |
+| **Vitality (Vit)** | **❤️** | Total health pool before death (e.g. `❤️12`) |
+| **Attributes** | **[💪#/🏃#/👁️#/✨#/🫀#]** | Fixed static ratings for Caret comparison checks |
+
+---
+
+### 📖 Part 2: Master Alphabetical Lexicon (A–Z)
+
+#### Ability (`🧠`)
+Any intangible, learned capability unlocked with Advancement Points (AP). Abilities are categorized strictly into three functional groups: **Powers (`🔥`)**, **Artifacts (`🔮`)**, and **Skills (`🎓`)**. All abilities belong to an advancement **Path (`🧭`)** or the open **Universal Path**.
+
+#### Action Economy (`🔷`)
+The structured 5-channel budget governing combat choices each round:
+* **Attack & Move (`AM`):** Consumes both the Attack and Move allocations (used for running/sprinting or heavy full-round maneuvers).
+* **Attack (`A`):** Standard offensive strike, spell cast, or active power activation.
+* **Move (`M`):** Tactical movement up to your full Movement Rate (`MR 👣`).
+* **Partial (`P`):** Preparatory utility (drawing a weapon, quaffing a potion, opening a door, skill check).
+* **Free (`F`):** Instantaneous reactions (Block, Dodge, AR rolls, verbal shouts, dropping items). Unlimited per round at GM discretion.
+
+#### Advantage & Disadvantage (`2H20` / `2L20`)
+The core dice variance mechanic in SupaFlex:
+* **Advantage:** Roll two d20s and take the higher result (`2H20` for skilled tests), or roll twice and keep the better result.
+* **Disadvantage:** Roll two d20s and take the lower result (`2L20` for skilled tests), or roll twice and keep the worse result.
+
+#### Affliction (`💀`)
+An ongoing physiological, mental, or magical debilitating ailment or condition suffered by a target (character or monster).
+* **Defined Afflictions:** Poison, Disease, Death (via Death Checks), Burning, Weakness / Weakened, Suffocation, Held, Immobilized, Stunned, Paralyzed, Frozen, Blinded.
+* **The Zero-Duration Rule:** Afflictions never carry static multi-round duration strings. They persist until cured or saved against.
+* **Recovery Timing:** An afflicted character rolls immediately upon infliction, and on **each of their Nishes (`🚩`)** as an `Act(F)` until cured or dead. For monsters, the inflicting character rolls immediately upon infliction and on each of their Nishes.
+
+#### Advancement Points (AP `🧩`)
+The universal progression currency of SupaFlex. AP is awarded by the GM and spent to purchase Sets (1 AP), individual in-path elements (1 AP), unlock new Paths (4 AP), or acquire out-of-path capabilities (3 AP with GM approval).
+
+#### Armor Rating / Reduction (`AR 🧥`)
+The protective value of worn armor. When a character's defense check fails, they roll their armor die (`d4` to `d12`, single-explode capped) and subtract the result from incoming Damage. The remaining damage becomes Wounds (`🩸`).
+
+#### Attack (`Atk ⚔️`)
+An offensive combat action rolled using `2H20 + Atr Die + Bonus` (if skilled) vs. the target's static Defense. Attack dice explode indefinitely on maximum face value.
+
+#### Attribute (`Atr ✅`)
+The 5 foundational attributes governing all physical and supernatural capabilities: **Might (`💪`)**, **Motion (`🏃`)**, **Mind (`👁️`)**, **Magic (`✨`)**, and **Moxie (`🫀`)**. Attribute ratings are expressed as polyhedral dice (`d4` through `d12` and beyond).
+
+#### Bleeding Out
+An unconscious character with negative Vitality (`Vit < 0`) suffers +1 Wound automatically after each Death Check except the first, representing active hemorrhage. Bleeding continues until bandaged, stabilized with first aid, or healed magically.
+
+#### Block (`Blk 🛡️`)
+A physical melee defense roll using Might (`💪`). Valid against any attack that could be dodged if the defender wields a shield or a weapon with a Block Cap equal to or exceeding the incoming attack.
+
+#### Bolt (`⚡`)
+A concentrated energy reserve consisting of **5 accumulated Sparks** (`⚡ = 5 Sparks`). Expended to power high-impact `1-⚡` abilities or tactical pivots. The `⚡` icon strictly represents a complete Bolt and is never applied to individual sparks.
+
+#### Breaking Melee
+Moving more than 1 square away from an opponent who has engaged you in melee (or moving beyond their melee reach) while that opponent has Nish in the round. Breaking Melee provokes an immediate Opportunity Attack.
+
+#### Caret Notation (`^`)
+The foundational comparison syntax used under the Player-Only Rolling Doctrine: `[PC Roll]^[Target Static Rating] or [Consequence]`. Because monsters never roll dice, all contests are framed as the player rolling against the opponent's static rating.
+
+#### Critical (`💀`)
+A roll of natural 1 on the primary d20 during an Attack or Defense check. Triggers an automatic Critical fumble or consequence on the combat tables.
+
+#### Death Check (`🫀`)
+A mandatory Moxie (`🫀`) ability check made immediately when Current Vitality drops to -1 or lower, and repeated on each of the character's Nishes until stabilized or dead. Difficulty = `5 + (- Current Vit)`. Unskilled characters roll `1d20 + 🫀`; skilled characters (with the Death Check skill) roll `2H20 + 🫀`.
+
+#### Difficult Terrain
+Tactical battlefield squares (5x5 ft) that require **2 or more Movement Rate (`👣`) points** to enter rather than the standard 1 point. The universal default cost is **2 `👣` per square** unless designated otherwise.
+
+#### Disenchanting
+The process of breaking down magic items, exotics, or artifacts to harvest raw magical **Essence**, which is then used to forge or upgrade other equipment.
+
+#### Dodge (`Def 🏃`)
+An agile defense roll using Motion (`🏃`). Nearly always valid against physical melee, hurled, and projectile attacks.
+
+#### Duration (`Dur ⏳`)
+The lifespan of an ability's active effect, stated in the ability's "Effect" line. Officially permitted durations are:
+* **`Instant`:** Resolves immediately with no lingering state.
+* **`this Rnd`:** Persists until the GM calls for new Nish rolls at the end of the round.
+* **`1 Rnd` (Universal Default):** Persists until the user's or monster's next Nish (`🚩`).
+* **`Encounter`:** Persists until the active encounter concludes.
+* **`next …`:** Persists until the specified upcoming roll or action occurs (e.g. `next Def`, `next Atk`, `next Save`).
+
+#### Elements (`🌟`)
+The discrete, modular building blocks of SupaFlex: Weapons, Armor, Shields, Gear, Powers, Mods, and Exotics.
+
+#### Encounter (`⚔️`)
+A self-contained tactical combat scene or high-stakes challenge. Concludes when the GM officially declares threats neutralized. Encounter-based abilities (`1-Enc`, `2-Enc`, `3-Enc`) reset upon encounter conclusion.
+
+#### Essence
+The distilled magical currency harvested from disenchanted magical equipment, used for crafting, item upgrades, and enchanting.
+
+#### Exotics (`🧿`)
+Tactical combat modifications, masteries, and active abilities granted by physical gear, installed weapon/armor mods, or signature devices.
+
+#### Exploding Die
+A die rolling its maximum face value (e.g. 8 on a d8) is rolled again, adding the new result to the running total. Comparison rolls (Attacks, Defenses, Skill checks, Flat Attribute dice) explode indefinitely. Weapon Damage and Armor reduction dice are governed by the Single Die Rule (maximum 1 explosion).
+
+#### Fatigue Wounds (`🩸`)
+Baseline exhaustion and non-lethal bruising inflicted by monsters (calculated as the ten's digit of monster damage + 1). Fatigue wounds do not trigger wound-based afflictions (poison, disease) if the character's armor absorbed all actual rolled damage.
+
+#### Focus (`🎯`)
+A heroic resource representing concentrated willpower and physical precision. Spending Focus adds flat numerical bonuses or extra dice to a roll already made. Focus and Luck are strictly mutually exclusive on the same roll.
+
+#### Free Ability (`⭕`)
+An innate baseline ability, weapon, or trait costing 0 AP (`free Trait`).
+
+#### Gear (`⚙️`) & Kits (`📦`)
+Gear is the master taxonomy for all physical items in SupaFlex. Kits are curated, pre-packaged hardware bundles (e.g. Adventurer's Kit, Healer's Kit, Thievery Kit) acquired as a single item.
+
+#### Hazard (`💀`)
+An environmental feature, trap, or terrain danger (pits, lava, fire walls, toxic clouds, icy ledges) that triggers an active roll or inflicts immediate damage and/or an Affliction.
+
+#### Innate Path
+The foundational beginner and heritage path of a character (formerly designated as Base Path).
+
+#### Luck (`🍀`)
+Heroic luck chits (starting with 3, maximum pool of 5) awarded for creative, entertaining, or heroic play. A Luck chit may be spent to:
+1. Reroll all dice involved in a check, taking the better result.
+2. Execute a **Luck Twist (Rule of 1)** to alter an ability (+1 Spark, -1 Action Cost, +1 Target, +1 Die Tier, +1 Range Band, +1 Push).
+3. Substitute once per encounter in place of a Bolt (`⚡`) to activate a `1-⚡` ability.
+
+#### Monster Advantage / Disadvantage Inversion Doctrine
+Because GM-controlled monsters and NPCs never roll dice, any condition, buff, or debuff granting a monster Advantage or Disadvantage exclusively inverts the player character's check:
+* **Monster Advantage ➔ Character Disadvantage (`2L20`):** Character rolls at Disadvantage (e.g. monster has attack advantage $\rightarrow$ character defends at Disadvantage).
+* **Monster Disadvantage ➔ Character Advantage (`2H20`):** Character rolls at Advantage (e.g. monster is Weakened $\rightarrow$ character defends at Advantage; monster has poison disadvantage $\rightarrow$ character saves at Advantage).
+
+#### Movement Rate (`MR` / `👣`)
+A character's tactical movement allowance in 5-foot squares per Move (`M`) action. Standard humans possess `MR 6` (30 ft).
+
+#### Nish (`🚩`)
+Initiative. A character's speed and readiness in combat, determining turn order each round.
+
+#### Opportunity Attack (`⚔️`)
+An immediate melee-only reaction attack (`Act(F)`) executed when an engaged opponent moves more than 1 square away ("Breaking Melee") or takes a vulnerable non-melee action in melee reach.
+* **Melee Only:** Can only be made with a melee weapon in hand.
+* **Frequency:** May be made against each provoking opponent **once per round**.
+* **Vanilla Simplicity Rule:** The attacker cannot apply abilities, focus, or luck to the attack or damage rolls (polyhedral dice explosions still apply).
+
+#### Out of Path
+Learning an element outside your character's active paths. Costs a flat **3 AP** and requires GM approval.
+
+#### Paths (`🧭`)
+The modular progression suites that organize character capabilities. Divided into Class Paths, Race Paths, Innate Paths, Bonus Paths, and the open Universal Path.
+
+#### Power (`🔥`)
+An intangible active combat ability (spell, psionic discipline, martial maneuver) unlocked with AP.
+
+#### Provoking
+Taking an action while engaged in melee (Breaking Melee, firing ranged weapons, casting spells at non-adjacent targets, using mundane items) that grants the adjacent opponent an Opportunity Attack.
+
+#### Range Bands (`🎯`)
+The 9 standardized engagement distances: `Self`, `Touch`, `1` (adjacent melee), `2` (reach melee), `3` (extended reach), `Short` ($\le 6$ sq), `Medium` ($\le 12$ sq), `Long` ($\le 24$ sq), `Extreme` ($\ge 25$ sq).
+
+#### Resist
+A defensive saving throw using Magic (`✨`) for supernatural/area effects, or Moxie (`🫀`) for bodily/toxin hazards.
+
+#### Reverse Shift
+An optional combat rule for `d4` weapons allowing a character who missed an Attack by $\le 4$ to convert the miss into a hit by subtracting the deficit from their rolled Damage.
+
+#### Running / Sprinting (`AM`)
+Expending both Attack and Move allocations to sprint `MR + d👣` squares on the ground.
+
+#### Sets (`🗂️`)
+Pre-packaged collections of weapons, armor, shields, or abilities that can be acquired collectively for a single Advancement Point (1 AP).
+
+#### Shields (`🛡️`)
+Defensive armaments providing active Block defense modifiers and Block Cap limits.
+
+#### Single Die Rule
+Weapon Damage dice and Armor reduction dice may explode at most once on their maximum face value.
+
+#### Skills (`🎓`)
+Trained proficiencies that elevate an attribute check from an unskilled 1d20 to a skilled `2H20` roll.
+
+#### Sparks
+Kinetic combat energy points accumulated during battle (via natural 20s, natural 1s, or exploding dice). Accumulating 5 sparks generates 1 **Bolt (`⚡`)**. The word "spark" is written in plain text without the `⚡` emoji.
+
+#### Stunned
+A debilitating affliction causing the target to lose their Attack (`A`) and Move (`M`) action allocations for the round.
+
+#### Tactical Movement
+Ground movement measured in 5-foot squares. Allows moving, pausing, and resuming prior to taking an Attack action.
+
+#### Traits (`🧬`)
+Modular passive capabilities, inherent biological rules, and archetype perks.
+
+#### Tremendous (`🌟`)
+A natural 20 on the primary d20 during an Attack or Defense check, triggering a Tremendous combat boon.
+
+#### Universal Path (`🧭`)
+The baseline open capability path accessible to all characters. Elements on the Universal Path cost a flat **3 AP** and require no GM approval.
+
+#### Usage (`🔄`)
+The activation frequency cap of an ability: `1-⚡`, `1-🍀`, `1-Enc`, `2-Enc`, `3-Enc`, `1-Rnd`.
+
+#### Vitality (`Vit` / `❤️`)
+A character's total health pool (`Vit = Moxie 🫀` by default). Reaching 0 causes unconsciousness; negative Vitality triggers Death Checks.
+
+#### Weakness / Weakened
+An ongoing affliction causing all of the target's active rolls (Attacks, Defenses, Saves) to be rolled at **Disadvantage (`2L20`)**, and halving their **Movement Rate (`👣`, rounded up)**. Weakened has no effect on rolled Damage (`Dmg 💥`) or Armor (`AR 🧥`).
+
+#### Wounds (`Wnd` / `🩸`)
+Cumulative physical damage suffered by a character or monster, tracked directly against Vitality.
+<!-- /rule:appendix.master_terminology -->
