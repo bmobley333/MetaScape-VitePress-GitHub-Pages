@@ -5,8 +5,6 @@ outline: 2
 # 🌌 SupaFlex Rules Manual
 <!-- Last updated: 2026-10-01 (Emoji Parity, 5-Attribute Standard ✨💪👁️🏃🫀 & Exotics Taxonomy Normalization) -->
 
-## 🔝 Top of Rules
-
 ## ✅ System Philosophy & Guiding Principles
 
 🎬 Cinematic – Big swing dice (d20 + Atr Die) create dramatic highs and lows that feel like movie moments. Every roll should carry weight, producing stories worth retelling.
@@ -30,6 +28,119 @@ outline: 2
 🎯 KISS & Data De-Duplication – Keep It Simple & Single-source-of-truth. Never duplicate database-backed tables (Weapons, Armor, Shields, Gear, Powers, Artifacts, Skill Sets, Monsters, and Treasure) as static text in markdown rules documents; query Supabase or link to interactive catalogs to maintain single-source-of-truth DRY alignment.
 
 🔄 Standardized Usage Options – All usage dropdowns, database entries, and ability definitions across SupaFlex enforce this exact 6-option list and order: `1-⚡` (1 Bolt), `1-🍀` (1 Luck), `1-Enc`, `2-Enc`, `3-Enc`, `1-Rnd`. Finite numerical charges (`3, 2, 1`) are strictly reserved for physical Chaos Gauntlet Gems (which crack and auto-shatter upon using the 3rd charge) and mundane inventory supply item quantities.
+
+## ⚡ Player Fast-Reference (The Table Cheat Sheet)
+
+<!-- @rule:player.cheat_sheet anchor="#player-fast-reference-the-table-cheat-sheet" -->
+<!-- @popover:player.cheat_sheet -->
+::: details ⚡ Quick Reference: Combat Turn & Core Mechanics
+
+* **Round Action Pool** — Every combat round, you have 1 Attack `Act(A)`, 1 Move `Act(M)`, 1 Partial `Act(P)`, and unlimited Free `Act(F)` reactions.
+* **Running Strike / Sprint** — Combine your Attack and Move into a single hybrid `Act(AM)`.
+* **Core Rolls** — Unskilled = `1d20 + Atr Die` | Skilled = `2H20 + Atr Die` (roll two d20s, keep highest).
+* **Tremendous & Critical** — `TT 🌟` (Natural 20 on kept die) grants narrative triumph; `CC 💀` (Natural 1 on kept die) causes tactical setback.
+* **Defenses** — Dodge `🏃`/`🫀` (vs any attack) | Block `⚔️`/`🛡️` (vs melee within Block Cap) | Resist `MR ✨` (vs magic/mental). Armor AR `🧥` rolls if Dodge or Block fails!
+
+:::
+<!-- /popover:player.cheat_sheet -->
+<!-- /rule:player.cheat_sheet -->
+
+### ⏱️ The Combat Turn Sequence (At a Glance)
+1. **Initiative (Nish 🚩):** Act in order from highest to lowest Nish. On ties, players act before monsters.
+2. **Action Pool on Your Turn:** You receive a fresh pool of **4 Action Channels** every round:
+   * **`Act(A)` Attack:** Make a weapon attack, invoke an offensive Power, or execute a martial maneuver.
+   * **`Act(M)` Move:** Move up to your full Movement Rate in squares (`MR 👣`). If you take no Attack, you may freely pause and resume movement (`move ➔ pause ➔ move`).
+   * **`Act(P)` Partial:** Utility action—quaff a potion, swap weapons, reload crossbow/firearm, bandage a wound, or interact with the environment.
+   * **`Act(F)` Free:** Unlimited minor actions and reactions—speech, dropping an item, drawing a weapon with Fast Draw, or executing a Block (`Act(F)` reaction).
+   * **`Act(AM)` Attack & Move (Hybrid):** Combine your Attack and Move to sprint (`👣 + d👣` squares) or execute a running charge.
+3. **Concluding Turn:** Making an Attack `Act(A)` immediately ends your movement for that round.
+
+---
+
+### 🎲 Core Roll Mechanics
+All checks compare your roll total against a target **Difficulty (Dif)** or enemy **Defense / Attack**:
+
+| Roll Type | Dice Formula | Typical Usage |
+| :--- | :---: | :--- |
+| **Unskilled Check** | `1d20 + Atr Die` | Untrained skills, weapons, armor, or raw attribute checks. |
+| **Skilled Check** | `2H20 + Atr Die` | Trained skills, weapon proficiencies, Powers🔥, and Exotics🧿. |
+| **Skilled with Advantage** | `3H20 + Atr Die` | Favorable circumstances, tactical positioning, or ally assists. |
+| **Skilled with Disadvantage** | `1d20 + Atr Die` | Penalized conditions, poor visibility, or extreme difficulty. |
+| **Unskilled with Disadvantage** | `2L20 + Atr Die` | Untrained check under adverse tactical conditions (roll 2d20, keep lowest). |
+
+#### 🌟 Tremendous & 💀 Critical
+* **Tremendous (`TT 🌟`):** Natural 20 on any kept d20. Triggers a spectacular narrative triumph or tactical windfall determined by the GM (bonus damage, weapon disarm, free repositioning).
+* **Critical (`CC 💀`):** Natural 1 on any kept d20. Triggers a notable complication or tactical setback (jammed weapon, loss of footing, dropped guard).
+* **Rule of Precedence:** A Tremendous (`TT 🌟`) always overrides a Critical (`CC 💀`) on mixed dice.
+* **No Auto-Pass/Fail:** Natural 20 and Natural 1 do not override raw math; success or failure is still determined by the total score vs. Dif.
+
+---
+
+### 🛡️ Tactical Defenses: How to Protect Yourself
+When a monster attacks you, choose **one (and only one)** active defense:
+
+```text
+                             [ INCOMING ATTACK ]
+                                      │
+                 ┌────────────────────┴────────────────────┐
+                 ▼                                         ▼
+         [ 🏃/🫀 DODGE ]                           [ ⚔️/🛡️ BLOCK ]
+       (Any Attack / Ranged)                     (Melee Attack ONLY)
+                 │                                         │
+        ┌────────┴────────┐                       ┌────────┴────────┐
+        ▼                 ▼                       ▼                 ▼
+   [ Success ]       [ Failure ]             [ Success ]       [ Failure ]
+    (0 Damage)       (Take Hit)              (0 Damage)        (Take Hit)
+                          │                                         │
+                          └───────────────────┬─────────────────────┘
+                                              ▼
+                                     [ 🧥 ROLL ARMOR AR ]
+                                    (Subtract AR from Dmg)
+                                              ▼
+                                    [ Remaining Vit Loss ]
+```
+
+1. **Dodge (`🏃 Motion` or `🫀 Moxie`):**
+   * Works against **any** incoming attack (Melee, Ranged, Thrown).
+   * **Formula:** `1d20 + Motion🏃/Moxie🫀` (Unskilled) or `2H20 + Motion🏃/Moxie🫀` (Skilled Armor).
+   * **Result:** Beats monster Attack = completely avoid the attack (0 damage). Fails = attack hits; immediately roll Armor AR `🧥` to reduce damage.
+2. **Block (`⚔️ Weapon` or `🛡️ Shield`):**
+   * Free reaction (`Act(F)`). Works **only against MELEE attacks** where monster Dmg <= weapon or shield **Max Block** rating.
+   * **Formula:** `1d20 + Block Die` (Unskilled) or `2H20 + Block Die` (Skilled).
+   * **Result:** Beats monster Attack = completely negates all damage (0 damage). Fails = hit connects; immediately roll Armor AR `🧥` to reduce damage.
+3. **Magic Resist (`MR ✨`):**
+   * Works against magical curses, psychic strikes, and non-physical status effects.
+   * **Formula:** `1d20 + Magic✨` (Unskilled) or `2H20 + Magic✨` (Skilled).
+4. **Master Invariant:** No attack may be both Blocked and Dodged. However, **Armor AR (`🧥`) ALWAYS rolls** if your Dodge or Block fails!
+
+---
+
+### 🎯 Focus Die & 🍀 Luck Points
+* **Focus Die (`🎯`):**
+  * **The Ladder:** `d12` ➔ `d10` ➔ `d8` ➔ `d6` ➔ `d4` ➔ `Exhausted`.
+  * **Spend Timing:** After rolling and seeing the result, roll your current Focus Die and add it directly to your total. All Focus dice explode on their maximum face!
+  * **Step-Down:** Spending your Focus Die steps it down one tier on the ladder.
+  * **The Flood (Refilling):** Steps up +1 at combat start, combat victory, short rest, or spending an entire round doing nothing else (`Flood`). A full night's sleep resets to maximum.
+* **Luck Points (`🍀`):**
+  * Spend 1 Luck chit to **reroll any entire roll** (pure variance mitigation).
+  * **The Luck Twist (Rule of 1):** Spend 1 Luck to grant an instant tactical boost: -1 Action Cost, +1 Target, +1 Die Tier, +1 Range Band, or +1 Push/Move square.
+* **Strict Exclusivity Invariant:** A player may use **Focus OR Luck** on a single roll, but **NEVER BOTH**.
+
+---
+
+### ❤️ Vitality, Wounds, Death Checks & Bleeding
+* **Damage Resolution:** Incoming Damage - Armor AR 🧥 = Vitality Lost (❤️).
+* **Unconscious:** When Current Vit <= 0. You collapse and cannot take actions.
+* **Death Check Trigger:** When Current Vit <= -1. Must make an immediate Death Check on your Nish each round until stabilized (Vit >= 0) or deceased.
+* **Death Check Formula:**
+  $$\text{Moxie } 🫀 \text{ Ability Check vs. } \text{Difficulty} = 5 + (-\text{Current Vit } ❤️)$$
+  *(Example: At -8 Vit, the Dif is 5 + 8 = 13).*
+* **Active Bleeding:** After each Death Check except the first, you automatically suffer **+1 Wound (`🩸`)** per round from arterial bleeding until receiving First Aid, triage, or magical healing.
+* **Rest & Healing:**
+  * **Short Rest (Post-Combat):** Brief rest opportunity restores `d4 Vit ❤️` (max 1 short rest per combat encounter).
+  * **Full Rest (Sleep):** A full night's sleep restores `2d4 Vit ❤️` and resets all encounter abilities.
+
+---
 
 ### 🏛️ System Taxonomy: Paths, Kits, Elements, Gear & Abilities
 
@@ -878,7 +989,7 @@ Luck🍀: Begin each Session with 3 Luck chits (max 5).
 ## ⭐ Leveling/Advancement {#leveling-advancement}
 
 <!-- @popover:leveling.advancement_steps -->
-::: details ⚡ Quick Reference: Leveling & AP Advancement
+::: details ⚡ Quick Reference: Leveling & AP Advancement Steps
 
 Gain 2 AP per Level
 
@@ -913,7 +1024,7 @@ Cinematic growth → Luck, quirks, and Powers🔥 drive memorable play moments.
 Customization first → Players shape advancement to match their character’s story, not a rigid class track.
 
 <!-- @rule:leveling.advancement_steps anchor="#leveling-advancement" -->
-# Leveling & AP Advancement
+### Leveling & AP Advancement Steps
 
 Gain 2 AP per Level
 
@@ -1428,7 +1539,7 @@ Apply Wnd🩸: Add the wounding damage to any existing and record it next to the
 #### ⚔️ Opportunity Attacks, Breaking Melee, & Provoking (Triad Format)
 
 ##### 1. Rule (The What)
-An **Opportunity Attack (`⚔️`)** is an immediate reaction attack made against an engaged opponent without spending an action allocation (functions as an `Act(F)` reaction):
+An **Opportunity Attack (`⚔️`)** is an immediate reaction attack made against an engaged opponent without spending an action allocation (acts as an `Act(F)` reaction):
 * **Melee Only:** Opportunity Attacks can **ONLY** be executed with a melee weapon currently in hand. Ranged weapons (Shot, Hurled), spells, and magical powers can never make an Opportunity Attack.
 * **Trigger 1 — Breaking Melee:** Combatant A has already attacked Combatant B with a melee weapon, and B later (in that round or subsequent rounds) moves more than 1 square away from A (or moves beyond A's melee weapon reach) while A has Nish in that round.
 * **Trigger 2 — Vulnerable Actions in Melee:** Combatant A is engaged in melee with Combatant B, and B attempts any action after A's Nish other than: (1) Defending, (2) Swapping weapons/shields, (3) Melee attacking A, or (4) Activating an ability targeting A. Common provoking actions include:

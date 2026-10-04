@@ -63,7 +63,12 @@ export default defineConfig({
         }
       }
     },
-    nav: [],
+    nav: [
+      { text: '👤 Player Guide', link: '/player-guide/supaflex/rules' },
+      { text: '👑 GM Guide', link: '/player-guide/supaflex/rules#gm-tricks' },
+      { text: '🔨 The Forge', link: '/player-guide/supaflex/rules#appendix-a-element-effect-creation-guide' },
+      { text: '📊 Catalogs', link: '/player-guide/supaflex/tables' }
+    ],
     sidebar: {
       '/player-guide/supaflex/': [
         { text: '📖 Core Rules Manual', link: '/player-guide/supaflex/rules' },
