@@ -2,7 +2,7 @@
 outline: 2
 ---
 
-# 🌌 SupaFlex Rules Manual
+# 🌌 SupaFlex Rules
 
 Last updated: 2026-10-01 (Emoji Parity, 5-Attribute Standard ✨💪👁️🏃🫀 & Exotics Taxonomy Normalization)
 
@@ -26,42 +26,40 @@ Last updated: 2026-10-01 (Emoji Parity, 5-Attribute Standard ✨💪👁️🏃�
 
 📉 Minimal Tracking – Players should track only Vit and Luck chits whenever possible. Low overhead means more energy spent on roleplay, tactics, and fun.
 
-🎯 KISS & Data De-Duplication – Keep It Simple & Single-source-of-truth. Never duplicate database-backed tables (Weapons, Armor, Shields, Gear, Powers, Artifacts, Skill Sets, Monsters, and Treasure) as static text in markdown rules documents; query Supabase or link to interactive catalogs to maintain single-source-of-truth DRY alignment.
+🔄 Standardized Usage Options – All usage dropdowns,and ability definitions enforce this exact 6-option list and order: 1-⚡ (1 Bolt), 1-🍀 (1 Luck), 1-Enc, 2-Enc, 3-Enc, 1-Rnd. Finite numerical charges (3, 2, 1) are strictly reserved for physical Chaos Gauntlet Gems (which crack and auto-shatter upon using the 3rd charge).
 
-🔄 Standardized Usage Options – All usage dropdowns, database entries, and ability definitions across SupaFlex enforce this exact 6-option list and order: 1-⚡ (1 Bolt), 1-🍀 (1 Luck), 1-Enc, 2-Enc, 3-Enc, 1-Rnd. Finite numerical charges (3, 2, 1) are strictly reserved for physical Chaos Gauntlet Gems (which crack and auto-shatter upon using the 3rd charge) and mundane inventory supply item quantities.
-
-## ⚡ Player Fast-Reference (The Table Cheat Sheet)
+## ⚡ Player Fast-Reference
 
 ⚡ Quick Reference: Combat Turn & Core Mechanics
 
-* Round Action Pool — Every combat round, you have 1 Attack Act(A), 1 Move Act(M), 1 Partial Act(P), and unlimited Free Act(F) reactions.
-* Running Strike / Sprint — Combine your Attack and Move into a single hybrid Act(AM).
+* Round Action Pool — Every combat round, you have 1 Attack Act(A), 1 Move Act(M), 1 Partial Act(P), and unlimited Free Act(F) actions.
+* Running Strike / Sprint — Combine your Attack and Move Act(AM) for large powerful actions.
 * Core Rolls — Unskilled = 1d20 + Atr Die | Skilled = 2H20 + Atr Die (roll two d20s, keep highest).
-* Tremendous & Critical — TT 🌟 (Natural 20 on kept die) grants narrative triumph; CC 💀 (Natural 1 on kept die) causes tactical setback.
-* Defenses — Dodge 🏃/🫀 (vs any attack) | Block ⚔️/🛡️ (vs melee within Block Cap) | Resist MR ✨ (vs magic/mental). Armor AR 🧥 rolls if Dodge or Block fails!
+* Tremendous & Critical — Tremendous (T) 🌟Natural 20 grants narrative triumph; Critical © 💀 Natural 1 causes tactical setback.
+* Defenses — Dodge 🏃 (vs any attack) | Block 🛡️ (within Block Cap) | Resist (vs magic/mental and more). Armor (AR) 🧥 rolls if Dodge or Block fails!
 
 ### ⏱️ The Combat Turn Sequence (At a Glance)
 
-1. Initiative (Nish 🚩): Act in order from highest to lowest Nish. On ties, players act before monsters.
-1. Action Pool on Your Turn: You receive a fresh pool of 4 Action Channels every round:
-1. Act(A) Attack: Make a weapon attack, invoke an offensive Power, or execute a martial maneuver.
-1. Act(M) Move: Move up to your full Movement Rate in squares (MR 👣). If you take no Attack, you may freely pause and resume movement (move ➔ pause ➔ move).
-1. Act(P) Partial: Utility action—quaff a potion, swap weapons, reload crossbow/firearm, bandage a wound, or interact with the environment.
-1. Act(F) Free: Unlimited minor actions and reactions—speech, dropping an item, drawing a weapon with Fast Draw, or executing a Block (Act(F) reaction).
-1. Act(AM) Attack & Move (Hybrid): Combine your Attack and Move to sprint (👣 + d👣 squares) or execute a running charge.
-1. Concluding Turn: Making an Attack Act(A) immediately ends your movement for that round.
+* Initiative (Nish 🚩): Act in order from highest to lowest Nish. On ties, players act before monsters.
+* Action Pool on Your Turn: You receive a fresh pool of 4 Action Channels every round:
+* Act(A) Attack: Make a weapon attack, invoke an offensive Power, or execute a martial maneuver.
+* Act(M) Move: Move up to your full Movement Rate in squares (MR 👣). If you take no Attack, you may freely pause and resume movement (move ➔ pause ➔ move).
+* Act(P) Partial: Utility action—quaff a potion, swap weapons, reload crossbow/firearm, bandage a wound, or interact with the environment.
+* Act(F) Free: Unlimited minor actions and reactions—speech, dropping an item, drawing a weapon with Fast Draw, Dodge, or executing a Block.
+* Act(AM) Attack & Move: Combine your Attack and Move to sprint (👣 + d👣 squares), execute a running charge, and other powerful options.
+* 
 
 ### 🎲 Core Roll Mechanics
 
-All checks compare your roll total against a target Difficulty (Dif) or enemy Defense / Attack:
+All checks compare your roll total against a target Difficulty (Dif) such as enemy Defense / Attack :
 
 | Roll Type | Dice Formula | Typical Usage |
 | --- | --- | --- |
 | Unskilled Check | 1d20 + Atr Die | Untrained skills, weapons, armor, or raw attribute checks. |
-| Skilled Check | 2H20 + Atr Die | Trained skills, weapon proficiencies, Powers🔥, and Exotics🧿. |
-| Skilled with Advantage | 3H20 + Atr Die | Favorable circumstances, tactical positioning, or ally assists. |
-| Skilled with Disadvantage | 1d20 + Atr Die | Penalized conditions, poor visibility, or extreme difficulty. |
-| Unskilled with Disadvantage | 2L20 + Atr Die | Untrained check under adverse tactical conditions (roll 2d20, keep lowest). |
+| Skilled Check | 2H20 + Atr Die(roll 2d20, keep highest) | Trained skills, weapon proficiencies, Powers🔥, and Exotics🧿. |
+| Skilled with Advantage | 3H20 + Atr Die(roll 3d20, keep highest) | Favorable circumstances, tactical positioning, or ally assists. |
+| Skilled with Disadvantage | 1d20 + Atr Die | Penalized conditions, poor visibility. |
+| Unskilled with Disadvantage | 2L20 + Atr Die(roll 2d20, keep lowest) | Untrained check under adverse tactical conditions. |
 
 #### Die Notation
 
@@ -79,7 +77,7 @@ Some d10 use 0–9, others 1–10. In either case, treat 10 as 0.
 
 2L20 → Roll two d20, keep the lowest.
 
-+#d / –#d → Increase or decrease the die type by # steps, within d4–d12.
++#d / –#d → Increase or decrease the die type by # steps, within d4, d6, d8, d10, d12.
 
 Example: d6 +1d → d8; d10 –2d → d6.
 
@@ -95,348 +93,188 @@ If any die is cocked, rolls off the table, is the wrong type, or you forgot a di
 
 #### 🌟 Tremendous & 💀 Critical
 
-* Tremendous (TT 🌟): Natural 20 on any kept d20. Triggers a spectacular narrative triumph or tactical windfall determined by the GM (bonus damage, weapon disarm, free repositioning).
-* Critical (CC 💀): Natural 1 on any kept d20. Triggers a notable complication or tactical setback (jammed weapon, loss of footing, dropped guard).
-* Rule of Precedence: A Tremendous (TT 🌟) always overrides a Critical (CC 💀) on mixed dice.
-* No Auto-Pass/Fail: Natural 20 and Natural 1 do not override raw math; success or failure is still determined by the total score vs. Dif.
+* Tremendous (T)🌟: Natural 20 on any d20. Triggers a spectacular narrative triumph or tactical windfall determined by the GM (bonus damage, weapon disarm, free repositioning).
+* Critical (C)💀: Natural 1 on any d20. Triggers a notable complication or tactical setback (jammed weapon, loss of footing, dropped guard).
+* Rule of Precedence: A Tremendous (T)🌟 cancels a Critical (C) 💀on mixed dice.
+* No Auto-Pass/Fail: Natural 20 and Natural 1 do not override raw math; success or failure is still determined by the total score vs. Dif and is also not influenced by T🌟 or C💀 flags..
 
 ### 🛡️ Tactical Defenses: How to Protect Yourself
 
 When a monster attacks you, choose one (and only one) active defense:
 
-[ INCOMING ATTACK ]
+[ INCOMING ATTACK ] │ ┌────────────────────┴────────────────────┐ ▼ ▼ [ 🏃 DODGE ] [ 🛡️ BLOCK ] (Any Attack / Ranged) (⚔️ Melee Attack ONLY, 🛡️ Any Dogeable Atk) │ │ ┌────────┴────────┐ ┌────────┴────────┐ ▼ ▼ ▼ ▼ [ Success ] [ Failure ] [ Success ] [ Failure ] (0 Damage) (Take Hit) (0 Damage) (Take Hit) │ │ └───────────────────┬─────────────────────┘ ▼ [ 🧥 ROLL ARMOR (AR) ] (Subtract AR from Dmg) ▼ [ Remaining is Wnds, subtracted from Vit❤️ ]
 
-│
-
-┌────────────────────┴────────────────────┐
-
-▼ ▼
-
-[ 🏃/🫀 DODGE ] [ ⚔️/🛡️ BLOCK ]
-
-(Any Attack / Ranged) (Melee Attack ONLY)
-
-│ │
-
-┌────────┴────────┐ ┌────────┴────────┐
-
-▼ ▼ ▼ ▼
-
-[ Success ] [ Failure ] [ Success ] [ Failure ]
-
-(0 Damage) (Take Hit) (0 Damage) (Take Hit)
-
-│ │
-
-└───────────────────┬─────────────────────┘
-
-▼
-
-[ 🧥 ROLL ARMOR AR ]
-
-(Subtract AR from Dmg)
-
-▼
-
-[ Remaining Vit Loss ]
-
-1. Dodge (Motion🏃 or Moxie🫀):
-1. Works against any incoming attack (Melee, Ranged, Thrown).
-1. Formula: 1d20 + Motion🏃/Moxie🫀 (Unskilled) or 2H20 + Motion🏃/Moxie🫀 (Skilled Armor).
-1. Result: Beats monster Attack = completely avoid the attack (0 damage). Fails = attack hits; immediately roll Armor AR 🧥 to reduce damage.
-1. Block (⚔️ Weapon or 🛡️ Shield):
-1. Free reaction (Act(F)). Works only against MELEE attacks where monster Dmg <= weapon or shield Max Block rating.
-1. Formula: 1d20 + Block Die (Unskilled) or 2H20 + Block Die (Skilled).
-1. Result: Beats monster Attack = completely negates all damage (0 damage). Fails = hit connects; immediately roll Armor AR 🧥 to reduce damage.
-1. Magic Resist (MR ✨):
-1. Works against magical curses, psychic strikes, and non-physical status effects.
-1. Formula: 1d20 + Magic✨ (Unskilled) or 2H20 + Magic✨ (Skilled).
-1. Master Invariant: No attack may be both Blocked and Dodged. However, Armor AR (🧥) ALWAYS rolls if your Dodge or Block fails!
+* Dodge (Motion🏃 based):
+* Works against any incoming attack (Melee, Shot, Hurled, Dodgeable Powers).
+* Formula: Unskilled: 1d20 + d🏃 or Skilled: 2H20 + d🏃.
+* Result: Beats/Ties monster Attack = completely avoid the attack (0 damage). Fails = attack hits; immediately roll Armor AR 🧥 to reduce damage into Wounds (Wnds).
+* Block🛡️ (⚔️ Weapon or 🛡️ Shield):
+* Weapon⚔️Blocks🛡️ work only against MELEE attacks where monster Dmg <= weapon’s Max Block, and requires a melee weapon for the block. Shield🛡️ Blocks🛡️work versus all weapons and any blockable powers or abilities where Dmg <= shield’s Max Block..
+* Formula: Unskilled: 1d20 + d(Block). Skilled: 2H20 + d(Block).
+* Result: Beats monster Attack = completely negates all damage (0 damage). Fails = hit connects; immediately roll Armor AR 🧥 to reduce damage to Wnds.
+* Resist/Saves:
+* Works against magical curses, psychic strikes, and other effects that cannot be dodged or blocked..
+* Formula: Skilled: 1d20 + d(Atr🔷) . Skilled: 2H20 + d(Atr🔷). Where Atr🔷 is the GM determined best matching attribute out of (Magic✨, Might💪, Mind👁️, Motion🏃, Moxie🫀).
+* Master Invariant: No attack may be both Blocked and Dodged. However, Armor AR (🧥) ALWAYS rolls if your Dodge or Block fails!
 
 ### 🎯 Focus Die & 🍀 Luck Points
 
 * Focus Die (🎯):
 * The Ladder: d12 ➔ d10 ➔ d8 ➔ d6 ➔ d4 ➔ Exhausted.
-* Spend Timing: After rolling and seeing the result, roll your current Focus Die and add it directly to your total. All Focus dice explode on their maximum face!
-* Step-Down: Spending your Focus Die steps it down one tier on the ladder.
-* The Flood (Refilling): Steps up +1 at combat start, combat victory, short rest, or spending an entire round doing nothing else (Flood). A full night's sleep resets to maximum.
-* Luck Points (🍀):
-* Spend 1 Luck chit to reroll any entire roll (pure variance mitigation).
-* The Luck Twist (Rule of 1): Spend 1 Luck to grant an instant tactical boost: -1 Action Cost, +1 Target, +1 Die Tier, +1 Range Band, or +1 Push/Move square.
-* Strict Exclusivity Invariant: A player may use Focus OR Luck on a single roll, but NEVER BOTH.
+* Timing: After rolling and seeing the result, roll your current Focus Die and add it directly to your total. All Focus dice explode on their maximum face!
+* Step-Down: Spending your Focus Die steps it down one tier on the ladder (e.g. -1d).
+* The Flood (Refilling): Steps up +1d at combat start, combat victory, short rest, or spending an entire round doing nothing else (Flood). A full night's sleep resets Focus🎯 to maximum.
+* Luck (🍀):
+* Spend 1 Luck🍀 to reroll any entire, in-game, roll . A roll can ONLY be lucked once.
+* Luck Twist: Spend 1 🍀 to grant an instant tactical boost: -1 Action Cost, +1 Target, +1d (Die Type), +1 Range Band, or +1 effect such as Push/Move square.
+* 
 
 ### ❤️ Vitality, Wounds, Death Checks & Bleeding
 
-* Damage Resolution: Incoming Damage - Armor AR 🧥 = Vitality Lost (❤️).
-* Unconscious: When Current Vit <= 0. You collapse and cannot take actions.
-* Death Check Trigger: When Current Vit <= -1. Must make an immediate Death Check on your Nish each round until stabilized (Vit >= 0) or deceased.
-* Death Check Formula: (Example: At -8 Vit, the Dif is 5 + 8 = 13).
-* Active Bleeding: After each Death Check except the first, you automatically suffer +1 Wound (🩸) per round from arterial bleeding until receiving First Aid, triage, or magical healing.
+* Damage Resolution: Incoming Damage - Armor AR 🧥 = Wounds (Wnds) which is the amount of Vitality❤️ (Vit)❤️ Lost.
+* Unconscious: When Current Vit❤️ <= 0. You collapse and cannot take actions.
+* Death Check Trigger: When Current Vit❤️ <= -1. you must make an immediate Death Check, and on each Nish per round until stabilized (Vit >= 0) or deceased.
+* Death Check Formula: (Example: At -8 Vit, the Dif is 5 + 8 = 13). So the shorthand notation would be 🫀^13.
+* Active Bleeding: After each Death Check except the first, you automatically suffer +1 Wound (🩸) per round from arterial bleeding/power loss/etc. until receiving First Aid, triage, or magical healing.
 * Rest & Healing:
 * Short Rest (Post-Combat): Brief rest opportunity restores d4 Vit ❤️ (max 1 short rest per combat encounter).
-* Full Rest (Sleep): A full night's sleep restores 2d4 Vit ❤️ and resets all encounter abilities.
+* Full Rest (Sleep): A full night's sleep restores 2d4 Vit ❤️.
 
 ### 🏛️ System Taxonomy: Paths, Kits, Elements, Gear & Abilities
 
 The complete SupaFlex game system is structured around the Trinity of Mechanics:
 
-1. Ownership (What you Know & Possess): Intangible character capabilities (Paths 🧭) are unlocked with AP; tangible hardware packages (Kits 📦) are purchased with Currency (Gold / Silver) or found as treasure.
+1. Ownership (What you Know & Possess): Intangible character capabilities (Paths 🧭) are unlocked with Adventure Points (AP)🧩; tangible hardware packages (Kits 📦) are purchased with Currency (Gold / Silver) or found as treasure.
 
-2. Execution (What you Do in Combat): Governed by the 4-channel Action Economy (1 Attack [A] + 1 Move [M] + 1 Partial [P] + Unlimited Free [F], with hybrid Attack \& Move [AM]) with Auto-Readied Powers on the active Power Card.
+2. Execution (What you Do in Combat): Governed by the 4-channel Action Economy (1 Attack [A] + 1 Move [M] + 1 Partial [P] + Unlimited Free [F], with hybrid Attack & Move [AM]).
 
-3. Capabilities (What you Learn & Wield): Tactical equipment abilities (Exotics 🧿) cost exactly 1 AP to learn (with free Trait abilities costing 0 AP) and are rooted physically in owned host gear chassis and installed mods. There are no slot limits on learned exotics.
+3. Capabilities (What you Learn & Wield): Tactical equipment powers(Exotics 🧿) cost exactly 1 AP to learn and are rooted physically in owned host gear chassis and installed mods.
 
-[ 🌟 ELEMENTS ]
-
-(All Physical Items & Non-Physical Features)
-
-│
-
-┌───────────────────────┴───────────────────────┐
-
-▼ ▼
-
-[ 🧭 PATHS (AP) ] [ ⚙️ GEAR (g/s) ]
-
-(Intangible Capability Suites) (Master Category: All Hardware)
-
-│ │
-
-▼ ▼
-
-[ 🧠 ABILITIES ] [ ⚙️ GEAR SHELVES ]
-
-┌──────┬───────┼───────┬─────────┐ ┌────────────┬────────┬────────┬──────────┬──────────┐
-
-▼ ▼ ▼ ▼ ▼ ▼ ▼ ▼ ▼ ▼ ▼
-
-[ ATR ] [SKILL] [SKILLSET][POWERS] [SPEC] [🎒SUPPLIES] [⚔️WEAP] [AR🧥MOR] [🛡️SHIELDS] [ 🧿 EXOTICS ] [📦KITS]
-
-(✨💪 (🎓) (🎓) (🔥) (📜) (Mundane) (Martial)(Defensive)(Block) (Tactical) (Bundles)
-
-👁️🏃🫀) (1 AP) (g/s)
-
-│ │
-
-▼ ▼
-
-[ 🧿 EXOTICS ] [ 🔌 MODS ]
-
-[ (Artifacts & Gear) ] (Subordinate)
+[ 🌟 ELEMENTS ] (All Physical Gear & Non-Physical Abilities) │ ┌───────────────────────┴───────────────────────┐ ▼ ▼ [ 🧭 PATHS (gained with AP) ] [ ⚙️ GEAR (gained with g/s) ] (Ability Suites) (All Physical Possessions) │ │ ▼ ▼ [ 🧠 ABILITIES ] [ ⚙️ GEAR TYPES] ┌──────┬───────┼───────┬─────────┐ ┌────────────┬────────┬────────┬──────────┬──────────┐ ▼ ▼ ▼ ▼ ▼ ▼ ▼ ▼ ▼ ▼ ▼ [ ATR ] [SKILLS] [POWERS] [TRAITS] [🎒SUPPLIES] [⚔️WEAP] [AR🧥MOR] [🛡️SHIELDS] [📦KITS] (✨💪 (🎓) (🎓) (🔥) (📜) (Mundane) (Martial)(Defensive)(Block) (Tactical) (Bundles) 👁️🏃🫀) (1 AP) (g/s) │ │ ▼ ▼ [ 🧿 EXOTICS ] [ 🔌 MODS ] [ (Gear Powers) ] (Subordinate)
 
 ⚡ Quick Reference: Gear & Equipment Kits
 
-* Master Gear Category — Gear (⚙️) is the universal master category for all physical items, hardware, and equipment.
-* Standard Gear — Mundane or high-tech equipment with zero combat abilities (priced in g/s).
-* Equipment Kits & Bundles — Pre-packaged adventuring kits (Dungeoneering, Infiltration, Field Medic, Survival, etc.) providing complete sets of standard mundane supplies for a flat Gold/Silver price.
-* Zero Weight Math — SupaFlex uses no weight values, bulk tracking, or encumbrance movement penalties for standard carried gear.
+* Gear⚙️ — Gear (⚙️) is the universal master category for all physical items, hardware, and equipment.
+* Standard Gear — Gear⚙️ with no Exotic🧿 powers (priced in g/s ).
+* Kits📦 — Pre-packaged sets of Gear (Dungeoneering, Infiltration, Field Medic, Survival, etc.)for a flat Gold/Silver (g/s) price.
+* No Weight/Encumerance — SupaFlex uses no weight values, bulk tracking, or encumbrance movement penalties for any gear⚙️.
 
 ### 🏛️ The Gear Taxonomy & Lineage Hierarchy
 
 | Entity | Contained Sub-Elements | Attributes & Scope |
 | --- | --- | --- |
-| Gear (⚙️) | Supplies, Weapons, Armor, Shields, Exotics, Kits, Artifacts | Universal Master Category for ALL physical items, hardware, and equipment. |
-| Standard Gear (⚙️) | Mundane Tools, Electronics, Basic Weapons, Basic Armor, Shields | Mundane or high-tech equipment with zero combat abilities and no mod paths. Priced in g/s. |
-| Supplies (🎒) | Mundane Tools, Electronics, Consumables, Survival Gear | Baseline mundane adventuring equipment (no attached Exotics). Priced in g/s. |
-| Weapons (⚔️) | Melee, Ranged, Natural, Tech Weapons | Martial offensive hardware. Baseline Standard Gear (unless equipped with an Exotic or Mod). Priced in g/s. |
-| Armor (🧥) | Light, Medium, Heavy, Powered, Environmental | Protective combat hardware providing AR. Baseline Standard Gear (unless equipped with an Exotic or Mod). Priced in g/s. |
-| Shields (🛡️) | Bucklers, Medium Shields, Tower, Force Shields | Protective combat hardware providing Block. Baseline Standard Gear (unless equipped with an Exotic or Mod). Priced in g/s. |
-| Exotic (🧿) | Tactical Exotics, Cyberware, Biotech, Tech Hardware, Artifact Treasures | Actionable tactical abilities residing on physical gear or found as unpurchasable artifact treasure. Learned for 1 AP (free Trait abilities cost 0 AP) directly from owned host gear or installed mods. Zero slot limits. |
-| Artifact (🔮) | Exotics, Traits, Legendary Powers | Ancient, magical, or alien treasures possessing one or more Exotics (1 AP or inherent). Non-commercial market treasure (Cost = "Artifact"). Reserved for loot tables and discovery. |
-| Mod (🔌) | Exotics, Traits, Hardware Upgrades | Subordinate gear extension layer (NOT a top-level catalog category). Optional modification, module, or hardware attachment uniquely linked via belongs_to to parent gear (Weapons, Armor, Shields, Supplies). Carries a financial cost (g/s) unless standard factory equipment (Free). |
-| Kit (📦) | Supplies, Weapons, Armor, Shields, Exotics, Mods | Master pre-assembled gear package / hardware bundle. Has overall package cost (e.g. 45s, 120g). |
-| Trait (🧬) | Modular Traits & Physiological Boons | Innate biology, physiological boons, tactical modifications, or modular trait hooks queried from the traits database table. |
-| System Rules (📜) | Core Game Engine Mechanics | Overarching game system rules, core mechanics, combat economy, and resolution engine. |
+| Gear (⚙️) | Supplies, Weapons, Armor, Shields, Kits | Universal Master Category for ALL physical items, hardware, and equipment. All but Artifacts are priced in g/s |
+| Standard Gear (⚙️) | Gear without Exotic powers. | Gear with no mods or powers. |
+| Supplies (🎒) | Tools, Electronics, Consumables | Baseline adventuring equipment |
+| Weapons (⚔️) | Melee, Shot, Hurled, Weapons | Martial offensive gear. |
+| Armor (🧥) | All worn, non-sheild, armor: Light, Medium, Heavy, Powered, Environmental, etc. | Protective combat hardware providing AR. |
+| Shields (🛡️) | All held shields: Bucklers, Medium Shields, Tower | Protective combat hardware providing Block. |
+| Exotic (🧿) | Any gear that has a mod or power. Thus nearly all Artifacts are Exotic and a lot of high tech and special use gear are Exotic. | Actionable tactical abilities residing on physical gear. Mods are purchased with g/s. Exotic powers are learned for 1AP |
+| Artifact (🔮) | Exotic Gear that MUST be found as loot, not typically bought. | Ancient, magical, or alien treasures possessing one or more Exotics. Reserved for loot tables and discovery. |
+| Mod (🔌) | Exotic Gear Upgrades | Subordinate Exotic gear modification, module, or attachment Carries a financial cost (g/s). |
+| Kit (📦) | Pre-packaged set of Gear. | Has overall package cost (e.g. 20g, 45s). |
 
 ### 🔑 Architectural Pillars & Hierarchy Rules
 
-1. 🌟 Elements = 🧠 Abilities + ⚙️ Gear:
-1. 🧠 Abilities (Intangible Features): Unlocked via AP and packaged into Paths (🧭). Subdivided into Attributes (Magic✨, Might💪, Mind👁️, Motion🏃, Moxie🫀), Skill🎓, Skill🎓 Sets, Powers🔥, and 🧬 Traits. In most situations, render attributes using their icons alone: ✨💪👁️🏃🫀.
-1. ⚙️ Gear (Master Category: All Physical Items & Hardware): Purchased with Gold / Silver or found as treasure. Subdivided into 🎒 Supplies (mundane tools/consumables), ⚔️ Weapons, Armor🧥, 🛡️ Shields, Exotics🧿 (tactical abilities on gear or artifacts, 1 AP to learn, free Trait abilities 0 AP), and 🔌 Mods (subordinate modular attachments).
-1. ⚙️ Master Gear vs. Standard Gear & Zero-Purgatory Invariant:
-1. Gear (⚙️): The universal master category for all physical items of all kinds.
-1. Standard Gear (⚙️): Standard physical items readily available in the economy with zero combat abilities and no mod paths (cost in g/s).
-1. Gear with Exotics (⚙️): Any Gear that has an actionable tactical Exotic (🧿). This encompasses both purchasable gear and unique Artifact treasures. Exotics cost 1 AP to learn (free Trait abilities cost 0 AP) and appear on your active sheet once learned from owned host gear or installed mods. There are NO exotic slots.
-1. Artifact (🔮): Legendary or unique treasures possessing one or more Exotics (🧿) (cost = "Artifact").
-1. Mod Reversion & Detachment: If an item has its Exotics or Mods detached or removed, it reverts to baseline Standard Gear. A Mod has no standalone utility or market existence apart from its host gear.
-1. Commercial Non-Purchasability of Artifacts: Any item carrying cost: "Artifact" is strictly excluded from commercial retail catalogs and store purchases. Artifacts are acquired exclusively through discovery, GM rewards, and loot tables.
-1. Paths🧭 vs. Kits📦 Taxonomy:
-1. Paths (🧭): Intangible character identity and capability suites (Race Paths, Class Paths, Discipline Paths, Specialization Paths, Martial Proficiencies, Base Path, Universal Path). Unlocked via AP and character creation. Starting hallmark traits use internal curly-brace notation: free Trait indicating 0 AP starting grants (presented in UI and player docs as free Traits). The term "Kit" is strictly prohibited when discussing character capabilities or packages.
-1. Kits (📦): Rare, tangible manufactured equipment bundles and specialized field hardware (e.g. Engineer Tool Kit (mso), Field Repair Kit, Trauma Kit, Survival Kit). Purchased with Gold / Silver (g/s) or acquired as treasure. Included hardware components carry the free Trait tag.
-1. Starting & Foundational Paths: Every character operates from a four-pillar foundational path structure:
-
-1. Base Path (🧭): Inherent baseline capabilities granted to all characters. Can grant elements costing 1 AP, free Trait (0 AP), or both.
-1. Race Path (🧭): Species biology and inherent traits. Can grant elements costing 1 AP, free Trait (0 AP), or both.
-1. Class Path (🧭): Archetype identity, starting proficiencies, and class powers. Can grant elements costing 1 AP, free Trait (0 AP), or both.
-1. Universal Path (🧭): An open, permanent global pool of heroic stunts, clutch fortune, and high-impact abilities. Elements assigned to the Universal Path may be learned by ANY character for 3 AP without GM approval.
-
-1. Universal Path Non-Purchasability Invariant: Because Universal abilities are exceptionally potent, the Universal Path itself CANNOT be learned or unlocked as a 4 AP Bonus Path. It remains permanently at 3 AP per element for all characters. Its defining mechanical benefit is Self-Service at 3 AP without requiring GM Approval.
-1. Learning Out of Path: Learning capabilities outside your character's active paths is Out of Path and costs 3 AP with GM approval (never "Cross-path").
-1. Learning Bonus Paths: Beyond foundational paths, additional discipline or martial Paths may be learned from the catalog for 4 AP WITH GM Approval (e.g. unlocking a secondary martial or archetype path).
-1. ⚔️ Weapons, Armor🧥, and 🛡️ Shields as Gear:
-1. Weapons, Armor, and Shields are all categories of Gear (⚙️).
-1. Standard weapons, armor, and shields are baseline Standard Gear (⚙️). Specialized, high-tech, or enchanted versions have Exotics (🧿) or can accept Mods (🔌).
-1. Default Gear Possession Rule: When a character learns or becomes skilled in a new weapon, armor, or shield (via starting Path or AP advancement), the default system rule is that they are assumed to possess the physical item as standard Gear (⚙️) (unless the GM determines otherwise based on campaign tone and narrative context).
-1. 🔌 Mods vs. Exotics🧿 Canonical Invariants:
-1. Mods (🔌) = Subordinate Hardware Attachment Layer:
-
-* Subordinate & Modular: Represents an optional module, aftermarket installation, or physical hardware upgrade linked via belongs_to. Does not exist as a standalone catalog shelf.
-* Market Commerce: Carries a financial purchase cost (g/s), unless factory-installed as standard equipment on a specific suit or chassis (Free).
-* Mundane Specs: Houses non-tactical, descriptive, or mechanical notes that do not belong on the base chassis (e.g. Microgrenade Fitting, Compensators, Macro Zoom).
-* Parentage: Always belongs to one or more Gear items via belongs_to: "Gear: [Item]", belongs_to: "Weapon: [Name]", or belongs_to: "Armor: [Suit]".
-
-1. Exotics (🧿) = Rules-Engine Execution Layer:
-
-* Combat Rules Execution: Actionable encounter abilities (Action, Usage, Effect) nearly identical to Powers. Cost 1 AP to learn (with free Trait abilities costing 0 AP). There are NO exotic slots.
-* Zero Financial Cost: NEVER carries a financial cost (g/s). The cost column is permanently eliminated from databases and spreadsheets.
-* Universally Free: Possessing the granting Gear or Mod automatically unlocks the ability to learn the Exotic.
-* Clean Single Parentage: An Exotic belongs to EITHER a Mod (belongs_to: "Mod: [ModName]") OR directly to Gear (belongs_to: "Gear: [ItemName]") — NEVER both. If an item has a Mod, the Exotic links to the Mod, and the Mod links to the Gear.
-* UI Presentation (Exotic Gear Card & Manager): On the character sheet, the card is titled "Exotic Gear" and managed via "Exotic Gear Manager". Gear items render as compact, popping glassmorphic pill buttons (w-fit with Cyan Exotic glow) ending immediately with the chevron. Unlearned empty inherent chassis items are excluded from the card. When expanded, a continuous vertical cyan guide line drops from the center of the gear item across all of its mods (rendered in warm amber monospace text with zero leading emojis, and ℹ️ only if notes exist). Under each mod, power cards are cleanly indented.
-
-1. 🌐 Equipment Domains & Single-Domain Database Invariant (The Living Triad):
-1. Rule (The What): Every data row in the Supabase equipment tables (armor, kits, shields, supplies, and weapons) MUST contain one and only one value in the domain column. The ONLY permitted values are the seven canonical Domains:
-
-1. Sciences (Alphabetical): Archaic, BioTech, CyberTech, Tech
-1. Powers (Alphabetical): Psionics, Somatics, Void Magic Compound strings (e.g. Tech, Archaic, Tech, Artifact), legacy category tags (e.g. Medical, Universal, General), and NULL values are strictly prohibited. The column in all five tables is titled domain (replacing legacy discipline).
-
-1. Rationale (The Why): Domain defines the fundamental scientific paradigm or mystical power source that an item originates from. Enforcing a strict single-domain invariant across all equipment guarantees deterministic facet filtering in the Gear Manager, prevents orphaned or ghost UI cards, and aligns equipment requirements with player character capability suites without brittle regex parsing.
-1. Failure Mechanism (The What Breaks): Compound or non-standard strings cause filter fragmentation, false negatives in gear searches, corrupted facet counts, and broken parity between the Supabase database, character sheet filters, and the Player Guide.
-1. 💣 Discrete Munition Mandate (The Living Triad):
-1. Rule (The What): Finished combat munitions with fundamentally distinct usage cadences (1-Enc / 2-Enc vs 3-Use consumable), damage profiles, or mechanical functions MUST be cataloged as distinct, standalone entries in supplies (SB_Equipment) under the Ammunition or BioTech categories. They must never be decomposed into artificial "base casings" with mutually exclusive "warhead mods." Base casing and warhead costs are unified into a single sticker price.
-1. Rationale (The Why): A soldier equipping a replenishing tactical grenade webbing is engaging in a different economic and tactical decision than an operative carrying single-use demolition charges. Independent catalog entries allow discrete inventory counts, separate function cards in the Function Vault, and unambiguous pricing without complex variant-selection state.
-1. Failure Mechanism (The What Breaks): Conflating variants into a single gear row with pseudo-mods leads to inventory state collisions (e.g., trying to carry both types simultaneously breaks single-quantity tracking), requires multi-step selection popups in the shopping cart, and forces artificial schema complexity onto the database.
-1. 🏷️ Universal Family Prefix Standard (The Living Triad):
-1. Rule (The What): Clustered munition and consumable families MUST adhere to the standardized prefix taxonomy format: [Family]: [Subtype] ([Variant]) (mso). Specifically:
-
-* Grenades: Grenade: [Type] ([Tactical Pack | Heavy Warhead]) (mso)
-* Missiles: Missile: [Type] ([Tactical Propulsion | Heavy Demolition]) (mso)
-* Poisons: Poison: [Type] ([Blade Reservoir | Concentrated Dose]) (mso)
-* Arrow/Bolt Tips: Tip: [Type] ([Burst | Heavy | Tactical]) (mso)
-
-1. Rationale (The Why): Without a family prefix, items like Flash-Bang, Incendiary, Shock, and Tangler scatter across 15 letters of the alphabet in the shopping catalog, making it nearly impossible for players to compare alternatives or find ammunition efficiently.
-1. Failure Mechanism (The What Breaks): Fragmented naming degrades UI information density, increases player search friction, and forces repetitive keyword filtering in the Gear Manager.
-1. 🏹 Universal Archery Tip Standard (The Living Triad):
-1. Rule (The What): Specialty arrow and crossbow bolt ammunition MUST be authored and sold as individual discrete tips (Tip: ...), with inherent tactical functions applicable to both bow arrows and crossbow bolts. Synthetic bundled quiver entries (e.g. Specialty Arrows Quiver) are strictly prohibited.
-1. Rationale (The Why): Archery reality and table feel center on selecting and threading specific tactical tips onto standardized shafts from a shared quiver. Selling discrete tips allows archers to curate a custom quiver mixture of utility tips (e.g. 3 Exploding, 2 Harpoon, 1 Smoke) rather than being locked into rigid monoculture quivers.
-1. Failure Mechanism (The What Breaks): Forcing quivers as base gear requires complex mod-swapping logic, inflates cost barriers for archers wanting situational utility arrows, and prevents realistic quantity tracking of individual tip expenditures during combat.
-1. ⭕ The "Free ⭕" Tier Mandate (The Living Triad):
-
-* Rule (The What): Equipment abilities classified as Free ⭕ cost 0 AP to learn and add to the active character sheet. The canonical database string and UI tier label is strictly Free ⭕.
-* Rationale (The Why): Essential mundane abilities (such as emergency rebreathers, atmospheric scrubbers, field transceivers/communicators, basic flashlights, and simple handyman tools) represent baseline narrative competencies rather than tactical combat supremacy. Players should never be forced to spend AP on basic survival abilities.
-* Failure Mechanism (The What Breaks): Charging AP for minor narrative abilities discourages acquiring essential survival gear and distorts combat balance.
-
-1. 🧭 The Path Mastery AP Rebalancing & Refund Mandate (The Living Triad):
-
-* Rule (The What): Whenever a character unlocks a new Path (4 AP), the system automatically scans all currently owned abilities across all categories (Powers, Martial Weapon Proficiencies, Armor Proficiencies, Shield Proficiencies, and Traits). Any ability whose path tag matches the newly acquired Path and whose recorded purchase cost exceeded In-Path pricing (e.g. was purchased Out-of-Path for 3 AP or 4 AP) is permanently re-indexed to In-Path pricing (1 AP or 2 AP), and the AP difference is immediately credited back to the character's available AP pool. Removing an ability via the trash can always refunds exactly the active ap_cost recorded on that character sheet item.
-* Rationale (The Why): Point-buy mathematical integrity and player psychology. A character's mechanical capabilities and remaining AP must be order-independent: buying an ability first and the governing Path second must yield the identical AP total as buying the Path first and the ability second. Auto-crediting upon Path acquisition eliminates "Buyer's Remorse," prevents "Leveling Sequence Traps," rewards organic character roleplay, and completely eliminates the "trash-and-rebuy" arbitrage exploit without punishing legitimate respecs.
-* Failure Mechanism (The What Breaks): If retroactive rebalancing is disallowed while trashing returns Current AP, players who legitimately drop out-of-path abilities suffer permanent AP destruction, creating intense buyer's remorse and causing players to hoard AP rather than engaging in spontaneous, cinematic leveling. If trashing returns historical AP without auto-crediting, players are forced to execute an awkward "trash-and-rebuy" dance to achieve the legitimate In-Path pricing they paid 4 AP to unlock.
-
-1. 🎓 The SkillSet Bundle AP Deduplication & Credit Mandate (The Living Triad):
-
-* Rule (The What): When a character acquires a new SkillSet (2 AP), the system automatically inspects all constituent skills contained within that SkillSet. Any constituent skill that was previously purchased as an individual skill (1 AP) and is NOT already granted by another active, owned SkillSet is immediately removed from known_individual_skills (credited back at 1 AP to the character's available AP pool) and integrated into the SkillSet bundle. Removing / unlearning a SkillSet refunds its 2 AP purchase cost.
-* Rationale (The Why): Eliminates double-taxing on skill advancements. Players should never pay both the bundle price for a SkillSet and an individual skill fee for a skill contained inside it. Crediting back 1 AP preserves point-buy parity and prevents players from being penalized for learning utility skills individually before acquiring the full parent profession.
-* Failure Mechanism (The What Breaks): Without bundle deduplication, characters who learned a skill early are permanently overcharged relative to characters who bought the SkillSet first, creating sequencing friction, confusing character sheet skill totals, and discouraging early skill training.
-
-1. 🏋️ The Equipment Requirement AP Auto-Refund & Current-Stat Scaling Mandate (The Living Triad):
-
-* Rule (The What): Whenever a character's core attributes advance—whether through vertical die step-ups (2–8 AP) or downtime attribute reshuffles (1 AP)—the system automatically scans all trained weapons (weapons), armor (wardrobe), and shields (armory). Any item previously acquired with an unmet attribute surcharge (costing 2 AP In-Path or 4 AP Out-of-Path) whose requirement is now fully met immediately has its +1 AP surcharge refunded to the character's available AP pool, and its recorded ap_cost decremented by 1 (dropping to 1 AP In-Path or 3 AP Out-of-Path). Equipment acquired below attribute requirements functions cleanly at the character's current attribute levels without artificial stat-reduction penalties (-1 die, -2 AR, or -4 Block), eliminating double penalization. Under the Zero-Friction Attribute Oscillation Protocol, if a player subsequently shifts attributes such that an attribute temporarily drops below an equipped item's requirement (e.g. oscillating Might and Mind between 4 and 6 during downtime), combat stats reflect the character's current attributes without imposing additional AP surcharges or re-taxing the player. Because the item's recorded ap_cost remains at baseline (1 AP or 3 AP), returning to the higher attribute tier never triggers duplicate AP refunds (difference = ap_cost - base = 0).
-* Rationale (The Why): Encourages early martial experimentation and eliminates progression sequencing anxiety without double penalizing players who already paid an extra +1 AP surcharge. Players should feel empowered to train with war gear early in their careers at their current attribute capabilities. Zero-friction scaling during downtime swaps prevents frustrating AP debt or unrequested proficiency drops during temporary build testing, while the recorded ap_cost floor mathematically prevents infinite refund loops.
-* Failure Mechanism (The What Breaks): Without automated requirement refunds, players hoard AP and delay weapon training until high levels, distorting combat flavor. Without the oscillation protection floor, players could exploit attribute swapping to generate infinite AP or, conversely, become trapped in arbitrary AP deficits when swapping dice during downtime.
-
-1. 🎁 The Path free Trait (0 AP) Auto-Grant Complete Refund Mandate (The Living Triad):
-
-* Rule (The What): Whenever a character acquires or unlocks a Path (whether via Race Path, Class Path, or a 4 AP learned Path) that grants an ability tagged internally as free Trait (or free Trait / {Trait}), the system inspects all currently owned abilities across Powers (power_slots), Traits (traits_quirks), Weapons (weapons), Armor (wardrobe), and Shields (armory). If the character previously purchased that ability at any positive AP cost (1 AP In-Path or 3 AP Out-of-Path), the entire recorded AP cost is immediately refunded (difference = ap_cost - 0 = ap_cost), the item's recorded ap_cost is re-indexed to 0 AP, and its provenance is updated to ${Path} free Trait.
-* Rationale (The Why): Point-buy equity and narrative freedom. A hero should never be penalized for having organically learned an iconic spell, trait, or martial technique prior to committing to the Path that grants it as a core birthright or archetype hallmark. Refunding 100% of the prior expenditure guarantees that a player who learned an ability early and adopted the Path later ends up with the exact same net AP as a player who unlocked the Path first.
-* Failure Mechanism (The What Breaks): If prior purchases are not refunded when an ability becomes free Trait, players suffer permanent AP loss ("tax on foresight"), leading to bitter player regret and discouraging spontaneous, narrative character progression.
-
-1. 🔥 All Learned Powers Always Available Mandate (The Living Triad):
-
-* Rule (The What): All powers learned through AP investment or Path grants are ALWAYS immediately active and fully available in power_slots. There are NO sub-zone power slots (Primary Arsenal, Mobility & Defense, Support/Passive), NO Ready Matrix slot caps, and NO vault/codex unreadying restrictions.
-* Rationale (The Why): Maximizes table speed, eliminates tactical analysis paralysis between encounters, and respects player AP investment. When a player invests hard-earned AP into a power, they should never be forced to juggle artificial readiness buckets or bench their abilities. Tactical deployment is naturally governed by the combat action economy (AMP) and usage frequencies (1-Rnd, 1-Enc, 1-⚡), not artificial slot caps.
-* Failure Mechanism (The What Breaks): Sub-zone slot limits and readiness vaults create tedious between-combat inventory management, cause players to forget available abilities during fast-paced play, and generate UI clutter and schema errors.
+* Elements🌟 = All 🧠 Abilities + All ⚙️ Gear:
+* Abilities🧠: Unlocked via AP and packaged into Paths (🧭) . Subdivided into Attributes (Magic✨, Might💪, Mind👁️, Motion🏃, Moxie🫀), Skill🎓 , Powers🔥 , and 🧬 Traits .
+* Gear⚙️: Purchased with Gold / Silver or (in the case of Artifacts🔮) found as treasure. Subdivided into Supplies🎒 , ⚔️ Weapons , Armor🧥 , and 🛡️ Shields . Exotics🧿 are ANY gear with mods and/or powers..
+* Artifact (🔮): Legendary or unique treasures possessing one or more Exotics (🧿) (cost = "Artifact").
+* 
+* 
+* Paths🧭 vs. Kits📦:
+* Paths (🧭): Intangible character identity and capability suites (Race Paths, Class Paths, Discipline Paths, Specialization Paths, Innate Path, Universal Path). Unlocked via AP and character creation.
+* Kits (📦): Gear⚙️ bundles (e.g. Field Repair Kit , Trauma Kit , Survival Kit ). Purchased with Gold / Silver ( g/s )
+* Starting & Foundational Paths: Every character operates from a four-pillar foundational path structure:
+* InnatePath (🧭): Inherent capabilities granted to all characters.
+* Race Path (🧭): Species biology abilities. Can grant abilities costing 1 AP, Free (0 AP), or both.
+* Class Path (🧭): Ability options due to the character’s chosen class.. Can grant abilities costing 1 AP, Free (0 AP), or both.
+* Universal Path (🧭): An open, permanent global pool of high-impact abilities. Universal Path abilities may be learned by ANY character for 3 AP without GM approval .
+* 
+* Out of Path: Learning abilties outside your character's active paths is Out of Path and costs 3 AP AND with GM approval .
+* Learning Bonus Paths: Beyond foundational paths, additional Paths may be learned for 4 AP WITH GM Approval (e.g. unlocking a specialty or high level dual class).
+* ⚔️ Weapons, Armor🧥, and 🛡️ Shields are both Gear AND Abilities:
+* Weapons, Armor, and Shields are all categories of Gear (⚙️) AND all of them are also a skill . Thus a character can learn Sword Skill AND needs to own a Sword or the skill is not currently useful. On the other hand, ANY character can pickup a sword and use it as an unskilled weapon, in which case the character has the Gear “sword” but is NOT skilled at swords.
+* 
+* Default Gear Possession Rule: When a character learns or becomes skilled in a new weapon, armor, or shield (via starting Path or AP advancement), the default system rule is that they are assumed to possess the physical item as Gear (⚙️) (unless the GM determines otherwise based on campaign tone and narrative context).
+* Exotics🧿:
+* An Exotic🧿 piece of gear MUST have a Mod, or a Mod with a Power. NOTE: it is not possible for an Exotic power to exist without a Mod. There is a mod class “Inherent” that is the catch all for Exotic Powers that are directly part of the Exotic, but this is still a Mod.
+* Mods (🔌):
+* Subordinate & Modular: Represents an module, aftermarket installation, or physical hardware upgrade to the parent Gear. (Note: the parent Gear is often called the Chassis).
+* Market Commerce: Carries a financial purchase cost ( g/s ), except for the factory-installed “Inherent” mod.
+* 
+* 
+* Exotic Powers🧿:
+* Exotic Powers use the same rule set as ability Powers: (Action, Usage, Effect, etc.). and cost 1 AP to learn, but can ONLY be used if the parent Exotic Gear (often called the Chassis) is owned and being used.
+* 
+* 
+* 
+* AP🧩 Rebalancing & Refunds:
+* Whenever a character unlocks a new Path (4 AP), the system automatically scans all currently owned abilities across all categories (Powers, Skills, Weapon Proficiencies, Armor Proficiencies, Shield Proficiencies, and Traits). Any ability whose path tag matches the newly acquired Path and whose recorded AP🧩 cost exceeded In-Path amount (e.g. was purchased Out-of-Path for 3 AP or 4 AP) is permanently re-indexed to In-Path pricing (1 AP or 2 AP), and the AP difference is immediately credited back to the character's available AP pool. Removing an ability via the trash can always refunds exactly the active ap cost. If an AP purchased Skill becomes part of a learned Skill Set, the purchase of the standalone Skill is similarly refunded. If a weapon, armor, shield was learned for an extra +1AP due to the character not meeting Atr requirements and that character later meets those requirements, the extra 1Ap is similarly refunded. Bottom line rule: No AP is ever lost or wasted.
+* 
+* 
+* 
+* 
 
 🛠️ Developer & Architecture Reference
 
-### ⚔️ Dual-Role Architecture: Supabase Weapons, Armor & Shields (Abilities vs. Physical Equipment)
-
-In SupaFlex, the Supabase database tables weapons, armor, and shields fulfill a deliberate Dual Role across the application architecture, serving as the single source of truth for both character combat capabilities and physical inventory/commerce: 1. The Ability Role (Combat Cards: WeaponsCard, ArmorCard, ShieldCard): * Entries track martial competence and combat capability unlocked or trained on the character sheet. * Consumes ability fields: requirement, atk (Attack die), dmg (Damage die), max_block (Block cap), ar (Armor rating), mr (Movement Rate modifier), and sk (Skilled status). * Governed by AP investment, advancement, and active readiness in combat encounters. 2. The Equipment & Commerce Role (Gear Card & Gear Manager Modal): * Entries track physical merchandise, market commerce, and inventory custody carried by the adventurer. * Consumes equipment & commerce fields: cost (Monetary price in gold g or silver s), name, notes (Lore, physical description, and special properties), genres (Setting availability), pic (Visual iconography), and is_guildspace_locked (Vault access control). * Governed by monetary transactions via deductFundsWithChange, quantity tracking (qty), and inventory valuation (calculateInventoryValue) inside simple_gear. * Clean Separation: Purchasing physical weapons, armor, or shields in the Gear Manager adds them to the character's gear inventory for ownership tracking; it does not alter or grant combat abilities or skilled ratings in WeaponsCard, ArmorCard, or ShieldCard, preserving strict separation between physical possession and martial training.
-
-1. 🥋 Martial Skill Cards (Weapon SK, Armor🧥 SK, Shield SK) vs. 🎒 Physical Gear Ownership (simple_gear) Strict Separation Mandate (Triad Format):
-1. Rule (The What): The cards on the main character sheet—Weapon SK, Armor SK, and Shield SK (WeaponsCard.tsx, ArmorCard.tsx, ShieldCard.tsx)—govern martial competence, proficiency status, attack/damage dice, and AP investment ONLY. They have ZERO relation to physical gear ownership, custody, or hardware modifications. All physical item ownership, custody, monetary commerce, hardware mods (SB_Mods), and Exotics (SB_Functions) live EXCLUSIVELY in simple_gear (Equipped Gear in the Gear Manager, GearCard.tsx). Automated exotics synchronizers and inventory calculators must NEVER query or conflate armor_slot, wardrobe, weapon_slots, or shield_slots. All Exotics and compatible mods stem strictly from physical items present in simple_gear.
-1. Rationale (The Why): Decoupling martial ability training from physical item commerce prevents phantom gear generation, protects character wallet integrity, and ensures that Exotics are powered only by physical objects actually carried by the hero.
-1. Failure Mechanism (The What Breaks): Conflating martial skills with physical gear causes un-purchased equipment to grant Exotics, breaks inventory valuation, and creates desynchronization between player wallets, carried gear, and combat training cards.
-1. ⚙️ Hardware Mods & Exotics Reconciliation Protocol (Triad Format):
-1. Rule (The What): Inherent free Trait and purchased mods attached to physically owned gear in simple_gear must immediately populate their tactical combat Exotics (SB_Functions) into character_vault and appear in the character's Exotics Manager (ManageGearPowersModal.tsx). In the Gear Manager's Equipped Gear view (GearCard.tsx), installed mod badges must strictly display "Installed" (omitting redundant "free Trait" badges). Uninstalled mod buttons must be labeled +Mod [cost] (displaying formatted gold g and silver s price) and match that mod row's text color (e.g. indigo for standard, purple for MSO). Clicking +Mod [cost] must deduct the monetary cost from player currency via deductFundsWithChange and trigger instant exotics reconciliation.
-1. Rationale (The Why): Transparent mod pricing and color-coded buttons provide immediate affordance and dyslexia-friendly UI clarity. Instant automated reconciliation ensures that whenever gear with inherent or acquired mods is loaded or purchased, heroes immediately have tactical access to their Exotics without manual synchronization or configuration steps.
-1. Failure Mechanism (The What Breaks): Inconsistent button styling confuses affordance; failing to deduct money corrupts campaign economy; and lack of reactive synchronization leaves the character devoid of equipment-granted abilities (e.g., Destron Armor having 6 inherent mods but 0 available exotics).
-1. 🧬 Traits (🧬) & Inherent Free Traits (Free):
-1. Rule (The What): The term Trait (🧬) designates modular capabilities, physiological features, tactical boons, and biological traits queried from the traits database table. Inherent starting grants (from Race Paths or Class Paths) cost 0 AP (Free) to gain and are tagged internally in the database with free Trait. In the user interface and player documentation, unbudgeted starting traits are always labeled "free Trait" (or 🧬 Trait (Free) / 🧬 free Trait). The internal token "Perk" is strictly deprecated and unified to free Trait. Inherent free traits are auto-taken upon selecting a Path and may not be removed without GM approval.
-1. Rationale (The Why): Consolidating "Spec Rules" into "Traits" simplifies taxonomy across the character sheet, aligns with intuitive RPG terminology, and eliminates confusion between overarching systemic game rules (📜) and individual character traits (🧬). Standardizing to free Trait universally across both abilities (in path) and gear/mods (in belongs_to/cost) creates a single zero-cost delimiter across the entire monorepo with zero cognitive overhead.
-1. Failure Mechanism (The What Breaks): If internal bracket tokens leak into player-facing UI or documentation, it creates cognitive friction, breaks dyslexic-friendly UI consistency, and violates player expectations. If 0 AP starting traits are not protected, players could inadvertently delete foundational racial biology or class requirements.
-
-1. 📜 Global System Rules vs. 🧬 Character Traits:
-1. Rule (The What): Global System Rules (📜) represent the macro game engine, core resolution mechanics, combat economy, and overarching rules of SupaFlex (found in this .md Source of Truth and on the VitePress Player Guide). Character Traits (🧬) represent modular, individual character features, tactical boons, and physiological rules queried from Supabase and equipped on the Character Sheet.
-1. Rationale (The Why): Strict separation between system-wide rules (📜) and sheet-level traits (🧬) prevents conflating core resolution mechanics (like Death Checks, Focus Die explosions, or Armor Dodge) with localized character abilities (like Darkvision, Amphibious, or Mind-Shield).
-1. Failure Mechanism (The What Breaks): Conflating the two causes players to confuse systemic game rules with learnable character capabilities and clutters the character sheet with reference text that should reside in the core guide.
-1. No Quirks or Flaws: There are NO quirks, flaws, or flaw points in SupaFlex. There are only unified Traits, Equipment, and Abilities.
+* 
 
 ## 🙂Emojis
 
 Emojis🙂 are used in SupaFlex for rapid identification of key stats and words. They are used in several ways and formats:
 
-Emojis🙂 come BEFORE their key word(s) in titles and headings
+Emojis🙂 “may” come BEFORE their key word(s) in titles and headings ONLY.
 
-Emojis🙂 are to follow their key word(s) in nearly every case (other than headings)
+Otherwise, Emojis🙂follow their key word(s) in nearly every case.
 
-The five Attribute✅ (Atr) emojis🙂 can be used both following their key words as in: Might💪, Motion🏃, Mind👁️, Magic✨, and Moxie🫀, but also following any ability as an indicator as to which of the five attributes to roll for that ability. (e.g., “Stealth🏃” is the shorthand version of, and means the same thing as “Stealth roll using Motion🏃” or “Motion🏃 Stealth” and this shorthand is the preferred method.
+The five Attribute✅ (Atr) emojis can be used both following their key words as in: Magic✨, Might💪, Mind👁️, Motion🏃, Moxie🫀, but also following any ability as an indicator as to which of the five attributes to roll for that ability. (e.g., “Stealth🏃” is the shorthand version of, and means the same thing as “Stealth roll using Motion🏃” or “Motion🏃 Stealth” and this shorthand is the preferred method.
 
-The ⚡ emoji strictly represents a Bolt (5 accumulated Sparks/Charges), NEVER an individual spark. Individual points are called Sparks or Spark Charges (synonymous terms). When a hero accumulates 5 sparks, they have a Bolt!
+Bolt⚡: The ⚡ emoji strictly represents a Bolt (5 accumulated Sparks), NEVER an individual spark. Individual charges are called Sparks or a Spark. When a hero accumulates 5 sparks, they have a Bolt⚡, which can power any ability that with the usage of “1-⚡”!
 
 Monster stats place the emojis before key numbers or number sets as in:
 
-4 Orc Guards (Heavy Leather, Scimitars, Bucklers) 🚩14, 👣10, ⚔️18/12, 🛡️16/2, ❤️12 – [💪18/🏃12/👁️10/✨10/🫀12] (Poisoned blades Magic✨ or Weakened).
+Orc Bruiser (Greataxe, Fist, Flak Armor) 🚩14 👣10 ⚔️18 / 12 🧥16 / 2 ❤️12 - [✨10/💪18/👁️10/🏃12/🫀12] (Brutal melee strikes).
 
 | 📖 Core Stat / Term | 🙂 Symbol | Domain & Rules Shorthand |
 | --- | --- | --- |
-| Magic | ✨ | Spellcraft, arcane powers, psionics, sorce, supernatural defenses |
-| Might | 💪 | Physical strength, melee attacks (⚔️), athletics, blocking (🛡️) |
-| Mind | 👁️ | Intellect, shot/ranged attacks, technology, perception, analysis |
+| Magic | ✨ | Spellcraft, arcane powers, psionics, supernatural defenses |
+| Might | 💪 | Physical strength, melee , athletics, blocking (🛡️) |
+| Mind | 👁️ | Intellect, shot weapons, use technology, perception, analysis |
 | Motion | 🏃 | Agility, dodging (🏃), reflexes, stealth, hurled weapons |
-| Moxie | 🫀 | Stamina, vitality, bodily endurance, toxin resistance, death checks |
+| Moxie | 🫀 | Stamina, vitality, bodily endurance, poison resistance, death checks |
 | Nish | 🚩 | Combat initiative rating & turn sequence |
-| Movement Rate (MR) | 👣 | Tactical movement in squares (1 sq = 5 ft; e.g. 👣6, jump 👣+2) |
-| Vitality (Vit) | ❤️ | Health pool & maximum wound capacity before unconsciousness |
-| Armor Rating / Reduction (AR) | 🧥 | Damage absorption die or static rating rolled when hit |
-| Bolt (5 Sparks) | ⚡ | 5 accumulated Spark charges (⚡ represents a full Bolt, NEVER individual sparks) |
-| Luck | 🍀 | Heroic luck chits & twist currency |
+| Movement Rate (MR) | 👣 | Tactical movement in squares (1 sq = 5 ft; e.g. 👣6, jump d👣) |
+| Vitality (Vit) | ❤️ | Health pool & maximum wound capacity before unconsciousness and death checks |
+| Armor (AR) | 🧥 | Damage absorption die rolled to reduce Dmg to Wnds |
+| Bolt (5 Sparks) | ⚡ | 5 accumulated Sparks represent a full Bolt. Used to power 1-⚡ abilities |
+| Luck | 🍀 | Used to reroll an ability, create a Twist (temporary upgrade to an ability), and power 1-🍀 abilities |
 
 💡 Tip
 
-Master Lexicon & Full Icon Directory: For the comprehensive alphabetical index of all 50+ game element emojis, equipment icons, and monster stat symbols, see [Appendix C: Master Terminology & System Lexicon](#id.e52bda5b8vuc) .
+Master Lexicon & Full Icon Directory: For the comprehensive alphabetical index of all 50+ game element emojis, equipment icons, and monster stat symbols, see Appendix C: Master Terminology & System Lexicon .
 
 ### 📝 Definitions
 
 This section serves as both the abbreviation reference and the full word definition area for the system. Each entry begins with the common abbreviation (if any), followed by the full term in parentheses. All entries are alphabetized for quick reference.
 
-Abilities🧠 – All non-physical features of a character: Attributes✅, Skills🎓, Skill Sets🎓, Traits🧬, and Powers🔥 (unlocked via AP and organized into Paths🧭).
+Abilities🧠 – All non-physical features of a character: Attributes✅, Skills🎓, Traits🧬, and Powers🔥 (unlocked via AP and organized into Paths🧭).
 
 Ability Roll – Roll #d20 + d(Atr) + Bonus versus a difficulty to determine success or failure. The number of d20 is specified by skilled/unskilled, advantage/disadvantage.
 
-Action🔷 (AM, A, M, P, F) – Governed by the 4-channel action economy: Attack (A), Move (M), Partial (P), and unlimited Free (F) actions, plus hybrid Attack & Move (AM).
+Action🔷 (AM, A, M, P, F) – Governed by the 4-channel action economy: Attack (A), Move (M), Partial (P), and unlimited Free (F) actions, plus combined Attack & Move (AM).
 
 Adv (Advantage) – Gain an extra d20 during an ability roll.
 
 AP🧩 (Adventure Point) – Earned progression currency spent to unlock Paths🧭, learn new abilities🧠, or improve stats.
 
-AR🧥 (Armor Rating) / Armor🧥 – Equipment worn to absorb damage. Defense is always Dod/AR or Blk/AR; armor is the AR part. Standard armor is baseline Standard Gear⚙️; high-tier, specialized, or enchanted suits exist as Exotics🧿 or Artifacts🔮. When learned, characters are assumed to possess the item as Gear⚙️ by default.
+AR🧥 (Armor Rating) / Armor🧥 – Equipment worn to absorb damage. Defense is always Dod/AR or Blk/AR; armor is the AR part.
 
-Artifact🔮 (Legendary / Unique Magical Gear) – Exceptionally rare, unique, or priceless magical items—such as ancient monoliths, divine masterworks, or arcane foci—that exist outside the standard economy, cannot be normally purchased or manufactured, and carry a cost of "Artifact". Possesses one or more actionable Exotics🧿 (1 AP to learn, or inherent). Inactive artifacts reside in inventory.
+Artifact🔮 (Legendary / Unique Exotic Gear) – Exceptionally rare, unique, or priceless Exotics—such as ancient monoliths, divine masterworks, or arcane foci—that exist outside the standard economy, cannot be normally purchased or manufactured, and carry a cost of "Artifact". Possesses one or more actionable Exotics🧿 (1 AP to learn, or inherent).
 
 Atk (Attack) – Any offensive roll or strike made with a weapon, power🔥, or ability.
 
-Atr✅ (Attribute) – The five core attributes: Magic✨, Might💪, Mind👁️, Motion🏃, and Moxie🫀. (Use ✨💪👁️🏃🫀 without labels in most situations).
-
-Auto-Readied Powers – All learned powers are immediately active and readied on the character's Power Card without requiring categorization into rigid ready-slot buckets.
+Atr✅ (Attribute) – The five core attributes: Magic✨, Might💪, Mind👁️, Motion🏃, and Moxie🫀. (Use: ✨💪👁️🏃🫀 without labels in most situations).
 
 Block Cap🛡️ – The maximum monster damage a melee weapon or shield can block.
 
@@ -444,63 +282,59 @@ Critical💀 – A natural 1 on any d20 in an ability roll.
 
 Day – A day in the character’s life (a day in the player’s life is a Session).
 
-Default Gear Possession Rule – When a character learns or becomes skilled in a new Weapon⚔️, Armor🧥, or Shield🛡️, the system defaults to assuming they possess the physical item as standard mundane Gear⚙️ (unless the GM determines otherwise based on campaign tone, starting situation, or narrative context).
+Default Gear Possession Rule – When a character learns or becomes skilled in a new Weapon⚔️, Armor🧥, or Shield🛡️, the system defaults to assuming they possess the physical item as Gear⚙️ (unless the GM determines otherwise based on campaign tone, starting situation, or narrative context).
 
-Dod (Dodge) / Blk (Block) – The avoidance value an opponent must roll against to land a successful attack. Defense 🛡️ is the category (Dod/AR or Blk/AR).
+Def (Defense) – The avoidance roll against an opponent’s Atk rating to avoid damage. Defense is the master category with the options of either Dodge (Dod) or Block (Blk).
 
 Dif (Difficulty) – A GM-assigned number that the player’s ability roll must tie or beat to succeed.
 
 Dis (Disadvantage) – Roll one fewer d20 (or 2L20 if unskilled) during an ability roll.
 
-Dmg (Damage) – The raw amount of harm caused by an attack or ability.
+Dmg (Damage) – The raw amount of potential harm caused by an attack or ability.
 
-Effect – The outcome of using an ability, power, or exotic.
+Effect – The detailed rules for using an ability, or exotic.
 
-Element(s)🌟 – The universal parent category encompassing every physical item and non-physical feature in the game (ALL Gear⚙️ and ALL Abilities🧠).
+Element(s)🌟 – The universal parent category encompassing (ALL Gear⚙️ and ALL Abilities🧠).
 
-Enc (Encounter) – The series of rounds that make up a combat event or distinct roleplaying scene.
+Enc (Encounter) – The series of rounds that make up a combat event or distinct roleplaying scene outside of combat. Note: in SupaFlex the characters are ALWAYS in an Encounter whether it is Combat or Roleplaying (non-combat).
 
-Equipment🧰 – Synonym for Gear⚙️ (the universal master category).
+Exclusive Stacking Master Rule – There is a +1 bonus from holding a full Bolt (⚡) that stacks with nearly all other rolls (subject to GM discretion). ALL other bonuses, buffs, power amplifiers, and numerical modifiers DO NOT STACK unless an ability explicitly states "stacks with..." or with explicit GM approval. When multiple passive buffs or powers offer competing bonuses to the same roll or trait, the player may pick only one of them (obviously this will typically be the single highest bonus).
 
-Exclusive Stacking Master Rule – The optional +1 tactical bonus from beating ALL opponents' Initiative (if using the optional Fast Reflexes rule under GM Tricks, Nish 🚩) and the +1 bonus from holding a full Bolt (⚡) stack with each other AND stack with nearly all other rolls (subject to GM discretion). ALL other bonuses, buffs, power amplifiers, and numerical modifiers DO NOT STACK unless an ability explicitly states "stacks with..." or with explicit GM approval. When multiple passive buffs or powers offer competing modifiers to the same roll or trait, only the single highest value applies.
+Exotic🧿 / Exotics🧿 – Gear⚙️ with one or more r Mods🔌. Most Mods have one or more Exotic Powers🧿 learned for 1 AP
 
-Exotic🧿 / Exotics🧿 – Tactical equipment-derived abilities (Action, Usage, Effect) originating from Gear⚙️, Artifacts🔮, or Mods🔌. Learned for 1 AP (free Trait abilities cost 0 AP) directly from owned host gear or installed mods. There are no slot limits on learned exotics.
-
-Ext Rng (Extended/Long Range) – A greater range (at disadvantage) that a weapon, ability, or item can reach.
+Ext Rng (Extended Range) – A greater range (at disadvantage) that a weapon, ability, or item can reach.
 
 Fatigue – A minimal amount of Wnds🩸 a PC suffers IF HIT by a monster regardless of PC’s AR🧥 roll. Default monster Fatigue equals the monster Dmg💥 ten’s digit + 1 (e.g., Dmg 1–9 = 1, 10–19 = 2, 20–29 = 3, 30–39 = 4, etc.).
 
-Focus Die – A core resource die (d4–d12) that can be spent once per roll after seeing the result, stepping down when used (d12 ➔ d10 ➔ d8 ➔ d6 ➔ d4 ➔ Exhausted) and stepping up on Flood triggers.
+Focus 🎯 – A core resource die (d4 to 12) that can be spent once per roll after seeing the result, stepping down when used (d12 ➔ d10 ➔ d8 ➔ d6 ➔ d4 ➔ Exhausted) and stepping up on Flood triggers.
 
-g / gp (Gold Piece) – Primary gold currency; 100 silver (s) = 1 gold (g).
+g / g (Gold) – Primary gold currency; 100 silver (s) = 1 gold (g).
 
-Gear⚙️ – The universal master category encompassing every physical item, tool, weapon, armor piece, shield, supply, hardware chassis, or object an adventurer can carry, wear, or utilize. Subdivided into 🎒 Supplies, ⚔️ Weapons, Armor🧥, 🛡️ Shields, 🧿 Exotics, 🔮 Artifacts, Kits📦, and subordinate 🔌 Mods. Standard Gear (⚙️) refers specifically to mundane/tech equipment with zero combat abilities.
+Gear⚙️ – The universal master category encompassing every physical item, tool, weapon, armor piece, shield, supply, hardware chassis, or object an adventurer can carry, wear, or utilize. Subdivided into 🎒 Supplies, ⚔️ Weapons, Armor🧥, and 🛡️ Shields. Exotics🧿 are Gear with Mods. Artifacts🔮 are Exotic gear that must be found as loot, Kits📦 are pre-packaged collections of gear..
 
-Kits📦 – Master pre-assembled gear suites and hardware packages (e.g. Powered Armor Suites, Survival Kits, Trauma Kits). Has an overall package price (g/s); constituent items possess belongs_to: "Kit: [Name]" linkages.
+Kits📦 – Pre-assembled gear packages (e.g.Survival Kits, Trauma Kits). Has an overall package price ( g/s ).
 
-Supplies🎒 – Standard, mundane adventuring equipment, tools, survival rations, containers, and field gear operating within baseline mundane rules (priced in g/s).
+Supplies🎒 – Standardadventuring equipment, tools, survival rations, containers, and field gear (priced in g/s ).. Literally ALL gear that is not Weapons, Armor, or Shields.
 
 GM (Game Master) – The person running the game and story.
 
-GM Intensity Die – A single d20 used by the GM for fast intensity or snap environmental adjudication.
+GM Intensity Die – A single d20 used by the GM for fast intensity, snap environmental adjudication, or quick summative rolls of monster and/or NPC vs each other, etc. Just ONE roll, then make a full deterministic result.
 
 Hit – When an attack successfully lands.
 
 H, Hu (Hurled) – Physically thrown weapons (daggers, axes, javelins, etc.).
 
-Kit(s)🎒 – Rare pre-assembled bundles of physical gear and field equipment (e.g. Engineer Tool Kit (mso), Survival Kit, Trauma Kit). Purchased with Gold / Silver (g/s) or acquired as treasure. Included items carry the free Trait tag. Character capabilities, proficiencies, and training packages are Paths (🧭), never Kits.
+.
 
-Level⭐ (Lvl) – A character’s level, equal to their total earned AP🧩.
+Level⭐ (Lvl) – A character’s level.
 
-Luck🍀 – Metacurrency chits spent for full roll rerolls (pure variance mitigation). A roll may use Focus OR Luck, but never both.
+Luck🍀 – Metacurrencyspent for full roll rerolls, Luck Twists, or to power 1-🍀 abilities.
 
 M/H/S (Melee, Hurled, Shot) – Shorthand for weapon types.
 
-Artifact🔮 / Artifacts🔮 – Powerful, enchanted, or legendary treasures discovered as quest or treasure loot that cannot simply be bought in a store (Cost = "Artifact"). Learned abilities cost 1 AP or are inherent.
+Artifact🔮 / Artifacts🔮 – Powerful, enchanted, or legendary Exotic🧿 treasures discovered as quest or treasure loot that cannot simply be bought in a store (Cost = "Artifact").
 
-Mod(s)🔌 – Named modular modifications, hardware attachments, or enchantments (e.g. Joint Locks, Flood Lights, Undead Slayer Coating) belonging to Gear that grant Exotics🧿 or Traits🧬.
-
-Spec Gear🚀 – High-tier, military-specification, or commissioned Exotics carrying a commercial or commission price tag in gold or silver (g/s).
+Mod(s)🔌 – Modular, modifications, hardware attachments, or enchantments (e.g. Joint Locks , Flood Lights , Undead Slayer Coating ) belonging to Gear, which makes the Gear an Exotic🧿.
 
 Mgt💪 (Might💪) – Attribute✅ for brute force, melee weapons Atk⚔️ and Dmg💥, armor size, block Def, shields, physical strength.
 
@@ -520,55 +354,45 @@ Nish🚩 (Initiative) – Determines turn order in combat.
 
 Opp Atk (Opportunity Attack) – An F action basic reaction attack using only the weapon in hand.
 
-Path(s)🧭 – Intangible character capability and identity suites (Race Paths, Class Paths, Discipline Paths, Specialization Paths, Base Path, Universal Path). Unlocked via AP and character creation. Inherent starting traits carry the internal free Trait tag (presented in UI and docs as free Traits).
+Path(s)🧭 – Character capability and identity suites (Race Paths, Class Paths, Specialization Paths, Innate Path, Universal Path). Unlocked via AP and character creation.
 
 PC (Player Character) – A player-controlled character.
 
 Player – A person running a character (not the GM).
 
-Power Card🔥 – The active character sheet card titled "Powers" displaying all learned, auto-readied powers.
+Power🔥 – An ability learned with AP🧩 that operates Actions Economy (AM, A, M, P, F) and defined usage frequencies (1-🍀, 1-⚡, 1-Enc, 2-Enc, 3-Enc, 1-Rnd).
 
-Power🔥 – An ability learned with AP🧩 that operates within the 4-channel Action Economy (A, M, P, F) and defined usage frequencies.
+Rng🎯 (Range) – Distance categorized into 9 tactical bands: Self, Touch, 1 (1 sq strike / adjacent melee), 2 (2 sq strike / reach melee), 3 (3 sq strike / extended reach melee, 15 ft), Short (≤ 6 sq), Medium (≤ 12 sq), Long (≤ 24 sq), Extreme (≥ 25 sq). Use past the designated range is allowed, with GM approval, as Extreme Range at Disadvantage.
 
-Powers-Known Progressive Soft Tax – Escalating AP surcharge applied to total powers learned (Powers 1–6 = 1 AP base; 7–9 = 2 AP; 10–14 = 3 AP; 15+ = 4 AP).
-
-Rng🎯 (Range) – Distance categorized into 9 tactical bands: Self, Touch, 1 (1 sq strike / adjacent melee), 2 (2 sq strike / reach melee), 3 (3 sq strike / extended reach melee, 15 ft), Short (≤ 6 sq), Medium (≤ 12 sq), Long (≤ 24 sq), Extreme (≥ 25 sq).
-
-Rnd (Round) – A single turn in combat where every participant performs their actions.
+Rnd (Round) – A single turn in combat where every participant performs their actions on or after their Nish🚩.
 
 Rules📜 – The global game system rules, core mechanics, combat economy, and resolution engine.
 
-s / sp (Silver Piece) – Silver currency; 100s = 1g.
+s (Silver) – Silver currency; 100s = 1g.
 
 Session – A day in the player’s life, referring to one game session.
 
-S, Sh (Shot) – Ranged weapons that are not thrown (bows, crossbows, firearms).
+S, Sh (Shot) – Ranged weapons that are shot, not thrown, (e.g. bows, crossbows, firearms).
 
-Shields🛡️ – Gear⚙️ held in the off-hand to block incoming attacks up to a Block Cap. Standard shields are baseline Standard Gear⚙️; enchanted or high-tech shields possess Exotics🧿 or are Artifacts🔮.
+Shields🛡️ – Gear⚙️ held in the off-hand to block incoming attacks up to a Block Cap. Shields can block all melee, hurled, and shot weapons and any other GM determined “Blockable” ability or hazard.
 
-Single Die Rule (Single-Explode Capped) – Any single-die resolution roll (Damage Dmg and Armor Rating AR) explodes once, capped on max face (cannot chain further).
+Skill🎓 – An ability check. If "Skilled" 2d20 + d(Atr) + Bonus vs. Difficulty. If “Unskilled” using 1d20 + d(Atr) + Bonus vs. Difficulty.
 
-Skill🎓 – An ability check using #d20 + d(Atr) + Bonus vs. Difficulty.
-
-Skill Set🎓 – A logical collection of related skills learned for 2 AP.
+Skill Set🎓 – A logical collection of related skills learned for 2 AP (if in path) or 3AP and GM approval if (out of path)
 
 Stats – All recorded values: Atr, Vit, MR, Def, Atk, Block Cap, Actions, Usage, etc.
 
-Trait(s)🧬 – Modular traits, physiological boons, tactical modifications, and innate capabilities queried from the traits database table.
-
-Free Trait(s)🧬 (Free) – AP FREE (0 AP) starting traits or elements granted by Paths. The free Trait notation is strictly an internal database and backend tag indicating a 0 AP grant. In player documentation and the UI, these are presented as "free Trait" (🧬 Trait (Free) or 🧬 free Trait). Auto-taken and may not be removed without GM approval.
+Trait(s)🧬 – Character traits, physiological boons, tactical modifications, and innate capabilities. Traits are ALWAYS on and Act(F).
 
 Tremendous🌟 – A natural 20 on any d20 in an ability roll.
 
-Usage🔄 – Standardized 6-option list for ability frequency: 1-⚡ (1 Bolt), 1-🍀, 1-Enc, 2-Enc, 3-Enc, 1-Rnd.
-
-Vault📦 – The unlimited repository for owned but inactive or unequipped Gear⚙️, Exotics🧿, and Artifacts🔮.
+Usage🔄 – Standardized 6-option list for ability frequency: 1-⚡, 1-🍀, 1-Enc, 2-Enc, 3-Enc, 1-Rnd.
 
 Vit❤️ (Vitality) – The amount of wounds a character or monster can sustain before death checks or death.
 
-Wnd🩸 (Wounds) – Damage sustained after AR🧥 reduction is applied.
+Wnd🩸 (Wounds) – Wounds are sustained after AR🧥 reduction is applied to Damage.
 
-Wpn⚔️ (Weapon) – Gear⚙️ wielded to strike or shoot. Standard weapons are baseline Standard Gear⚙️; high-tier or enchanted weapons possess Exotics🧿 or are Artifacts🔮.
+Wpn⚔️ (Weapon) – Offensive Gear⚙️.
 
 ### 🎲 Die Mechanics
 
@@ -578,13 +402,13 @@ An Ability Roll (also called Ability Check) is:
 
 #d20 + d(Atr) + Bonus vs. Dif
 
-#d20: 2H20 if Skilled, 1d20 if Unskilled. Other options exist for Adv/Dis (see below).
+#d20: 2H20 if Skilled, 1d20 if Unskilled. Other options exist for Adv/Dis (see below). Note: ALL ability roll’s d(Atr) dice qualify for exploding rules.
 
-d(Atr) or d💪, d🏃, d👁️, d✨, or d🫀: Roll the base Atr die of the relevant Attribute — (e.g. a simple d4, d6, d8, d10, or d12).
+d(Atr) or d💪, d🏃, d👁️, d✨, or d🫀: Roll the base Atr die of the relevant Attribute — (e.g. a simple d4, d6, d8, d10, or d12). Note: these qualify for exploding rules.
 
-Bonus & Penalty (±10 Modifier Cap): Flat situational, gear🧰, trait🎭, power🔥, or condition modifiers combine up to a hard cap of +10 and -10. Exploding attribute dice provide the high-variance, uncapped cinematic swings, while flat static modifiers are capped at ±10 to maintain game balance and eliminate excessive math bloat. (However, a penalty to an Atr die or check may not reduce the roll below 0; e.g. a d✨–2 where Magic rolls 1 results in 0).
+Bonus & Penalty (±10 Modifier Cap): Flat situational, gear⚙️, trait🧬, power🔥, or condition modifiers combine up to a hard cap of +10 and -10. Exploding attribute dice provide the high-variance, uncapped cinematic swings, while flat static modifiers are capped at ±10 to maintain game balance and eliminate excessive math bloat. (However, a penalty to an Atr die or check may not reduce the roll below 0; e.g. a d✨–2 where Magic rolls 1 results in 0).
 
-Focus Die spends are resource-based die additions, not flat static modifiers, and do not touch the ±10 modifier cap.
+Focus Die spends are resource-based die additions, not flat static modifiers, and do not touch the ±10 modifier cap and qualify for exploding rules.
 
 Example: A Skilled dagger Atk⚔️ with Might💪 d8 and +1 bonus:
 
@@ -594,41 +418,38 @@ Result = 17 + 5 + 1 = 23.
 
 #### Exploding Attribute Dice
 
-Whenever an Attribute die (or Armor/Damage die) rolls its maximum face, reroll that die and add the new result.
-
-Comparison Rolls: On any check that resolves as a comparison vs. a target (such as skill, attack, or defense rolls vs. Difficulty/Target), this explosion can chain indefinitely — if the reroll is also the max face, roll again, keep adding.
+Whenever an Attribute die (or Armor/Damage or any other roll baesd on an Atr) rolls its maximum face, reroll that die and add the new result. If the reroll is also the max face, roll again, keep adding. Thus an exploding d6 “could” roll 6, 6, 6, 6, 4 for a total of 28.
 
 #### Difficulty Ladder
 
 Easy = 10
 
-Medium = 13
+Medium = 15
 
-Hard = 18
+Hard = 20
 
-Very Hard = 20
+Very Hard = 25
 
-Extreme = 24 Note: Ties always go to PCs.
+Extreme = 28+ Note: Ties always go to PCs.
 
 #### Skilled, Unskilled, Advantage, Disadvantage
 
-Examples use for all of below: Sword Atk⚔️, Might💪 d8, +1 bonus.
+Examples below: Sword Atk⚔️, Might💪 d8, +1 bonus.
 
-Unskilled → 1d20 + d8 + 1.
+Skilled/Unskilled:
 
-Skilled → 2H20 + d8 + 1.
+* Unskilled → 1d20 + d8 + 1.
+* Skilled → 2H20 + d8 + 1.
 
 Advantage → Add one extra d20, keep highest.
 
-If Unskilled → 2H20 + d8 + 1.
-
-If Skilled → 3H20 + d8 + 1.
+* If Unskilled → 2H20 + d8 + 1.
+* If Skilled → 3H20 + d8 + 1.
 
 Disadvantage → Roll one fewer d20.
 
-If Unskilled → 2L20 + d8 + 1.
-
-If Skilled → 1d20 + d8 + 1.
+* If Unskilled → 2L20 + d8 + 1.
+* If Skilled → 1d20 + d8 + 1.
 
 Note: There is no such thing as double or triple advantage or disadvantage. Once you have advantage additional indications of advantage do not stack - they simply confirm the ONE advantage. Same for disadvantage. If a character has both then they cancel in equal numbers. So in a super rare 2 advantages and one disadvantage there would be ONE advantage.
 
@@ -671,43 +492,57 @@ Triple = catastrophic negative effect.
 
 #### Mixed Rolls (Adv + Dis):
 
-Default Rule → Any Tremendous🌟 overrides all Criticals💀. This keeps play simple and favors PCs.
+Default Rule → Tremendous🌟 and Criticals💀 cancel on a 1 for 1 basis.
 
-Cinematic Option → An experienced GM🔎 may narrate both effects at once (e.g., a great success with a major setback).🎲 Tremendous & Critical Examples🌟 Tremendous (Natural 20 on a kept die)
+Cinematic Option → An experienced GM🔎 may narrate both effects at once (e.g., a great success with a major setback).
+
+🎲 Tremendous & Critical Examples
+
+🌟 Tremendous (Natural 20 on a kept die)
 
 Tremendous Attack⚔️ – Your spear thrust impales your target and carries through into the foe directly behind them (roll Dmg💥 on both).
 
 Tremendous Defense🛡️ – A perfectly timed parry twists the attacker’s weapon from their grip — it clatters d4 squares away.
 
-Tremendous Skill Check🎓 – Your climbing grip is flawless; not only do you succeed, but you also set a safe line that lets allies climb at Adv for the rest of the Enc.💀 Critical (Natural 1 on a kept die)
+Tremendous Skill Check🎓 – Your climbing grip is flawless; not only do you succeed, but you also set a safe line that lets allies climb at Adv for the rest of the Enc.
+
+💀 Critical (Natural 1 on a kept die)
 
 Critical Attack⚔️ – Your greatsword lodges in the enemy’s armor — you deal no Dmg💥 this rnd and must use a P action next turn to wrench it free.
 
-Critical Defense🛡️ – A mistimed Dodge🏃 sends you sprawling into the path of another threat — you go prone, and incoming Dmg💥 is doubled.
+Critical Defense – A mistimed Dodge🏃 sends you sprawling into the path of another threat — you go prone, and incoming Dmg💥 is doubled.
 
-Critical Skill Check🎓 – Your attempt to sneak trips a noisy latch; you’re exposed, and nearby monsters gain +2 Nish🚩 this rnd.🌟🌟 Double Tremendous (Two Natural 20s)
+Critical Skill Check🎓 – Your attempt to sneak trips a noisy latch; you’re exposed, and nearby monsters gain +2 Nish🚩 this rnd.
+
+🌟🌟 Double Tremendous (Two Natural 20s)
 
 Double Tremendous Attack⚔️ – A warhammer strike obliterates your target outright, then ricochets with supernatural force into 1d4 nearby enemies for max Dmg💥 before returning to your hand.
 
-Double Tremendous Defense🛡️ – Your block not only deflects the blow but rebounds it — the attacker suffers their own full Dmg💥, and you may immediately reposition 3 squares and gain +3 Block Cap for the rest of the Enc.
+Double Tremendous Defense – Your block not only deflects the blow but rebounds it — the attacker suffers their own full Dmg💥, and you may immediately reposition 3 squares and gain +3 Block Cap for the rest of the Enc.
 
-Double Tremendous Skill Check🎓 – Your persuasion is so compelling that the guard doesn’t just let you through — he convinces his comrades to fight at your side for the rest of the Enc and remains your lifelong ally.💀💀 Double Critical (Two Natural 1s)
+Double Tremendous Skill Check🎓 – Your persuasion is so compelling that the guard doesn’t just let you through — he convinces his comrades to fight at your side for the rest of the Enc and remains your lifelong ally.
+
+💀💀 Double Critical (Two Natural 1s)
 
 Double Critical Attack⚔️ – Your bowstring snaps and the recoil slices your hand; you take 1 Wnd🩸 and cannot use Rng attacks for the remainder of the Enc.
 
-Double Critical Defense🛡️ – Your shield arm gives way under the impact; your shield is shattered, and you suffer the attack’s full Dmg💥 ×2.
+Double Critical Defense – Your shield arm gives way under the impact; your shield is shattered, and you suffer the attack’s full Dmg💥 ×2.
 
-Double Critical Skill Check🎓 – Attempting to disarm a trap, you trigger it catastrophically — not only does it explode for full effect, but it also sets off a chain reaction that brings half the ceiling down (everyone Dodge🏃 vs Dif 15 or suffer 12 Dmg💥 vs AR🧥).🌟🌟🌟 Triple Tremendous (Three Natural 20s — rare!)
+Double Critical Skill Check🎓 – Attempting to disarm a trap, you trigger it catastrophically — not only does it explode for full effect, but it also sets off a chain reaction that brings half the ceiling down (everyone Dodge🏃^15 or suffer 12 Dmg💥 vs AR🧥).
+
+🌟🌟🌟 Triple Tremendous (Three Natural 20s — rare!)
 
 Triple Tremendous Attack⚔️ – Reality bends around your strike — your attack slays your foe, arcs lightning to every enemy in sight for triple full Dmg💥, and grants you and your allies +1 Luck🍀 immediately.
 
-Triple Tremendous Defense🛡️ – You intercept the blow in godlike fashion; not only are you unharmed, but you absorb the force and unleash it back as an auto-hit against all adjacent enemies equal to your max Dmg💥 — and it slays the opponent that attacked you.
+Triple Tremendous Defense – You intercept the blow in godlike fashion; not only are you unharmed, but you absorb the force and unleash it back as an auto-hit against all adjacent enemies equal to your max Dmg💥 — and it slays the opponent that attacked you.
 
-Triple Tremendous Skill Check🎓 – Your leap clears the chasm so perfectly that time seems to freeze; your allies may cross freely this rnd as though flying, and all of you may cross this chasm at any time without fail.💀💀💀 Triple Critical (Three Natural 1s — catastrophic!)
+Triple Tremendous Skill Check🎓 – Your leap clears the chasm so perfectly that time seems to freeze; your allies may cross freely this Rnd as though flying, and all of you may cross this chasm at any time without fail.
+
+💀💀💀 Triple Critical (Three Natural 1s — catastrophic!)
 
 Triple Critical Attack⚔️ – Your magical weapon catastrophically fails — it shatters beyond repair, and you injure yourself for half your Vit❤️ in Wnd🩸s.
 
-Triple Critical Defense🛡️ – You not only fail to defend but stumble directly into the most dangerous part of the attack — take double Dmg💥 and suffer an Affliction (GM🔎 choice: Stunned, Weakened, Immobilized, etc.), as a pit opens beneath you and you fall 20 feet.
+Triple Critical Defense – You not only fail to defend but stumble directly into the most dangerous part of the attack — take double Dmg💥 and suffer an Affliction (GM🔎 choice: Stunned, Weakened, Immobilized, etc.), as a pit opens beneath you and you fall 20 feet.
 
 Triple Critical Skill Check🎓 – The ritual backfires explosively — you not only fail but unleash a magical surge that Afflicts allies nearby with random conditions and causes the ceiling to collapse on all for 14 Dmg💥, save vs Dif 18 for half.
 
@@ -763,7 +598,7 @@ How Attributes Work:
 
 Attribute dice are rolled in Ability Rolls: #d20 + d(Atr) + Bonus vs Dif .
 
-Attribute die values start at 1x d4, 2x d6, 2x d8 across the five attributes at Level 1, improving through tier-gated AP advancement up to a hard maximum array of 1x d6, 1x d8, 1x d10, 2x d12 at Level 100.
+Attribute die values start at one d4, two d6, two d8 across the five attributes at Level 1, improving through tier-gated AP advancement up to a hard maximum array of one d6, one d8, one d10, two d12 at Level 100.
 
 Attribute checks always use the die size tied to the relevant Attribute.
 
@@ -773,86 +608,48 @@ All Attributes are equally important. Mgt💪 is not inherently better than Mnd�
 
 ### ✅ Atr Tags
 
-All abilities and items show their governing Atr: Might💪, Motion🏃, Mind👁️, Magic✨, or Moxie🫀 that they provide a buff to or use as an ability roll.
+All abilities and items show their governing Atr: Might💪, Motion🏃, Mind👁️, Magic✨, or Moxie🫀 that they provide a buff to or use as an ability roll. Note: Atr dice ALWAYS qualify for exploding rules.
 
 ### 📜 Attribute Notation Grammar in Effects & Mechanics
 
-Attribute shorthand in SupaFlex follows a strict, four-tier grammar standard across powers, exotics, items, and combat mechanics. This eliminates ambiguity between making an ability roll, rolling flat dice, or checking an exact static score.
+Attribute shorthand in SupaFlex follows a strict, four-tier grammar standard across powers, exotics, items, and all other mechanics. This eliminates ambiguity between making an ability roll, rolling flat dice, or checking an exact static score.
 
 #### 📊 Quick Reference Matrix
 
 | Notation Syntax | Grammar Class | What is Rolled / Evaluated | Canonical Examples | Primary Use Cases |
 | --- | --- | --- | --- | --- |
-| [Atr] | Ability Roll | 2H20 + d[Atr] (Skilled) or 1d20 + d[Atr] (Unskilled) | Atk ✨, Atk 💪+2, Awareness 👁️ | Attack hit rolls, skill checks, general attribute tests. |
+| [Atr] | Ability Roll | 2H20 + d[Atr] (Skilled) or 1d20 + d[Atr] (Unskilled) | Atk 🏃, Atk 💪+2, Awareness 👁️ | Attack hit rolls, skill checks, general skill tests. |
 | [Atr]^[Target/Dif] | Opposed / Caret Roll | Player rolls Ability Check vs. static target score or Dif | 💪^💪, ✨^🫀, 👁️^👁️, 🏃^Dif, 🫀^20 | Offensive spell effects, status afflictions, grappling, saves. |
-| d[Atr] | Flat Attribute Die | 1 flat die of current attribute size (d4, d6, d8, d10, d12) | Dmg d💪, AR d✨, restore d✨ Vit | Damage rolls, armor absorption, vitality healing. |
-| [A]d[Atr][±#] | Multiple Attribute Dice | A flat dice of attribute size plus/minus static bonus | 2d✨, d💪+2, 2d👁️+1 | Empowered damage, scaled abilities. |
-| Val([Atr]) | Exact Static Score | Static numerical rating of the attribute (4, 6, 8, 10, 12) | Vit Val(✨), within Val(✨) sq, grows Val(✨) in | Static vitality capacity, growth limits, teleport ranges, flat bonuses. |
+| d[Atr] | Exploding Attribute Die | 1 die of current attribute size (d4, d6, d8, d10, d12) qualifies for exploding rules | Dmg d💪, AR d✨, restore d✨ Vit | Damage rolls, armor absorption, vitality healing. |
+| [A]d[Atr][±#] | Multiple Attribute Dice | Attribute rollplus/minus static bonus (can explode) | 2d✨, d💪+2, 2d👁️+1 | Empowered damage, scaled abilities. |
+| Val([Atr]) | Exact Static Score | Static numerical rating of the attribute (4, 6, 8, 10, 12) | Vit is Val(✨), within Val(✨) sq, grows Val(✨) inches | Static vitality capacity, growth limits, teleport ranges, flat bonuses. |
 
 #### 💥 Universal Explosion Rule for Attribute Rolls
 
-* Attribute Die Only Explodes: In any Ability Roll (2H20 + Atr Die or 1d20 + Atr Die), ONLY the Attribute die explodes on its maximum face (e.g. rolling 6 on a d6). The d20 NEVER explodes (a 20 on a d20 is a Tremendous roll, not an exploding die).
-* Universal Explosion Directive: ALL Attribute-based rolls (whether an Ability roll or a flat attribute die roll) explode on maximum face unless specifically stated otherwise. Thus, all Damage (Dmg d[Atr]), Armor reduction (AR d[Atr]), Healing (restore d[Atr] Vit), and Jumps (jump d👣) explode!
+* Only Attribute Dice Explode: In any Ability Roll (2H20 + Atr Die or 1d20 + Atr Die), ONLY the Attribute die explodes on its maximum face (e.g. rolling 6 on a d6). The d20 NEVER explodes (a 20 on a d20 is a Tremendous roll, not an exploding die).
+* Universal Explosion Directive: ALL Attribute-based rolls (whether an Ability roll or a d(attribute) die roll) explode on maximum face unless specifically stated otherwise. Thus, all Damage (Dmg d[Atr]), Armor reduction (AR d[Atr]), Healing (restore d[Atr] Vit), and also Jumps (jump d👣) explode!
 
-#### 1. 🎲 Ability Check: Bare Attribute Icon ([Atr]) (Triad Format)
-
-* Rule (The What): An attribute icon standing alone or with an additive modifier (e.g. ✨, 💪, 🏃+2, Atk 👁️) represents an active Ability Roll.
-* If the character is Skilled: roll 2H20 + Atr Die + Bonus vs. Monster Def or Difficulty (where 2H20 means roll two d20s and take the higher result).
-* If the character is Unskilled: roll 1d20 + Atr Die + Bonus vs. Monster Def or Difficulty.
-* In comparison rolls, ONLY the Attribute die explodes indefinitely on its maximum face (the d20 never explodes).
-* Rationale (The Why): The bare icon signifies the core resolution engine of SupaFlex, where an action or skill test combines d20 training with the character's innate attribute die.
-* Failure Mechanism (The What Breaks): Treating bare icons as flat dice rolls invalidates character skill training (2H20) and breaks the mathematical foundation of combat resolution.
-
-#### 2. ⚔️ Opposed & Difficulty Checks: Caret Notation ([Atr]^[Target / Dif]) (Triad Format)
-
-* Rule (The What): When an ability roll is directed against an opponent, environmental obstacle, or fixed difficulty, it MUST use Caret syntax: [Player Roll]^[Static Target / Opponent Score / Dif] (e.g. 💪^💪, ✨^🫀, 👁️^👁️, 🏃^Dif, 🫀^20, ✨^🚩).
-* Under the Player-Only Rolling Doctrine, opponents and monsters NEVER roll saving throws. Hostile attacks and status afflictions always roll the player's active attribute check against the opponent's static attribute score.
-* The word "vs" is strictly prohibited in mechanical check formulas.
-* Rationale (The Why): Guarantees that only players roll dice, keeping combat fast, cinematic, and GM-light. The caret (^) provides an unambiguous operator representing "versus" in both tabletop play and automated VTT sheet parsers.
-* Failure Mechanism (The What Breaks): Writing legacy "target saves" forces the GM to roll dice, slows turn pacing, and violates the fundamental design tenets of SupaFlex.
-
-#### 3. 💥 Flat Attribute Dice: d[Atr] & [A]d[Atr][±#] Notation (Triad Format)
-
-* Rule (The What): Whenever a game mechanic rolls the character's attribute die for Damage (Dmg), Armor reduction (AR), Vitality Healing (restore/heals ... Vit), or Wounds, it MUST prepend a lowercase d: d[Atr Icon] (e.g. d💪, d✨, d👁️, d🏃, d🫀).
-* If multiple dice are rolled, an integer prefix A precedes the d: [A]d[Atr Icon] (e.g. 2d✨, 2d💪).
-* The Invariant Rule of A and d: Where A is an integer count of attribute dice: IF there is an A, there WILL be a d, but there can be a d without an A, and there can be neither A nor d.
-* Movement Rate Exception for Jumps (d👣): While Damage, Armor reduction, and Vitality Healing roll attribute dice (d[Atr]), Jumps scale from the Movement Rate die: jump d👣, jump d👣+2, Jumps(d👣+2), where d👣 represents rolling the die corresponding to the character's Movement Rate (d(MR) ≤ MR, e.g. MR 6 rolls a d6). This prevents high-Motion characters from leaping further than their standard ground movement rate.
-* Universal Explosion: Flat attribute and movement dice explode on their maximum face unless specifically noted otherwise.
-* Slashed shorthand notations like Atk/Dmg [Atr] or Def/AR [Atr] are strictly prohibited. Always write: Atk [Atr] Dmg d[Atr] and Def [Atr] AR d[Atr].
-* Rationale (The Why): Tabletop players and digital parsers need an immediate, foolproof visual distinction between rolling a d20 ability check (no d) and rolling the attribute die itself (with d).
-* Failure Mechanism (The What Breaks): Omitting d leads players and digital tools to mistakenly add static integers rather than rolling dice for damage, healing, or jumping.
-
-#### 4. 🎯 Exact Attribute Value Standard: Val([Atr]) Notation (Triad Format)
-
-* Rule (The What): Whenever a game mechanic, power, trait, or hazard requires referencing the exact numerical attribute score or flat integer rating (rather than rolling an attribute die d[Atr] or making an ability check [Atr]^...), it MUST be written as Val([Atr Icon]) (e.g. Val(✨), Val(🏃), Val(💪), Val(👁️), Val(🫀)), or modified expressions such as Val(✨-1) or Val(✨+3). Legacy notations like =(✨) or _✨ are strictly prohibited.
-* Rationale (The Why): Disambiguates between rolling an ability check (✨), rolling an attribute die (d✨), and referencing the character's static numeric rating (Val(✨)).
-* Failure Mechanism (The What Breaks): Using archaic =(✨) or _✨ confuses automated digital character sheet parsers and players, who mistake the equal sign for conditional trigger syntax (Wnds = ...) or dice roll formulas.
+* 
 
 ## 🎯 Focus Die
 
 ⚡ Quick Reference: Focus Die Rules
 
-Focus Roll: * Spend Timing — Once per roll, after seeing the initial roll result, roll your current Focus Die and add the result directly to your total. * Explosion Type — Comparison rolls (Skill, Attack, Defense) explode freely on max face; Single-die rolls (Damage, Armor) single-explode capped. * Step-Down Rule — Spending your Focus Die steps it down one size on the ladder (d12 ➔ d10 ➔ d8 ➔ d6 ➔ d4 ➔ Exhausted).
+Focus Roll: * Timing — Once per roll, after seeing the initial roll result, roll your current Focus Die and add the result directly to your total. Focus rolls qualify for exploding die rules.. * Step-Down Rule — Spending your Focus Die steps it down one size on the ladder (d12 ➔ d10 ➔ d8 ➔ d6 ➔ d4 ➔ Exhausted), if the Focus roll was not max face or 1. Thus on a d6 the setpdown occurs on a roll of 2, 3, 4, or 5. but remains at d6 on a 1 or 6.
 
-Requirement: * Eligible Rolls — Any ability roll, Damage, AR, and other checks as GM allows. * Usage Limit — Limit 1 Focus spend per roll. * Strict Exclusivity — A roll may use Focus OR Luck, but NEVER BOTH.
+Requirement: * Eligible Rolls — Any ability roll, Damage, AR, and other checks as GM allows. * Usage Limit — Limit 1 Focus spend per roll.
 
-Refilling Focus (The Flood): * Start of Combat — Step up +1 at the beginning of an encounter. * End of Combat — Step up +1 upon resolving an encounter. * Short Rest — Step up +1 when taking a short rest opportunity between combats. * Full Round Action — Spend an entire combat round taking no other actions to "Flood" (+1 step up). * Full Rest — A full night's sleep completely restores your Focus Die to its maximum ceiling size.
+Refilling Focus (The Flood): * Start of Combat — Step up +1d at the beginning of an encounter. * End of Combat — Step up +1d upon resolving an encounter. * Short Rest — Step up +1d when taking a short rest opportunity between combats. * Full Round Action — Spend an entire combat round taking no other actions to "Flood" (+1d step up). * Full Rest — A full night's sleep completely restores your Focus Die to its maximum ceiling size.
 
 Focus is a core PC resource represented by a single die on the same d4 ➔ d6 ➔ d8 ➔ d10 ➔ d12 step ladder as attributes.
 
 The Spend: Once per roll, after seeing the result, a player may roll their current Focus Die and add it to the total.
 
-Explosion Rules on Spend: * Comparison Rolls (Skill, Attack, Defense vs. Difficulty/Target): The Focus Die explodes freely and indefinitely whenever it rolls its maximum face. * Single Die Rolls (Damage, Armor): The Focus Die follows the Single Die Rule (single-explode capped) — it rerolls once on max face and adds, but that reroll cannot trigger further explosions.
-
-The Step-Down Rule: When a player spends their Focus Die, the Focus Die steps down one size on the ladder (d12 ➔ d10 ➔ d8 ➔ d6 ➔ d4 ➔ Exhausted).
-
 The Flood (Refill): When a Flood event triggers, the Focus Die steps up one size (up to its purchased maximum).
 
-Flood Triggers (+1 step up): * Start of combat. * End of combat. * Taking a short rest opportunity between combats. * Spending a full round doing nothing but "Flooding" (forgoing all actions).
+Flood Triggers (+1d step up): * Start of combat. * End of combat. * Taking a short rest opportunity between combats. * Spending a full round doing nothing but "Flooding" (forgoing all actions).
 
 Full Rest: A full night's sleep resets the Focus Die to its purchased maximum.
-
-Focus vs. Luck (Strict Mutual Exclusivity): A player may use Focus OR Luck on a single roll, but NEVER BOTH. * Luck (🍀): Redo the whole roll (pure variance mitigation). * Focus (🎯): Add to the roll already made (deliberate agency/boost).
 
 ## 🧾 Character Creation
 
@@ -860,25 +657,40 @@ Concept First: Any idea works — punk knight, techno-bard, gargoyle hero, soda 
 
 ⚡ Quick Reference: Paths & Character Progression
 
-* Starting Paths — Every character starts with 2 Learned Paths: a Race Path (🧬) and a Class Path (⚔️), each granting inherent traits and focused catalogs.
-* In-Path Elements — Elements (Weapons, Armor, Shields, Skills, Powers, Traits) in your active Paths cost 1 AP to learn (2 AP for Skill Sets).
-* Out-of-Path Surcharge — Learning an element outside your active Paths is Out of Path and costs 3 AP with GM approval (4 AP for Skill Sets).
-* Universal Path — Universal abilities cost 3 AP and do not require GM approval.
+* Starting Paths — Every character starts with 2 Learned Paths: a Race Path (🧬) and a Class Path (⚔️), each granting abilities. Every character also starts with the Innate path and Universal Path..
+* In-Path Abilities — Abilities in your active Paths cost 1 AP to learn (if you meet requirements).
+* Out-of-Path Surcharge — Learning an ability outside your active Paths is Out of Path and costs +1AP (i.e. 3 AP) AND requires GM approval.
+* Universal Path — Universal abilities cost 3 AP BUT do not require GM approval.
 * Bonus Paths — Additional Paths may be learned during your career for 4 AP with GM approval.
 
 ⚡ Quick Reference: Traits & Inherent Capabilities
 
-Modular Capabilities & Inherent Traits: * Inherent Traits (0 AP) — Free biological, physiological, or cultural traits granted by starting Paths. Inherent traits are auto-taken and cannot be removed without GM approval. * Learned Traits — Modular traits, physiological boons, and tactical modifications learned with AP (1 AP In-Path, 3 AP Out-of-Path with GM approval). * Sheet Visibility — Use the KISS Pill Switch to toggle individual traits between Viewable (👁️) on your active character sheet or Hidden (🙈) for read-once passive background rules. * Affirmative Capabilities — There are NO flaw points or negative quirks in SupaFlex. All traits represent affirmative capabilities or balanced trade-offs.
+Traits — Biological, physiological, or cultural traits granted by Paths.Traits are learned with AP (1 AP In-Path, 3 AP Out-of-Path with GM approval).
 
-### 🧭 Starting Paths & 🧬 Free Trait Grants
+### 🧭 Starting Paths
 
-Every character begins with two Learned Paths: 1. 🧬 Race Path (🧭): Defines species traits, biology, and innate racial rules (0 AP free Trait grants). 2. ⚔️ Class Path (🧭): Defines starting archetype, core skillset options, proficient weapons, armor, and starting powers.
+Every character begins with two Learned Paths and two free paths:
 
-🧬 Starting Traits (0 AP Free): * Player Name: Your real name. * Character Name: The name of your character. * Race / Class: The species and archetype you are playing. * Hgt/Wgt/Age: Your height, weight, and age. * Appearance: Height, weight, age, hair, skin, notable features. * Positive Trait: A strength, virtue, or defining talent. * Negative Trait: A flaw, weakness, or vice. * Flair: A unique aspect that makes your appearance or personality really stand out. * Adventuring Goal / Quest: Your character’s driving motivation.
+* 1. 🧬 Race Path: Defines species traits, biology, and innate racial rules).
+* 2. ⚔️ Class Path: Defines starting archetype, core skillset options, proficient weapons, armor, and starting powers.
+* 3. 🥋Innate Path: Path of base abilities that ALL characters have.
+* 4. 🌐 Universal Path: A powerful path with 3AP (typical out of path cost) but does not require GM approval.
+
+👤 Dossier:
+
+* * Player Name: Your real name.
+* * Character Name: The name of your character.
+* * Race / Class: The species and archetype you are playing.
+* * Hgt/Wgt/Age: Your height, weight, and age.
+* * Appearance: Height, weight, age, hair, skin, notable features.
+* * Positive Trait: A strength, virtue, or defining talent.
+* * Negative Trait: A flaw, weakness, or vice.
+* * Flair: A unique aspect that makes your appearance or personality really stand out.
+* * Adventuring Goal / Quest: Your character’s driving motivation.
 
 ✅ Starting Atr
 
-Assign 1x d4, 2x d6, 2x d8 across Might💪, Motion🏃, Mind👁️, Magic✨, and Moxie🫀.
+Assign one d4, two d6, two d8 across Magic✨, Might💪, Mind👁️, Motion🏃, andMoxie🫀.
 
 🎯 Starting Focus Die
 
@@ -892,77 +704,65 @@ Only during creation, a 1d(Moxie🫀) roll of 1 may be re-rolled one time, in ho
 
 ⭐ Starting AP🧩 (8 AP at Level 1)
 
-Your character is 1st Level⭐ (record 1 for Level⭐) and begins with 8 Starting AP🧩 to shape their initial capabilities. In-Path elements cost 1 AP (2 AP for Skill Sets) without requiring GM approval. (Default Gear Possession Rule: When a character learns a weapon, armor, or shield, it is assumed they possess that physical item as standard mundane Gear⚙️ by default.)
+Your character is 1st Level⭐ (record 1 for Level⭐) and begins with 8 Starting AP🧩 to shape their initial capabilities. In-Path elements cost 1 AP (2 AP if requirments are not met) without requiring GM approval. (Default Gear Possession Rule: When a character learns a weapon, armor, or shield, it is assumed they possess that Gear⚙️ by default.)
 
 A standard, balanced character build typically spends these 8 AP across the following areas:
 
-🎓 1 Skill Set (2 AP)
+🎓 1 in Path Skill Set (2 AP)
 
 Skilled in 1 Skill Set🎓 (2 AP) from the Skill Set catalog.
 
-⚔️ 1 Weapon (1 AP)
+⚔️ 1 in-path Weapon (1 AP)
 
 Skilled in 1 specific Weapon⚔️ (1 AP). (Assumed owned as Gear⚙️).
 
-Melee Atk/Dmg💥 uses Might💪.
+* Melee Atk/Dmg💥 uses Might💪.
+* Hurled Atk/Dmg💥 uses Motion🏃.
+* Shot Atk/Dmg💥 uses Mind👁️.
 
-Hurled Atk/Dmg💥 uses Motion🏃.
-
-Shot Atk/Dmg💥 uses Mind👁️.
-
-🛡️ 1 Armor (1 AP)
+🛡️ 1 in-path Armor (1 AP)
 
 Skilled in 1 specific Armor🧥 (1 AP). (Assumed owned as Gear⚙️).
 
-Block (Def)🛡️ is Might💪.
+* Block (Def)🛡️ is Might💪.
+* Dodge🏃 (Def) is Motion🏃.
+* Record the armor’s MR👣.
 
-Dodge🏃 (Def) is Motion🏃.
+🔥 3 in-path Powers (3 AP)
 
-Record the armor’s MR👣.
+Learn 3 starting Powers🔥 (1 AP each = 3 AP total; auto-readied on your Power Card). A recommended approach is taking one each of these:
 
-🔥 3 Powers (3 AP)
+* 1 A-action Power🔥 usable at least 1-Enc for encounter impact.
+* 1 P-action Power🔥 that you can turn on 1-Rnd so it can be on anytime you are not otherwise using a P action.
 
-Learn 3 starting Powers🔥 (1 AP each = 3 AP total; auto-readied on your Power Card).
-
-A recommended approach is taking one each of these:
-
-1 A-action Power🔥 usable at least 1-Enc for encounter impact.
-
-1 P-action Power🔥 that you can turn on 1-Rnd so it can be on anytime you are not otherwise using a P action.
-
-1 1-Day Power🔥 for that big WOW factor.
+1 1-⚡ Power🔥 for that big WOW factor.
 
 🧩 1 Flexible AP (1 AP)
 
 Spend your remaining 1 Starting AP🧩 on a flexible upgrade of your choice, such as:
 
-A Shield🛡️ (1 AP — record the shield’s MR👣; assumed owned as Gear⚙️)
-
-A 2nd Weapon⚔️ (1 AP; assumed owned as Gear⚙️)
-
-Nish🚩 Skill (Motion🏃) or Death Check Skill (Moxie🫀) (1 AP)
-
-+2 Max Vit❤️ (1 AP)
+* A Shield🛡️ (1 AP — record the shield’s MR👣; assumed owned as Gear⚙️)
+* A 2nd Weapon⚔️ (1 AP; assumed owned as Gear⚙️)
+* Nish🚩 Skill (Motion🏃) or Death Check Skill (Moxie🫀) (1 AP)
+* +2 Max Vit❤️ (1 AP)
 
 💰 Starting Money
 
-Start with 1 Gold (1g) + 1d100 Silver (s) ( ).
+* Start with 2d4 Gold (g) + 1d20 Silver (s) () AFTER initial gear selection.
 
 🧰 Starting Gear
 
-You already have basic items (food, water, light sources, containers, needed tools).
+* You already have basic items (food, water, light sources, containers, needed tools).
+* 
+* Starting gear is free;
 
-Choose one personal item of significance (e.g., crown, holy symbol, named sword).
+🔮 Starting Artifact & 💎Chaos Gems
 
-Starting gear is free; GM🔎 may also grant quirky items.
-
-🔮 Starting Artifact
-
-Begin with one randomly rolled Artifact🔮 from the general or personal table.
+* Begin with one randomly rolled Artifact🔮e, and two random Chaos Gems💎.
 
 🍀 Starting Luck
 
-Luck🍀: Begin each Session with 3 Luck chits (max 5).
+* Luck🍀: Begin each Session with 3 Luck chits (max 5).
 
 ## ⭐ Leveling/Advancement
 
@@ -970,63 +770,56 @@ Luck🍀: Begin each Session with 3 Luck chits (max 5).
 
 Gain 2 AP per Level
 
-Free Level Advancement * Manage Vitality - Free Max Vit Roll (Roll & keep higher)
-
-Spend AP to Learn & Improve Elements (1–4 AP): * In-Path Elements — Learn Weapon/Armor/Shield/Power/Trait (1 AP) | Learn Skill Set (2 AP) * Unmet Item Requirements — Learn In-Path Weapon/Armor/Shield below requirements (2 AP: +1 AP surcharge, specs at current stats, +1 AP refunded when met) * Out-of-Path Elements (GM Approval) — Out-of-Path element meeting requirements (3 AP: +2 AP surcharge) | Out-of-Path Skill Set (4 AP: +2 AP surcharge) * Out-of-Path with Unmet Requirements (GM Approval) — Learn Out-of-Path Weapon/Armor/Shield below requirements (4 AP: +2 AP ~Path + 1 AP ~Req surcharges) * Learn New Path — Learn additional Path (4 AP + GM Approval) * Manage Vitality — Gain +2 Max Vit (1 AP, refundable at any time) * Upgrade Power — Apply Version Augment (Version # - 1 AP)
-
-Special AP Expenditures (1–8 AP): * Manage Attributes — Step-Up Attribute Die (2–8 AP) | Respec Attributes (1 AP) * Upgrade Focus Die — Step-Up Focus Die (2–8 AP) * Gain Capstone Ability — Learn Heroic Capstone (5–8 AP)
+* Free Level Advancement * Manage Vitality - Free Max Vit Roll (Roll & keep higher)
+* Spend AP to Learn & Improve Elements (1 to 4 AP):
+* * In-Path Abilities— Learn Weapon/Armor/Shield/Power/Trait (1 AP) | Learn Skill Set (2 AP)
+* * Unmet Item Requirements — Learn In-Path Weapon/Armor/Shield below requirements at +1AP surcharge (so 2 AP with +1 AP refunded when requirements later met)
+* * Out-of-Path Elements (GM Approval) — Out-of-Path element meeting requirements (3 AP: a +2 AP surcharge) | Out-of-Path Skill Set (4 AP: a +2 AP surcharge)
+* * Out-of-Path with Unmet Requirements (GM Approval) — Learn Out-of-Path Weapon/Armor/Shield below requirements (4 AP: +2 AP ~Path + 1 AP ~Req surcharges)
+* * Learn New Path — Learn additional Path (4 AP + GM Approval)
+* * Manage Vitality — Gain +2 Max Vit (1 AP, refundable at any time)
+* * Upgrade Power — Apply Version Augment (Version # - 1 AP)
+* Special AP Expenditures (1 to 8 AP):
+* * Manage Attributes — Step-Up Attribute Die (2 to 8 AP) | Respec Attributes (1 AP)
+* * Upgrade Focus Die — Step-Up Focus Die (2 to 8 AP)
+* * Gain Capstone Ability — Learn Heroic Capstone (5 to 8 AP)
 
 ### Advancement Philosophy
 
-Incremental, not exponential → Growth comes from new tricks, not huge Powers🔥 spikes.
+Incremental, not exponential → Growth comes from new abilities, not huge Ability spikes or giant numerical increases.
 
-Powers🔥 > Atr → The real fun is in unique Powers🔥, gear, and choices—not just bigger dice.
+Ability > Dice → The real fun is in unique Powers🔥, gear, and choices—not just bigger dice.
 
 Cinematic growth → Luck, quirks, and Powers🔥 drive memorable play moments.
 
 Customization first → Players shape advancement to match their character’s story, not a rigid class track.
 
-### 🎲 Vit❤️ Roll
+### Vit❤️ Roll
 
-Vit roll is AP🧩 free and costs no AP🧩.
+AP🧩 free and costs no AP🧩.
 
 #### Vit❤️ Max Roll
 
 On each Level⭐, roll for new maximum Vit❤️:
 
-* Vit❤️ Max Roll Formula: Max Vit = 10 + N × d(Moxie 🫀) + (Level × 2)
-* Moxie Dice Bracket ( ) (Capped at 5d):
+* Vit❤️ Max Roll Formula: Max Vit = 10 + Nd(Moxie 🫀)
+* Moxie Dice Bracket () (Capped at 5d):
 * Levels 1–3: 1d(Moxie 🫀)
 * Levels 4–8: 2d(Moxie 🫀)
 * Levels 9–15: 3d(Moxie 🫀)
 * Levels 16–24: 4d(Moxie 🫀)
-* Levels 25+: 5d(Moxie 🫀) (HARD CAP — Prevents late-game HP bloat)
+* Levels 25+: 5d(Moxie 🫀) (HARD CAP — Prevents late-game Vit❤️ bloat)
 * This is like “Lucking🍀” Max Vit❤️ (roll a new number and keep the better of the old Vit❤️ or the new Vit❤️). If your Moxie🫀 has increased, you use the new Moxie🫀 number in the formula.
 
-### 💲 Spend AP🧩
+### Spend AP🧩
 
 Spend your accumulated AP🧩 across 3 structured tiers of progression:
 
 #### Tier 1: Basic Progression & Element Learning (1–4 AP🧩)
 
-##### 🧭 Path-Based Element Learning & Out-of-Path Surcharges (Triad Format)
+* 
 
-* Rule (The What): Element learning costs follow a strict 4-tier AP cost vector based on two orthogonal dimensions: Path status (In-Path vs Out-of-Path) and Attribute Requirements (Meets Req vs Unmet Req):
-* 1 AP — In-Path & Meets Requirements (Path & Req): Standard learning cost for any In-Path Weapon, Armor, Shield, Power, or Trait. (Skill Sets cost 2 AP). No GM approval required.
-* 2 AP — In-Path & Unmet Requirements (Path, ~Req): Surcharge of +1 AP for acquiring an In-Path Weapon, Armor, or Shield below attribute requirements. The item specs cleanly at the character's current attributes (no -1 die, -2 AR, or -4 Block double penalties), auto-scales at 0 AP, and the +1 AP surcharge is fully refunded once the requirement is met.
-* 3 AP — Universal Path Elements (No GM Approval): Any element in the Universal Path may be learned for 3 AP without GM approval. (Alternatively, learning the Universal Path for 4 AP reduces all Universal elements to the standard In-Path rate of 1 AP).
-* 3 AP — Out-of-Path & Meets Requirements (~Path & Req): Surcharge of +2 AP for out-of-path training an Element outside known Paths WITH GM Approval.
-* 4 AP — Out-of-Path & Unmet Requirements (~Path, ~Req): Surcharge of +3 AP (+2 AP for ~Path and +1 AP for ~Req) WITH GM Approval. Specs cleanly at current attributes without stat reduction penalties; +1 AP refunded when attribute requirement is satisfied.
-* Innate Path (0 AP Innate): Every character starts with the Innate Path (0 AP). Baseline weapon proficiencies (Brawl, Throw Object, Improvised Weapon) and armor (Unarmored) cost the standard In-Path rate of 1 AP for everyone.
-* Skills Exception: Individual Skills cost 1 AP and Skill Sets cost 2 AP universally. Skills have no requirements and carry no path surcharge or penalty.
-* New Path Acquisition (4 AP + GM Approval): Unlocking an entire new Path costs 4 AP WITH GM Approval (the Universal Path may be learned for 4 AP without GM approval).
-* 🧬 Free Traits (free Trait / 0 AP Free): Elements designated as free Traits cost 0 AP to gain as starting grants.
-* Path Mastery AP Rebalancing (Auto-Credit): When a character unlocks a new Path (4 AP), any previously learned abilities belonging to that Path that were purchased at out-of-path rates (3 AP or 4 AP) are automatically rebalanced to In-Path pricing (1 AP or 2 AP), immediately crediting the AP difference back to the character's available AP pool. Removing an ability via the trash can always refunds its active item.ap_cost.
-* SkillSet Bundle AP Deduplication (Auto-Credit): When a character learns a new SkillSet (2 AP), any constituent skills previously purchased individually (1 AP) that are not part of another active SkillSet are automatically credited back at 1 AP each and migrated into the SkillSet bundle. Unlearning / trashing a SkillSet refunds its 2 AP cost.
-* Rationale (The Why): Penalizing Out-of-Path (~Path at +2 AP) more heavily than unmet physical requirements (~Req at +1 AP) preserves character archetype identity, prevents "class soup" cherry-picking, and maintains the economic value of the 4 AP Path purchase. In SupaFlex, characters earn 2 AP per level. If an out-of-path power, weapon, or trait cost only 2 AP, purchasing two abilities would equal the 4 AP path cost, completely cannibalizing the path progression system. At 3 AP, a single out-of-path trick is accessible as a flavor pick, while deeper training naturally incentivizes committing to the 4 AP Path.
-* Failure Mechanism (The What Breaks): Equalizing the penalties (+1 AP for ~Path and +1 AP for ~Req) creates an ambiguous collision where two completely distinct states both cost 2 AP, confusing the player interface, blurring class identities, and rendering Path purchases economically redundant.
-
-##### Powers-Known Progressive AP Soft Tax
+##### Progressive Power AP Tax
 
 To prevent high-level characters from hoarding endless batteries of cheap 1-Encounter powers, an escalating soft tax applies to total powers learned:
 
@@ -1037,53 +830,54 @@ To prevent high-level characters from hoarding endless batteries of cheap 1-Enco
 | Powers 10–14 (Tier 2 Scaling) | +2 AP | 3 AP |
 | Powers 15+ (Tier 3 Scaling) | +3 AP | 4 AP |
 
-##### The 1-AP Augment System (Advancement Without Version Trees)
+##### Power & Exotic Version Upgrades
 
-Character advancement relies on Horizontal Augments without rigid hierarchical version trees. Spending 1 AP (🧩) upgrades an existing Power🔥 along one of four non-hierarchical vectors:
+Versions ALWAYS require GM approval. Character advancement relies on Horizontal Augments without rigid hierarchical version trees. Spending AP 🧩 upgrades an existing Power🔥 along one of four vectors:
 
-* Vector 1: Mechanical Punch (Effect Augment): Upgrade damage or healing die tier (d4 ➔ d6 ➔ d8 ➔ d10 ➔ d12) or expand target count by +1.
-* Vector 2: Action Compression (Economy Augment — MANDATORY BALANCE RULE): Compress action cost down the compression chain (AM ➔ A ➔ M ➔ P ➔ F) or unlock Mobile Striker split-movement ("You may split your movement before and after this attack"). Balance Rule: Action Compression is strictly capped at 1 Compression Upgrade per Power to prevent dominant action-economy abuse.
-* Vector 3: Synergy / Affliction (Twist Augment): Attach an Affliction on hit (Stunned 1 rnd, Prone, Weakened -2) or attach a Meta Generator ("Generates 1 Meta even on a miss").
-* Vector 4: Frequency / Range Shift (Usage Augment): Shift usage frequency (e.g., 1-Enc ➔ 2-Enc ➔ 3-Enc max cap, or a 1-⚡ power reusable via combat momentum) or expand Range Band (Touch ➔ Short ➔ Medium ➔ Long ➔ Extreme). Note: Per-encounter usage upgrades step sequentially (1-Enc ➔ 2-Enc ➔ 3-Enc maximum).
+* Vector 1: Mechanical Punch (Effect Augment): Upgrade damage, healing, or similar die tier (d4 ➔ d6 ➔ d8 ➔ d10 ➔ d12) or expand target count by +1.
+* 
+* Vector 2: Affliction: Attach an Affliction on hit (Stunned, Prone, Weakened).
+* Vector 3: Usage: Shift usage frequency (1-Enc ➔ 2-Enc ➔ 3-Enc). Rarely a GM “may” approve a 1-⚡➔ 1-🍀. But almost never should a GM approve 1-🍀➔ 1-Enc nor 3-Enc ➔ 1-Rnd
+* Vector 4: Range: Expand Range Band (Touch ➔ 1sq ➔ 2sq ➔ 3sq ➔ Short ➔ Medium ➔ Long ➔ Extreme) providing such range shift makes sense.
 
 | Category | AP🧩 Options |
 | --- | --- |
 | In-Path & Meets Req (Path & Req) | • Learn 1 In-Path Weapon, Armor, Shield, Power🔥, Trait🧬, or Individual Skill🎓 — 1 AP• Learn 1 In-Path Skill Set🎓 — 2 AP |
-| In-Path & Unmet Req (Path, ~Req) | • Learn In-Path Weapon, Armor, or Shield below requirements (Current stats, auto-improve 0 AP, +1 AP refunded when met) — 2 AP (+1 AP Surcharge) |
-| Universal Path Elements | • Learn 1 Universal Trait or Power (NO GM Approval) — 3 AP(Reduces to 1 AP if Universal Path is learned) |
+| In-Path & Unmet Req (Path, ~Req) | • Learn In-Path Weapon, Armor, or Shield below requirements ( — 2 AP (+1 AP Surcharge which is refunded if requirements are later met) |
+| Universal Path Elements | • Learn 1 Universal Trait or Power (NO GM Approval) — 3 AP |
 | Out-of-Path & Meets Req (~Path & Req) | • Learn 1 Out-of-Path Weapon, Armor, Shield, Power🔥, Trait🧬, or Individual Skill🎓 (GM Approval) — 3 AP (+2 AP Surcharge)• Learn 1 Out-of-Path Skill Set🎓 (GM Approval) — 4 AP (+2 AP Surcharge) |
-| Out-of-Path & Unmet Req (~Path, ~Req) | • Learn 1 Out-of-Path Weapon, Armor, or Shield below requirements (GM Approval; Current stats, +1 AP refunded when met) — 4 AP (+2 AP ~Path + 1 AP ~Req) |
-| New Paths🧭 | • Learn 1 new complete Path (4 AP, GM Approval; Universal Path requires no GM Approval) — 4 AP |
-| Powers🔥 Augments | • Upgrade an existing Power🔥 along 1 Augment Vector / New Version — Version # - 1 AP (v2: 1 AP, v3: 2 AP, v4: 3 AP, etc.)• Randomly roll one Power🔥. If duplicate ➔ gain 1 Free Augment Token — 1 AP |
-| Vit❤️ | • Gain +2 Vit❤️ — 1 AP (Refundable at any time) |
-| Atr✅ | • Reshuffle (swap some/all of your Atr✅ dice) — 1 AP (Downtime / Milestone Level-Up Only) |
+| Out-of-Path & Unmet Req (~Path, ~Req) | • Learn 1 Out-of-Path Weapon, Armor, or Shield below requirements — 4 AP (+2 AP ~Path + 1 AP ~Req both refundable if later the ability become sin path or requirements are met) |
+| New Paths🧭 | • Learn 1 new complete Path (4 AP, GM Approval) — 4 AP |
+| Powers🔥 / Exotic 🧿Versions | • Upgrade an existing Power🔥 or Exotic 🧿 along 1 Version Vector— Version # - 1 AP (v2: 1 AP, v3: 2 AP, v4: 3 AP, etc.) |
+| Vit❤️ | • Gain +2 Vit❤️ — 1 AP |
+| Atr✅ | • Reshuffle (swap some/all of your Atr✅ dice) — 1 AP |
 
-#### Tier 2: Vertical Progression & Stat Step-Ups (1–8 AP🧩)
+#### Tier 2: Vertical Progression & Stat Step-Ups (1 to 8 AP🧩)
 
 ##### Vertical Attribute Die Step-Ups
 
-Attribute upgrades are purchased with AP🧩 and are tier-gated by your level. The maximum array of attribute dice you can have is limited by your tier:
+Attribute upgrades are purchased with AP🧩 and are level-gated. The maximum array of attribute dice you can have is limited by your level:
 
-| Tier / Level Milestone | Attribute Die Array Max Available |
+| Level | Max Attribute Dice |
 | --- | --- |
-| Level 1 (Starting Array) | 1 × d4, 2 × d6, 2 × d8 |
-| Level 25 Tier | 2 × d6, 3 × d8 |
-| Level 50 Tier | 2 × d6, 1 × d8, 2 × d10 |
-| Level 75 Tier | 2 × d6, 1 × d8, 1 × d10, 1 × d12 |
-| Level 100 Tier (Max Cap) | 1 × d6, 1 × d8, 1 × d10, 2 × d12 (Hard cap: Max 2 × d12) |
+| Level 1 (Starting) | 2 × d4, 2 × d6, 1 × d8 |
+| Level 2+ | 1 × d4, 2 × d6, 2 × d8 |
+| Level 10+ | 1 × d4, 1 × d6, 3 × d8 |
+| Level 25+ | 2 × d6, 3 × d8 |
+| Level 50+ | 2 × d6, 1 × d8, 2 × d10 |
+| Level 75+ | 2 × d6, 1 × d8, 1 × d10, 1 × d12 |
+| Level 100+ | 1 × d6, 1 × d8, 1 × d10, 2 × d12 (Hard cap: Max 2 × d12) |
 
-| Step (per die) | AP Cost (per die) |
+| +1d Step (per die) | AP Cost (per die) |
 | --- | --- |
 | d4 → d6 | 2 AP |
 | d6 → d8 | 4 AP |
 | d8 → d10 | 6 AP |
 | d10 → d12 | 8 AP |
 
-Qualitative Attribute Boons (Fixing "Boring Stat Bumps"): * d8 Tier Unlocked: Unlock 1 passive trait tied to that attribute (e.g., Motion d8 ➔ Free Disengage 1 × /encounter). * d12 Tier Unlocked: Unlock 1 master boon tied to that attribute (e.g., Moxie d12 ➔ Death Resistance; Mind d12 ➔ +1 extra tactical gambit).
+##### 🎯Focus Die Upgrade
 
-##### Vertical Focus Die Upgrade
-
-You can purchase upgrades to your maximum Focus Die ceiling using AP🧩, subject to level gates:
+You can purchase upgrades to your maximum Focus🎯 Die ceiling using AP🧩, subject to level gates:
 
 | Focus Max | Level Gate | AP Cost |
 | --- | --- | --- |
@@ -1092,37 +886,28 @@ You can purchase upgrades to your maximum Focus Die ceiling using AP🧩, subjec
 | d8 → d10 | Level 35+ | 6 AP |
 | d10 → d12 | Level 60+ | 8 AP |
 
-#### Tier 3: Heroic Capstones (5–8 AP🧩) — "Saving" Tier
-
-High-cost capstones designed for build-defining investment and long-term saving anticipation:
-
-| Category | Cost (AP🧩) | Option & Effect |
-| --- | --- | --- |
-| Master Technique | 5 AP | Combine two known Powers into a single combined-action deployment. |
-| Second Reaction | 6 AP | Gain an additional Reaction action per combat round. |
-| Heroic Passive | 8 AP | Unlock a signature, narrative-defining passive power or capstone immunity. |
-
-All choices require GM approval. The GM may veto or suggest alternatives if a choice does not fit the campaign.
-
 ## 🎓 Skill and Skill Set Rules
 
 ⚡ Quick Reference: Skill and Skill Set Rules
 
-Rolls: * Unskilled Checks — Unknown skills (including weapons, armor, and shields) may be attempted as an Unskilled Ability check (1d20 + Atr Die). * Skilled Checks — Known skills, or those approved by the GM as matching a Skill Set, use a Skilled Ability check (2H20 + Atr Die). * Powers & Exotics — All Powers🔥 and Exotics🧿 are ALWAYS considered Skilled.
+Rolls:
 
-Action: * Skill Action Costs — Skills use a Partial (P) or Free (F) action as determined by the GM. GM-initiated skill checks are always Free (F).
+* * Unskilled Checks — Unknown skills (including weapons, armor, and shields) may be attempted as an Unskilled Ability check (1d20 + d(Atr)).
+* * Skilled Checks — Known skills, or those approved by the GM as matching a Skill Set, use a Skilled Ability check (2H20 + d(Atr)).
+* * Powers & Exotics — All Powers🔥 and Exotics🧿 are ALWAYS considered Skilled.
+* * Skill Action Costs — Skills use a Partial (P) or Free (F) action as determined by the GM. GM-initiated skill checks are always Free (F).
 
 ### 🎓 Skills
 
-Abilities (weapons⚔️, Armor🧥, skills🎓, Atr✅ rolls) are all unskilled unless explicitly learned with AP🧩 (thus becoming skilled).
+Note: Attributes are NEVER rolled directly as a skilled or unskilled roll. There is no rolling of (Magic✨, Might💪, Mind👁️, Motion🏃, Moxie🫀) directly as an attribute. Rather, anytime an attribute ability roll or d(Atr) is indicated, the player is rolling for a “Skill🎓” or Ability🧠 that is derived FROM that attribute. Even when a character tries to lift a weight and the effect indicates “Roll 💪”, the player is acutally rolling a “Strength” or “Lifting” skill and they are NOT rolling Might directly. This is an important distinction. This includes Nish🚩, Saves✨, Resistances✨, all Vit❤️, weapons⚔️, all Armor🧥, all skills🎓, and all uses of Might💪, Motion🏃, Mind👁️, Magic✨, and Moxie🫀.
 
-This includes Nish🚩, Saves✨, Resistances✨, all weapons⚔️, all Armor🧥, all skills🎓, and all uses of Might💪, Motion🏃, Mind👁️, Magic✨, and Moxie🫀.
+Abilities (weapons⚔️, Armor🧥, Shield🛡️, skills🎓) are all unskilled unless explicitly learned with AP🧩 (thus becoming skilled) or the GM determines the skill is part of a known skill set🎓.
 
-Anything learned via AP🧩 is skilled — including a weapon⚔️, Armor🧥, Power🔥, skill🎓, or Skill Set🎓.
+Anything learned via AP🧩 is skilled — including a weapon⚔️, Armor🧥, Power🔥, skill🎓, or Skill Set🎓, etc..
 
-Exception: Artifacts🔮 are always skilled. This prevents messy tracking and fits the theme. An Artifact Dagger of Dancing does not grant dagger skill — its Dancing Power🔥 is skilled, but normal Atk⚔️ with the dagger is still unskilled unless Daggers are learned with AP🧩. The same applies to Armor🧥 and shields🛡️.
+.
 
-When a skill🎓 is rolled, its Atr✅ is used (e.g., Acrobatics🏃 = Motion🏃 check). All skills🎓 may be attempted unskilled. This includes Stealth🏃, climbing, identifying an Artifact🔮, etc.
+When a skill🎓 is rolled, its die type or value is derived from its listed or GM selected Atr✅ (e.g., Acrobatics🏃 = Motion🏃 dervied check). ALL unknown skills🎓 may be attempted unskilled. This includes Stealth🏃, climbing, identifying an Artifact🔮, using any weapon, armor, shield, etc.
 
 ### 🎓 Skill Negotiation
 
@@ -1138,73 +923,72 @@ If both sides agree, the player rolls the ability check (Skilled = 2H20, Unskill
 
 This creates flexibility: players may attempt anything, limited only by GM approval.
 
-Example: “I’ll climb in two stages with rope and spikes at half MR👣.” → GM may lower Dif and allow a backup roll on failure.
-
-Example: “I use my healing🎓 with detailed triage, splints, and temple background.” → GM may shift a basic stabilize roll into a chance to restore Vit❤️.
-
-Example: “I add narrative detail to my Stealth🏃.” → GM may set a lower Dif.
+* Example: “I’ll climb in two stages with rope and spikes at half MR👣.” → GM may lower Dif and allow a backup roll on failure.
+* Example: “I use my healing🎓 with detailed triage, splints, and temple background.” → GM may shift a basic stabilize roll into a chance to restore Vit❤️.
+* Example: “I add narrative detail to my Stealth🏃.” → GM may set a lower Dif.
 
 ### 🎓 GM Guidance for Setting Dif
 
-When setting or modifying Dif, the GM🔎 should weigh:
-
-The skill’s name and scope.
-
-The character’s background.
-
-The creativity of the player’s narrative approach.
-
-The role of the skill in the adventure/campaign.
-
-Any unusual effects that help or hinder.
-
-Overall fairness and balance in play.
-
-Dif should reflect both the task’s challenge and the quality of the player’s solution.
+* When setting or modifying Dif, the GM🔎 should weigh:
+* The skill’s name and scope.
+* The character’s background.
+* The creativity of the player’s narrative approach.
+* The role of the skill in the adventure/campaign.
+* Any unusual effects that help or hinder.
+* Overall fairness and balance in play.
+* Dif should reflect both the task’s challenge and the quality of the player’s solution.
 
 ### 🎓 Character Assists
 
-When one PC helps another, the narrative of how is key. The GM may:
-
-Keep rolling normal.
-
-Grant reduced Dif.
-
-Count it as Advantage (extra d20). The GM chooses based on group dynamics and campaign tone.
+* When one or more characters help another (e.g. Character A is picking a lock and Character B is helping). The rolling character now has an Advantage.
+* 
 
 ### 🎓 Skills vs Powers
 
-Powers🔥 are concrete, mechanical, and balanced with usage limits.
-
-Skills🎓 are flexible, narrative tools that can affect the story in small ways.
-
-Skills may alter Dif, reduce damage, grant a minor one-off bonus, or open a path forward.
-
-Skills should not overshadow Powers🔥 — they are meant to be creative, situational, and dynamic.
+* Powers🔥 are concrete, mechanical, and balanced with action and usage limits and have rules of their own called “Effects”..
+* Skills🎓 are flexible, narrative tools that are a one roll success or failure..
+* Skills may alter Dif, reduce damage, grant a minor one-off bonus, or open a path forward.
+* Skills should not overshadow Powers🔥 — they are meant to be creative, situational, and dynamic.
 
 ### 🎓 Skill Sets
 
 A Skill Set🎓 is a logical collection of related skills.
 
-Learning an In-Path Skill Set🎓 costs 2 AP🧩 (Out-of-Path costs 4 AP🧩 with GM Approval) and makes all skills🎓 in that set skilled. Learning an Individual Skill costs 1 AP🧩 (In-Path) or 3 AP🧩 (Out-of-Path with GM Approval).
+Learning an In-Path Skill Set🎓 costs 2 AP🧩 (Out-of-Path costs 4 AP🧩 with GM Approval) and makes all skills🎓 in that set skilled.
 
 The same skill🎓 may appear in multiple sets, possibly with different Atr✅. This is intentional.
 
-Sets are not exhaustive — the GM may approve additional related skills not listed.
+Skill Sets🎓 are not exhaustive lists — the GM may approve additional related skills not listed upon player request. It is more important for the GM to consider the "spirit" of the Skill Set🎓 than the limited list.
 
 ## ⚔️ Weapon Rules
 
 ⚡ Quick Reference: Weapon Rules
 
-Rolls: * Unskilled Attacks — Unknown weapons may be attempted as an Unskilled Attack (1d20 + Atk Die) with normal damage and Unskilled Block. * Skilled Attacks — Known weapons use a Skilled Attack (2H20 + Atk Die) with normal damage and Skilled Block. * Powers & Magic Items — All Powers🔥 and Magic Items✨ are ALWAYS considered Skilled.
+Rolls:
 
-Action: * Attack & Block Costs — Attacking is an Attack (A) action. Blocking is a Free (F) reaction.
+* * Unskilled Attacks — Unknown weapons may be attempted as an Unskilled Attack (1d20 + d(Atk)) with normal damage and Unskilled Block.
+* * Skilled Attacks — Known weapons use a Skilled Attack (2H20 + d(Atk)) with normal damage and Skilled Block.
 
-Multi Attacking: * Single Weapon Example — With Might💪 d8 and a d4 Dagger, you can make 2 attacks (d4 + d4). With Might💪 d12, you can make 3 attacks (d4 + d4 + d4). * Dual Wielding Example — With a d4 Dagger + d6 Shortsword (total d10), Might💪 d10+ is required to make a multi-attack. * Multi-Attack Rules — Roll a separate Attack (#d20 + Atr) and separate Damage die for each strike. Strikes can target one foe or be split among adjacent foes. * ⚠️ Uplifting Exception — Multi-attack damage dice are NEVER uplifted.
+Action:
 
-Opportunity Attacks: * Trigger Requirements — Previously engaged in MELEE, currently have Initiative (Nish🚩), and monster moves out of melee range OR performs a distracting action (casts a spell, quaffs a potion, inspects an item). * Attack Resolution — Immediate, Free (F) BASIC reaction attack (no Focus, Luck, Powers, or Magic Item enhancements allowed).
+* * Attack & Block Costs — Attacking is an Attack (A) action. Blocking is a Free (F) reaction.
 
-Blocking Melee: * Requirements — Wielding a drawn MELEE weapon; monster attack is melee with Dmg ≤ weapon "Max Block" rating. * Resolution — Success = negates all damage. Failure = hit connects, roll Armor AR value to reduce damage.
+Multi Attacking:
+
+* * Single Weapon Example — With Might💪 d8 and a d4 Dagger, you can make 2 attacks (d4 + d4). With Might💪 d12, you can make 3 attacks (d4 + d4 + d4).
+* * Dual Wielding Example — With a d4 Dagger + d6 Shortsword (total d10), Might💪 d10+ is required to make a multi-attack.
+* * Multi-Attack Rules — Roll a separate Attack and separate Dmg die for each strike. Strikes can target one foe or be split among adjacent foes.
+* * ⚠️ Uplifting Exception — Multi-attack damage dice are NEVER uplifted.
+
+Opportunity Attacks:
+
+* * Trigger Requirements — Previously engaged in MELEE, currently have Initiative (Nish🚩), and monster moves out of melee range OR performs a distracting action (casts a spell, quaffs a potion, inspects an item).
+* * Attack Resolution — Immediate, Free (F) BASIC reaction attack (no Focus🎯, Luck🍀, Powers🔥, or Exotics🧿 allowed).
+
+Blocking Melee:
+
+* * Requirements — Wielding a drawn MELEE weapon; monster attack is melee with Dmg ≤ weapon "Max Block" rating.
+* * Resolution — Success = negates all damage. Failure = hit connects, roll Armor AR value to reduce damage.
 
 | Combat Style | Off-Hand | Key Rules & Utility Handling |
 | --- | --- | --- |
@@ -1213,52 +997,48 @@ Blocking Melee: * Requirements — Wielding a drawn MELEE weapon; monster attack
 | 🛡️ Weapon & Shield | TIED UP | Hold 1H weapon + Shield. Shield Block allowed. Utility tasks require a Partial (P) action. |
 | 🥊 Unarmed / Natural | FREE | Brawling, punches, kicks, grabs, thrown objects. Cannot Block. Damage is -1 die step below Atr die (min d4). |
 
-Heavy Weapon Shift (d6–d12 Dmg): * Shift Atk ➔ Dmg — Shift excess Attack roll over target Defense into + Dmg. * Max Shift by Die — d6: +1 | d8: +2 | d10: +3 | d12: +4 (d4: 0, cannot shift Atk to Dmg). * Example — With a d8 weapon, beating Defense by 1 adds +1 Dmg; beating by 2+ adds +2 Dmg. * Stacking — Dmg Shift stacks with everything.
+Heavy Weapon Shift (d6 to d12 Dmg):
 
-Reverse Finesse Shift (d4 Dmg ONLY): * Shift Dmg ➔ Atk — If missing an Attack roll by ≤ 4, call Dmg Shift to convert the miss into a hit. * Damage Deduction — Subtract the miss shortfall directly from rolled Dmg (e.g. miss by 3 = -3 Dmg). * Wound Threshold — Max reverse shift is 4. If shifting results in ≤ 0, then Dmg is 0 (no wounds occur).
+* * Shift Atk ➔ Dmg — Shift excess Attack roll over target Defense into + Dmg.
+* * Max Shift by Die — d6: +1 | d8: +2 | d10: +3 | d12: +4 (d4: 0, cannot shift Atk to Dmg).
+* * Example — With a d8 weapon, beating Defense by 1 adds +1 Dmg; beating by 2+ adds +2 Dmg.
+* * Stacking — Dmg Shift stacks with everything.
+
+Reverse Finesse Shift (d4 Dmg ONLY):
+
+* * Shift Dmg ➔ Atk — If missing an Attack roll by ≤ 4, call Dmg Shift to convert the miss into a hit.
+* * Damage Deduction — Subtract the miss shortfall directly from rolled Dmg (e.g. miss by 3 = -Dmg-3).
+* * Wound Threshold — Max reverse shift is 4. If shifting Dmg results in ≤ 0, then Dmg is 0 (no wounds occur).
 
 ### 🎯 Weapon Requirements, Current-Stat Scaling & AP Refunding
 
 A character can become skilled in any Weapon⚔️ whose attribute requirements they do not yet meet:
 
-1. Learning Surcharge (+1 AP): Learning a weapon below its attribute requirement adds a +1 AP surcharge (2 AP In-Path, 4 AP Out-of-Path with GM approval). Because the player pays an AP surcharge, they are not double-penalized with stat reductions.
-1. Current-Attribute Scaling: The weapon's combat ratings (Attack die, Damage die, Block Cap) spec cleanly to the character's current active attributes without artificial -1 die step-downs.
-1. Auto-Improvement (0 AP): Anytime the character's relevant attribute advances, the weapon's attack and damage naturally scale to match the higher attribute for 0 AP.
-1. AP Refund Engine: The extra AP (+1 for unmet requirements, and/or +2 for Out-of-Path acquisition) is fully refunded to the character's available AP pool as soon as the character meets the attribute requirement and/or acquires the parent Path.
-1. Zero-Friction Oscillation Protection: If a player temporarily shifts attributes (such as swapping Might and Mind during downtime for 1 AP) such that an attribute drops below requirement, combat stats reflect the lower attribute without imposing additional AP fees. Because its recorded ap_cost is already at baseline, returning to the higher attribute restores full stats but never triggers duplicate AP refunds.
-1. Default Gear Possession: When a weapon is learned, the character is assumed to possess that physical weapon as standard mundane Gear (⚙️) by default (unless the GM determines otherwise based on campaign tone or narrative circumstances).
+* Learning Surcharge (+1 AP): Learning a weapon below its attribute requirement adds a +1 AP surcharge (2 AP In-Path, 4 AP Out-of-Path with GM approval). Because the player pays an AP surcharge, they are not double-penalized with stat reductions.
+* Current-Attribute Scaling: The weapon's combat ratings (Attack die, Damage die, Block Cap) spec cleanly to the character's current active attributes.
+* Auto-Improvement (0 AP): Anytime the character's relevant attribute advances, the weapon's attack and damage naturally scale to match the higher attribute for 0 AP .
+* AP Refund Engine: The extra AP (+1 for unmet requirements, and/or +2 for Out-of-Path acquisition) is fully refunded to the character's available AP pool as soon as the character meets the attribute requirement and/or acquires the parent Path.
+* 
+* Default Gear Possession: When a weapon is learned, the character is assumed to possess that physical weapon as Gear ⚙️ by default (unless the GM determines otherwise based on campaign tone or narrative circumstances).
 
-### Uplifting Damage
+### Weapon, Armor, Shield Attribute Anchoring
 
-Weapon Atk = Might💪 (melee), Motion🏃 (hurled) or Mind👁️ (shot).
+Weapon Atk, Dmg, and Block rolls; Armor Dodge rolls; Shield Block rolls; Are ALL anchored to the characters CURRENT listed and relevant attributes. (e.g. Melee Atk/Dmg/Block is anchored (uses) Might💪, Hurled Atk/Dmg uses Motion🏃, Shot Atk/Dmg uses Mind👁️).
 
-If a weapon that has two Types (Me/Hu for Melee and Hurled), the weapon need only be learned once, but each type (Melee and Hurled) are separately recorded (use two lines on the character sheet’s weapon’s table.
+Example: A character skilled at dagger (melee requirement 💪4) wielded by a character with Might💪 d8 deals Attacks at 2H20+d8, does d8 Dmg💥, and can Block at 2H20+d8 . If that character’s Might💪 later becomes 10, then d10 will replace the d8 in both Atk, Dmg, and Block. And, since daggers can also be Hurled, all the same applies for hurled but using the character’s current Motion🏃 for Atk and Dmg.
 
-All weapon Dmg💥, except multi-attacks, may be uplifted. This applies ONLY to Dmg💥, not Block 🛡️.
-
-Uplifting raises a weapon’s Dmg💥 die up to the wielder’s relevant Atr✅.
-
-Example: A dagger (d4) wielded by a character with Might💪 d8 deals Dmg💥 at d8 instead of d4. The resulting Damage die follows the Single Die Rule (single-explode capped).
-
-Multi-attack Dmg💥 dice are never uplifted.
+Multi-attack Dmg💥 dice are never attribute anchored and remain equal to the weapon’s requirement number.
 
 ### Multi-Attack
 
-Multi-attack is always an option if requirements are met. Some Powers🔥 may add further options.
-
-You may multi-attack if the sum of all weapon Dmg💥 dice is ≤ your Atr✅ die.
-
-Example: With a dagger (d4), a character with Might💪 d8 may make two attacks (1d4 and 1d4 Dmg💥). With Might💪 d12, they may make three attacks (three 1d4 Dmg💥 rolls).
-
-Each multi-attack is a separate Atk⚔️ and Dmg💥 roll. Attacks may target a single foe multiple times or be split among adjacent targets. Apply the Single Die Rule (single-explode capped) to all damage dice results.
-
-Multi-attack can be done with:
-
-Single weapon (e.g., one dagger).
-
-Dual wielding identical weapons (e.g., two daggers). Number of attacks/targets is unchanged.
-
-Dual wielding different weapons (e.g., dagger d4 + sword d6). In this case, Might💪 must equal or exceed the combined dice (d10+).
+* Multi-attack is always an option if requirements are met. Some Powers🔥 may add further options.
+* You may multi-attack if the sum of all weapon requirements is ≤ your Atr✅ die.
+* Example: With a dagger (💪 req 4), a character with Might💪 d8 may make two attacks (1d4 and 1d4 Dmg💥). With Might💪 12, they may make three attacks (three 1d4 Dmg💥 rolls).
+* Each multi-attack is a separate Atk⚔️ and Dmg💥 roll. Attacks may target a single foe multiple times or be split among adjacent targets.
+* Multi-attack can be done with:
+* Single weapon (e.g., one dagger).
+* Dual wielding identical weapons (e.g., two daggers). The number of attacks/targets is unchanged.
+* Dual wielding different weapons (e.g., dagger d4 + sword d6). In this case, Might💪 must equal or exceed the combined dice (d10+).
 
 ### Opportunity Attacks (Break From Melee)
 
@@ -1266,15 +1046,13 @@ If a PC or monster disengages from melee before the opponent’s Nish🚩, the d
 
 If a PC or monster disengages from melee on or after the opponent has Nish🚩, it creates an immediate opportunity attack by all opponents engaged in that melee (regardless of who engaged first).
 
-Opp Atks (Opportunity Attacks) may only use the melee weapon in hand or Brawl (no ranged weapons, Powers🔥 or Artifact🔮 enhancements).
+Opp Atks (Opportunity Attacks) may only use the melee weapon in hand or Brawl (no ranged weapons, Powers🔥 or Exotics🧿).
 
 Other actions that count as a “Break From Melee” include:
 
-When in melee, casting a spell at a target other than those engaged.
-
-When in melee, attacking with Rng weapons against a target other than those engaged.
-
-When in melee, performing distracting actions such as quaffing a potion.
+* When in melee, using a Power🔥 or Exotic🧿 on a target other than those engaged.
+* When in melee, attacking with Rng weapons.
+* When in melee, performing distracting actions such as quaffing a potion.
 
 ## ⚔️ Combat Styles Rules
 
@@ -1322,15 +1100,15 @@ Utility tasks (opening doors, drinking potions, etc.) require one Partial (P) ac
 
 ### 🥊 Unarmed or Natural Weapons
 
-Natural weapons🥊 (Brawl and Throw Object) cannot Block 🛡️ and have no coin cost. They are Unskilled unless skill🎓 is taken in each one. Dmg💥 is rolled at –1d below the governing Atr✅ (minimum d4).
+Natural weapons🥊 (Brawl and Throw Object) cannot Block 🛡️. They are Unskilled unless skill🎓 is taken. Dmg💥 is rolled at –1d below the governing Atr✅ (minimum d4).
 
 Brawl🥊 – Covers all natural attacks such as punch, kick, tackle, grab, throw, hold, etc. It also includes racial natural weapons such as claw, bite, or tail sweep.
 
-Martial Arts🥋 – An advanced form Brawl🥊 provided through Martial Arts Powers🔥.
+Martial Arts🥋 – An advanced form Brawl🥊 provided through Powers🔥.
 
 Improvised (Melee) - An improvised melee weapon (chair, board, candelabra, torch, etc.) all fit into this category.
 
-Throw Object – Applies to all logical thrown projectiles such as a rock, mug, or other improvised items.
+Throw Object – Applies to all logical thrown projectiles such as a rock, mug, or other improvised items that are NOT existing hurled weapons.
 
 Weapons marked Hu (Hurled) use their normal weapon Atr✅ and rolls and are not treated as thrown objects.
 
@@ -1348,48 +1126,68 @@ Note: This advantage does not exist when dual wielding or using Weapon & Shield�
 
 ⚡ Quick Reference: Armor & Defense Rules
 
-Rolls: * Unskilled Armor — Unknown armor may be attempted as an Unskilled Dodge (1d20 + Dodge Die) and normal AR. * Skilled Armor — Skilled armor uses a Skilled Dodge (2H20 + Dodge Die) and normal AR.
+Rolls:
 
-Dodge vs Block: * Attack Evasion — All attacks may be Dodged; some attacks may be Blocked rather than Dodged (see weapon and shield rules). * Exclusive Defenses — No attack may be both Blocked and Dodged. * Fallback AR Protection — If a weapon or shield block fails, the Armor's AR is still rolled.
+* * Unskilled Armor — Unknown armor may be attempted as an Unskilled Dodge (1d20 + d🏃) and normal AR.
+* * Skilled Armor — Skilled armor uses a Skilled Dodge (2H20 + d🏃) and normal AR.
 
-Action: * Action Cost — ALL armor rolls are a Free (F) action.
+Dodge vs Block:
+
+* * Attack Evasion — All attacks may be Dodged; some attacks may be Blocked rather than Dodged (see weapon and shield rules).
+* * Exclusive Defenses — A character may not both Block and Dodged the same attack; it is an “Either-Or”.
+* * Always AR Protection — If Dodge🏃 or Block🛡️ fail, the Armor's AR🧥 is always rolled to reduce Dmg into Wnds.
+
+Action:
+
+* * Action Cost — ALL armor rolls are a Free (F) action.
 
 ### 🛡️ Armor & Shield Requirements, Current-Stat Scaling & AP Refunding
 
 A character can become skilled in any Armor🧥 or Shield🛡️ whose attribute requirements they do not yet meet:
 
-1. Learning Surcharge (+1 AP): Learning armor or a shield below its attribute requirement adds a +1 AP surcharge (2 AP In-Path, 4 AP Out-of-Path with GM approval). Because the player pays an AP surcharge, they are not double-penalized with stat reductions (-2 AR or -4 Block).
-1. Current-Attribute Scaling: The item functions cleanly at standard catalog ratings without artificial downscaled penalties.
-1. Auto-Improvement (0 AP): Anytime the character's relevant attribute advances to meet the requirement, the item maintains full performance for 0 AP.
-1. AP Refund Engine: The extra AP surcharge (+1 for unmet requirements, and/or +2 for Out-of-Path acquisition) is fully refunded to the character's available AP pool as soon as the character meets the attribute requirement and/or acquires the parent Path.
-1. Zero-Friction Oscillation Protection: If a player temporarily shifts attributes during downtime such that an attribute drops below requirement, no additional AP fees are imposed. Because its recorded ap_cost is already at baseline, returning to the higher attribute restores full stats but never triggers duplicate AP refunds.
-1. Default Gear Possession: When armor or a shield is learned, the character is assumed to possess that physical item as standard mundane Gear (⚙️) by default (unless the GM determines otherwise based on campaign tone or narrative circumstances).
+* Learning Surcharge (+1 AP): Learning armor or a shield below its attribute requirement adds a +1 AP surcharge (2 AP In-Path, 4 AP Out-of-Path with GM approval). Because the player pays an AP surcharge, they are not double-penalized with stat reductions (-2 AR or -4 Block).
+* Current-Attribute Scaling: The item ALWAYS functions at current Attribute ratings.
+* Auto-Improvement (0 AP): Anytime the character's relevant attribute advances to meet the requirement, the item maintains full parity with that Attribute.
+* AP Refund Engine: The extra AP surcharge (+1 for unmet requirements, and/or +2 for Out-of-Path acquisition) is fully refunded to the character's available AP pool as soon as the character meets the attribute requirement and/or acquires the parent Path.
+* 
+* Default Gear Possession: When armor or a shield is learned, the character is assumed to possess that physical Gear (⚙️) by default (unless the GM determines otherwise based on campaign tone or narrative circumstances).
 
 ### 🛡️ Shields
 
 ⚡ Quick Reference: Shield & Block Rules
 
-Rolls: * Unskilled Shield Block — Unknown shields may be attempted as an Unskilled Block (1d20 + Block Die). * Skilled Attacks — Known shields use a Skilled Block (2H20 + Block Die).
+Rolls:
 
-Action: * Action Cost — Blocking is a Free (F) action.
+* * Unskilled Shield Block — Unknown shields may be attempted as an Unskilled Block (1d20 + d💪).
+* * Skilled Attacks — Known shields use a Skilled Block (2H20 + d💪).
+* Action:
+* * Action Cost — Blocking is a Free (F) action.
 
-Blocking: * Requirements — Wielding a drawn shield; Any Attack that “could” be Dodged; Attack’s Dmg ≤ weapon "Max Block" rating. * Resolution — Success = negates all damage. Failure = hit connects, roll Armor AR value to reduce damage.
+Blocking:
 
-Shield-Hand Restrictions: * Off-Hand Limits — Holding a shield completely ties up your off-hand. You cannot hold a torch, lantern, flask, or second weapon in your shield hand. * Utility Action Cost — Performing utility tasks during combat (quaffing a potion, retrieving an item, opening a heavy door) requires a Partial (P) action to awkwardly manage items while holding your weapon and shield.
+* * Requirements — Wielding a drawn shield; Any Attack that “could” be Dodged; Attack’s Dmg ≤ weapon "Max Block" rating.
+* * Resolution — Success = negates all damage. Failure = hit connects, roll Armor AR 🧥value to reduce damage.
 
-Movement Rate (MR 👣) Penalty: * Active Shield Penalty — When a shield is drawn, the Shield Drawn MR applies.
+Shield-Hand Restrictions:
 
-All Armor’s Defense (Dod/AR or Blk/AR): Dodge 🏃 = Motion🏃, Block 🛡️ = Might💪.
+* * Off-Hand Limits — Holding a shield completely ties up your off-hand. You cannot hold a torch, lantern, flask, or second weapon in your shield hand.
+* * Utility Action Cost — Performing utility tasks during combat (quaffing a potion, retrieving an item, opening a heavy door) requires a Partial (P) action to awkwardly manage items while holding your weapon and shield.
 
-Shields🛡️ provide a Block Cap🛡️ rating, which functions the same as weapon⚔️ Block Cap (it applies to any attack that “could” be Dodged, if the shield’s Block Cap🛡️ is ≥ the monster’s Dmg💥).
+Movement Rate (MR 👣) Penalty:
 
-The key advantage of shields🛡️ is that their Block 🛡️ is rolled at +1 die step above the Might💪 requirement. The tradeoff is reduced MR👣 and tying up your off-hand.
+* * Active Shield Penalty — When a shield is drawn, the Shield’s Drawn MR penalty applies.
+
+Armor’s Defense (Dod/AR or Blk/AR): Dodge uses 🏃; Block uses 💪; AR🧥 is a static listed value.
+
+Shields🛡️ provide a Block Cap🛡️ rating, which functions the same as weapon⚔️ Block Cap (shields can only block if the attack is “Blockable” and the Block Cap🛡️ is ≥ the monster’s Dmg💥).
+
+The key advantage of shields🛡️ is that their Block Cap 🛡️ is larger than melee weapon blocks and they can block ANY melee, hurled, shot attack and any other ability the GM determiens is “blockable” (e.g. certain Powers🔥 and Exotics🧿). The tradeoff is reduced MR👣 and tying up your off-hand.
 
 MR👣 impact applies only when the shield🛡️ is wielded (drawn and readied).
 
 Small shields🛡️ (bucklers, bracers, vambraces) offer mobility and count as part of regular Armor🧥; they are not large enough to be considered true shields🛡️ in SupaFlex.
 
-Large shields🛡️ provide greater Block Cap🛡️ protection but impose greater limits on mobility.
+Large shields🛡️ provide greater Block Cap🛡️ protection but impose greater limits on MR👣.
 
 ## ⚔️🛡️ Combat Sequence
 
@@ -1397,83 +1195,56 @@ Large shields🛡️ provide greater Block Cap🛡️ protection but impose grea
 
 Choose Target & Atk⚔️ — Action is (A).
 
-Roll to Hit: if Skilled, roll 2H20 + Atr✅ Die + Bonus vs Monster Def (5–20). If Unskilled, roll 1d20.
+Roll to Hit: if Skilled, roll 2H20 + d(Atr✅) + Bonus vs Monster Def (5 to 30). If Unskilled, roll 1d20.
 
-Atr✅ Die = the weapon’s governing Atr✅ (Might💪 for melee, Motion🏃 for hurled, Mind👁️ for shot, Magic✨ for spell attacks). Since this is a comparison roll, the Attribute die explodes indefinitely on max face.
+d(Atr✅) = the weapon’s governing Atr✅ (Might💪 for melee, Motion🏃 for hurled, Mind👁️ for shot).Also, Atr die ALWAYS qualify for exploding rules.
 
 Tremendous🌟 (20 on d20). Critical💀 (1 on d20).
 
-On Success → Roll Dmg💥: 1 die (d4–d12) plus any bonus. This follows the Single Die Rule (single-explode capped).
+On Success → Roll Dmg💥: 1 die (d4 to d12) plus any bonus. Unless using the multi-attack rules Dmg will be (d💪 melee, d🏃 hurled, or d👁️ shot ) And Dmg, being an Atr roll, ALWAYS qualifies for exploding rules.
 
-Monster Armor🧥: Subtract monster Armor🧥 (0 to 3, rare 4).
+Monster Armor🧥: Subtract monster’s Armor🧥 value (0 to 3, rarely 4+) to get Wnds caused
 
-Apply Wnd🩸: Add the wounding damage to any existing and record it next to the monster. Once ≥ the monster’s Vit❤️, the monster dies.
-
-#### ⚔️ Opportunity Attacks, Breaking Melee, & Provoking (Triad Format)
-
-##### 1. Rule (The What)
-
-An Opportunity Attack (⚔️) is an immediate reaction attack made against an engaged opponent without spending an action allocation (acts as an Act(F) reaction): * Melee Only: Opportunity Attacks can ONLY be executed with a melee weapon currently in hand. Ranged weapons (Shot, Hurled), spells, and magical powers can never make an Opportunity Attack. * Trigger 1 — Breaking Melee: Combatant A has already attacked Combatant B with a melee weapon, and B later (in that round or subsequent rounds) moves more than 1 square away from A (or moves beyond A's melee weapon reach) while A has Nish in that round. * Trigger 2 — Vulnerable Actions in Melee: Combatant A is engaged in melee with Combatant B, and B attempts any action after A's Nish other than: (1) Defending, (2) Swapping weapons/shields, (3) Melee attacking A, or (4) Activating an ability targeting A. Common provoking actions include: 1. B attacks with a hurled or shot ranged weapon while adjacent to A. 2. B activates an ability, spell, or power with a target other than A. 3. B drinks a potion, quaffs food/drink, uses mundane equipment, or performs general utility. * Provoking: When Combatant B takes any of the above triggering actions, B has provoked A. Combatant A may make an Opportunity Attack if desired (it is completely optional). * Frequency & Round Cap: A combatant may make an Opportunity Attack against each provoking opponent once per round. If 5 separate opponents each provoke an Opportunity Attack from combatant A in the same round, combatant A may make an Opportunity Attack against all 5 that round. * The Vanilla Simplicity Rule: Opportunity Attacks must be a plain, vanilla weapon strike. The attacker may NOT use abilities, focus, or luck on the Attack or Damage rolls. Normal polyhedral dice explosion rules still apply.
-
-##### 2. Rationale (The Why)
-
-Melee engagement must carry tactical weight and positional consequence. Allowing opponents to walk past frontline fighters, fire bows at point-blank range, or cast spells without interference turns combat into loose skirmish tagging. Stripping ability chains, focus, and luck ensures the reaction resolves in under 5 seconds with zero decision lag.
-
-##### 3. Failure Mechanism (The What Breaks)
-
-Permitting non-melee opportunity attacks or allowing complex ability/focus stacking on reactions stalls the table during other players' turns and destroys combat pacing.
-
-Notes:
-
-Area or special effects still require an Atk⚔️ roll unless stated otherwise.
-
-Area and multi-attacks make separate Atk⚔️ and Dmg💥 rolls for each attack.
+Apply Wnd🩸: Add the wounds to any existing and record it next to the monster. Once ≥ the monster’s Vit❤️, the monster dies.
 
 ### 🛡️ Combat (Player Defending – Monster Attacking)
 
 ⚡ Quick Reference: Vitality & Death Checks
 
-Unconsciousness & Dying: * Unconsciousness Condition — Unconscious if Current Vit is ≤ 0. * Death Check Trigger — When Current Vit is -1 or less, must immediately make a Death Check and make a Death Check each round on your nish, until Current Vit is no longer negative or you die. * Death Check Roll — Moxie 🫀 Ability check vs. Difficulty = 5 + (– Current Vit ❤️) as unskilled, unless you have the “Death Check🫀” skill. Example: at Current Vit of -8 the Dif is 13.
+Unconsciousness & Dying:
 
-Bleeding: * Bleeding Out (+1 Wound/Rnd) — After each Death Check except the first, your Wounds automatically increase by +1 Wound due to active bleeding unless you receive bandaging, triage, or magical healing, making future death checks harder.
+* * Unconsciousness Condition — Unconscious if Current Vit is ≤ 0.
+* * Death Check Trigger — When Current Vit is -1 or less, must immediately make a Death Check and make a Death Check each round on your nish, until Current Vit is no longer negative or you die.
+* * Death Check Roll — Moxie 🫀 Ability check vs. Difficulty = 5 + (– Current Vit ❤️) as unskilled, unless you have the “Death Check🫀” skill. Example: at Current Vit of -8 the Dif is 13.
 
-💤 Rest & Recovery (Healing): * Post-Combat Short Rest — Taking a brief rest opportunity after a combat encounter restores d4 Vit ❤️ (Maximum 1 short rest per encounter). * Full Day Rest (Sleep) — A full night's sleep restores 2d4 Vit ❤️. * First Aid & Healing — Medical supplies, bandaging, and healing skills stop active bleeding. * Magical Healing — Will stop active bleeding and heal as per the power or item’s rules.
+Bleeding:
 
-Monster Declares Atk⚔️.
+* * Bleeding Out (+1 Wound/Rnd) — After each Death Check except the first, your Wounds automatically increase by +1 Wound due to active bleeding unless you receive bandaging, triage, or magical healing, making future death checks harder.
 
-Player Defense Roll: 2H20 + Atr✅ Die + Bonus using:
+💤 Rest & Recovery (Healing):
 
-Might💪 (Block 🛡️): for any attack that “could” be Dodged, if armed with equal/larger Block Cap🛡️ weapon⚔️ or shield🧱.
+* * Post-Combat Short Rest — Taking a brief rest opportunity after a combat encounter restores d4 Vit ❤️ (Maximum 1 short rest per encounter).
+* * Full Day Rest (Sleep) — A full night's sleep restores 2d4 Vit ❤️.
+* * First Aid & Healing — Medical supplies, bandaging, and healing skills stop active bleeding.
+* * Magical Healing — Will stop active bleeding and heal as per the power or item’s rules.
 
-Motion🏃 (Dodge): nearly always valid.
+### Monster Declares Atk⚔️.
 
-Magic✨ (Resist): for undodgeable arcane/mystical effects (fire, acid, explosion, magical effects).
+Player Defense Roll: 2H20 + d(Atr✅) + Bonus using:
 
-Moxie🫀 (Resist): for bodily/stamina effects (poison, exhaustion, vitality, physical endurance).
+Block🛡️ is 2H20+d💪 or Dodge🏃 is 2H20+d 🏃. Note: Blocking requires either a held melee weapon or drawn shield and may only block if the Block Cap🛡️ is >= the incoming Dmg. Dodge is nearly always valid.
 
-Note: Since this is a comparison roll, the Attribute die explodes indefinitely on max face.
+Resist/Save: Some attack forms (Powers🔥 and Exotics🧿) are not Blockable and/or Dodgeable so the character must Resist the arcane/mystical effects (fire, acid, explosion, magical effects), using a Save/Resist roll (see rules) The most common Resist Atr is Moxie🫀 which is used for bodily/stamina effects (poison, exhaustion, disease, physical endurance). But some Resistances will ask for any of the Atr (✨ for magical resistances, 💪 for strength resistances, 👁️for mind or charm resistances, 🏃 for some AoE or exposlion resistances, and 🫀 as above).
 
-Beat Monster Atk⚔️ (10–24) → Avoid Dmg💥.
+Note: Attribute die always qualify for the exploding ruels..
 
-#### 🎲 The Monster Advantage / Disadvantage Inversion Doctrine (Triad Format)
+Beat Monster Atk⚔️ (5 to 30) → Avoid Dmg💥.
 
-##### 1. Rule (The What)
+If Defense Fails → Player Armor AR🧥: Roll armor die (d4 to d12) (exploding rules apply) and subtract result from Monster Dmg💥 to get actual Wnds🩸.
 
-In SupaFlex, GM-controlled NPCs and Monsters NEVER roll dice. Consequently, if an ability, trait, condition, or GM adjudication states that a Monster or NPC has Advantage or Disadvantage, it EXCLUSIVELY means that the player character rolling against them rolls with the opposite modifier: * Monster Advantage ➔ Character Disadvantage: If a monster has Attack Advantage, the defending player character rolls Defense at Disadvantage (2L20). If a monster has an awareness/perception advantage, a sneaking player rolls Stealth at Disadvantage. * Monster Disadvantage ➔ Character Advantage: If a monster has an Attack Disadvantage (or suffers from Weakened), the defending player character rolls Defense at Advantage (2H20). If a monster has Poison Disadvantage, the afflicted player character rolls their Poison Affliction recovery save at Advantage (2H20). * Absolute Invariant: Monsters and NPCs never roll dice and will never directly roll or use Advantage or Disadvantage.
+FATIGUE Wnds🩸
 
-##### 2. Rationale (The Why)
-
-Preserves the foundational Player-Only Rolling Doctrine while enabling standard tabletop tactical advantages, environmental modifiers, and condition debuffs to apply seamlessly to monsters without requiring the GM to roll dice or calculate polyhedral pools.
-
-##### 3. Failure Mechanism (The What Breaks)
-
-Attempting to roll dice for monsters destroys the rapid cinematic pacing of SupaFlex. Failing to invert monster modifiers makes monster advantages and debuffs completely non-functional in a player-only rolling system.
-
-If Defense Fails → Player Armor AR🧥: Roll armor die (d4–d12) and subtract result from Monster Dmg💥. The remainder = Wnd🩸. This armor die roll follows the Single Die Rule (single-explode capped).
-
-Note the Block 🛡️die is never rolled in lieu of armor as the Block defense MISSED. Thus the blow has hit the character’s AR🧥.
-
-Monsters inflict Fatigue Wnds🩸 by default based on Dmg💥 (ten's digit + 1: Dmg 1–9 = 1, 10–19 = 2, 20–29 = 3, etc.; huge/giant monsters or elites may modify this). If your AR🧥 results in less Wnds🩸 than this Fatigue value, the character suffers the Fatigue Wnds🩸 instead. Fatigue Wnds🩸 do NOT trigger Afflictions if the AR🧥 roll would have stopped ALL of the Dmg💥.
+Monsters inflict Fatigue Wnds🩸 by default based on Dmg💥 (ten's digit + 1: Monster Dmg 1–9 = 1, 10–19 = 2, 20–29 = 3, etc.; huge/giant monsters or elites may modify this). If your AR🧥 results in less Wnds🩸 than this Fatigue value, the character suffers the Fatigue Wnds🩸 instead. Fatigue Wnds🩸 do NOT trigger Afflictions if the AR🧥 roll would have stopped ALL of the Dmg💥.
 
 Apply Wnd🩸: Add to your total Wnd🩸.
 
@@ -1495,23 +1266,21 @@ Left unattended, an unconscious PC will slowly bleed out (Wnd🩸 increase 1/rnd
 
 ### 🤖 Summoned, Created & Companion Entities
 
-Any entity created, summoned, fabricated, or purchased that can initiate combat or be targeted by attacks (e.g. companion animals, combat drones, conjured elementals, androids, homunculi) operates under the PC Stat Inheritance Doctrine:
+Any entity created, summoned, fabricated, or purchased that can initiate combat or be targeted by attacks (e.g. companion animals, combat drones, conjured elementals, androids, homunculi) operates under the PC Stat Inheritance Doctrine :
 
-1. PC Stat Inheritance (Automatic Character Scaling):
-1. Base Rule: Stating Uses PC stats establishes that the entity inherits the player character's current attribute dice as its baseline stats (Might 💪, Motion 🏃, Mind 👁️, Magic ✨, Moxie 🫀), baseline Vitality (Vit = Moxie 🫀), and baseline defenses (Block, Dodge, Resistances).
-1. Scaling Benefit: As the player character advances and increases attribute dice through AP, their companion entities scale automatically in lockstep without requiring bloated monster statblocks or manual sheet recalculations.
-1. Unmodified Standard: If an entity has no unusual modifications, simply stating Uses PC stats completely defines the creature. There is no need to redundantly specify unmodified attributes or baseline Vitality.
-1. Expressing Exceptions & Overrides:
-1. Specific adaptations or specialized roles are expressed strictly as relative modifiers or polyhedral dice steps ( ), NEVER as arbitrary static roll numbers:
-
+* PC Stat Inheritance (Automatic Character Scaling):
+* Base Rule: Summoned/Crate/Hired/Companion/etc. entities inherit the player character's current attribute dice as its base stats (Magic✨, Might💪, Mind👁️, Motion🏃, Moxie🫀), and base defenses (Block, Dodge, Resistances, Vit) = PC’s Attributes. This means that their Vit is = to PC’s 🫀 (NOT PC’s ❤️) as EVERYTHING is based off of PC’s Attributes, NOT stats. Thus 👣 is based on 🏃.
+* Scaling Benefit: As the player character advances and increases attribute dice through AP, their companion entities scale automatically in lockstep without requiring bloated monster statblocks or manual sheet recalculations.
+* Unmodified Standard: If an entity has no unusual modifications, simply default to Useing PC stats, and this completely defines the creature! There is no need to redundantly specify unmodified attributes or baseline Vitality.
+* Expressing Exceptions & Overrides:
+* Specific adaptations or specialized roles are expressed strictly as relative modifiers or polyhedral dice steps (), RARELY as arbitrary static roll numbers:
 * Vitality Overrides: If Vitality differs from Moxie (🫀), express as a flat adjustment (Vit 🫀+6) or a fixed small pool (Vit 4).
 * Attack Type & Modifiers: Melee attacks scale from Might (💪, e.g. Atk 💪+2), Shot attacks scale from Mind (👁️, e.g. Atk 👁️/2), Hurled attacks scale from Motion (🏃), and Magic attacks scale from Magic (✨).
 * Defense / Mobility Overrides: Dodge adjustments modify Motion (🏃, e.g. Def 🏃-2 or Def 🏃+2), and movement rates note custom speeds (👣 4 or 👣 10 Fly).
-
-1. Concrete Shorthand Examples:
-1. Standard Hunting Companion: Summon Hunting Hound [A] (Uses PC stats). (Inherits all PC attribute dice, Vit = 🫀, standard Block and Dodge).
-1. Heavy Combat Guardian: Summon Iron Golem [A] (Uses PC stats; Vit 🫀+6, Atk 💪+2, Def 🏃-2, Dmg 💪+3, 👣 4).
-1. Fragile Recon Drone: Deploy Micro-Drone [P] (Uses PC stats; Vit 4, Atk 👁️/2, Def 🏃+2, 👣 10 Fly).
+* Concrete Shorthand Examples:
+* Standard Hunting Companion: Summon Hunting Hound [A]. NOTHING else needs to be specified as the default rule is ALWAYS in play: The companion Inherits all PC attribute stats, Vit = 🫀, standard Block and Dodge). SIMPLE!
+* Heavy Combat Guardian: Summon Iron Golem [A] (Vit 🫀+6, Atk 💪+2, Def 🏃-2, Dmg 💪+3, 👣 4).
+* Fragile Recon Drone: Deploy Micro-Drone [P] (Vit 4, Atk 👁️/2, Def 🏃+2, 👣 10 Fly).
 
 ## 📅 Days and Encounters
 
@@ -1519,49 +1288,39 @@ Any entity created, summoned, fabricated, or purchased that can initiate combat 
 
 A new Day📅 begins each new character day (after sleep).
 
-A new Day📅 automatically starts a new Enc (see below).
+A new Day📅 automatically starts a new Enc (Encoutner) see below.
 
 When characters start their new Day📅, they are in a new Day📅 and a new Enc.
 
 ### 🎲 Encounters
 
-The game’s Days📅 are broken into Encs.
+The game’s Days📅 are broken into Encs (Encounters).
 
-An Enc is both the mode the game enters when the GM🔎 calls for first Nish🚩 and the game proceeds rnd by rnd (often during combat or other intense timing events).
-
-The period between such combat encounters is ALSO an encounter - a roleplaying Enc.
+An Enc is both the mode the game enters when the GM🔎 calls for first Nish🚩 and the game proceeds rnd by rnd (often during combat or other intense timing events), AND, the period between such combat encounters is ALSO an encounter - a roleplaying Enc.
 
 Example sequence:
 
-Enc 1 (Roleplaying): The party meets in a tavern with heavy roleplaying.
+* Enc 1 (Roleplaying): The party meets in a tavern with heavy roleplaying.
+* Enc 2 (Combat): A fight breaks out and the game switches into Rnd mode.
+* Enc 3 (Roleplaying): After the fight, the party searches opponents, rests, visits an inn, and sleeps.
 
-Enc 2 (Combat): A fight breaks out and the game switches into Rnd mode.
+Each of these is classified as an “Enc” in SupaFlex. This approach means an Enc can either be a combat Enc or a roleplaying Enc.
 
-Enc 3 (Roleplaying): After the fight, the party searches opponents, rests, visits an inn, and sleeps.
-
-Each of these is classified as an “Enc” in SupaFlex. This approach means an Enc can either be a combat Enc⚡ or a roleplaying Enc.
-
-This classification defines #-Enc ability use.
+This classification defines(1-Enc, 2-Enc, 3-Enc) ability usage.
 
 Example: A healer who can heal 2-Enc may heal 2 times per Enc (2 in each combat encounter AND 2 in each roleplaying encounter).
 
-In the sequence above, they could heal 6 times in total (2 each in 3 Encounters).
+In the sequence above, they could heal 6 times in total (2 each in the 3 Encounters).
 
 ### ⚔️ Combat Encounter – Initiative & Rounds
 
 Nish🚩: Common abbreviation for Initiative. Used interchangeably in rules and table talk.
 
-Nish🚩 Check: PCs roll Motion🏃 vs Monster Initiative.
+Nish🚩 Check: PCs roll 🚩 . The GM sequences the PC’s Nish rolls with the static Monster Nishes🚩.
 
 Order of Play:
 
-All PCs above Monster Initiative🚩.
-
-All Monsters (as a group).
-
-All PCs below Monster Initiative🚩.
-
-Nish Reward (Optional): In core standard rules, initiative strictly determines turn order. GMs wishing to reward swift reflexes may optionally use the +1 Nish Reward rule (see Appendix B: Optional Rules — Fast Reflexes).
+Proceed from highest to lowest Nish among All PCs and Monster.
 
 Round Sequence:
 
@@ -1569,11 +1328,11 @@ Determine Nish🚩 order.
 
 Turns – Each PC/Monster takes a turn on their Nish🚩.
 
-A turn = AMP or 1 Atk⚔️ (A) + 1 Move (M) + 1 Partial (P).
+A turn = AMPF or 1 Atk⚔️ (A) + 1 Move (M) + 1 Partial (P) + Unlimited Free (F) actions.
 
 No split movement (cannot Move → Atk⚔️ → Move, but can Move → P → Move).
 
-On Nish🚩 of afflicted – New Resistance/Save checks vs hazards (Stunned, Weakened, Immobilized, Poisoned, etc.).
+On Nish🚩 of afflicted – New Resistance/Save checks vs affliction (Stunned, Weakened, Immobilized, Poisoned, etc.).
 
 ### 💤 Roleplaying Encounter – Rest & Recovery
 
@@ -1583,91 +1342,124 @@ Roleplaying Enc Rest (after battle): Regain d4 Vit❤️. Max 1 rest per Enc.
 
 Day Rest (sleep/new Day📅): Regain 2d4 Vit❤️, resets all #-Day abilities.
 
-## Abilities (Powers🔥, Artifacts🔮, Skills🎓)
+## Elements (Traits🧬, Powers🔥, Skills🎓 (Weapon, Armor, Shield Skills🎓) and Exotics🧿)
 
-⚡ Quick Reference: Powers & Combat Rules
+⚡ Quick Reference: Elements
 
-Auto-Readied Power Card: * Auto-Ready — All learned Powers are immediately active and readied on your character's Power Card. No rigid ready-slot buckets. * 4-Channel Action Economy — Round Action Pool = 1 Attack (A) + 1 Move (M) + 1 Partial (P) + Unlimited Free (F) actions (and hybrid AM).
+Auto-Readied Power Card:
 
-Exclusive Stacking Master Rule: * Master Invariant — A character may benefit from only the single highest value or best effect of a given power or modifier at any time.
+* 4-Channel Action Economy — Per Round Action Pool = 1 Attack (A) + 1 Move (M) + 1 Partial (P) + Unlimited Free (F) actions (and the combined AM).
 
-Powers, Artifacts & Exotics Parity: * Shared Rules Engine — Powers, Artifacts, and Exotics function under the same mechanical rules and single-sentence syntax grammar. * Equipment Requirement — Exotics and Artifacts must be properly held, drawn, or worn to work.
+Exclusive Stacking Master Rule:
 
-Always Skilled: * Skilled Invocation — Powers and Exotics are ALWAYS considered Skilled (2H20 + Attribute Die).
+* Single Bonus — A character may benefit from only the single highest bonus or best effect of a given power or modifier at any time.
 
-Syntax Standard: * Formula — Name | Action Budget | Usage Frequency → Mechanical Effect. * Example — Discordant Chord | A | 1-Rnd → Magic✨ attack vs all Short foes for d4 Dmg.
+Powers & Exotics Parity:
 
-Range: * Guidance — 8 Tactical Bands: Self, Touch, 1 (adjacent), 2 (reach), Short (≤6 sq), Medium (≤12 sq), Long (≤24 sq), Extreme (≥25 sq). * Disadvantage Extension — GM may allow a single range extension at disadvantage.
+* Shared Rules Engine — Powers and Exotics function under the same mechanical rules and single-sentence syntax grammar called an “Effect”.
 
-The Luck Twist (Rule of 1): * Apply one instant "Rule of 1" boost per Luck chit (Max 1 Luck Twist per activation): -1 Action Budget, +1 Target, +1 Die Tier, +1 Range Band, +1 Push/Move.
+* Equipment Requirement — Exotics (which include Artifacts) must be properly held, drawn, or worn to work.
+
+Always Skilled:
+
+* Powers and Exotics are ALWAYS considered Skilled (2H20 + Attribute Die).
+
+Syntax Standard:
+
+Range:
+
+* 8 Tactical Bands: Self, Touch, 1sq, 2sq, 3sq, Short (≤6 sq), Medium (≤12 sq), Long (≤24 sq), Extreme (≥25 sq).
+
+* Disadvantage Extension — GM may allow a single range extension at disadvantage.
+
+Luck Twist):
+
+* Apply one instant boost per Luck chit (Max 1 Luck Twist per activation):, +1 Target, +1d (Die Tier), +1 Range Band, +1sq Push/Move.
 
 ### 🔥 Powers & The Auto-Readied Power Card Architecture
 
-SupaFlex adopts an Auto-Readied Power Card architecture. All learned powers are immediately active and available for combat deployment on the character's Power Card (the active card titled "Powers" on the character sheet).
-
-* Auto-Ready: Every power learned through AP advancement or Path grants is instantly accessible. There are no artificial bucket limits (Primary Arsenal, Mobility & Defense, Support/Passive).
-* Combat Regulation: Action economy limits (1 Attack [A] + 1 Move [M] + 1 Partial [P] + Unlimited Free [F], plus hybrid Attack \& Move [AM]) and usage frequencies (1-Rnd, 1-Enc, 2-Enc, 3-Enc, 1-⚡, 1-🍀) naturally govern tactical deployment during battle.
+* 
+* Combat Regulation: Action economy limits (1 Attack [A] + 1 Move [M] + 1 Partial [P] + Unlimited Free [F], plus combined Attack & Move [AM]) and usage frequencies (1-🍀, 1-⚡, 1-Enc, 2-Enc, 3-Enc, 1-Rnd) naturally govern tactical deployment during battle.
 
 #### ⚖️ The Exclusive Stacking Master Rule
 
 To maintain rock-solid mathematical balance, protect bounded accuracy, and prevent degenerate power creep:
 
-Exclusive Stacking Master Rule: 1. Universal Stacking Exceptions: The optional +1 tactical bonus from beating ALL opponents' Initiative (if using the optional Fast Reflexes rule under Appendix B: Optional Rules, Nish 🚩) and the +1 bonus from holding a full Bolt (Full Bolt state ⚡) stack with each other AND stack with nearly all other bonuses and rolls (subject to standard GM discretion). 2. Strict Default (NO STACKING): ALL other bonuses, damage amplifiers, stat buffs, and tactical modifiers DO NOT STACK unless an ability explicitly states "stacks with..." or with explicit GM approval. 3. Highest Value Wins: When two or more abilities, items, or situational factors grant competing modifiers or advantage/disadvantage to the same roll or trait, only the single highest value or best effect applies.
+Exclusive Stacking Master Rule:
+
+* 1. T he +1 bonus from holding a full Bolt (Full Bolt state ⚡) stacks with nearly all other bonuses and rolls (subject to standard GM discretion).
+* 2. Strict Default (NO STACKING): ALL other bonuses, damage amplifiers, stat buffs, and tactical modifiers DO NOT STACK unless an ability explicitly states "stacks with..." or with explicit GM approval.
+* 3. Highest Value Wins: When two or more abilities, items, or situational factors grant competing modifiers or advantage/disadvantage to the same roll or trait, only the single highest value or best effect applies.
 
 #### 📈 Powers-Known Progressive AP Soft Tax
 
 To prevent high-level characters from hoarding endless batteries of cheap 1-Encounter powers, an escalating soft tax applies to total powers learned:
 
-| Total Powers Known | AP Surcharge per Additional Power | Effective Cost (1 AP Base) |
+| Total Powers Known | AP Surcharge per Additional Power | AP cost per Power |
 | --- | --- | --- |
 | Powers 1–6 (Base Threshold) | +0 AP | 1 AP |
 | Powers 7–9 (Tier 1 Scaling) | +1 AP | 2 AP |
 | Powers 10–14 (Tier 2 Scaling) | +2 AP | 3 AP |
 | Powers 15+ (Tier 3 Scaling) | +3 AP | 4 AP |
 
-Artifacts function EXACTLY like Powers🔥 (they are simply powers granted by item ownership). All rules for action budgets (AMP), usage frequencies, Bolt costs (1-⚡), and 1-AP augments apply identically to Artifacts. Abilities granted by Artifacts are active when the item is held, worn, or carried.
+Exotics🧿 function EXACTLY like Powers🔥 (they are simply powers granted by item ownership). All rules for action budgets (AMP), usage frequencies, Bolt costs (1-⚡), and AP Variations apply identically to Exotics🧿. Abilities granted by Exotics🧿 are active when the item is held, worn, or carried.
 
 #### 📜 System Architecture: Power & Artifact Grammar
 
-To ensure absolute clarity without rulebook arguments or bloat, every Power🔥 and Artifact🔮 follows a standardized, single-sentence Power Grammar:
+To ensure absolute clarity without rulebook arguments or bloat, every Power🔥 and Exotics🧿 follows a standardized, single-sentence Grammar:
 
-Name | Budget (Action / Usage) | 1-Sentence Mechanical Effect
+Name | Budget (Action / Usage) | 1-Sentence Effect
 
-Example Entries: * Discordant Chord | A / 1-Rnd → Magic✨ attack vs all Short foes for d4 Dmg. * Cyclone Kick | A / 1-Enc → 1-⚡ → Motion🏃 attack dealing d8 Dmg and pushing target d4 sq. * Blade Parry | F / 2-Enc → On hit in Melee: Auto-succeed a weapon Block🛡️ (up to Block Cap). * Bardic Bluff | P / 1-Enc → Mind👁️ check vs target's Mind👁️ with Advantage (2H20) to deceive or distract. * Frost Pebble (Artifact) | A / 1-Enc → Hurled Motion🏃 attack vs Short target for Magic✨ + d4 Cold Dmg.
+Example Entries:
 
-All abilities have a Usage🔄, Action🔷, Duration⏳, and Range🎯. Often these are self-evident and do not need verbose explanation.
+* Discordant Chord | A / 1-Rnd | Atk✨^all Short foes for d4 Dmg.
+
+* Cyclone Kick | A / 1-⚡| → Atk🏃Dmg d🏃 and pushes target d4 sq.
+
+* Blade Parry | F / 2-Enc | On hit in Melee: Auto-succeed a weapon Block🛡️ (up to Block Cap).
+
+* Bardic Bluff | P / 1-Enc | Mind👁️^👁️ with Advantageto deceive or distract.
+
+* Frost Pebble (Artifact) | A / 1-Enc | Rng Short; Atk🏃^Def Cold Dmg d✨+4.
+
+All abilities have a Action🔷, Usage🔄, Duration⏳, and Range🎯. Often these are self-evident and do not need verbose explanation. The only abilities that will explicitly list Action and Usage are Powers🔥 and Exotics🧿, but ALL abilities have them. If Dur⏳ and Rng🎯 are not obvious they will be listed in the Effects.
 
 ### 🔄 Usage & The Bolt / Spark Engine (⚡)
 
-How often an ability (Power🔥 or Artifact🔮) can be used:
+How often an ability (Power🔥 or Exotic🧿) can be used:
 
 | Usage Option | Refresh & Mechanical Execution | Pacing & Table Utility |
 | --- | --- | --- |
-| 1-⚡ | 1 Bolt: Consumes 1 Bolt (5 Sparks, ⚡). Max 1/encounter. | High-impact tactical burst, overdrive munitions, combat elixirs, combos, or battlefield supremacy. |
-| 1-🍀 | 1 Luck: Consumes 1 Luck chit (🍀) from player's pool. | Clutch cinematic interrupts, heroic saves, and auto-defenses. |
-| 1-Enc | 1 per Encounter: Refreshes when combat/encounter resolves. | Major tactical abilities, special stances, and defensive shields. |
-| 2-Enc | 2 per Encounter: Refreshes when combat/encounter resolves. | Flexible encounter abilities and tactical weapon maneuvers. |
-| 3-Enc | 3 per Encounter: Refreshes when combat/encounter resolves. | High-frequency encounter utilities and reliable tactical powers. (HARD CAP: SupaFlex will NEVER support more than 3 uses per encounter). |
-| 1-Rnd | 1 per Round: Refreshes every round on Initiative (Nish🚩). | Core martial strikes, baseline spells, stance toggles, and primary combat actions. |
+| 1-⚡ | 1 Bolt: Consumes 1 Bolt (5 Sparks, ⚡).. | High-impact tactical burst, overdrive munitions, combat elixirs, combos, or battlefield supremacy. |
+| 1-🍀 | 1 Luck: Consumes 1 Luck 🍀 from player's pool. | Clutch cinematic interrupts, heroic saves, and auto-defenses. |
+| 1-Enc | 1 per Encounter: Refreshes when combat/roleplaying encounter resolves. | Major tactical abilities, special stances, and defensive shields. |
+| 2-Enc | 2 per Encounter: Refreshes when combat/roleplaying encounter resolves. | Flexible encounter abilities and tactical weapon maneuvers. |
+| 3-Enc | 3 per Encounter: Refreshes when combat/roleplaying encounter resolves. | High-frequency encounter utilities and reliable tactical powers. (HARD CAP: SupaFlex will NEVER support more than 3 uses per encounter). |
+| 1-Rnd | 1 per Round: Refreshes every round on Initiative (Nish🚩). | Core base abilities, baseline spells, stance toggles, and primary combat actions. |
 
 📌 Important
 
-Universal Combat Usage Standard & Chaos Gem Durability: 1. Overdrive Munitions & Combat Elixirs: All combat-grade munitions (missiles, specialized warhead tips, tactical grenades, delivery poisons) and alchemical combat elixirs/potions equipped on character Exotics use 1-⚡ (1 Bolt) or per-encounter frequencies (1-Enc). Flat numeric usages (1, 2, 3) are strictly prohibited for combat abilities. 2. Chaos Gem Finite Durability: Socketed Chaos Gauntlet gems strictly retain 3 finite charges ([false, false, false]) that auto-shatter upon checking the 3rd box. Spending a Bolt (1-⚡) to activate a gem without consuming a charge is strictly reserved for the Wrist Mega Slot.
+Universal Combat Usage Standard & Chaos Gem Durability:
 
-#### ⚡ Spark Generation & Bolt Rules
+* 
+* 2. Chaos Gem Finite Durability: Socketed Chaos Gauntlet gems strictly retain 3 finite charges and will auto-shatter upon the 3rd use. Spending a Bolt (1-⚡) to activate a gem without consuming a charge is strictly reserved for the Wrist Mega Slot .
 
-* 5 Sparks = 1 Bolt: A "spark" and "spark charge" are completely synonymous terms. It ALWAYS takes 5 Sparks (or Spark Charges) to build 1 Bolt (the filled lightning bolt icon ⚡). All Bolt abilities indicate this in the Usage column as 1-⚡ (representing 1 Bolt). There are no 2-⚡ or 3-⚡ costs.
+#### ⚡ Bolt Rules & Spark Generation
+
+* 5 Sparks = 1 Bolt⚡: A "spark" and "spark charge" are completely synonymous terms. It ALWAYS takes 5 Sparks to build 1 Bolt⚡. All Bolt abilities indicate this in the Usage column as 1-⚡ (representing 1 Bolt). There are no 2-⚡ or 3-⚡ costs.
 * Spark Generation Events: Building a Bolt occurs via Sparks earned in gameplay:
-* Tremendous or Critical Rolls: Gain +1 Spark for every natural 20 or natural 1 on the base d20 die of a typical ability roll.
-* Exploding Die Events: Gain +1 Spark per exploding die roll (if a die explodes 4 times in a row, gain 4 Sparks). Applies to ANY ability roll (Skill, Attack, Defense, Focus, etc.).
-* Full Bolt State (+1 to All Rolls): A character holding 5 Sparks has "A Full Bolt" (or is "Bolt Charged"). While holding a full Bolt, they gain a flat +1 bonus to ALL Ability Rolls, Defenses, and Damage rolls until they spend their Bolt (⚡) or the encounter ends.
+* Tremendous or Critical Rolls: Gain +1 Spark for every natural 20 or natural 1 on the base d20 die of a any ability roll.
+* Exploding Die Events: Gain +1 Spark per exploding die roll (if a die explodes 4 times in a row, gain 4 Sparks). Applies to ANY attribute derived roll (Skill, Attack, Defense, etc. as well as Focus).
+* Full Bolt State (+1 to All Rolls): A character holding 5 Sparks has "A Full Bolt⚡". While holding a full Bolt, they gain a flat +1 bonus to ALL Attribute Derived Rolls, including Defenses, and Damage rolls until they spend their Bolt (⚡) or the encounter ends.
 * Encounter Transition & Zeroing Out:
 * If a character reaches a full Bolt (5 Sparks) in an encounter, then at the end of that encounter their Sparks zero out (reset to 0).
 * Otherwise, if they end an encounter with fewer than 5 Sparks (<5 Sparks), their Sparks carry over into the next encounter. (Characters are continuously transitioning between encounter types, whether combat or roleplaying).
 
 ℹ️ Note
 
-Elimination of Daily Hoarding (X-Day) High-tier daily powers are converted into Bolt powers (1-⚡) or 1-Luck powers. Players no longer hoard powerful abilities for boss fights that never come; they earn them dynamically in every fight through tactical play and dice momentum.
+High-tier powers use Bolt (1-⚡) or 1-🍀..
+
+Once per encounter a character may use a 🍀 to power a 1-⚡ability. But only once per encounter (unless the GM chooses to approve more).
 
 #### 🧠 Game Theory & Psychology ("My Game Theory")
 
@@ -1678,75 +1470,66 @@ Elimination of Daily Hoarding (X-Day) High-tier daily powers are converted into 
 
 ### 🔷 Actions
 
-Every combat round, each character receives an action allocation of 1 Attack (A), 1 Move (M), and 1 Partial (P), plus Unlimited Free (F) actions (within GM reason). These action channels are never interchangeable (you cannot trade an A or M for a P).
+Every combat round, each character receives an action allocation of 1 Attack (A) , 1 Move (M) , and 1 Partial (P) , plus Unlimited Free (F) actions (within GM reason). These action channels are never interchangeable (you cannot trade an A or M for a P).
 
 #### The 5 Strict Action Channels
 
 | Action | Designation | Tactical Scope & Cost |
 | --- | --- | --- |
-| AM | Attack & Move | Hybrid action consuming both your 1 Attack (A) and 1 Move (M) allocations for the round. Leaves your 1 Partial (P) and unlimited Free (F) actions available. |
-| A | Attack | Any weapon strike, martial attack, or offensive ability. Consumes your 1 Attack allocation for the round. (Attack only — never referred to as a generic "Action"). |
-| M | Move | Any tactical movement ( ≥ 1 sq up to your full Movement Rate MR). Moving even 1 square consumes your 1 Move allocation. |
-| P | Partial | Minor, preparatory, or interacting utility tasks (drawing a blade, donning a shield, quaffing a potion, opening a door). Consumes your 1 Partial allocation. (Partial only — never referred to as "Power"). |
+| AM | Attack & Move | Combined action consuming both your 1 Attack (A) and 1 Move (M) allocations for the round. Leaves your 1 Partial (P) and unlimited Free (F) actions available. |
+| A | Attack | Any weapon strike, martial attack, or offensive ability. Consumes your 1 Attack allocation for the round. |
+| M | Move | Any tactical movement ( ≥ 1 sq up to your full Movement Rate MR). |
+| P | Partial | Minor, preparatory, or interacting utility tasks (drawing a blade, donning a shield, quaffing a potion, opening a door). Consumes your 1 Partial allocation. . |
 | F | Free | Trivial, instantaneous reactions: Defenses (Block 🛡️, Dodge🏃, Armor AR🧥), saves, quick verbal communication, or dropping an item. Unlimited per round (at GM discretion). |
 
 #### Tactical Movement & The Mobile Striker Clause
 
-* Standard Attack & Move Sequence: If you do not make an Attack (A), you may freely pause and resume your Move (M) (move ➔ pause ➔ move). However, taking an Attack (A) action immediately concludes your turn's movement; any unused Movement Rate (MR) is forfeit.
-* Running (Sprinting): Running requires an Attack & Move (AM) action and grants full ground movement of MR + d👣 squares (👣+d👣 sq).
-* Difficult Terrain: Any tactical grid square (5x5 ft) designated as Difficult Terrain requires 2 or more Movement Rate (👣) points to enter, rather than the standard 1 point. The universal default, unless otherwise noted, is a 👣 cost of 2 per square (e.g. severe obstructions like waist-deep mud or steep rubble = 3 👣).
-* Breaking Melee: Moving more than 1 square away from an opponent who has engaged you in melee while they have Nish in that round provokes an Opportunity Attack. See [Opportunity Attacks](#id.bnvs2b1ryc9k) .
+* Standard Attack & Move Sequence: If you do not use your k (A) Action, you may freely pause and resume your Move (M) (move ➔ pause ➔ move). However, taking an Attack (A) action immediately concludes your turn's movement; any unused Movement Rate (MR) is forfeit.
+* Running (Sprinting): Running requires an Attack & Move ( AM ) action and grants full ground movement of MR + d👣 squares (👣+d👣 sq).
+* Difficult Terrain: Any tactical grid square (5x5 ft) designated as Difficult Terrain requires 2 or more Movement Rate (👣) points to enter, rather than the standard 1 point. The universal default, unless otherwise noted, is a 👣 cost of 2 per square. S evere obstructions like waist-deep mud or steep rubble can have a 3 or higher 👣 cost per sq).
+* Breaking Melee: Moving more than the melee reach away from an opponent who has engaged you in melee while they have Nish in that round provokes an Opportunity Attack. See Opportunity Attacks .
 * Mobile Striker Clause: Specialized Move (M) or Partial (P) powers or items can explicitly grant split-movement ("You may split your movement before and after this attack"), providing tactical identity for mobility builds.
 * Skill Action Cost: Skills🎓 default to a Partial (P) action unless an ability or GM specifies Free (F). GM-initiated awareness or perception checks are always Free (F).
-* Jumping Actions: Standing Jump is d👣 squares as a Move (M) action. Running Jump is running up to MR 👣 on the ground plus a d👣 jump as an Attack & Move (AM) action (using Movement Rate die d(MR) ≤ MR).
+* Jumping Actions: Standing Jump is d👣 squares as a Move ( M ) action. Running Jump is running up to MR 👣 on the ground plus a d👣 jump as an Attack & Move ( AM ) action.
 
 ⚡ Quick Reference: Movement Rate (MR 👣) & Jumping Rules
 
-Tactical Movement: * Standard Move (M Action) — Move up to your full Movement Rate (MR 👣) in squares (1 sq = 5 ft). * Running / Sprinting (AM Action) — Running requires an Attack & Move (AM) action and grants full MR 👣 + d👣 squares (👣+d👣 sq). * Movement Flow — If taking no Attack (A), you may freely pause and resume your movement (move ➔ pause ➔ move). Taking an Attack (A) immediately concludes your turn's movement.
+Tactical Movement:
 
-Jumping Rules: * Standing Jump (M Action) — Jump a distance of d👣 squares (or 5 ft increments) as a Move (M) action, rolling your Movement Rate die (d(MR) ≤ MR, e.g. MR 6 rolls a d6). * Running Jump (AM Action) — Run up to full MR 👣 on the ground plus leap an additional d👣 squares in the air as an Attack & Move (AM) action. * Universal Explosion — Like all flat attribute and movement dice, d👣 explodes on its maximum face unless specifically noted otherwise.
+* * Standard Move (M Action) — Move up to your full Movement Rate (MR 👣) in squares (1 sq = 5 ft).
+* * Running / Sprinting (AM Action) — Running requires an Attack & Move (AM) action and grants full MR 👣 + d👣 squares (👣+d👣 sq).
+* * Movement Flow — If taking no Attack (A), you may freely pause and resume your movement (move ➔ pause ➔ move). Taking an Attack (A) immediately concludes your turn's movement.
+
+Jumping Rules:
+
+* Standing Jump (M Action) — Jump a distance of d👣 squares as a Move (M) action, rolling your Movement Rate die (d(MR), e.g. MR 6 rolls a d6).
+
+* Running Jump (AM Action) — Run up to full MR 👣 on the ground plus leap an additional d👣 squares in the air as an Attack & Move (AM) action.
+
+* Universal Explosion — All d👣 explodes on its maximum face unless specifically noted otherwise.
 
 Examples of Partial (P) Actions:
 
-Open/lock a door.
-
-Draw weapon⚔️
-
-Don shield🛡️.
-
-Pick up an item.
-
-Stand from prone.
-
-Cross rough terrain.
-
-Drink or Eat non-magical liquid or food
-
-A brief talk.
-
-Run: add +d(MR) to MR for rnd. Use die ≤ MR
-
-Drink a potion
+* Open/lock a door.
+* Draw weapon⚔️
+* Don shield🛡️.
+* Pick up an item.
+* Stand from prone.
+* 
+* Drink or Eat non-magical liquid or food
+* A brief talk.
 
 Examples of Free (F) Actions:
 
-All Def🛡️ rolls (Block 🛡️, Dodge🏃, AR🧥).
-
-Any Save or Resistance.
-
-GM-requested roll (e.g., GM asks for Awareness👁️).
-
-Face change.
-
-A few words.
-
-Sheath weapon⚔️, or un-don (put away) a shield🛡️.
-
-Drop an item
-
-Kneel, dive prone.
-
-Close a door.
+* All Def rolls (Block 🛡️, Dodge🏃, AR🧥).
+* Any Save or Resistance.
+* GM-requested roll (e.g., GM asks for Awareness👁️).
+* Face change.
+* A few words.
+* Sheath weapon⚔️, or un-don (put away) a shield🛡️.
+* Drop an item
+* Kneel, dive prone.
+* Close a door.
 
 #### 1 Round Action Examples
 
@@ -1754,7 +1537,7 @@ Charge and Strike → Move (M) across the battlefield, Attack (A) with your long
 
 Shoot and Relocate → Attack (A) with a bow, Move (M) behind cover, and Partial (P) to drop prone.
 
-Dagger Flurry → Attack (A) twice using a multi-attack (if your Might allows), Move (M) to shift one square, and Partial (P) to kick a chair into an opponent’s path (but NOT at an opponent which would be an illegal 2nd Attack (A) action).
+Dagger Flurry → Attack (A) twice using a multi-attack (if your Might allows), Move (M) to shift one square, and Partial (P) to kick a chair into an opponent’s path (but NOT at an opponent which would be an illegal 2nd Attack (A) action), then finish your Move up to max MR..
 
 Defensive Prep & Punch → A hands free character: Move (M) into position, Partial (P) to don a shield, and Attack (A) with a punch (Brawl) as there isn’t another Partial (P) action to also draw out a weapon.
 
@@ -1768,21 +1551,31 @@ Opportunistic Fighter → Attack (A) with dual weapons, Move (M) around the enem
 
 Agile Scout → Move (M) your full MR across rough terrain, Partial (P) to make an awareness check to potentially see a hidden foe, and Attack (A) with a hurled dagger.
 
-Show of Flair → Attack (A) with a rapier, Free (F) to bow dramatically (Flair trait), Move (M) into cover, and Free (F) to verbally taunt your opponent.
+Show of Flair → Attack (A) with a rapier, Free (F) to bow dramatically (Flair), Move (M) into cover, and Free (F) to verbally taunt your opponent.
 
-Shoot and Run → Attack (A) with a bow, Move (M) down the hallway, and Partial (P) to run (adds d(MR)) further.
+Shoot and Scoot→ Attack (A) with a bow, Move (M) down the hallway, Free (F) to shut a door behind you..
 
 ### ⏳ Duration (Dur)
 
-If a duration is listed, it will appear directly within the ability’s “Effect”. Often the Dur is obvious and not listed. The default for non-obvious durations is 1 Rnd (ends on the character/monster's next Nish🚩).
+If a duration is listed, it will appear directly within the ability’s “Effect”. Often the Dur is obvious and not listed. The default for non-obvious durations is 1 Rnd (ends on the character/monster's next round’s Nish🚩).
 
-The full collection of officially permitted Durations in SupaFlex is: * Instant: Resolves immediately upon execution with no lingering state (typical for attacks, damage, or sudden shifts; obvious and often omitted). * this Rnd: Persists through the remainder of the current combat round, concluding when the GM calls for new Nish rolls. * 1 Rnd (The Universal Default): Effect begins immediately and concludes upon the character/monster's next Nish (🚩). * Encounter: Persists throughout the active encounter, concluding when the GM declares the encounter over. * next …: Persists until the specified upcoming roll or action occurs, expiring immediately after that event resolves (e.g. next Def, next Atk, next Save, next Skill check).
+The full collection of officially permitted Durations in SupaFlex is:
+
+* Instant: Resolves immediately upon execution with no lingering state (typical for attacks, damage, or sudden shifts; obvious and often omitted).
+
+* this Rnd: Persists through the remainder of the current combat round, concluding when the GM calls for new Nish rolls.
+
+* 1 Rnd (The Universal Default): Effect begins immediately and concludes upon the character/monster's next rounds’ Nish (🚩) .
+
+* Encounter: Persists throughout the active encounter, concluding when the GM declares the encounter over.
+
+* next …: This is a Trigger duration that persists until the specified upcoming roll or action occurs, expiring immediately after that event resolves (e.g. next Def, next Atk, next Save, next Skill check) and does NOT extend past the current encounter, without GM approval.
 
 Design Goal: Minimal tracking. Durations are kept strictly to obvious, instant, 1 Rnd, Encounter, or a single "next..." action. Multi-round numeric tracking (e.g. "for 3 rounds") is strictly prohibited.
 
 ### 🎯 Range
 
-Powers🔥, Artifacts🔮, and Equipment🧰 eliminate fiddly footage counting in favor of 9 standard Tactical Range Bands:
+Powers🔥, Exotics🧿, and Gear⚙️ eliminate fiddly footage counting in favor of 9 standard Tactical Range Bands:
 
 #### The 9 Tactical Range Bands
 
@@ -1793,156 +1586,147 @@ Powers🔥, Artifacts🔮, and Equipment🧰 eliminate fiddly footage counting i
 | 1 | 1 square strike / adjacent melee ( ≤ 1 sq) | Standard melee weapon strikes, unarmed combat, and point-blank effects. |
 | 2 | 2 square strike / reach melee ( ≤ 2 sq) | Reach weapons (polearms, spears, short whips) and lunging martial maneuvers. |
 | 3 | 3 square reach / extended strike ( ≤ 3 sq / 15 ft) | Extended kinetic whips, grappling tethers, demolition arms, and localized shock arcs. |
-| Short | Engagement zone / same room ( ≤ 6 sq) | Thrown weapons, short-range blasts, and close-quarters skirmishing. |
+| Short | Engagement zone / same room ( ≤ 6 sq) | Hurled weapons, short-range blasts. |
 | Medium | Across the battlefield / line of sight ( ≤ 12 sq) | Standard ranged weapons (shortbows, pistols) and mid-range spells. |
 | Long | Extended sight line ( ≤ 24 sq) | Military bows, rifles, and long-range tactical artillery. |
-| Extreme | Beyond standard grid boundaries ( ≥ 25 sq) | Sniper rifles, siege engines, and orbital strikes (requires Disadvantaged roll: 2L20 / 1d20). |
+| Extreme | Beyond standard grid boundaries ( ≥ 25 sq) | (requires Disadvantaged roll). |
 
-#### 📐 AoE Geometry Standards (Area of Effect)
+#### 📐 AoE (Area of Effect) Geometry Standards
 
 When abilities affect multiple squares or areas, they strictly enforce standard, grid-friendly geometry:
 
 | Format | Geometry & Measurement Standard | Example |
 | --- | --- | --- |
-| AoE [#]r | Radius Burst: Centered on a designated point, affecting all squares within squares radius (excluding the origin/starting square itself). | AoE 2r (burst extending 2 squares in all directions from target origin). |
-| [#]x[#] | Rectangular Footprint: Stated directly as width × length in squares (written directly without an "AoE" prefix). | 3x6 (rectangular footprint covering 3 squares wide by 6 squares long). |
+| AoE [#]r | Radius Burst: Centered on a designated sq, affecting that sq AND all squares within squares radius. | AoE 2r (burst extending 2 squares in all directions from target sq). (This is a circle inscribed in a 5x5 grid) |
+| [#]x[#] | Rectangular Footprint: Stated directly as width × length in squares. | 3x6 (rectangular footprint covering 3 squares wide by 6 squares long). |
 
 📌 Important
 
-Strict Prohibition of Cones Traditional tabletop "cones" are strictly prohibited in SupaFlex to eliminate ambiguous grid templates, table arguments, and diagonal-edge disputes. All spread or sweeping effects are cleanly represented as rectangular footprints (e.g., a fiery breath or shotgun spray is standardized as a 3x6 rectangle).
+Strict Prohibition of Cones Traditional tabletop "cones" are strictly prohibited in SupaFlex to eliminate ambiguous grid templates, table arguments, and diagonal-edge disputes. All spread or sweeping effects are cleanly represented as rectangular footprints or #r such as 1r (e.g., a fiery breath or shotgun spray is standardized as a 3x6, 1x4, etc. rectangles).
 
-## 💀 Hazards & Afflictions (Triad Format)
+## 💀 Hazards & Afflictions
 
-Hazards and Afflictions are strictly decoupled into two distinct categories in SupaFlex.
-
-### 1. Rule (The What)
+### 
 
 #### 🌋 Hazard (💀)
 
-A Hazard is an environmental feature, battlefield obstacle, dangerous terrain situation, or trap that can either initiate an Affliction or trigger an immediate damaging or unwanted check. * Examples: Pit traps, walls of fire, pools of lava, collapsing ceilings, toxic gas clouds, slippery ice, or very rough ground (trip hazard). * Resolution: Entering, crossing, or being forced into a hazard triggers an immediate active roll (e.g. Save 🫀 or Poisoned, Save 🏃 or fall into pit, Save ✨ or 2d6 Dmg).
+A Hazard is an environmental feature, battlefield obstacle, dangerous terrain situation, or trap that can either initiate an Affliction, trigger damaging, and/or Resistance roll.
+
+* Examples: Pit traps, walls of fire, pools of lava, collapsing ceilings, toxic gas clouds, slippery ice, or very rough ground (trip hazard).
+
+* Resolution: Entering, crossing, or being forced into a hazard triggers an immediate active roll (e.g. Save 🫀 or Poisoned, Save 🏃 or fall into pit, Save ✨ or 2d6 Dmg, Def & AR roll, etc.).
 
 #### 🩸 Affliction (💀)
 
-An Affliction is an ongoing physical, physiological, mental, or magical ailment or condition suffered by a target (character or monster). The afflicted target gets to roll versus the affliction each round to try and recover or end the affliction. * Defined Afflictions in SupaFlex: Poison, Disease, Death (via Death Checks), Burning, Weakness / Weakened, Suffocation, Held, Immobilized, Stunned, Paralyzed, Frozen, Blinded. * The Zero-Duration Rule: Afflictions NEVER have a fixed multi-round duration string (never "Stunned for 1 rnd" or "Weakened for encounter"). They persist dynamically until the target successfully saves or dies. * Character Affliction Recovery: When a character suffers from an affliction, they immediately get to make the indicated recovery roll (e.g. 🫀^20, Resist Death^-Vit+5, 💪^💪, etc.) as an Act(F) upon infliction, and on each of the character's Nishes (🚩) until the character succeeds or dies. * Monster Affliction Recovery: Under the Player-Only Rolling Doctrine, monsters NEVER roll dice. When a monster is afflicted, the character who inflicted it rolls the designated check (e.g. 💪^💪 or 👁️^🫀) immediately upon infliction, and on each of that character's Nishes (🚩) to see if the monster is still afflicted or breaks free. * Fatigue Wounds vs. Affliction Triggers: If an Affliction triggers upon inflicting Wounds (🩸), Fatigue Wounds do NOT trigger the affliction (as fatigue bruising/tiring implies no skin piercing or toxin delivery). However, if the target's Armor (AR 🧥) fails to absorb all rolled Damage, the weapon has pierced flesh, and the affliction applies normally.
+An Affliction is an ongoing physical, physiological, mental, or magical ailment or condition suffered by a target (character or monster). The afflicted target gets to roll versus the affliction immediately, and if failed, each Nish🚩 to try and recover or end the affliction.
+
+* Afflictions Examples: Poison, Disease, Death (via Death Checks), Burning, Weakness, Suffocation, Held, Immobilized, Stunned, Paralyzed, Frozen, Blinded, etc..
+
+* Character Affliction Recovery: When a character suffers from an affliction, they immediately get to make the indicated recovery roll (e.g. 🫀^20, Resist Death^-Vit+5, 💪^💪, etc.) as an Act(F) upon infliction, and on each of the character's Nishes (🚩) until the character succeeds or dies.
+
+* Monster Affliction Recovery: Under the Player-Only Rolling Doctrine, monsters NEVER roll dice. When a monster is afflicted, the character who inflicted it rolls the designated check (e.g. 💪^💪 or 👁️^🫀) immediately upon infliction, and on each of that character's Nishes (🚩) to see if the monster is still afflicted or breaks free.
+
+* Fatigue Wounds vs. Affliction Triggers: If an Affliction triggers upon inflicting Wounds (🩸), Fatigue Wounds do NOT trigger the affliction (as fatigue bruising/tiring implies no skin piercing or toxin delivery). However, if the target's Armor (AR 🧥) fails to absorb all rolled Damage, the weapon has pierced flesh, and the affliction applies normally.
 
 #### 📉 Weakness or Weakened Affliction
 
-When a target suffers from the Weakness or Weakened Affliction: 1. All Active Rolls Disadvantaged: All of the target's active rolls (Attack checks, Defense checks, Attribute checks, and Saves) are rolled at Disadvantage (roll 2L20 for skilled checks; or roll twice and take the lower die). If a monster is Weakened, any player character rolling against that monster rolls at Advantage (2H20) per the Monster Inversion Doctrine. 2. Movement Rate Halved (Rounded Up): The target's Movement Rate (👣) is halved, rounded up (e.g. 👣5 becomes 👣3, 👣3 becomes 👣2; minimum 1 sq). 3. No Effect on Damage or Armor: Weakened has NO effect on rolls or stats that cannot be disadvantaged, such as weapon Damage rolls (Dmg 💥) or Armor absorption rolls (AR 🧥).
+When a target suffers from the Weakness or Weakened Affliction:
 
-### 2. Rationale (The Why)
+1. All Active Rolls Disadvantaged: All of the target's active rolls (Attack checks, Defense checks, Attribute checks, and Saves) are rolled at Disadvantage (roll 2L20 for skilled checks; or roll twice and take the lower die). If a monster is Weakened, any player character rolling against that monster rolls at Advantage (2H20) per the Monster Inversion Doctrine.
 
-Separating environmental catalysts (Hazards) from biological/magical states (Afflictions) eliminates confusion over when checks occur. Defining recovery checks on Nishes preserves round-by-round tension without requiring round-counter tokens. Disadvantage for Weakened provides clean polyhedral debuffing without mid-turn math subtraction.
+2. Movement Rate Halved (Rounded Up): The target's Movement Rate (👣) is halved, rounded up (e.g. 👣5 becomes 👣3, 👣3 becomes 👣2; minimum 1 sq).
 
-### 3. Failure Mechanism (The What Breaks)
-
-Conflating hazards and afflictions leads to players attempting to "save vs. lava" to cure burns or tracking arbitrary multi-round timers. Subtracting flat numbers (-2) for Weakened creates calculation drag and breaks advantage/disadvantage parity.
+3. No Effect on Damage or Armor: Weakened has NO effect on rolls or stats that cannot be disadvantaged, such as weapon Damage rolls (Dmg 💥) or Armor absorption rolls (AR 🧥).
 
 ### 🎲 Universal Roll Required Doctrine
 
-In SupaFlex, rarely if ever does a target (friend, foe, or PC) simply have an unavoidable negative effect or damage applied passively without an active check or saving throw. Hostile effects, conditions, and area attacks should almost ALWAYS involve an active roll (e.g. Save ✨ or Dmg ✨, Save 🫀 or Poisoned, Atk 👁️ Dmg d8).
+In SupaFlex, rarely does a target (friend, foe, or PC) simply have an unavoidable negative effect or damage applied passively without an active check, saving throw, or C or T trigger. Hostile effects, conditions, and area attacks should almost ALWAYS involve an active roll (e.g. Save ✨ or Dmg ✨, Save 🫀 or Poisoned, Atk 👁️ Dmg d8).
 
 ## 🍀 Luck
 
-#### 🍀 The Luck Twist (Rule of 1)
+#### 🍀 Luck Twist
 
-When activating any Power🔥 or Artifact🔮, a player may spend 1 Luck chit (🍀) from their pool to apply a dynamic "Rule of 1" modification (+1 / -1) to that activation.
+When activating any Power🔥 or Exotic🧿, a player may spend 1🍀 from their pool to apply a dynamic modification (+1 / -1) to that activation.
 
-Permitted "Rule of 1" Modifications (Pick One per Luck Chit): * +1 Spark: Immediately gain +1 Spark (Spark Charge) toward your Bolt gauge (Limit: Max 2 converted per round). * -1 Action Budget: Compress action cost by 1 step (AM → A → M → P → F). (e.g., Activate an Attack (A) power as a Partial (P) action). * +1 Target: Add +1 target to the power or artifact's effect. (e.g., Strike 2 adjacent foes with a single-target melee/spell power). * +1 Die Tier: Increase damage or healing die by 1 die step (d4 → d6 → d8 → d10 → d12). * +1 Range Band: Expand range by 1 Range Band (Touch → Short → Medium → Long → Extreme). * +1 Push / Move: Add +1 sq to any movement, push, or pull effect.
+Permitted Modifications (Pick One per Luck Chit):
 
-Play & Integration Rules: * Limit: Maximum 1 Luck Twist (🍀) per power/item activation (cannot stack multiple Luck chits on the exact same roll/activation). * The Luck-for-Bolt Substitution Mandate (1 per Encounter): * Rule (The What): Per encounter, a player may expend 1 Luck box/chit (🍀) directly in place of a Bolt (⚡) to activate any 1-⚡ Power, Artifact, or Tactical Pivot. However, this substitution may be used ONLY ONCE per encounter without GM approval. Any subsequent Luck-for-Bolt substitutions within the same encounter strictly require explicit GM authorization. * Rationale (The Why): High-impact tactical powers (1-⚡) require momentum (accumulating 5 sparks through nat 20s, nat 1s, or exploding dice). In climactic or fast-paced boss encounters where dice momentum has not yet built 5 sparks, burning a precious narrative resource (Luck chit) enables heroic cinematic intervention. Capping this at once per encounter without GM approval prevents players from bypassing the spark engine entirely to spam high-impact abilities. * Failure Mechanism (The What Breaks): Prohibiting Luck substitution entirely causes 1-⚡ powers to go unused in short or unlucky encounters, frustrating players. Allowing unlimited Luck substitutions without GM permission breaks the action-economy pacing and encourages draining Luck reserves for consecutive alpha strikes. * Instant Adjudication: No character sheet editing required. Simply announce: "I'm burning a Luck chit 🍀 for a +1 Target / -1 Action Budget Twist!" * Artifact Parity: Applies 100% identically to both Powers (🔥) and Artifacts (🔮).
+* 
+* 
+* * +1 Target: Add +1 target to the power or artifact's effect. (e.g., Strike 2 adjacent foes with a single-target melee/spell power). This does not allow a multi target (e.g. 3) to become 6, rather 3 would become 4.
+* * +1 Die Tier: Increase damage or healing die by +1d (d4 → d6 → d8 → d10 → d12).
+* * +1 Range Band: Expand range by 1 Range Band (Touch → 1sq, 2sq, 3sq, Short → Medium → Long → Extreme).
+* * +1 Push / Move Etc.: Add +1 sq to any movement, push, or pull effect or similar.
 
-Default Use: Reroll entire roll (all dice), keep best (original or reroll).
+Play & Integration Rules:
 
-Cannot reroll partial dice (must reroll all involved dice).
+* Limit: Maximum 1 Luck Twist (🍀) per power/item activation (cannot stack multiple Luck chits on the exact same roll/activation).
 
-Cannot reroll if a Critical💀 occurs.
+The Luck-for-Bolt Substitution (1 per Encounter):
 
-Cannot use more than once on a particular roll (no “second Luck🍀”).
+* Per encounter, a player may expend 1 Luck 🍀 directly in place of a Bolt (⚡) to activate any 1-⚡ Power, Artifact, or Tactical Pivot. However, this substitution may be used ONLY ONCE per encounter without GM approval . Any subsequent Luck-for-Bolt substitutions within the same encounter strictly require explicit GM authorization.
 
-Focus vs. Luck (Strict Mutual Exclusivity): A player may use Focus OR Luck on a single roll, but NEVER BOTH. * Luck (🍀): Redo the whole roll (pure variance mitigation). * Focus (🎯): Add to the roll already made (deliberate agency/boost).
+Default 🍀Use: Reroll entire roll (all dice), keep best (original or reroll).
+
+* Cannot reroll partial dice (must reroll all involved dice).
+* Cannot reroll if a Critical💀 occured.
+* Cannot use more than once on a particular roll (no “second Luck🍀”).
+
+* Focus (🎯): Add to the roll already made (deliberate agency/boost).
 
 Starting Luck🍀: 3 chits.
 
 Earning Luck🍀: Awarded for cool, funny, or heroic play (max 5).
 
-Other Uses: May be spent for special learned Luck Powers🔥 (e.g., Lucky Dodge, Inspire Ally, Twist of Fate) or used once per encounter in place of a Bolt (⚡) to activate a 1-⚡ ability or Tactical Pivot.
+Other Uses: May be spent for special learned Luck Powers🔥 (1-🍀) or used once per encounter in place of a Bolt (⚡) to activate a 1-⚡ abilityt.
 
-## 🧿 Exotics & The Lineage Hierarchy
+## 🧿 Exotics
 
-⚡ Quick Reference: Exotics & The Lineage Hierarchy {#equipment-loadout}
+⚡ Quick Reference: Exotics
 
-Universal Equipment Taxonomy: * Master Gear Category — Gear (⚙️) is the master category for all physical items. * Standard Gear — Mundane or high-tech equipment with zero combat abilities (priced in g/s). * Exotics (🧿) — Tactical combat abilities granted by physical gear or installed mods. * Artifacts (🔮) — Legendary treasures carrying unique exotics or abilities (Cost = "Artifact").
+Universal Gear⚙️ Taxonomy:
 
-Learning & AP Costs: * Standard Exotics — Cost 1 AP to learn from owned host gear or installed mods. * Free Abilities (⭕) — Inherent baseline survival/environmental abilities cost 0 AP. * No Slot Caps — There are no capacity slots or readiness limits on learned exotics. * Refund at Will — Unlearning an exotic immediately refunds 100% of invested AP.
+* * Gear (⚙️) is the master category for all physical items.
+* * Standard Gear — Non-Exotic🧿 equipmen
+* * Exotics (🧿) — Gear with.
+* * Artifacts (🔮) — Legendary treasures carrying unique exotic🧿 abilities (Cost = "Artifact").
 
-SupaFlex eliminates weight math, bulk values, and movement rate penalties. A character’s tactical equipment capabilities are organized through a clean, physical Lineage Hierarchy Tree:
+Learning & AP Costs:
 
-[ ⚙️ OWNED GEAR CHASSIS ]
+* Exotics🧿 — Inherent Mods are free, others cost g/s. Exotic Powers Cost 1 AP to learn.
 
-(Weapons, Armor, Shields, Gear)
+* Unlearning an exotic immediately refunds 100% of invested AP.
 
-│
+SupaFlex eliminates weight math and encumberance.
 
-┌──────────────────────────────┴──────────────────────────────┐
+Exotics🧿 Tree :
 
-▼ ▼
+[ 🧿EXOTIC ] (Weapons, Armor, Shields, Supplies) │ ┌──────────────────────────────┴──────────────────────────────┐ ▼ ▼ [ 📦 INHERENT MOD ] [ 🔌 INSTALLED MODS ] (Factory Inherent Capabilities) (Aftermarket Modules with g/s Cost) │ │ ▼ ▼ [ 🧿 EXOTICS (1 AP) ] [ 🧿 EXOTICS (1 AP) ] (Active Combat Rules Execution) (Active Combat Rules Execution)
 
-[ 📦 INHERENT ] [ 🔌 INSTALLED MODS ]
+#### 1. The Universal Learning Model & Ownership Lineage
 
-(Factory Inherent Capabilities) (Aftermarket Modules with g/s Cost)
+* Physical Ownership Gate: Characters cannot browse Artifacts🔮 but must find them as loot.. To access an Exotic🧿 the character must physically own the host gear item in their inventory.
+* Universal 1 AP Learning: Every standard Exotic🧿 power costs exactly 1 AP to learn..
+* Installed Mod Dependency: Exotics🧿 Powers are tied to a specific modification (Mod: [Name]) requiring that mod to be installed on the host gear item before the power can be learned.
+* 
+* Unlearn / AP Refund: Players may unlearn a learned Exotic at any time, immediately refunding the initial 1 AP per Exotic🧿 Power plus all cumulative version AP back to their character's available AP pool.
 
-│ │
-
-▼ ▼
-
-[ 🧿 EXOTICS (1 AP) ] [ 🧿 EXOTICS (1 AP) ]
-
-(Active Combat Rules Execution) (Active Combat Rules Execution)
-
-#### 1. The 1-AP Universal Learning Model & Ownership Lineage
-
-* Physical Ownership Gate: Characters cannot learn or browse unowned catalog hardware in the Exotics Card or manager. To access an Exotic, the character must physically own the host gear item in their inventory (simple_gear).
-* Universal 1 AP Learning: Every standard Exotic costs exactly 1 AP to learn. Essential environmental/mundane abilities marked as Free ⭕ cost 0 AP.
-* Installed Mod Dependency: Exotics tied to a specific modification (Mod: [Name]) require that mod to be installed on the host gear item before the power can be learned.
-* In-Modal Mod Commerce: To minimize modal bouncing, players can purchase and install compatible mods with Gold/Silver directly inside the Exotics Manager catalog drawer.
-* Unlearn / Refund at Will: Players may unlearn a learned Exotic at any time, immediately refunding the initial 1 AP plus all cumulative version AP back to their character's available AP pool.
-
-#### 2. The 2-Level Expandable Hierarchy Tree
-
-Across the Character Sheet Main Card (GearPowersCard), the ManageGearPowersModal, and the GearCard (Gear Manager), equipment capabilities are organized in an intuitive 2-level expandable tree: * Level 1 (Host & Mods): Displays the host gear chassis with expandable drawer showing 📦 Inherent (with ℹ️ notes popover) and all compatible/installed mods (✓ [Mod Name] with ℹ️ notes popover). * Level 2 (Exotics): Underneath each mod or inherent node, displays the actionable Exotics featuring: * Action Badges: Standard action badges ([A], [M], [P], [F], [AM]). * Usage Cadence: Standard frequency (1-Enc, 1-⚡, 1-Rnd, Continuous). * Interactive Combat Checkboxes: Live on-card checkboxes tracking encounter usages. * Rules Effect: Full, un-truncated tactical effect string.
-
-#### 3. Streamlined Header & Combat Usages
-
-The Exotics Card header features a clean, high-density HUD layout: * Interactive Header & Pencil Button: Clicking either the title (🧿 EXOTICS) or the canonical minimalist pencil button (✏️) opens the Exotics Manager modal. * Centered Clear Uses Action: A mathematically centered 🔄 Clear Uses button positioned in the exact horizontal middle of the header bar to instantaneously reset all tracked usage checkmarks at the start of an encounter or after a breather.
-
-#### 4. Exotic Gear Manager Architecture & In-Modal Commerce Rules
-
-* Unified Single Large Pane: The Exotic Gear Manager (ManageGearPowersModal.tsx) uses a unified single large scrollable pane matching the visual hierarchy of the on-sheet Exotic Gear card. It catalogs all physically owned gear that features compatible mods, installed mods, or inherent exotics (Exotics, Artifacts, and moddable gear).
-* Inline Mod Purchasing & Installation: Compatible mods render with actionable green + Buy [cost] buttons positioned immediately inline after the mod name and ℹ️ icon (eliminating wide horizontal scanning across empty space). Clicking checks character funds via parseCostToSilver and deducts gold/silver, adding the mod to installed_mods. If unaffordable, the button is greyed out with an explanatory shortfall tooltip. Owned or installed mods display an inline gold Installed badge alongside a trashcan button (Trash2) to uninstall the mod.
-* 1-AP Universal Power Learning: Powers under installed mods (or inherent chassis nodes) feature actionable green + Learn (1 AP) buttons. When learned, this transitions into a gold Known badge accompanied by a pencil button (✏️) to launch the Version Editor and a trashcan button (Trash2) to unlearn the power (refunds initial 1 AP + all cumulative version AP). Powers under uninstalled mods are disabled until the mod is purchased.
-* Color Standardization: Actionable purchase/learning buttons (+ Buy, + Learn) strictly use Green (bg-emerald-600), while ownership/learning badges (Installed, Known) strictly use Gold (bg-amber-950/80 text-amber-300 border-amber-500/50).
-* Version Editor Drawer Popover: Clicking the pencil icon on any power card opens a half-width popover drawer sliding in from the right edge of the modal. Players can customize action types, usage frequencies, effect text with inline icons, and save/learn upgraded versions on an escalating AP scale (Version # - 1 AP: v2 = 1 AP, v3 = 2 AP, v4 = 3 AP, etc.) without closing the manager.
-* Deletion & AP Refund Invariant:
-* Chassis Deletion: Dropping a gear item removes the chassis from simple_gear, uninstalls all mods, unlearns all learned powers on that chassis or its mods, and refunds all invested AP (initial 1 AP + all cumulative version AP: 1 + (V - 1) * V / 2 AP) per learned power logged in ap_log. Currency is non-refundable.
-* Mod Uninstallation: Clicking trashcan on an installed mod removes it from installed_mods (tracking in removed_mods if inherent), unlearns all powers associated with that mod, and refunds all AP invested in those powers (initial 1 AP + cumulative version AP) to ap_log. Currency is non-refundable.
-* Power Unlearning: Clicking trashcan on a learned power unlearns it from spell_slots and refunds all invested AP (initial 1 AP + cumulative version AP) to ap_log.
+* 
 
 #### 5. Multi-Genre Parity Matrix
 
 | Category | High Fantasy | Modern / Delta Green | Cyberpunk | Space Opera / Sci-Fi |
 | --- | --- | --- | --- | --- |
-| Mundane Gear | Rope, Torch, Flint | Phone, Zip-ties, Flashlight | Credstick, Multi-tool | Comms Beacon, Rebreather |
-| Free Ability ⭕ (0 AP) | Candle Spark [P], Clean Water [A] | Penlight [F], Radio Earbud [P] | Sub-Dermal Comms [P], Biomonitor [P] | Atmospheric Scrubber [P], Nav-Beacon [P] |
-| Standard Exotics 🧿 (1 AP) | Wand of Sparks [A], Boots of Speed [M], Flaming Greatsword [A] | Taser [A], Night-Vision [P], Tactical Exosuit [P] | Plasma Torch [A], Optical Camo [M], Smart-Lens [P] | Personal Deflector [P], Jetpack [M], Combat Drone [A] |
+| Standard Gear | Rope, Torch, Flint | Phone, Zip-ties, Flashlight | Credstick, Multi-tool | Comms Beacon, Rebreather |
+| Exotics 🧿 | Wand of Sparks, Boots of Speed, Flaming Greatsword | Taser, Night-Vision , Tactical Exosuit | Plasma Torch , Optical Camo, Smart-Lens | Personal Deflector], Jetpack, Combat Drone |
 
-#### 6. Master Techniques & Signature Devices
-
-* 🔥 Exotics Burn (Master Technique • 5 AP): As a Free Action [F], a character with this Master Technique can push any active Exotic (🧿) item to output its maximum effect for 1 round. At the end of the round, the item's core melts into inert slag and is destroyed. (Does not apply to flat consumables with usage 1, 2, or 3).
-* 🖨️ Omni-Fab (1 AP Exotic Power): Usage: 3-Enc, Action: [P]. Materializes any mundane utility tool or standard field supply on the fly. The materialized item dissolves at the end of the encounter. Cost: 150s.
+* 
 
 ## 💎 Chaos Gauntlet & Chaos Gems
 
-The Chaos Gauntlet is an arcane or hyper-tech harness capable of focusing volatile Chaos Gems. It features six Chaos Gem slots: * 👑 Wrist "Mega Slot" (1 Slot): The primary focal conduit of the gauntlet. * 🖐️ Finger Slots (5 Slots): Thumb, Index, Middle, Ring, and Pinky conduits.
+The Chaos Gauntlet is an astral, ethereal, arcane harness capable of focusing volatile Chaos Gems. It features six Chaos Gem slots :
+
+* * 👑 Wrist "Mega Slot" (1 Slot): The primary focal slot of the gauntlet.
+* * 🖐️ Finger Slots (5 Slots): Thumb, Index, Middle, Ring, and Pinky slots.
 
 ### 📜 Core Rules & Invariants
 
@@ -1950,16 +1734,20 @@ The Chaos Gauntlet is an arcane or hyper-tech harness capable of focusing volati
 1. Permanent Destruction on Removal: Sockets form an irrevocable metaphysical fusion upon insertion. Removing a gem from a Chaos Gauntlet immediately shatters and destroys it.
 1. Usage & Destruction at Zero:
 1. Chaos Gems start with 3 uses (usage values: 3, 2, 1).
-1. When a gem reaches 0 uses, its energy matrix collapses and the gem is permanently destroyed.
-1. Action Economy & Rate of Use:
-1. Activating a Chaos Gem is a Free Action (F).
-1. Only 1 Chaos Gem may be used per combat round without explicit GM approval.
-1. Wrist Mega Slot & Bolt Synergy:
-1. The Wrist Mega Slot Gem operates like any standard gem, but with a unique empowered resonance: it can ALSO be activated by spending a Bolt (⚡) instead of deducting from the gem's remaining usage count, preserving its durability.
+1. When a gem reaches 0 uses , its energy matrix collapses and the gem is permanently destroyed .
+
+Action Economy & Rate of Use:
+
+1. Activating a Chaos Gem is a Free Action (F) .
+1. 
+
+Wrist Mega Slot & Bolt Synergy:
+
+1. The Wrist Mega Slot Gem operates like any standard gem, but with a unique empowered resonance: it can ALSO be activated by spending a Bolt (1-⚡) instead of deducting from the gem's remaining usage count, preserving its durability.
 
 💡 Tip
 
-Single Source of Truth Catalog: All 97 canonized Chaos Gems are maintained in the Supabase database. Browse the interactive catalog or manage your hero's gauntlet directly within the SupaFlex Character Sheet.
+Single Source of Truth Catalog: . Browse the interactive catalog or manage your hero's gauntlet directly within the SupaFlex Character Sheet.
 
 ## 📊 System Tables & Catalogs
 
@@ -1987,19 +1775,19 @@ Single Source of Truth Catalog: All 97 canonized Chaos Gems are maintained in th
 
 💡 Tip
 
-All SupaFlex game tables—including Weapons⚔️, Armor🧥, Shields🛡️, Gear🧰, Monsters🐉, Powers🔥, Artifacts🔮, Skill Sets🎓, and Treasure💰—have been migrated to our structured database catalog. - Browse the [Interactive Tables Catalog](https://www.google.com/url?q=https://www.google.com/url?q%3Dhttp://docs.google.com/player-guide/supaflex/tables%26sa%3DD%26source%3Deditors%26ust%3D1791310779660564%26usg%3DAOvVaw289pzQqJgVH8y4iyn-ib9D&sa=D&source=editors&ust=1791310867734270&usg=AOvVaw0zw0TuCN3oJFJDWyMS40sx) to filter, search, and view all game stats dynamically. - Or explore individual reference manuals: - ⚔️ [Weapons Reference Manual](https://www.google.com/url?q=https://www.google.com/url?q%3Dhttp://docs.google.com/player-guide/supaflex/weapons%26sa%3DD%26source%3Deditors%26ust%3D1791310779660746%26usg%3DAOvVaw0cwOjAYvlonzhsVw4L2w1H&sa=D&source=editors&ust=1791310867734701&usg=AOvVaw3YVAyXUjllrsLM_UwtHSE-) - 🧥 [Armor Reference Manual](https://www.google.com/url?q=https://www.google.com/url?q%3Dhttp://docs.google.com/player-guide/supaflex/armor%26sa%3DD%26source%3Deditors%26ust%3D1791310779660851%26usg%3DAOvVaw3onPtg0nXXD8qF0ueg5qMH&sa=D&source=editors&ust=1791310867734888&usg=AOvVaw1-JCfYuNQezXiJNZ42aqE0) - 🛡️ [Shields Reference Manual](https://www.google.com/url?q=https://www.google.com/url?q%3Dhttp://docs.google.com/player-guide/supaflex/shields%26sa%3DD%26source%3Deditors%26ust%3D1791310779660981%26usg%3DAOvVaw2OwQcwAnEsTwQqzASqRxBV&sa=D&source=editors&ust=1791310867735080&usg=AOvVaw19rVRCkadQ25SJyxmyQlOr) - 🧰 [Gear Catalog](https://www.google.com/url?q=https://www.google.com/url?q%3Dhttp://docs.google.com/player-guide/supaflex/gear%26sa%3DD%26source%3Deditors%26ust%3D1791310779661075%26usg%3DAOvVaw2AJB2rENlAMFhKX0RMXLmC&sa=D&source=editors&ust=1791310867735239&usg=AOvVaw2SWNUOGG0-9CdXJEr1bq4b) - 🐉 [Monsters Bestiary](https://www.google.com/url?q=https://www.google.com/url?q%3Dhttp://docs.google.com/player-guide/supaflex/monsters%26sa%3DD%26source%3Deditors%26ust%3D1791310779661151%26usg%3DAOvVaw1L4AuSvUQQyyslUWxkn905&sa=D&source=editors&ust=1791310867735391&usg=AOvVaw2q7wiIq7Ue-iWGZ9t0F9pM) - 🔥 [Powers Reference Manual](https://www.google.com/url?q=https://www.google.com/url?q%3Dhttp://docs.google.com/player-guide/supaflex/powers%26sa%3DD%26source%3Deditors%26ust%3D1791310779661228%26usg%3DAOvVaw2iCsgeH_jISDoGGNmOr5bv&sa=D&source=editors&ust=1791310867735541&usg=AOvVaw21UM6cJudy7joyfj_eo4CJ) - 🔮 [Artifacts Catalog](https://www.google.com/url?q=https://www.google.com/url?q%3Dhttp://docs.google.com/player-guide/supaflex/magic-items%26sa%3DD%26source%3Deditors%26ust%3D1791310779661303%26usg%3DAOvVaw15-ebeFfxCgbREtD3PRiC9&sa=D&source=editors&ust=1791310867735707&usg=AOvVaw1Pd1iR8xJadNQ0i0omdgF8) - 🎓 [Skill Sets Directory](https://www.google.com/url?q=https://www.google.com/url?q%3Dhttp://docs.google.com/player-guide/supaflex/skillsets%26sa%3DD%26source%3Deditors%26ust%3D1791310779661379%26usg%3DAOvVaw24yKW7wkllXiMrKIPH34wj&sa=D&source=editors&ust=1791310867735880&usg=AOvVaw3Y9TZSpLRvhu11xXxU9uOb) - 💰 [Treasure Tables & Loot Matrix](https://www.google.com/url?q=https://www.google.com/url?q%3Dhttp://docs.google.com/player-guide/supaflex/tables%26sa%3DD%26source%3Deditors%26ust%3D1791310779661483%26usg%3DAOvVaw00o33QNe-mHYwJER1oKhX5&sa=D&source=editors&ust=1791310867736071&usg=AOvVaw1ZOTp5EtU116b7l4qTqnyX)
+All SupaFlex game tables—including Weapons⚔️, Armor🧥, Shields🛡️, Gear⚙️, Monsters🐉, Powers🔥, Artifacts🔮, Skill Sets🎓, and Treasure💰—have been migrated to our structured catalog. - Browse the [Interactive Tables Catalog](https://www.google.com/url?q=http://docs.google.com/player-guide/supaflex/tables&sa=D&source=editors&ust=1791312239443085&usg=AOvVaw3vlUGFq8WK_cN6ubVxT64B) to filter, search, and view all game stats dynamically. - Or explore individual reference manuals: - ⚔️ [Weapons Reference Manual](https://www.google.com/url?q=http://docs.google.com/player-guide/supaflex/weapons&sa=D&source=editors&ust=1791312239443299&usg=AOvVaw0rK1jEfwErMudYtE9F_8io) - 🧥 [Armor Reference Manual](https://www.google.com/url?q=http://docs.google.com/player-guide/supaflex/armor&sa=D&source=editors&ust=1791312239443389&usg=AOvVaw28wWJrx-_rIaZuioHfwAVt) - 🛡️ [Shields Reference Manual](https://www.google.com/url?q=http://docs.google.com/player-guide/supaflex/shields&sa=D&source=editors&ust=1791312239443483&usg=AOvVaw1tjqA4ks3jSulTMBJLBB1R) - ⚙️ [Gear Catalog](https://www.google.com/url?q=http://docs.google.com/player-guide/supaflex/gear&sa=D&source=editors&ust=1791312239443576&usg=AOvVaw29Oo2v-FDKdtXY5EOkmHfK) - 🐉 [Monsters Bestiary](https://www.google.com/url?q=http://docs.google.com/player-guide/supaflex/monsters&sa=D&source=editors&ust=1791312239443660&usg=AOvVaw3X5Us5OiwurRLDxFVQmuTI) - 🔥 [Powers Reference Manual](https://www.google.com/url?q=http://docs.google.com/player-guide/supaflex/powers&sa=D&source=editors&ust=1791312239443763&usg=AOvVaw1ULygli9wSlO-Z3_QAWCeX) - 🔮 [Artifacts Catalog](https://www.google.com/url?q=http://docs.google.com/player-guide/supaflex/magic-items&sa=D&source=editors&ust=1791312239443877&usg=AOvVaw0YVdX_Z4sZVw5kvbZ8EoOf) - 🎓 [Skill Sets Directory](https://www.google.com/url?q=http://docs.google.com/player-guide/supaflex/skillsets&sa=D&source=editors&ust=1791312239443975&usg=AOvVaw34FjL1MincqSBnZcGVZUQw) - 💰 [Treasure Tables & Loot Matrix](https://www.google.com/url?q=http://docs.google.com/player-guide/supaflex/tables&sa=D&source=editors&ust=1791312239444070&usg=AOvVaw0yPV84ATkOykP4YXI1RLkV)
 
-## 🐉 Monster Manual
+## 🐉 Monsters Bestiary
 
-The complete bestiary of monsters, stats, initiative flags, attributes, and special abilities is hosted in our online [Monsters Bestiary](https://www.google.com/url?q=https://www.google.com/url?q%3Dhttp://docs.google.com/player-guide/supaflex/monsters%26sa%3DD%26source%3Deditors%26ust%3D1791310779661820%26usg%3DAOvVaw0x1kNvjf-6ZCo1ksTEbJ4m&sa=D&source=editors&ust=1791310867736722&usg=AOvVaw1sqmZfTvc8xEinI5xqJdCz) and the [Interactive Tables Catalog](https://www.google.com/url?q=https://www.google.com/url?q%3Dhttp://docs.google.com/player-guide/supaflex/tables%26sa%3DD%26source%3Deditors%26ust%3D1791310779661984%26usg%3DAOvVaw3f-JWEh2MQ96Rxkv3x7t7u&sa=D&source=editors&ust=1791310867736946&usg=AOvVaw3PB5KWdkoxyHpU_Ao6BwNb) .
+The complete bestiary of monsters, stats, initiative flags, attributes, and special abilities is hosted in our online [Monsters Bestiary](https://www.google.com/url?q=http://docs.google.com/player-guide/supaflex/monsters&sa=D&source=editors&ust=1791312239444353&usg=AOvVaw0j8zCQY8RO2YZ-6VhQoZxM) and the [Interactive Tables Catalog](https://www.google.com/url?q=http://docs.google.com/player-guide/supaflex/tables&sa=D&source=editors&ust=1791312239444446&usg=AOvVaw29YT8Tba8BwSML1WVHlJPz) .
 
 ## 💰 Treasure
 
-If the encounter does not list specific treasure, a treasure roll is typical after any major encounter or after any encounter that would warrant treasure. If the encounter was minor, skip the roll or the roll could be 2L100; if major, allow multiple rolls (e.g. each player makes two rolls). GMs will find a treasure balance that works for their campaign.
+If the encounter does not list specific treasure, a treasure roll is typical after any major encounter or after any encounter that would warrant treasure. If the encounter was minor, skip the roll; if major, allow multiple rolls (e.g. each player makes two rolls). GMs will find a treasure balance that works for their campaign.
 
 💡 Tip
 
-Dynamic Treasure & Loot Matrix: All 5 treasure determination tables (Master d100, Gear Quality, Art & Gems, Curios & Documents, and Junk) reside in our single-source-of-truth database. - Roll loot dynamically using the [Loot Generator](https://www.google.com/url?q=https://www.google.com/url?q%3Dhttp://docs.google.com/player-guide/supaflex/tables%26sa%3DD%26source%3Deditors%26ust%3D1791310779662840%26usg%3DAOvVaw1nyy7XfUFjkBLigb78p6bd&sa=D&source=editors&ust=1791310867738424&usg=AOvVaw25iVb0eIoL3bcrlYSwMEx1) [Modal](https://www.google.com/url?q=https://www.google.com/url?q%3Dhttp://docs.google.com/player-guide/supaflex/tables%26sa%3DD%26source%3Deditors%26ust%3D1791310779662938%26usg%3DAOvVaw0_R3gOrYATSEqePMHBRybq&sa=D&source=editors&ust=1791310867738614&usg=AOvVaw1jHS-ozYN4PJzKrhWRTBTB) in SupaFlex. - View the complete treasure matrix in the [Interactive Tables Catalog](https://www.google.com/url?q=https://www.google.com/url?q%3Dhttp://docs.google.com/player-guide/supaflex/tables%26sa%3DD%26source%3Deditors%26ust%3D1791310779663065%26usg%3DAOvVaw0txZht1acVTRoR4ikRytbD&sa=D&source=editors&ust=1791310867738886&usg=AOvVaw0JRkf0ijqLhTkuRpCgzxXW) .
+Dynamic Treasure & Loot Matrix: - Roll loot dynamically using the [Loot Generator](https://www.google.com/url?q=http://docs.google.com/player-guide/supaflex/tables&sa=D&source=editors&ust=1791312239445025&usg=AOvVaw3eoQTQ0T7Oqh-VVOXy5_EU) in SupaFlex. - View the complete treasure matrix in the [Interactive Tables Catalog](https://www.google.com/url?q=http://docs.google.com/player-guide/supaflex/tables&sa=D&source=editors&ust=1791312239445200&usg=AOvVaw3MpV0iVIEu5XzIUIcfjo1F) .
 
 ### 🧪 Essence & Disenchanting Engine
 
@@ -2012,7 +1800,7 @@ Disenchanting an item returns Essence based on item category:
 | Item / Drop Type | Disenchant Yield |
 | --- | --- |
 | Standard Gear / Valuables | +8% |
-| Exotic (🧿) | +15% |
+| Exotic non-Artifact(🧿) | +15% |
 | Chaos Gem (💎) | +15% |
 | Artifact (🔮) | +25% |
 
@@ -2027,11 +1815,11 @@ This section covers a number of great GM tricks and examples to help your game r
 
 ### Helper - Bleeder
 
-Assign one player as the “Bleeder.” The Bleeder is a GM helper who’s job it is to track all monster wounds for the GM. For example, if you use a write on board or mat, give them a red pen and if Orc A takes 5 Wnd🩸s it is the Bleeder’s responsibility to place a 5 next to Orc A. If that orc later takes another 3 Wnd🩸s, the Bleeder will change the 5 to 8. Also as you, the GM, move the monster around the board, it is the Bleeder’s responsibility to erase the old Wnd🩸 number and place it adjacent to the monster’s new location. Finally, you can assign the Bleeder (if they are an experienced gamer) or some other helper to track monster death. This helper will always ask you what the Vit❤️ of each monster type is and they’ll let everyone know when a monster should die due to Wnd🩸s being >= their Vit❤️. Once you train your Bleeder up, you are largely freed up, as GM, from this common set of tasks.
+Assign one player as the “Bleeder.” The Bleeder is a GM helper who’s job it is to track all monster wounds for the GM. For example, if you use a write on board or mat, give them a red pen and if Orc A takes 5 Wnds🩸 it is the Bleeder’s responsibility to place a 5 next to Orc A. If that orc later takes another 3 Wnds🩸, the Bleeder will change the 5 to 8. Also as you, the GM, move the monster around the board, it is the Bleeder’s responsibility to erase the old Wnd🩸 number and place it adjacent to the monster’s new location. Finally, you can assign the Bleeder (if they are an experienced gamer) or some other helper to track monster death. This helper will let everyone know when a monster should die due to Wnds🩸 being >= their Vit❤️. Once you train your Bleeder up, you are largely freed up, as GM, from this common set of tasks.
 
 ### Ranged Atk into Melee
 
-A great optional rule (for the experienced GM) is to place risk (danger) anytime a ranged weapon (hurled or shot) is used at a target engaged in melee. In the real world, melee is a highly agitated state of micro moves, dodges, etc. and it is very hard to target your intended victim and easy to hit your ally. So, the rule is, if that attacker misses the desired enemy target (normal Atk roll), they have a 50/50 chance of hitting their melee involved ally. Simply have them roll a d6 and 1-3 = Atk auto-hits ally (Roll normal Dmg and Ally rolls normal AR🧥).
+A great optional rule (for the experienced GM) is to place risk (danger) anytime a ranged weapon (hurled or shot) is used at a target engaged in melee. In the real world, melee is a highly agitated state of micro moves, dodges, etc. and it is very hard to target your intended victim and easy to hit your ally. So, the rule is, if that attacker misses the desired enemy target (thierl Atk roll fails), they have a 50/50 chance of hitting their melee involved ally. Simply have them roll a d6 and 1-3 = Atk auto-hits ally (Roll normal Dmg and Ally rolls normal AR🧥).
 
 ### Random Direction
 
@@ -2041,16 +1829,9 @@ Often you will need to determine a random direction such as when someone is disa
 
 Simple version - when a character falls, the GM assigns an amount of Dmg (e.g. 10) and the player rolls AR🧥 vs that Dmg. There is no Def as you cannot block or dodge the ground - it will Hit you!
 
-I roughly base the Dmg on feet fallen and landing surface (bolder field vs spikes vs sand vs water, etc.). I also reduce the Dmg if the jump was intentional or if the character hung down from a ledge and then dropped the rest of the distance, etc. Finally, realize that setting falling Dmg at 20 is much worse than setting it at 10 as no normal AR🧥 can absorb up all of Dmg 20, but larger armor can absorb most or all of Dmg 10 on a good roll. So Dmg is NOT linear from a character’s point of view.
+I roughly base the Dmg on feet fallen and landing surface (bolder field vs spikes vs sand vs water, etc.). I also reduce the Dmg if the jump was intentional or if the character hung down from a ledge and then dropped the rest of the distance, etc. Finally, realize that setting falling Dmg at 20 is much worse than setting it at 10 as fewl AR🧥 rolls can absorb Dmg 20, but larger armor can absorb most or all of Dmg 10 on a good roll. So Dmg is NOT linear from a character’s point of view.
 
-### 🦘 Jumps & Leaping Mechanics
-
-* Rule (The What):
-* Standing Jump (Move Action M): A character may jump a distance of d👣 squares (or increments of 5 ft) as a standard Move (M) action, rolling their Movement Rate die (d(MR) ≤ MR, e.g. MR 6 rolls a d6).
-* Running Jump (Attack & Move Action AM): A running jump allows the character to run up to their full Movement Rate (MR 👣) on the ground and then leap an additional d👣 squares in the air, resolved as a full Attack & Move (AM) action.
-* Exploding Jump Dice: Like all flat attribute and movement dice, d👣 explodes on its maximum face unless specifically noted otherwise.
-* Rationale (The Why): Jumping distance must scale from the character's Movement Rate (d👣 / d(MR) where die <= MR), rather than the Motion attribute die (d🏃). If jumps were governed by d🏃, high-Motion characters would roll larger dice (d10–d12) than their entire normal ground movement rate (typically 6), making it mechanically optimal to jump everywhere for standard Move actions instead of walking or running. Tying jumping to d👣 ensures a standing leap (e.g. d6 for MR 6) naturally remains within normal movement bounds while still allowing explosive leaps that can clear chasms.
-* Failure Mechanism (The What Breaks): Using d🏃 creates a bizarre tactical exploit where high-Motion characters hop constantly across battle maps because jumping yields greater average distance than walking for a single Move action.
+* 
 
 ### Avoid Auto-Hazards
 
@@ -2058,27 +1839,15 @@ Yes, there are a number of auto-hit, or “PC takes Dmg with no AR🧥” etc., 
 
 ### Difficulty Setting
 
-Yes, the GM setting a difficulty is already the default rule and well explained. However, be VERY careful about slipping into numeric based logic for coming up with difficulties as this will often trap you into a much more complex (and often unbalanced) and nearly always non-cinematic/heroic game. For example, if a PC has Acrobatics skill, do not set the difficulty of vaulting over a 6ft opponent at X and leaping every 5ft of distance as Y*sq, etc. This may seem like a good idea at first, but it rarely ends up being a good rule. Rather, set a difficulty for the vault or leap or acrobatic attempt based upon the situation and the character’s concept. This is VERY open ended, subjective, and will add much more flavor to your game as players learn that they can do things like, “I’m going to try to run down the hall, parcour run 5ft up that wall leap over that orc with a twisting vault and then land in front of the next Orc. The GM then assigns a single difficulty and the player makes a single roll. Much more cinematic, creative, open and does not lock you into looking up detailed tables or rules.
+Yes, the GM setting a difficulty is already the default rule and well explained. However, be VERY careful about slipping into numeric based logic for coming up with difficulties as this will often trap you into a much more complex (and often unbalanced) and nearly always non-cinematic/heroic game. For example, if a PC has Acrobatics skill, do not set the difficulty of vaulting over a 6ft opponent at X*2*ft and leaping every 5ft of distance as Y*sq, etc. This may seem like a good idea at first, but it rarely ends up being a good rule. Rather, set a difficulty for the vault or leap or acrobatic attempt based upon the situation and the character’s concept. This is VERY open ended, subjective, and will add much more flavor to your game as players learn that they can do things like, “I’m going to try to run down the hall, parcour run 5ft up that wall leap over that orc with a twisting vault and then land in front of the next Orc. The GM then assigns a single difficulty and the player makes a single roll. Much more cinematic, creative, open and does not lock you into looking up detailed tables or rules.
 
-Another reason for this is different GMs or settings, or games. If you are playing a more heroic (super hero) game, then leaping across a 20 ft chasm may be a low Dif. However, if you are playing a hyper realistic WWII based game, a 20ft leap may be impossible or nearly so. Tabling up such detail is rarely a good idea.
+Another reason for this is different GMs or settings, or games. If you are playing a more heroic (super hero) game, then climbing a smooth steel wall may be a low Dif. However, if you are playing a hyper realistic WWII based game, that same wall may be impossible or nearly so. Tabling up such detail is rarely a good idea.
 
-Another example is setting climbing difficulties or rules such as a player must check every 10 or 50 or 100ft and that a rough vs smooth vs stone vs glass wall all have some defined Dif or modifier. This gets very messy very fast. Rather, assess the situation (the desired climb, the character, the setting) and assign a Dif. You and your players will usually prefer this approach over artificial rigidity.
-
-### Avoid Complexity - Dur
-
-To keep Flex simple, the designers have gone out of their way to avoid effects that have multi-round Durations (Dur). such as 2 rounds or d4 rounds, etc., as this would require players (and the GM at times) to track this stat per ability. Rather, durations have been pretty meticulously kept to “for this round”, “for 1 rnd”, “for encounter”, etc. Just be aware of this and as you add your own rules consider the implications of adding in multiple round durations.
-
-### Avoid Complexity - Usage beyond 3
-
-To keep Flex simple, the designers have also gone out of their way to avoid Usage past 3. So it is recommended to NOT allow an ability (Power or Artifact) to progress to 4-Day nor 4-Enc. If the GM decides to allow a Usage progression past 3-Day the next step should be 1-Enc and if the GM decides to allow Usage past 3-Enc, it should become 1-Rnd. That said, both of these steps are a considerable upgrade, especially the 1-Rnd. GM, think about such upgrades carefully and consider game balance.
-
-### Fast Reflexes (+1 Nish Reward)
-
-(Optional Rule moved to [Appendix B: Optional Rules](#id.8miwkwhxac7d) .)
+Digging deeper on this topic, climbing difficulties or rules such as a player must check every 10 or 50 or 100ft and that a rough vs smooth vs stone vs glass wall all have some defined Dif or modifier, gets very messy very fast. Rather, assess the situation (the desired climb, the character, the setting) and assign a Dif. You and your players will usually prefer this approach over artificial rigidity.
 
 ### Nish Options
 
-There are several methods the GM can choose between when running Nish (PC and Monster Nishes). The tradeoffs are between detail and individual flow and speed of each round. There is not a best approach presented here. Rather each approach has different pros/cons and the GM needs to select the best approach for their current gaming group and campaign.
+There are several methods the GM can choose between when running Nish (PC and Monster Nishes). The tradeoffs are between detail and individual flow and speed of each round. There is not a best approach. Rather each approach has different pros/cons and the GM needs to select the best approach for their current gaming group and campaign.
 
 ### Example
 
@@ -2098,13 +1867,13 @@ Monsters
 
 -- Old Kobold Nish of 5
 
-### Method 1 - Individual Nishes
+### Method 1 - Default - Individual Nishes
 
 Individual Nishes means that the GM calls on the highest Nish to lowest Nish in order, one by one, including all PCs and all monster types. So using the above example, the Nish sequence would be:
 
-Warrior at 16 (Gets the +1 bonus for beating monsters Nish)
+Warrior at 16
 
-Orc Guards at 14 (+1 bonus ends)
+Orc Guards at 14
 
 Thief at 8
 
@@ -2120,9 +1889,9 @@ Cons : This will be the slowest method, particularly for complex characters or n
 
 When grouping monsters, all monsters go on the best monster’s Nish. So using the above example, the Nish sequence would be:
 
-Warrior at 16 (Gets the +1 bonus for beating monsters Nish)
+Warrior at 16
 
-All monsters at 14 (+1 bonus ends)
+All monsters at 14
 
 Thief at 8
 
@@ -2132,47 +1901,19 @@ Pros : GM gets to decide all monster actions at once so it is much easier for th
 
 Cons : Give up a little bit of realism that a slow monster type goes later in the round and a fast monster type goes earlier.
 
-### Method 3 - Three Groups
+### Method 3 - Groups
 
-With the Three group method, all PCs who beat the highest Nish monsters all go at once, then all monsters, then all PCs who have Nishes below the best monster Nish. When the PC groups go, each group (beat monsters or were slower than monsters) all roll their abilities simultaneously, write them down, and when they are “Ready to Tell Their Story” the GM calls on them and they say something like, “I swung my sword at the Orc at an 18”, GM announces “Hit”, player says, “And I slashed the orc for 7 Dmg”, GM says, “Orc AR of 1 results in 6 Wounds.” Then the GM moves on to the next PC story. So using the above example, the Nish sequence would be:
+With the Group method, all PCs who beat the highest Nish monsters all go at once, then all monsters, then all PCs who have Nishes below the best monster Nish. When the PC groups go, each group (beat monsters or were slower than monsters) all roll their abilities simultaneously, write them down, and when they are “Ready to Tell Their Story” the GM calls on them and they say something like, “I swung my sword at the Orc, hit, and slashed the orc for 7 Dmg which is 6 Wnds” Then the GM moves on to the next PC story. So using the above example, the Nish sequence would be:
 
-All PCs with Nishes above 14 go simultaneously (Warrior at 16) (Gets the +1 bonus for beating monsters Nish)
+All PCs with Nishes above 14 go simultaneously (Warrior at 16)
 
-All monsters at 14 (+1 bonus ends)
+All monsters at 14
 
 All PCs with Nishes below 14 go simultaneously (Thief and Mage)
 
 Pros: The fastest method. Chaos of players rolling simultaneously (perhaps against the same target) can simulate the chaos of real battle.
 
 Cons: Requires experienced players who know what to roll and when. A monster may get slain by PC A making a simultaneous attack by PC B seem like a waste. But a good GM can explain that both PC A and B hit the monster simultaneously.
-
-### Relational Seat Tracking
-
-A great trick for the GM is to use relational seat tracking for PC Names and pertinent details and for Nish tracking. Seat tracking uses the actual “seat at the table” physical layout of players. Consider a table with GM on one side. At the end of the table to the GM’s right is Mike playing Grond the Warrior. Across from the GM, on the other side of the table is Mary playing Natosha the thief, and on the end of the table to the left is Steve playing Miracle Max, the Mage. So on an index card the GM writes:
-
-Mary
-
-(Natosha)
-
-Steve Mike
-
-(Miracle Max) (Grond)
-
-This index card is then paper clipped to the GM screen so the GM can simply glance upward and instantly use the right character name for the right player. The GM could add in details like each character’s main weapon type, or name, etc. if desired. It is also a great idea to share this trick with your players, encouraging them to make the same relational seat tracking so they, too, can easily use other player’s character names.
-
-### Nish Tracking
-
-Relational Seat Tracking is also one of the best ways to track Nish. On a piece of scratch paper (behind your GM screen) simply write down each character’s Nish number in the same relationship and add the monster(s) Nish(es) where you sit. So using the above Nish Method example the numbers look like:
-
-8
-
-2 16
-
-14, 5
-
-The GM can glance at this pattern and know that the player to their right (Mike playing Grond the warrior) is 1st, then the GM’s monster (the Orc Guards), then Mary’s Thief Natosha, then the GMs slow old Kobold, and finally Steve’s Mage, Miracle Max. As each PC or Monster takes its turn, simply cross off the number. And when all Nishes are crossed off, draw a quick circle through all the numbers so you do not accidentally return to this round (you can even write a 1 in the center so you know which round it was). Then call out “Nish” and train your players to just yell out their Nish results as you can write them down using the Relational Seat Tracking method so fast that there is no reason to go around the table one by one. And, the next round starts.
-
-If you use grounded monsters, you only need to write down the fastest monster Nish (14). And if you use the three groups method, simply cross off all PCs with Nishes >= monsters (and they all go simultaneously) then your monsters go, then cross off all the other PCs who lost Nish to the monsters and they go at the end of the round.
 
 ### Character Introduction
 
@@ -2184,11 +1925,9 @@ If used purposefully, AI can provide several aides to the game.
 
 ### NotebookLM
 
-Google's NotebookLM is great for two main purposes. If the rules are supplied, it is a great source of rapid rule lookup and interaction for the players. Players can chat prompts like:
+Google's NotebookLM is great for two main purposes. It is a great source of rapid rule lookup and interaction for the players. Players can chat prompts like:
 
 Im, playing a Fire Mage, what are the three best powers for me to take at Level 1. Please show these in table format.
-
-Please roll me a random artifact and show it to me in table format.
 
 My PC’s Might is 6, what are the best melee weapons I qualify for? Show them to me in table format.
 
@@ -2198,13 +1937,7 @@ I just gained a level, in table format, show me the advancement options.
 
 I want a new fire mage ability called flame lance that allows me to summon a flaming lance. Please create this all new power and show it to me in table format.
 
-The GM can also put in the rules, the character concepts and their adventure and campaign notes into NotebookLM and have a single place to query this data such as:
-
-Show me Room 2 of the Stone Keep.
-
-The monsters in the Stone Keep’s kitchen just rushed into the Main hall. Please show me all monsters from both rooms in a single combined table.
-
-Please roll me a random artifact.
+The GM can also putthe rules, the character concepts, the adventure and campaign notes into their own NotebookLM and have a single place to query this data such as:
 
 What is Grond’s family name and what is his greatest fear?
 
@@ -2217,10 +1950,6 @@ Please give me two good choices for the name of my Dragon monster.
 What would my dragon say to the PCs with the goal of impressing them and dominating them with his grandeur. He has read the minds of Grond and Miracle Max and can use specific information.
 
 I forgot to spec out the small Stone Keep’s pantry. Please create an instant encounter (description, monsters/traps, and loot, for this room).
-
-The PCs are having a hard time with the monsters in the Stone keep, please show me room 3 with key stats reduced by 20%.
-
-I need a treasure horde for my Dragon’s treasure rolled now.
 
 I need, in table format, a good medium difficulty wandering monster encounter in the Stone Keeps secret passageway. The monster should be very unique compared to the rest of the Stone Keep.
 
@@ -2248,7 +1977,7 @@ Basic Use:
 
 Player: “I want to climb that 100ft sheer cliff.”
 
-GM🔎: “OK, Dif 22.”
+GM🔎: “OK, Dif 24.”
 
 Negotiated Use:
 
@@ -2266,7 +1995,7 @@ GM🔎: “First roll to the ledge (Dif 14). If you fail, you’ll get a second 
 
 Basic Use:
 
-GM🔎: “You fall into a pit trap, having failed your Save✨. Make your AR🧥 check vs Dmg💥10..”
+GM🔎: “You fall into a pit trap, having failed your Save🏃. Make your AR🧥 check vs Dmg10..”
 
 Player: “I have falling🎓. I rolled X.”
 
@@ -2344,23 +2073,23 @@ GM🔎: “Because of the groundwork, your final roll is with Advantage (3H20) a
 
 Result → Success has greater weight due to noble support; failure may still leave cracks of doubt but not total rejection.
 
-### 👹 Monster Quick Stats
+### 👹 Monster Quick Stat Ranges
+
+An Example Monster: 🚩14 👣10 ⚔️18 / 12 🧥16 / 2 ❤️12 - [✨10/💪18/👁️10/🏃12/🫀12]
+
+“Typical” Stat Ranges
 
 Nish🚩: 10-24.
 
 MR👣: 6–12.
 
-Atk⚔️: 10-24.
+Atk⚔️: 10-24. / Dmg: 4-20.
 
-Dmg💥: 5-20+.
+.
 
-Ftg: Fatigue — default minimum Wnd🩸 caused on hit regardless of player AR🧥 (calculated as Dmg💥 ten’s digit + 1: Dmg 1–9 = 1, 10–19 = 2, 20–29 = 3; elites/giants may override).
+Armor🧥: Def: 10-24 / AR 0 to 3 (rarely 4+).
 
-Def: 10-24.
-
-Armor🧥: 0 to 3 (rare 4).
-
-Vit❤️: 4 (small) to 30+ (epic).
+Vit❤️: 4-30.
 
 ### 🔎 GM Principles
 
@@ -2368,55 +2097,33 @@ Say Yes: If the idea is fun, let it ride or lower Dif.
 
 Failures Push Forward: Failures cause complications, never dead ends.
 
-Spotlight Cool: Highlight Strengths, Flairs, and creative Powers🔥.
+Spotlight Cool: Highlight Strengths, Flairs, and Creative Powers🔥.
 
 Keep Monsters Simple: Use flat stats, improvise Powers🔥, focus on PCs’ rolls.
 
-🛠️ Developer & Architecture Reference
+* 
 
-## 🏆 Master 2-Column Split-Pane Manager Modal UI/UX Blueprint Standard
+## 📖 Appendix A: Effects
 
-The Gear Manager Modal (GearCard.tsx) is canonized as the Master Blueprint Standard for all present and future SupaFlex item and ability catalog management modals across the application (Weapons, Armor, Shields, Gear, Skillsets, Powers, Artifacts):
-
-1. Header Architecture (Icon + 2-Line Text Block + Close Trigger): Padded glassmorphic icon badge (p-2 rounded-xl bg-cyan-950/80 border border-cyan-500/30 text-cyan-300), bold 2-line Title/Subtitle block (ADVENTURING GEAR MANAGER / Manage character equipment side-by-side...), and top-right close trigger (<X />). Mandatory Icon Parity Rule: The modal's top header icon MUST EXACTLY MATCH the main card title icon from which it was launched (e.g. 🧰 for GearCard, 💰 for MoneyCard).
-1. 2-Column Split-Pane Body Architecture (w-[880px] h-[85vh]):
-1. Left Column (Active Inventory / Known Abilities Pane): Always-visible side-by-side pane displaying what the player owns or knows, with independent vertical scrolling, inventory search bar (Search...), item count badge, and 1-click item removal/adjustment controls.
-1. Right Column (Catalog & Custom Creator Pane): Sub-tab navigation bar (🌐 Stock Catalog vs ➕ Custom Form) utilizing the exact same space. Sub-Tab 1 features catalog search & category filter dropdown (All Categories / Class, Racial, Tools, etc.) with 1-click + Add / + Learn buttons that immediately append the item to the Left Pane in real time. Sub-Tab 2 features the custom item/ability creation form with input guardrails. Strict Catalog Deduplication Rule: For non-quantifiable capability modals (Skillsets, Powers, Artifacts), items already present in the Left Pane MUST be automatically filtered out of the Right Stock Catalog Pane for 100% UI DRY visual clarity.
-1. Streamlined UI DRY Footer Architecture: Clean bottom bar with summary total badge (Total Gear Value: 🪙 Xg 🥈 Ys) and a single <button>Done</button>.
-1. Master Blueprint Application Scope: Mandatory directive for upcoming overhauls across items (Weapons, Armor, Shields, Gear) and abilities (Skillsets, Powers, Artifacts).
-
-## 📖 Appendix A: Element & Effect Creation Guide
-
-This appendix provides player-facing and GM guidelines for authoring custom Elements (Weapons, Armor, Shields, Gear, Powers, Mods, and Exotics). It codifies the shorthand syntax, design patterns, and balance boundaries required to maintain seamless compatibility with the SupaFlex engine.
+This appendix provides player-facing and GM guidelines for authoring custom Effects for Abilites. . It codifies the shorthand syntax, design patterns, and balance boundaries required to maintain seamless compatibility with the SupaFlex engine.
 
 ### 🏛️ Core Design Principles
 
-1. Succinct Rules-Dense Shorthand: Effect descriptions are NOT conversational English prose. They are ultra-condensed, rules-dense summaries of actionable mechanics. Never use filler phrasing such as "This device allows the user to..." or "When activated, the player may...".
-1. Strict Separation of Notes vs. Effects:
-1. Notes: Reserved exclusively for tactile physical descriptions, narrative worldbuilding, lore flavor, and non-combat utility. Base notes must NEVER contain combat math, die codes, Caret checks, or status condition triggers.
-1. Effects: Reserved exclusively for mechanical rules, dice, action economy, ranges, Caret checks, and condition applications.
-1. No Redundant Action or Usage Badges: Action types (AM, A, M, P, F) and Usages (1-⚡, 1-🍀, 1-Enc, 2-Enc, 3-Enc, 1-Rnd) are tracked in dedicated application columns and UI badges. Never repeat action costs or usage limits in the effect text itself.
-1. Zero Resource Tracking: Never track bullet counts, ammo magazines, battery percentages, or fuel tallies. SupaFlex operates on clean, cinematic resource tracking.
-1. Zero Encumbrance Tracking: SupaFlex never tracks pounds, kilograms, carrying limits, or encumbrance penalties. Never write "encumbered" or "weight limit".
+* Succinct Rules-Dense Shorthand: Effect descriptions are NOT conversational English prose. They are ultra-condensed, rules-dense summaries of actionable mechanics. Never use filler phrasing such as "This device allows the user to..." or "When activated, the player may..." .
+* Strict Separation of Notes vs. Effects:
+* Notes: Reserved exclusively for tactile physical descriptions, narrative worldbuilding, lore flavor, and non-combat utility. Base notes must NEVER contain combat math, die codes, Caret checks, or status condition triggers.
+* Effects: Reserved exclusively for mechanical rules, Dur, Rng, dice, action economy, ranges, Caret checks, afflictions, and condition applications.
+* No Redundant Action or Usage Badges: Action types (AM, A, M, P, F) and Usages (1-⚡, 1-🍀, 1-Enc, 2-Enc, 3-Enc, 1-Rnd) are tracked in dedicated application columns and UI badges. Never repeat action costs or usage limits in the effect text itself.
+* Zero Resource Tracking: Never track bullet counts, ammo magazines, battery percentages, or fuel tallies. SupaFlex operates on clean, cinematic resource tracking.
+* Zero Encumbrance Tracking: SupaFlex never tracks carrying limits or encumbrance penalties. Never write "encumbered" or "weight limit" .
 
-### 🎨 The 8 Canon Icons
+### 🎨 The Canon Icons
 
-Custom element design enforces a strict whitelist of 8 universal icons:
-
-| Icon | Attribute / Stat | Domain & Rules Scope |
-| --- | --- | --- |
-| ✨ | Magic | Supernatural manifestations, spellcraft, sorce, psionics, artifact enchantments, arcane saves. |
-| 💪 | Might | Brute physical strength, melee weapon attacks, lifting, blocking (Blk), grappling. |
-| 👁️ | Mind | Shot/ranged projectile weapons, technology, cyberware, robotics, perception, analysis. |
-| 🏃 | Motion | Agility, dodging (Def), reflexes, stealth, hurled weapons, movement speed adjustments. |
-| 🫀 | Moxie | Stamina, vitality, bodily endurance, toxin/hazard resistance, death checks. |
-| 🚩 | Nish | Combat initiative modifiers (e.g. 🚩+2). |
-| 👣 | Movement Rate (MR) | Movement speed modifications (e.g. 👣+3, jump 👣+4). (Note: 👣 already signifies MR; do not write "MR 👣"). |
-| 🍀 | Luck | Luck chit rewards and twists (e.g. Regain 1 🍀). |
+Custom element design enforces a whitelist of universal icons used in Effects tyically limited to: ✨💪👁️🏃🫀🚩👣🍀❤️
 
 ### 🎲 The Player-Only Rolling Doctrine & Caret (^) Standard
 
-In SupaFlex, ONLY PLAYERS ROLL DICE. Monsters and non-player targets never roll saving throws or defense checks. Hostile offensive maneuvers, status conditions, and afflictions are framed strictly from the player's perspective, testing the player's active roll against the target's static attribute rating using Caret (^) notation:
+In SupaFlex, ONLY PLAYERS ROLL DICE . Monsters and non-player targets never roll saving throws, defense checks, or any other dice. Hostile offensive maneuvers, status conditions, and afflictions are framed strictly from the player's perspective, testing the player's active roll against the target's static attribute rating using Caret (^) notation:
 
 [PC Roll]^[Target Static Atr] or [Affliction/Condition]
 
@@ -2431,7 +2138,10 @@ Because monsters never roll dice, any condition or ability granting a monster Ad
 
 ### 🔗 Causal Consequence Chaining (=)
 
-When an attack or trigger directly produces an automatic mechanical consequence, link the sequence with an equals sign (=): * Atk ✨ = target levitated and dropped for fall Dmg. * Wnds = target Stunned. * Do not use ambiguous semicolons (;) to separate direct cause-and-effect sequences. Use semicolons only to separate independent, distinct effects.
+* When an attack or trigger directly produces an automatic mechanical consequence, link the sequence with an equals sign (=):
+* * Atk ✨ = target levitated and dropped for fall Dmg.
+* * Wnds = target Stunned.
+* * Do not use ambiguous semicolons (;) to separate direct cause-and-effect sequences. Use semicolons only to separate independent, distinct effects.
 
 ### 💀 Core Afflictions, Hazards & Status Conditions
 
@@ -2439,25 +2149,23 @@ Status conditions and Afflictions are binary, high-impact tactical states.
 
 #### The Zero-Duration Rule
 
-SupaFlex NEVER appends duration strings to conditions or afflictions (do NOT write "Stunned for 1 rnd" or "Weakened for encounter"). Recovery from afflictions is governed automatically by the core Affliction recovery rules (the player rolls Atr^Target Atr on their Nish to see if the foe breaks free, or rolls on their own Nish if afflicted).
+SupaFlex RARELY appends duration strings to conditions or afflictions . Recovery from afflictions is governed automatically by the core Affliction recovery rules (the player rolls Atr^Target Atr on their Nish to see if the foe breaks free, or rolls on their own Nish if afflicted).
 
 #### Poison Hazard & Affliction Specification Standard
 
-Unlike uniform conditions (Stunned, Weakened, Prone, Blinded), Poison is a diverse category with varied toxicity levels. All poison applications MUST state their tick rate or toxin type: * Ongoing damage rate: Poisoned 1 Wnd/Rnd, Poisoned 2 Wnd/Rnd, or Poisoned d4 Wnds/Rnd. * Catalog-linked toxin: Poisoned as per type (for coated blades or venom darts). * Symptom-based toxin: Poisoned (paralysis) or Poisoned (nausea).
+Unlike uniform conditions (Stunned, Weakened, Prone, Blinded), Poison is a diverse category with varied toxicity levels. All poison applications MUST state their tick rate or toxin type:
+
+* Ongoing damage rate: Poisoned 1 Wnd/Rnd, Poisoned 2 Wnd/Rnd, or Poisoned d4 Wnds/Rnd.
+
+* Symptom-based toxin: Poisoned (paralysis) or Poisoned (nausea).
 
 ### 📐 Tactical Area-of-Effect Geometry
 
-When abilities affect multiple squares or areas, use strict grid-friendly geometry: * Circular Bursts: AoE [#]r defines a circle where the radius is counted outwards NOT including the target center square. Thus an AoE 1r, where each square is 5 ft, is centered on the target square plus 1 square outward in all directions (creating a 7.5 ft radius / 15 ft diameter 3x3 square zone); AoE 2r extends 2 squares outward in all directions. * Rectangular Zones: [#]x[#] defines a rectangular zone in squares (e.g. 3x6 represents 3 squares wide by 6 squares long). * Prohibition of Cones: Traditional tabletop cones are strictly prohibited to prevent diagonal-grid disputes. Use rectangular footprints instead.
+When abilities affect multiple squares or areas, use strict grid-friendly geometry discussed in the main rules of #r or #x#. See main rules.
 
-### 🛠️ Practical Element Blueprints
-
-* Custom Weapon: Kinetic Whip | Type: Melee | Atk: 💪 | Dmg: 💪 | Rng: 3 | Hands: 1 | Blk: 8
-* Note: Braided monofilament cable with a weighted magnetic tip, designed for tripping and disarming at extended reach.
-* Exotic Power (Trip Maneuver) [A]: Rng 3; Atk 💪 Dmg 💪 (Dmg optional); 💪^🏃 or target Prone.
-* Custom Armor Exotic Power: Reactive Toxin Spikes | Action: [F] | Usage: 1-Enc
-* Effect: Wnds = 🫀^🫀 or Poisoned 1 Wnd/Rnd.
-* Custom Power: Sorce Lance | Action: [A] | Usage: 1-Enc | Tier: Class
-* Effect: Rng 3; Atk ✨ Dmg ✨+d6; Wnds = target pushed 2 sq.
+* * AoE 2r extends 2 squares outward in all directions from a central sq thus it is a circle inscribed in a 5x5 grid..
+* * Rectangular Zones: [#]x[#] defines a rectangular zone in squares (e.g. 3x6 represents 3 squares wide by 6 squares long).
+* * Prohibition of Cones: Traditional tabletop cones are strictly prohibited to prevent diagonal-grid disputes. Use rectangular footprints instead.
 
 ## 🎲 Appendix B: Optional Rules
 
@@ -2469,15 +2177,37 @@ Damage Shift is an optional weapon combat rule that allows large, heavy weapons 
 
 #### 1. Heavy Weapon Shift (Atk ➔ Dmg)
 
-Weapons with damage dice d6 through d12 can shift excess Attack roll margin over target Defense into flat bonus Damage (+ Dmg). * Max Shift Cap: The maximum amount of Attack that can be shifted to Damage is strictly governed by the weapon's damage die: * d4: 0 (cannot shift Atk to Dmg; see Reverse Shift below) * d6: Max +1 * d8: Max +2 * d10: Max +3 * d12: Max +4 (Max Shift = (Die Size - 4) / 2) * Resolution: When an attack hits over target Defense, the player may convert excess attack margin up to the weapon's Max Shift into + Dmg. For example, with a d8 weapon (Max Shift 2): beating Defense by 1 adds +1 Dmg; beating Defense by 2 or more adds +2 Dmg. * Stacking: Dmg Shift stacks with everything.
+Weapons with damage dice d6 through d12 can shift excess Attack roll margin over target Defense into flat bonus Damage (+ Dmg).
+
+* Max Shift Cap: The maximum amount of Attack that can be shifted to Damage is strictly governed by the weapon's damage die:
+
+* d4: 0 (cannot shift Atk to Dmg; see Reverse Shift below)
+
+* d6: Max +1
+
+* d8: Max +2
+
+* d10: Max +3
+
+* d12: Max +4 (Max Shift = (Die Size - 4) / 2)
+
+* Resolution: When an attack hits over target Defense, the player may convert excess attack margin up to the weapon's Max Shift into + Dmg. For example, with a d8 weapon (Max Shift 2): beating Defense by 1 adds +1 Dmg; beating Defense by 2 or more adds +2 Dmg.
+
+* Stacking: Dmg Shift stacks with everything.
 
 #### 2. Light Weapon Reverse Shift (Dmg ➔ Atk — d4 Weapons ONLY)
 
-Weapons with base damage d4 (and ONLY d4 weapons, such as daggers, knuckles, and darts) can shift in the opposite direction. * Desperate Finesse: If a player misses an Attack roll by 4 or less, they can call a Dmg Shift to consider the attack a hit, but they must subtract that equivalent deficit from their rolled Damage. * Example: If an Attack roll is 17 vs. Defense 20 (missing by 3), the player calls Dmg Shift: the strike hits, but applies -3 to the Damage roll. * Damage & Wounds Threshold: The maximum d4 shift is 4. If shifting results in 0 or negative damage, then Dmg is 0 and nothing happens (no wounds occur).
+Weapons with base damage d4 (and ONLY d4 weapons, such as daggers, knuckles, and darts) can shift in the opposite direction.
+
+* Desperate Finesse: If a player misses an Attack roll by 4 or less, they can call a Dmg Shift to consider the attack a hit, but they must subtract that equivalent deficit from their rolled Damage.
+
+* Example: If an Attack roll is 17 vs. Defense 20 (missing by 3), the player calls Dmg Shift: the strike hits, but applies -3 to the Damage roll.
+
+* Damage & Wounds Threshold: The maximum d4 shift is 4. If shifting results in 0 or negative damage, then Dmg is 0 and nothing happens (no wounds occur).
 
 | Weapon Base Dmg Die | Max Shift Cap | Shift Direction | Core Rule Summary |
 | --- | --- | --- | --- |
-| d4 | 4 | Dmg ➔ Atk ONLY | Reverse Finesse: Convert a miss by ≤ 4 into a hit; subtract deficit from Dmg. If shifting results in ≤ 0, then Dmg is 0 (no wounds occur). |
+| d4 | 4 | Dmg ➔ Atk ONLY | Reverse Finesse: Convert a miss by ≤ 4 into a hit; subtract deficit from Dmg. If shifting results in ≤ 0, then Dmg is 0 . |
 | d6 | +1 | Atk ➔ Dmg | Excess Attack roll ≥ 1 over Defense adds +1 Dmg. |
 | d8 | +2 | Atk ➔ Dmg | Excess Attack roll ≥ 1 ➔ +1 Dmg; excess ≥ 2 ➔ +2 Dmg. |
 | d10 | +3 | Atk ➔ Dmg | Excess Attack roll ≥ 1, 2, 3 ➔ up to +3 Dmg. |
@@ -2485,25 +2215,13 @@ Weapons with base damage d4 (and ONLY d4 weapons, such as daggers, knuckles, and
 
 ### 🚩 Fast Reflexes (+1 Nish Reward)
 
-When running combat encounters, the GM may optionally reward swift reflexes: * Rule: If a PC rolls higher than ALL monsters in the encounter on their Initiative (Nish 🚩) check, that PC gains a +1 tactical bonus on all rolls (Attacks, Defenses, Saves, Skills) until the monsters take their turn. * Stacking: Stacks with everything.
+When running combat encounters, the GM may optionally reward swift reflexes:
+
+* Rule: If a PC rolls higher than ALL monsters in the encounter on their Initiative (Nish 🚩) check, that PC gains a +1 bonus on all rolls until the monsters take their first turn.
+
+* Stacking: Stacks with everything.
 
 🛠️ Developer & Architecture Reference
-
-### 🔤 Global Alphabetical Default & MSO Priority Triad Rule
-
-#### 1. Rule (The What)
-
-ALL lists, dropdown option selectors, search results, and catalog cards across SupaFlex (Player Sheet, GM Screen, Card Catalogs, Creation Modals, Loot Engines) MUST default to ascending alphabetical sort order (a.localeCompare(b) / compareMsoItems / compareMsoOptions), unless explicitly registered in the Mechanical Exceptions Registry. When the private MSO setting is unlocked (isGuildSpaceUnlocked === true), all options ending in (mso) must automatically sort to the top of all dropdowns, lists, and catalog grids in alphabetical order, preceded by the galaxy icon 🌌 and styled with text-purple-300 font-bold.
-
-Registered Mechanical Exceptions Registry: * Action Types: Combat speed cadence AM ➔ A ➔ M ➔ P ➔ F. * Usage Frequencies: Activation cadence 1-⚡, 1-🍀, 1-Enc, 2-Enc, 3-Enc, 1-Rnd. * Core Attributes: Standard attribute sequence Magic ✨, Might 💪, Mind 👁️, Motion 🏃, Moxie 🫀, Luck 🍀. * Combat Tracker & Encounter Order: GM encounter turn sequence and dynamic Nish initiative rolls (🚩). * Party Roster: Active party leader and party session join sequence. * Difficulty Scaling Presets: Tier progression Easy: 6 ➔ Mythic: 22.
-
-#### 2. Rationale (The Why)
-
-Predictable alphabetical sorting minimizes cognitive fatigue, prevents visual chaos across viewports, and creates an intuitive browsing baseline across thousands of powers, items, and rules. MSO players predominantly seek MSO-specific content; sorting MSO entries to the top with vivid galaxy iconography (🌌) provides instant discovery without burying core game options.
-
-#### 3. Failure Mechanism (The What Breaks)
-
-Arbitrary or database-insertion-order lists force players and GMs to search unsorted collections, causing severe decision paralysis and session stalls during combat. Unsorted MSO entries force players to hunt through 1,000+ stock rows, destroying table pacing and UX flow.
 
 ## 📖 Appendix C: Master Terminology & System Lexicon
 
@@ -2511,140 +2229,141 @@ This appendix serves as the definitive reference glossary and symbolic lexicon f
 
 ### 🎨 Part 1: Master Icon & Emoji Lexicon
 
-The comprehensive directory of all official icons used across character sheets, equipment catalogs, and combatHUD interfaces:
+The comprehensive directory of all official icons/emojis used across character sheets, equipment catalogs, and combatHUD interfaces:
 
 | 📖 Term / Concept | 🙂 Symbol | Domain & Usage Standard |
 | --- | --- | --- |
-| Abilities | 🧠 | Master category for learned powers, artifacts, and skills |
+| Abilities | 🧠 | Master category for traits, powers, artifacts, and skills |
 | Actions | 🔷 | The 5 round action allocations (AM, A, M, P, F) |
-| Advantage / Disadvantage | 2H20 / 2L20 | Roll 2 dice and take higher (2H20) or lower (2L20) |
+| Advantage / Disadvantage | +1 d20 / =1 d20 on ability rolls | Skilled: (2H20); Unskilled:(2L20) |
 | Affliction | 💀 | Ongoing conditions with per-round recovery saves (Poison, Stunned, etc.) |
 | Advancement Points (AP) | 🧩 | Point-buy currency for progression and element acquisition |
-| Armor Rating / Reduction (AR) | 🧥 | Damage reduction die or static value absorbed when hit |
-| Armor | 🧥 | Protective body garments and suits |
-| Art | 🎨 | Crafting discipline & artistic creation |
-| Artifacts | 🔮 | Legendary treasures bearing unique powers or permanent enchantments |
-| Attribute (Atr) | ✅ | The 5 core bodily/mental stats (Might, Motion, Mind, Magic, Moxie) |
-| Block | 🛡️ | Physical melee defense roll using Might (💪) and a weapon/shield |
-| Bolt (5 Sparks) | ⚡ | Charged energy reserve of 5 Sparks (⚡ strictly represents 5 Sparks) |
-| Camp Gear | 🏕️ | Bedrolls, tents, mess kits, and wilderness survival hardware |
-| Clothing & Personal | 👕 | Non-armor attire, jewelry, footwear, and personal effects |
+| Armor (AR) | 🧥 | Damage reduction die or static value absorbed when hit, due to protective body garments and suits. Results is Wnds. |
+| Artifacts | 🔮 | Legendary, Exotic, treasures bearing unique powers or permanent enchantments |
+| Attribute (Atr) | ✅ | The 5 core stats (Magic✨, Might💪, Mind👁️, Motion🏃, Moxie🫀) |
+| Block | 🛡️ | Physical melee defense roll using Might (💪) and a melee weapon or shield |
+| Bolt | ⚡ | Charged energy reserve gained at 5 Sparks |
 | Combat | ⚔️ | Tactical combat encounters and conflict sequences |
-| Containers | 🧺 | Pouches, sacks, chests, and storage gear |
 | Critical | 💀 | Natural 1 on d20; triggers Critical consequences |
-| Days | 📅 | Long-term narrative timekeeping & daily resets |
 | Damage (Dmg) | 💥 | Polyhedral damage rolled on a successful hit |
 | Dual Wield | ⚔️ | Fighting with a weapon in each hand |
 | Duration (Dur) | ⏳ | Active lifespan of an effect (Instant, this Rnd, 1 Rnd, Encounter, next …) |
 | Elements | 🌟 | The modular building blocks of SupaFlex |
-| Entertainment & Music | 🎵 | Musical instruments, games, and performance supplies |
-| Equipment | 🧰 | Synonym for Gear; physical hardware items |
-| Exotics | 🧿 | Combat powers granted by gear or modular modifications |
-| Food & Drink | 🥖 | Rations, provisions, trail food, and potable liquids |
-| Free Ability | ⭕ | Ability or trait costing 0 AP (Free) |
+| Exotic(s) | 🧿 | Powers granted by gear’s or mods. ALSO any gear (including all Artifacts) that have such mods. |
+| Free Ability | ⭕ | Ability or trait costing 0 AP |
 | Gear | ⚙️ | Master category for all physical items and equipment |
-| Game Master (GM) | 🔎 | Narrative adjudicator and encounter runner |
+| Game Master (GM) | 🔎 and 👑 | Narrative adjudicator and encounter runner. 👑 = GM role; 🔎 = GM Attention |
 | Hazard | 💀 | Environmental obstacle, terrain danger, or trap triggering checks |
 | Junk | 🗑️ | Broken remnants, scrap, and non-functional salvage |
-| Kits | 📦 | Pre-assembled hardware suites (Adventurer's Kit, Healer's Kit) |
+| Kits | 📦 | Pre-assembled gear sets (Adventurer's Kit, Healer's Kit) |
 | Level | ⭐ | Character milestone tier derived from accumulated AP |
-| Luck | 🍀 | Heroic chit currency for rerolls, Twists, or 1-Enc Bolt substitution |
-| Magic | ✨ | Core attribute for spellcraft, arcane energy, psionics, and sorce |
-| Martial Arts | 🥋 | Specialized unarmed and close-quarters combat disciplines |
-| Medical Supplies | ⚕️ | Bandages, salves, triage kits, and curative items |
+| Luck | 🍀 | Heroic currency for rerolls, Twists, or 1-🍀 |
+| Magic | ✨ | Core attribute for spellcraft, arcane energy, psionics |
 | Might | 💪 | Core attribute for physical power, melee attacks, and blocking |
-| Mind | 👁️ | Core attribute for intellect, shot weapons, perception, and tech |
-| Mods | 🔌 | Modular weapon and armor attachments providing exotics/enhancements |
+| Mind | 👁️ | Core attribute for intellect, shot weapons, perception |
+| Mods | 🔌 | Modular weapon and armor attachments providing exotic powers |
 | Money / Valuables | 💰 | Currency (gold g, silver s) and trade treasure |
 | Monster | 🐉 | Adversary creatures, enemies, and hostile entities |
 | Motion | 🏃 | Core attribute for agility, dodging, stealth, and hurled weapons |
 | Moxie | 🫀 | Core attribute for vitality, stamina, toxin saves, and death checks |
-| Movement Rate (MR) | 👣 | Tactical movement in 5-ft squares (e.g. 👣6, jump 👣+2) |
-| Natural Weapons | 🥊 | Claws, bites, fangs, horns, and innate monster attacks |
+| Movement Rate (MR) | 👣 | Tactical movement and jumps in 5-ft squares |
 | Nish | 🚩 | Initiative roll and combat turn sequence |
 | Notes | ℹ️ | Narrative lore, sensory descriptions, and physical details |
-| Paths | 🧭 | Progression suites (Class, Race, Innate, Bonus, Universal) |
+| Paths | 🧭 | Progression suites (Class, Race, Innate, Universal, and Bonus) |
 | Power | 🔥 | Intangible martial, spell, or psionic ability unlocked via AP |
 | Racial | 🧬 | Innate biological/species heritage boons |
-| Range | 🎯 | Tactical distance band (Self, Touch, 1, 2, 3, Short, Medium, Long, Extreme) |
+| Range | 🎯 | Tactical distance band (Self, Touch, 1sq, 2sq, 3sq, Short, Medium, Long, Extreme) |
 | Rules | 📜 | Core system mechanics and table protocols |
-| Sets | 🗂️ | 1-AP modular packages containing multiple related items or abilities |
+| Sets | 🗂️ | containe multiple related abilities |
 | Shields | 🛡️ | Protective defensive armaments providing Block ratings |
 | Single Weapon | 🗡️ | Fighting with a lone single-handed weapon |
-| Skills | 🎓 | Trainable proficiencies granting 2H20 on ability checks |
-| Supplies | 🎒 | Mundane utility items and consumable adventuring gear |
-| Tools & Equipment | 🛠️ | Artisan tools, thievery picks, and mechanical instruments |
-| Traits | 🧬 | Modular passive boons, perks, and physiological rules |
-| Travel & Mounts | 🐴 | Pack animals, steeds, wagons, and vehicles |
+| Skills / Skill Sets | 🎓 | Trainable proficiencies granting 2H20 on ability checks |
+| Supplies | 🎒 | ALL Gear that is not (Weapons, Armor, or Shields) |
+| Traits | 🧬 | Boons, perks, and physiological rules |
 | Tremendous | 🌟 | Natural 20 on d20; triggers tremendous boons |
-| Unarmed | 🥊 | Brawling with fists, kicks, and grapples |
 | Usage | 🔄 | Activation limit cadence (1-⚡, 1-🍀, 1-Enc, 2-Enc, 3-Enc, 1-Rnd) |
-| Vault | 📦 | Storage inventory for off-character equipment |
 | Vitality (Vit) | ❤️ | Maximum health pool before falling unconscious |
 | Weapons | ⚔️ | Offensive armaments (Melee, Shot, Hurled) |
-| Wounds (Wnd) | 🩸 | Cumulative injury damage tracked against Vitality |
-| Writing & Scribing | ✒️ | Books, parchment, ink, scrolls, and maps |
+| Wounds (Wnd) | 🩸 | Cumulative injuries tracked against Vitality |
 
 #### 🐉 Monster Stat Block Icon Standards
 
 | Stat Block Element | 🙂 Symbol | Application & Reading Format |
 | --- | --- | --- |
-| Initiative (Nish) | 🚩 | Fixed initiative score (e.g. 🚩14) |
+| Initiative (Nish) | 🚩 | Determines turn ordering during an encounter round |
 | Movement Rate (MR) | 👣 | Ground speed in 5-ft squares (e.g. 👣10) |
-| Attack / Damage | ⚔️ | Attack rating and damage die/value (e.g. ⚔️18/12) |
-| Defense / Armor (AR) | 🛡️ | Defense target number and flat armor reduction (e.g. 🛡️16/2) |
-| Vitality (Vit) | ❤️ | Total health pool before death (e.g. ❤️12) |
-| Attributes | [💪#/🏃#/👁️#/✨#/🫀#] | Fixed static ratings for Caret comparison checks |
+| Vitality (Vit) | ❤️ | Total health pool before death (e.g. ❤️12). Depleted by Wnds🩸 |
+| Attributes | ✨💪👁️🏃🫀 | The five core stats from which nearly all other stats and rolls are derived. |
 
 ### 📖 Part 2: Master Alphabetical Lexicon (A–Z)
 
 #### Ability (🧠)
 
-Any intangible, learned capability unlocked with Advancement Points (AP). Abilities are categorized strictly into three functional groups: Powers (🔥), Artifacts (🔮), and Skills (🎓). All abilities belong to an advancement Path (🧭) or the open Universal Path.
+Any intangible, learned capability unlocked with Advancement Points (AP). Abilities are categorized strictly into three functional groups: Traits (🧬), Powers (🔥) , and Skills (🎓) .
 
 #### Action Economy (🔷)
 
-The structured 5-channel budget governing combat choices each round: * Attack & Move (AM): Consumes both the Attack and Move allocations (used for running/sprinting or heavy full-round maneuvers). * Attack (A): Standard offensive strike, spell cast, or active power activation. * Move (M): Tactical movement up to your full Movement Rate (MR 👣). * Partial (P): Preparatory utility (drawing a weapon, quaffing a potion, opening a door, skill check). * Free (F): Instantaneous reactions (Block, Dodge, AR rolls, verbal shouts, dropping items). Unlimited per round at GM discretion.
+The structured 5-channel budget governing combat choices each round:
 
-#### Advantage & Disadvantage (2H20 / 2L20)
+* Attack & Move (AM): Consumes both the Attack and Move allocations (used for running/sprinting or heavy full-round maneuvers).
 
-The core dice variance mechanic in SupaFlex: * Advantage: Roll two d20s and take the higher result (2H20 for skilled tests), or roll twice and keep the better result. * Disadvantage: Roll two d20s and take the lower result (2L20 for skilled tests), or roll twice and keep the worse result.
+* Attack (A): Standard offensive strike, spell cast, or active power activation.
+
+* Move (M): Tactical movement up to your full Movement Rate (MR 👣) or mobility power .
+
+* Partial (P): Preparatory utility (drawing a weapon, quaffing a potion, opening a door, skill check).
+
+* Free (F): Instantaneous reactions (Block, Dodge, AR rolls, verbal shouts, dropping items). Unlimited per round at GM discretion.
+
+#### Advantage & Disadvantage
+
+The core dice variance mechanic in SupaFlex:
+
+* Advantage: Roll one extra d20 and take the higher result (2H20 for skilled tests).
+
+* Disadvantage: Roll two d20s and take the lower result (1d20 for skilled tests).
 
 #### Affliction (💀)
 
-An ongoing physiological, mental, or magical debilitating ailment or condition suffered by a target (character or monster). * Defined Afflictions: Poison, Disease, Death (via Death Checks), Burning, Weakness / Weakened, Suffocation, Held, Immobilized, Stunned, Paralyzed, Frozen, Blinded. * The Zero-Duration Rule: Afflictions never carry static multi-round duration strings. They persist until cured or saved against. * Recovery Timing: An afflicted character rolls immediately upon infliction, and on each of their Nishes (🚩) as an Act(F) until cured or dead. For monsters, the inflicting character rolls immediately upon infliction and on each of their Nishes.
+An ongoing physiological, mental, or magical debilitating ailment or condition suffered by a target (character or monster).
+
+* Defined Afflictions: Poison, Disease, Death (via Death Checks), Burning, Weakness / Weakened, Suffocation, Held, Immobilized, Stunned, Paralyzed, Frozen, Blinded, etc.
+
+* The Zero-Duration Rule: Afflictions never carry static multi-round duration strings. They persist until cured or saved against.
+
+* Recovery Timing: An afflicted character rolls immediately upon infliction, and on each of their Nishes (🚩) as an Act(F) until cured or dead. For monsters, the inflicting character rolls immediately upon infliction and on each of their Nishes.
 
 #### Advancement Points (AP 🧩)
 
-The universal progression currency of SupaFlex. AP is awarded by the GM and spent to purchase Sets (1 AP), individual in-path elements (1 AP), unlock new Paths (4 AP), or acquire out-of-path capabilities (3 AP with GM approval).
+The universal progression currency of SupaFlex. Two AP are gained per level and spent to purchase paths, abilities, and other character improvements..
 
-#### Armor Rating / Reduction (AR 🧥)
+#### Armor (AR 🧥)
 
-The protective value of worn armor. When a character's defense check fails, they roll their armor die (d4 to d12, single-explode capped) and subtract the result from incoming Damage. The remaining damage becomes Wounds (🩸).
+The protective value of worn armor. When a character's defense or block check fails, they roll their armor die (d4 to d12) and subtract the result from incoming Damage. The remaining damage becomes Wounds (🩸). AR🧥 are exploding.
 
 #### Attack (Atk ⚔️)
 
-An offensive combat action rolled using 2H20 + Atr Die + Bonus (if skilled) vs. the target's static Defense. Attack dice explode indefinitely on maximum face value.
+An offensive combat action rolled using Skilled: 2H20 + d(Atr) + Bonus or Unskileld: 1d20 + d(Atr) + Bonus vs. the target's static Defense. Attack Atr dice explode.
 
 #### Attribute (Atr ✅)
 
-The 5 foundational attributes governing all physical and supernatural capabilities: Might (💪), Motion (🏃), Mind (👁️), Magic (✨), and Moxie (🫀). Attribute ratings are expressed as polyhedral dice (d4 through d12 and beyond).
+The 5 foundational attributes governing all physical and supernatural capabilities: Magic✨, Might💪, Mind👁️, Motion🏃, Moxie🫀. Attribute ratings are expressed as numbers equal to the polyhedral dice of (4, 6, 8, 10, and 12)). Most stats and abilities are derived from these five Attributes.
 
 #### Bleeding Out
 
-An unconscious character with negative Vitality (Vit < 0) suffers +1 Wound automatically after each Death Check except the first, representing active hemorrhage. Bleeding continues until bandaged, stabilized with first aid, or healed magically.
+An character with negative Vitality (Vit < 0) suffers 1 Wound automatically after each Death Check except the first, representing active hemorrhage, failed circuits, etc. . Bleeding continues until bandaged, stabilized with first aid, or healed magically.
 
 #### Block (Blk 🛡️)
 
-A physical melee defense roll using Might (💪). Valid against any attack that could be dodged if the defender wields a shield or a weapon with a Block Cap equal to or exceeding the incoming attack.
+A physical melee weapon or shield defense roll using Might (💪). Melee Blocks are valid against any melee attack with a Dmg at or below the weapon’s Block Cap. A Shield Block is valid against any melee, hurled, shot attack or any other GM determined “blockable” event with a Dmg at or below the shield’s Block Cap.
 
 #### Bolt (⚡)
 
-A concentrated energy reserve consisting of 5 accumulated Sparks (⚡ = 5 Sparks). Expended to power high-impact 1-⚡ abilities or tactical pivots. The ⚡ icon strictly represents a complete Bolt and is never applied to individual sparks.
+A concentrated energy reserve consisting of 5 accumulated Sparks (1⚡ = 5 Sparks). Expended to power high-impact 1-⚡ abilities or tactical pivots.
 
 #### Breaking Melee
 
-Moving more than 1 square away from an opponent who has engaged you in melee (or moving beyond their melee reach) while that opponent has Nish in the round. Breaking Melee provokes an immediate Opportunity Attack.
+Moving more than 1 square beyond an opponent's melee Atk range from an opponent who has engaged you in melee while that opponent has Nish in the round. Breaking Melee provokes an immediate Opportunity Attack.
 
 #### Caret Notation (^)
 
@@ -2652,11 +2371,11 @@ The foundational comparison syntax used under the Player-Only Rolling Doctrine: 
 
 #### Critical (💀)
 
-A roll of natural 1 on the primary d20 during an Attack or Defense check. Triggers an automatic Critical fumble or consequence on the combat tables.
+A roll of natural 1 on the primary d20 during an Ability check. Triggers an automatic Critical fumble or consequences.
 
 #### Death Check (🫀)
 
-A mandatory Moxie (🫀) ability check made immediately when Current Vitality drops to -1 or lower, and repeated on each of the character's Nishes until stabilized or dead. Difficulty = 5 + (- Current Vit). Unskilled characters roll 1d20 + 🫀; skilled characters (with the Death Check skill) roll 2H20 + 🫀.
+A mandatory Death Check🫀 made immediately when Current Vitality drops to -1 or lower, and repeated on each of the character's Nishes until stabilized or dead. Difficulty = 5 + (- Current Vit). Unskilled characters roll 1d20 + 🫀; skilled characters (with the Death Check skill) roll 2H20 + 🫀.
 
 #### Difficult Terrain
 
@@ -2664,15 +2383,21 @@ Tactical battlefield squares (5x5 ft) that require 2 or more Movement Rate (👣
 
 #### Disenchanting
 
-The process of breaking down magic items, exotics, or artifacts to harvest raw magical Essence, which is then used to forge or upgrade other equipment.
+The process of breaking down magic items, exotics, or artifacts to harvest raw magical Essence , which is then used to forge or upgrade other equipment.
 
-#### Dodge (Def 🏃)
+#### Dodge🏃 (Def)
 
 An agile defense roll using Motion (🏃). Nearly always valid against physical melee, hurled, and projectile attacks.
 
 #### Duration (Dur ⏳)
 
-The lifespan of an ability's active effect, stated in the ability's "Effect" line. Officially permitted durations are: * Instant: Resolves immediately with no lingering state. * this Rnd: Persists until the GM calls for new Nish rolls at the end of the round. * 1 Rnd (Universal Default): Persists until the user's or monster's next Nish (🚩). * Encounter: Persists until the active encounter concludes. * next …: Persists until the specified upcoming roll or action occurs (e.g. next Def, next Atk, next Save).
+The lifespan of an ability's active effect, stated in the ability's "Effect" line, if not obvious. Officially permitted durations are:
+
+* * Instant: Resolves immediately with no lingering state.
+* * this Rnd: Persists until the GM calls for new Nish rolls at the end of the round.
+* * 1 Rnd (Universal Default): Persists until the user's or monster's next round’s Nish (🚩).
+* * Encounter: Persists until the active encounter concludes.
+* * next …: Persists until the specified upcoming roll or action occurs (e.g. next Def, next Atk, next Save).
 
 #### Elements (🌟)
 
@@ -2680,7 +2405,7 @@ The discrete, modular building blocks of SupaFlex: Weapons, Armor, Shields, Gear
 
 #### Encounter (⚔️)
 
-A self-contained tactical combat scene or high-stakes challenge. Concludes when the GM officially declares threats neutralized. Encounter-based abilities (1-Enc, 2-Enc, 3-Enc) reset upon encounter conclusion.
+Comein type types Combat and Roleplaying. Combat: A self-contained tactical combat scene or high-stakes challenge. Concludes when the GM officially declares threats neutralized. Roleplaying: All time spans between Combat Encounters.
 
 #### Essence
 
@@ -2688,11 +2413,11 @@ The distilled magical currency harvested from disenchanted magical equipment, us
 
 #### Exotics (🧿)
 
-Tactical combat modifications, masteries, and active abilities granted by physical gear, installed weapon/armor mods, or signature devices.
+Gear with Mods. Also used as a shortcut term for Exotic🧿 Powers, i.e. Exotics🧿. Note, all Artifacts are Exotic and many other Gear (especially weapons, high tech, and complex gear) are Exotic if they have a mod. .
 
 #### Exploding Die
 
-A die rolling its maximum face value (e.g. 8 on a d8) is rolled again, adding the new result to the running total. Comparison rolls (Attacks, Defenses, Skill checks, Flat Attribute dice) explode indefinitely. Weapon Damage and Armor reduction dice are governed by the Single Die Rule (maximum 1 explosion).
+A die rolling its maximum face value (e.g. 8 on a d8) is rolled again, adding the new result to the running total. If the 2nd roll is also max face, the rule compounds and continues. All Attribute derived rolls (including the Atr die of Ability Rolls) explode indefinitely. Focus, Damage, Armor, and Jumps are also all included as exploding rolls.
 
 #### Fatigue Wounds (🩸)
 
@@ -2700,11 +2425,11 @@ Baseline exhaustion and non-lethal bruising inflicted by monsters (calculated as
 
 #### Focus (🎯)
 
-A heroic resource representing concentrated willpower and physical precision. Spending Focus adds flat numerical bonuses or extra dice to a roll already made. Focus and Luck are strictly mutually exclusive on the same roll.
+A heroic resource representing concentrated willpower and physical precision. Spending Focus adds flat numerical bonuses to a roll already made. Focus is an exploding roll. Focus die remains the same on a roll of 1 or explode. Rolls of 2+ that don’t explode reduce the Focus die by -1d. If at d4 and reduced by -1d, Focus is exhausted.
 
 #### Free Ability (⭕)
 
-An innate baseline ability, weapon, or trait costing 0 AP (Free).
+An innate baseline ability, weapon, or trait costing 0 AP.
 
 #### Gear (⚙️) & Kits (📦)
 
@@ -2716,19 +2441,29 @@ An environmental feature, trap, or terrain danger (pits, lava, fire walls, toxic
 
 #### Innate Path
 
-The foundational beginner and heritage path of a character (formerly designated as Innate Path).
+The foundational heritage path of all characters.
 
 #### Luck (🍀)
 
-Heroic luck chits (starting with 3, maximum pool of 5) awarded for creative, entertaining, or heroic play. A Luck chit may be spent to: 1. Reroll all dice involved in a check, taking the better result. 2. Execute a Luck Twist (Rule of 1) to alter an ability (+1 Spark, -1 Action Cost, +1 Target, +1 Die Tier, +1 Range Band, +1 Push). 3. Substitute once per encounter in place of a Bolt (⚡) to activate a 1-⚡ ability.
+Starting with 3, maximum pool of 5) awarded for creative, entertaining, or heroic play. Luck 🍀 may be spent to:
+
+1. Reroll all dice involved in a check, taking the better result.
+
+2. Execute a Luck Twist to alter an ability (+1 Target, +1d, +1 Range Band, +1sq Push, etc.).
+
+3. Substitute once per encounter in place of a Bolt (⚡) to activate a 1-⚡ ability.
 
 #### Monster Advantage / Disadvantage Inversion Doctrine
 
-Because GM-controlled monsters and NPCs never roll dice, any condition, buff, or debuff granting a monster Advantage or Disadvantage exclusively inverts the player character's check: * Monster Advantage ➔ Character Disadvantage (2L20): Character rolls at Disadvantage (e.g. monster has attack advantage ➔ character defends at Disadvantage). * Monster Disadvantage ➔ Character Advantage (2H20): Character rolls at Advantage (e.g. monster is Weakened ➔ character defends at Advantage; monster has poison disadvantage ➔ character saves at Advantage).
+Because GM-controlled monsters and NPCs never roll dice, any condition, buff, or debuff granting a monster Advantage or Disadvantage exclusively inverts the player character's check:
 
-#### Movement Rate (MR / 👣)
+* Monster Advantage ➔ Character Disadvantage (2L20): Character rolls at Disadvantage (e.g. monster has attack advantage ➔ character defends at Disadvantage).
 
-A character's tactical movement allowance in 5-foot squares per Move (M) action. Standard humans possess MR 6 (30 ft).
+* Monster Disadvantage ➔ Character Advantage (2H20): Character rolls at Advantage (e.g. monster is Weakened ➔ character defends at Advantage; monster has poison disadvantage ➔ character saves at Advantage).
+
+#### Movement Rate (MR 👣)
+
+A character's tactical movement allowance in 5-foot squares per Move (M) action.
 
 #### Nish (🚩)
 
@@ -2736,11 +2471,17 @@ Initiative. A character's speed and readiness in combat, determining turn order 
 
 #### Opportunity Attack (⚔️)
 
-An immediate melee-only reaction attack (Act(F)) executed when an engaged opponent moves more than 1 square away ("Breaking Melee") or takes a vulnerable non-melee action in melee reach. * Melee Only: Can only be made with a melee weapon in hand. * Frequency: May be made against each provoking opponent once per round. * Vanilla Simplicity Rule: The attacker cannot apply abilities, focus, or luck to the attack or damage rolls (polyhedral dice explosions still apply).
+An immediate melee-only reaction attack (Act(F)) executed when an engaged opponent moves more than 1 square out of melee range ("Breaking Melee") or takes a vulnerable non-melee action in melee reach.
+
+* Melee Only: Can only be made with a melee weapon in hand.
+
+* Frequency: May be made against each provoking opponent once per round .
+
+* Vanilla Simplicity Rule: The attacker cannot apply abilities, focus, or luck to the attack or damage rolls (polyhedral dice explosions still apply).
 
 #### Out of Path
 
-Learning an element outside your character's active paths. Costs a flat 3 AP and requires GM approval.
+Learning an element outside your character's active paths. Costs a +2 AP and requires GM approval.
 
 #### Paths (🧭)
 
@@ -2748,7 +2489,7 @@ The modular progression suites that organize character capabilities. Divided int
 
 #### Power (🔥)
 
-An intangible active combat ability (spell, psionic discipline, martial maneuver) unlocked with AP.
+An intangible active ability (spell, psionic discipline, martial maneuver) unlocked with AP and defined by (Action, Usage, Effect).
 
 #### Provoking
 
@@ -2756,55 +2497,43 @@ Taking an action while engaged in melee (Breaking Melee, firing ranged weapons, 
 
 #### Range Bands (🎯)
 
-The 9 standardized engagement distances: Self, Touch, 1 (adjacent melee), 2 (reach melee), 3 (extended reach), Short ( ≤ 6 sq), Medium ( ≤ 12 sq), Long ( ≤ 24 sq), Extreme ( ≥ 25 sq).
+The 9 standardized engagement distances: Self, Touch, 1sq, 2sq, 3sq, Short ( ≤ 6 sq), Medium ( ≤ 12 sq), Long ( ≤ 24 sq), Extreme ( ≥ 25 sq).
 
 #### Resist
 
-A defensive saving throw using Magic (✨) for supernatural/area effects, or Moxie (🫀) for bodily/toxin hazards.
-
-#### Reverse Shift
-
-An optional combat rule for d4 weapons allowing a character who missed an Attack by ≤ 4 to convert the miss into a hit by subtracting the deficit from their rolled Damage.
+A defensive saving throw using the most appropriate Attribute (✨💪👁️🏃🫀).
 
 #### Running / Sprinting (AM)
 
-Expending both Attack and Move allocations to sprint MR + d👣 squares on the ground.
+Expending both Attack and Move allocations to sprint MR + d👣 squares on the ground or as a jump.
 
 #### Sets (🗂️)
 
-Pre-packaged collections of weapons, armor, shields, or abilities that can be acquired collectively for a single Advancement Point (1 AP).
+Pre-packaged collections of abilities such as (Skill Sets, Weapon Skill Sets, Armor Skill Sets, Shield Skill Sets, Power Sets, etc.)).
 
 #### Shields (🛡️)
 
 Defensive armaments providing active Block defense modifiers and Block Cap limits.
 
-#### Single Die Rule
-
-Weapon Damage dice and Armor reduction dice may explode at most once on their maximum face value.
-
 #### Skills (🎓)
 
-Trained proficiencies that elevate an attribute check from an unskilled 1d20 to a skilled 2H20 roll.
+Trained proficiencies that elevate a attribute derived check from an unskilled 1d20 to a skilled 2H20 roll.
 
 #### Sparks
 
-Kinetic combat energy points accumulated during battle (via natural 20s, natural 1s, or exploding dice). Accumulating 5 sparks generates 1 Bolt (⚡). The word "spark" is written in plain text without the ⚡ emoji.
+Kinetic combat energy points accumulated during battle (via natural 20s, natural 1s, or exploding dice). Accumulating 5 sparks generates 1 Bolt (⚡) .
 
 #### Stunned
 
-A debilitating affliction causing the target to lose their Attack (A) and Move (M) action allocations for the round.
-
-#### Tactical Movement
-
-Ground movement measured in 5-foot squares. Allows moving, pausing, and resuming prior to taking an Attack action.
+A debilitating affliction causing the target to lose their Attack (A) and Move (M) actions.
 
 #### Traits (🧬)
 
-Modular passive capabilities, inherent biological rules, and archetype perks.
+Capabilities, inherent biological rules, and archetype perks.
 
 #### Tremendous (🌟)
 
-A natural 20 on the primary d20 during an Attack or Defense check, triggering a Tremendous combat boon.
+A natural 20 on a d20 during an Ability check, triggering a Tremendous boon.
 
 #### Universal Path (🧭)
 
@@ -2816,26 +2545,12 @@ The activation frequency cap of an ability: 1-⚡, 1-🍀, 1-Enc, 2-Enc, 3-Enc, 
 
 #### Vitality (Vit / ❤️)
 
-A character's total health pool (Vit = Moxie 🫀 by default). Reaching 0 causes unconsciousness; negative Vitality triggers Death Checks.
+A character's total health pool reduced by Wnds. Reaching 0 causes unconsciousness; negative Vitality triggers Death Checks.
 
 #### Weakness / Weakened
 
-An ongoing affliction causing all of the target's active rolls (Attacks, Defenses, Saves) to be rolled at Disadvantage (2L20), and halving their Movement Rate (👣, rounded up). Weakened has no effect on rolled Damage (Dmg 💥) or Armor (AR 🧥).
+An ongoing affliction causing all of the target's active rolls (Attacks, Defenses, Saves) to be rolled at Disadvantage (2L20) , and halving their Movement Rate (👣, rounded up) . Weakened has no effect on rolled Damage (Dmg 💥) or Armor (AR 🧥).
 
 #### Wounds (Wnd / 🩸)
 
-Cumulative physical damage suffered by a character or monster, tracked directly against Vitality.
-
-the 1., 2., and 3. sections should each start on their own line.
-
-Note: Innate Path is decremented to Innate Path. Please can entire document for any "Innate Path" that I've missed that needs to now be "Innate Path".
-
-I think this section needs to be moved up to the first table about Skilled, Unskilled, Advantage, Disadvantage.
-
-Note: This rule is decremented.
-
-Re-order in alphabetical order: Magic✨, Might💪, Mind👁️, Motion🏃, Moxie🫀
-
-Delete as this is a duplicate of the above Quick Reference: Leveling & AP Advancement Steps
-
-Please search and replace all "SupaFlex" with "SupaFlex"
+Cumulative points suffered by a character or monster, tracked directly against Vitality. Wounds is the amount of Damage not stopped by AR🧥 or Dmg that bypasses AR🧥.
