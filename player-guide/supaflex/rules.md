@@ -690,9 +690,9 @@ When a monster attacks you, choose **one (and only one)** active defense:
 
 ### 4.8 Range & Area 🎯
 
-Powers 🔥 and Weapons ⚔️ eliminate fiddly footage counting in favor of 9 standard Tactical Range Bands:
+Powers 🔥 and Weapons ⚔️ eliminate fiddly footage counting in favor of 8 standard Tactical Range Bands:
 
-#### The 9 Tactical Range Bands
+#### The 8 Tactical Range Bands
 
 | Range Band | Distance / Tactical Footprint | Tactical Application |
 | :--- | :--- | :--- |
@@ -1073,7 +1073,7 @@ Each known power (Exotic 🧿 or Character👤) can be upgraded by creating new 
 * **Bonus:** Increase the bonus (typically by +1 or +2 as per GM discretion).
 * **Affliction:** Attach an Affliction on hit (Stunned, Prone, Weakened).
 * **Usage:** Shift usage frequency (1-Enc ➔ 2-Enc ➔ 3-Enc). Rarely a GM “may” approve a 1-⚡➔ 1-🍀. But almost never should a GM approve 1-🍀➔ 1-Enc nor 3-Enc ➔ 1-Rnd.
-* **Range:** Expand Range Band (Touch ➔ 1sq ➔ 2sq ➔ 3sq ➔ Short ➔ Medium ➔ Long ➔ Extreme) providing such a range shift makes sense.
+* **Range:** Expand Range Band (Touch ➔ 1sq ➔ 2sq ➔ 3sq ➔ Short ➔ Medium ➔ Long) providing such a range shift makes sense.
 
 | Category | AP 🧩 Options |
 | :--- | :--- |
@@ -1710,7 +1710,7 @@ Every SupaFlex term and abbreviation in one A–Z list. Each heading shows the �
 
 #### Range Bands 🎯 (§4.8)
 
-* **Rng 🎯 (Range Bands):** The 9 standardized tactical engagement distances: Self, Touch, 1sq, 2sq, 3sq, Short (Up to 6 sq), Medium (Up to 12 sq), Long (Up to 24 sq), and Extreme (25+ sq). Attacking one band beyond listed range at Disadvantage is an optional rule (Extended Range; see Appendix A).
+* **Rng 🎯 (Range Bands):** The 8 standardized tactical engagement distances: Self, Touch, 1sq, 2sq, 3sq, Short (Up to 6 sq), Medium (Up to 12 sq), and Long (Up to 24 sq). Attacking one band beyond listed range at Disadvantage is an optional rule (Extended Range; see Appendix A).
 
 #### Resist (§4.5)
 
@@ -1841,7 +1841,7 @@ The comprehensive directory of all official icons/emojis used across character s
 | **Paths** | 🧭 | Progression suites (Class, Race, Innate, Universal, and Bonus) |
 | **Power** | 🔥 | Intangible martial, spell, or psionic ability unlocked via AP |
 | **Racial** | 🧬 | Innate biological/species heritage boons |
-| **Range** | 🎯 | Tactical distance band (Self, Touch, 1sq, 2sq, 3sq, Short, Medium, Long, Extreme) |
+| **Range** | 🎯 | Tactical distance band (Self, Touch, 1sq, 2sq, 3sq, Short, Medium, Long) |
 | **Sets** | 🗂️ | Contains multiple related abilities |
 | **Shields** | 🛡️ | Protective defensive armaments providing Block ratings |
 | **Single Weapon** | 🗡️ | Fighting with a lone single-handed weapon |
@@ -1869,5 +1869,5 @@ The comprehensive directory of all official icons/emojis used across character s
 * **Luck 🍀 —** reroll an entire roll once, or spend on a Luck Twist (§2.2).
 * **Damage —** Dmg – AR 🧥 = Wounds 🩸; 0 Vit or below = unconscious; –1 Vit or lower = Death Checks 🫀 (§4.6–4.7).
 * **Usage 🔄 —** 1-⚡, 1-🍀, 1-Enc, 2-Enc, 3-Enc, 1-Rnd (§6.2).
-* **Range 🎯 —** Self, Touch, 1sq, 2sq, 3sq, Short (up to 6 sq), Medium (up to 12 sq), Long (up to 24 sq), Extreme (25+ sq) (§4.8).
+* **Range 🎯 —** Self, Touch, 1sq, 2sq, 3sq, Short (up to 6 sq), Medium (up to 12 sq), Long (up to 24 sq) (§4.8).
 * **Spending AP 🧩 —** In-Path 1 AP · Skill Set 2 AP · Universal 3 AP · Out-of-Path 3 AP + GM · New Path 4 AP + GM (§7.3).

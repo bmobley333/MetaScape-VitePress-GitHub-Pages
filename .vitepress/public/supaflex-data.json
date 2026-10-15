@@ -22784,7 +22784,7 @@
       "name": "Arcing Volley",
       "action": "A",
       "usage": "1-Enc",
-      "effect": "Rng Extreme; 2x2 area; Atk 👁️ Dmg d👁️+3; 👁️^🏃 or targets Prone",
+      "effect": "Rng Long; 2x2 area; Atk 👁️ Dmg d👁️+3; 👁️^🏃 or targets Prone",
       "belongs_to": "Weapon: Bow (Long)",
       "genres": [
         "Medieval",
@@ -23221,23 +23221,6 @@
       "owner": "Designer"
     },
     {
-      "id": 634,
-      "name": "Bearded Hook",
-      "action": "P",
-      "usage": "1-Enc",
-      "effect": "💪^💪 or target Disarmed",
-      "belongs_to": "Weapon: Throwing Axes",
-      "genres": [
-        "Medieval",
-        "Modern",
-        "SciFi"
-      ],
-      "notes": "Poor melee damage; axe beard hooks weapons instead.",
-      "created_at": "2026-10-01T01:23:27.543284+00:00",
-      "tier": null,
-      "owner": "Designer"
-    },
-    {
       "id": 603,
       "name": "Bearded Hook",
       "action": "P",
@@ -23251,6 +23234,23 @@
       ],
       "notes": "Bearded blade snags hilts and rips weapons free.",
       "created_at": "2026-10-01T01:23:27.432513+00:00",
+      "tier": null,
+      "owner": "Designer"
+    },
+    {
+      "id": 634,
+      "name": "Bearded Hook",
+      "action": "P",
+      "usage": "1-Enc",
+      "effect": "💪^💪 or target Disarmed",
+      "belongs_to": "Weapon: Throwing Axes",
+      "genres": [
+        "Medieval",
+        "Modern",
+        "SciFi"
+      ],
+      "notes": "Poor melee damage; axe beard hooks weapons instead.",
+      "created_at": "2026-10-01T01:23:27.543284+00:00",
       "tier": null,
       "owner": "Designer"
     },
@@ -28497,7 +28497,7 @@
       "name": "Lock-On Telemetry",
       "action": "A",
       "usage": "2-Enc",
-      "effect": "Rng Extreme; designate 1 target; Atk 👁️+5; ignores cover",
+      "effect": "Rng Long; designate 1 target; Atk 👁️+5; ignores cover",
       "belongs_to": "Weapon: Missile Launcher (mso)",
       "genres": [
         "SciFi"
@@ -28742,7 +28742,7 @@
       "name": "Mass-Driver Overload",
       "action": "A",
       "usage": "1-⚡",
-      "effect": "Rng Extreme; 1x8; Atk 👁️ Dmg d👁️+10; 👁️^🫀 or target Stunned",
+      "effect": "Rng Long; 1x8; Atk 👁️ Dmg d👁️+10; 👁️^🫀 or target Stunned",
       "belongs_to": "Weapon: Disk Cannon (mso)",
       "genres": [
         "SciFi"
@@ -29564,7 +29564,7 @@
       "name": "Overcharged Service Cell",
       "action": "A",
       "usage": "1-⚡",
-      "effect": "Rng Extreme; Atk 👁️ Dmg d👁️+10; 👁️^🫀 or target Blinded",
+      "effect": "Rng Long; Atk 👁️ Dmg d👁️+10; 👁️^🫀 or target Blinded",
       "belongs_to": "Weapon: Pulse Laser Rifle (mso)",
       "genres": [
         "SciFi"
@@ -29673,7 +29673,7 @@
       "name": "Pavise Brace",
       "action": "AM",
       "usage": "1-Rnd",
-      "effect": "Brace on ground or wall: 👣-4, shots gain Rng Extreme and Dmg d👁️+5; 👁️^💪 or target Pinned to Ground",
+      "effect": "Brace on ground or wall: 👣-4, shots gain Rng Long and Dmg d👁️+5; 👁️^💪 or target Pinned to Ground",
       "belongs_to": "Weapon: Tower Crossbow",
       "genres": [
         "Medieval",
@@ -29801,7 +29801,7 @@
       "name": "Phase-Locked Snipe",
       "action": "A",
       "usage": "2-Enc",
-      "effect": "Rng Extreme; Atk 👁️ Dmg d👁️+5; ignores cover; 👁️^🫀 or target Stunned",
+      "effect": "Rng Long; Atk 👁️ Dmg d👁️+5; ignores cover; 👁️^🫀 or target Stunned",
       "belongs_to": "Weapon: Phase Rifle",
       "genres": [
         "SciFi"
@@ -31762,7 +31762,7 @@
       "name": "Shoulder-Braced Lance",
       "action": "A",
       "usage": "2-Enc",
-      "effect": "Rng Extreme; Atk 👁️ Dmg d👁️+5; 👁️^💪 or target Pinned to Ground",
+      "effect": "Rng Long; Atk 👁️ Dmg d👁️+5; 👁️^💪 or target Pinned to Ground",
       "belongs_to": "Weapon: Pulse Laser Carbine (mso)",
       "genres": [
         "SciFi"
