@@ -17,6 +17,14 @@
       "owner": "Designer"
     },
     {
+      "id": "67e7d448-cc90-48f7-8e38-8e3af669481f",
+      "name": "Banner Lord",
+      "category": "Class",
+      "description": "Banner abilities",
+      "created_at": "2026-10-11T20:10:22.302+00:00",
+      "owner": "jadoha22@gmail.com"
+    },
+    {
       "id": "66159040-b06b-4906-8bad-63df58ec9301",
       "name": "Bard",
       "category": "Class",
@@ -19907,6 +19915,25 @@
       "sets": [],
       "path": [
         "Fairy"
+      ]
+    },
+    {
+      "id": 997,
+      "name": "Sunburst Standard",
+      "usage": "1-Enc",
+      "action": "P",
+      "effect": "Plant the banner. Allies in 4 sq gain Advantage on Atk rolls this rnd.",
+      "created_at": "2026-10-11T20:14:00.589+00:00",
+      "genres": [
+        "Medieval"
+      ],
+      "discipline": "Martial",
+      "stat_hook": null,
+      "notes": null,
+      "owner": "jadoha22@gmail.com",
+      "sets": [],
+      "path": [
+        "Banner Lord"
       ]
     },
     {

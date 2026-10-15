@@ -33,7 +33,7 @@ export default defineConfig({
         str
           .replace(/[\/\\]/g, '-')                     // Step 1: Convert forward/back slashes to hyphens
           .replace(/\{#[\w-]+\}/g, '')                 // Step 2: Strip VitePress {#custom-id} attribute tags
-          .replace(/[\u{1F300}-\u{1F9FF}]|[\u{2600}-\u{26FF}]|[\u{2700}-\u{27BF}]|[\u{1F600}-\u{1F64F}]|[\u{1F680}-\u{1F6FF}]|[\u{1F1E0}-\u{1F1FF}]|[\u{2B05}-\u{2B07}]|[\u{2934}-\u{2935}]|[\u{3297}-\u{3299}]|[\u{3030}]|[\u{303D}]|[\u{203C}]|[\u{2049}]|[\u{2122}]|[\u{2139}]/gu, '')  // Step 3: Strip all Unicode emoji ranges
+          .replace(/[\u{1F300}-\u{1FAFF}]|[\u{2600}-\u{26FF}]|[\u{2700}-\u{27BF}]|[\u{1F600}-\u{1F64F}]|[\u{1F680}-\u{1F6FF}]|[\u{1F1E0}-\u{1F1FF}]|[\u{2B05}-\u{2B07}]|[\u{2934}-\u{2935}]|[\u{3297}-\u{3299}]|[\u{3030}]|[\u{303D}]|[\u{203C}]|[\u{2049}]|[\u{2122}]|[\u{2139}]|[\u{FE0F}]/gu, '')  // Step 3: Strip all Unicode emoji ranges & variation selectors
           .toLowerCase()                               // Step 4: Lowercase everything
           .trim()                                      // Step 5: Trim whitespace
           .replace(/[^\w\s-]/g, '')                    // Step 6: Remove remaining non-word chars (except hyphens)
@@ -43,7 +43,7 @@ export default defineConfig({
   },
 
   themeConfig: {
-    outline: [2, 2],
+    outline: [2, 3],
     logo: '/jodar.ico',
     search: {
       provider: 'local',
@@ -64,9 +64,7 @@ export default defineConfig({
       }
     },
     nav: [
-      { text: '👤 Player Guide', link: '/player-guide/supaflex/rules' },
-      { text: '👑 GM Guide', link: '/player-guide/supaflex/rules#gm-tricks' },
-      { text: '🔨 The Forge', link: '/player-guide/supaflex/rules#appendix-a-element-effect-creation-guide' },
+      { text: '📖 Rules', link: '/player-guide/supaflex/rules' },
       { text: '📊 Catalogs', link: '/player-guide/supaflex/tables' }
     ],
     sidebar: {

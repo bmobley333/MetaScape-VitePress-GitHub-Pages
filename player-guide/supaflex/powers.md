@@ -6,6 +6,12 @@ Select one of the many sub-sets of powers such as Class👤, Race🧬, Combat St
 ## 👤 **Class Powers**
 
 
+### 👤 **Banner Lord Powers** (1 Abilities)
+
+| Usage | Action | Name | Effect |
+| --- | --- | --- | --- |
+| 1-Enc | P | **Sunburst Standard** | Plant the banner. Allies in 4 sq gain Advantage on Atk rolls this rnd. |
+
 ### 👤 **Bard Powers** (21 Abilities)
 
 | Usage | Action | Name | Effect |
