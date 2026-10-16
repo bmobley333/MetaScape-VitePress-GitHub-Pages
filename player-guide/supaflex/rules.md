@@ -403,7 +403,7 @@ Spend your remaining 1 Starting AP 🧩 on a flexible upgrade of your choice, su
 
 #### Step 8 · Money & Gear
 
-* Start with 2d4 Gold (g) + 1d20 Silver (s) AFTER initial gear selection.
+* Start with 5 Gold (g) + 50 Silver (s) AFTER initial gear selection.
 
 🧰 Starting Gear
 
