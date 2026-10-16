@@ -880,7 +880,7 @@ MR 👣
 ### 5.4 Owning What You're Skilled In
 
 * Weapons ⚔️, Armor 🧥, and Shields 🛡️ are all categories of **Gear ⚙️ AND all of them are also a skill 🎓**. Thus a character can learn Sword Skill 🎓 AND needs to own a Sword or the skill is not currently useful. On the other hand, ANY character can pick up a sword and use it as an unskilled weapon, in which case the character has the Gear ⚙️ “sword” but is NOT skilled at swords.
-* **Default Gear Possession Rule:** When a character learns or becomes skilled in a new weapon ⚔️, armor 🧥, or shield 🛡️ (via starting Path or AP advancement), the default system rule is that they are assumed to possess the physical item as Gear ⚙️ (unless the GM determines otherwise based on campaign tone and narrative context).
+* **Default Gear Possession Rule:** Under SupaFlex’s default KISS rules, all common and obvious tools — as well as any Weapon ⚔️, Armor 🧥, or Shield 🛡️ selected and listed on the character sheet (regardless of whether Skilled or Unskilled) — are assumed to be physically owned as Gear ⚙️ without needing to specifically purchase them in the Gear Manager (unless the GM determines otherwise based on campaign tone and narrative context).
 
 ## Part 6 · Powers, Exotics & Treasure
 
@@ -973,7 +973,7 @@ All abilities have an Action 🔷, Usage 🔄, Duration ⏳, and Range 🎯. Oft
 
 #### The Universal Learning Model & Ownership Lineage
 
-* **Physical Ownership Gate:** Characters cannot browse Artifacts 🔮 but must find them as loot. To access an Exotic 🧿 the character must physically own the host gear.
+* **Physical Ownership Gate:** Characters cannot browse Artifacts 🔮 but must find them as loot. To access an Exotic 🧿 the character must physically own the host gear — meaning the Exotic Gear is either owned in the character's Gear ⚙️ Manager or selected and listed on the character sheet in the Weapons ⚔️, Armor 🧥, or Shields 🛡️ cards (regardless of whether Skilled or Unskilled).
 * **1 AP Learning:** Every Exotic 🧿 Power 🔥 costs exactly 1 AP to learn.
 * **Installed Mod:** Exotic 🧿 Powers 🔥 are tied to a specific Mod 🔌 requiring that mod to be installed on the host gear before the power can be learned.
 * **Unlearn / AP Refund:** Players may unlearn a Power or remove a Mod (and thus all of its Powers) at any time, immediately refunding all related AP.
