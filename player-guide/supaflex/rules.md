@@ -1074,6 +1074,7 @@ Each known power (Exotic 🧿 or Character👤) can be upgraded by creating new 
 * **Affliction:** Attach an Affliction on hit (Stunned, Prone, Weakened).
 * **Usage:** Shift usage frequency (1-Enc ➔ 2-Enc ➔ 3-Enc). Rarely a GM “may” approve a 1-⚡➔ 1-🍀. But almost never should a GM approve 1-🍀➔ 1-Enc nor 3-Enc ➔ 1-Rnd.
 * **Range:** Expand Range Band (Touch ➔ 1sq ➔ 2sq ➔ 3sq ➔ Short ➔ Medium ➔ Long) providing such a range shift makes sense.
+* **Action Is Immutable:** Power Versions can NEVER modify a Power’s Action (AM, A, M, P, F).
 
 | Category | AP 🧩 Options |
 | :--- | :--- |
