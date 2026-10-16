@@ -129,7 +129,7 @@ This table shows all possible combinations of Ability Rolls (#d20).
 
 ### 1.4 Exploding Dice
 
-All attribute derived die rolls explode (i.e. all d4, d6, d8, d10, and d12) rolls that derive from attributes explode. This also includes Damage, Armor, and Healing rolls. If the die rolls its maximum face, reroll that die and add the new result. If the reroll is also the max face, roll again, keep adding. Thus an exploding d6 “could” roll 6, 6, 6, 6, 4 for a total of 28.
+All attribute derived die rolls explode (i.e. all d4, d6, d8, d10, and d12) rolls that derive from attributes explode. This also includes Damage, Armor, Healing, and all d👣 movement rolls (both Jumps and Running/Sprinting). If the die rolls its maximum face, reroll that die and add the new result. If the reroll is also the max face, roll again, keep adding. Thus an exploding d6 “could” roll 6, 6, 6, 6, 4 for a total of 28.
 
 #### Universal Explosion Rule for Attribute Rolls
 
@@ -295,7 +295,7 @@ Vitality ❤️ is your health pool. Starting Vit is set in §2.5 (Step 4); dama
 #### The Four Foundational Paths
 
 * **Starting & Foundational Paths 🧭:** Every character starts with two selected and Learned Paths (a Race Path and a Class Path) plus two free Paths (the Innate Path and the Universal Path):
-  * **Innate Path 🧭:** The path of base abilities that ALL characters have (inherent capabilities granted to all characters).
+  * **Innate Path 🧭: The path of base abilities that ALL characters have (including Language Common for free Trait [0 AP], plus 1 AP learnable skills like Nish 🚩, Resist Death 🫀, and Resist Unconsciousness 🫀, and natural/improvised proficiencies).**
   * **Race Path 🧭:** Defines species traits, biology, and innate racial rules. Can grant abilities costing 1 AP, Free (0 AP), or both.
   * **Class Path 🧭:** Defines starting archetype, core skill set options, proficient weapons, armor, and starting powers. Can grant abilities costing 1 AP, Free (0 AP), or both.
   * **Universal Path 🧭:** An open, permanent global pool of high-impact abilities. Universal Path abilities may be learned by ANY character for 3 AP (the typical Out-of-Path cost) and do NOT require GM approval.
@@ -389,7 +389,7 @@ Spend your remaining 1 Starting AP 🧩 on a flexible upgrade of your choice, su
 * A Shield 🛡️ (1 AP)
 * A 2nd Weapon ⚔️ (1 AP)
 * Nish 🚩 Skill (1 AP)
-* Death Check 🫀 Skill (1 AP)
+* Resist Death 🫀 or Resist Unconsciousness 🫀 Skill (1 AP)
 * +2 Max Vit ❤️ (1 AP)
 
 #### Step 7 · Dossier
@@ -582,11 +582,11 @@ Every combat round, each character receives an action allocation of **1 Attack (
 #### Tactical Movement & The Mobile Striker Clause
 
 * **Standard Attack & Move Sequence:** If you do not use your (A) Action, you may freely pause and resume your Move (M) (move ➔ pause ➔ move). However, taking an Attack (A) action immediately concludes your turn's movement IF 1 or more MR has already been used; any unused Movement Rate (MR) is forfeit.
-* **Running (Sprinting):** Running requires an Attack & Move (AM) action and grants full ground movement of MR + d👣 squares (👣+d👣 sq).
+* **Running (Sprinting): Running requires an Attack & Move (AM) action and grants full ground movement of MR + d👣 squares (👣+d👣 sq). All d👣 rolls explode.**
 * **Difficult Terrain:** Any tactical grid square (5x5 ft) designated as Difficult Terrain requires 2 or more Movement Rate 👣 points to enter, rather than the standard 1 point. The universal difficult terrain default, unless otherwise noted, is a 👣 cost of 2 per square. Severe obstructions like waist-deep mud or steep rubble can have a 3 or higher 👣 cost per sq.
 * **Breaking Melee:** Moving more than the melee reach away from an opponent who has engaged you in melee while they have Nish in that round provokes an Opportunity Attack. See Opportunity Attacks.
 * **Mobile Striker Clause:** Specialized Move (M) or Partial (P) Powers 🔥 or items can explicitly grant move-Atk-move ("You may split your movement before and after this attack"), providing tactical identity for mobility builds.
-* **Jumping Actions:** Standing Jump is d👣 squares as a Move (M) action. Running Jump is running up to MR 👣 on the ground plus a d👣 jump as an Attack & Move (AM) action. Jump’s explode.
+* **Jumping Actions:** Standing Jump is d👣 squares as a Move (M) action. Running Jump is running up to MR 👣 on the ground plus a d👣 jump as an Attack & Move (AM) action. All d👣 rolls explode (both Jumps and Running).
 
 **Examples of Partial (P) Actions (or a Move [M] action when using a two-handed weapon, dual wielding, or Weapon & Shield):**
 
@@ -683,10 +683,10 @@ When a monster attacks you, choose **one (and only one)** active defense:
 
 ### 4.7 Down & Dying
 
-* **Unconscious:** When Current Vit ❤️ is 0 or below (0 or negative Vit ❤️), You are unconscious, collapse and cannot take actions.
-* **Death Check Trigger:** When Wnd 🩸 exceeds Vit ❤️ (i.e., negative Vit ❤️) you must make an immediate Death Check 🫀, and on each Nish, starting next round, until stabilized (Vit at 0 or above) or deceased.
-* **Death Check Formula** = Moxie 🫀 roll vs Dif = 5 + (Wnd 🩸 – Vit ❤️). Example: Vit ❤️ 20 with 23 Wnd 🩸 → Dif = 8.*(Example: At -8 Vit, the Dif is 5 + 8 = 13). So the shorthand notation would be 🫀^13.*
-* **Bleeding:** After each Death Check except the first, you automatically suffer +1 Wound 🩸 per round from arterial bleeding/power loss/etc. until receiving First Aid, triage, or magical healing. Thus, left unattended, an unconscious PC will slowly bleed out (Wnd 🩸 increase 1/rnd until they eventually fail a Death Check).
+* **Zero or Negative Vit Affliction Order & Unified Triggers: Once a character’s Current Vit ❤️ is 0 or below, three afflictions/checks apply in strict order: 1. Bleeding, 2. Death Check, 3. Unconscious Check. All three share unified triggers: (1) upon reaching Vit 0 or below, (2) anytime more Wnds 🩸 are received while at Vit 0 or below, and (3) on each of the character’s Nishes 🚩 starting next round until stabilized (Vit above 0). The one exception is that Bleeding does not apply upon the character’s first time entering Vit 0 or below, and Bleeding is not triggered by more Wnds 🩸 received.**
+* **1. Bleeding (-1 Vit): On each of the character’s Nishes 🚩 starting the round after reaching Vit 0 or below (never on initial entry into Vit 0 or below, and never when receiving more Wnds 🩸), the character suffers +1 Wound 🩸 (-1 Vit ❤️) from arterial bleeding/power loss until receiving First Aid, triage, or magical healing.**
+* **2. Death Check (Resist Death 🫀): At Vit 0 or below, roll Resist Death 🫀 as a skill check at 🫀^-Vit+5 (e.g., at Vit 0 it is 🫀^5; at Vit -8 it is 🫀^13). Failing a Death Check results in death.**
+* **3. Unconscious Check (Resist Unconsciousness 🫀): At Vit 0 or below, roll Resist Unconsciousness 🫀 as a skill check at 🫀^-Vit+10 (e.g., at Vit 0 it is 🫀^10; at Vit -8 it is 🫀^18). Failing renders the character unconscious (collapses Prone and cannot take actions).**
 
 ### 4.8 Range & Area 🎯
 
@@ -936,8 +936,8 @@ All abilities have an Action 🔷, Usage 🔄, Duration ⏳, and Range 🎯. Oft
 * **Exploding Die Events:** Gain +1 Spark per exploding die roll (if a die explodes 4 times in a row, gain 4 Sparks).
 * **Full Bolt State (+1 to All Rolls):** A character holding 5 Sparks has "A Full Bolt ⚡". While holding a full Bolt, they gain a flat +1 bonus to ALL Attribute derived rolls, including Defenses, and Damage rolls until they spend their Bolt ⚡ or the encounter ends.
 * **Encounter Transition & Zeroing Out:**
-  * If a character reaches a full Bolt (5 Sparks) in an encounter, then at the end of that encounter their Sparks zero out (reset to 0).
-  * Otherwise, if they end an encounter with fewer than 5 Sparks (<5 Sparks), their Sparks carry over into the next encounter. (Characters are continuously transitioning between encounter types, whether combat or roleplaying).
+  * If an encounter ends with the character at full Bolt (5 Sparks), then the Bolt and all Sparks are lost (reset to 0).
+  * Otherwise, the number of current Sparks persist into the next encounter. (Characters are continuously transitioning between encounter types, whether combat or roleplaying).
 
 **ℹ️ Note:**
 
@@ -1511,7 +1511,7 @@ Every SupaFlex term and abbreviation in one A–Z list. Each heading shows the �
 
 #### Bleeding (§4.7)
 
-* A character with negative Vitality (below 0 Vit) suffers 1 Wound automatically after each Death Check except the first, representing active hemorrhage, failed circuits, etc. Bleeding continues until bandaged, stabilized with first aid, or healed magically.
+* At Vit 0 or below, a character suffers +1 Wound (-1 Vit) on each of their Nishes starting the round after entering Vit 0 or below (Bleeding does not apply upon first entering Vit 0 or below, and is not triggered by receiving more Wnds). Resolved first before Death Check and Unconscious Check until bandaged, stabilized with first aid, or healed magically.
 
 #### Block (Blk 🛡️) (§4.5)
 
@@ -1544,7 +1544,7 @@ Every SupaFlex term and abbreviation in one A–Z list. Each heading shows the �
 
 #### Death Check 🫀 (§4.7)
 
-* A mandatory Death Check 🫀 made immediately when Current Vitality drops to -1 or lower, and repeated on each of the character's Nishes until stabilized or dead. Difficulty = 5 + (- Current Vit). Unskilled characters roll 1d20 + d(🫀); skilled characters (with the Death Check skill) roll 2H20 + d(🫀).
+* At Current Vitality 0 or below, characters resolve Negative Vit afflictions in order: 1. Bleeding (-1 Vit on Nish after first round), 2. Death Check (Resist Death 🫀 at 🫀^-Vit+5; e.g., at Vit 0 it is 🫀^5, at Vit -8 it is 🫀^13), and 3. Unconscious Check (Resist Unconsciousness 🫀 at 🫀^-Vit+10; e.g., at Vit 0 it is 🫀^10, at Vit -8 it is 🫀^18). Triggered upon reaching Vit 0 or below, anytime more Wnds are received, and on each of the character's Nishes starting next round.
 
 #### Default Gear Possession (§5.4)
 
@@ -1603,7 +1603,7 @@ Every SupaFlex term and abbreviation in one A–Z list. Each heading shows the �
 
 #### Exploding Die (§1.4)
 
-* A die rolling its maximum face value (e.g. 8 on a d8) is rolled again, adding the new result to the running total. If the 2nd roll is also max face, the rule compounds and continues. All Attribute derived rolls (including the d(Atr) of Ability Rolls) explode indefinitely. Additionally: Focus, Damage, Armor, and Jumps are also all included as exploding rolls.
+* A die rolling its maximum face value (e.g. 8 on a d8) is rolled again, adding the new result to the running total. If the 2nd roll is also max face, the rule compounds and continues. All Attribute derived rolls (including the d(Atr) of Ability Rolls) explode indefinitely. Additionally: Focus, Damage, Armor, and all d👣 movement rolls (both Jumps and Running) are also all included as exploding rolls.
 
 #### Fatigue Wounds 🩸 (§4.6)
 
@@ -1645,7 +1645,7 @@ Every SupaFlex term and abbreviation in one A–Z list. Each heading shows the �
 
 #### Innate Path (§2.3)
 
-* The foundational heritage path of all characters.
+* The foundational heritage path of all characters (includes Language Common for free Trait [0 AP], plus 1 AP learnable skills such as Nish 🚩, Resist Death 🫀, and Resist Unconsciousness 🫀).
 
 #### Level ⭐ (§7.1)
 
@@ -1726,7 +1726,7 @@ Every SupaFlex term and abbreviation in one A–Z list. Each heading shows the �
 
 #### Running / Sprinting (AM) (§4.3)
 
-* Expending both Attack and Move allocations to sprint MR + d👣 squares on the ground or as a jump.
+* Expending both Attack and Move allocations to sprint MR + d👣 squares on the ground or as a jump. All d👣 rolls explode.
 
 #### Session (§3.1)
 
@@ -1747,7 +1747,7 @@ Every SupaFlex term and abbreviation in one A–Z list. Each heading shows the �
 
 #### Sparks (§6.2)
 
-* Kinetic combat energy points accumulated during battle (via natural 20s, natural 1s, or exploding dice). Accumulating 5 sparks generates 1 Bolt ⚡.
+* Kinetic combat energy points accumulated during battle (via natural 20s, natural 1s, or exploding dice). Accumulating 5 sparks generates 1 Bolt ⚡. If an encounter ends with the character at full Bolt, then the Bolt and all Sparks are lost; otherwise, the number of current Sparks persist into the next encounter.
 
 #### Square (sq) (§4.3)
 
@@ -1783,7 +1783,7 @@ Every SupaFlex term and abbreviation in one A–Z list. Each heading shows the �
 
 #### Vitality (Vit / ❤️) (§4.7)
 
-* **Vit ❤️ (Vitality):** A character's or monster's total health pool reduced by Wounds 🩸. Reaching 0 Vit causes unconsciousness; negative Vitality (–1 or lower) triggers Death Checks 🫀.
+* **Vit ❤️ (Vitality): A character's or monster's total health pool reduced by Wounds 🩸. Reaching 0 Vit or below triggers Bleeding (on Nish starting next round), Death Checks (Resist Death 🫀^-Vit+5), and Unconscious Checks (Resist Unconsciousness 🫀^-Vit+10).**
 
 #### Weakness (§3.4)
 
@@ -1867,7 +1867,7 @@ The comprehensive directory of all official icons/emojis used across character s
 * **Advantage / Disadvantage —** +1 d20 keep highest / –1 d20 (2L20 if Unskilled); never stacks (§1.3).
 * **Focus 🎯 —** add after seeing the roll, once per roll; refills on Flood triggers (§2.2).
 * **Luck 🍀 —** reroll an entire roll once, or spend on a Luck Twist (§2.2).
-* **Damage —** Dmg – AR 🧥 = Wounds 🩸; 0 Vit or below = unconscious; –1 Vit or lower = Death Checks 🫀 (§4.6–4.7).
+* **Damage — Dmg – AR 🧥 = Wounds 🩸; at 0 Vit or below resolve in order: Bleeding, Death Check (🫀^-Vit+5), Unconscious Check (🫀^-Vit+10) (§4.6–4.7).**
 * **Usage 🔄 —** 1-⚡, 1-🍀, 1-Enc, 2-Enc, 3-Enc, 1-Rnd (§6.2).
 * **Range 🎯 —** Self, Touch, 1sq, 2sq, 3sq, Short (up to 6 sq), Medium (up to 12 sq), Long (up to 24 sq) (§4.8).
 * **Spending AP 🧩 —** In-Path 1 AP · Skill Set 2 AP · Universal 3 AP · Out-of-Path 3 AP + GM · New Path 4 AP + GM (§7.3).

@@ -37932,9 +37932,6 @@
         "Athletics"
       ],
       "path": [
-        "Core Skills",
-        "Fairy",
-        "Psychosomatics",
         "Innate"
       ]
     },
@@ -38691,33 +38688,11 @@
         "Sci-Fi"
       ],
       "discipline": "General",
-      "notes": "Defying mortal trauma, stabilizing critical injuries, and death saving throws.",
+      "notes": "Defying mortal trauma and death checks at 0 Vitality or below (🫀^-Vit+5). At Vit 0 the check is 🫀^5; at Vit -8 it is 🫀^13.",
       "created_at": "2026-08-28T21:04:18.034287+00:00",
       "owner": "Designer",
-      "sets": [
-        "Iron Lotus Discipline",
-        "Spec Survivalist",
-        "Blackaxe Clan Skills",
-        "Calemora Skills",
-        "Warrior Skills",
-        "Cursed Spartan Skills",
-        "Bulwark Discipline",
-        "Bloodfang Berserker Skills",
-        "Lifestealer Skills",
-        "Restoration Discipline",
-        "Sun-Devoted Skills",
-        "Giant Skills",
-        "Psychosomatics Skills",
-        "Dragon Skills"
-      ],
+      "sets": [],
       "path": [
-        "Core Skills",
-        "Healer",
-        "Mage - Void Magic",
-        "Martial Artist - Blade Saint",
-        "Mutak (mso)",
-        "Psionics - Sentinel",
-        "Warrior - Bloodfang Berserker",
         "Innate"
       ]
     },
@@ -38934,6 +38909,27 @@
       "path": [
         "Kryll (mso) {Free}",
         "Spy (mso)"
+      ]
+    },
+    {
+      "id": 698,
+      "name": "Resist Unconsciousness",
+      "attribute": "🫀",
+      "genres": [
+        "Fantasy",
+        "Medieval",
+        "Modern",
+        "SciFi",
+        "Sci-Fi",
+        "Space"
+      ],
+      "discipline": "General",
+      "notes": "Remaining conscious at 0 Vitality or below (🫀^-Vit+10). At Vit 0 the check is 🫀^10; at Vit -8 it is 🫀^18.",
+      "created_at": "2026-10-16T16:18:36.772688+00:00",
+      "owner": "Designer",
+      "sets": [],
+      "path": [
+        "Innate"
       ]
     },
     {
@@ -41564,6 +41560,28 @@
       "path": [
         "Zin-Shee Female (mso) {Free}",
         "Zin-Shee Male (mso) {Free}"
+      ]
+    },
+    {
+      "id": 542,
+      "name": "Language Common",
+      "effect": "Each character speaks its racial language and Common. Common is the most common/dominate race or organizational language in the setting - all PCs know these two languages for {Free}, thus 0 AP.",
+      "stat_hook": null,
+      "genres": [
+        "Fantasy",
+        "Medieval",
+        "Modern",
+        "SciFi"
+      ],
+      "discipline": "General",
+      "notes": "Each character speaks its racial language and Common. Common is the most common/dominate race or organizational language in the setting - all PCs know these two languages for {Free}, thus 0 AP.",
+      "created_at": "2026-10-16T16:18:36.772688+00:00",
+      "cost": "0s",
+      "belongs_to": null,
+      "owner": "Designer",
+      "sets": [],
+      "path": [
+        "Innate {Free}"
       ]
     },
     {
@@ -44900,6 +44918,28 @@
       ]
     },
     {
+      "id": 542,
+      "name": "Language Common",
+      "effect": "Each character speaks its racial language and Common. Common is the most common/dominate race or organizational language in the setting - all PCs know these two languages for {Free}, thus 0 AP.",
+      "stat_hook": null,
+      "genres": [
+        "Fantasy",
+        "Medieval",
+        "Modern",
+        "SciFi"
+      ],
+      "discipline": "General",
+      "notes": "Each character speaks its racial language and Common. Common is the most common/dominate race or organizational language in the setting - all PCs know these two languages for {Free}, thus 0 AP.",
+      "created_at": "2026-10-16T16:18:36.772688+00:00",
+      "cost": "0s",
+      "belongs_to": null,
+      "owner": "Designer",
+      "sets": [],
+      "path": [
+        "Innate {Free}"
+      ]
+    },
+    {
       "id": 417,
       "name": "Language, Guildspeak (mso)",
       "effect": "Can speak: GuildSpeak",
@@ -48230,6 +48270,28 @@
       "path": [
         "Zin-Shee Female (mso) {Free}",
         "Zin-Shee Male (mso) {Free}"
+      ]
+    },
+    {
+      "id": 542,
+      "name": "Language Common",
+      "effect": "Each character speaks its racial language and Common. Common is the most common/dominate race or organizational language in the setting - all PCs know these two languages for {Free}, thus 0 AP.",
+      "stat_hook": null,
+      "genres": [
+        "Fantasy",
+        "Medieval",
+        "Modern",
+        "SciFi"
+      ],
+      "discipline": "General",
+      "notes": "Each character speaks its racial language and Common. Common is the most common/dominate race or organizational language in the setting - all PCs know these two languages for {Free}, thus 0 AP.",
+      "created_at": "2026-10-16T16:18:36.772688+00:00",
+      "cost": "0s",
+      "belongs_to": null,
+      "owner": "Designer",
+      "sets": [],
+      "path": [
+        "Innate {Free}"
       ]
     },
     {

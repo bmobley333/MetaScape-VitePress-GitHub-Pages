@@ -168,7 +168,7 @@ Master indexed skill sets and atomic skills directory.
 | **Repair System (mso)** | 👁️ | Tech | Engineer, Astrogator, Captain, Communications, Programmer, Fighter Pilot, Helm, Medic, Scientist, Tactical | This skill enables a character to make repairs on any one ship or vehicle station/system (e.g. computer, science station, scanners, engines, communications, helm, tactical, or medical). Additional systems require the 'Additional System' enhancement. |
 | **Repair Weapon (mso)** | 👁️ | Martial | Archer, Pistolier, Blaster Expert, Carbinier, Pulse Laser Expert, Rifle Expert, Starborn Ranger Skills, Bio-Gunner Skills | Repair weapon allows a character to fix personal weapons such as swords, pistols, cannons, etc. Common repairs include fixing jams, short circuits, and power pack malfunctions. Heavier weapons, including vehicle- and ship-class weapons, are related rolls. Does not apply to cybernetic weapons. |
 | **Resist Charm** | ✨ | General | Elven Skills, Fairy Skills, Bloodmarked Skills, Nymph Skills, Inner Peace Discipline, Bard Skills, Psionic Sentinel Skills, Glamour Discipline |  |
-| **Resist Death** | 🫀 | General | Iron Lotus Discipline, Spec Survivalist, Blackaxe Clan Skills, Calemora Skills, Warrior Skills, Cursed Spartan Skills, Bulwark Discipline, Bloodfang Berserker Skills, Lifestealer Skills, Restoration Discipline, Sun-Devoted Skills, Giant Skills, Psychosomatics Skills, Dragon Skills | Defying mortal trauma, stabilizing critical injuries, and death saving throws. |
+| **Resist Death** | 🫀 | General |  | Defying mortal trauma and death checks at 0 Vitality or below (🫀^-Vit+5). At Vit 0 the check is 🫀^5; at Vit -8 it is 🫀^13. |
 | **Resist Disease** | 🫀 | Medical | Goblin Skills, Ship Office Medic, Saurian Skills, Lifestealer Skills, Inner Peace Discipline, Restoration Discipline, Psychosomatics Skills |  |
 | **Resist Disease (mso)** | 🫀 | Medical | Medic, Bio Engineer Skills, Bio-Warrior Skills, Mutak Skills |  |
 | **Resist Illusions** | 👁️ | General | Gnomish Skills, Fairy Skills, Misdirection Skills, Void Magic Skills, Psionic Sentinel Skills, Pixie Skills |  |
@@ -176,6 +176,7 @@ Master indexed skill sets and atomic skills directory.
 | **Resist Pain/Fear** | 🫀 | General | Halfling Skills, Iron Lotus Discipline, Ship Office Fighter Pilot, Ship Office Tactical, Blackaxe Clan Skills, Calemora Skills, Warrior Skills, Cursed Spartan Skills, Bulwark Discipline, Bloodfang Berserker Skills, Inferno Vanguard Skills, Lifestealer Skills, Punk Skills, Blade Saint Skills, Restoration Discipline, Sun-Devoted Skills, Psionic Sentinel Skills, Giant Skills, Psychosomatics Skills, Destron Skills, Dragon Skills |  |
 | **Resist Poison** | 🫀 | Covert | Dwarven Skills, Spec Spy, Spec Thief, Saurian Skills, Lifestealer Skills, Inner Peace Discipline, Shadow Kill Skills, Restoration Discipline, Verdant Sentinel Skills |  |
 | **Resist Poison (mso)** | 🫀 | Covert | Spy, Bio-Warrior Skills, Mutak Skills |  |
+| **Resist Unconsciousness** | 🫀 | General |  | Remaining conscious at 0 Vitality or below (🫀^-Vit+10). At Vit 0 the check is 🫀^10; at Vit -8 it is 🫀^18. |
 | **Resist Weather** | 🫀 | General | Druidic, Mountaineering, Orc Skills, Survival, Inferno Vanguard Skills, Sun-Devoted Skills, Elemental Discipline |  |
 | **Riding** | 🏃 | General | Husbandry, Human Skills |  |
 | **Rune-Engraving** | ✨ | Physical | Engineering & Siegecraft, Siegecraft |  |
@@ -254,25 +255,25 @@ Master indexed skill sets and atomic skills directory.
 | **Bio Engineer Skills** | 👁️ BioTech (mso), 👁️ Enhanced Touch (mso), 👁️ First Aid (mso), 👁️ General Knowledge (mso), 👁️ Medtech (mso), 🫀 Resist Disease (mso) |
 | **Bio-Gunner Skills** | 👁️ BioTech (mso), 👁️ Danger Sense (mso), 👁️ Fearless (mso), 👁️ Medtech (mso), 👁️ Repair Weapon (mso), 👁️ Vehicle Gunner (mso) |
 | **Bio-Warrior Skills** | 👁️ BioTech (mso), 👁️ Enhanced Touch (mso), 👁️ Fearless (mso), 👁️ Medtech (mso), 🫀 Resist Disease (mso), 🫀 Resist Poison (mso) |
-| **Blackaxe Clan Skills** | 👁️ Assess Stonework, 👁️ Direction Sense, 👁️ Siege Weaponry, 👁️ Structural Weakness, 🫀 Resist Death, 🫀 Resist Pain/Fear |
+| **Blackaxe Clan Skills** | 👁️ Assess Stonework, 👁️ Direction Sense, 👁️ Siege Weaponry, 👁️ Structural Weakness, 🫀 Resist Pain/Fear |
 | **Blade Saint Skills** | 🏃 Ambidexterity, 🏃 Evasion, 💪 Repair Armor/Weapons, 🫀 Resist Pain/Fear |
 | **Blaster Expert** | 👁️ Repair Weapon (mso) |
-| **Bloodfang Berserker Skills** | 🏃 Ambush, 🏃 Hunt, 🏃 Tracking, 💪 Feats Of Strength, 🫀 Intimidation, 🫀 Resist Death, 🫀 Resist Pain/Fear |
+| **Bloodfang Berserker Skills** | 🏃 Ambush, 🏃 Hunt, 🏃 Tracking, 💪 Feats Of Strength, 🫀 Intimidation, 🫀 Resist Pain/Fear |
 | **Bloodmarked Skills** | ✨ Detect Enchantments, ✨ Resist Charm, 👁️ Empathy, 👁️ History, 👁️ Lore, 👁️ Religion, 👁️ Resist Mental |
-| **Bulwark Discipline** | 👁️ Awareness, 👁️ Read Intent, 👁️ Taunt, 💪 Feats Of Strength, 🫀 Resist Death, 🫀 Resist Pain/Fear |
-| **Calemora Skills** | 👁️ Awareness, 👁️ Psychosomatic Lore (mso), 💪 Feats Of Strength, 💪 Stonecraft, 🫀 Resist Death, 🫀 Resist Pain/Fear |
+| **Bulwark Discipline** | 👁️ Awareness, 👁️ Read Intent, 👁️ Taunt, 💪 Feats Of Strength, 🫀 Resist Pain/Fear |
+| **Calemora Skills** | 👁️ Awareness, 👁️ Psychosomatic Lore (mso), 💪 Feats Of Strength, 💪 Stonecraft, 🫀 Resist Pain/Fear |
 | **Captain** | 👁️ Common Sense (mso), 👁️ Comtech (mso), 👁️ Repair System (mso), 👁️ Ship Power (mso), 👁️ Social Status (mso), 🫀 Dominate (mso) |
 | **Carbinier** | 👁️ Repair Weapon (mso) |
 | **Communications** | 👁️ Bridge Officer (mso), 👁️ Comtech (mso), 👁️ Detect Lie (mso), 👁️ Empathy (mso), 👁️ Enhanced Hearing (mso), 👁️ Fast Talk (mso), 👁️ Languages All (mso), 👁️ Repair System (mso), 👁️ Scanners (mso) |
 | **Covert** | 🫀 Gambling (mso) |
 | **Crafting** | 💪 Carpentry, 💪 Leatherwork, 💪 Repair Armor/Weapons |
-| **Cursed Spartan Skills** | 👁️ Religion, 👁️ Resist Mental, 💪 Feats Of Strength, 🫀 Resist Death, 🫀 Resist Pain/Fear |
+| **Cursed Spartan Skills** | 👁️ Religion, 👁️ Resist Mental, 💪 Feats Of Strength, 🫀 Resist Pain/Fear |
 | **Cyber Warrior Skills** | 🏃 Zero-Gravity (mso), 👁️ CyberTech (mso), 👁️ Danger Sense (mso), 👁️ Enhanced Hearing (mso), 👁️ Enhanced Touch (mso), 👁️ Fearless (mso) |
 | **DHA Assault Discipline** | 🏃 Jumping (mso), 🏃 Running (mso), 👁️ Danger Sense (mso), 👁️ Demolitions (mso), 👁️ Vehicle Gunner (mso), 🫀 Interrogate (mso) |
 | **Destron Skills** | 👁️ Repair Armor (mso), 👁️ Siege Weaponry, 👁️ Structural Weakness, 💪 Feats Of Strength, 💪 Tight Grip (mso), 🫀 Resist Pain/Fear |
 | **Diplomacy** | 👁️ Charm, 👁️ Fast Talk, 👁️ Languages, 👁️ Negotiation, 👁️ Persuasion, 🫀 Intimidation |
 | **Dracan Skills** | 👁️ Danger Sense (mso), 👁️ Fearless (mso), 👁️ Repair Cybernetics (mso), 🫀 Dominate (mso), 🫀 Interrogate (mso) |
-| **Dragon Skills** | 👁️ Demolitions (mso), 👁️ Fearless (mso), 🫀 Interrogate (mso), 🫀 Resist Death, 🫀 Resist Pain/Fear |
+| **Dragon Skills** | 👁️ Demolitions (mso), 👁️ Fearless (mso), 🫀 Interrogate (mso), 🫀 Resist Pain/Fear |
 | **Druidic** | ✨ Talk To Animal, ✨ Talk To Plants, 👁️ Animal Handling, 👁️ ID Plants, 👁️ Talk to Air, 🫀 Resist Weather |
 | **Dungeoneering** | 🏃 Climbing, 🏃 Detect/Remove Traps, 👁️ Assess Stonework, 👁️ Direction Sense |
 | **Dwarven Skills** | 👁️ Brewing, 👁️ Underground Lore, 💪 Mining, 💪 Repair Gear, 💪 Stonecraft, 🫀 Resist Poison |
@@ -283,7 +284,7 @@ Master indexed skill sets and atomic skills directory.
 | **Fairy Skills** | ✨ Detect Enchantments, ✨ Resist Charm, 🏃 Evasion, 👁️ Charm, 👁️ Create Distractions, 👁️ Resist Illusions |
 | **Fighter Pilot** | 🏃 Pilot Small Craft (mso), 👁️ Bridge Officer (mso), 👁️ Danger Sense (mso), 👁️ Fearless (mso), 👁️ Repair System (mso), 👁️ Sensors (mso), 👁️ Ship Gunner (mso), 👁️ Ship Power (mso), 💪 Raise Shields (mso) |
 | **Geomancer Skills** | 👁️ Assess Stonework, 👁️ Direction Sense, 👁️ Structural Weakness, 👁️ Underground Lore, 💪 Feats Of Strength, 💪 Mining, 💪 Stonecraft |
-| **Giant Skills** | 👁️ Structural Weakness, 💪 Feats Of Strength, 💪 Stonecraft, 🫀 Intimidation, 🫀 Resist Death, 🫀 Resist Pain/Fear |
+| **Giant Skills** | 👁️ Structural Weakness, 💪 Feats Of Strength, 💪 Stonecraft, 🫀 Intimidation, 🫀 Resist Pain/Fear |
 | **Glamour Discipline** | ✨ Resist Charm, 👁️ Charm, 👁️ Inspiration, 👁️ Performance, 👁️ Persuasion, 👁️ Read Intent |
 | **Gnome Gadgeteer Skills** | 🏃 Detect/Remove Traps, 🏃 Pick Locks, 👁️ Appraise, 👁️ Create Distractions, 👁️ Detect Metal |
 | **Gnomish Skills** | 👁️ Invention, 👁️ Resist Illusions, 👁️ Solve Puzzles, 💪 Repair Gear |
@@ -298,9 +299,9 @@ Master indexed skill sets and atomic skills directory.
 | **Inferno Vanguard Skills** | ✨ Power Management, 💪 Damage Control, 💪 Feats Of Strength, 💪 Repair ATM/Cyber, 💪 Repair Armor/Weapons, 🫀 Resist Pain/Fear, 🫀 Resist Weather |
 | **Inner Peace Discipline** | ✨ Resist Charm, 🏃 Evasion, 👁️ Read Intent, 🫀 Resist Disease, 🫀 Resist Poison |
 | **Intimidation & Presence** | 👁️ Inspiration, 👁️ Leadership, 👁️ Read Intent, 👁️ Taunt, 🫀 Intimidation |
-| **Iron Lotus Discipline** | 🏃 Mountaineering, 👁️ Awareness, 👁️ Healing Arts, 🫀 Resist Death, 🫀 Resist Pain/Fear |
+| **Iron Lotus Discipline** | 🏃 Mountaineering, 👁️ Awareness, 👁️ Healing Arts, 🫀 Resist Pain/Fear |
 | **Kryll Skills** | 🏃 Tracking (mso), 👁️ Danger Sense (mso), 👁️ Enhanced Touch (mso), 👁️ Medtech (mso), 🫀 Survival (mso) |
-| **Lifestealer Skills** | ✨ Detect Enchantments, 🏃 Hunt, 🫀 Resist Death, 🫀 Resist Disease, 🫀 Resist Pain/Fear, 🫀 Resist Poison |
+| **Lifestealer Skills** | ✨ Detect Enchantments, 🏃 Hunt, 🫀 Resist Disease, 🫀 Resist Pain/Fear, 🫀 Resist Poison |
 | **Magnetic Discipline** | ✨ Falling, 🏃 Catch Object, 👁️ Detect Metal, 💪 Metal Manipulation, 💪 Repair Gear, 💪 Tight Grip, 💪 Tractor/Repulsor Beam |
 | **Magnetism** | ✨ Falling, 👁️ Detect Metal, 👁️ Streetwise, 💪 Metal Manipulation |
 | **Marine Skills** | 🏃 Zero-Gravity (mso), 👁️ Danger Sense (mso), 👁️ Demolitions (mso), 👁️ Vehicle Gunner (mso), 🫀 Interrogate (mso) |
@@ -325,11 +326,11 @@ Master indexed skill sets and atomic skills directory.
 | **Programmer** | 👁️ Bridge Officer (mso), 👁️ Computer (mso), 👁️ Comtech (mso), 👁️ Counter Security (mso), 👁️ Repair System (mso), 👁️ Scanners (mso), 👁️ Sensors (mso) |
 | **Psionic Sentinel Skills** | ✨ Resist Charm, 👁️ Danger Sense, 👁️ Psionic Lore (mso), 👁️ Resist Illusions, 👁️ Resist Mental, 🫀 Resist Pain/Fear |
 | **Psionics Skills** | ✨ Telepathy, 👁️ Detect Lie, 👁️ Empathy, 👁️ Psionic Lore (mso), 👁️ Read Intent, 👁️ Resist Mental |
-| **Psychosomatics Skills** | ✨ Falling, 👁️ Psychosomatic Lore (mso), 💪 Feats Of Strength, 🫀 Resist Death, 🫀 Resist Disease, 🫀 Resist Pain/Fear |
+| **Psychosomatics Skills** | ✨ Falling, 👁️ Psychosomatic Lore (mso), 💪 Feats Of Strength, 🫀 Resist Disease, 🫀 Resist Pain/Fear |
 | **Pulse Laser Expert** | 👁️ Repair Weapon (mso) |
 | **Punk Skills** | 🏃 Parkour, 👁️ Scavenging, 👁️ Taunt, 💪 Crafting, 🫀 Intimidation, 🫀 Resist Pain/Fear |
 | **Ranger Skills** | 🏃 Ambush, 🏃 Mountaineering, 👁️ Awareness, 👁️ Direction Sense, 👁️ Forest Lore, 👁️ Navigation, 💪 Fletching |
-| **Restoration Discipline** | ✨ Potion Administration, 👁️ Empathy, 🫀 Resist Death, 🫀 Resist Disease, 🫀 Resist Pain/Fear, 🫀 Resist Poison |
+| **Restoration Discipline** | ✨ Potion Administration, 👁️ Empathy, 🫀 Resist Disease, 🫀 Resist Pain/Fear, 🫀 Resist Poison |
 | **Rifle Expert** | 👁️ Repair Weapon (mso) |
 | **Rogue** | 🏃 Pickpockets, 🏃 Stealth, 👁️ Disguise, 👁️ Gambling, 👁️ Languages |
 | **Sailing** | 🏃 Fishing, 🏃 Swimming, 👁️ ID Weather, 👁️ Navigation, 👁️ Sailing |
@@ -353,13 +354,13 @@ Master indexed skill sets and atomic skills directory.
 | **Siegecraft** | ✨ Rune-Engraving, 👁️ Siege Weaponry, 👁️ Structural Weakness, 💪 Repair Gear |
 | **Social** | 🫀 Gambling (mso) |
 | **Spec Spy** | 🏃 Climbing, 🏃 Expert Runner, 🏃 Stealth, 🏃 Theft, 👁️ Computer, 👁️ Counter Security, 👁️ Danger Sense, 👁️ Detect Lie, 👁️ Disguise, 👁️ Enhanced Hearing, 👁️ Fast Talk, 👁️ Languages, 👁️ Light Sleeper, 🫀 Interrogate, 🫀 Resist Poison |
-| **Spec Survivalist** | ✨ Falling, 🏃 Climbing, 🏃 Swimming, 🏃 Tracking, 👁️ Danger Sense, 👁️ Healing Arts, 🫀 Resist Death, 🫀 Survival |
+| **Spec Survivalist** | ✨ Falling, 🏃 Climbing, 🏃 Swimming, 🏃 Tracking, 👁️ Danger Sense, 👁️ Healing Arts, 🫀 Survival |
 | **Spec Thief** | 🏃 Ambidexterity, 🏃 Climbing, 🏃 Expert Runner, 🏃 Stealth, 🏃 Theft, 👁️ Counter Security, 👁️ Danger Sense, 👁️ Detect Lie, 👁️ Disguise, 👁️ Enhanced Hearing, 👁️ Fast Talk, 👁️ Gambling, 👁️ Light Sleeper, 🫀 Resist Poison |
 | **Spy** | 🏃 Climbing (mso), 🏃 Expert Runner (mso), 🏃 Stealth (mso), 🏃 Theft (mso), 👁️ Concealment (mso), 👁️ Counter Security (mso), 👁️ Danger Sense (mso), 👁️ Detect Lie (mso), 👁️ Disguise (mso), 👁️ Enhanced Hearing (mso), 👁️ Fast Talk (mso), 👁️ Languages All (mso), 👁️ Light Sleeper (mso), 🫀 Interrogate (mso), 🫀 Resist Poison (mso) |
 | **Starborn Ranger Skills** | 🏃 Zero-Gravity (mso), 👁️ Astrogation (mso), 👁️ Enhanced Hearing (mso), 👁️ Navigate (mso), 👁️ Repair Weapon (mso), 👁️ Scanners (mso), 👁️ Sensors (mso) |
 | **Streetwise** | 🏃 Blend Into Crowds, 🏃 Evasion, 👁️ Awareness, 👁️ Create Distractions, 👁️ ID Threats |
 | **Streetwise Survival** | 🏃 Blend Into Crowds, 🏃 Evasion, 👁️ Awareness, 👁️ Create Distractions, 👁️ ID Threats |
-| **Sun-Devoted Skills** | ✨ Detect Enchantments, 👁️ Healing Arts, 👁️ Inspiration, 👁️ Religion, 🫀 Resist Death, 🫀 Resist Pain/Fear, 🫀 Resist Weather |
+| **Sun-Devoted Skills** | ✨ Detect Enchantments, 👁️ Healing Arts, 👁️ Inspiration, 👁️ Religion, 🫀 Resist Pain/Fear, 🫀 Resist Weather |
 | **Survival** | 🏃 Hunt, 👁️ ID Plants, 🫀 Resist Weather, 🫀 Survival |
 | **Survivalist** | ✨ Falling (mso), 🏃 Climbing (mso), 🏃 Swimming (mso), 🏃 Tracking (mso), 👁️ Danger Sense (mso), 👁️ First Aid (mso), 🫀 Survival (mso) |
 | **Tactical** | 👁️ Bridge Officer (mso), 👁️ Cloak (mso), 👁️ Danger Sense (mso), 👁️ Demolitions (mso), 👁️ Fearless (mso), 👁️ Repair System (mso), 👁️ Scanners (mso), 👁️ Sensors (mso), 👁️ Ship Gunner (mso), 👁️ Vehicle Gunner (mso), 💪 Damage Control (mso), 💪 Raise Shields (mso), 🫀 Interrogate (mso) |
@@ -373,4 +374,4 @@ Master indexed skill sets and atomic skills directory.
 | **Verdant Sentinel Skills** | ✨ Talk To Plants, 🏃 Forage, 🏃 Tracking, 👁️ Cure Poison, 👁️ Forest Lore, 👁️ Herbalism, 👁️ ID Plants, 🫀 Resist Poison |
 | **Vessel Operations** | 🏃 Pilot Starship (mso), 👁️ Astrogation (mso), 👁️ Scanners (mso), 👁️ Shields (mso), 👁️ Ship Power (mso), 👁️ Vessel Communications (mso), 👁️ Vessel Engineering (mso), 👁️ Vessel Repair (mso) |
 | **Void Magic Skills** | ✨ Detect Enchantments, ✨ ID Runes, ✨ ID Spells, 👁️ Resist Illusions, 👁️ Resist Mental, 👁️ Sorce Lore (mso) |
-| **Warrior Skills** | 👁️ Awareness, 👁️ Leadership, 👁️ Taunt, 🫀 Resist Death, 🫀 Resist Pain/Fear |
+| **Warrior Skills** | 👁️ Awareness, 👁️ Leadership, 👁️ Taunt, 🫀 Resist Pain/Fear |
