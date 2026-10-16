@@ -234,7 +234,7 @@ Each character begins with five core Attributes (Atr✅). Each Attribute is expr
 **How Attributes Work:**
 
 * **Attribute ratings are rolled in derived Ability Rolls:** #d20 + d(Atr) + Bonus vs Dif.
-* Attribute ratings start at **one 4, two 6, two 8** across the five attributes at Level 1, improving through tier-gated AP advancement up to a hard maximum array of **one 6, one 8, one 10, two 12** at Level 100+.
+* Attribute ratings start at **two 4, two 6, one 8** across the five attributes at Level 1, improving through tier-gated AP advancement up to a hard maximum array of **one 6, one 8, one 10, two 12** at Level 100+.
 * Attribute derived checks and rolls always use the rating tied to the relevant Attribute.
 * **Balance Note:** All Attributes are equally important. Mgt 💪 is not inherently better than Mnd 👁️, nor Mot 🏃 better than Mag ✨ or Mox 🫀. Players succeed by leveraging their strongest ratings in creative ways.
 
@@ -356,7 +356,7 @@ Choose a Race Path 🧭 and a Class Path 🧭. You also automatically have the I
 
 #### Step 3 · Attributes
 
-Assign **one 4, two 6, two 8** across Magic ✨, Might 💪, Mind 👁️, Motion 🏃, and Moxie 🫀.
+Assign **two 4, two 6, one 8** across Magic ✨, Might 💪, Mind 👁️, Motion 🏃, and Moxie 🫀.
 
 #### Step 4 · Vitality
 
