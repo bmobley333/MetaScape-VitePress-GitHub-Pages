@@ -213,7 +213,7 @@ Emojis 🙂 are used in SupaFlex for rapid identification of key stats and words
 | **Vitality (Vit)** | ❤️ | Health pool & maximum wound capacity before unconsciousness and death checks |
 | **Armor (AR)** | 🧥 | Damage absorption die rolled to reduce Dmg to Wnds |
 | **Bolt (5 Sparks)** | ⚡ | 5 accumulated Sparks represent a full Bolt. Used to power 1-⚡ abilities |
-| **Luck** | 🍀 | Used to reroll an ability, create a Twist (temporary upgrade to an ability), and power 1-🍀 abilities |
+| **Luck** | 🍀 | Used to reroll an ability, create a Twist (temporary upgrade to an ability), or once per encounter activate any known Power 🔥 (including Exotic 🧿 Powers 🔥) |
 
 **💡 Tip —** Master Lexicon & Full Icon Directory: For the comprehensive alphabetical index of all 50+ game element emojis, equipment icons, and monster stat symbols, see Appendix C: Glossary & Symbols.
 
@@ -264,7 +264,7 @@ Vitality ❤️ is your health pool. Starting Vit is set in §2.5 (Step 4); dama
 
 * Spend 1 Luck 🍀 to **reroll any entire, in-game, roll**. A roll can ONLY be lucked once.
 * **Luck Twist:** Spend 1 🍀 to grant an instant tactical boost: +1 Target, +1d (Die Type), +1 Range Band, or +1 effect such as Push/Move square.
-* Activate a Power 🔥 with usage of 1-🍀.
+* Activate Any Power (1/Enc): Once per encounter, spend 1 Luck 🍀 to activate any known Power 🔥 (including Exotic 🧿 Powers 🔥), regardless of its Usage (1-🍀, 1-⚡, 1-Enc, 2-Enc, 3-Enc, or 1-Rnd).
 
 #### Focus 🎯
 
@@ -942,7 +942,7 @@ All abilities have an Action 🔷, Usage 🔄, Duration ⏳, and Range 🎯. Oft
 **ℹ️ Note:**
 
 * High-tier powers use Bolt (1-⚡) or 1-🍀.
-* Also, once per encounter a character may use a 🍀 to power a 1-⚡ ability. But only once per encounter (unless the GM chooses to approve more).
+* Once per encounter, a character can spend a Luck 🍀 to activate any known Power 🔥 (including Exotic 🧿 Powers 🔥), regardless of its Usage (1-🍀, 1-⚡, 1-Enc, 2-Enc, 3-Enc, or 1-Rnd), unless the GM chooses to approve more.
 
 ### 6.3 Exotics 🧿, Mods 🔌 & Artifacts 🔮
 
@@ -1653,10 +1653,10 @@ Every SupaFlex term and abbreviation in one A–Z list. Each heading shows the �
 
 #### Luck 🍀 (§2.2)
 
-* **Luck 🍀:** Heroic metacurrency (starting with 3, maximum pool of 5) awarded for creative, entertaining, or heroic play, used to power 1-🍀 abilities or spent to:
+* **Luck 🍀: Heroic metacurrency (starting with 3, maximum pool of 5) awarded for creative, entertaining, or heroic play, spent to:**
   * **Reroll:** Reroll all dice involved in an in-game check, taking the new result (a roll may only be lucked once).
   * **Luck Twist:** Propose a creative twist to alter an ability (+1 Target, +1d, +1 Range Band, +1sq Push, etc.) with GM approval.
-  * **Bolt Substitute:** Substitute once per encounter in place of a Bolt ⚡ to activate a 1-⚡ ability.
+  * **Activate Any Power (1/Enc): Once per encounter, spend 1 Luck 🍀 to activate any known Power 🔥 (including Exotic 🧿 Powers 🔥), regardless of its Usage (1-🍀, 1-⚡, 1-Enc, 2-Enc, 3-Enc, or 1-Rnd).**
 
 #### M/H/S (Melee, Hurled, Shot) (§5.1)
 
@@ -1826,7 +1826,7 @@ The comprehensive directory of all official icons/emojis used across character s
 | **Junk** | 🗑️ | Broken remnants, scrap, and non-functional salvage |
 | **Kits** | 📦 | Pre-assembled gear sets (Adventurer's Kit, Healer's Kit) |
 | **Level** | ⭐ | Character milestone tier derived from accumulated AP |
-| **Luck** | 🍀 | Heroic currency for rerolls, Twists, or 1-🍀 |
+| **Luck** | 🍀 | Heroic currency for rerolls, Twists, or activating any known Power 🔥 (1/Enc) |
 | **Magic** | ✨ | Core attribute for spellcraft, arcane energy, psionics |
 | **Might** | 💪 | Core attribute for physical power, melee attacks, and blocking |
 | **Mind** | 👁️ | Core attribute for intellect, shot weapons, perception |
@@ -1866,7 +1866,7 @@ The comprehensive directory of all official icons/emojis used across character s
 * **Difficulty Ladder —** Easy 10 · Medium 15 · Hard 20 · Very Hard 25 · Extreme 28+ · ties go to PCs (§1.2).
 * **Advantage / Disadvantage —** +1 d20 keep highest / –1 d20 (2L20 if Unskilled); never stacks (§1.3).
 * **Focus 🎯 —** add after seeing the roll, once per roll; refills on Flood triggers (§2.2).
-* **Luck 🍀 —** reroll an entire roll once, or spend on a Luck Twist (§2.2).
+* **Luck 🍀 — reroll an entire roll once, spend on a Luck Twist, or once per encounter activate any known Power 🔥 regardless of Usage (§2.2).**
 * **Damage — Dmg – AR 🧥 = Wounds 🩸; at 0 Vit or below resolve in order: Bleeding, Death Check (🫀^-Vit+5), Unconscious Check (🫀^-Vit+10) (§4.6–4.7).**
 * **Usage 🔄 —** 1-⚡, 1-🍀, 1-Enc, 2-Enc, 3-Enc, 1-Rnd (§6.2).
 * **Range 🎯 —** Self, Touch, 1sq, 2sq, 3sq, Short (up to 6 sq), Medium (up to 12 sq), Long (up to 24 sq) (§4.8).
