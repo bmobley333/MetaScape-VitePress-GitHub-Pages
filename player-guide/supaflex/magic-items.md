@@ -42,7 +42,9 @@ Index of purchasable Gear Powers (🧿) and treasure Artifacts (🔮) derived fr
 | 1-Enc | P | **Psionic Focus** | Bracers of Psionic Focus | Atk+1 and Def+1 for 1 Rnd. |
 | 1-Enc | P | **Strength** | Bracers of Strength | 💪 Strength+2 (lifting, bend bars, etc.) for Encounter. |
 | 1-Enc | P | **the Unbroken Stance** | Bracers of the Unbroken Stance | Immune to push and pull; AR+1 for 1 Rnd. |
+| 1-Enc | M | **Vacuum Buoyancy Ascent (mso)** | Buoyancy Cylinders (mso) | Water buoyancy; float to surface. |
 | 1-Enc | P | **Candle of Calm** | Candle of Calm | Aura calms; ✨ or target looses next A Action. |
+| 1-Enc | P | **Candle Spark** | Candle Spark | Create small flame; ignite torches or campfires. |
 | 2-Enc | A | **Cape of Winds** | Cape of Winds | ✨ to push 1 foe d4sq. |
 | 1-⚡ | P | **Cassette of Rebellion** | Cassette of Rebellion | Allies Roll+1 next roll. |
 | 1-⚡ | A | **Chains of Oblivion** | Chains of Oblivion | ✨ binds target. |
@@ -95,6 +97,7 @@ Index of purchasable Gear Powers (🧿) and treasure Artifacts (🔮) derived fr
 | 1-Enc | P | **Elven Chain Mail of Silent Passage** | Elven Chain Mail of Silent Passage | Activate; AR+1 and all worn movement is noiseless for 1 Enc. |
 | 1-⚡ | P | **Ember [Armor]** | Ember [Armor] | If you are melee hit; ✨or attacker takes d✨-2 fire Dmg; for Encounter. |
 | 1-Enc | A | **Ember [Weapon]** | Ember [Weapon] | On miss: all adjacent squares ignite; 🏃^🏃 or take d4 burn Dmg. |
+| 1-Enc | P | **Ember Pin** | Ember Pin | Ignite small flame on touch. |
 | 2-Enc | F | **Kinetic Deflection Ward (mso)** | Energy Bracer (mso) | +2 Def vs Energy & Kinetic Atk; +5 Dmg on swung melee, +3 Dmg on thrusting melee. |
 | 2-Enc | F | **Environmental Force Barrier (mso)** | Environ Shield (mso) | Deploy force shield; +2 AR for encounter. |
 | 1-⚡ | P | **EnviroShield** | EnviroShield | Deploy skin-tight force shield: 🫀+5^hazards, poison, radiation, and vacuum; auto-seals bleeding; MR-2 and 🏃/2; no protection against weapon attacks. |
@@ -115,6 +118,7 @@ Index of purchasable Gear Powers (🧿) and treasure Artifacts (🔮) derived fr
 | 1-⚡ | M | **Ghost Shirt** | Ghost Shirt | Phase through 1 wall. |
 | 2-Enc | P | **Glass [Weapon]** | Glass [Weapon] | On hit; Target 👣-1 for encounter; Stacks with self. |
 | 1-⚡ | P | **Gloves of Craft** | Gloves of Craft | Repair 1 normal broken item instantly or 1 magic item at ✨. |
+| 1-⚡ | P | **Glow Orb** | Glow Orb | Bright light for Encounter. |
 | 1-Enc | P | **Glowstick Baton** | Glowstick Baton | Glows brightly; 6sq of light for Encounter; Must be held in off-hand. |
 | 1-Enc | P | **Golden Sunstone Healing** | Golden Sunstone | When healing: heal +1 Vit or gain AR+1 for 1 Rnd. |
 | 1-Enc | A | **Graffiti Spraycan** | Graffiti Spraycan | Tag walls to create magical barrier: When passed; Save✨ for d✨Dmg. |
@@ -149,6 +153,7 @@ Index of purchasable Gear Powers (🧿) and treasure Artifacts (🔮) derived fr
 | 1-Enc | P | **Kinetic War Band** | Kinetic War Band | Swung melee Dmg(+5), thrusting melee Dmg(+3). |
 | 1-Rnd | M | **Knife of Infinite Cloning** | Knife of Infinite Cloning | Can split one knife into 2 knives (new knives last for encounter). |
 | 1-⚡ | P | **Knight’s [Shield]** | Knight’s [Shield] | All Wnds-1 for Encounter |
+| 1-⚡ | P | **Lantern Bead** | Lantern Bead | Throw; hovering light for Encounter. |
 | 1-Enc | P | **Lantern of Clarity** | Lantern of Clarity | All illusions in 6sq dispelled for encounter. |
 | 1-Enc | P | **Lantern of Truth** | Lantern of Truth | AoE 3r; reveal hidden and invisible creatures and objects (✨+5^hidden). |
 | 1-⚡ | P | **Lantern of Whispers** | Lantern of Whispers | Perception has Advantage. |
@@ -190,6 +195,7 @@ Index of purchasable Gear Powers (🧿) and treasure Artifacts (🔮) derived fr
 | 1-Rnd | F | **PhaseStrider Warp** | PhaseStrider | MR(*2); penalty 1 2nd Deg Wnd per Rnd (or per minute out of combat). Arm/leg bands; mini-teleport each step. |
 | 1-⚡ | A | **Phoenix [Weapon] Healing** | Phoenix [Weapon] | On crit; No crit effect and Heal self d✨. |
 | 2-Enc | P | **Pocket Dimension Access (mso)** | Pocket Dimension (mso) | Access private 2x2 pocket dimension. |
+| 1-⚡ | P | **Pocket Lantern** | Pocket Lantern | Create floating Lantern that follows you for Encounter. |
 | 1-⚡ | P | **Glimmer** | Potion of Glimmer | Glow rainbow light for Encounter; auto refills. |
 | 1-⚡ | P | **Healing** | Potion of Healing | Heal self d✨. |
 | 1-⚡ | P | **Iron Skin** | Potion of Iron Skin | Dring; AR+1 for encounter. |
@@ -201,6 +207,7 @@ Index of purchasable Gear Powers (🧿) and treasure Artifacts (🔮) derived fr
 | 2-Enc | P | **Quantum Anchor** | Quantum Anchor | Lock/unlock bar in space; Meta cost; unmovable at Str(💪*5)^Str/Force; failure = deactivation. |
 | 1-Enc | P | **Quantum Gate** | Quantum Gate | Rng Long; 👁️^Dif to link with active Quantum Gate within 1000 ft. |
 | 2-Enc | P | **Quantum Leap Warp** | Quantum Leap | Teleport to stored location (max 3); max jump 100 miles; transport another at cost of 3 Uses; 👁️+^Dif for complex jump. |
+| 1-Enc | P | **Quill of Sparks** | Quill of Sparks | Write script visible only with command word, glows in darkness. |
 | 1-⚡ | AM | **Quill of Truth** | Quill of Truth | Writes only truth (limited to one topic as per GM). |
 | 1-⚡ | P | **Radiant [Weapon]** | Radiant [Weapon] | Glows with Everlight (20 sq light with no shadows). |
 | 3-Enc | A | **Railgun** | Railgun | Dmg() reduces target AR (AR damaged until repaired); 💪+^Str to resist knockback. |
@@ -219,7 +226,9 @@ Index of purchasable Gear Powers (🧿) and treasure Artifacts (🔮) derived fr
 | 2-Enc | P | **Scout Swarm Cloak** | Scout Swarm | Deploy scout swarm up to Rng Medium (uses PC stats with MR 5 and 🏃 Stealth); grants 👁️+2^hidden to locate concealed life. |
 | 1-⚡ | A | **the Commet** | Scroll of the Commet | Adv(✨ Atk); Dmg+2. |
 | 2-Enc | P | **Micro-Spider Reconnaissance (mso)** | Sensor Spiders (mso) | Rng Long; release 6 micro-scout spiders. |
+| 1-⚡ | F | **Shadow Thread** | Shadow Thread | Stich a normal item to your clothing; Will always reattach as if hooked. |
 | 1-Rnd | F | **ShadowBand** | ShadowBand | Radius of full daylight (any size up to 3r); no light beyond radius; no shadows within. |
+| 1-Rnd | M | **Shard of Echo** | Shard of Echo | Always Perfectly Repeats last 3 phrases heard. |
 | 1-Enc | A | **Shardstorm [Weapon]** | Shardstorm [Weapon] | On Atk: shards splash AoE 2r; ✨ Atk; d✨-2 physical Dmg. |
 | 1-Enc | P | **Echoes** | Shield of Echoes | Reflect the first hostile ✨ Atk back at the caster. |
 | 1-Enc | P | **Shimmer Veil [Armor] Cloak** | Shimmer Veil [Armor] | Become Invisible for 1 Rnd. |
@@ -248,6 +257,7 @@ Index of purchasable Gear Powers (🧿) and treasure Artifacts (🔮) derived fr
 | 2-Enc | P | **Immovable Spatial Anchor (mso)** | Static Bar (mso) | Lock in place; immovable anchor; holds 20 tons. |
 | 1-⚡ | A | **Immovable Spatial Lock (mso)** | Static Bar (mso) | Lock in place; immovable anchor; holds 20 tons. |
 | 1-Enc | M | **Sticky Gloves** | Sticky Gloves | Climb sheer walls; no roll. |
+| 1-Enc | A | **Sticky String** | Sticky String | Launch strand up to 4sq; retrieves up to 25Lb objects. |
 | 1-Enc | P | **Stim +10 Vit** | Stim +10 Vit | Vit(+10). |
 | 2-Enc | P | **Stim +3 MR** | Stim +3 MR | MR(+3). |
 | 1-Enc | P | **Stim Greater Healing** | Stim Greater Healing | Heal(✨-1) 1st Deg Wnds OR Heal(✨-2) 2nd Deg Wnds OR Heal(✨/15) 3rd Deg Wnds. |
@@ -261,10 +271,12 @@ Index of purchasable Gear Powers (🧿) and treasure Artifacts (🔮) derived fr
 | 1-Enc | P | **Stim 🫀 Buff** | Stim 🫀 Buff | Skills(🫀+2). |
 | 1-Enc | P | **Stim✨Buff** | Stim✨Buff | Skills(✨+2). |
 | 1-Enc | A | **Stolen Iron Manacles** | Stolen Iron Manacles | On capture (Brawl Atk with at least 1 Wound); foe is Immobilized until 💪 check succeeds. |
+| 1-⚡ | P | **Stone Beetle** | Stone Beetle | Wind-up bug; follows you for 30 minutes, marking route with feint green glow. |
 | 2-Enc | P | **Stoneform [Armor]** | Stoneform [Armor] | If you are wounded; Attacker petrifies; 👣-1 for Encounter; Self stacking. |
 | 1-Enc | P | **Storm [Weapon]** | Storm [Weapon] | On hit: thunderclap erupts; ✨^🚩 or adjacent foes lose Attack action this Rnd. |
 | 1-⚡ | P | **Sunglow Brooch** | Sunglow Brooch | Emit light 20ft radius, no shadows for Encounter. |
 | 1-⚡ | P | **Sunpetal Brooch Healing** | Sunpetal Brooch | On use; Heal self 1 Vit and emit light 2sq for 1 Enc. |
+| 2-Enc | P | **Antigrav Cargo Suspension (mso)** | Suspensor Belt (mso) | Antigravity field; suspends up to 2 tons. |
 | 2-Enc | M | **Temporal Spray** | Temporal Spray | Rng Short; 🏃 Atk; on hit, target temporal delay gives all allies Advantage on rolls^target for Encounter. |
 | 1-Enc | P | **The Wall (Bronze Shield of the Fallen)** | The Wall (Bronze Shield of the Fallen) | Blk+2 for 1 Rnd. |
 | 2-Enc | P | **Stealth Infiltration Transit (mso)** | The Wraith (mso) | Stealth vehicle; 👣 20; Adv(Stealth🏃). |
@@ -278,12 +290,14 @@ Index of purchasable Gear Powers (🧿) and treasure Artifacts (🔮) derived fr
 | 1-⚡ | A | **Forgotten Stars** | Tome of Forgotten Stars | AoE 6r; ✨ Atk; on hit, ✨^✨ or foes are Stunned. |
 | 1-⚡ | A | **Tonic of Clarity** | Tonic of Clarity | Drink: 👁️+1 for Encounter. |
 | 1-⚡ | A | **Tonic of Vigor** | Tonic of Vigor | Drink; 💪+1 for Encounter. |
+| 1-⚡ | P | **Torch Seed** | Torch Seed | Thow against wall or surface; sprouts flaming torch for Encounter. |
 | 1-⚡ | F | **Tower Shield of the Blackaxe** | Tower Shield of the Blackaxe | While held: AR+1 and Def+1 for encounter. |
 | 1-Enc | P | **Tower Shield of the Blackaxe (Runic Ward)** | Tower Shield of the Blackaxe (Runic Ward) | AR+3 for 1 Rnd. |
 | 1-Enc | P | **Trickster’s Satchel** | Trickster’s Satchel | AoE 1r; scatter glamor powder: 👁️^👁️ or foes are Distracted. |
 | 2-Enc | P | **Magnetic Surface Lock (mso)** | Ultralock 2 Boots (mso) | Magnetic lock to metal surface; immune to knockback and Prone. |
 | 1-Enc | P | **Umbrella of Defiance** | Umbrella of Defiance | Blk at maximum die value^ranged attacks for 1 Rnd. |
 | 1-⚡ | A | **Vial of Sacred Dust** | Vial of Sacred Dust | AoE 2r; throw dust: ✨ Atk^undead; d4 radiant Dmg and Weakened. |
+| 1-⚡ | M | **Vine Cord** | Vine Cord | Extend up to 100ft vine-rope; can lift up to 250Lb individuals/items. |
 | 1-Enc | A | **Vine Lash Whip** | Vine Lash Whip | On hit: ✨^💪 or pull target to adjacent sq and make 1 off-hand Opportunity Atk. |
 | 1-⚡ | A | **Void [Weapon]** | Void [Weapon] | On crit; Normal GM crit and erase 1 item from target. |
 | 1-Rnd | P | **Volcanic Shard of Reth’Vash 1 Healing** | Volcanic Shard of Reth’Vash 1 | Healing Powers and healing received are +1. |
@@ -293,9 +307,11 @@ Index of purchasable Gear Powers (🧿) and treasure Artifacts (🔮) derived fr
 | 1-⚡ | P | **Wall of Thune** | Wall of Thune | Rng Short; 1x4; deploy granite wall (AR d💪+6, Vit 🫀-1); unmovable without 💪+4^force. |
 | 2-Enc | A | **Fire Bolts** | Wand of Fire Bolts | ✨ Atk; d✨+1 fire Dmg; on hit, ✨^✨ or d4 burn hazard. |
 | 2-Enc | P | **Spectral Warrior Summon (mso)** | Warrior Servant (mso) | Summon spectral warrior ally for encounter. |
+| 1-⚡ | P | **Water Skin of Plenty** | Water Skin of Plenty | Pproduces 1 day's fresh water for 1 person. |
 | 1-Rnd | M | **Whetstone of Memory** | Whetstone of Memory | After sharpening weapon: next Atk+1. |
 | 1-Enc | P | **Whetstone of True Edge** | Whetstone of True Edge | On use; next Atk with sharpened weapon Dmg+1. |
 | 1-Enc | A | **Whisper [Weapon] Cloak** | Whisper [Weapon] | On Atk: cloak whispers enemy locations (👁️+5^hidden to pinpoint invisible foes). |
+| 1-Enc | P | **Whisper Stone** | Whisper Stone | Send whispered message across any barrier to allies up to 15sq. |
 | 3-Enc | P | **Willstone** | Willstone | When held: Domination(👁️)^🫀; Perm Men(*2) while on person. |
 | 1-Enc | A | **Wind Flute** | Wind Flute | Play note; next 🚩 roll with Advantage. |
 | 1-⚡ | F | **Wooden Charm** | Wooden Charm | Break charm: ✨+5^✨ for Encounter. |
@@ -306,27 +322,6 @@ Index of purchasable Gear Powers (🧿) and treasure Artifacts (🔮) derived fr
 | 1-Enc | P | **Zither Pick Healing** | Zither Pick | Strum; Heal d✨ to 1 ally. |
 | 1-Enc | M | **Zoom Charm** | Zoom Charm | Target's next ranged Atk with Advantage. |
 | 2-Enc | P | **Rocket Hover Propulsion (mso)** | ZX52 Rocket (mso) | Rocket hover sled; 👣 30. |
-
-## **🔮 ⭕ Free Utility Artifacts (Found Treasure Loot)**
-
-| Usage | Action | Gear Power | Item Source | Effect |
-| --- | --- | --- | --- | --- |
-| 1-Enc | M | **Vacuum Buoyancy Ascent (mso)** | Buoyancy Cylinders (mso) | Water buoyancy; float to surface. |
-| 1-Enc | P | **Candle Spark** | Candle Spark | Create small flame; ignite torches or campfires. |
-| 1-Enc | P | **Ember Pin** | Ember Pin | Ignite small flame on touch. |
-| 1-⚡ | P | **Glow Orb** | Glow Orb | Bright light for Encounter. |
-| 1-⚡ | P | **Lantern Bead** | Lantern Bead | Throw; hovering light for Encounter. |
-| 1-⚡ | P | **Pocket Lantern** | Pocket Lantern | Create floating Lantern that follows you for Encounter. |
-| 1-Enc | P | **Quill of Sparks** | Quill of Sparks | Write script visible only with command word, glows in darkness. |
-| 1-⚡ | F | **Shadow Thread** | Shadow Thread | Stich a normal item to your clothing; Will always reattach as if hooked. |
-| 1-Rnd | M | **Shard of Echo** | Shard of Echo | Always Perfectly Repeats last 3 phrases heard. |
-| 1-Enc | A | **Sticky String** | Sticky String | Launch strand up to 4sq; retrieves up to 25Lb objects. |
-| 1-⚡ | P | **Stone Beetle** | Stone Beetle | Wind-up bug; follows you for 30 minutes, marking route with feint green glow. |
-| 2-Enc | P | **Antigrav Cargo Suspension (mso)** | Suspensor Belt (mso) | Antigravity field; suspends up to 2 tons. |
-| 1-⚡ | P | **Torch Seed** | Torch Seed | Thow against wall or surface; sprouts flaming torch for Encounter. |
-| 1-⚡ | M | **Vine Cord** | Vine Cord | Extend up to 100ft vine-rope; can lift up to 250Lb individuals/items. |
-| 1-⚡ | P | **Water Skin of Plenty** | Water Skin of Plenty | Pproduces 1 day's fresh water for 1 person. |
-| 1-Enc | P | **Whisper Stone** | Whisper Stone | Send whispered message across any barrier to allies up to 15sq. |
 
 ## **🧿 Purchasable Gear Powers**
 

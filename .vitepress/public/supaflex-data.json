@@ -22731,7 +22731,7 @@
       ],
       "notes": "Emits a localized antigrav field capable of neutralizing the weight of up to 2 tons of cargo.",
       "created_at": "2026-09-05T16:42:20.043473+00:00",
-      "tier": "Free ⭕",
+      "tier": null,
       "owner": "Designer"
     },
     {
@@ -22906,7 +22906,7 @@
       ],
       "notes": "Provides 1 hour of clean breathable oxygen filtered from hazardous or vacuum environments.",
       "created_at": "2026-09-05T16:42:17.864003+00:00",
-      "tier": "Free ⭕",
+      "tier": null,
       "owner": "Designer"
     },
     {
@@ -23043,7 +23043,7 @@
       ],
       "notes": "Automated robotics tool that strips, splices, and insulates electronic circuitry instantly.",
       "created_at": "2026-09-05T16:42:19.002593+00:00",
-      "tier": "Free ⭕",
+      "tier": null,
       "owner": "Designer"
     },
     {
@@ -23349,7 +23349,7 @@
       ],
       "notes": "Deploys a glowing bioluminescent fungi trail visible in complete darkness for 24 hours.",
       "created_at": "2026-09-05T16:42:18.43712+00:00",
-      "tier": "Free ⭕",
+      "tier": null,
       "owner": "Designer"
     },
     {
@@ -23364,7 +23364,7 @@
       ],
       "notes": "Emits steady bioluminescent lighting across a 3-square radius upon physical agitation.",
       "created_at": "2026-09-05T16:42:17.380742+00:00",
-      "tier": "Free ⭕",
+      "tier": null,
       "owner": "Designer"
     },
     {
@@ -23637,7 +23637,7 @@
       ],
       "notes": "High-intensity breach cutter.",
       "created_at": "2026-09-03T20:14:29.977879+00:00",
-      "tier": "Free ⭕",
+      "tier": null,
       "owner": "Designer"
     },
     {
@@ -23798,7 +23798,7 @@
       ],
       "notes": "Candle Spark is engineered with high-durability composite materials for reliable field operations.",
       "created_at": "2026-09-03T20:14:29.977879+00:00",
-      "tier": "Free ⭕",
+      "tier": null,
       "owner": "Designer"
     },
     {
@@ -24308,7 +24308,7 @@
       ],
       "notes": "Text, audio, and audiovisual comms; ~200 miles including low-orbit. Open or Selective transceiver.",
       "created_at": "2026-09-03T20:14:29.977879+00:00",
-      "tier": "Free ⭕",
+      "tier": null,
       "owner": "Designer"
     },
     {
@@ -24533,21 +24533,6 @@
       "owner": "Designer"
     },
     {
-      "id": 503,
-      "name": "Crescent Pin & Restrain",
-      "action": "A",
-      "usage": "2-Enc",
-      "effect": "Atk 💪 Dmg d💪 (Dmg is optional); 💪^💪 or target Restrained",
-      "belongs_to": "Weapon: Kray (mso)",
-      "genres": [
-        "SciFi"
-      ],
-      "notes": "Uses the kray's crescent curves and barbed flanges to hook and pin the opponent.",
-      "created_at": "2026-09-05T23:12:36.368543+00:00",
-      "tier": null,
-      "owner": "Designer"
-    },
-    {
       "id": 575,
       "name": "Crescent Pin & Restrain",
       "action": "A",
@@ -24561,6 +24546,21 @@
       ],
       "notes": "Flanges hook and pin; schools teach non-lethal duel control.",
       "created_at": "2026-10-01T00:51:31.793349+00:00",
+      "tier": null,
+      "owner": "Designer"
+    },
+    {
+      "id": 503,
+      "name": "Crescent Pin & Restrain",
+      "action": "A",
+      "usage": "2-Enc",
+      "effect": "Atk 💪 Dmg d💪 (Dmg is optional); 💪^💪 or target Restrained",
+      "belongs_to": "Weapon: Kray (mso)",
+      "genres": [
+        "SciFi"
+      ],
+      "notes": "Uses the kray's crescent curves and barbed flanges to hook and pin the opponent.",
+      "created_at": "2026-09-05T23:12:36.368543+00:00",
       "tier": null,
       "owner": "Designer"
     },
@@ -24992,7 +24992,7 @@
       ],
       "notes": "Security bypass: hack locks, find codes, override safeguards.",
       "created_at": "2026-09-03T20:14:29.977879+00:00",
-      "tier": "Free ⭕",
+      "tier": null,
       "owner": "Designer"
     },
     {
@@ -25466,7 +25466,7 @@
       ],
       "notes": "Ember Pin is engineered with high-durability composite materials for reliable field operations.",
       "created_at": "2026-09-03T20:14:29.977879+00:00",
-      "tier": "Free ⭕",
+      "tier": null,
       "owner": "Designer"
     },
     {
@@ -25577,7 +25577,7 @@
       ],
       "notes": "Deploys a portable 2x2 square environmental cube that seals against hazardous atmospheric conditions, extreme temperatures, and vacuum, supplying 24 hours of filtered air.",
       "created_at": "2026-09-03T20:14:29.977879+00:00",
-      "tier": "Free ⭕",
+      "tier": null,
       "owner": "Designer"
     },
     {
@@ -25624,7 +25624,7 @@
       ],
       "notes": "2x2 by 6 ft tall shelter; 3 occupants; 7-day air/water/nutrients; -300°F to 400°F; long range emergency transponder.",
       "created_at": "2026-09-03T20:14:29.977879+00:00",
-      "tier": "Free ⭕",
+      "tier": null,
       "owner": "Designer"
     },
     {
@@ -25831,7 +25831,7 @@
       ],
       "notes": "Sanitizes and prepares nutritious rations in hostile field environments.",
       "created_at": "2026-09-05T16:42:17.800176+00:00",
-      "tier": "Free ⭕",
+      "tier": null,
       "owner": "Designer"
     },
     {
@@ -25847,7 +25847,7 @@
       ],
       "notes": "Provides universal replacement conduits and hardware to perform rapid emergency repairs on disabled technical equipment or weaponry.",
       "created_at": "2026-09-05T23:12:36.446456+00:00",
-      "tier": "Free ⭕",
+      "tier": null,
       "owner": "Designer"
     },
     {
@@ -26296,7 +26296,7 @@
       ],
       "notes": "nearly any substance; strips, splices, coats wires; repairs cloth/armor with stronger-than-original bonds.",
       "created_at": "2026-09-03T20:14:29.977879+00:00",
-      "tier": "Free ⭕",
+      "tier": null,
       "owner": "Designer"
     },
     {
@@ -26478,7 +26478,7 @@
       ],
       "notes": "Glow Orb is engineered with high-durability composite materials for reliable field operations.",
       "created_at": "2026-09-03T20:14:29.977879+00:00",
-      "tier": "Free ⭕",
+      "tier": null,
       "owner": "Designer"
     },
     {
@@ -26510,7 +26510,7 @@
       ],
       "notes": "Mounts via quick-bond pad to weapons or armor, projecting visible or infrared light across Medium range.",
       "created_at": "2026-09-03T20:14:29.977879+00:00",
-      "tier": "Free ⭕",
+      "tier": null,
       "owner": "Designer"
     },
     {
@@ -26982,23 +26982,6 @@
       "owner": "Designer"
     },
     {
-      "id": 36,
-      "name": "Healing",
-      "action": "A",
-      "usage": "1-⚡",
-      "effect": "Heal Self 2d4.",
-      "belongs_to": "Supplies: Amulet of Healing",
-      "genres": [
-        "Medieval",
-        "Modern",
-        "SciFi"
-      ],
-      "notes": "Amulet of Healing is engineered with high-durability composite materials for reliable field operations.",
-      "created_at": "2026-09-03T20:14:29.977879+00:00",
-      "tier": null,
-      "owner": "Designer"
-    },
-    {
       "id": 192,
       "name": "Healing",
       "action": "P",
@@ -27011,6 +26994,23 @@
         "SciFi"
       ],
       "notes": "Potion of Healing is engineered with high-durability composite materials for reliable field operations.",
+      "created_at": "2026-09-03T20:14:29.977879+00:00",
+      "tier": null,
+      "owner": "Designer"
+    },
+    {
+      "id": 36,
+      "name": "Healing",
+      "action": "A",
+      "usage": "1-⚡",
+      "effect": "Heal Self 2d4.",
+      "belongs_to": "Supplies: Amulet of Healing",
+      "genres": [
+        "Medieval",
+        "Modern",
+        "SciFi"
+      ],
+      "notes": "Amulet of Healing is engineered with high-durability composite materials for reliable field operations.",
       "created_at": "2026-09-03T20:14:29.977879+00:00",
       "tier": null,
       "owner": "Designer"
@@ -27673,7 +27673,7 @@
       ],
       "notes": "Records holographic image for ImageWrap; In close range, front/back/side; stores 10 images.",
       "created_at": "2026-09-03T20:14:29.977879+00:00",
-      "tier": "Free ⭕",
+      "tier": null,
       "owner": "Designer"
     },
     {
@@ -27765,7 +27765,7 @@
       ],
       "notes": "High-temperature plasma stream capable of slicing through heavy structural alloys and locks.",
       "created_at": "2026-09-05T16:42:17.669626+00:00",
-      "tier": "Free ⭕",
+      "tier": null,
       "owner": "Designer"
     },
     {
@@ -28357,7 +28357,7 @@
       ],
       "notes": "Lantern Bead is engineered with high-durability composite materials for reliable field operations.",
       "created_at": "2026-09-03T20:14:29.977879+00:00",
-      "tier": "Free ⭕",
+      "tier": null,
       "owner": "Designer"
     },
     {
@@ -28920,7 +28920,7 @@
       ],
       "notes": "Fires signal flare (1000 ft); set to illuminate, tracer, and/or whistle.",
       "created_at": "2026-09-03T20:14:29.977879+00:00",
-      "tier": "Free ⭕",
+      "tier": null,
       "owner": "Designer"
     },
     {
@@ -28936,7 +28936,7 @@
       ],
       "notes": "Ammo for Miniflare Gun or similar.",
       "created_at": "2026-09-03T20:14:29.977879+00:00",
-      "tier": "Free ⭕",
+      "tier": null,
       "owner": "Designer"
     },
     {
@@ -28952,7 +28952,7 @@
       ],
       "notes": "1 hour compressed air for MiniScuba or similar.",
       "created_at": "2026-09-03T20:14:29.977879+00:00",
-      "tier": "Free ⭕",
+      "tier": null,
       "owner": "Designer"
     },
     {
@@ -28968,7 +28968,7 @@
       ],
       "notes": "Mouthpiece + cartridge; 1 hr air; cartridge auto-fills when not in use.",
       "created_at": "2026-09-03T20:14:29.977879+00:00",
-      "tier": "Free ⭕",
+      "tier": null,
       "owner": "Designer"
     },
     {
@@ -29274,7 +29274,7 @@
       ],
       "notes": "Precision cut or engrave up to 6 in; rating 40. Auto-cut or programmed patterns.",
       "created_at": "2026-09-03T20:14:29.977879+00:00",
-      "tier": "Free ⭕",
+      "tier": null,
       "owner": "Designer"
     },
     {
@@ -29464,7 +29464,7 @@
       ],
       "notes": "Deconstructs raw organic material into high-calorie edible survival tablets.",
       "created_at": "2026-09-05T16:42:17.831316+00:00",
-      "tier": "Free ⭕",
+      "tier": null,
       "owner": "Designer"
     },
     {
@@ -29983,7 +29983,7 @@
       ],
       "notes": "Plasma cutter/welder; up to12 in depth; cuts steel and bulkheads.",
       "created_at": "2026-09-03T20:14:29.977879+00:00",
-      "tier": "Free ⭕",
+      "tier": null,
       "owner": "Designer"
     },
     {
@@ -30105,7 +30105,7 @@
       ],
       "notes": "Pocket Lantern is engineered with high-durability composite materials for reliable field operations.",
       "created_at": "2026-09-03T20:14:29.977879+00:00",
-      "tier": "Free ⭕",
+      "tier": null,
       "owner": "Designer"
     },
     {
@@ -30184,7 +30184,7 @@
       ],
       "notes": "Monitor/siphon energy. Holds 100 srg",
       "created_at": "2026-09-03T20:14:29.977879+00:00",
-      "tier": "Free ⭕",
+      "tier": null,
       "owner": "Designer"
     },
     {
@@ -30402,7 +30402,7 @@
       ],
       "notes": "100 ft cable; Q-Bond ends affix to surfaces; controlled from spool.",
       "created_at": "2026-09-03T20:14:29.977879+00:00",
-      "tier": "Free ⭕",
+      "tier": null,
       "owner": "Designer"
     },
     {
@@ -30584,7 +30584,7 @@
       ],
       "notes": "One-inch cube expands to tech-plates, utensils, thermal cups; atomic heating/cooling; stores up to week's food and water",
       "created_at": "2026-09-03T20:14:29.977879+00:00",
-      "tier": "Free ⭕",
+      "tier": null,
       "owner": "Designer"
     },
     {
@@ -30601,7 +30601,7 @@
       ],
       "notes": "Quill of Sparks is engineered with high-durability composite materials for reliable field operations.",
       "created_at": "2026-09-03T20:14:29.977879+00:00",
-      "tier": "Free ⭕",
+      "tier": null,
       "owner": "Designer"
     },
     {
@@ -31586,7 +31586,7 @@
       ],
       "notes": "Shadow Thread is engineered with high-durability composite materials for reliable field operations.",
       "created_at": "2026-09-03T20:14:29.977879+00:00",
-      "tier": "Free ⭕",
+      "tier": null,
       "owner": "Designer"
     },
     {
@@ -31637,7 +31637,7 @@
       ],
       "notes": "Shard of Echo is engineered with high-durability composite materials for reliable field operations.",
       "created_at": "2026-09-03T20:14:29.977879+00:00",
-      "tier": "Free ⭕",
+      "tier": null,
       "owner": "Designer"
     },
     {
@@ -32664,7 +32664,7 @@
       ],
       "notes": "Sticky String is engineered with high-durability composite materials for reliable field operations.",
       "created_at": "2026-09-03T20:14:29.977879+00:00",
-      "tier": "Free ⭕",
+      "tier": null,
       "owner": "Designer"
     },
     {
@@ -32918,7 +32918,7 @@
       ],
       "notes": "Stone Beetle is engineered with high-durability composite materials for reliable field operations.",
       "created_at": "2026-09-03T20:14:29.977879+00:00",
-      "tier": "Free ⭕",
+      "tier": null,
       "owner": "Designer"
     },
     {
@@ -33142,7 +33142,7 @@
       ],
       "notes": "Capacitive battery cell that absorbs electrical discharge to recharge auxiliary electronic devices.",
       "created_at": "2026-09-05T16:42:17.224777+00:00",
-      "tier": "Free ⭕",
+      "tier": null,
       "owner": "Designer"
     },
     {
@@ -33315,7 +33315,7 @@
       ],
       "notes": "Continuously projects real-time telemetry of target pulse, Vit points, and wound degradation.",
       "created_at": "2026-09-05T16:42:16.937238+00:00",
-      "tier": "Free ⭕",
+      "tier": null,
       "owner": "Designer"
     },
     {
@@ -33479,7 +33479,7 @@
       ],
       "notes": "Thermal barrier sleeping envelope protecting occupant against sub-zero freezing and scorching heat.",
       "created_at": "2026-09-05T16:42:18.501199+00:00",
-      "tier": "Free ⭕",
+      "tier": null,
       "owner": "Designer"
     },
     {
@@ -33540,7 +33540,7 @@
       ],
       "notes": "Internal thermal vascular regulator rendering the user completely immune to environmental freezing.",
       "created_at": "2026-09-05T16:42:18.720474+00:00",
-      "tier": "Free ⭕",
+      "tier": null,
       "owner": "Designer"
     },
     {
@@ -33755,7 +33755,7 @@
       ],
       "notes": "Torch Seed is engineered with high-durability composite materials for reliable field operations.",
       "created_at": "2026-09-03T20:14:29.977879+00:00",
-      "tier": "Free ⭕",
+      "tier": null,
       "owner": "Designer"
     },
     {
@@ -34013,7 +34013,7 @@
       ],
       "notes": "Magnetic clamp harness securing weapons and tools against accidental loss or jarring impact.",
       "created_at": "2026-09-05T16:42:18.626325+00:00",
-      "tier": "Free ⭕",
+      "tier": null,
       "owner": "Designer"
     },
     {
@@ -34077,7 +34077,7 @@
       ],
       "notes": "Rapid vacuum expansion cell generating immediate positive buoyancy to lift user to water surface.",
       "created_at": "2026-09-05T16:42:19.129187+00:00",
-      "tier": "Free ⭕",
+      "tier": null,
       "owner": "Designer"
     },
     {
@@ -34207,7 +34207,7 @@
       ],
       "notes": "Vine Cord is engineered with high-durability composite materials for reliable field operations.",
       "created_at": "2026-09-03T20:14:29.977879+00:00",
-      "tier": "Free ⭕",
+      "tier": null,
       "owner": "Designer"
     },
     {
@@ -34405,7 +34405,7 @@
       ],
       "notes": "Water Skin of Plenty is engineered with high-durability composite materials for reliable field operations.",
       "created_at": "2026-09-03T20:14:29.977879+00:00",
-      "tier": "Free ⭕",
+      "tier": null,
       "owner": "Designer"
     },
     {
@@ -34535,7 +34535,7 @@
       ],
       "notes": "Whisper Stone is engineered with high-durability composite materials for reliable field operations.",
       "created_at": "2026-09-03T20:14:29.977879+00:00",
-      "tier": "Free ⭕",
+      "tier": null,
       "owner": "Designer"
     },
     {
