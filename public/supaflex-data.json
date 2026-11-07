@@ -4754,9 +4754,9 @@
     {
       "id": 894,
       "name": "Adhere (mso)",
-      "usage": "2-Enc",
+      "usage": "1-Rnd",
       "action": "P",
-      "effect": "+Weld to surface; immune to push and Prone; +4 AR; broken if wounded; for Encounter.",
+      "effect": "Weld to surface; immune to push and Prone; +4 AR (broken if wounded).",
       "created_at": "2026-09-05T23:12:15.415205+00:00",
       "genres": [
         "SciFi"
@@ -4861,7 +4861,7 @@
       "name": "Aether Leap",
       "usage": "2-Enc",
       "action": "M",
-      "effect": "Leap(d👣+2); Leave a psionic afterimage Believe Image(👁️)^👁️.",
+      "effect": "Leap 👣+2; leave psionic afterimage (👁️^👁️ or foes target image).",
       "created_at": "2026-08-13T21:26:29.251053+00:00",
       "genres": [
         "Medieval",
@@ -4950,7 +4950,7 @@
       "name": "Ale Fortitude",
       "usage": "1-⚡",
       "action": "P",
-      "effect": "Adv(Resist✨)^poison/fear for Encounter.",
+      "effect": "Adv(Resist)^poison/fear for Encounter.",
       "created_at": "2026-08-13T21:26:29.251053+00:00",
       "genres": [
         "Medieval",
@@ -5138,7 +5138,7 @@
       "name": "Ancestral Guard",
       "usage": "1-⚡",
       "action": "F",
-      "effect": "Call on clan spirits; allies in 2sq 🚩+1 for Encounter.",
+      "effect": "Call on clan spirits; allies in 2sq gain 🚩+1 for Encounter.",
       "created_at": "2026-08-13T21:26:29.251053+00:00",
       "genres": [
         "Medieval",
@@ -5865,9 +5865,9 @@
     {
       "id": 53,
       "name": "Berserker Rage",
-      "usage": "1-Enc",
+      "usage": "1-Rnd",
       "action": "P",
-      "effect": "Enter rage; Dmg+2 and Def-2 for Encounter.",
+      "effect": "Rage stance: Dmg+2; Def-2.",
       "created_at": "2026-08-13T21:26:29.251053+00:00",
       "genres": [
         "Medieval",
@@ -6097,7 +6097,7 @@
       "name": "Blast",
       "usage": "2-Enc",
       "action": "A",
-      "effect": "Tight radius AoE: Atk ✨ Dmg d✨ primary target takes normal Wnds, others in 1r half Wnds.",
+      "effect": "AoE 1r: Atk 👁️ Dmg d👁️ (primary target takes full Wnds; others in 1r take half Wnds).",
       "created_at": "2026-08-13T21:26:29.251053+00:00",
       "genres": [
         "Medieval",
@@ -6118,7 +6118,7 @@
       "name": "Blast (mso)",
       "usage": "1-Enc",
       "action": "A",
-      "effect": "Rng Medium; searing light; ✨^✨ or target Blinded.",
+      "effect": "Rng Medium; searing psychic flash; 👁️^👁️ or target is Blinded.",
       "created_at": "2026-09-05T23:12:15.32015+00:00",
       "genres": [
         "SciFi"
@@ -6160,7 +6160,7 @@
       "name": "Bless",
       "usage": "1-⚡",
       "action": "A",
-      "effect": "One ally gains +1 to all rolls this encounter.",
+      "effect": "One ally gains +1 to all rolls for Encounter.",
       "created_at": "2026-08-13T21:26:29.251053+00:00",
       "genres": [
         "Medieval",
@@ -6181,7 +6181,7 @@
       "name": "Blind Fighter’s Poise",
       "usage": "1-⚡",
       "action": "P",
-      "effect": "Fight normally in darkness; Atk rolls no penalty for encounter.",
+      "effect": "Fight normally in darkness; no darkness penalty on Atk rolls for Encounter.",
       "created_at": "2026-08-13T21:26:29.251053+00:00",
       "genres": [
         "Medieval",
@@ -6223,7 +6223,7 @@
       "name": "Blink Assault",
       "usage": "1-Enc",
       "action": "AM",
-      "effect": "Teleport up to 6sq, then make 1 Atk this rnd; on hit, ✨ force Dmg+1.",
+      "effect": "Teleport up to 6sq, then make 1 Atk this Rnd; on hit, +1 👁️ force Dmg.",
       "created_at": "2026-08-13T21:26:29.251053+00:00",
       "genres": [
         "Medieval",
@@ -6303,9 +6303,9 @@
     {
       "id": 78,
       "name": "Blood Fury",
-      "usage": "1-Enc",
+      "usage": "1-Rnd",
       "action": "P",
-      "effect": "Enter rage; Dmg+2 and Def-2 for Encounter.",
+      "effect": "Fury stance: Dmg+2; Def-2.",
       "created_at": "2026-08-13T21:26:29.251053+00:00",
       "genres": [
         "Medieval",
@@ -6494,7 +6494,7 @@
       "name": "Blow",
       "usage": "2-Enc",
       "action": "A",
-      "effect": "Kinetic fist Atk ✨ Dmg d✨; on hit target may be knocked back Shove(✨)^💪.",
+      "effect": "Kinetic fist: Atk 👁️ Dmg d👁️; on hit, 👁️^💪 or target is pushed 1sq.",
       "created_at": "2026-08-13T21:26:29.251053+00:00",
       "genres": [
         "Medieval",
@@ -6515,7 +6515,7 @@
       "name": "Blow (mso)",
       "usage": "2-Enc",
       "action": "A",
-      "effect": "Rng Short; Atk ✨ Dmg d✨; Wnds = push 1 sq.",
+      "effect": "Rng Short; Atk 👁️ Dmg d👁️; Wnds = push 1 sq.",
       "created_at": "2026-09-05T23:12:15.32015+00:00",
       "genres": [
         "SciFi"
@@ -6536,7 +6536,7 @@
       "name": "Body Heal",
       "usage": "1-⚡",
       "action": "P",
-      "effect": "Self-heal: concentrate on wounded area; restore Heal(🫀) Vit (or per Ver).",
+      "effect": "Self-heal: concentrate on wounded area; Heals 2d🫀 Vit.",
       "created_at": "2026-08-13T21:26:29.251053+00:00",
       "genres": [
         "Medieval",
@@ -6559,7 +6559,7 @@
       "name": "Body Heal (mso)",
       "usage": "2-Enc",
       "action": "A",
-      "effect": "Heals d✨ Vit.",
+      "effect": "Heals d🫀 Vit.",
       "created_at": "2026-09-05T23:12:15.32015+00:00",
       "genres": [
         "SciFi"
@@ -6746,9 +6746,9 @@
     {
       "id": 99,
       "name": "Burdened March",
-      "usage": "1-Enc",
-      "action": "M",
-      "effect": "Move 👣-2; AR+2 for Encounter.",
+      "usage": "1-Rnd",
+      "action": "P",
+      "effect": "Defensive march stance: 👣-2; AR+2.",
       "created_at": "2026-08-13T21:26:29.251053+00:00",
       "genres": [
         "Medieval",
@@ -6912,7 +6912,7 @@
       "name": "Chaos Surge",
       "usage": "1-⚡",
       "action": "A",
-      "effect": "Random elemental effect (as per GM); usually ✨ Atk.",
+      "effect": "Random psionic/elemental surge (as per GM); Atk 👁️ Dmg d👁️.",
       "created_at": "2026-08-13T21:26:29.343213+00:00",
       "genres": [
         "Medieval",
@@ -6933,7 +6933,7 @@
       "name": "Charm Veil",
       "usage": "1-Enc",
       "action": "P",
-      "effect": "👁️ Socail roll with Advantage.",
+      "effect": "Adv(👁️) on Social roll.",
       "created_at": "2026-08-13T21:26:29.343213+00:00",
       "genres": [
         "Medieval",
@@ -7290,7 +7290,7 @@
       "name": "Comforting Aura",
       "usage": "1-Enc",
       "action": "P",
-      "effect": "Nearby allies gain Resist✨+5^fear for Encounter.",
+      "effect": "Allies in 2sq gain Resist👁️+5^fear.",
       "created_at": "2026-08-13T21:26:29.343213+00:00",
       "genres": [
         "Medieval",
@@ -7370,9 +7370,9 @@
     {
       "id": 125,
       "name": "Construct Siege Weapon",
-      "usage": "1-Enc",
+      "usage": "1-⚡",
       "action": "A",
-      "effect": "Summon implacement ballista for encounter user can shoot javelins 👁️ Atk, Dmg d10; Def-3 while using.",
+      "effect": "Summon emplacement ballista for Encounter; shoot javelins (Atk 👁️ Dmg d10; Def-3 while operating).",
       "created_at": "2026-08-13T21:26:29.343213+00:00",
       "genres": [
         "Medieval",
@@ -7948,7 +7948,7 @@
       "name": "Death Blow",
       "usage": "1-⚡",
       "action": "F",
-      "effect": "After dealing body Dmg: Death Blow(👁️)^🫀; success = target dead (PCs to −10 Vit).",
+      "effect": "After dealing unarmed Dmg: 🫀^🫀 or target dies (PCs to -10 Vit).",
       "created_at": "2026-08-13T21:26:29.343213+00:00",
       "genres": [
         "Medieval",
@@ -7971,7 +7971,7 @@
       "name": "Death Blow (mso)",
       "usage": "1-Enc",
       "action": "A",
-      "effect": "Rng Short; Atk ✨ Dmg d✨; Wnds = push 1 sq.",
+      "effect": "Rng Short; Atk 🫀 Dmg d🫀; Wnds = push 1 sq.",
       "created_at": "2026-09-05T23:12:15.32015+00:00",
       "genres": [
         "SciFi"
@@ -8490,7 +8490,7 @@
       "name": "Distract & Draw",
       "usage": "1-Enc",
       "action": "P",
-      "effect": "Create brief diversion; nearest foe 👁️ or looks away; your next Stealth🏃 this rnd gains Advantage.",
+      "effect": "Create brief diversion; nearest foe 👁️^👁️ or looks away, granting Advantage on your next Stealth🏃 roll this Rnd.",
       "created_at": "2026-08-13T21:26:29.343213+00:00",
       "genres": [
         "Medieval",
@@ -9095,10 +9095,10 @@
     },
     {
       "id": 206,
-      "name": "Electric palm",
+      "name": "Electric Palm",
       "usage": "2-Enc",
       "action": "A",
-      "effect": "Body attack with shock Dmg bns Atk 💪 Dmg d💪+1.",
+      "effect": "Unarmed bio-shock attack: Atk 🫀 Dmg d🫀+3 lightning.",
       "created_at": "2026-08-13T21:26:29.436163+00:00",
       "genres": [
         "Medieval",
@@ -9121,7 +9121,7 @@
       "name": "Electric Palm (mso)",
       "usage": "2-Enc",
       "action": "A",
-      "effect": "Rng 1; Atk ✨ Dmg d✨ lightning; Wnds = Stunned.",
+      "effect": "Rng 1; Atk 🫀 Dmg d🫀 lightning; Wnds = Stunned.",
       "created_at": "2026-09-05T23:12:15.32015+00:00",
       "genres": [
         "SciFi"
@@ -9163,7 +9163,7 @@
       "name": "Elemental Burst",
       "usage": "1-⚡",
       "action": "P",
-      "effect": "Choose either fire/ice/lightning; ✨ Atk Dmg+1 for Encounter.",
+      "effect": "Choose fire, ice, or lightning; ✨ Atk deals Dmg+1 for Encounter.",
       "created_at": "2026-08-13T21:26:29.436163+00:00",
       "genres": [
         "Medieval",
@@ -9205,7 +9205,7 @@
       "name": "Elven Resilience",
       "usage": "1-Rnd",
       "action": "P",
-      "effect": "Immune to sleep/charm and gain Resist✨^mental effects for 1 Rnd.",
+      "effect": "Immune to sleep/charm and gain Resist👁️^mental effects for 1 Rnd.",
       "created_at": "2026-08-13T21:26:29.436163+00:00",
       "genres": [
         "Medieval",
@@ -9246,7 +9246,7 @@
       "name": "Encase",
       "usage": "2-Enc",
       "action": "A",
-      "effect": "Restrain one target: Encase(✨)^💪 to hit; immobilized. Each rnd Break Free(💪)^✨ or remain encased; caster may move target at MR.",
+      "effect": "Restrain 1 target: 👁️^💪 or Immobilized (breakout 💪^👁️); psionicist may move encased target up to 👣 each Rnd.",
       "created_at": "2026-08-13T21:26:29.436163+00:00",
       "genres": [
         "Medieval",
@@ -9267,7 +9267,7 @@
       "name": "Encase (mso)",
       "usage": "1-Enc",
       "action": "P",
-      "effect": "+Rng Medium; invisible psychic barrier traps target 👁️^👁️; target Immobilized for Encounter (breakout 💪^👁️).",
+      "effect": "Rng Medium; invisible psychic barrier traps target; 👁️^💪 or Immobilized.",
       "created_at": "2026-09-05T23:12:15.32015+00:00",
       "genres": [
         "SciFi"
@@ -9835,7 +9835,7 @@
       "name": "Fey Resilience",
       "usage": "1-⚡",
       "action": "P",
-      "effect": "Adv(Resist✨)^charm/fear for Encounter.",
+      "effect": "Adv(Resist👁️)^charm/fear for Encounter.",
       "created_at": "2026-08-13T21:26:29.436163+00:00",
       "genres": [
         "Medieval",
@@ -9898,7 +9898,7 @@
       "name": "Feytongue",
       "usage": "1-⚡",
       "action": "F",
-      "effect": "👁️ speak any language for encounter.",
+      "effect": "👁️ to speak and understand any language for Encounter.",
       "created_at": "2026-08-13T21:26:29.436163+00:00",
       "genres": [
         "Medieval",
@@ -10084,8 +10084,8 @@
     {
       "id": 246,
       "name": "Flame Weapon",
-      "usage": "1-Enc",
-      "action": "A",
+      "usage": "1-⚡",
+      "action": "P",
       "effect": "Imbue weapon; Dmg+1 fire for Encounter.",
       "created_at": "2026-08-13T21:26:29.436163+00:00",
       "genres": [
@@ -10275,9 +10275,9 @@
     {
       "id": 255,
       "name": "Force Shield",
-      "usage": "2-Enc",
+      "usage": "1-Rnd",
       "action": "P",
-      "effect": "Barrier of mental energy: +Val(✨-1) to AR+ (or similar bonus per Ver).",
+      "effect": "Barrier of mental energy: +(👁️'s die tier) AR.",
       "created_at": "2026-08-13T21:26:29.436163+00:00",
       "genres": [
         "Medieval",
@@ -10318,7 +10318,7 @@
       "id": 257,
       "name": "Forge Spark",
       "usage": "1-Enc",
-      "action": "P",
+      "action": "A",
       "effect": "Touched weapon glows; Dmg+1 for Encounter.",
       "created_at": "2026-08-13T21:26:29.436163+00:00",
       "genres": [
@@ -10359,7 +10359,7 @@
     {
       "id": 259,
       "name": "Forge-Touched",
-      "usage": "1-Enc",
+      "usage": "1-⚡",
       "action": "P",
       "effect": "Touch weapon; Dmg+1 for Encounter.",
       "created_at": "2026-08-13T21:26:29.436163+00:00",
@@ -10550,7 +10550,7 @@
       "name": "Ghost Phalanx",
       "usage": "1-⚡",
       "action": "F",
-      "effect": "Adjacent allies AR+1 as spectral shields form for encounter.",
+      "effect": "Adjacent allies gain AR+1 as spectral shields form for Encounter.",
       "created_at": "2026-08-13T21:26:29.436163+00:00",
       "genres": [
         "Medieval",
@@ -10676,7 +10676,7 @@
       "name": "Glamour Veil",
       "usage": "1-Enc",
       "action": "P",
-      "effect": "appear+more beautifu; Appropriate 👁️+2.",
+      "effect": "Appear more beautiful; 👁️+2 on social rolls.",
       "created_at": "2026-08-13T21:26:29.436163+00:00",
       "genres": [
         "Medieval",
@@ -10865,7 +10865,7 @@
       "name": "Grimy Grin",
       "usage": "1-Enc",
       "action": "P",
-      "effect": "👁️ Intimidate or target looses next Move Action.",
+      "effect": "👁️^👁️ Intimidate or target loses its next Move Action.",
       "created_at": "2026-08-13T21:26:29.436163+00:00",
       "genres": [
         "Medieval",
@@ -10990,7 +10990,7 @@
       "name": "Halfling Courage",
       "usage": "1-Enc",
       "action": "P",
-      "effect": "Adv(Resist✨)^fear/charm for Encounter.",
+      "effect": "Adv(Resist👁️)^fear/charm.",
       "created_at": "2026-08-13T21:26:29.436163+00:00",
       "genres": [
         "Medieval",
@@ -11009,9 +11009,9 @@
     {
       "id": 292,
       "name": "Hallucination",
-      "usage": "2-Enc",
+      "usage": "1-⚡",
       "action": "A",
-      "effect": "All minds in range see false images: Hallucination(✨)^Dif (WP+Adj). Persists while concentrating; targets may 👁️+^Dif each rnd to break.",
+      "effect": "All targets in range see false images: 👁️^👁️ or believe as affliction",
       "created_at": "2026-08-13T21:26:29.436163+00:00",
       "genres": [
         "Medieval",
@@ -11095,7 +11095,7 @@
       "name": "Haze",
       "usage": "2-Enc",
       "action": "A",
-      "effect": "Psychic fog in victim's mind: Haze(✨)^🫀. Victim penalty on mind-affecting rolls until save.",
+      "effect": "Psychic fog in target's mind: 👁️^👁️ or target suffers -2 on mental rolls.",
       "created_at": "2026-08-13T21:26:29.436163+00:00",
       "genres": [
         "Medieval",
@@ -11284,7 +11284,7 @@
       "name": "Hearing Boost",
       "usage": "1-Rnd",
       "action": "P",
-      "effect": "Enhance hearing: Awareness (hearing) at bonus Val(👁️-1) or similar. Cannot stack with Super Hearing.",
+      "effect": "Enhance hearing: 👁️+2 to hearing checks. Cannot stack with Super Hearing.",
       "created_at": "2026-08-13T21:26:29.524874+00:00",
       "genres": [
         "Medieval",
@@ -11553,8 +11553,8 @@
       "id": 319,
       "name": "Howl Pack",
       "usage": "1-Enc",
-      "action": "A",
-      "effect": "Allies in 3sq Atk+1 for Encounter.",
+      "action": "P",
+      "effect": "Allies in 3sq gain Atk+1.",
       "created_at": "2026-08-13T21:26:29.524874+00:00",
       "genres": [
         "Medieval",
@@ -11617,7 +11617,7 @@
       "name": "Hurl",
       "usage": "2-Enc",
       "action": "A",
-      "effect": "Throw hurled weapon with mind: Atk ✨ Dmg d✨ at range; weapon and target in range.",
+      "effect": "Telekinetically throw weapon in range: Atk 👁️ Dmg d👁️.",
       "created_at": "2026-08-13T21:26:29.524874+00:00",
       "genres": [
         "Medieval",
@@ -11638,7 +11638,7 @@
       "name": "Hurl (mso)",
       "usage": "2-Enc",
       "action": "M",
-      "effect": "+Rng Medium; telekinetically hurl weapon; Atk 👁️+2 Dmg d👁️+2; doubles weapon range band.",
+      "effect": "Rng Medium; telekinetically hurl weapon; Atk 👁️+2 Dmg d👁️+2; doubles weapon range band.",
       "created_at": "2026-09-05T23:12:15.32015+00:00",
       "genres": [
         "SciFi"
@@ -11743,7 +11743,7 @@
       "name": "Illusory Army",
       "usage": "1-⚡",
       "action": "A",
-      "effect": "Create 1d4 illusory allies; 👁️ or foes believe for Encounter.",
+      "effect": "Create 1d4 illusory allies for Encounter; 👁️^👁️ or foes believe they are real.",
       "created_at": "2026-08-13T21:26:29.524874+00:00",
       "genres": [
         "Medieval",
@@ -11783,9 +11783,9 @@
     {
       "id": 331,
       "name": "Immortal Stance",
-      "usage": "1-⚡",
-      "action": "P",
-      "effect": "Bond to surface: gain ✨+10^forced movement, AR+2, and Resist✨^explosions, heat, and cold for Encounter.",
+      "usage": "1-Rnd",
+      "action": "AM",
+      "effect": "Bond to surface: 👣 0; ✨+10^forced movement, AR+2, and Resist✨^explosions, heat, and cold.",
       "created_at": "2026-08-13T21:26:29.524874+00:00",
       "genres": [
         "Medieval",
@@ -11804,9 +11804,9 @@
     {
       "id": 877,
       "name": "Immortal Stance (mso)",
-      "usage": "1-Enc",
-      "action": "P",
-      "effect": "+Root into stance; 👣 0; immovable up to 💪+10 force; +4 AR; broken if wounded; for Encounter.",
+      "usage": "1-Rnd",
+      "action": "AM",
+      "effect": "Root into stance: 👣 0; immovable up to 💪+10 force; +4 AR (broken if wounded).",
       "created_at": "2026-09-05T23:12:15.32015+00:00",
       "genres": [
         "SciFi"
@@ -12051,7 +12051,7 @@
       "name": "Iron Bind",
       "usage": "1-Enc",
       "action": "A",
-      "effect": "Clamp foe in metal geAR+; 👁️ or target is Immobilized.",
+      "effect": "Clamp foe in metal gear; 👁️^💪 or target is Immobilized.",
       "created_at": "2026-08-13T21:26:29.524874+00:00",
       "genres": [
         "Medieval",
@@ -12198,9 +12198,9 @@
     {
       "id": 898,
       "name": "Iron Skin (mso)",
-      "usage": "2-Enc",
+      "usage": "1-Rnd",
       "action": "P",
-      "effect": "Harden flesh; +3 AR for encounter.",
+      "effect": "Harden flesh; +3 AR.",
       "created_at": "2026-09-05T23:12:15.415205+00:00",
       "genres": [
         "SciFi"
@@ -12263,7 +12263,7 @@
       "name": "Jerk",
       "usage": "2-Enc",
       "action": "A",
-      "effect": "Rng Medium; telekinetically seize and throw object ✨^💪; or small foe Atk ✨ Dmg d✨.",
+      "effect": "Rng Medium; telekinetically seize and throw object 👁️^💪, or hurl small foe (Atk 👁️ Dmg d👁️).",
       "created_at": "2026-08-13T21:26:29.524874+00:00",
       "genres": [
         "Medieval",
@@ -12284,7 +12284,7 @@
       "name": "Jerk (mso)",
       "usage": "2-Enc",
       "action": "P",
-      "effect": "+Rng Medium; telekinetically seize and throw held object 👁️^💪; impact Dmg d👁️.",
+      "effect": "Rng Medium; telekinetically seize and throw held object 👁️^💪; impact Dmg d👁️.",
       "created_at": "2026-09-05T23:12:15.32015+00:00",
       "genres": [
         "SciFi"
@@ -12305,7 +12305,7 @@
       "name": "Juggernaut",
       "usage": "1-⚡",
       "action": "P",
-      "effect": "AR+2 vs all Atks while in Giant form for encounter.",
+      "effect": "AR+2 vs all Atks while in Giant form for Encounter.",
       "created_at": "2026-08-13T21:26:29.524874+00:00",
       "genres": [
         "Medieval",
@@ -12391,7 +12391,7 @@
       "name": "Keeth’s Cry",
       "usage": "1-⚡",
       "action": "A",
-      "effect": "Summon Keeth; allies in 3sq 🚩+2 for Encounter.",
+      "effect": "Summon Keeth; allies in 3sq gain 🚩+2 for Encounter.",
       "created_at": "2026-08-13T21:26:29.524874+00:00",
       "genres": [
         "Medieval",
@@ -12519,7 +12519,7 @@
       "name": "Knife Savant",
       "usage": "1-⚡",
       "action": "F",
-      "effect": "Thrown knives Atk+1 for encounter.",
+      "effect": "Thrown knives gain Atk+1 for Encounter.",
       "created_at": "2026-08-13T21:26:29.524874+00:00",
       "genres": [
         "Medieval",
@@ -12561,7 +12561,7 @@
       "name": "Landing",
       "usage": "2-Enc",
       "action": "P",
-      "effect": "Cushion of mental force: Landing(✨) reduces falling distance (feet) by roll; remaining fall uses normal AR+.",
+      "effect": "Cushion of mental force: reduces falling distance (ft) by d👁️; remaining fall uses normal AR.",
       "created_at": "2026-08-13T21:26:29.524874+00:00",
       "genres": [
         "Medieval",
@@ -12731,7 +12731,7 @@
       "name": "Legion’s Might",
       "usage": "1-⚡",
       "action": "F",
-      "effect": "Each different Weapon has Advantage with next Attack, lasts for encounter.",
+      "effect": "Each different weapon you wield gains Advantage on its first Atk this Encounter.",
       "created_at": "2026-08-13T21:26:29.524874+00:00",
       "genres": [
         "Medieval",
@@ -12752,7 +12752,7 @@
       "name": "Levitate Other",
       "usage": "2-Enc",
       "action": "A",
-      "effect": "Disk lifts target vertically; Levitate(✨)^🏃 to resist. Target may hop off; move disk at MR each rnd.",
+      "effect": "Psionic disk lifts target vertically (👁️^🏃 to resist); target may hop off; move disk up to 👣 each Rnd.",
       "created_at": "2026-08-13T21:26:29.524874+00:00",
       "genres": [
         "Medieval",
@@ -12773,7 +12773,7 @@
       "name": "Levitate Other (mso)",
       "usage": "2-Enc",
       "action": "M",
-      "effect": "Rng Medium; levitate target up/down with ✨.",
+      "effect": "Rng Medium; levitate target up/down up to d👁️ sq (👁️^🏃 if unwilling).",
       "created_at": "2026-09-05T23:12:15.32015+00:00",
       "genres": [
         "SciFi"
@@ -12794,7 +12794,7 @@
       "name": "Levitate Self",
       "usage": "2-Enc",
       "action": "P",
-      "effect": "Psionic disk under user: vertical (and slight horizontal) movement. Attacks from below: +AR from disk.",
+      "effect": "Psionic disk lifts user vertically up to d👁️ sq; +2 AR vs attacks from below.",
       "created_at": "2026-08-13T21:26:29.524874+00:00",
       "genres": [
         "Medieval",
@@ -12815,7 +12815,7 @@
       "name": "Levitate Self (mso)",
       "usage": "2-Enc",
       "action": "M",
-      "effect": "Levitate up/down 👣 ✨.",
+      "effect": "Levitate vertically up to d👁️ sq.",
       "created_at": "2026-09-05T23:12:15.32015+00:00",
       "genres": [
         "SciFi"
@@ -13107,7 +13107,7 @@
       "name": "Loyal Heart",
       "usage": "1-⚡",
       "action": "F",
-      "effect": "Allies in 2sq Resist✨+1 for Encounter.",
+      "effect": "Allies in 2sq gain Resist+1 for Encounter.",
       "created_at": "2026-08-13T21:26:29.524874+00:00",
       "genres": [
         "Medieval",
@@ -13562,8 +13562,8 @@
       "id": 409,
       "name": "Mark Target",
       "usage": "1-Enc",
-      "action": "F",
-      "effect": "Choose 1 visible foe: Adv(Atk)^Foe for Encounter.",
+      "action": "M",
+      "effect": "Choose 1 visible foe: Adv(Atk)^foe for Encounter.",
       "created_at": "2026-08-13T21:26:29.621594+00:00",
       "genres": [
         "Medieval",
@@ -13605,7 +13605,7 @@
       "name": "Master of Disguise",
       "usage": "1-⚡",
       "action": "A",
-      "effect": "appear+as another person; 👁️ disguise roll.",
+      "effect": "Appear as another person; 👁️ disguise roll.",
       "created_at": "2026-08-13T21:26:29.621594+00:00",
       "genres": [
         "Medieval",
@@ -13832,7 +13832,7 @@
       "name": "Mind Over Body",
       "usage": "1-⚡",
       "action": "P",
-      "effect": "Resist✨ poison/disease with Advantage and Heal self ✨-2.",
+      "effect": "Adv(Resist👁️)^poison/disease and Heal self d👁️-2 Vit.",
       "created_at": "2026-08-13T21:26:29.621594+00:00",
       "genres": [
         "Medieval",
@@ -13853,7 +13853,7 @@
       "name": "Mind Probe",
       "usage": "1-Enc",
       "action": "P",
-      "effect": "Probe inner thoughts and long-term memory: Probe(✨)^🫀. Success uncovers information subject knows.",
+      "effect": "Probe inner thoughts and long-term memory: 👁️^👁️ to uncover information target knows.",
       "created_at": "2026-08-13T21:26:29.621594+00:00",
       "genres": [
         "Medieval",
@@ -13912,11 +13912,32 @@
       ]
     },
     {
+      "id": 426,
+      "name": "Minor Illusion",
+      "usage": "1-Enc",
+      "action": "A",
+      "effect": "Create sound/image in 1sq; 👁️^👁️ or target believes.",
+      "created_at": "2026-08-13T21:26:29.621594+00:00",
+      "genres": [
+        "Medieval",
+        "Modern",
+        "SciFi"
+      ],
+      "discipline": "Psionics",
+      "stat_hook": null,
+      "notes": null,
+      "owner": "Designer",
+      "sets": [],
+      "path": [
+        "Gnome"
+      ]
+    },
+    {
       "id": 424,
       "name": "Minor Telepathy",
       "usage": "2-Enc",
       "action": "P",
-      "effect": "Send thoughts to one individual in range. Unwilling: Telepathy(✨)^🫀.",
+      "effect": "Send thoughts to 1 target in range (unwilling target: 👁️^👁️).",
       "created_at": "2026-08-13T21:26:29.621594+00:00",
       "genres": [
         "Medieval",
@@ -13952,27 +13973,6 @@
       "path": [
         "Psionics (mso)",
         "Zin-Shee Female (mso) {Free}"
-      ]
-    },
-    {
-      "id": 426,
-      "name": "Minor🍺 Illusion",
-      "usage": "1-Enc",
-      "action": "A",
-      "effect": "Create sound/image in 1sq; 👁️ or target disbelieves.",
-      "created_at": "2026-08-13T21:26:29.621594+00:00",
-      "genres": [
-        "Medieval",
-        "Modern",
-        "SciFi"
-      ],
-      "discipline": "Psionics",
-      "stat_hook": null,
-      "notes": null,
-      "owner": "Designer",
-      "sets": [],
-      "path": [
-        "Gnome"
       ]
     },
     {
@@ -14064,7 +14064,7 @@
       "name": "Molecular Diffusion",
       "usage": "1-Enc",
       "action": "A",
-      "effect": "Pass through solid objects (walls, etc.). Still in object at end: Diffusion(✨)^Dif or 2nd Deg Wnd and rematerialize at start.",
+      "effect": "Pass through solid objects (walls, etc.). If still in object at end of turn: 🫀^Dif or suffer d10 Wnds and rematerialize at start.",
       "created_at": "2026-08-13T21:26:29.621594+00:00",
       "genres": [
         "Medieval",
@@ -14169,9 +14169,9 @@
     {
       "id": 437,
       "name": "Moonlight Blessing",
-      "usage": "1-Enc",
+      "usage": "1-⚡",
       "action": "P",
-      "effect": "Glow faintly; Allies 🚩+1 for Encounter.",
+      "effect": "Glow faintly; allies in 3sq gain 🚩+1 for Encounter.",
       "created_at": "2026-08-13T21:26:29.621594+00:00",
       "genres": [
         "Medieval",
@@ -14274,7 +14274,7 @@
       "name": "Move Object (mso)",
       "usage": "2-Enc",
       "action": "P",
-      "effect": "+Rng Medium; telekinetically move unrestrained object 👣 (= to 👁️ die) up to (👁️ die x 20 lbs).",
+      "effect": "Rng Medium; telekinetically move unrestrained object 👣 (= to 👁️ die) up to (👁️ die x 20 lbs).",
       "created_at": "2026-09-05T23:12:15.415205+00:00",
       "genres": [
         "SciFi"
@@ -14295,7 +14295,7 @@
       "name": "Move Object 1",
       "usage": "2-Enc",
       "action": "P",
-      "effect": "Telekinesis: move unattended object (max weight per Ver) at Move Object(✨) feet per rnd. No living/minded targets.",
+      "effect": "Telekinesis: move unattended object up to d👁️ sq per Rnd. No living targets.",
       "created_at": "2026-08-13T21:26:29.621594+00:00",
       "genres": [
         "Medieval",
@@ -14316,7 +14316,7 @@
       "name": "Move Object 2",
       "usage": "2-Enc",
       "action": "P",
-      "effect": "Use Strength(💪) in place of Str to lift/bend/open inanimate object (doors, bars); Move Object(✨)^Dif. Hold up to Dur.",
+      "effect": "Use 👁️ in place of 💪 to lift, bend, or open inanimate objects (doors, bars): 👁️^Dif.",
       "created_at": "2026-08-13T21:26:29.621594+00:00",
       "genres": [
         "Medieval",
@@ -14691,7 +14691,7 @@
       "name": "Object Reading",
       "usage": "1-Enc",
       "action": "A",
-      "effect": "Touch item; ✨ to learn brief history.",
+      "effect": "Touch item; 👁️ to learn its brief psychic history.",
       "created_at": "2026-08-13T21:26:29.621594+00:00",
       "genres": [
         "Medieval",
@@ -14919,7 +14919,7 @@
       "name": "Oxygenate",
       "usage": "1-⚡",
       "action": "P",
-      "effect": "Absorb oxygen from tissue; no breathing required for duration. Extends time before suffocation checks.",
+      "effect": "Absorb oxygen from body tissue; no breathing required for duration (Adv on 🫀 suffocation checks).",
       "created_at": "2026-08-13T21:26:29.621594+00:00",
       "genres": [
         "Medieval",
@@ -14942,7 +14942,7 @@
       "name": "Oxygenate (mso)",
       "usage": "2-Enc",
       "action": "P",
-      "effect": "Oxygenate allows psychosomaticists to absorb oxygen from their body tissue.",
+      "effect": "Absorb oxygen from body tissue; no breathing required for 10 min (Adv on 🫀 suffocation checks).",
       "created_at": "2026-09-05T23:12:15.32015+00:00",
       "genres": [
         "SciFi"
@@ -15631,7 +15631,7 @@
       "name": "Power Punch",
       "usage": "2-Enc",
       "action": "A",
-      "effect": "Punch Atk 💪-1 Dmg d💪+2.",
+      "effect": "Unarmed strike: Atk 🫀-1 Dmg d🫀+3.",
       "created_at": "2026-08-13T21:26:29.72558+00:00",
       "genres": [
         "Medieval",
@@ -15757,7 +15757,7 @@
       "name": "Pressure Chain",
       "usage": "1-Enc",
       "action": "F",
-      "effect": "If unarmed Atk hits same target 2 rnds in a row; gain Dod+2 for Encounter.",
+      "effect": "If unarmed Atk hits same target 2 Rnds in a row: gain Dod+2.",
       "created_at": "2026-08-13T21:26:29.72558+00:00",
       "genres": [
         "Medieval",
@@ -15822,7 +15822,7 @@
       "name": "Pressure-Point Strike",
       "usage": "1-⚡",
       "action": "A",
-      "effect": "On hit; target 👣-2 for Encounter.",
+      "effect": "On unarmed hit: target suffers 👣-2 for Encounter.",
       "created_at": "2026-08-13T21:26:29.72558+00:00",
       "genres": [
         "Medieval",
@@ -15906,7 +15906,7 @@
       "name": "Psionic Push",
       "usage": "1-Enc",
       "action": "P",
-      "effect": "✨ Atk; on hit; push target 2sq.",
+      "effect": "Atk 👁️; on hit, push target 2sq.",
       "created_at": "2026-08-13T21:26:29.72558+00:00",
       "genres": [
         "Medieval",
@@ -15948,7 +15948,7 @@
       "name": "Punch (mso)",
       "usage": "2-Enc",
       "action": "A",
-      "effect": "Rng 1; +2 Dmg on unarmed strike.",
+      "effect": "Rng 1; telekinetic fist adds +2 Dmg (or Atk 👁️ Dmg d👁️+2) on unarmed strike.",
       "created_at": "2026-09-05T23:12:15.415205+00:00",
       "genres": [
         "SciFi"
@@ -16301,7 +16301,7 @@
       "name": "Rally Song",
       "usage": "1-⚡",
       "action": "A",
-      "effect": "Allies in earshot Atk+1 for Encounter.",
+      "effect": "Allies in earshot gain Atk+1 for Encounter.",
       "created_at": "2026-08-13T21:26:29.72558+00:00",
       "genres": [
         "Medieval",
@@ -16342,8 +16342,8 @@
       "id": 550,
       "name": "Rallying Shout",
       "usage": "1-Enc",
-      "action": "A",
-      "effect": "Allies 👣+1 for Encounter.",
+      "action": "P",
+      "effect": "Allies in earshot gain 👣+2.",
       "created_at": "2026-08-13T21:26:29.72558+00:00",
       "genres": [
         "Medieval",
@@ -16383,9 +16383,9 @@
     {
       "id": 552,
       "name": "Ranger’s Mark",
-      "usage": "1-Enc",
+      "usage": "1-⚡",
       "action": "P",
-      "effect": "Mark target: all allies deal +1 Dmg targeting marked foe for Encounter.",
+      "effect": "Mark target: all allies deal +3 Dmg vs marked foe for Encounter.",
       "created_at": "2026-08-13T21:26:29.72558+00:00",
       "genres": [
         "Medieval",
@@ -16425,9 +16425,9 @@
     {
       "id": 555,
       "name": "Rapier Flourish",
-      "usage": "1-⚡",
+      "usage": "2-Enc",
       "action": "A",
-      "effect": "Melee Atk with rapier; Atk+1 if foe wears metal armor for encounter.",
+      "effect": "Melee Atk with rapier; Atk+2 if foe wears metal armor.",
       "created_at": "2026-08-13T21:26:29.72558+00:00",
       "genres": [
         "Medieval",
@@ -16469,7 +16469,7 @@
       "name": "Read Surface Thoughts",
       "usage": "2-Enc",
       "action": "P",
-      "effect": "Read current thoughts of one target: Read Thoughts(✨)^🫀 (required even if willing). No deep memory or suppressed thoughts.",
+      "effect": "Read current surface thoughts of 1 target: 👁️^👁️ (no deep memory or suppressed thoughts).",
       "created_at": "2026-08-13T21:26:29.72558+00:00",
       "genres": [
         "Medieval",
@@ -16490,7 +16490,7 @@
       "name": "Read Surface Thoughts (mso)",
       "usage": "2-Enc",
       "action": "P",
-      "effect": "the psionicist to read the thoughts of another individual.",
+      "effect": "Rng Short; 👁️^👁️ to read target's surface thoughts.",
       "created_at": "2026-09-05T23:12:15.32015+00:00",
       "genres": [
         "SciFi"
@@ -16572,9 +16572,9 @@
     {
       "id": 967,
       "name": "Regeneration (mso)",
-      "usage": "1-Enc",
+      "usage": "1-⚡",
       "action": "P",
-      "effect": "Regain 1 Vit per Rnd for Encounter.",
+      "effect": "Regain 1 Vit at start of each turn for Encounter.",
       "created_at": "2026-09-05T23:12:15.498894+00:00",
       "genres": [
         "SciFi"
@@ -16617,7 +16617,7 @@
       "name": "Relentless Flow",
       "usage": "1-Enc",
       "action": "F",
-      "effect": "If hitting same target 2 consecutive rounds: Dmg+1 for Encounter.",
+      "effect": "If hitting same target 2 consecutive Rnds: Dmg+1.",
       "created_at": "2026-08-13T21:26:29.72558+00:00",
       "genres": [
         "Medieval",
@@ -16638,7 +16638,7 @@
       "name": "Relentless Pressure",
       "usage": "1-Enc",
       "action": "F",
-      "effect": "If you hit with both weapons in same rnd; Atk+1 for Encounter.",
+      "effect": "If you hit with both weapons in same Rnd: gain Atk+1 next Rnd.",
       "created_at": "2026-08-13T21:26:29.72558+00:00",
       "genres": [
         "Medieval",
@@ -16659,7 +16659,7 @@
       "name": "Rend",
       "usage": "1-Enc",
       "action": "A",
-      "effect": "Telekinetic rip: Rend(✨)^🫀; no AR Wnds(✨-1). No effect through energy fields.",
+      "effect": "Telekinetic rip: Atk 👁️^🫀 Dmg d👁️-1 (ignores AR; blocked by energy fields).",
       "created_at": "2026-08-13T21:26:29.72558+00:00",
       "genres": [
         "Medieval",
@@ -16680,7 +16680,7 @@
       "name": "Rend (mso)",
       "usage": "2-Enc",
       "action": "A",
-      "effect": "Rng Short; telekinetically rip target; Atk ✨ Dmg d✨; ignores AR.",
+      "effect": "Rng Short; telekinetically rip target; Atk 👁️ Dmg d👁️ (ignores AR).",
       "created_at": "2026-09-05T23:12:15.32015+00:00",
       "genres": [
         "SciFi"
@@ -16699,9 +16699,9 @@
     {
       "id": 568,
       "name": "Resist Cold",
-      "usage": "2-Enc",
+      "usage": "1-⚡",
       "action": "P",
-      "effect": "Resist🫀+5^cold for Encounter; reduce cold wounds by 1.",
+      "effect": "Resist🫀+5^cold for Encounter; reduce cold Wnds by 1.",
       "created_at": "2026-08-13T21:26:29.72558+00:00",
       "genres": [
         "Medieval",
@@ -16722,7 +16722,7 @@
       "name": "Resist Cold (mso)",
       "usage": "2-Enc",
       "action": "P",
-      "effect": "+3 to 🫀 checks vs extreme cold.",
+      "effect": "Resist🫀+3^extreme cold.",
       "created_at": "2026-09-05T23:12:15.32015+00:00",
       "genres": [
         "SciFi"
@@ -16743,7 +16743,7 @@
       "name": "Resist Corruption",
       "usage": "1-⚡",
       "action": "P",
-      "effect": "Adv(Resist✨)^disease, poison, and undead effects for Encounter.",
+      "effect": "Adv(Resist)^disease, poison, and undead effects for Encounter.",
       "created_at": "2026-08-13T21:26:29.72558+00:00",
       "genres": [
         "Medieval",
@@ -16781,9 +16781,9 @@
     {
       "id": 571,
       "name": "Resist Heat",
-      "usage": "2-Enc",
+      "usage": "1-⚡",
       "action": "P",
-      "effect": "Resist🫀+5^heat, fire, and plasma for Encounter; reduce heat wounds by 1.",
+      "effect": "Resist🫀+5^heat, fire, and plasma for Encounter; reduce heat Wnds by 1.",
       "created_at": "2026-08-13T21:26:29.72558+00:00",
       "genres": [
         "Medieval",
@@ -16804,7 +16804,7 @@
       "name": "Resist Heat (mso)",
       "usage": "2-Enc",
       "action": "P",
-      "effect": "+3 to 🫀 checks vs extreme heat.",
+      "effect": "Resist🫀+3^extreme heat.",
       "created_at": "2026-09-05T23:12:15.32015+00:00",
       "genres": [
         "SciFi"
@@ -16905,7 +16905,7 @@
       "name": "Return",
       "usage": "2-Enc",
       "action": "P",
-      "effect": "Items with psychic residue (handled 10+ min or carried 1+ hr) return to hand/person. Held: ✨^💪 to break free.",
+      "effect": "Items with your psychic residue return to hand (if held by another: 👁️^💪 to wrest free).",
       "created_at": "2026-08-13T21:26:29.72558+00:00",
       "genres": [
         "Medieval",
@@ -17175,9 +17175,9 @@
     {
       "id": 903,
       "name": "Rough Skin (mso)",
-      "usage": "2-Enc",
+      "usage": "1-Rnd",
       "action": "P",
-      "effect": "Toughened skin; +1 AR for encounter.",
+      "effect": "Toughened skin; +1 AR.",
       "created_at": "2026-09-05T23:12:15.415205+00:00",
       "genres": [
         "SciFi"
@@ -17284,7 +17284,7 @@
       "name": "Rune-Bound Grip",
       "usage": "1-⚡",
       "action": "P",
-      "effect": "Immune to being Disarmed this encounter.",
+      "effect": "Immune to being Disarmed for Encounter.",
       "created_at": "2026-08-13T21:26:29.72558+00:00",
       "genres": [
         "Medieval",
@@ -17595,7 +17595,7 @@
       "name": "Sever Thought",
       "usage": "1-⚡",
       "action": "A",
-      "effect": "On hit: 👁️^👁️ or target cannot use ✨ powers for 1 Rnd.",
+      "effect": "On hit: 👁️^👁️ or target cannot use ✨ or 👁️ powers for 1 Rnd.",
       "created_at": "2026-08-13T21:26:29.821451+00:00",
       "genres": [
         "Medieval",
@@ -17805,7 +17805,7 @@
       "name": "Shadow Trance",
       "usage": "1-Rnd",
       "action": "P",
-      "effect": "Immune to sleep and charm, and gain Resist✨^mental effects for 1 Rnd.",
+      "effect": "Immune to sleep and charm, and gain Resist👁️^mental effects for 1 Rnd.",
       "created_at": "2026-08-13T21:26:29.821451+00:00",
       "genres": [
         "Medieval",
@@ -17845,9 +17845,9 @@
     {
       "id": 623,
       "name": "Shapeshift: Duality Form",
-      "usage": "1-Enc",
+      "usage": "1-⚡",
       "action": "P",
-      "effect": "Transform into Pixie (10” 2Lbs) or Giant (11’ 1000Lbs) form for Encounter; replace Atr & Powers with that form, on an seperate speced out Character Sheet. Basically 3 characters in one.",
+      "effect": "Transform into Pixie (10 in, 2 lbs) or Giant (11 ft, 1,000 lbs) form for Encounter; use that form's Attributes & Powers sheet.",
       "created_at": "2026-08-13T21:26:29.821451+00:00",
       "genres": [
         "Medieval",
@@ -17912,9 +17912,9 @@
     {
       "id": 904,
       "name": "Shield (mso)",
-      "usage": "2-Enc",
-      "action": "F",
-      "effect": "+Self; psychokinetic shield; +3 AR for Encounter.",
+      "usage": "1-Rnd",
+      "action": "P",
+      "effect": "Self; psychokinetic shield; +3 AR.",
       "created_at": "2026-09-05T23:12:15.415205+00:00",
       "genres": [
         "SciFi"
@@ -18248,7 +18248,7 @@
       "name": "Shove",
       "usage": "2-Enc",
       "action": "A",
-      "effect": "Shove target with mind: Shove(✨)^💪; on success target slides max distance. Hit solid object: 1 Wnd per sq, AR(🫀).",
+      "effect": "Telekinetic shove: 👁️^💪 or slide target up to d👁️ sq (if colliding with solid object: 1 Wnd per sq, normal AR).",
       "created_at": "2026-08-13T21:26:29.821451+00:00",
       "genres": [
         "Medieval",
@@ -18806,7 +18806,7 @@
       "name": "Somatic Fortitude Conditioning (mso)",
       "usage": "2-Enc",
       "action": "F",
-      "effect": "Adv(🫀, 💪, Fortitude)",
+      "effect": "Adv(🫀, 💪).",
       "created_at": "2026-09-05T23:12:15.415205+00:00",
       "genres": [
         "SciFi"
@@ -18907,9 +18907,9 @@
     {
       "id": 905,
       "name": "Sorce Field (mso)",
-      "usage": "1-Enc",
+      "usage": "1-Rnd",
       "action": "P",
-      "effect": "+Self; mystic sorce barrier; +4 AR for Encounter.",
+      "effect": "Self; mystic sorce barrier; +4 AR.",
       "created_at": "2026-09-05T23:12:15.415205+00:00",
       "genres": [
         "SciFi"
@@ -18991,7 +18991,7 @@
       "name": "Speed",
       "usage": "2-Enc",
       "action": "P",
-      "effect": "Accelerate muscle movement and reaction: MR(+2) or similar; Nish(🏃) improved.",
+      "effect": "Accelerate muscle movement and reaction: 👣+2; 🚩+2.",
       "created_at": "2026-08-13T21:26:29.821451+00:00",
       "genres": [
         "Medieval",
@@ -19014,7 +19014,7 @@
       "name": "Speed (mso)",
       "usage": "2-Enc",
       "action": "M",
-      "effect": "+Self; 👣+2; 🚩+2; for Encounter.",
+      "effect": "Self; 👣+2; 🚩+2.",
       "created_at": "2026-09-05T23:12:15.32015+00:00",
       "genres": [
         "SciFi"
@@ -19248,7 +19248,7 @@
       "name": "Stoic Resolve",
       "usage": "1-Enc",
       "action": "P",
-      "effect": "Adv(Resist✨)^fear/charm for Encounter.",
+      "effect": "Adv(Resist👁️)^fear/charm.",
       "created_at": "2026-08-13T21:26:29.821451+00:00",
       "genres": [
         "Medieval",
@@ -19458,7 +19458,7 @@
       "name": "Stoneform",
       "usage": "1-⚡",
       "action": "P",
-      "effect": "Body partly petrifies: immune to push and pull, and gain Resist✨+2^earth effects for Encounter.",
+      "effect": "Body partly petrifies: immune to push/pull, and gain Resist+2^earth effects for Encounter.",
       "created_at": "2026-08-13T21:26:29.821451+00:00",
       "genres": [
         "Medieval",
@@ -19479,7 +19479,7 @@
       "name": "Stoneform Skin",
       "usage": "1-Rnd",
       "action": "P",
-      "effect": "AR+1 for Encounter.",
+      "effect": "Earthen skin stance: AR+1.",
       "created_at": "2026-08-13T21:26:29.821451+00:00",
       "genres": [
         "Medieval",
@@ -19605,7 +19605,7 @@
       "name": "Strength Surge",
       "usage": "2-Enc",
       "action": "P",
-      "effect": "One roll: Strength(💪+2) for pull/restrain (not weapon or body Dmg unless GM allows).",
+      "effect": "One roll: 💪+2 to lift, pull, or restrain (not weapon or unarmed Dmg).",
       "created_at": "2026-08-13T21:26:29.912709+00:00",
       "genres": [
         "Medieval",
@@ -19647,9 +19647,9 @@
     {
       "id": 708,
       "name": "Strengthen",
-      "usage": "2-Enc",
+      "usage": "1-Rnd",
       "action": "P",
-      "effect": "Brain–muscle efficiency: Strength(💪) improved. Cannot stack with Strength Surge.",
+      "effect": "Neuromuscular focus: +1 to 💪 rolls. Cannot stack with Strength Surge.",
       "created_at": "2026-08-13T21:26:29.912709+00:00",
       "genres": [
         "Medieval",
@@ -19670,9 +19670,9 @@
     {
       "id": 853,
       "name": "Strengthen (mso)",
-      "usage": "2-Enc",
+      "usage": "1-Rnd",
       "action": "P",
-      "effect": "Neuromuscular focus; +1 to 💪 rolls for encounter.",
+      "effect": "Neuromuscular focus; +1 to 💪 rolls.",
       "created_at": "2026-09-05T23:12:15.32015+00:00",
       "genres": [
         "SciFi"
@@ -19733,7 +19733,7 @@
       "name": "Stun",
       "usage": "2-Enc",
       "action": "F",
-      "effect": "On unarmed hit: 💪^🫀 or target is Stunned.",
+      "effect": "On unarmed hit: 🫀^🫀 or target is Stunned.",
       "created_at": "2026-08-13T21:26:29.912709+00:00",
       "genres": [
         "Medieval",
@@ -19756,7 +19756,7 @@
       "name": "Stun (mso)",
       "usage": "2-Enc",
       "action": "P",
-      "effect": "+Rng 1; Atk 💪 Dmg d💪; Wnds = target Stunned (attacker may deal non-lethal Stun only or normal Dmg + Stun).",
+      "effect": "Rng 1; Atk 🫀 Dmg d🫀; Wnds = target Stunned (may deal non-lethal Stun only or normal Dmg + Stun).",
       "created_at": "2026-09-05T23:12:15.32015+00:00",
       "genres": [
         "SciFi"
@@ -19878,9 +19878,9 @@
     {
       "id": 716,
       "name": "Sun-Kissed Radiance",
-      "usage": "1-Enc",
+      "usage": "1-⚡",
       "action": "P",
-      "effect": "Emit bright light (AoE 3r) and dim light (AoE 6r) for Encounter; all allies gain Adv(Atk)^undead in bright light.",
+      "effect": "Emit bright light (AoE 3r) and dim light (AoE 6r) for Encounter; allies in bright light gain Adv(Atk)^undead.",
       "created_at": "2026-08-13T21:26:29.912709+00:00",
       "genres": [
         "Medieval",
@@ -19941,7 +19941,7 @@
       "name": "Super Hearing",
       "usage": "1-Rnd",
       "action": "P",
-      "effect": "+1c bonus to Awareness (hearing) based rolls. Cannot stack with hearing boost.",
+      "effect": "Enhanced audial nerves: 👁️+3 to hearing checks. Cannot stack with Hearing Boost.",
       "created_at": "2026-08-13T21:26:29.912709+00:00",
       "genres": [
         "Medieval",
@@ -19985,7 +19985,7 @@
       "name": "Super Vision",
       "usage": "1-Rnd",
       "action": "P",
-      "effect": "+1c bonus to Awareness (sight) based rolls. Cannot stack with vision boost.",
+      "effect": "Enhanced optical nerves: 👁️+3 to visual checks. Cannot stack with Vision Boost.",
       "created_at": "2026-08-13T21:26:29.912709+00:00",
       "genres": [
         "Medieval",
@@ -20073,7 +20073,7 @@
       "name": "Symbiotic Boost",
       "usage": "2-Enc",
       "action": "A",
-      "effect": "Symbiote on target: e.g. joints = 💪(*2); eyes = Awareness; frame = Fortitude; skull = 👁️.",
+      "effect": "Attach symbiote to target: grant +2 to chosen attribute checks (💪 joints, 🏃 reflexes, 🫀 frame, or 👁️ optics).",
       "created_at": "2026-08-13T21:26:29.912709+00:00",
       "genres": [
         "Modern",
@@ -20093,7 +20093,7 @@
       "name": "Tactical Analysis (mso)",
       "usage": "2-Enc",
       "action": "P",
-      "effect": "Analyze enemy combat patterns; +3 Def vs target for encounter.",
+      "effect": "Analyze enemy combat patterns; +3 Def vs target.",
       "created_at": "2026-09-05T23:12:15.498894+00:00",
       "genres": [
         "SciFi"
@@ -20358,7 +20358,7 @@
       "name": "Telepathy",
       "usage": "2-Enc",
       "action": "P",
-      "effect": "Send thoughts to one individual; range in squares = Val(✨). Unwilling: Telepathy(✨)^🫀.",
+      "effect": "Send thoughts to 1 target within d👁️ sq (unwilling target: 👁️^👁️).",
       "created_at": "2026-08-13T21:26:29.912709+00:00",
       "genres": [
         "Medieval",
@@ -20463,7 +20463,7 @@
       "name": "Thermal Resistance",
       "usage": "2-Enc",
       "action": "F",
-      "effect": "Protects against heat up to 200°; AR+2^heat, fire, and plasma for Encounter.",
+      "effect": "Protects against heat up to 200°; AR+2^heat, fire, and plasma.",
       "created_at": "2026-08-13T21:26:29.912709+00:00",
       "genres": [
         "SciFi"
@@ -20707,9 +20707,9 @@
     {
       "id": 755,
       "name": "Tinker Spark",
-      "usage": "1-Enc",
+      "usage": "1-⚡",
       "action": "P",
-      "effect": "Create tiny device (toy, clicker, light) for Encounter.",
+      "effect": "Create tiny clockwork device (toy, clicker, light) for Encounter.",
       "created_at": "2026-08-13T21:26:29.912709+00:00",
       "genres": [
         "Medieval",
@@ -20772,7 +20772,7 @@
       "name": "Titan’s Grip",
       "usage": "1-⚡",
       "action": "P",
-      "effect": "Can wield massive objects as improvised weapons (Dmg+2) for encounter.",
+      "effect": "Can wield massive objects as improvised weapons (Dmg+2) for Encounter.",
       "created_at": "2026-08-13T21:26:29.912709+00:00",
       "genres": [
         "Medieval",
@@ -20889,9 +20889,9 @@
     {
       "id": 761,
       "name": "Tough Skin",
-      "usage": "2-Enc",
+      "usage": "1-Rnd",
       "action": "P",
-      "effect": "Skin becomes leathery to rocky: +Val(💪-1) AR+ or similar (per Ver).",
+      "effect": "Skin hardens: +1 AR.",
       "created_at": "2026-08-13T21:26:29.912709+00:00",
       "genres": [
         "Medieval",
@@ -20912,9 +20912,9 @@
     {
       "id": 848,
       "name": "Tough Skin (mso)",
-      "usage": "2-Enc",
+      "usage": "1-Rnd",
       "action": "P",
-      "effect": "Rocky dermal sheath; +2 AR for encounter.",
+      "effect": "Rocky dermal sheath; +2 AR.",
       "created_at": "2026-09-05T23:12:15.32015+00:00",
       "genres": [
         "SciFi"
@@ -20977,7 +20977,7 @@
       "name": "Trash Shield",
       "usage": "1-⚡",
       "action": "P",
-      "effect": "AR+1 for Encounter.",
+      "effect": "Cobble together scrap shield; AR+1 for Encounter.",
       "created_at": "2026-08-13T21:26:29.912709+00:00",
       "genres": [
         "Medieval",
@@ -21017,9 +21017,9 @@
     {
       "id": 767,
       "name": "Tribal Bond",
-      "usage": "1-Enc",
+      "usage": "1-⚡",
       "action": "P",
-      "effect": "Allies 🚩+1 for Encounter.",
+      "effect": "Allies in 3sq gain 🚩+2 for Encounter.",
       "created_at": "2026-08-13T21:26:29.912709+00:00",
       "genres": [
         "Medieval",
@@ -21437,7 +21437,7 @@
       "name": "Unseen Observer",
       "usage": "1-⚡",
       "action": "F",
-      "effect": "Detect illusions & glamours with Advantage for encounter.",
+      "effect": "Detect illusions and glamours with Advantage for Encounter.",
       "created_at": "2026-08-13T21:26:29.912709+00:00",
       "genres": [
         "Medieval",
@@ -21582,7 +21582,7 @@
       "name": "Veiled Mind",
       "usage": "1-⚡",
       "action": "F",
-      "effect": "On successful Resist✨^mental effect: 👁️^👁️ or attacker is Weakened.",
+      "effect": "On successful Resist👁️^mental effect: 👁️^👁️ or attacker is Weakened.",
       "created_at": "2026-08-13T21:26:29.912709+00:00",
       "genres": [
         "Medieval",
@@ -21708,7 +21708,7 @@
       "name": "Vision Boost",
       "usage": "2-Enc",
       "action": "P",
-      "effect": "Improve optic efficiency: telescopic sight; 👁️+ for vision improved.",
+      "effect": "Telescopic vision; 👁️+3 on long-range visual checks.",
       "created_at": "2026-08-13T21:26:29.990524+00:00",
       "genres": [
         "Medieval",
@@ -21752,7 +21752,7 @@
       "name": "Vitalize",
       "usage": "1-⚡",
       "action": "P",
-      "effect": "Temporary +Val(🫀) Vit (temp pool); extra Vit may not be healed.",
+      "effect": "Gain +d🫀 temp Vit for Encounter (extra Vit cannot be healed).",
       "created_at": "2026-08-13T21:26:29.990524+00:00",
       "genres": [
         "Medieval",
@@ -21773,9 +21773,9 @@
     {
       "id": 846,
       "name": "Vitalize (mso)",
-      "usage": "2-Enc",
+      "usage": "1-⚡",
       "action": "A",
-      "effect": "Gain +2 Vit for encounter.",
+      "effect": "Gain +2 temp Vit for Encounter.",
       "created_at": "2026-09-05T23:12:15.32015+00:00",
       "genres": [
         "SciFi"
@@ -21815,9 +21815,9 @@
     {
       "id": 812,
       "name": "Void Field",
-      "usage": "2-Enc",
+      "usage": "1-Rnd",
       "action": "P",
-      "effect": "AR+2 against physical, energy, and magic attacks (no protection against Magic Energy Bolt) for Encounter.",
+      "effect": "Void barrier stance: AR+2 vs physical, energy, and ✨ attacks (no protection vs Magic Energy Bolt).",
       "created_at": "2026-08-13T21:26:29.990524+00:00",
       "genres": [
         "Medieval",
@@ -22482,9 +22482,9 @@
     {
       "id": 31,
       "name": "[Weapon] of Echoes",
-      "action": "M",
-      "usage": "1-Enc",
-      "effect": "Dmg+2 if the 2H20 rolls doubles, for encounter.",
+      "action": "F",
+      "usage": "1-⚡",
+      "effect": "Resonant blade: Dmg+2 whenever your 2d20 Atk roll shows doubles for Encounter.",
       "belongs_to": "Supplies: [Weapon] of Echoes",
       "genres": [
         "Medieval",
@@ -22801,7 +22801,7 @@
       "name": "Ash-and-Blood WarPaint",
       "action": "M",
       "usage": "1-⚡",
-      "effect": "While painted; 🚩+1 for encounter.",
+      "effect": "While painted: 🚩+1 for Encounter.",
       "belongs_to": "Supplies: Ash-and-Blood WarPaint",
       "genres": [
         "Medieval",
@@ -23006,7 +23006,7 @@
       "name": "Auto-Slap Dispenser",
       "action": "F",
       "usage": "1-Enc",
-      "effect": "Depressing exterior button automatically slaps a loaded Slap Pack onto wearer; lasts for Encounter.",
+      "effect": "Depressing exterior button automatically administers 1 loaded Slap Pack to wearer.",
       "belongs_to": "Mod: Slap-o-Matic",
       "genres": [
         "SciFi"
@@ -23021,7 +23021,7 @@
       "name": "Auto-Slap Dispenser (mso)",
       "action": "F",
       "usage": "1-Enc",
-      "effect": "Depressing exterior button automatically slaps a loaded Slap Pack onto wearer; lasts for Encounter.",
+      "effect": "Depressing exterior button automatically administers 1 loaded Slap Pack to wearer.",
       "belongs_to": "Mod: Slap-o-Matic (mso)",
       "genres": [
         "SciFi"
@@ -23112,7 +23112,7 @@
       "name": "Banner of Eternity",
       "action": "P",
       "usage": "1-⚡",
-      "effect": "Allies 🚩+2 while carried for encounter.",
+      "effect": "While carried: allies gain 🚩+2 for Encounter.",
       "belongs_to": "Supplies: Banner of Eternity",
       "genres": [
         "Medieval",
@@ -23221,23 +23221,6 @@
       "owner": "Designer"
     },
     {
-      "id": 603,
-      "name": "Bearded Hook",
-      "action": "P",
-      "usage": "1-Enc",
-      "effect": "💪^💪 or target Disarmed",
-      "belongs_to": "Weapon: Hand Axe",
-      "genres": [
-        "Medieval",
-        "Modern",
-        "SciFi"
-      ],
-      "notes": "Bearded blade snags hilts and rips weapons free.",
-      "created_at": "2026-10-01T01:23:27.432513+00:00",
-      "tier": null,
-      "owner": "Designer"
-    },
-    {
       "id": 634,
       "name": "Bearded Hook",
       "action": "P",
@@ -23255,11 +23238,28 @@
       "owner": "Designer"
     },
     {
+      "id": 603,
+      "name": "Bearded Hook",
+      "action": "P",
+      "usage": "1-Enc",
+      "effect": "💪^💪 or target Disarmed",
+      "belongs_to": "Weapon: Hand Axe",
+      "genres": [
+        "Medieval",
+        "Modern",
+        "SciFi"
+      ],
+      "notes": "Bearded blade snags hilts and rips weapons free.",
+      "created_at": "2026-10-01T01:23:27.432513+00:00",
+      "tier": null,
+      "owner": "Designer"
+    },
+    {
       "id": 86,
       "name": "Beasts",
       "action": "A",
       "usage": "1-⚡",
-      "effect": "Summon 1d4+1 beast allies uses PC's stats (Vit d✨+6 each) for Encounter.",
+      "effect": "Summon 1d4+1 beast allies using PC's stats (Vit d✨+6 each) for Encounter.",
       "belongs_to": "Supplies: Crown of Beasts",
       "genres": [
         "Medieval",
@@ -23529,9 +23529,9 @@
     {
       "id": 56,
       "name": "Boom [Weapon]",
-      "action": "A",
+      "action": "P",
       "usage": "1-Enc",
-      "effect": "✨+1 for 1 Rnd; amplify voice for Encounter.",
+      "effect": "✨+1 and booming voice.",
       "belongs_to": "Supplies: Boom [Weapon]",
       "genres": [
         "Medieval",
@@ -24083,7 +24083,7 @@
       "name": "Chime of Warning",
       "action": "F",
       "usage": "1-⚡",
-      "effect": "Rings when danger is neAR+; lasts or Encounter.",
+      "effect": "Rings when danger is near for Encounter.",
       "belongs_to": "Supplies: Chime of Warning",
       "genres": [
         "Medieval",
@@ -24315,7 +24315,7 @@
       "id": 82,
       "name": "Compass of True North",
       "action": "P",
-      "usage": "1-Enc",
+      "usage": "1-⚡",
       "effect": "Always points to chosen destination for Encounter.",
       "belongs_to": "Supplies: Compass of True North",
       "genres": [
@@ -24456,9 +24456,9 @@
     {
       "id": 474,
       "name": "Corrosive Tissue Burn (mso)",
-      "action": "A",
+      "action": "F",
       "usage": "2-Enc",
-      "effect": "Weapon hit; acidic enzyme burns flesh; target takes d6 acid Dmg each turn for Encounter; reduces target AR by 1.",
+      "effect": "On weapon hit: target is Poisoned (d6 acid Wnds/Rnd) and suffers AR-1.",
       "belongs_to": "Supplies: Poison: Corrosive (Blade Reservoir) (mso)",
       "genres": [
         "SciFi"
@@ -24533,6 +24533,21 @@
       "owner": "Designer"
     },
     {
+      "id": 503,
+      "name": "Crescent Pin & Restrain",
+      "action": "A",
+      "usage": "2-Enc",
+      "effect": "Atk 💪 Dmg d💪 (Dmg is optional); 💪^💪 or target Restrained",
+      "belongs_to": "Weapon: Kray (mso)",
+      "genres": [
+        "SciFi"
+      ],
+      "notes": "Uses the kray's crescent curves and barbed flanges to hook and pin the opponent.",
+      "created_at": "2026-09-05T23:12:36.368543+00:00",
+      "tier": null,
+      "owner": "Designer"
+    },
+    {
       "id": 575,
       "name": "Crescent Pin & Restrain",
       "action": "A",
@@ -24546,21 +24561,6 @@
       ],
       "notes": "Flanges hook and pin; schools teach non-lethal duel control.",
       "created_at": "2026-10-01T00:51:31.793349+00:00",
-      "tier": null,
-      "owner": "Designer"
-    },
-    {
-      "id": 503,
-      "name": "Crescent Pin & Restrain",
-      "action": "A",
-      "usage": "2-Enc",
-      "effect": "Atk 💪 Dmg d💪 (Dmg is optional); 💪^💪 or target Restrained",
-      "belongs_to": "Weapon: Kray (mso)",
-      "genres": [
-        "SciFi"
-      ],
-      "notes": "Uses the kray's crescent curves and barbed flanges to hook and pin the opponent.",
-      "created_at": "2026-09-05T23:12:36.368543+00:00",
       "tier": null,
       "owner": "Designer"
     },
@@ -24613,23 +24613,6 @@
       "owner": "Designer"
     },
     {
-      "id": 542,
-      "name": "Crimson Siphon",
-      "action": "A",
-      "usage": "1-⚡",
-      "effect": "Atk 💪 Dmg d💪; restore Vit equal to Dmg dealt",
-      "belongs_to": "Weapon: Bloodblade",
-      "genres": [
-        "Medieval",
-        "Modern",
-        "SciFi"
-      ],
-      "notes": "Vein-runed blade drains the victim's life into the wielder.",
-      "created_at": "2026-10-01T00:51:31.793349+00:00",
-      "tier": null,
-      "owner": "Designer"
-    },
-    {
       "id": 758,
       "name": "Crimson Siphon",
       "action": "A",
@@ -24643,6 +24626,23 @@
       ],
       "notes": "Blood-red claw channels draw the victim's life force into the wearer.",
       "created_at": "2026-10-01T02:57:35.441887+00:00",
+      "tier": null,
+      "owner": "Designer"
+    },
+    {
+      "id": 542,
+      "name": "Crimson Siphon",
+      "action": "A",
+      "usage": "1-⚡",
+      "effect": "Atk 💪 Dmg d💪; restore Vit equal to Dmg dealt",
+      "belongs_to": "Weapon: Bloodblade",
+      "genres": [
+        "Medieval",
+        "Modern",
+        "SciFi"
+      ],
+      "notes": "Vein-runed blade drains the victim's life into the wielder.",
+      "created_at": "2026-10-01T00:51:31.793349+00:00",
       "tier": null,
       "owner": "Designer"
     },
@@ -25423,7 +25423,7 @@
       "name": "Ember [Armor]",
       "action": "P",
       "usage": "1-⚡",
-      "effect": "If you are melee hit; ✨or attacker takes d✨-2 fire Dmg; for Encounter.",
+      "effect": "When hit in melee: ✨^🏃 or attacker takes d✨-2 fire Dmg for Encounter.",
       "belongs_to": "Supplies: Ember [Armor]",
       "genres": [
         "Medieval",
@@ -25583,9 +25583,9 @@
     {
       "id": 389,
       "name": "Environmental Force Barrier (mso)",
-      "action": "F",
-      "usage": "2-Enc",
-      "effect": "Deploy force shield; +2 AR for encounter.",
+      "action": "P",
+      "usage": "1-Rnd",
+      "effect": "Deploy force shield; +2 AR.",
       "belongs_to": "Supplies: Environ Shield (mso)",
       "genres": [
         "SciFi"
@@ -25872,7 +25872,7 @@
       "name": "Fine Slik Shirt",
       "action": "P",
       "usage": "1-⚡",
-      "effect": "👁️ Social+2 for encounter.",
+      "effect": "👁️ Social+2 for Encounter.",
       "belongs_to": "Supplies: Fine Slik Shirt",
       "genres": [
         "Medieval",
@@ -26074,9 +26074,9 @@
     {
       "id": 383,
       "name": "Force Shield Ward (mso)",
-      "action": "F",
-      "usage": "2-Enc",
-      "effect": "Deploy force shield; +2 AR for encounter.",
+      "action": "P",
+      "usage": "1-Rnd",
+      "effect": "Deploy force shield; +2 AR.",
       "belongs_to": "Supplies: Cloaking Shield (mso)",
       "genres": [
         "SciFi"
@@ -26303,8 +26303,8 @@
       "id": 118,
       "name": "Gargoyle’s Heart",
       "action": "P",
-      "usage": "1-Enc",
-      "effect": "AR+4 & 👣-1 while worn for encounter.",
+      "usage": "1-Rnd",
+      "effect": "Stone-heart stance: AR+4; 👣-1.",
       "belongs_to": "Supplies: Gargoyle’s Heart",
       "genres": [
         "Medieval",
@@ -26321,7 +26321,7 @@
       "name": "Gas Tactical Cloud (mso)",
       "action": "A",
       "usage": "2-Enc",
-      "effect": "Rng Short; AoE 3x3; disperses loaded chemical payload in cloud; targets inhale gas; lasts for Encounter.",
+      "effect": "Rng Short; AoE 3x3; disperses loaded chemical payload in cloud; targets in area inhale gas.",
       "belongs_to": "Supplies: Grenade: Gas (Tactical) (mso)",
       "genres": [
         "SciFi"
@@ -26368,7 +26368,7 @@
       "name": "Gauntlet of the Titan",
       "action": "A",
       "usage": "1-Enc",
-      "effect": "Strike adds +2💪 to Atk & Dmg for encounter.",
+      "effect": "Titan strike: +2 to 💪 Atk & Dmg.",
       "belongs_to": "Supplies: Gauntlet of the Titan",
       "genres": [
         "Medieval",
@@ -26418,7 +26418,7 @@
       "name": "Glass [Weapon]",
       "action": "P",
       "usage": "2-Enc",
-      "effect": "On hit; Target 👣-1 for encounter; Stacks with self.",
+      "effect": "On hit: target suffers 👣-1 (stacks).",
       "belongs_to": "Supplies: Glass [Weapon]",
       "genres": [
         "Medieval",
@@ -26485,8 +26485,8 @@
       "id": 126,
       "name": "Glowstick Baton",
       "action": "P",
-      "usage": "1-Enc",
-      "effect": "Glows brightly; 6sq of light for Encounter; Must be held in off-hand.",
+      "usage": "1-⚡",
+      "effect": "Glows brightly (AoE 6r light) for Encounter; must be held in off-hand.",
       "belongs_to": "Supplies: Glowstick Baton",
       "genres": [
         "Medieval",
@@ -27542,7 +27542,7 @@
       "name": "Hunter Tracking Lock (mso)",
       "action": "A",
       "usage": "1-Enc",
-      "effect": "Rng Long; homing lock; Atk 👁️ Dmg 2d8; if Atk misses, missile re-attacks target each turn for Encounter until impact.",
+      "effect": "Rng Long; homing lock; Atk 👁️ Dmg 2d8 (if Atk misses, missile re-attacks target next Rnd).",
       "belongs_to": "Supplies: Missile: Hunter (Tracker) (mso)",
       "genres": [
         "SciFi"
@@ -27557,7 +27557,7 @@
       "name": "Hush Leaf",
       "action": "P",
       "usage": "1-⚡",
-      "effect": "Chew; can't talk & silent in all ways for Encounter.",
+      "effect": "Chew: cannot talk, but completely silent in all ways for Encounter.",
       "belongs_to": "Supplies: Hush Leaf",
       "genres": [
         "Medieval",
@@ -27572,9 +27572,9 @@
     {
       "id": 299,
       "name": "Hydraulic Anchor",
-      "action": "M",
-      "usage": "1-Enc",
-      "effect": "Blk+4^knockdown and forced movement for Encounter.",
+      "action": "P",
+      "usage": "1-Rnd",
+      "effect": "Anchor pitons into floor: Blk+4^knockdown and forced movement.",
       "belongs_to": "Mod: Joint Locks",
       "genres": [
         "SciFi",
@@ -27743,7 +27743,7 @@
       "name": "Incendiary Tactical Burn (mso)",
       "action": "A",
       "usage": "2-Enc",
-      "effect": "Rng Short; AoE 3x3; Atk 🏃 Dmg d6 fire; flammable targets catch Fire (Dmg d4 each turn for Encounter).",
+      "effect": "Rng Short; AoE 3x3; Atk 🏃 Dmg d6 fire; flammable targets are Burning (d4 fire Wnds/Rnd).",
       "belongs_to": "Supplies: Grenade: Incendiary (Tactical) (mso)",
       "genres": [
         "SciFi"
@@ -27789,8 +27789,8 @@
       "id": 308,
       "name": "Infrared Thermal Vision",
       "action": "F",
-      "usage": "1-Enc",
-      "effect": "Mental toggle to infrared thermal vision in total darkness; lasts for Encounter.",
+      "usage": "1-⚡",
+      "effect": "Mental toggle to infrared thermal vision in total darkness for Encounter.",
       "belongs_to": "Mod: Cyber-Eye Infrared",
       "genres": [
         "SciFi"
@@ -27804,8 +27804,8 @@
       "id": 442,
       "name": "Infrared Thermal Vision (mso)",
       "action": "F",
-      "usage": "1-Enc",
-      "effect": "Mental toggle to infrared thermal vision in total darkness; lasts for Encounter.",
+      "usage": "1-⚡",
+      "effect": "Mental toggle to infrared thermal vision in total darkness for Encounter.",
       "belongs_to": "Mod: Cyber-Eye Infrared (mso)",
       "genres": [
         "SciFi"
@@ -27853,7 +27853,7 @@
       "name": "Insight",
       "action": "P",
       "usage": "1-Enc",
-      "effect": "👁️ Perception+2 for Encounter.",
+      "effect": "👁️ Perception+2.",
       "belongs_to": "Supplies: Amulet of Insight",
       "genres": [
         "Medieval",
@@ -27977,7 +27977,7 @@
       "name": "Iron Pendant (Mother’s Keepsake)",
       "action": "F",
       "usage": "1-⚡",
-      "effect": "✨+5^fear for Encounter.",
+      "effect": "Resist👁️+5^fear for Encounter.",
       "belongs_to": "Supplies: Iron Pendant (Mother’s Keepsake)",
       "genres": [
         "Medieval",
@@ -28011,7 +28011,7 @@
       "name": "Iron Skin",
       "action": "P",
       "usage": "1-⚡",
-      "effect": "Dring; AR+1 for encounter.",
+      "effect": "Drink: AR+1 for Encounter.",
       "belongs_to": "Supplies: Potion of Iron Skin",
       "genres": [
         "Medieval",
@@ -28142,8 +28142,8 @@
       "id": 151,
       "name": "Keeth’s Shadowform Flight",
       "action": "A",
-      "usage": "1-Enc",
-      "effect": "Summon Keeth as (Nymph Sized) mount; fly 👣; for Encounter.",
+      "usage": "1-⚡",
+      "effect": "Summon Keeth as (Nymph-sized) mount; fly 👣 for Encounter.",
       "belongs_to": "Supplies: Keeth’s Shadowform",
       "genres": [
         "Medieval",
@@ -28206,8 +28206,8 @@
       "id": 344,
       "name": "Kinetic Force Barrier I (mso)",
       "action": "P",
-      "usage": "1-Enc",
-      "effect": "Personal force field; +1 AR for encounter.",
+      "usage": "1-Rnd",
+      "effect": "Personal force field; +1 AR.",
       "belongs_to": "Supplies: PFF 1 (mso)",
       "genres": [
         "SciFi"
@@ -28221,8 +28221,8 @@
       "id": 345,
       "name": "Kinetic Force Barrier II (mso)",
       "action": "P",
-      "usage": "1-Enc",
-      "effect": "Personal force field; +2 AR for encounter.",
+      "usage": "1-Rnd",
+      "effect": "Personal force field; +2 AR.",
       "belongs_to": "Supplies: PFF 3 (mso)",
       "genres": [
         "SciFi"
@@ -28236,8 +28236,8 @@
       "id": 346,
       "name": "Kinetic Force Barrier III (mso)",
       "action": "P",
-      "usage": "1-Enc",
-      "effect": "Personal force field; +3 AR for encounter.",
+      "usage": "1-Rnd",
+      "effect": "Personal force field; +3 AR.",
       "belongs_to": "Supplies: PFF 5 (mso)",
       "genres": [
         "SciFi"
@@ -28252,7 +28252,7 @@
       "name": "Kinetic Force Barrier IV (mso)",
       "action": "P",
       "usage": "1-⚡",
-      "effect": "Personal force field; +4 AR for encounter.",
+      "effect": "Personal force field; +4 AR for Encounter.",
       "belongs_to": "Supplies: PFF 6 (mso)",
       "genres": [
         "SciFi"
@@ -28284,7 +28284,7 @@
       "name": "Knife of Infinite Cloning",
       "action": "M",
       "usage": "1-Rnd",
-      "effect": "Can split one knife into 2 knives (new knives last for encounter).",
+      "effect": "Split 1 knife into 2 knives for this Rnd.",
       "belongs_to": "Supplies: Knife of Infinite Cloning",
       "genres": [
         "Medieval",
@@ -28301,7 +28301,7 @@
       "name": "Knight’s [Shield]",
       "action": "P",
       "usage": "1-⚡",
-      "effect": "All Wnds-1 for Encounter",
+      "effect": "All Wnds-1 for Encounter.",
       "belongs_to": "Supplies: Knight’s [Shield]",
       "genres": [
         "Medieval",
@@ -28331,9 +28331,9 @@
     {
       "id": 475,
       "name": "Kryllian Acidic Liquefaction (mso)",
-      "action": "A",
+      "action": "F",
       "usage": "1-⚡",
-      "effect": "Weapon hit or contact; burns living tissue; target takes d8 acid Dmg each turn for Encounter; reduces target AR by 2.",
+      "effect": "On weapon hit: target is Poisoned (d8 acid Wnds/Rnd) and suffers AR-2.",
       "belongs_to": "Supplies: Poison: Corrosive (Acidic Core) (mso)",
       "genres": [
         "SciFi"
@@ -28348,7 +28348,7 @@
       "name": "Lantern Bead",
       "action": "P",
       "usage": "1-⚡",
-      "effect": "Throw; hovering light for Encounter.",
+      "effect": "Throw: hovering light for Encounter.",
       "belongs_to": "Supplies: Lantern Bead",
       "genres": [
         "Medieval",
@@ -28364,8 +28364,8 @@
       "id": 156,
       "name": "Lantern of Clarity",
       "action": "P",
-      "usage": "1-Enc",
-      "effect": "All illusions in 6sq dispelled for encounter.",
+      "usage": "1-⚡",
+      "effect": "All illusions in 6sq dispelled for Encounter.",
       "belongs_to": "Supplies: Lantern of Clarity",
       "genres": [
         "Medieval",
@@ -28446,9 +28446,9 @@
     {
       "id": 87,
       "name": "Light",
-      "action": "M",
-      "usage": "1-Enc",
-      "effect": "Dispel all darkness for encounter.",
+      "action": "P",
+      "usage": "1-⚡",
+      "effect": "Dispel all darkness in 6sq for Encounter.",
       "belongs_to": "Supplies: Crown of Light",
       "genres": [
         "Medieval",
@@ -29026,8 +29026,8 @@
       "id": 173,
       "name": "Mist Bottle",
       "action": "A",
-      "usage": "1-Enc",
-      "effect": "Create fog in 2x2sq; obscure vision, for Encounter.",
+      "usage": "1-⚡",
+      "effect": "Create fog in 2x2sq; obscures vision for Encounter.",
       "belongs_to": "Supplies: Mist Bottle",
       "genres": [
         "Medieval",
@@ -29234,7 +29234,7 @@
       "name": "Mug of Endless Tea",
       "action": "P",
       "usage": "1-⚡",
-      "effect": "Drink; Resist✨+2 on next roll this encounter.",
+      "effect": "Drink: Resist+2 on next roll this Encounter.",
       "belongs_to": "Supplies: Mug of Endless Tea",
       "genres": [
         "Medieval",
@@ -29316,7 +29316,7 @@
       "name": "Neon Skateboard",
       "action": "P",
       "usage": "1-⚡",
-      "effect": "While riding 👣+1 for Encounter.",
+      "effect": "While riding: 👣+1 for Encounter.",
       "belongs_to": "Supplies: Neon Skateboard",
       "genres": [
         "Medieval",
@@ -29487,7 +29487,7 @@
       "name": "Omni-Fab Flight",
       "action": "P",
       "usage": "3-Enc",
-      "effect": "Materializes any mundane utility tool or standard field supply on the fly. Item dissolves at end of encounter.",
+      "effect": "Materializes any mundane utility tool or standard field supply on the fly (dissolves after 10 min).",
       "belongs_to": "Supplies: Omni-Fab",
       "genres": [
         "SciFi"
@@ -30096,7 +30096,7 @@
       "name": "Pocket Lantern",
       "action": "P",
       "usage": "1-⚡",
-      "effect": "Create floating Lantern that follows you for Encounter.",
+      "effect": "Create floating lantern that follows you for Encounter.",
       "belongs_to": "Supplies: Pocket Lantern",
       "genres": [
         "Medieval",
@@ -31295,7 +31295,7 @@
       "name": "Scarf of Warmth",
       "action": "F",
       "usage": "1-⚡",
-      "effect": "AR+2^cold and ✨+5^cold for Encounter.",
+      "effect": "AR+2^cold and Resist🫀+5^cold for Encounter.",
       "belongs_to": "Supplies: Scarf of Warmth",
       "genres": [
         "Medieval",
@@ -31360,8 +31360,8 @@
       "id": 303,
       "name": "Sealed Environmental Life Support",
       "action": "F",
-      "usage": "1-Enc",
-      "effect": "Airtight space-worthy seal providing breathable air in void, underwater, and toxic environments; lasts for Encounter.",
+      "usage": "1-⚡",
+      "effect": "Airtight space-worthy seal providing breathable air in void, underwater, and toxic environments for Encounter.",
       "belongs_to": "Mod: Sealed, Armor: Space Suit, Armor: Marine Armor, Armor: Assault Armor",
       "genres": [
         "SciFi"
@@ -31375,8 +31375,8 @@
       "id": 437,
       "name": "Sealed Environmental Life Support (mso)",
       "action": "F",
-      "usage": "1-Enc",
-      "effect": "Airtight space-worthy seal providing breathable air in void, underwater, and toxic environments; lasts for Encounter.",
+      "usage": "1-⚡",
+      "effect": "Airtight space-worthy seal providing breathable air in void, underwater, and toxic environments for Encounter.",
       "belongs_to": "Mod: Sealed (mso), Armor: Space Suit, Armor: Marine Armor (mso), Armor: Assault Armor (mso), Armor: Destron Armor (mso)",
       "genres": [
         "SciFi"
@@ -32007,7 +32007,7 @@
       "name": "Smoke Screen Tactical (mso)",
       "action": "A",
       "usage": "2-Enc",
-      "effect": "Rng Short; AoE 3x3; dense particulate; blocks line-of-sight; Adv(Stealth🏃); lasts for Encounter.",
+      "effect": "Rng Short; AoE 3x3; dense particulate smoke blocks line-of-sight; Adv(Stealth🏃).",
       "belongs_to": "Supplies: Grenade: Smoke (Tactical) (mso)",
       "genres": [
         "SciFi"
@@ -32367,8 +32367,8 @@
       "id": 427,
       "name": "Spectral Warrior Summon (mso)",
       "action": "P",
-      "usage": "2-Enc",
-      "effect": "Summon spectral warrior ally for encounter.",
+      "usage": "1-⚡",
+      "effect": "Summon spectral warrior ally for Encounter.",
       "belongs_to": "Supplies: Warrior Servant (mso)",
       "genres": [
         "SciFi"
@@ -32450,7 +32450,7 @@
       "name": "Spinning Drill Shot (mso)",
       "action": "A",
       "usage": "2-Enc",
-      "effect": "Weapon shot; drills into flesh; target takes +d4 Dmg each turn for Encounter until removed via 👁️^12 First Aid check or suffering extra d6 Dmg.",
+      "effect": "Weapon shot; drills into flesh; target takes d4 Wnds/Rnd until removed (👁️^12 First Aid check or rip free for d6 Dmg).",
       "belongs_to": "Supplies: Tip: Spinning Drill (Tactical) (mso)",
       "genres": [
         "SciFi"
@@ -32515,8 +32515,8 @@
       "id": 309,
       "name": "Starlight Low-Light Amplification",
       "action": "F",
-      "usage": "1-Enc",
-      "effect": "Amplifies dim ambient light, treating starlight as daylight vision; lasts for Encounter.",
+      "usage": "1-⚡",
+      "effect": "Amplifies dim ambient light, treating starlight as daylight vision for Encounter.",
       "belongs_to": "Mod: Cyber-Eye Starlight",
       "genres": [
         "SciFi"
@@ -32530,8 +32530,8 @@
       "id": 443,
       "name": "Starlight Low-Light Amplification (mso)",
       "action": "F",
-      "usage": "1-Enc",
-      "effect": "Amplifies dim ambient light, treating starlight as daylight vision; lasts for Encounter.",
+      "usage": "1-⚡",
+      "effect": "Amplifies dim ambient light, treating starlight as daylight vision for Encounter.",
       "belongs_to": "Mod: Cyber-Eye Starlight (mso)",
       "genres": [
         "SciFi"
@@ -32575,8 +32575,8 @@
       "id": 88,
       "name": "Static",
       "action": "A",
-      "usage": "1-Enc",
-      "effect": "All foes in 6sqR AoE Rolls-1 for encounter; AoE follows PC.",
+      "usage": "1-⚡",
+      "effect": "AoE 6r aura follows PC; all foes in area suffer -1 to all rolls for Encounter.",
       "belongs_to": "Supplies: Crown of Static",
       "genres": [
         "Medieval",
@@ -32926,7 +32926,7 @@
       "name": "Stoneform [Armor]",
       "action": "P",
       "usage": "2-Enc",
-      "effect": "If you are wounded; Attacker petrifies; 👣-1 for Encounter; Self stacking.",
+      "effect": "When you are wounded: attacker suffers 👣-1 (stacks).",
       "belongs_to": "Supplies: Stoneform [Armor]",
       "genres": [
         "Medieval",
@@ -32960,7 +32960,7 @@
       "name": "Strength",
       "action": "P",
       "usage": "1-Enc",
-      "effect": "💪 Strength+2 (lifting, bend bars, etc.) for Encounter.",
+      "effect": "💪+2 to lift, pull, or bend bars.",
       "belongs_to": "Supplies: Bracers of Strength",
       "genres": [
         "Medieval",
@@ -33052,7 +33052,7 @@
       "name": "Summan ATM (mso)",
       "action": "A",
       "usage": "1-⚡",
-      "effect": "Throw Rng Short; creates ATM with Character's Stats; for encounter.",
+      "effect": "Throw Rng Short; deploys ATM ally using Character's Stats for Encounter.",
       "belongs_to": "Supplies: ATM Sphere (mso)",
       "genres": [
         "SciFi"
@@ -33084,7 +33084,7 @@
       "name": "Sunglow Brooch",
       "action": "P",
       "usage": "1-⚡",
-      "effect": "Emit light 20ft radius, no shadows for Encounter.",
+      "effect": "Emit bright shadowless light (AoE 4r) for Encounter.",
       "belongs_to": "Supplies: Sunglow Brooch",
       "genres": [
         "Medieval",
@@ -33338,7 +33338,7 @@
       "name": "Temporal Spray",
       "action": "M",
       "usage": "2-Enc",
-      "effect": "Rng Short; 🏃 Atk; on hit, target temporal delay gives all allies Advantage on rolls^target for Encounter.",
+      "effect": "Rng Short; Atk 🏃; on hit, temporal delay grants all allies Adv on rolls^target.",
       "belongs_to": "Supplies: Temporal Spray",
       "genres": [
         "Modern",
@@ -33404,7 +33404,7 @@
       "name": "the Cyclone",
       "action": "M",
       "usage": "1-Enc",
-      "effect": "👣 doubled for encounter; leave whirlwind trail (foes Rolls-1).",
+      "effect": "Double 👣 this Rnd; leave whirlwind trail (foes in trail suffer Rolls-1).",
       "belongs_to": "Supplies: Boots of the Cyclone",
       "genres": [
         "Medieval",
@@ -33420,8 +33420,8 @@
       "id": 209,
       "name": "the Serpent",
       "action": "P",
-      "usage": "1-Enc",
-      "effect": "AoE 3r; poison aura inflicts -2 on all rolls^poison for Encounter.",
+      "usage": "1-⚡",
+      "effect": "AoE 3r poison aura: foes in area suffer -2 on Resist^poison for Encounter.",
       "belongs_to": "Supplies: Ring of the Serpent",
       "genres": [
         "Medieval",
@@ -33487,7 +33487,7 @@
       "name": "Thermal Heavy Smoke (mso)",
       "action": "A",
       "usage": "1-⚡",
-      "effect": "Rng Short; AoE 5x5; thermal-blocking smoke; blocks visual and sensor targeting; lasts for Encounter.",
+      "effect": "Rng Short; AoE 5x5; thermal-blocking smoke; blocks visual and sensor targeting for Encounter.",
       "belongs_to": "Supplies: Grenade: Smoke (Heavy Thermal) (mso)",
       "genres": [
         "SciFi"
@@ -33599,7 +33599,7 @@
       "name": "Throne of Ashes",
       "action": "A",
       "usage": "1-⚡",
-      "effect": "Summon & sit; command undead in 8sq for encounter.",
+      "effect": "Summon & sit: command undead in 8sq for Encounter.",
       "belongs_to": "Supplies: Throne of Ashes",
       "genres": [
         "Medieval",
@@ -33729,7 +33729,7 @@
       "name": "Tonic of Vigor",
       "action": "A",
       "usage": "1-⚡",
-      "effect": "Drink; 💪+1 for Encounter.",
+      "effect": "Drink: 💪+1 for Encounter.",
       "belongs_to": "Supplies: Tonic of Vigor",
       "genres": [
         "Medieval",
@@ -33746,7 +33746,7 @@
       "name": "Torch Seed",
       "action": "P",
       "usage": "1-⚡",
-      "effect": "Thow against wall or surface; sprouts flaming torch for Encounter.",
+      "effect": "Throw against wall or surface; sprouts flaming torch for Encounter.",
       "belongs_to": "Supplies: Torch Seed",
       "genres": [
         "Medieval",
@@ -33780,7 +33780,7 @@
       "name": "Tower Shield of the Blackaxe",
       "action": "F",
       "usage": "1-⚡",
-      "effect": "While held: AR+1 and Def+1 for encounter.",
+      "effect": "While held: AR+1 and Def+1 for Encounter.",
       "belongs_to": "Supplies: Tower Shield of the Blackaxe",
       "genres": [
         "Medieval",
@@ -33912,7 +33912,7 @@
       "name": "Tungsten Harpoon Shot (mso)",
       "action": "A",
       "usage": "1-⚡",
-      "effect": "Weapon shot; tungsten drill lodges into target; deals +d8 Dmg each turn for Encounter; requires 👁️^16 Medtech check to remove or suffering extra d8 Dmg.",
+      "effect": "Weapon shot; tungsten harpoon lodges in target, dealing d8 Wnds/Rnd until removed (👁️^16 Medtech check or rip free for d8 Dmg).",
       "belongs_to": "Supplies: Tip: Tungsten Harpoon (Heavy) (mso)",
       "genres": [
         "SciFi"
@@ -34558,7 +34558,7 @@
       "name": "White-Hot Phosphorous Storm (mso)",
       "action": "A",
       "usage": "1-⚡",
-      "effect": "Rng Short; AoE 3x3; Atk 🏃 Dmg d10 fire; targets catch Fire (Dmg d6 each turn for Encounter).",
+      "effect": "Rng Short; AoE 3x3; Atk 🏃 Dmg d10 fire; targets are Burning (d6 fire Wnds/Rnd).",
       "belongs_to": "Supplies: Grenade: Incendiary (Phosphorous Core) (mso)",
       "genres": [
         "SciFi"
@@ -34639,7 +34639,7 @@
       "name": "Wooden Charm",
       "action": "F",
       "usage": "1-⚡",
-      "effect": "Break charm: ✨+5^✨ for Encounter.",
+      "effect": "Break charm: Resist✨+5^✨ for Encounter.",
       "belongs_to": "Supplies: Wooden Charm",
       "genres": [
         "Medieval",
