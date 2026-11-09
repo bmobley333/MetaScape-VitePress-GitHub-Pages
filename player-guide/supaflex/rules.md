@@ -91,7 +91,7 @@ In SupaFlex, **ONLY PLAYERS ROLL DICE**. Monsters and non-player targets never r
 
 #### 1.2.2 Bonuses Don't Stack
 
-**Master Stacking Rule —** There is a +1 bonus from holding a full Bolt ⚡ that stacks with nearly all other rolls (subject to GM discretion). ALL other bonuses, buffs, power amplifiers, and numerical modifiers DO NOT STACK unless an ability explicitly states "stacks with..." or with explicit GM approval. When multiple passive buffs or powers offer competing bonuses to the same roll or trait, the player may pick only one of them (obviously this will typically be the single highest bonus).
+**Master Stacking Rule —** All +1 Trait 🧬 bonuses and the +1 bonus from holding a full Bolt ⚡ are universal stacking and stack with everything (including each other, Powers 🔥, Exotics 🧿, Artifacts 🔮, and gear modifiers; Bolt ⚡ remains subject to GM discretion). ALL other bonuses, buffs, power amplifiers, and numerical modifiers DO NOT STACK unless an ability explicitly states "stacks with..." or with explicit GM approval. When multiple non-stacking buffs or powers offer competing bonuses to the same roll, the player may pick only one of them (obviously this will typically be the single highest bonus).
 
 ### 1.3 Advantage & Disadvantage
 
@@ -1768,7 +1768,7 @@ Every SupaFlex term and abbreviation in one A–Z list. Each heading shows the �
 
 #### Traits 🧬 (§2.3)
 
-* **Trait(s) 🧬:** Inherent biological rules, physiological boons, and archetype perks. Traits are always active (passive) and use a Free (F) action.
+* **Trait(s) 🧬:** Inherent biological rules, physiological boons, and archetype perks. Traits are always active (passive) and use a Free (F) action. Any +1 bonus granted by a Trait 🧬 is universal stacking and stacks with everything.
 
 #### Tremendous 🌟 (§1.5)
 
