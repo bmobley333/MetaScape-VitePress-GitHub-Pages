@@ -130,7 +130,7 @@ Index of purchasable Gear Powers (🧿) and treasure Artifacts (🔮) derived fr
 | 1-Enc | P | **GyroLock** | GyroLock | Atk(-10) Rnd 1; then cumulative Atk(+5) Rnd 2+ if target MR≤10. Rifle/cannon stabilizer. |
 | 2-Enc | P | **Gyroscopic Weapon Stabilization (mso)** | Gyroscopic Stabilizer (mso) | Mounted weapon; +2 Atk on Shot Atk. |
 | 1-Rnd | F | **Hand-D** | Hand-D | Store or retrieve 1 item; instant draw/store Act(F) via mini-transporter band. |
-| 1-⚡ | A | **Harp of Discord** | Harp of Discord | AoE 8r; ✨^🚩 or lose turn this Rnd. |
+| 1-⚡ | A | **Harp of Discord** | Harp of Discord | AoE 8r; ✨^🚩 or lose all actions this Rnd. |
 | 1-⚡ | P | **Clarity** | Helm of Clarity | See through illusions for Encounter. |
 | 2-Enc | P | **Higgs Band** | Higgs Band | Str(✨)^Atk/Str or pulled to ground's gravitational drop zone. |
 | 2-Enc | P | **Stasis Object Capture (mso)** | Holo Camera (mso) | Rng Short; captures non-living object in stasis. |
@@ -415,7 +415,7 @@ Index of purchasable Gear Powers (🧿) and treasure Artifacts (🔮) derived fr
 | **8g 50s** | 2-Enc | P | **Hover Drone Escort (mso)** | Pod, Personal Hover (mso) | Rng Long; hover drone follows user; 👣 10. |
 | **35s** | 1-Enc | P | **Toxin Neutralization (Common) (mso)** | Poison Antidote (Common) (mso) | Rng Touch; removes Poisoned; neutralizes biological toxins. |
 | **1g 75s** | 2-Enc | A | **Choking Neurotoxin (mso)** | Poison: Choking (Blade Reservoir) (mso) | Weapon hit or contact; 🫀^🫀 or target throat constricts (unable to speak; -2 to all checks). |
-| **2g 25s** | 1-⚡ | A | **Suffocating Calamorian Cloud (mso)** | Poison: Choking (Milc-Ti Dose) (mso) | Rng Short; 3x3; gas cloud; 🫀^🫀 or target Suffocating (takes d8 Dmg each turn; can only gasp for air). |
+| **2g 25s** | 1-⚡ | A | **Suffocating Calamorian Cloud (mso)** | Poison: Choking (Milc-Ti Dose) (mso) | Rng Short; 3x3; gas cloud; 🫀^🫀 or target Suffocating (takes d8 Dmg each Rnd; can only gasp for air). |
 | **3g 50s** | 1-⚡ | F | **Kryllian Acidic Liquefaction (mso)** | Poison: Corrosive (Acidic Core) (mso) | On weapon hit: target is Poisoned (d8 acid Wnds/Rnd) and suffers AR-2. |
 | **2g 75s** | 2-Enc | F | **Corrosive Tissue Burn (mso)** | Poison: Corrosive (Blade Reservoir) (mso) | On weapon hit: target is Poisoned (d6 acid Wnds/Rnd) and suffers AR-1. |
 | **3g 50s** | 1-Enc | A | **Cardiac Neuro-Shock (mso)** | Poison: Death (Blade Reservoir) (mso) | Weapon hit; 🫀^🫀 or target Stunned and loses d8 Vit. |

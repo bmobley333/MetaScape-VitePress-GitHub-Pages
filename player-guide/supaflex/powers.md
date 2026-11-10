@@ -66,7 +66,7 @@ Select one of the many sub-sets of powers such as Class👤, Race🧬, Combat St
 | 2-Enc | P | **Berserk (mso)** | Primal rage; +2 Atk 💪 Dmg d💪; cannot distinguish friend from foe. |
 | 1-Enc | P | **High Death Threshold (mso)** | Death Checks start at -10 Vit |
 | 2-Enc | F | **Machine Ascension Conditioning (mso)** | Adv(👁️, 💪, Cyberware, 🫀) |
-| 1-⚡ | P | **Regeneration (mso)** | Regain 1 Vit at start of each turn for Encounter. |
+| 1-⚡ | P | **Regeneration (mso)** | Regain 1 Vit at start of each Rnd for Encounter. |
 
 ### 👤 **Destron (mso) Powers** (4 Abilities)
 
@@ -137,7 +137,7 @@ Select one of the many sub-sets of powers such as Class👤, Race🧬, Combat St
 
 | Usage | Action | Name | Effect |
 | --- | --- | --- | --- |
-| 1-Rnd | P | **Aura of Warding** | Allies nearby gain +1 AR+ until next turn. |
+| 1-Rnd | P | **Aura of Warding** | Allies nearby gain +1 AR+ until next Rnd. |
 | 1-Enc | P | **Beacon of Hope** | All allies gain +1 to Resist✨ fear✨. |
 | 1-⚡ | A | **Bless** | One ally gains +1 to all rolls for Encounter. |
 | 1-Enc | P | **Chill Vibes** | Allies regain 1 Vit when resting neAR+you. |
@@ -607,7 +607,7 @@ Select one of the many sub-sets of powers such as Class👤, Race🧬, Combat St
 | 1-⚡ | M | **Shadow Beast** | Summon shadow beast: Night Raven: MR(18) fly, Dod ✨+2 AR d✨-1, Vit(✨-1), Stealth(✨+2)). |
 | 1-⚡ | A | **Shredding Cyclone** | Up to 3 Atk 💪 Dmg d💪 distributed among in-range targets as desired. |
 | 1-Enc | F | **Unyielding Rage** | Heal 🫀-2 1st Deg Wnds; all sqs cost MR(1) unless extreme terrain: Immune to Fear/Stun/Slow/Paralysis/Hold/Poisons/Disease. |
-| 1-⚡ | A | **Vengeance Claw** | AoE 1r; Atk 💪 Dmg d💪 targeting all foes who attacked you since your last turn. |
+| 1-⚡ | A | **Vengeance Claw** | AoE 1r; Atk 💪 Dmg d💪 targeting all foes who attacked you since your last Rnd. |
 
 ### 👤 **Warrior - Cursed Spartan Powers** (17 Abilities)
 
@@ -1012,7 +1012,7 @@ Select one of the many sub-sets of powers such as Class👤, Race🧬, Combat St
 | Combat | 1-Enc | P | **Fearless (mso)** | Immune to fear; +3 to 🫀 Willpower checks. |
 | Combat | 1-Enc | F | **Flowing Assault** | After slaying a foe; immediately make off-hand Opportunity Atk. |
 | Combat | 1-Enc | AM | **Flying Kick** | Jump up to 👣 and strike; Atk & Dmg with Advantage. |
-| Combat | 1-🍀 | F | **Fortunate Timing** | take turn immediately even if before your 🚩. |
+| Combat | 1-🍀 | F | **Fortunate Timing** | take Rnd immediately even if before your 🚩. |
 | Combat | 1-⚡ | AM | **Ghost Walk (mso)** | +Self; become insubstantial and phase through solid barriers; phased this Rnd. |
 | Combat | 2-Enc | P | **Glow Globe (mso)** | Rng Short; floating light sphere; illuminates room. |
 | Combat | 1-Enc | F | **Guard Swap** | Swap weapon or stance; no P cost. |
@@ -1057,7 +1057,7 @@ Select one of the many sub-sets of powers such as Class👤, Race🧬, Combat St
 | Combat | 2-Enc | P | **Mind Probe (mso)** | Rng Touch; 👁️^👁️ to read surface thoughts. |
 | Combat | 2-Enc | P | **Minor Telepathy (mso)** | Rng Long; 2-way mental communication. |
 | Combat | 1-Rnd | P | **Mirror Guard** | Block with both weapons: Dod+2 for 1 Rnd. |
-| Combat | 1-Enc | A | **Molecular Diffusion** | Pass through solid objects (walls, etc.). If still in object at end of turn: 🫀^Dif or suffer d10 Wnds and rematerialize at start. |
+| Combat | 1-Enc | A | **Molecular Diffusion** | Pass through solid objects (walls, etc.). If still in object at end of Rnd: 🫀^Dif or suffer d10 Wnds and rematerialize at start. |
 | Combat | 1-Enc | P | **Molecular Diffusion (mso)** | Phase through solid walls up to 2 sq. |
 | Combat | 2-Enc | P | **Move and Attack (mso)** | Split move: move 👣 before and after Atk. |
 | Combat | 2-Enc | P | **Move Object (mso)** | Rng Medium; telekinetically move unrestrained object 👣 (= to 👁️ die) up to (👁️ die x 20 lbs). |
@@ -1138,7 +1138,7 @@ Select one of the many sub-sets of powers such as Class👤, Race🧬, Combat St
 | Combat | 1-Enc | P | **Wall of Steel** | Blk+2 this Rnd; MR is 0 this Rnd. |
 | Combat | 1-Enc | AM | **Wall Run Kick** | Run along wall/obstacle up to 👣; normal Atk & Dmg on landing. |
 | Combat | 1-Enc | P | **Wealthy (mso)** | Access extensive credit lines and high-tier gear. |
-| Combat | 2-Enc | P | **Weapon & Board** | If you hit with a weapon on your last turn: Atk+1 and Def+1 for 1 Rnd. |
+| Combat | 2-Enc | P | **Weapon & Board** | If you hit with a weapon on your last Rnd: Atk+1 and Def+1 for 1 Rnd. |
 | Combat | 1-Enc | P | **Weapon Control** | On successful Atk; 🏃 disarms target. |
 | Combat | 2-Enc | P | **Weapon Mastery** | If you attacked last rnd with same weapon; Atk+2 and Dmg+2 this rnd. |
 | Combat | 1-⚡ | A | **Whirling Dance** | Make separate Atk & Dmg rolls targeting 2 adjacent foes. |

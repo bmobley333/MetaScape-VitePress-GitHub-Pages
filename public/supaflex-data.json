@@ -5534,7 +5534,7 @@
       "name": "Aura of Warding",
       "usage": "1-Rnd",
       "action": "P",
-      "effect": "Allies nearby gain +1 AR+ until next turn.",
+      "effect": "Allies nearby gain +1 AR+ until next Rnd.",
       "created_at": "2026-08-13T21:26:29.251053+00:00",
       "genres": [
         "Medieval",
@@ -10403,7 +10403,7 @@
       "name": "Fortunate Timing",
       "usage": "1-🍀",
       "action": "F",
-      "effect": "take turn immediately even if before your 🚩.",
+      "effect": "take Rnd immediately even if before your 🚩.",
       "created_at": "2026-08-13T21:26:29.436163+00:00",
       "genres": [
         "Medieval",
@@ -14064,7 +14064,7 @@
       "name": "Molecular Diffusion",
       "usage": "1-Enc",
       "action": "A",
-      "effect": "Pass through solid objects (walls, etc.). If still in object at end of turn: 🫀^Dif or suffer d10 Wnds and rematerialize at start.",
+      "effect": "Pass through solid objects (walls, etc.). If still in object at end of Rnd: 🫀^Dif or suffer d10 Wnds and rematerialize at start.",
       "created_at": "2026-08-13T21:26:29.621594+00:00",
       "genres": [
         "Medieval",
@@ -16574,7 +16574,7 @@
       "name": "Regeneration (mso)",
       "usage": "1-⚡",
       "action": "P",
-      "effect": "Regain 1 Vit at start of each turn for Encounter.",
+      "effect": "Regain 1 Vit at start of each Rnd for Encounter.",
       "created_at": "2026-09-05T23:12:15.498894+00:00",
       "genres": [
         "SciFi"
@@ -21603,7 +21603,7 @@
       "name": "Vengeance Claw",
       "usage": "1-⚡",
       "action": "A",
-      "effect": "AoE 1r; Atk 💪 Dmg d💪 targeting all foes who attacked you since your last turn.",
+      "effect": "AoE 1r; Atk 💪 Dmg d💪 targeting all foes who attacked you since your last Rnd.",
       "created_at": "2026-08-13T21:26:29.912709+00:00",
       "genres": [
         "Medieval",
@@ -22109,7 +22109,7 @@
       "name": "Weapon & Board",
       "usage": "2-Enc",
       "action": "P",
-      "effect": "If you hit with a weapon on your last turn: Atk+1 and Def+1 for 1 Rnd.",
+      "effect": "If you hit with a weapon on your last Rnd: Atk+1 and Def+1 for 1 Rnd.",
       "created_at": "2026-08-13T21:26:29.990524+00:00",
       "genres": [
         "Medieval",
@@ -26871,14 +26871,14 @@
       "name": "Harp of Discord",
       "action": "A",
       "usage": "1-⚡",
-      "effect": "AoE 8r; ✨^🚩 or lose turn this Rnd.",
+      "effect": "AoE 8r; ✨^🚩 or lose all actions this Rnd.",
       "belongs_to": "Supplies: Harp of Discord",
       "genres": [
         "Medieval",
         "Modern",
         "SciFi"
       ],
-      "notes": "Plays a dissonant, jarring chord that forces all enemies within 8 squares to be overwhelmed, forfeiting their turn for the round.",
+      "notes": "Plays a dissonant, jarring chord that forces all enemies within 8 squares to be overwhelmed, forfeiting their Rnd.",
       "created_at": "2026-09-03T20:14:29.977879+00:00",
       "tier": null,
       "owner": "Designer"
@@ -26982,23 +26982,6 @@
       "owner": "Designer"
     },
     {
-      "id": 192,
-      "name": "Healing",
-      "action": "P",
-      "usage": "1-⚡",
-      "effect": "Heal self d✨.",
-      "belongs_to": "Supplies: Potion of Healing",
-      "genres": [
-        "Medieval",
-        "Modern",
-        "SciFi"
-      ],
-      "notes": "Potion of Healing is engineered with high-durability composite materials for reliable field operations.",
-      "created_at": "2026-09-03T20:14:29.977879+00:00",
-      "tier": null,
-      "owner": "Designer"
-    },
-    {
       "id": 36,
       "name": "Healing",
       "action": "A",
@@ -27011,6 +26994,23 @@
         "SciFi"
       ],
       "notes": "Amulet of Healing is engineered with high-durability composite materials for reliable field operations.",
+      "created_at": "2026-09-03T20:14:29.977879+00:00",
+      "tier": null,
+      "owner": "Designer"
+    },
+    {
+      "id": 192,
+      "name": "Healing",
+      "action": "P",
+      "usage": "1-⚡",
+      "effect": "Heal self d✨.",
+      "belongs_to": "Supplies: Potion of Healing",
+      "genres": [
+        "Medieval",
+        "Modern",
+        "SciFi"
+      ],
+      "notes": "Potion of Healing is engineered with high-durability composite materials for reliable field operations.",
       "created_at": "2026-09-03T20:14:29.977879+00:00",
       "tier": null,
       "owner": "Designer"
@@ -27547,7 +27547,7 @@
       "genres": [
         "SciFi"
       ],
-      "notes": "Active homing missile tracking target across turns.",
+      "notes": "Active homing missile tracking target across Rnds.",
       "created_at": "2026-09-05T16:42:21.85638+00:00",
       "tier": null,
       "owner": "Designer"
@@ -32090,7 +32090,7 @@
         "Modern",
         "SciFi"
       ],
-      "notes": "Produces a cascade of mesmerizing iridescent bubbles that completely disorients a single foe, denying their turn for the round.",
+      "notes": "Produces a cascade of mesmerizing iridescent bubbles that completely disorients a single foe, denying their Rnd.",
       "created_at": "2026-09-03T20:14:29.977879+00:00",
       "tier": null,
       "owner": "Designer"
@@ -33037,7 +33037,7 @@
       "name": "Suffocating Calamorian Cloud (mso)",
       "action": "A",
       "usage": "1-⚡",
-      "effect": "Rng Short; 3x3; gas cloud; 🫀^🫀 or target Suffocating (takes d8 Dmg each turn; can only gasp for air).",
+      "effect": "Rng Short; 3x3; gas cloud; 🫀^🫀 or target Suffocating (takes d8 Dmg each Rnd; can only gasp for air).",
       "belongs_to": "Supplies: Poison: Choking (Milc-Ti Dose) (mso)",
       "genres": [
         "SciFi"
@@ -33241,21 +33241,6 @@
       "owner": "Designer"
     },
     {
-      "id": 526,
-      "name": "Talon Snare & Reel",
-      "action": "A",
-      "usage": "1-Enc",
-      "effect": "Rng Short; Atk 🏃 Dmg d🏃 (Dmg is optional); 💪^💪 or target Restrained; pull target 2 sq",
-      "belongs_to": "Weapon: Taoon (mso)",
-      "genres": [
-        "SciFi"
-      ],
-      "notes": "Spring-loaded talons clamp shut on impact, allowing the wielder to snare and haul the target via retrieval cord.",
-      "created_at": "2026-09-05T23:12:36.368543+00:00",
-      "tier": null,
-      "owner": "Designer"
-    },
-    {
       "id": 572,
       "name": "Talon Snare & Reel",
       "action": "A",
@@ -33269,6 +33254,21 @@
       ],
       "notes": "Tethered cord lets the wielder reel in a snared victim.",
       "created_at": "2026-10-01T00:51:31.793349+00:00",
+      "tier": null,
+      "owner": "Designer"
+    },
+    {
+      "id": 526,
+      "name": "Talon Snare & Reel",
+      "action": "A",
+      "usage": "1-Enc",
+      "effect": "Rng Short; Atk 🏃 Dmg d🏃 (Dmg is optional); 💪^💪 or target Restrained; pull target 2 sq",
+      "belongs_to": "Weapon: Taoon (mso)",
+      "genres": [
+        "SciFi"
+      ],
+      "notes": "Spring-loaded talons clamp shut on impact, allowing the wielder to snare and haul the target via retrieval cord.",
+      "created_at": "2026-09-05T23:12:36.368543+00:00",
       "tier": null,
       "owner": "Designer"
     },
@@ -37924,7 +37924,7 @@
         "SciFi"
       ],
       "discipline": "General",
-      "notes": "Short of Initiative. Nish is the per round turn order for characters and GM ran monsters and NPCs",
+      "notes": "Short of Initiative. Nish is the per Rnd action order for characters and GM ran monsters and NPCs",
       "created_at": "2026-08-28T21:04:18.034287+00:00",
       "owner": "Designer",
       "sets": [
@@ -61754,7 +61754,7 @@
       "genres": [
         "SciFi"
       ],
-      "notes": "Ancient artifacts of a vanished alien race, possibly the Aerolk. Moves user into an alternate plane of existence, phasing them in and out. The user takes actions normally, then vanishes and becomes immune to attacks for the rest of the round, reappearing at the start of the next round. Lasts as long as a d6 check beats the number of phased turns; recharges in 8 hours.",
+      "notes": "Ancient artifacts of a vanished alien race, possibly the Aerolk. Moves user into an alternate plane of existence, phasing them in and out. The user takes actions normally, then vanishes and becomes immune to attacks for the rest of the round, reappearing at the start of the next round. Lasts as long as a d6 check beats the number of phased Rnds; recharges in 8 hours.",
       "pic": null,
       "domain": "Tech",
       "path": null,
@@ -61770,7 +61770,7 @@
       "genres": [
         "SciFi"
       ],
-      "notes": "Shifts user into an alternate dimension (similar to Ghost Walk), though the user cannot see, hear, or sense anything while transported. The user moves in any horizontal direction and reappears in normal space when deactivated. Direction and distance traveled must be verbally described, and the GM determines final location. Users must avoid materializing inside solid matter. Recharges once per hour. Shift lasts as long as a d10 check exceeds total turns shifted.",
+      "notes": "Shifts user into an alternate dimension (similar to Ghost Walk), though the user cannot see, hear, or sense anything while transported. The user moves in any horizontal direction and reappears in normal space when deactivated. Direction and distance traveled must be verbally described, and the GM determines final location. Users must avoid materializing inside solid matter. Recharges once per hour. Shift lasts as long as a d10 check exceeds total Rnds shifted.",
       "pic": null,
       "domain": "Tech",
       "path": null,
@@ -61786,7 +61786,7 @@
       "genres": [
         "SciFi"
       ],
-      "notes": "Creates an interdimensional shift similar to Ghost Walk, though the user cannot see, hear, or sense anything while shifted. The user moves horizontally and reappears back in their own dimension at the corresponding relative coordinates. Direction and distance traveled must be verbally described; the GM determines rematerialization position. Can walk between ships in vacuum or phase through barriers. Recharges once per hour. Shift lasts as long as a d6 check (with Advantage if skilled in Navigation) exceeds total turns shifted.",
+      "notes": "Creates an interdimensional shift similar to Ghost Walk, though the user cannot see, hear, or sense anything while shifted. The user moves horizontally and reappears back in their own dimension at the corresponding relative coordinates. Direction and distance traveled must be verbally described; the GM determines rematerialization position. Can walk between ships in vacuum or phase through barriers. Recharges once per hour. Shift lasts as long as a d6 check (with Advantage if skilled in Navigation) exceeds total Rnds shifted.",
       "pic": null,
       "domain": "Tech",
       "path": null,
@@ -62049,7 +62049,7 @@
       "genres": [
         "SciFi"
       ],
-      "notes": "A stellarnite 'pet' that pours into small openings or 3D shapes, molds to them, and returns to normal. Memorizes up to 5 geometric forms (keyways, fingerprints). Enters locks to decode mechanisms within d3 turns, picking locks with an 🏃12 check (or granting Adv(Pick Locks 🏃)). Needs no food or water, but requires small objects for entertainment and enjoys basking in sunshine.",
+      "notes": "A stellarnite 'pet' that pours into small openings or 3D shapes, molds to them, and returns to normal. Memorizes up to 5 geometric forms (keyways, fingerprints). Enters locks to decode mechanisms within d3 Rnds, picking locks with an 🏃12 check (or granting Adv(Pick Locks 🏃)). Needs no food or water, but requires small objects for entertainment and enjoys basking in sunshine.",
       "pic": null,
       "domain": "Tech",
       "path": null,
@@ -62435,7 +62435,7 @@
       "genres": [
         "SciFi"
       ],
-      "notes": "Clamps onto rifles and cannons to dampen recoil and stabilize tracking. Imposes a -10 penalty on the first turn of aiming. Afterward, the targeting computer locks onto the target (if target 👣 is 10 or less) and provides a cumulative aiming bonus of +2 per turn of consecutive attack against the same target, up to a maximum of +10. Resets if cover is used or target switches.",
+      "notes": "Clamps onto rifles and cannons to dampen recoil and stabilize tracking. Imposes a -10 penalty on the first Rnd of aiming. Afterward, the targeting computer locks onto the target (if target 👣 is 10 or less) and provides a cumulative aiming bonus of +2 per Rnd of consecutive attack against the same target, up to a maximum of +10. Resets if cover is used or target switches.",
       "pic": null,
       "domain": "Tech",
       "path": null,
@@ -63700,7 +63700,7 @@
       "genres": [
         "SciFi"
       ],
-      "notes": "Platinum-silver wire weave holding a 16-sided amber gem on the palm. Passively detects active psionic resonance within 1 sq (Dif 20). When pressed against heavy armor or structures as a full turn action, discharges a dual-pulse: a protective barrier and a massive kinetic shock dealing 2d8 structural damage. Temporarily strains psionic force abilities for 15 minutes.",
+      "notes": "Platinum-silver wire weave holding a 16-sided amber gem on the palm. Passively detects active psionic resonance within 1 sq (Dif 20). When pressed against heavy armor or structures as a full Rnd action, discharges a dual-pulse: a protective barrier and a massive kinetic shock dealing 2d8 structural damage. Temporarily strains psionic force abilities for 15 minutes.",
       "pic": null,
       "domain": "Psionics",
       "path": null,
@@ -65156,7 +65156,7 @@
       "genres": [
         "SciFi"
       ],
-      "notes": "Crown emitting searing daylight across a wide perimeter out to Long range. Sighted creatures looking at the flash must pass Save 🏃^20 or be Blinded for 1 turn (halving Atk, Def, and 👣). Operates while standing on a planetary surface at sunrise.",
+      "notes": "Crown emitting searing daylight across a wide perimeter out to Long range. Sighted creatures looking at the flash must pass Save 🏃^20 or be Blinded for 1 Rnd (halving Atk, Def, and 👣). Operates while standing on a planetary surface at sunrise.",
       "pic": null,
       "domain": "Tech",
       "path": null,
@@ -71956,7 +71956,7 @@
       "genres": [
         "SciFi"
       ],
-      "notes": "Ancient artifacts of a vanished alien race, possibly the Aerolk. Moves user into an alternate plane of existence, phasing them in and out. The user takes actions normally, then vanishes and becomes immune to attacks for the rest of the round, reappearing at the start of the next round. Lasts as long as a d6 check beats the number of phased turns; recharges in 8 hours.",
+      "notes": "Ancient artifacts of a vanished alien race, possibly the Aerolk. Moves user into an alternate plane of existence, phasing them in and out. The user takes actions normally, then vanishes and becomes immune to attacks for the rest of the round, reappearing at the start of the next round. Lasts as long as a d6 check beats the number of phased Rnds; recharges in 8 hours.",
       "pic": null,
       "domain": "Tech",
       "path": null,
@@ -71972,7 +71972,7 @@
       "genres": [
         "SciFi"
       ],
-      "notes": "Shifts user into an alternate dimension (similar to Ghost Walk), though the user cannot see, hear, or sense anything while transported. The user moves in any horizontal direction and reappears in normal space when deactivated. Direction and distance traveled must be verbally described, and the GM determines final location. Users must avoid materializing inside solid matter. Recharges once per hour. Shift lasts as long as a d10 check exceeds total turns shifted.",
+      "notes": "Shifts user into an alternate dimension (similar to Ghost Walk), though the user cannot see, hear, or sense anything while transported. The user moves in any horizontal direction and reappears in normal space when deactivated. Direction and distance traveled must be verbally described, and the GM determines final location. Users must avoid materializing inside solid matter. Recharges once per hour. Shift lasts as long as a d10 check exceeds total Rnds shifted.",
       "pic": null,
       "domain": "Tech",
       "path": null,
@@ -71988,7 +71988,7 @@
       "genres": [
         "SciFi"
       ],
-      "notes": "Creates an interdimensional shift similar to Ghost Walk, though the user cannot see, hear, or sense anything while shifted. The user moves horizontally and reappears back in their own dimension at the corresponding relative coordinates. Direction and distance traveled must be verbally described; the GM determines rematerialization position. Can walk between ships in vacuum or phase through barriers. Recharges once per hour. Shift lasts as long as a d6 check (with Advantage if skilled in Navigation) exceeds total turns shifted.",
+      "notes": "Creates an interdimensional shift similar to Ghost Walk, though the user cannot see, hear, or sense anything while shifted. The user moves horizontally and reappears back in their own dimension at the corresponding relative coordinates. Direction and distance traveled must be verbally described; the GM determines rematerialization position. Can walk between ships in vacuum or phase through barriers. Recharges once per hour. Shift lasts as long as a d6 check (with Advantage if skilled in Navigation) exceeds total Rnds shifted.",
       "pic": null,
       "domain": "Tech",
       "path": null,
@@ -72251,7 +72251,7 @@
       "genres": [
         "SciFi"
       ],
-      "notes": "A stellarnite 'pet' that pours into small openings or 3D shapes, molds to them, and returns to normal. Memorizes up to 5 geometric forms (keyways, fingerprints). Enters locks to decode mechanisms within d3 turns, picking locks with an 🏃12 check (or granting Adv(Pick Locks 🏃)). Needs no food or water, but requires small objects for entertainment and enjoys basking in sunshine.",
+      "notes": "A stellarnite 'pet' that pours into small openings or 3D shapes, molds to them, and returns to normal. Memorizes up to 5 geometric forms (keyways, fingerprints). Enters locks to decode mechanisms within d3 Rnds, picking locks with an 🏃12 check (or granting Adv(Pick Locks 🏃)). Needs no food or water, but requires small objects for entertainment and enjoys basking in sunshine.",
       "pic": null,
       "domain": "Tech",
       "path": null,
@@ -72637,7 +72637,7 @@
       "genres": [
         "SciFi"
       ],
-      "notes": "Clamps onto rifles and cannons to dampen recoil and stabilize tracking. Imposes a -10 penalty on the first turn of aiming. Afterward, the targeting computer locks onto the target (if target 👣 is 10 or less) and provides a cumulative aiming bonus of +2 per turn of consecutive attack against the same target, up to a maximum of +10. Resets if cover is used or target switches.",
+      "notes": "Clamps onto rifles and cannons to dampen recoil and stabilize tracking. Imposes a -10 penalty on the first Rnd of aiming. Afterward, the targeting computer locks onto the target (if target 👣 is 10 or less) and provides a cumulative aiming bonus of +2 per Rnd of consecutive attack against the same target, up to a maximum of +10. Resets if cover is used or target switches.",
       "pic": null,
       "domain": "Tech",
       "path": null,
@@ -73902,7 +73902,7 @@
       "genres": [
         "SciFi"
       ],
-      "notes": "Platinum-silver wire weave holding a 16-sided amber gem on the palm. Passively detects active psionic resonance within 1 sq (Dif 20). When pressed against heavy armor or structures as a full turn action, discharges a dual-pulse: a protective barrier and a massive kinetic shock dealing 2d8 structural damage. Temporarily strains psionic force abilities for 15 minutes.",
+      "notes": "Platinum-silver wire weave holding a 16-sided amber gem on the palm. Passively detects active psionic resonance within 1 sq (Dif 20). When pressed against heavy armor or structures as a full Rnd action, discharges a dual-pulse: a protective barrier and a massive kinetic shock dealing 2d8 structural damage. Temporarily strains psionic force abilities for 15 minutes.",
       "pic": null,
       "domain": "Psionics",
       "path": null,
@@ -75358,7 +75358,7 @@
       "genres": [
         "SciFi"
       ],
-      "notes": "Crown emitting searing daylight across a wide perimeter out to Long range. Sighted creatures looking at the flash must pass Save 🏃^20 or be Blinded for 1 turn (halving Atk, Def, and 👣). Operates while standing on a planetary surface at sunrise.",
+      "notes": "Crown emitting searing daylight across a wide perimeter out to Long range. Sighted creatures looking at the flash must pass Save 🏃^20 or be Blinded for 1 Rnd (halving Atk, Def, and 👣). Operates while standing on a planetary surface at sunrise.",
       "pic": null,
       "domain": "Tech",
       "path": null,
@@ -82158,7 +82158,7 @@
       "genres": [
         "SciFi"
       ],
-      "notes": "Ancient artifacts of a vanished alien race, possibly the Aerolk. Moves user into an alternate plane of existence, phasing them in and out. The user takes actions normally, then vanishes and becomes immune to attacks for the rest of the round, reappearing at the start of the next round. Lasts as long as a d6 check beats the number of phased turns; recharges in 8 hours.",
+      "notes": "Ancient artifacts of a vanished alien race, possibly the Aerolk. Moves user into an alternate plane of existence, phasing them in and out. The user takes actions normally, then vanishes and becomes immune to attacks for the rest of the round, reappearing at the start of the next round. Lasts as long as a d6 check beats the number of phased Rnds; recharges in 8 hours.",
       "pic": null,
       "domain": "Tech",
       "path": null,
@@ -82174,7 +82174,7 @@
       "genres": [
         "SciFi"
       ],
-      "notes": "Shifts user into an alternate dimension (similar to Ghost Walk), though the user cannot see, hear, or sense anything while transported. The user moves in any horizontal direction and reappears in normal space when deactivated. Direction and distance traveled must be verbally described, and the GM determines final location. Users must avoid materializing inside solid matter. Recharges once per hour. Shift lasts as long as a d10 check exceeds total turns shifted.",
+      "notes": "Shifts user into an alternate dimension (similar to Ghost Walk), though the user cannot see, hear, or sense anything while transported. The user moves in any horizontal direction and reappears in normal space when deactivated. Direction and distance traveled must be verbally described, and the GM determines final location. Users must avoid materializing inside solid matter. Recharges once per hour. Shift lasts as long as a d10 check exceeds total Rnds shifted.",
       "pic": null,
       "domain": "Tech",
       "path": null,
@@ -82190,7 +82190,7 @@
       "genres": [
         "SciFi"
       ],
-      "notes": "Creates an interdimensional shift similar to Ghost Walk, though the user cannot see, hear, or sense anything while shifted. The user moves horizontally and reappears back in their own dimension at the corresponding relative coordinates. Direction and distance traveled must be verbally described; the GM determines rematerialization position. Can walk between ships in vacuum or phase through barriers. Recharges once per hour. Shift lasts as long as a d6 check (with Advantage if skilled in Navigation) exceeds total turns shifted.",
+      "notes": "Creates an interdimensional shift similar to Ghost Walk, though the user cannot see, hear, or sense anything while shifted. The user moves horizontally and reappears back in their own dimension at the corresponding relative coordinates. Direction and distance traveled must be verbally described; the GM determines rematerialization position. Can walk between ships in vacuum or phase through barriers. Recharges once per hour. Shift lasts as long as a d6 check (with Advantage if skilled in Navigation) exceeds total Rnds shifted.",
       "pic": null,
       "domain": "Tech",
       "path": null,
@@ -82453,7 +82453,7 @@
       "genres": [
         "SciFi"
       ],
-      "notes": "A stellarnite 'pet' that pours into small openings or 3D shapes, molds to them, and returns to normal. Memorizes up to 5 geometric forms (keyways, fingerprints). Enters locks to decode mechanisms within d3 turns, picking locks with an 🏃12 check (or granting Adv(Pick Locks 🏃)). Needs no food or water, but requires small objects for entertainment and enjoys basking in sunshine.",
+      "notes": "A stellarnite 'pet' that pours into small openings or 3D shapes, molds to them, and returns to normal. Memorizes up to 5 geometric forms (keyways, fingerprints). Enters locks to decode mechanisms within d3 Rnds, picking locks with an 🏃12 check (or granting Adv(Pick Locks 🏃)). Needs no food or water, but requires small objects for entertainment and enjoys basking in sunshine.",
       "pic": null,
       "domain": "Tech",
       "path": null,
@@ -82839,7 +82839,7 @@
       "genres": [
         "SciFi"
       ],
-      "notes": "Clamps onto rifles and cannons to dampen recoil and stabilize tracking. Imposes a -10 penalty on the first turn of aiming. Afterward, the targeting computer locks onto the target (if target 👣 is 10 or less) and provides a cumulative aiming bonus of +2 per turn of consecutive attack against the same target, up to a maximum of +10. Resets if cover is used or target switches.",
+      "notes": "Clamps onto rifles and cannons to dampen recoil and stabilize tracking. Imposes a -10 penalty on the first Rnd of aiming. Afterward, the targeting computer locks onto the target (if target 👣 is 10 or less) and provides a cumulative aiming bonus of +2 per Rnd of consecutive attack against the same target, up to a maximum of +10. Resets if cover is used or target switches.",
       "pic": null,
       "domain": "Tech",
       "path": null,
@@ -84104,7 +84104,7 @@
       "genres": [
         "SciFi"
       ],
-      "notes": "Platinum-silver wire weave holding a 16-sided amber gem on the palm. Passively detects active psionic resonance within 1 sq (Dif 20). When pressed against heavy armor or structures as a full turn action, discharges a dual-pulse: a protective barrier and a massive kinetic shock dealing 2d8 structural damage. Temporarily strains psionic force abilities for 15 minutes.",
+      "notes": "Platinum-silver wire weave holding a 16-sided amber gem on the palm. Passively detects active psionic resonance within 1 sq (Dif 20). When pressed against heavy armor or structures as a full Rnd action, discharges a dual-pulse: a protective barrier and a massive kinetic shock dealing 2d8 structural damage. Temporarily strains psionic force abilities for 15 minutes.",
       "pic": null,
       "domain": "Psionics",
       "path": null,
@@ -85560,7 +85560,7 @@
       "genres": [
         "SciFi"
       ],
-      "notes": "Crown emitting searing daylight across a wide perimeter out to Long range. Sighted creatures looking at the flash must pass Save 🏃^20 or be Blinded for 1 turn (halving Atk, Def, and 👣). Operates while standing on a planetary surface at sunrise.",
+      "notes": "Crown emitting searing daylight across a wide perimeter out to Long range. Sighted creatures looking at the flash must pass Save 🏃^20 or be Blinded for 1 Rnd (halving Atk, Def, and 👣). Operates while standing on a planetary surface at sunrise.",
       "pic": null,
       "domain": "Tech",
       "path": null,
