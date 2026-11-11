@@ -277,7 +277,7 @@ Select one of the many sub-sets of powers such as Class👤, Race🧬, Combat St
 | 2-Enc | A | **Dark Surge** | Caster and 1 ally gain Advantage to Atk/Dmg OR Dod/AR. |
 | 1-⚡ | A | **Death Ray** | Ray of Sorce energy: Resist(✨+2)^🫀 or living target dies (crumbles). Living only. |
 | 2-Enc | P | **Displace** | Vanish and reappear: distance Val(✨) sq; no intervening movement. If held: Displace(✨)^Dif then roll distance. |
-| 1-Enc | P | **Displace Group** | Willing targets (including caster) vanish and reappear at chosen square within Val(✨) sq. Group arrives adjacent; facing unchanged. |
+| 1-⚡ | AM | **Displace Group** | Willing targets (including caster) vanish and reappear at chosen square within Val(✨) sq. Group arrives adjacent; facing unchanged. |
 | 1-Rnd | P | **Dissolution** | Store/Retrived a held non-living item in Wraith space. |
 | 2-Enc | P | **Door Hand** | Open or close any portal: Door Hand(✨)^Dif. |
 | 1-Rnd | F | **Echoing Whispers** | Rng Long; telepathic whisper in target's ear; bypasses all barriers. |
@@ -311,7 +311,7 @@ Select one of the many sub-sets of powers such as Class👤, Race🧬, Combat St
 
 | Usage | Action | Name | Effect |
 | --- | --- | --- | --- |
-| 1-Enc | P | **Fast Healing (mso)** | Rng Touch; restore d✨ Vit. |
+| 1-Enc | P | **Fast Healing (mso)** | Rng Touch; restore 2d✨ Vit. |
 | 2-Enc | F | **Vanguard Conditioning (mso)** | Adv(👁️, 🏃, 💪, Ranged) |
 
 ### 👤 **Martial Artist - Blade Saint Powers** (22 Abilities)
@@ -981,13 +981,13 @@ Select one of the many sub-sets of powers such as Class👤, Race🧬, Combat St
 | Combat | 2-Enc | F | **Danger Sense (mso)** | Immune to Surprise; 🚩+2. |
 | Combat | 1-⚡ | F | **Death Blow** | After dealing unarmed Dmg: 🫀^🫀 or target dies (PCs to -10 Vit). |
 | Combat | 1-Enc | A | **Death Blow (mso)** | Rng Short; Atk 🫀 Dmg d🫀; Wnds = push 1 sq. |
-| Combat | 1-Enc | A | **Death Ray (mso)** | Rng Medium; Atk ✨ Dmg d✨; Wnds = disintegrate living target. |
+| Combat | 1-⚡ | A | **Death Ray (mso)** | Ray of Sorce energy: Resist(✨+2)^🫀 or living target dies (crumbles). Living only. |
 | Combat | 1-Enc | P | **Defender’s Focus** | Gain Advantage on next Block roll. |
 | Combat | 2-Enc | P | **Defense vs Hurled (mso)** | Rng Medium; telekinetically hurl weapon with ✨. |
 | Combat | 1-Enc | P | **Defensive Flourish** | Dod+2 for 1 Rnd. |
 | Combat | 2-Enc | P | **Disarm Strike** | On hit; normal Dmg and 🏃 or target drops weapon. |
 | Combat | 1-Enc | M | **Displace (mso)** | Teleport self up to 👣 ✨. |
-| Combat | 1-⚡ | AM | **Displace Group (mso)** | Teleport self up to 👣 ✨. |
+| Combat | 1-⚡ | AM | **Displace Group (mso)** | Willing targets (including caster) vanish and reappear at chosen square within Val(✨) sq. Group arrives adjacent; facing unchanged. |
 | Combat | 2-Enc | P | **Door Hand (mso)** | Rng Medium; remotely open/close unsealed doors. |
 | Combat | 2-Enc | P | **Door Master (mso)** | Rng 1; bypass magical or electronic lock ✨^Dif. |
 | Combat | 2-Enc | P | **Double Attack (mso)** | Make 2 attacks with same weapon this Rnd. |

@@ -8018,16 +8018,16 @@
     {
       "id": 891,
       "name": "Death Ray (mso)",
-      "usage": "1-Enc",
+      "usage": "1-⚡",
       "action": "A",
-      "effect": "Rng Medium; Atk ✨ Dmg d✨; Wnds = disintegrate living target.",
+      "effect": "Ray of Sorce energy: Resist(✨+2)^🫀 or living target dies (crumbles). Living only.",
       "created_at": "2026-09-05T23:12:15.32015+00:00",
       "genres": [
         "SciFi"
       ],
       "discipline": "Sorce",
       "stat_hook": null,
-      "notes": "This power shoots a ray of pure Sorce energy, engulfing and draining a victim’s life energy. If a skill roll exceeds the victim’s Def and Vit, the victim dies and crumbles to dust, life energies completely annihilated. This enhancement works only on living targets.",
+      "notes": "Projects a concentrated beam of pure Sorce energy that engulfs and annihilates a living target's life force, reducing them to dust.",
       "owner": "Designer",
       "sets": [
         "Sorce (mso)"
@@ -8432,8 +8432,8 @@
     {
       "id": 172,
       "name": "Displace Group",
-      "usage": "1-Enc",
-      "action": "P",
+      "usage": "1-⚡",
+      "action": "AM",
       "effect": "Willing targets (including caster) vanish and reappear at chosen square within Val(✨) sq. Group arrives adjacent; facing unchanged.",
       "created_at": "2026-08-13T21:26:29.343213+00:00",
       "genres": [
@@ -8455,14 +8455,14 @@
       "name": "Displace Group (mso)",
       "usage": "1-⚡",
       "action": "AM",
-      "effect": "Teleport self up to 👣 ✨.",
+      "effect": "Willing targets (including caster) vanish and reappear at chosen square within Val(✨) sq. Group arrives adjacent; facing unchanged.",
       "created_at": "2026-09-05T23:12:15.32015+00:00",
       "genres": [
         "SciFi"
       ],
       "discipline": "Sorce",
       "stat_hook": null,
-      "notes": "Displace group transports a group of individuals from one place to another. The sorcist may displace himself and up to a number of other individuals equal to his skill’s level. For each additional individual, the enhancement’s cost increases by two. Otherwise, this enhancement works as Displace, moving the group a number of squares up to the amount of a skill roll.",
+      "notes": "Transports the sorcist and willing allies across space in an instant without crossing the intervening distance.",
       "owner": "Designer",
       "sets": [
         "Sorce (mso)"
@@ -9676,14 +9676,14 @@
       "name": "Fast Healing (mso)",
       "usage": "1-Enc",
       "action": "P",
-      "effect": "Rng Touch; restore d✨ Vit.",
+      "effect": "Rng Touch; restore 2d✨ Vit.",
       "created_at": "2026-09-05T23:12:15.498894+00:00",
       "genres": [
         "SciFi"
       ],
       "discipline": "Physical",
       "stat_hook": null,
-      "notes": "Individuals with this enhancement possess an accelerated metabolic recovery rate. They may make with disadvantage healing checks to recover wounds every two hours instead of the standard four hours.",
+      "notes": "Accelerated cellular restoration channels bio-energetic vitality directly on contact to rapidly close injuries.",
       "owner": "Designer",
       "sets": [],
       "path": [
