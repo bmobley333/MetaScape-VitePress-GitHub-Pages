@@ -25,7 +25,7 @@ Master indexed skill sets and atomic skills directory.
 | **BioTech (mso)** | 👁️ | BioTech | Bio Engineer Skills, Bio-Gunner Skills, Bio-Warrior Skills |  |
 | **Blend Into Crowds** | 🏃 | General | Streetwise, Streetwise Survival, Urban Survival, Urban Survival🎓 |  |
 | **Brewing** | 👁️ | General | Dwarven Skills |  |
-| **Bridge Officer (mso)** | 👁️ | Tech | Astrogator, Communications, Engineer, Fighter Pilot, Helm, Medic, Programmer, Scientist, Tactical |  |
+| **Bridge Officer (mso)** | 👁️ | Tech | Astrogator, Captain, Communications, Engineer, Fighter Pilot, Helm, Medic, Programmer, Scientist, Tactical, Tech |  |
 | **Carpentry** | 💪 | General | Crafting |  |
 | **Catch Object** | 🏃 | Tech | Ship Office Engineering, Magnetic Discipline |  |
 | **Catch Object (mso)** | 🏃 | Tech | Engineer, Mechanic |  |
@@ -38,13 +38,13 @@ Master indexed skill sets and atomic skills directory.
 | **Common Sense (mso)** | 👁️ | Universal | Captain, Medic, Scientist, Anthropos Skills |  |
 | **Community Lore** | 👁️ | General | Halfling Skills |  |
 | **Computer** | 👁️ | Tech | Ship Office Astrogation, Ship Office Communications, Ship Office Medic, Ship Office Programmer, Ship Office Scientist, Ship Office Tech, Spec Spy |  |
-| **Computer (mso)** | 👁️ | Tech | Programmer, Medic, Scientist, Anthropos Skills | This skill allows a character to operate most computers. It also allows a character to track down programming errors, glitches, etc., and to fix them. Normal operations require no roll; hacking or custom programming require specialized checks or the related enhancements. |
+| **Computer (mso)** | 👁️ | Tech | Anthropos Skills, Medic, Programmer, Scientist, Tech | This skill allows a character to operate most computers. It also allows a character to track down programming errors, glitches, etc., and to fix them. Normal operations require no roll; hacking or custom programming require specialized checks or the related enhancements. |
 | **Comtech** | 👁️ | Universal | Ship Office Captain, Ship Office Communications, Ship Office Programmer, Ship Office Tech |  |
-| **Comtech (mso)** | 👁️ | Universal | Captain, Communications, Programmer | Comtechs are skilled with the use of intership communication devices. They may open and close communications and maintain communication links under difficult circumstances. If communications are being jammed, a roll must be made to break through before any additional communications function may be used. |
+| **Comtech (mso)** | 👁️ | Universal | Captain, Communications, Programmer, Tech | Comtechs are skilled with the use of intership communication devices. They may open and close communications and maintain communication links under difficult circumstances. If communications are being jammed, a roll must be made to break through before any additional communications function may be used. |
 | **Concealment (mso)** | 👁️ | Covert | Spy, Thief & Covert Operations, Shanask Skills | This is the ability to conceal oneself or an item from others’ view. Concealment is rolled vs potential onlooker’s Awa. Unenhanced, a concealed character may only move one square per round without automatically being detected. |
 | **Cooking** | 👁️ | General | Halfling Skills |  |
 | **Counter Security** | 👁️ | Tech | Ship Office Programmer, Ship Office Tech, Spec Spy, Spec Thief |  |
-| **Counter Security (mso)** | 👁️ | Tech | Programmer, Spy | This skill enables a character to break through most forms of security devices and measures. This includes picking old world mechanical locks, jury rigging electronic doors, breaking security codes, and otherwise gaining entry to secured areas. |
+| **Counter Security (mso)** | 👁️ | Tech | Programmer, Spy, Tech | This skill enables a character to break through most forms of security devices and measures. This includes picking old world mechanical locks, jury rigging electronic doors, breaking security codes, and otherwise gaining entry to secured areas. |
 | **Crafting** | 💪 | General | Orc Skills, Goblin Scrapper Skills, Punk Skills |  |
 | **Create Distractions** | 👁️ | General | Streetwise, Streetwise Survival, Fairy Skills, Gnome Gadgeteer Skills, Nelf Skills, Nymph Skills, Bard Skills, Pixie Skills |  |
 | **Cure Disease** | 👁️ | General | Healing Arts, Medicine |  |
@@ -114,14 +114,6 @@ Master indexed skill sets and atomic skills directory.
 | **Intimidation** | 🫀 | General | Diplomacy, Guard Skills, Intimidation & Presence, Orc Skills, Saurian Skills, Bloodfang Berserker Skills, Punk Skills, Giant Skills |  |
 | **Invention** | 👁️ | General | Gnomish Skills |  |
 | **Jumping (mso)** | 🏃 | Physical | Athletic & Physical, DHA Assault Discipline |  |
-| **Language, Anthropian (mso)** | 👁️ | General |  | Native racial language fluency for Anthropos. |
-| **Language, Calemoran (mso)** | 👁️ | General |  | Native racial language fluency for Calemora. |
-| **Language, Catongi (mso)** | 👁️ | General |  | Native racial language fluency for Calemora. |
-| **Language, Dracan (mso)** | 👁️ | General |  | Native racial language fluency for Draca. |
-| **Language, Kryll (mso)** | 👁️ | General |  | Native racial language fluency for Kryll. |
-| **Language, Pheromonal (mso)** | 👁️ | General |  | Native racial language fluency for Kryll. |
-| **Language, Shanask (mso)** | 👁️ | General |  | Native racial language fluency for Shanask. |
-| **Language, Zin-Shee (mso)** | 👁️ | General |  | Native racial language fluency for Zin-Shee Female. |
 | **Languages** | 👁️ | General | Diplomacy, Rogue, Ship Office Communications, Spec Spy |  |
 | **Languages All (mso)** | 👁️ | Covert | Communications, Spy |  |
 | **Leadership** | 👁️ | General | Intimidation & Presence, Ship Office Captain, Ship Office Tactical, Human Skills, Warrior Skills |  |
@@ -152,7 +144,7 @@ Master indexed skill sets and atomic skills directory.
 | **Psionic Lore (mso)** | 👁️ | Psionics | Psionics Skills, Psionic Sentinel Skills |  |
 | **Psychosomatic Lore (mso)** | 👁️ | Somatics | Calemora Skills, Psychosomatics Skills |  |
 | **Raise Shields** | 💪 | Tech | Ship Office Fighter Pilot, Ship Office Helm, Ship Office Tactical, Ship Office Tech |  |
-| **Raise Shields (mso)** | 💪 | Tech | Fighter Pilot, Helm, Tactical | This skill simply allows an individual to operate a ship or vehicle’s shields. Raising shields under normal conditions does not require a skill roll. In battle or during severe cosmic turbulence, a roll may be required. Directly manipulating shields allows the character to combine(cat) their rating with the shield's AR. |
+| **Raise Shields (mso)** | 💪 | Tech | Fighter Pilot, Helm, Tactical, Tech | This skill simply allows an individual to operate a ship or vehicle’s shields. Raising shields under normal conditions does not require a skill roll. In battle or during severe cosmic turbulence, a roll may be required. Directly manipulating shields allows the character to combine(cat) their rating with the shield's AR. |
 | **Read Intent** | 👁️ | General | Awareness, Intimidation & Presence, Bulwark Discipline, Aetherblade Skills, Inner Peace Discipline, Misdirection Skills, Psionics Skills, Glamour Discipline |  |
 | **Religion** | 👁️ | General | Scholar, Bloodmarked Skills, Cursed Spartan Skills, Sun-Devoted Skills |  |
 | **Repair Armor (mso)** | 👁️ | Tech | Engineer, Mechanic, Destron Skills | Repair armor allows a character to fix personal armor such as flack jacket, marine armor, destron armor, shields, etc. Common repairs include fixing physical damage, power armor short circuits, etc. This skill does not apply to cyber armor or ship/vehicle hull armor. |
@@ -165,7 +157,7 @@ Master indexed skill sets and atomic skills directory.
 | **Repair Gear** | 💪 | Tech | Dwarven Skills, Engineering & Siegecraft, Gnomish Skills, Ship Office Scientist, Siegecraft, Goblin Scrapper Skills, Magnetic Discipline |  |
 | **Repair Hull (mso)** | 👁️ | Tech | Engineer | This skill allows characters to repair general damage to a ship or vehicle, including doors, cargo bays, and outer armor plating. It does not allow a character to fix ship systems. Repairs during combat require rolling at -3, fixing a number of Hull Points equal to the result. |
 | **Repair Station** | 💪 | Tech | Ship Office Astrogation, Ship Office Captain, Ship Office Communications, Ship Office Fighter Pilot, Ship Office Helm, Ship Office Medic, Ship Office Tech |  |
-| **Repair System (mso)** | 👁️ | Tech | Engineer, Astrogator, Captain, Communications, Programmer, Fighter Pilot, Helm, Medic, Scientist, Tactical | This skill enables a character to make repairs on any one ship or vehicle station/system (e.g. computer, science station, scanners, engines, communications, helm, tactical, or medical). Additional systems require the 'Additional System' enhancement. |
+| **Repair System (mso)** | 👁️ | Tech | Astrogator, Captain, Communications, Engineer, Fighter Pilot, Helm, Medic, Programmer, Scientist, Tactical, Tech | This skill enables a character to make repairs on any one ship or vehicle station/system (e.g. computer, science station, scanners, engines, communications, helm, tactical, or medical). Additional systems require the 'Additional System' enhancement. |
 | **Repair Weapon (mso)** | 👁️ | Martial | Archer, Pistolier, Blaster Expert, Carbinier, Pulse Laser Expert, Rifle Expert, Starborn Ranger Skills, Bio-Gunner Skills | Repair weapon allows a character to fix personal weapons such as swords, pistols, cannons, etc. Common repairs include fixing jams, short circuits, and power pack malfunctions. Heavier weapons, including vehicle- and ship-class weapons, are related rolls. Does not apply to cybernetic weapons. |
 | **Resist Charm** | ✨ | General | Elven Skills, Fairy Skills, Bloodmarked Skills, Nymph Skills, Inner Peace Discipline, Bard Skills, Psionic Sentinel Skills, Glamour Discipline |  |
 | **Resist Death** | 🫀 | General |  | Defying mortal trauma and death checks at 0 Vitality or below (🫀^-Vit+5). At Vit 0 the check is 🫀^5; at Vit -8 it is 🫀^13. |
@@ -182,11 +174,11 @@ Master indexed skill sets and atomic skills directory.
 | **Rune-Engraving** | ✨ | Physical | Engineering & Siegecraft, Siegecraft |  |
 | **Running (mso)** | 🏃 | Physical | Athletic & Physical, DHA Assault Discipline |  |
 | **Sailing** | 👁️ | General | Sailing |  |
-| **Scanners (mso)** | 👁️ | Tech | Astrogator, Communications, Medic, Programmer, Scientist, Tactical, Vessel Operations, Starborn Ranger Skills | This skill allows an individual to operate all types of scanners. Any use of scanners requires a skill roll. The operator asks the GM a single, precise yes/no question. If scanners are being jammed, the operator must first roll to break through the jamming before scanning. |
+| **Scanners (mso)** | 👁️ | Tech | Astrogator, Communications, Medic, Programmer, Scientist, Starborn Ranger Skills, Tactical, Tech, Vessel Operations | This skill allows an individual to operate all types of scanners. Any use of scanners requires a skill roll. The operator asks the GM a single, precise yes/no question. If scanners are being jammed, the operator must first roll to break through the jamming before scanning. |
 | **Scanners/Sensors** | 👁️ | General | Ship Office Astrogation, Ship Office Communications, Ship Office Fighter Pilot, Ship Office Helm, Ship Office Medic, Ship Office Programmer, Ship Office Scientist, Ship Office Tactical, Ship Office Tech |  |
 | **Scavenging** | 👁️ | General | Goblin Skills, Punk Skills |  |
 | **Security Systems (mso)** | 👁️ | Covert | Thief & Covert Operations |  |
-| **Sensors (mso)** | 👁️ | Tech | Astrogator, Fighter Pilot, Helm, Programmer, Scientist, Tactical, Starborn Ranger Skills | This skill enables a character to use all types of sensors. Unlike scanners, sensors are preset to detect some phenomenon or condition and alert the crew automatically. The GM has the player roll when the parameters of the sensor setting have occurred in the vicinity. |
+| **Sensors (mso)** | 👁️ | Tech | Astrogator, Fighter Pilot, Helm, Programmer, Scientist, Starborn Ranger Skills, Tactical, Tech | This skill enables a character to use all types of sensors. Unlike scanners, sensors are preset to detect some phenomenon or condition and alert the crew automatically. The GM has the player roll when the parameters of the sensor setting have occurred in the vicinity. |
 | **Shields (mso)** | 👁️ | Tech | Vessel Operations |  |
 | **Ship Gunner (mso)** | 👁️ | Tech | Fighter Pilot, Helm, Tactical | Gunners may shoot all fixed position guns on board a ship. A gunner’s attack roll is equal to his or her skill rating combined(cat) with the ship’s Atk rating. Damage is equal to the ship’s Dmg rating. Due to slightly different controls, firing vehicle guns with this skill is a related roll. |
 | **Ship Power (mso)** | 👁️ | Tech | Captain, Engineer, Fighter Pilot, Helm, Vessel Operations | Powering up a ship requires a Tech roll vs the ship's rating; those with this skill can power up any familiar type of ship automatically. This skill also governs the redirection and transfer of power from one system to another (e.g. engines to shields, increasing AR but lowering MR). |
@@ -219,9 +211,9 @@ Master indexed skill sets and atomic skills directory.
 | **Tracking** | 🏃 | Physical | Elven Skills, Scout, Spec Survivalist, Bloodfang Berserker Skills, Verdant Sentinel Skills |  |
 | **Tracking (mso)** | 🏃 | Physical | Survivalist, Kryll Skills, Mutak Skills | Tracking allows a character to follow another individual or an animal by observing tracks, disturbances in vegetation, or odors. Tracking can be done in any environment, but hard surfaces (rock, concrete) increase difficulty dramatically (Dif 20-30). Difficulty typically doubles for each hour elapsed. |
 | **Tractor/Repulsor Beam** | 💪 | Tech | Ship Office Engineering, Ship Office Tech, Magnetic Discipline |  |
-| **Tractor/Repulsor Beam (mso)** | 💪 | Tech | Engineer | This skill allows an individual to operate a tractor or repulsor beam on a ship or vehicle. The character’s skill rating is combined(cat) with the beam's rating to determine accuracy and hold strength. |
+| **Tractor/Repulsor Beam (mso)** | 💪 | Tech | Engineer, Tech | This skill allows an individual to operate a tractor or repulsor beam on a ship or vehicle. The character’s skill rating is combined(cat) with the beam's rating to determine accuracy and hold strength. |
 | **Transporter** | 👁️ | Tech | Ship Office Engineering, Ship Office Scientist, Ship Office Tech |  |
-| **Transporter (mso)** | 👁️ | Tech | Engineer, Scientist | This skill gives a character the ability to operate any type of transporter. Under ordinary conditions, no rolls are needed to use a transporter. In combat, at extreme ranges, or under heavy atmospheric interference, a skill check vs a GM-assigned Dif is required. |
+| **Transporter (mso)** | 👁️ | Tech | Engineer, Scientist, Tech | This skill gives a character the ability to operate any type of transporter. Under ordinary conditions, no rolls are needed to use a transporter. In combat, at extreme ranges, or under heavy atmospheric interference, a skill check vs a GM-assigned Dif is required. |
 | **Underground Lore** | 👁️ | General | Dwarven Skills, Geomancer Skills |  |
 | **Vehicle Gunner (mso)** | 👁️ | Martial | Tactical, Bio-Gunner Skills, Marine Skills, DHA Assault Discipline | Vehicle gunners are skilled in firing vehicle-mounted weapons. Firing ship-class guns with this skill is considered a related roll. Accuracy is determined by combining(cat) the skill with the vehicle's weapon rating. |
 | **Vehicle Power (mso)** | 👁️ | Tech | Engineer, Mechanic | Personal sized and street vehicles can be powered on by nearly any character without difficulty. Powering up large combat transports usually requires a Tech roll. Vehicle power allows characters to power up any familiar vehicle without rolling and manage power transfers. |
@@ -262,7 +254,7 @@ Master indexed skill sets and atomic skills directory.
 | **Bloodmarked Skills** | ✨ Detect Enchantments, ✨ Resist Charm, 👁️ Empathy, 👁️ History, 👁️ Lore, 👁️ Religion, 👁️ Resist Mental |
 | **Bulwark Discipline** | 👁️ Awareness, 👁️ Read Intent, 👁️ Taunt, 💪 Feats Of Strength, 🫀 Resist Pain/Fear |
 | **Calemora Skills** | 👁️ Awareness, 👁️ Psychosomatic Lore (mso), 💪 Feats Of Strength, 💪 Stonecraft, 🫀 Resist Pain/Fear |
-| **Captain** | 👁️ Common Sense (mso), 👁️ Comtech (mso), 👁️ Repair System (mso), 👁️ Ship Power (mso), 👁️ Social Status (mso), 🫀 Dominate (mso) |
+| **Captain** | 👁️ Bridge Officer (mso), 👁️ Common Sense (mso), 👁️ Comtech (mso), 👁️ Repair System (mso), 👁️ Ship Power (mso), 👁️ Social Status (mso), 🫀 Dominate (mso) |
 | **Carbinier** | 👁️ Repair Weapon (mso) |
 | **Communications** | 👁️ Bridge Officer (mso), 👁️ Comtech (mso), 👁️ Detect Lie (mso), 👁️ Empathy (mso), 👁️ Enhanced Hearing (mso), 👁️ Fast Talk (mso), 👁️ Languages All (mso), 👁️ Repair System (mso), 👁️ Scanners (mso) |
 | **Covert** | 🫀 Gambling (mso) |
@@ -364,7 +356,7 @@ Master indexed skill sets and atomic skills directory.
 | **Survival** | 🏃 Hunt, 👁️ ID Plants, 🫀 Resist Weather, 🫀 Survival |
 | **Survivalist** | ✨ Falling (mso), 🏃 Climbing (mso), 🏃 Swimming (mso), 🏃 Tracking (mso), 👁️ Danger Sense (mso), 👁️ First Aid (mso), 🫀 Survival (mso) |
 | **Tactical** | 👁️ Bridge Officer (mso), 👁️ Cloak (mso), 👁️ Danger Sense (mso), 👁️ Demolitions (mso), 👁️ Fearless (mso), 👁️ Repair System (mso), 👁️ Scanners (mso), 👁️ Sensors (mso), 👁️ Ship Gunner (mso), 👁️ Vehicle Gunner (mso), 💪 Damage Control (mso), 💪 Raise Shields (mso), 🫀 Interrogate (mso) |
-| **Tech** | 👁️ Repair ATM (mso) |
+| **Tech** | 👁️ Bridge Officer (mso), 👁️ Computer (mso), 👁️ Comtech (mso), 👁️ Counter Security (mso), 👁️ Repair ATM (mso), 👁️ Repair System (mso), 👁️ Scanners (mso), 👁️ Sensors (mso), 👁️ Transporter (mso), 💪 Raise Shields (mso), 💪 Tractor/Repulsor Beam (mso) |
 | **Thief & Covert Operations** | 🏃 Stealth (mso), 🏃 Theft (mso), 👁️ Concealment (mso), 👁️ Infiltration (mso), 👁️ Security Systems (mso), 🫀 Interrogation (mso) |
 | **Thievery** | 🏃 Climbing, 🏃 Detect/Remove Traps, 🏃 Pick Locks, 🏃 Pickpockets, 🏃 Stealth |
 | **Thievery🎓** | 🏃 Climbing, 🏃 Detect/Remove Traps, 🏃 Pick Locks, 🏃 Pickpockets, 🏃 Stealth |
