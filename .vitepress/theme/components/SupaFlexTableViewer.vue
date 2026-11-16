@@ -332,7 +332,7 @@ const selectCategoryTab = (tab) => {
       <!-- OVERVIEW DASHBOARD VIEW -->
       <div v-if="activeTab === 'overview'" class="overview-dashboard">
         <div class="dashboard-hero">
-          <h2>🌌 SupaFlex System Reference Catalog</h2>
+          <h2>🎲 SupaFlex System Reference Catalog</h2>
           <p>Select a category below to explore powers, magical treasures, and skill set options for your characters.</p>
         </div>
 
